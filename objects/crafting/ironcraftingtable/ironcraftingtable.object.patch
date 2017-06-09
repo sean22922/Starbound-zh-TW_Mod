@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "鐵匠台"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "沉重的手藝活啊！"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以在這個工作台上鍛造十分精緻的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;鐵匠台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是用來打鐵等鍛造工作的工作台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個工作台可以鍛造多樣的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個工作台可以用來鍛造裝備"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，這是一個鐵匠台。比木頭的工作台好多了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我對自己動手可不陌生。我們來吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鐵匠台可以用來鍛造一些不錯的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不錯的鐵匠台。比木頭的工作台好多了"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/speciesText/default/buttonText",
+  "value" : "男爵城堡"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/repeatButtonText",
+  "value" : "重返男爵城堡"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/selectSpeech/text",
+  "value" : "看來那件機器人文物是屬於某個偏僻行星上一座小石堡的主人的"
+} ]

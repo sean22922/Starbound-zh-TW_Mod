@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個機器上執行著一個叫做\"迷宮邊界64\"的遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷宮邊界64"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不是迷宮邊界粉絲，我聽說過迷你克諾格測試的恐怖故事，迷宮讓我心驚膽戰"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "迷宮邊界64是翼族人團隊開發的，翼族人製作的電玩遊戲並不多……也許我該造一些"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人認為迷宮邊界64太無聊了，裡面連一點肉都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "決定了。我會逃離這個地獄迷宮並最終打敗迷宮邊界64！8/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "迷宮邊界64是地球上最早的電玩遊戲的雛形，非常有意思"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在灰暗的走廊中前進，遠離自由……迷宮邊界64在簡單中透著美"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "迷宮邊界64？迷宮這玩意是浪費時間"
+} ]

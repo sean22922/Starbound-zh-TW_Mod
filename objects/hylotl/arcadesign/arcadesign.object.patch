@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個商店標誌。或許附近有個商場"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "拱形標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個商場！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個遊樂中心。好開心！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "商場！葉族人喜歡贏！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。一個娛樂商場"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我喜歡商場！買買買！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "嗯，我也很久沒去過了，一定很有意思！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "商場？"
+} ]

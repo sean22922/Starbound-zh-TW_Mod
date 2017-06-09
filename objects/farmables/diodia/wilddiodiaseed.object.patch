@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黃銅薯。吃起來有股銅鏽味的軟根蔬菜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃銅薯種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "黃銅薯不是最好吃的東西，但是他們很容易生長"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一種像是堅果的黃銅薯，嚐起來和堅果完全不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嚐起來像血，葉族人感覺黃銅薯挺好吃的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "侮辱。不喜歡黃銅薯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像馬鈴薯，味道卻像銅錢。這不是個好的交易品"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個黃銅薯。非常適合再加些作料"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "吃起來有股銅鏽味的黃銅薯是機器人的天敵"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "定製的公告板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "標示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "好的公共標示對所有市民都很必要"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "最早的葉族字體已經隨時間消失了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "字字字"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思。標識牌就像是最原始的交互界面"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "標識牌一般都是一些很重要的信息，或者一些糟糕的雙關語"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我以前覺得這個和鯨族人的字沒得比，不過現在不一樣了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些標識"
+} ]

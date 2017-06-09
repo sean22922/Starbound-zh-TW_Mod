@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "畫著落石的警示牌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "落石標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌清楚的標明了不穩定的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "警示落石的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "意指不穩定的石頭的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。也許這意味著這區域不安全？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "落石。為什麼洞穴就不能安全一次？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許這藝術家打算警告別人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就要注意前面的落石"
+} ]

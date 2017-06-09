@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個無名氏之墓，墓石上雕刻有墓主的形象"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕像墓石"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個褪色的墓石，相當古老"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "制式墓碑。這些真是又老又多"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用花朵的成長來紀念亡者"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，墓碑快破碎了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個非常古老的墓石。上面的銘文大部分都已經模糊不清"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "比起這個來，亡者應該得到更多的尊重"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個老墓碑是某人的墳墓"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "入侵的觸手"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者的觸手"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "防毒胸甲，可以擋住外圍的污染"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "有毒上衣"
+} ]

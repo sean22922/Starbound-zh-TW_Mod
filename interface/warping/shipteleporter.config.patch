@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/destinations/0/name",
+  "value" : "傳送下去"
+}, {
+  "op" : "replace",
+  "path" : "/destinations/0/planetName",
+  "value" : "目前的環繞世界"
+} ]

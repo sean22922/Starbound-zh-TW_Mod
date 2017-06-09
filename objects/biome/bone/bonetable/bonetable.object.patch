@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個讓人毛骨悚然的骨頭桌子。看起來更像一個用來祭祀的祭壇。適合用於野餐"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨頭桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個骨頭桌沒有太多放腳空間"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這讓我想起了祭壇，我寧願忘記我"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想在桌子上切肉，桌子似乎準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇，桌子的表面有刀痕，有些還很可怕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷！一個令人毛骨悚然的桌子。這正是我一直想要的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "源自死亡的桌子。毫無疑問，很多鮮肉在這被消耗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去更像是詭異的骨頭變形"
+} ]

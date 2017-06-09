@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這套頭巾和麵具給人以叛亂的印象"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "叛軍的頭巾"
+} ]

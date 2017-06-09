@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "現在你已經有了我們需要的工藝配件。 ^green;製作葉族^orange;<craftedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族需要^orange;<craftedItems>。^green; 它們可以用^orange;<ingredients>來製作。 ^white;你能幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "專注。現在手上有工作了，^green;你必須為我製作出^orange;<craftedItems>^white;。你已經有了所需材料^orange;<ingredients>^white;，麻煩你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "擔心。這一點我不是很有把握。我創造力匱乏，^green;你能代表我來製作出^orange;<craftedItems>？^white;你可以使用我們早先得到的^orange;<ingredients>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "接下來你需要^green;組裝^orange;<craftedItems>^white;。你可以^green;使用早先收集到的 ^orange;<ingredients>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "下一步需要^green;把^orange;<craftedItems>^white;組裝到一起。我本來打算自己做的，但我的手工水準很糟糕！如果你想試試，所有需要的東西都已經準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "製作得太專業了，<player>！現在葉族又有一個請求"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "<craftedItems>會很有用的。葉族感謝你製作了它們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "高興。你的手工水準真是棒極了！以後我還找你做"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "如釋重負。等待總是苦悶的，但我的計劃總算可以繼續了，謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "哇哦，組裝得真不錯。謝謝你，它一定會在我的計劃中發揮作用的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "你看起來很輕鬆地就完成了！我在想你是不是之前做過手工。我們總算可以繼續了，謝謝！"
+} ]

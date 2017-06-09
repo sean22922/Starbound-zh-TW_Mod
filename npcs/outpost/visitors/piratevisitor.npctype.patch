@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "呦吼吼，迎來拘禁生活了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "當我不再相信庫魯克斯我就上了一個飛船。在船上真是快樂的日子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "新鮮空氣，自由，那才是我想要的生活！"
+} ]

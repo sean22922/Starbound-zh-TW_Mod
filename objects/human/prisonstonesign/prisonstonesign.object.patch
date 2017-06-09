@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "USCM嗎？我可不想成為他們的犯人之一"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "USCM流放設施標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是對USCM權威性的一種張揚的展示"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "再也不用擔心有人不知道誰是這地方的老大了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "名字很短的大石頭。葉族人要起一個符合名號的名字！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這石頭似乎來自一個古老的墓地。可能被詛咒了！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這牌子讓我非常害怕。看起來又冷又荒蕪"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "USCM再次大聲地刷著自己的存在感"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這看起來是個大墓碑。對一些人來說是"
+} ]

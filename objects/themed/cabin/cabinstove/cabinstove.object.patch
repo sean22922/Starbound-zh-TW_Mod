@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座別緻的金屬爐灶，非常適合用來烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艙內爐灶"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 小屋爐灶"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "木火烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有時，最簡單的加熱方法就是最好的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我覺得這明火用來烤堅果挺合適吧應該？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在灼熱的火邊會很小心嘶……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平和狀。這火很基礎，然而撫慰人心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個老式火爐！有誰想來點棉花糖嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這不是生產熱能的最有效方式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "相比坐在火堆旁，我有更多有意義的事去做"
+} ]

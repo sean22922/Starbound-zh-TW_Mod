@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滑翻車魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠們絲綢般光滑的奇怪皮膚以及發春時的尖叫聲使牠們變成受歡迎的寵物"
+} ]

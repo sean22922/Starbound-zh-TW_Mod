@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鳥嘴豆和乾玉米，是翼族人經常留下的蹤跡，也可以作為早餐麥片"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥嘴玉米濃湯"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "vineclimber",
-  "category" : "vineclimber",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "vineclimber.png"
-  }
-}

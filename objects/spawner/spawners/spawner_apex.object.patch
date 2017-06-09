@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的猿人村民！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿人召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這能讓我召喚我的一位子民"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個猿人自動販賣機。不同尋常"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "神奇猴子人現身吧！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人深思。這些大批量產的生物有靈魂嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷，一架猴子機器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我為什麼會想要生一個猿人？"
+} ]

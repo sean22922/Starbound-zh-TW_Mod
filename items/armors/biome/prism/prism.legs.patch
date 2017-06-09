@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在這個舒服的熱褲子裡被烤焦吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱晶褲子"
+} ]

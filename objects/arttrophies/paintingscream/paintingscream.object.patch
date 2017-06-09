@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅令人難忘的話，描繪一個正在尖叫的人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "尖叫畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "無聲的尖叫……我的人能看得出來"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這就是不去瞭解庫魯克斯的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人從我們獵殺的每一個人裡看到這張臉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "讓人焦慮。這個人看來被嚇壞了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在想這個尖叫的人在看向哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這幅畫更寧靜點就好多了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "哇，這傢夥看起來要失去它了。他要放鬆"
+} ]

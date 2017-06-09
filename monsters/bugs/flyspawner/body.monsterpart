@@ -1,9 +1,0 @@
-{
-  "name" : "flyspawner",
-  "category" : "flyspawner",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "flyspawner.png"
-  }
-}

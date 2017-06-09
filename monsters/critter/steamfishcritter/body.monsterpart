@@ -1,9 +1,0 @@
-{
-  "name" : "steamfishcritter",
-  "category" : "steamfishcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為庫魯克斯定製的大師工藝級王冠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族王座"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個布滿了雕刻的王座。看上去很華麗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個占星師的王座。每個占星師都受命保護一座神廟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族的王座對於葉族人來說是很棒的戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同意。機器人領主也坐在王座上"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個石頭王座。聽起來挺押韻的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張王座看起來很不舒服，也不怎麼用，也許僅僅是權力的象徵而已吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張椅子用石頭做成的，好像很不舒服啊"
+} ]

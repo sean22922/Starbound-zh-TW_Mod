@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "恐怖的護腿，可以提供宇宙中最好的襠部防護"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑騎士腿甲"
+} ]

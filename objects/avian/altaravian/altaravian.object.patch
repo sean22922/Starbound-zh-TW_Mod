@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個翼族人頭的雕像在神壇上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人頭祭壇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用我不認識的符號裝飾的金色翼族人祭壇"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在這個年頭只有星際占星師可以讀懂這些符號。他們翻譯的祕密已經遺失了。紅色的眼鏡是種警告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的翼族人。你身體在哪？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。這個翼族人雕像栩栩如生啊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望這種符號沒有什麼重要的意義"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "紅眼睛讓我想起了我的兄弟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這座雕像有點像翼族人"
+} ]

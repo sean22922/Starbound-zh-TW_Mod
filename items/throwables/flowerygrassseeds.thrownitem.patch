@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "花草種子"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "把它們撒進耕過的地裡面來種植花草！"
+} ]

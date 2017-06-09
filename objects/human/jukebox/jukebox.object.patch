@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個點唱機好棒！但音樂似乎不多"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "點唱機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "令人愉快的音樂盒。不過只有一支樂隊的歌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個自動唱機可以盪滌哪怕最陰暗的靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "吵鬧的東西。葉族人不明白有什麼用！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好帥。我開始情不自禁的跟著音樂跳舞了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦天吶，這是我最愛的專輯！太空變得更搖滾了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "人類音樂不像鮫人的那樣細節豐富"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這調子我不熟悉，但不難聽"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一組監視器顯示從監控攝影機傳回的影像。注意超自然活動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "監控攝影機站"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我敢肯定我看見有人從這些螢幕上顯示的某個角落消失了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我感覺像是個偷窺狂"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "那麼多螢幕。它們都那麼無聊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "偵查：我確定有一個攝影機出現了故障"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "其中的一個螢幕就顯示著我在看這些螢幕的實時監控"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是個不錯的入侵計劃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個監測站"
+} ]

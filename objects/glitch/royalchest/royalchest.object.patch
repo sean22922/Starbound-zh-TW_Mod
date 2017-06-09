@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這箱子身就是一個寶藏，更別說裡面的東西了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇家箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "箱子本身似乎很值錢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "使用木頭和金子做的精緻的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡看漂亮的寶箱裡面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。雖然皇室的房間都有層層把守，但貴族對他們的珍貴物品還是十分謹慎"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個裝飾很好的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金子不會讓這個箱子有多安全"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "箱子上鍍金頗有點此地無銀的意思"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "提高你的彈跳力的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "跳躍增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "跳躍"
+} ]

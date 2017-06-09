@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "普通的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "簡單的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "長椅"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "座位"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。長椅"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "長椅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個簡單的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來休息的地方"
+} ]

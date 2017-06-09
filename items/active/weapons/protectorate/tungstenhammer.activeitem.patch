@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很重，效果拔群"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢製大錘"
+} ]

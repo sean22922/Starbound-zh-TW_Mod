@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/title",
+  "value" : "星之子"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/description",
+  "value" : "星之子是一種神祕的宇宙氣囊種族。他們沒有固定的根據地和記錄歷史。他們是一種揮發性存在，不受過去所困擾。沒有人知道他們是什麼東西或者來自何方"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/0",
+  "value" : "氣體顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/1",
+  "value" : "髮型"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/2",
+  "value" : "襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/3",
+  "value" : "褲子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/5",
+  "value" : "品牌"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/6",
+  "value" : "襯衫顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/7",
+  "value" : "褲子顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/8",
+  "value" : "星之子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/9",
+  "value" : "性格"
+} ]

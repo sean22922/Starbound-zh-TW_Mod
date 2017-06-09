@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最好食用，也可以用來扔人臉？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "香蕉奶油派"
+} ]

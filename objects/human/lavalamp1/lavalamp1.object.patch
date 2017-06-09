@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "令人入迷，我眼睛挪不開了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熔岩燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有催眠效果的燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這燈命令我看著它"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這燈是活著的嗎？它裡面在動！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冷靜。這液體活動的樣子挺好看的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我想起了做過的噩夢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "液體的起起伏伏讓我思鄉了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這燈讓我覺得好奇怪"
+} ]

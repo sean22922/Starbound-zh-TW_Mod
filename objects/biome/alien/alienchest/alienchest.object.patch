@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "外星人的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星人的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我希望箱子是用金屬做的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個外星箱子，碰上去感覺很暖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紫箱子裡滿是葉族的餐點？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感激，真是充滿生機的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這箱子是什麼做的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這箱子的材料我不認識，會是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個紫色箱子"
+} ]

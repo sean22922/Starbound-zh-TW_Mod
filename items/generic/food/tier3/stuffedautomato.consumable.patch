@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "嚐起來像塞滿了番茄一樣，但是一定當心不要把牙齒給咬掉了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機械番茄包子"
+} ]

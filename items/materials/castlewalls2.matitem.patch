@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小石板，完美的細節製作材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小石磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "有趣。這些石塊似乎都由一塊石頭切下來的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "這些石塊很小"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些從岩石切下來的石塊"
+} ]

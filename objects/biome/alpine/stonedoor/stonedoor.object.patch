@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇由鵝卵石鋪成的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石頭門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿族對密門很熟悉"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "偽裝得很好的門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牆進，牆出，葉族喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "贊成，對自然材料的熟練運用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在鵝卵石室裡這扇門真是容易藏起來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "最大的祕密在這裡顯而易見"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我路上有一塊石頭"
+} ]

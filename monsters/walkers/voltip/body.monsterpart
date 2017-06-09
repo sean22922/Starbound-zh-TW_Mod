@@ -1,9 +1,0 @@
-{
-  "name" : "voltip",
-  "category" : "voltip",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "voltip.png"
-  }
-}

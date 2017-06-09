@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個碗櫃擺放的井然有序，但是看起來卻不夠結實"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的碗櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我打賭在壁櫥裡有一些骷髏"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有什麼東西在裡面嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "保存"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。裡面也許有物品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個看起來很圓滑的碗櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我應該看一些裡面"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "咱們看看裡面"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個寶箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寶箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "古典寶箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裝滿寶藏的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "保存寶物的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "激動。一個寶箱！裡面會有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一個寶箱。不過裡面有寶藏嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用木頭和金屬製成的箱子。看起來用過了而且有點舊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個寶箱！真是走運！"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件杜拉鋼裙舒適無比"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貓頭鷹裙子"
+} ]

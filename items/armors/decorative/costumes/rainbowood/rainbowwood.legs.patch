@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這褲子在走的時候發出悅耳的木聲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩虹木褲"
+} ]

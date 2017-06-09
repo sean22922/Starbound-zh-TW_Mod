@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保護者組織學院所使用的舞台幕布"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者組織舞台幕布"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "美妙的窗簾。豪華"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "哦，哇，這窗簾感覺像蓬鬆的雲彩似的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "軟軟的窗簾。葉族人喜歡摸摸"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震驚。至少可以說這種材料獨一無二"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些窗簾很軟！我可以睡在這裡，靠在上面"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "豪華的窗簾，由最好的材料製成"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些窗簾看著很時髦。我想知道它是由什麼做的"
+} ]

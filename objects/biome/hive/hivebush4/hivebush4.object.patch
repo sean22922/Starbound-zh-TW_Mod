@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一枚奇形怪狀的卵鞘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂卵鞘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這肯定是這裡的什麼生物的卵囊"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來像是卵囊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "蛋？？？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這好像是居住在這個生物群落中的某種生物的卵囊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是卵囊嗎？我可不想吃那些蛋"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個卵囊的樣子可真是奇怪！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那個是卵囊嗎？真是……扭曲啊"
+} ]

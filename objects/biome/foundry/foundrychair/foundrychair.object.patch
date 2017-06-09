@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把沉重的金屬椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沉重的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把椅子好像是鑄造廠的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把工業用的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機械椅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。一把令人高興的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒有椅墊就坐上去的話應該會很涼吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子像是被回收的機械"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "厲害！看起來像是機械的椅子！"
+} ]

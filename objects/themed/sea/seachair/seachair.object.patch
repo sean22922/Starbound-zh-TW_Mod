@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "貝殼狀的扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貝殼椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把漂亮的由巨大貝殼製成的時髦椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我想知道以前是怎樣的海洋生物住在這個貝殼裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "貝殼可以做成好椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這椅子是由巨大的蚌殼做成的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有人用巨大的蚌殼做成了這把時髦的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個漂亮的貝殼卻被用來做成這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一把用巨大蚌殼做成的堅固的椅子"
+} ]

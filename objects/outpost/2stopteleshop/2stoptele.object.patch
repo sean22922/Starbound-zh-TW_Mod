@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個傳送器十分不錯而且還會提供一個便利的返回點！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "兩站傳送商店傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "要是我標記了這個傳送器我就可以從其他傳送器直接過來"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個運作中的傳送器！要是我標記它的話我就可以從不同的傳送器那直接過來"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "也是葉族人標記了這個傳送器葉族人可以從其他傳送機器那直接回到這！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "熱切。標記這個傳送器的話我應該能夠從其他傳送器那裡直接過來！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "傳送器！要是我標記的話我應該能夠隨時從其他傳送器那回來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "傳送器。要是我標記的話我應該可以從其他傳送器那過來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "通過標記這個傳送器我能夠在找到其他傳送器的情況下直接傳送過來"
+} ]

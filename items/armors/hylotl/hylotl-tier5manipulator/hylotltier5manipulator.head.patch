@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "狹小的面罩和堅固的菲洛合金外殼，這個頭盔的防禦力很強"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗礁頭盔"
+} ]

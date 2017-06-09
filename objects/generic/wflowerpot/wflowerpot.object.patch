@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個壺裡有一朵美麗的白花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "白色的花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一朵漂亮的白花"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種花的氣味非常的香"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "花聞起來很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞。純白的花瓣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "它看起來像是生長過於茂盛的雛菊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "白色代表了和平鮫人的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一朵雅緻的雛菊"
+} ]

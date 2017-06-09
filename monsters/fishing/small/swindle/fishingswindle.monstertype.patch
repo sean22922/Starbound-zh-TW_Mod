@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "假鮟鱇"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "使用頭上的燈光來引誘獵物，是魚類中的混蛋"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來規避法律再合適不過了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "逃犯褲子"
+} ]

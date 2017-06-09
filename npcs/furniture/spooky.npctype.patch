@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這身嚇人的衣服是葉族做的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "穿上這身衣服，我可以在捕獵時嚇住獵物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "你知道我花了多少像素來刷黑漆嗎！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "我的衣服太嚇人了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "穿上這身衣服，你能看出我是葉族嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "穿嚇人的衣服，人們才會尊重葉族！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "在黑暗中這身衣服會嚇到你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "我的家也許很嚇人，但葉族絕對是好人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "你覺得葉族的怪衣服怎樣？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "葉族花了很多像素來刷黑漆！"
+} ]

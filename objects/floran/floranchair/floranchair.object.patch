@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "祖先的骨頭編織的最簡單的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "最簡單的骨頭與木頭做的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族人的傢俱裡的骨頭是葉族人身上的嗎？葉族人有骨頭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人從不浪費骨頭，就算最小的部分"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冷漠：典型的葉族人式設計"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "骨頭看起來很鋒利。我討厭坐在這把椅子上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子裡的骨頭……葉族人真的很喜歡死亡的氣息啊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我並不認為這把椅子本來就是要造成那麼尖的樣子的"
+} ]

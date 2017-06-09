@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "變成球體並在液體中快速移動！^green;[F]"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "水生球體"
+} ]

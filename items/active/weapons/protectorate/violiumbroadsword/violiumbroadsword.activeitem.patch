@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "維奧合金加固的劍柄中的能量源投射出邪惡的能量劍刃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "維奧合金闊劍"
+} ]

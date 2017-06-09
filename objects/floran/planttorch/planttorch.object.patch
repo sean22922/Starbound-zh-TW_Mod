@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個火炬被一層植物包裹著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "植物火把"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個燃燒的火把，固定在一棵植物上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "纏繞著這個火把的植物並沒有被火焰所燒焦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用特殊植物來保存火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真有意思，這個火把是由一棵不會燃燒的植物所做出來的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真不敢相信造出這個火把的植物竟然燒不起來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個植物上面肯定有一些組織在給這個火把助燃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "讓這個火把維持燃燒的同時自己卻沒被燒掉，這是怎麼做到的？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊皮質屏風，葉族煮食所用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "套上皮革的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格政府禁止一切形式的屏風和隱私"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張皮革屏風似乎吸收了許多的血液"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在屏風後面準備食品，這驚、驚呆了其他葉族人。更、更大的驚喜意味著更多的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這塊屏風上的血跡顯示它是用來遮掩煮食的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這塊屏風後面有一袋袋的動物殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些皮革屏風後面是怎麼樣的屠宰場啊？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這塊屏風上留有強烈的血腥味和懸掛的內臟"
+} ]

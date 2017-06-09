@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件舒適的T恤，上面有地球保護者組織的商標"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護地T恤衫"
+} ]

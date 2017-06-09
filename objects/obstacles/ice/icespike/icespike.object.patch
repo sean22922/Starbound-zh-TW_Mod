@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我可不想落在這些上面……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰凌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個鋒利的尖，是冰做的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些冰看起來像剃刀一樣鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不但鋒利而且還尖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心：鋒利的冰可能會劃破電子人的外殼"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我最好還是不要碰這個了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我會儘量不去碰這些東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好尖銳的樣子，我準備好隨時扯呼！"
+} ]

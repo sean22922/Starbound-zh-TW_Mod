@@ -1,0 +1,7097 @@
+[ {
+  "op" : "replace",
+  "path" : "/greeting/default/default/0",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/0",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/1",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/2",
+  "value" : "你好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/3",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/4",
+  "value" : "希望你一起順利，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/5",
+  "value" : "老大猿在盯著你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/6",
+  "value" : "希望你擁有美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/7",
+  "value" : "很高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/8",
+  "value" : "有什麼可以幫您的？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/9",
+  "value" : "你好，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/10",
+  "value" : "你好，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/11",
+  "value" : "歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/12",
+  "value" : "歡迎你，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/13",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/14",
+  "value" : "請等一會"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/15",
+  "value" : "你好啊，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/16",
+  "value" : "你好啊，陌生人，歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/17",
+  "value" : "你好，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/18",
+  "value" : "最近過得怎樣"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/19",
+  "value" : "祝你擁有美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/20",
+  "value" : "有什麼我可以為您效勞的，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/21",
+  "value" : "很高興見到你，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/22",
+  "value" : "祝你擁有美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/23",
+  "value" : "請不要拘束，就像在自己家一樣"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/24",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/25",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/26",
+  "value" : "你好，很高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/27",
+  "value" : "還好麼。我的朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/28",
+  "value" : "你好啊，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/apex/default/29",
+  "value" : "你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/0",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/1",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/2",
+  "value" : "謝謝你的來訪"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/3",
+  "value" : "遇到你真是好極了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/4",
+  "value" : "願和平追隨你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/5",
+  "value" : "願你尋覓到和平"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/6",
+  "value" : "見到你真是好極了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/7",
+  "value" : "很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/8",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/9",
+  "value" : "希望和平追隨你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/10",
+  "value" : "願你擁有寧靜"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/11",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/12",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/13",
+  "value" : "歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/14",
+  "value" : "歡迎您再來"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/15",
+  "value" : "祝你擁有愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/16",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/17",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/18",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/19",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/20",
+  "value" : "祝您健康"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/21",
+  "value" : "祝你幸福"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/22",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/23",
+  "value" : "非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/24",
+  "value" : "歡迎，年輕的旅行者"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/25",
+  "value" : "歡迎旅行者"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/26",
+  "value" : "祝你旅途順利"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/27",
+  "value" : "一路順風"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/28",
+  "value" : "向你致以熱烈的問候"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/hylotl/default/29",
+  "value" : "你好，年輕的旅行者"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/0",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/1",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/2",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/3",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/4",
+  "value" : "很高興認識你!"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/5",
+  "value" : "很高興結交了一個新朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/6",
+  "value" : "你能過來真是好極了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/7",
+  "value" : "見到你很高興"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/8",
+  "value" : "你好。很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/9",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/10",
+  "value" : "你好，歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/11",
+  "value" : "你好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/12",
+  "value" : "我能為你做點什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/13",
+  "value" : "歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/14",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/15",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/16",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/17",
+  "value" : "你好!"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/18",
+  "value" : "好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/19",
+  "value" : "嘿"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/20",
+  "value" : "嘿！新朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/21",
+  "value" : "一切都好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/22",
+  "value" : "日安！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/23",
+  "value" : "你好，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/24",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/25",
+  "value" : "嘿！很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/26",
+  "value" : "你看起來很友好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/27",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/28",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/avian/default/29",
+  "value" : "嗨！你好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/0",
+  "value" : "怎麼啦？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/1",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/2",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/3",
+  "value" : "近來如何？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/4",
+  "value" : "怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/5",
+  "value" : "喲!"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/6",
+  "value" : "嘿，很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/7",
+  "value" : "嘿，怎麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/8",
+  "value" : "哦，怎麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/9",
+  "value" : "你這人似乎不錯"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/10",
+  "value" : "謝謝你過來！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/11",
+  "value" : "很高興見到你，夥計"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/12",
+  "value" : "嘿，很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/13",
+  "value" : "很高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/14",
+  "value" : "很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/15",
+  "value" : "怎麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/16",
+  "value" : "嘿"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/17",
+  "value" : "嘿！歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/18",
+  "value" : "好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/19",
+  "value" : "哦嘿！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/20",
+  "value" : "你還好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/21",
+  "value" : "你還好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/22",
+  "value" : "兄弟你還好吧？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/23",
+  "value" : "歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/24",
+  "value" : "最近在忙什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/25",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/26",
+  "value" : "見到你真高興"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/27",
+  "value" : "近來如何？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/28",
+  "value" : "最近怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/human/default/29",
+  "value" : "嘿，怎麼啦？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/0",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/1",
+  "value" : "遇見你真高興，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/2",
+  "value" : "你似乎很友好嘛"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/3",
+  "value" : "行刺真有趣啊！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/4",
+  "value" : "最近怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/5",
+  "value" : "遇見你真高興！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/6",
+  "value" : "刺！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/7",
+  "value" : "葉族人歡迎陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/8",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/9",
+  "value" : "你好啊，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/10",
+  "value" : "陌生人最近怎麼樣啊？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/11",
+  "value" : "近來如何？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/12",
+  "value" : "遇見你很高興"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/13",
+  "value" : "葉族人很高興我們相遇了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/14",
+  "value" : "有什麼葉族人能幫到你的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/15",
+  "value" : "陌生人還好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/16",
+  "value" : "歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/17",
+  "value" : "遇見你很高興！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/18",
+  "value" : "葉族人很高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/19",
+  "value" : "捕獵愉快"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/20",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/21",
+  "value" : "葉族人願你捕獵愉快"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/22",
+  "value" : "你好啊朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/23",
+  "value" : "葉族人願你今日愉快"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/24",
+  "value" : "葉族人必須離開了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/25",
+  "value" : "歡迎，人類！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/26",
+  "value" : "葉族人歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/27",
+  "value" : "葉族人喜歡新朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/28",
+  "value" : "不行刺，只是打個招呼"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/floran/default/29",
+  "value" : "葉族人很高興你在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/0",
+  "value" : "熱切。問候"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/1",
+  "value" : "歡迎。我永遠歡迎新朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/2",
+  "value" : "友好。十分高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/3",
+  "value" : "興奮。耶！新朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/4",
+  "value" : "友好。很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/5",
+  "value" : "好心。歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/6",
+  "value" : "開心。新朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/7",
+  "value" : "友好。問候朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/8",
+  "value" : "歡迎。你在這裡真是太好了"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/9",
+  "value" : "好心。我可以幫到你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/10",
+  "value" : "友好。很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/11",
+  "value" : "歡迎。您好！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/12",
+  "value" : "和藹。你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/13",
+  "value" : "快樂。遇見你很高興"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/14",
+  "value" : "友好。願你享受這次來訪"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/15",
+  "value" : "親切。萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/16",
+  "value" : "友好。日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/17",
+  "value" : "寬宏大量。我能幫你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/18",
+  "value" : "冷淡。日安"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/19",
+  "value" : "殷勤。歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/20",
+  "value" : "漠然。哦，你好"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/21",
+  "value" : "妙極。哦，您好！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/22",
+  "value" : "善於交際。近來如何？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/23",
+  "value" : "舒暢。歡迎陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/24",
+  "value" : "友好。能與你交好十分榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/25",
+  "value" : "善於交際。很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/26",
+  "value" : "和藹可親。你好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/27",
+  "value" : "親切。你好，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/28",
+  "value" : "陰沉。你好……"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/glitch/default/29",
+  "value" : "快樂。歡迎，歡迎，歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/0",
+  "value" : "哦你好啊！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/1",
+  "value" : "哇遇見你真是太好了，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/2",
+  "value" : "你好，夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/3",
+  "value" : "你好嗎！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/4",
+  "value" : "我忘了……我們之前見過面嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/5",
+  "value" : "很高興見到你，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/6",
+  "value" : "你好！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/7",
+  "value" : "我叫<selfname>。見到你真是榮幸！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/8",
+  "value" : "朋友，你怎麼稱呼啊？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/9",
+  "value" : "你好啊，朋友！我叫<selfname>，你可別忘了呀！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/10",
+  "value" : "你是城裡人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/11",
+  "value" : "你好哇，新來的！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/12",
+  "value" : "能在這看到生面孔真是太好了！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/13",
+  "value" : "你好呀！我們以前見過嗎？我老是記不住人臉……"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/14",
+  "value" : "你看起來是受人尊敬的類型！"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/15",
+  "value" : "我有什麼想對你說，但又忘了……"
+}, {
+  "op" : "replace",
+  "path" : "/greeting/novakid/default/16",
+  "value" : "你們以前有放養過摩施沒有？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "我沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/0",
+  "value" : "你看起來很冷，你需要更多的體毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/1",
+  "value" : "如果我發臭了的話就告訴我。要讓這麼多毛保持乾淨太難了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/2",
+  "value" : "我其實悄悄地喜歡著香蕉，但我不喜歡迎合刻板印象"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/3",
+  "value" : "今天很難熬。也許明天會好過些"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/4",
+  "value" : "別惹麻煩。我這輩子遇上的麻煩已經夠多了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/5",
+  "value" : "我昨天一直在外面，新鮮空氣讓我很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/6",
+  "value" : "願你的一天和我的一樣順暢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/7",
+  "value" : "看見一個迷你克諾格士兵，你就垂下眼睛，手也別動"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/8",
+  "value" : "到處都是迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/9",
+  "value" : "我有時候會做大猩猩的噩夢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/10",
+  "value" : "啊！……噢抱歉——我把你認成別人了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/11",
+  "value" : "一隻棕色的香蕉——那是我唯一留在櫥櫃裡的食物"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/12",
+  "value" : "你瞧，這是真的——猿族人覺得香蕉很好吃，但那並不一定就代表我們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/13",
+  "value" : "你……你為迷你克諾格幹活嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/14",
+  "value" : "老大猿在盯著你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/15",
+  "value" : "這個\"保護者組織\"是政府組織嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/16",
+  "value" : "這裡永遠歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/17",
+  "value" : "毛好少……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/18",
+  "value" : "你會摔角嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/19",
+  "value" : "我們的種族差別沒那麼遠，也許猿族和人類還可以談戀愛呢……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/20",
+  "value" : "告訴我，太空孤獨嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/21",
+  "value" : "今晚我不能出去，我要洗我的毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/22",
+  "value" : "你看起像是能自己生存的人。那是相當不錯的技巧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/23",
+  "value" : "抱歉——我不怎麼擅長與其他種族說話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/24",
+  "value" : "你見過老大猿嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/25",
+  "value" : "老大猿在看著你。他就在你後面！我只是在開玩笑，別這麼緊張"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/26",
+  "value" : "猿族人的擁抱最好了，這是真的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/27",
+  "value" : "告訴我，朋友，太空中有香蕉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/28",
+  "value" : "迷你克諾格只會越來越糟，你知道的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/29",
+  "value" : "我不確定我們該不該交談"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/30",
+  "value" : "我對偉大的老大猿最為忠誠"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/31",
+  "value" : "你為什麼到這裡來，你在尋找什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/32",
+  "value" : "明天又是新的一天了。提醒你，從某個節點來說昨天也是，而那可算不上好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/33",
+  "value" : "我正在試著記憶我需要學的那首迷你克諾格歌——什麼，什麼，吉兆規則……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/34",
+  "value" : "我正在儲存食物，這樣的話我生日的時候就可以來個香蕉聖代了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/35",
+  "value" : "你覺得老大猿是什麼樣子的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/36",
+  "value" : "覆蓋在我們身上的陰影"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/37",
+  "value" : "我剛剛採訪了迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/38",
+  "value" : "你在保護者組織？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/39",
+  "value" : "我昨晚做了個香蕉奶油派的夢。我到現在還在流口水呢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/40",
+  "value" : "我真的餓極了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/41",
+  "value" : "朋友，你勇敢且無畏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/42",
+  "value" : "你認識不錯的理髮師嗎？我很久沒修過鬍子了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/43",
+  "value" : "朋友，告訴我你看到的景象吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/44",
+  "value" : "你真是個麻煩精，我看得出來。倒不是說我在抱怨"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/45",
+  "value" : "想要我的建議嗎？永遠別接近正在野餐的企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/46",
+  "value" : "企鵝？它們看起來很可愛，但要是低估它們的話你就純屬犯傻了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/47",
+  "value" : "我剛剛大吃了一頓。現在是時候小睡一會兒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/48",
+  "value" : "看著不錯，朋友。我喜歡你的風格"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/49",
+  "value" : "還有許許多多別的星球。這個宇宙無比廣大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/50",
+  "value" : "你見過的那些東西我只有做夢才能看到"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/51",
+  "value" : "我一天中最喜歡的時候就是午餐時間了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/52",
+  "value" : "我在這裡有朋友。我很開心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/53",
+  "value" : "今天我要做什麼？我完全不記得了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/54",
+  "value" : "時間那麼多，要做的事那麼少"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/55",
+  "value" : "我得打個噴嚏，但不行"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/56",
+  "value" : "跟我一起吃香蕉？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/57",
+  "value" : "那些迷你克諾格護衛……可別惹他們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/58",
+  "value" : "老大猿，老大猿，永恆偉大的老大猿，我們奉獻，堅持不懈，則永不消退！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/59",
+  "value" : "跟我說說你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/60",
+  "value" : "別惹迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/61",
+  "value" : "迷你克諾格告訴我們，老大猿是有史以來最偉大的存在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/62",
+  "value" : "我的香蕉上全是蒼蠅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/63",
+  "value" : "昨天本地商店的貨架都空了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/64",
+  "value" : "你可以來這兒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/65",
+  "value" : "你是重要人物嗎？你見過老大猿沒有？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/66",
+  "value" : "我好冷，你冷嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/67",
+  "value" : "猿族人以勞動為傲。或者說，迷你克諾格讓他們以此為傲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/68",
+  "value" : "你能不能借我一個火箭發射器？我有個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/69",
+  "value" : "我能否得見一眼你的星艦內部，吾友？只看一眼就好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/70",
+  "value" : "我聽說過你們的故事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/71",
+  "value" : "你們來這兒幹什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/72",
+  "value" : "你有多強？要在這裡生存，你必須很強"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/73",
+  "value" : "別以貌取人，我就想說這個"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/74",
+  "value" : "如果沒有這層厚厚的毛髮你一定很冷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/75",
+  "value" : "對我來說又是天堂裡的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/76",
+  "value" : "我猜你一定有超棒的露營故事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/77",
+  "value" : "在我們的關係更進一步之前，請原諒我的懷疑之心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/78",
+  "value" : "世界壓力巨大，彷彿已經傾軋你身"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/79",
+  "value" : "小心，讓一下——今天我笨手笨腳的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/80",
+  "value" : "那麼，你有計劃你的下一次大冒險嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/81",
+  "value" : "放鬆，別動，別緊張。冒險之後你看上去異常疲憊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/82",
+  "value" : "日安，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/83",
+  "value" : "我沒有很多香蕉了，但我還是很高興和你分享"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/84",
+  "value" : "我之前把三明治扔哪兒了，現在找不著了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/85",
+  "value" : "我趁我兄弟睡著時颳了他的臉。他現在瞧著可笑極了。他可不怎麼高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/86",
+  "value" : "迷你克諾格無比巨大，它控制著一切"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/87",
+  "value" : "你覺得香蕉怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/88",
+  "value" : "迷你克諾格能做到許多事，但他們永遠戰勝不了同理心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/89",
+  "value" : "我有點沒法動搖你就是老大猿這想法。我一直有這種感覺"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/90",
+  "value" : "那裡一定有許多留待星際旅行者發現的寶藏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/91",
+  "value" : "最近聽說什麼好笑話了嗎？一點笑聲總是無傷大雅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/92",
+  "value" : "我打賭你一定能迅速了結怪物們，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/93",
+  "value" : "你一定非常擅長導引你的太空船"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/94",
+  "value" : "你管什麼地方叫做家園，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/95",
+  "value" : "這算什麼日子啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/96",
+  "value" : "你不喜歡說話，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/97",
+  "value" : "我想你來這裡是為了傳播和平，願幸運之神眷顧你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/98",
+  "value" : "你看著很高興啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/99",
+  "value" : "我弄丟了一個觸發器"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/100",
+  "value" : "我今晚做炸香蕉餅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/101",
+  "value" : "昨天我的鞋帶壞了，現在我沒法穿我最喜歡的鞋了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/102",
+  "value" : "生活自有其難處，但也有美好的時光，我知道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/103",
+  "value" : "我不想說話，我剛剛撞著腦袋了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/104",
+  "value" : "你擁有這樣的自由，我希望你珍惜它"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/105",
+  "value" : "你知不知道，迷你克諾格在我們的人民身上實施奇怪的罪惡實驗？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/106",
+  "value" : "抱歉，我今天沒時間講話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/generic/107",
+  "value" : "在這樣陰鬱的日子裡，看見你使我振奮了心情"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/0",
+  "value" : "你看著不像是迷你克諾格……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/0",
+  "value" : "你是我遇到的第一個人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/1",
+  "value" : "地球上發生的事對每個人來說都是噩耗"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/2",
+  "value" : "沒有留下照片，但我們的人民幾乎像是人類了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/3",
+  "value" : "別靠太近，人類。我身上有跳蚤"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/4",
+  "value" : "我聽說過很多人類的事，很多好事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/5",
+  "value" : "人類喜歡革命，是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/6",
+  "value" : "人類曾經被老大猿這樣的人統治過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/7",
+  "value" : "你們人類怎麼知道你們能做什麼，不能做什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/8",
+  "value" : "對你們種族的絕滅致以同情"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/9",
+  "value" : "很遺憾地球上發生了這樣的事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/10",
+  "value" : "地球來的人類。很高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/11",
+  "value" : "你很圓滑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/12",
+  "value" : "你的氣味很有趣，人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/13",
+  "value" : "地球是什麼樣的星球？哦……現在問這個問題還太早嗎？我的錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/14",
+  "value" : "如果我頭髮對頭的話，我就可以假扮人類了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/0",
+  "value" : "很高興見到你，我自由的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/1",
+  "value" : "也許我們之後能去拿些香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/2",
+  "value" : "你需要借把梳子嗎？只是問問"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/3",
+  "value" : "你的自由讓我快樂無比，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/4",
+  "value" : "你離開猿族的時候這麼年輕？你怎麼出來的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/5",
+  "value" : "我不介意和你分享我的香蕉。不那麼介意吧，反正"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/6",
+  "value" : "你的毛髮是如此茂盛——我希望我也能用上那麼好的洗髮水"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/7",
+  "value" : "我的朋友，你見過許多世界嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/8",
+  "value" : "你的飛船起飛的時候，是要去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/9",
+  "value" : "跟我講講你在旅途中遇到的那些人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/10",
+  "value" : "我猜你沒有享受過離開營養棒生存的樂趣吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/11",
+  "value" : "我的毛皮形貌糟糕透了，要怎麼做才能跟你的一樣好看？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/12",
+  "value" : "你最近讀過《每日果皮》嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/13",
+  "value" : "我在想我的毛髮，也許我應該把它染成你那種顏色"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/14",
+  "value" : "我是迷你克諾格守衛，你被捕了！我在開玩笑，我在開玩笑——你臉上的表情啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/0",
+  "value" : "你的羽毛給人留下了深刻的印象，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/1",
+  "value" : "我們沒那麼相似"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/2",
+  "value" : "天文學家，他們允許你離開你的族群嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/3",
+  "value" : "我可以要一根羽毛嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/4",
+  "value" : "我覺得我欠你的，我的羽毛朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/5",
+  "value" : "我在想轉換成庫魯克斯崇拜。猿族可以這麼做嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/6",
+  "value" : "羽毛會有用的——用來填墊子，做撣子……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/7",
+  "value" : "鳥類可以吃香蕉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/8",
+  "value" : "你米克諾個開始聘用翼族了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/9",
+  "value" : "我沒有食物，也沒有種子可以給你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/10",
+  "value" : "我在一個實驗室工作——我們可以做一些測試，做一些改進——也許做一個飛行的翼族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/11",
+  "value" : "你的羽毛看起來柔軟又舒適。想要抱抱"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/12",
+  "value" : "庫魯克斯？猿族不信神。我們必須相信老大猿……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/13",
+  "value" : "羽毛很難打理嗎？這樣的毛髮肯定不是開玩笑的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/14",
+  "value" : "你好啊翼族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/15",
+  "value" : "羽毛比毛髮更難保持乾淨嗎？我不知道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/16",
+  "value" : "全身都是羽毛是什麼感覺？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/17",
+  "value" : "小時候，我夢想著能飛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/18",
+  "value" : "日安，翼族朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/19",
+  "value" : "我有過一些種子，但是又沒了，我弄丟了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/20",
+  "value" : "你喜歡做飯嗎？我很喜歡翼族的美食，但在這裡沒吃到過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/21",
+  "value" : "有這麼多毛的時候，雨就是你最糟的敵人。你很幸運，擁有的是羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/22",
+  "value" : "我承認，我嫉妒你的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/23",
+  "value" : "羽毛比毛皮暖和嗎？我的衣服可不只是為了裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/24",
+  "value" : "你聽過猿族唱歌嗎？我們生來可不是搞這個的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/25",
+  "value" : "翼族一般怎麼取樂？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/26",
+  "value" : "你的羽毛讓我想起了我小時候曾經擁有的一條被子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/0",
+  "value" : "一個葉族人。哦"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/1",
+  "value" : "有一瞬間我還以為你是一叢灌木"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/2",
+  "value" : "我希望你不是來這兒捕獵的，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/3",
+  "value" : "你們有點嚇人啊。要是猿族防著你們的話，可別介意"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/4",
+  "value" : "教我捕獵吧，葉族人。我要達到一隻野獸似的大猿"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/5",
+  "value" : "你聞起來像是新鮮收割的草葉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/6",
+  "value" : "那麼，你們的物種終於整合了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/7",
+  "value" : "請別殺我，我今天忙得沒辦法死"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/8",
+  "value" : "作為一個業餘的植物學家，我很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/9",
+  "value" : "近看你也沒那麼可怕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/10",
+  "value" : "你是在微笑還是咆哮，誰能告訴我？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/11",
+  "value" : "葉族人是…你們是個美麗的種族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/12",
+  "value" : "也許你會給我來個狩獵示範？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/13",
+  "value" : "告訴我，葉族人，你的身體是哪一部分？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/14",
+  "value" : "你們比迷你克諾格跟我們講的要更文明"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/15",
+  "value" : "謝謝你，葉族人——我們的麻煩已經夠多了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/16",
+  "value" : "一個葉族人……我真的怕死了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/17",
+  "value" : "你又可怕又可愛，我喜歡這種雙重性"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/18",
+  "value" : "教教我刺傷的藝術吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/19",
+  "value" : "誰在乎別人說什麼？我覺得你是個年輕漂亮的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/20",
+  "value" : "我想知道：葉族人可以無知覺的植物溝通嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/21",
+  "value" : "所以，如果你必須選擇的話，你最喜歡的肉類是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/22",
+  "value" : "你是一個廚師嗎？或者你更喜歡你活的食物？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/23",
+  "value" : "葉族是個迷人的物種，許多猿族可能目瞪口呆"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/24",
+  "value" : "昨天，我以為我看到了地面上的一個像素，但它是個閃亮的蟲子。好吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/25",
+  "value" : "你們葉族人種水果嗎？這可是個有用的技能"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/26",
+  "value" : "我想知道，你們葉族人喜歡園藝嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/27",
+  "value" : "我可以用你的專業知識來幫幫我的盆栽植物，它們長得不是很好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/28",
+  "value" : "我在期待什麼？我不知道，但不是你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/29",
+  "value" : "哇，一個活的植物！哦，等一下，我犯蠢了……所有植物都是活的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/0",
+  "value" : "你好，機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/1",
+  "value" : "你是個有趣的機器人，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/2",
+  "value" : "我一直想要和一個機器人做夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/3",
+  "value" : "很高興見到你，小機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/4",
+  "value" : "我必須承認——我著迷於你的善良"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/5",
+  "value" : "試著別去衝撞迷你克諾格吧，機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/6",
+  "value" : "你看起來很強"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/7",
+  "value" : "你們機器人會受槍傷嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/8",
+  "value" : "每一天我都在慶幸迷你克諾格沒有製造機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/9",
+  "value" : "機器人，告訴我，迷你克諾格能篡改你的電路嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/10",
+  "value" : "機器人有領主和國王，但沒有一個像老大猿那樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/11",
+  "value" : "你的金屬外表容易打理嗎？我我想升級到這種毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/12",
+  "value" : "人們會在機器人身上做實驗嗎？我想知道你是怎麼運作的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/13",
+  "value" : "那麼，你不是個套著金屬外皮的迷你克諾格官員囉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/14",
+  "value" : "我在想如果我們猿族是機器人的話，迷你克諾格就會把它們自己安進我們的腦袋裡了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/15",
+  "value" : "機器人會睡覺嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/16",
+  "value" : "你沒有遠端聲音錄製軟體，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/17",
+  "value" : "你完全是用金屬做的嗎，我的朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/18",
+  "value" : "我聽說你們機器人都羨慕我們的毛髮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/19",
+  "value" : "為什麼你們機器人說話之前都要說個單字？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/20",
+  "value" : "我小的時候，我的朋友告訴我，他爸爸把一個機器人的腦袋打了下來。我相信這是杜撰的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/21",
+  "value" : "機器人會感覺到疼痛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/22",
+  "value" : "你怎麼吃飯呢？你那罐子裡有機器人的內臟嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/23",
+  "value" : "你曾經被閃電擊中過嗎，金屬朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/24",
+  "value" : "你是磁性的嗎？……對不起，這聽起來像搭訕似的。別擔心，我不感興趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/25",
+  "value" : "很高興遇見你，機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/0",
+  "value" : "你好，鮫族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/1",
+  "value" : "你們還在怕葉族人嗎？我們的對手離得更近"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/2",
+  "value" : "請告訴我更多鮫族人建築的事，很高興聽到美麗的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/3",
+  "value" : "魚鰭不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/4",
+  "value" : "什麼時候教教我游泳吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/5",
+  "value" : "水下不能長出香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/6",
+  "value" : "深切期盼我們猿族也能像你們鮫族一樣順滑，你們不懂什麼這麼毛茸茸的是怎樣的感受"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/7",
+  "value" : "迷你克諾格不鼓勵藝術和文學……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/8",
+  "value" : "我相信我們猿族許多代前曾有過市級圖書館，但現在都沒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/9",
+  "value" : "我沒有時間寫詩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/10",
+  "value" : "很高興見到你，魚人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/11",
+  "value" : "我希望我能體驗你們鮫族似乎已經掌握的寧靜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/12",
+  "value" : "我們大部分的書都是關於老大猿的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/13",
+  "value" : "正如我父親常說的：\"藝術不會將食物放在桌子上。\""
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/14",
+  "value" : "人們對此知之甚少，但你們鮫族的一定是偉大的工程師，才能在水下建造出城市"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/15",
+  "value" : "我只有幾本書，每一本都讀過六遍，也許是七遍"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/16",
+  "value" : "你能在海下屏住呼吸多久？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/17",
+  "value" : "我覺得你的第三隻眼睛很迷人。我想知道，我們猿族的工程師能不能也有第三隻眼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/18",
+  "value" : "鮫族人怎麼做到這麼畫畫的呢——我看過你的畫作，很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/19",
+  "value" : "沒有毛髮？你是個幸運的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/20",
+  "value" : "我游泳的時候，毛皮就會產生泡泡，讓我浮起來……想往下游就難了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/21",
+  "value" : "你這魚啊，你是和平主義者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/22",
+  "value" : "傳播和平吧，鮫族。我不會找你麻煩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/23",
+  "value" : "有鮫族老大猿嗎？也許是巨魚？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/24",
+  "value" : "我猜你不怎麼煩惱下雨吧，魚人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/25",
+  "value" : "在海洋下面是什麼感覺？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/26",
+  "value" : "鮫族可以跟魚對話嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/27",
+  "value" : "我有個笑話，\"為什麼鮫族會臉紅？\"等等，不，我覺得我接不下去了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/28",
+  "value" : "你發現過很多沉沒的寶藏嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/29",
+  "value" : "那些紅色的眼睛，真是奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/30",
+  "value" : "我聽說你們的種族是工藝大師"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/0",
+  "value" : "我從來沒有見過像你這樣的人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/1",
+  "value" : "你似乎在發光。也許醫生可以解決這個問題"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/2",
+  "value" : "你是著火了嗎，還是這就是你的樣子？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/3",
+  "value" : "什麼實驗造出了你？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/4",
+  "value" : "你像一顆燃燒的星星"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/5",
+  "value" : "你是迷你克諾格實驗的產品嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/6",
+  "value" : "你怎麼會發光呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/7",
+  "value" : "你的發光十分驚人，這是什麼原理？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/8",
+  "value" : "有機體的發光屬性十分有用"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/9",
+  "value" : "有時候發光一定很有用：沒有油的時候，或者沒電的時候"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/10",
+  "value" : "我從來沒有遇到過如此明亮的存在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/11",
+  "value" : "你很顯眼"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/12",
+  "value" : "你的光芒會褪色嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/13",
+  "value" : "你的光讓我頭痛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/14",
+  "value" : "你真漂亮，你照亮了一切"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/15",
+  "value" : "我們的迷你克諾格教科書中沒寫過你們這種類型"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/16",
+  "value" : "你在燃燒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/17",
+  "value" : "你是從哪裡來的，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/novakid/18",
+  "value" : "那是一套有趣的發光衣服。等等，這不是一套衣服嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/0",
+  "value" : "多麼忙碌的一天！我覺得現在是時候尋求安寧了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/1",
+  "value" : "很難比較自然的美麗與人造物的美麗"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/2",
+  "value" : "我所有的茶葉都潮了！怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/3",
+  "value" : "我沒法決定下一步要讀什麼，我書的清單太長了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/4",
+  "value" : "你知道有誰需要一個導師嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/5",
+  "value" : "我把書當做學習的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/6",
+  "value" : "這是退化的時代。我很高興有人有足夠的勇氣去行動"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/7",
+  "value" : "我已經完成了一些精美的小雕刻，但它們太小了，我已經弄丟了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/8",
+  "value" : "我很感激宇宙的危險被其雄奇和美麗平衡了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/9",
+  "value" : "你知道他們正在尋找古代的鮫族圖書館嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/10",
+  "value" : "我從圖書館借了17本書，讀得全神貫注；我一連讀了9天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/11",
+  "value" : "泡太久的茶好苦啊！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/12",
+  "value" : "必須直面現實時，也永遠不要低估美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/13",
+  "value" : "有時我坐在樹林裡，看著樹葉飄落——它們的舞蹈是那麼的優雅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/14",
+  "value" : "珍視你的主人，還有你的僕人。建築物必須堅實的基礎上再能站立"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/15",
+  "value" : "有時我擔心我們鮫族缺乏幽默感"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/16",
+  "value" : "藝術豐富了生存"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/17",
+  "value" : "我的水彩顏料用完了！真是災難！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/18",
+  "value" : "我會和任何拒絕和平的人鬥爭"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/19",
+  "value" : "我有很多星際政治解決方案的想法，雖然比較難以捉摸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/20",
+  "value" : "在我鮫族人的眼睛看來，你們長得很難看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/21",
+  "value" : "很高興能認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/22",
+  "value" : "請不要再瘋瘋傻傻地到處跑了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/23",
+  "value" : "你想知道一個祕密嗎？恐怕我不能告訴你，我要保密"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/24",
+  "value" : "你身上有種尊嚴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/25",
+  "value" : "我其實是個賞金獵人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/26",
+  "value" : "季節變化時，我就回到我鄉下的房子去"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/27",
+  "value" : "對不起，你說了什麼嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/28",
+  "value" : "我正在煮涼茶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/29",
+  "value" : "我相信在創造的過程中能得到強烈的成就感"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/30",
+  "value" : "你有看到我的畫筆嗎？是樺木筆桿，貂毛筆頭……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/31",
+  "value" : "當一切都過載的時候，我在詩歌中找到了避難所"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/32",
+  "value" : "追逐力量是愚蠢的。力量會毀掉一個人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/33",
+  "value" : "你閱讀過偉大的鮫族思想家的作品嗎？我經常視它為指引"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/34",
+  "value" : "能認識你真是太讓人高興了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/35",
+  "value" : "月光照在水面上，波光粼粼的樣子——好一幅美麗的光景"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/36",
+  "value" : "兩者生命差異之大難道不讓人感覺奇怪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/37",
+  "value" : "有時我會渴求隱居帶來的那種寧靜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/38",
+  "value" : "你是個練過的劍客？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/39",
+  "value" : "你有沒有試過特殊的插花技巧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/40",
+  "value" : "讓我們一起想"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/41",
+  "value" : "也許有一天我們會成為朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/42",
+  "value" : "我們鮫族是一個充滿自豪感的物種"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/43",
+  "value" : "今天，我希望靜靜地坐著，呼吸著新鮮空氣，寫我的小詩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/44",
+  "value" : "我畫了一幅畫，但畫得不是特別好，現在還不能拿給你看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/45",
+  "value" : "我本來願意談談的，但我很急"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/46",
+  "value" : "如果你想讓頭腦冷靜下來，試著想想太陽光照在碧藍大海上的情景"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/47",
+  "value" : "你看到我了書了沒？我把它放在某個地方了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/48",
+  "value" : "昨天真是美好的一天。我們只希望明日亦如此"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/49",
+  "value" : "我已經很多天沒做出東西了，我需要用精緻的工藝來安撫我的靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/50",
+  "value" : "小心點，別打碎東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/51",
+  "value" : "你看上去就好像從後面被人拖進了灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/52",
+  "value" : "你問我，我可以回答你一句無可奉告"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/53",
+  "value" : "你在圖書館裡花費了很多時間？你看上去受過良好教育"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/54",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/55",
+  "value" : "請原諒我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/56",
+  "value" : "我必須告辭了，我希望你能原諒我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/57",
+  "value" : "你有很多書？我從小到大住的房子裡書已經從地板堆到天花板了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/58",
+  "value" : "儘管很簡短，我還是要給我們的見面寫一首詩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/59",
+  "value" : "我書最後一頁美麗！我該怎麼辦？！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/60",
+  "value" : "鮫族戰士為保衛我們種族而存在，這種存在是出於脅迫的，他們都是不幸的而又不可或缺的惡魔"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/61",
+  "value" : "偉大的鮫族藝術家只要寥寥幾筆就能激發如此強大的能量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/62",
+  "value" : "你注意過鮫族的建築有多優雅嗎？這讓我很自豪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/63",
+  "value" : "我本來打算畫水墨畫的，但突然有了俳句的靈感。這是不是很玄妙？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/64",
+  "value" : "今天早上我讀了幾首不錯的小詩，它讓我欣喜萬分"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/65",
+  "value" : "昨天我盯著一幅畫看了足足三個鐘頭。哦！鮫族的大師！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/66",
+  "value" : "請不要告訴別的鮫族人，但我必須承認，我不算是一個讀書人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/67",
+  "value" : "繪畫主要靠大腦，它能使一個人明晰"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/68",
+  "value" : "哦天哪，今天又像是那些日子中的一天……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/69",
+  "value" : "當黑暗聚集時你會做什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/70",
+  "value" : "你想讓我帶你去游泳嗎？如果你需要指導，我是個很耐心的老師"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/71",
+  "value" : "你比我想像得更冷靜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/72",
+  "value" : "隨時可以走"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/73",
+  "value" : "我靠，你難道不時髦嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/74",
+  "value" : "你還有墨水嗎？我創作到一半，沒墨水了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/75",
+  "value" : "我希望你在這段動亂歲月中保持平靜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/76",
+  "value" : "你最喜歡的鮫族畫家是是誰？要在這些大師中挑一位可真是難"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/77",
+  "value" : "你有書可以借給我嗎？我已經把我自己的讀上兩遍了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/78",
+  "value" : "我有特殊的調茶技巧，口味精美無比——是祕方哦"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/79",
+  "value" : "你看起來還要很久才能平靜下來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/80",
+  "value" : "見到你很高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/81",
+  "value" : "我的祖父收藏了一大堆的畫，都很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/82",
+  "value" : "喝茶時間"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/83",
+  "value" : "你畫畫嗎？這帶給我平靜的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/84",
+  "value" : "旅途越遠，目的地就越有價值"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/85",
+  "value" : "你讀過很多鮫族思想家的作品嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/86",
+  "value" : "沒有美的生活是空虛乏味的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/87",
+  "value" : "真是極好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/88",
+  "value" : "我本想用茶招待你的，但我全用光了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/89",
+  "value" : "儘管我厭惡暴力，但我還是深深地尊敬著我們的戰士"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/90",
+  "value" : "很高興見到你，我親愛的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/91",
+  "value" : "你對於我們來說是一種激勵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/92",
+  "value" : "你能來這裡我很高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/93",
+  "value" : "要什麼儘管說"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/94",
+  "value" : "我覺得我們能做朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/95",
+  "value" : "你真是活力四射"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/96",
+  "value" : "宇宙創造瞭如此之多的美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/generic/97",
+  "value" : "我覺得做人低調很重要"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/0",
+  "value" : "今天過得還算太平吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/0",
+  "value" : "看，一個人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/1",
+  "value" : "你好，人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/2",
+  "value" : "我從沒領教過人類的文化，我怕自己再也沒這個機會了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/3",
+  "value" : "地球的毀滅一定很沉重地壓在你心上吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/4",
+  "value" : "人類會游泳嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/5",
+  "value" : "我無意冒犯你們種族，但有時你們真是無禮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/6",
+  "value" : "人類總是很有前瞻性。鮫族也應該設立像保護地那樣的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/7",
+  "value" : "我嘗過人類的\"漢堡\"，很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/8",
+  "value" : "像人類一樣，我們鮫族尋求和平與平衡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/9",
+  "value" : "我讀過一些人類寫的書。你們真是一個雄辯的種族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/10",
+  "value" : "我想起了一首詩，關於山丘，野花……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/11",
+  "value" : "也許某一天你能帶給我一些你們人類的詩？能讀到我會很高興的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/12",
+  "value" : "我聽說有人類當中有很多智者，也有很多蠢貨。鮫族也一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/13",
+  "value" : "人類經常畫畫嗎？我不畫畫就會很沮喪，我每天都要素描"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/14",
+  "value" : "聽到你們的星球被毀滅我深表遺憾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/0",
+  "value" : "你們那裡有跳蚤嗎？我對蟲子叮咬過敏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/1",
+  "value" : "你身上有香蕉的味道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/2",
+  "value" : "我聽過迷你克諾格的故事。對你們的紛爭我深表遺憾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/3",
+  "value" : "猿族在迷你克諾格的鐵腕統治下日子肯定不好過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/4",
+  "value" : "猿族有很多詩歌嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/5",
+  "value" : "我一直覺得猿族有點……惡劣。但是你們並沒有疏遠他們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/6",
+  "value" : "科學與哲學總是並肩前行的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/7",
+  "value" : "猿族天性好戰……鮫族人可不是這樣的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/8",
+  "value" : "我希望有一天，猿族能由和平替代老大猿來統治"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/9",
+  "value" : "老大猿是真的嗎？這樣的天方夜譚真的存在？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/10",
+  "value" : "我聽說這是猿族的黑暗歲月"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/11",
+  "value" : "如果你的敵人什麼都聽不進去那麼外交就是個笑話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/12",
+  "value" : "你認為科學是藝術嗎？猿族社會就是這樣認為的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/13",
+  "value" : "我對猿族人的學習方面表示尊敬，儘管他們的目的已經畸形了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/14",
+  "value" : "你的毛髮對於我們鮫族人來說是個全新的概念"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/15",
+  "value" : "我根本無法想像成為猿族人會是一種怎樣的體驗"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/16",
+  "value" : "猿族有圖書館嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/17",
+  "value" : "我收集圖書，但我沒有猿族人寫的書"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/18",
+  "value" : "如果不去刨根問底，你的生命會被白白浪費"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/19",
+  "value" : "保持那樣的頭髮乾淨一定很難"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/20",
+  "value" : "你的臉真嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/21",
+  "value" : "你的毛髮讓我想打噴嚏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/0",
+  "value" : "啊是的，你們種族的大部分都很崇拜庫魯克斯，他是一位慈愛的神嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/1",
+  "value" : "你們的庫魯克斯聽上去是個粗魯的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/2",
+  "value" : "我不覺得翼族人擅長游泳"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/3",
+  "value" : "你能給我一些羽毛給我當作藝術參考嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/4",
+  "value" : "羽翼水晶漂亮又迷人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/5",
+  "value" : "我看過翼族的寺廟。儘管不夠典雅，但很壯觀，讓人印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/6",
+  "value" : "一些翼族宗教文本裡的詩句很優美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/7",
+  "value" : "你經常游泳嗎？它會傷害你的羽毛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/8",
+  "value" : "我知道你們翼族人是天生的戰士，但我們大部分鮫族人都不喜歡戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/9",
+  "value" : "翼族盔甲是一種戰鬥用具，但不可否認它製作非常精巧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/10",
+  "value" : "你讓我想起了之前看過的一條鸚嘴魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/11",
+  "value" : "有沒有很多關於庫魯克斯的描述？我很有興趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/12",
+  "value" : "隨風飛翔？我知道為什麼你們種族會尋求這項才能"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/13",
+  "value" : "很遺憾沒有為你提供種子，但我也沒有"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/14",
+  "value" : "用墨水很難描繪出羽毛的精巧性和半透明性"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/15",
+  "value" : "我讀過很多書，但很猿族的書讀得很少"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/16",
+  "value" : "你在翼族長大嗎？你和你的你的同類看起來不同"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/17",
+  "value" : "我曾經研究過猿族的寺廟，寫過關於這個的幾本書"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/18",
+  "value" : "你們換羽毛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/19",
+  "value" : "翼族人的嘴可真有意思"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/20",
+  "value" : "下來吧，長滿羽毛的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/21",
+  "value" : "讓我們盯著天空看一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/22",
+  "value" : "啊。翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/23",
+  "value" : "你需要花很多時間梳理自己的羽毛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/0",
+  "value" : "我會對你以禮相待，儘管我們兩個種族間曾經發生過什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/1",
+  "value" : "你們種族中那些野蠻人嚇到我了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/2",
+  "value" : "我覺得……葉族人還好。起碼你們看起來不兇"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/3",
+  "value" : "我們種族和你們……有過節"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/4",
+  "value" : "你看起來很文明，但在你們旁邊總感覺不自在……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/5",
+  "value" : "請不要做太多突發性的舉動"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/6",
+  "value" : "鮫族人會立刻把葉族人批判一番，但所有種族都有過失，過去的就讓它過去吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/7",
+  "value" : "只要你不是來這裡吃我的，我們還是朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/8",
+  "value" : "我會試著與你和平相處，但恐懼卻加深了我們的隔閡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/9",
+  "value" : "遇見一個葉族人總是讓人緊張"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/10",
+  "value" : "你們種族看上去很迷人。葉族是一個具有雙重性的種族，不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/11",
+  "value" : "葉族的嬌弱之花掩蓋了它們堅強的天性"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/12",
+  "value" : "你讓我想起了我曾經去過的一座森林，外表寧靜又美麗，但其中暗藏殺機"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/13",
+  "value" : "能遇到一位追逐和平的葉族人真是讓我感到欣慰"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/14",
+  "value" : "捕食者與被捕食者都是自然中地位相等的一部分——這就是維持平衡之道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/15",
+  "value" : "有機會的話我能為你畫一幅畫嗎？也許是在花園中，或是夏日的樹林中？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/16",
+  "value" : "讀一本書有兩個樂趣：首先是閱讀時的快樂，其次是對書中內容的反思"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/17",
+  "value" : "我聽說葉族人沒有圖書館。你們怎麼辦到的？！你們應該用我們的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/18",
+  "value" : "你可能不知道我們有多怕你們葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/19",
+  "value" : "也許有一天，所有的葉族人都和你一樣文明"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/20",
+  "value" : "哦，那邊的葉族人，你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/21",
+  "value" : "我在顫抖？我沒有害怕，我只是覺得有點冷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/22",
+  "value" : "你的目光告訴我你不是一頭野獸……我們聽說過關於葉族的恐怖的事情"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/23",
+  "value" : "我們鮫族信仰寬容，對你們種族也是一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/24",
+  "value" : "我們的人曾經參與過戰爭，很久很久以前"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/25",
+  "value" : "在你有吃掉我的想法之前，我先說明我吃起來味道可不好！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/26",
+  "value" : "你很有禮貌。太好了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/27",
+  "value" : "你在葉族人裡算聰明的了。你也喜歡藝術嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/28",
+  "value" : "我聽說過葉族人放棄野蠻的撫養方式的謠言，但從沒見過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/29",
+  "value" : "我對你們種族充滿恐懼！但我會以禮相待，我知道這不是你的錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/30",
+  "value" : "所有生物身上都可以發現美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/0",
+  "value" : "噢，一個機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/1",
+  "value" : "所有的電子人都是由金屬製成的？有沒有是用木頭或者珍貴的石頭製成的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/2",
+  "value" : "你空虛的目光讓我不安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/3",
+  "value" : "你好電子人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/4",
+  "value" : "電子人會游泳嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/5",
+  "value" : "如果你們生活在水下你們會生鏽嗎？錯過和鮫族住在一起的機會真是太遺憾了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/6",
+  "value" : "一個磨光的電子人是一幅值得一見的光景，閃閃發亮就像銀月一般"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/7",
+  "value" : "我讀過電子人的短詩，它們不是鮫族的詩但還是非常優美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/8",
+  "value" : "我到過電子人的城堡——它們造得沒我們精巧，但非常壯觀！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/9",
+  "value" : "電子人是\"活著\"，還是隻是存在著？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/10",
+  "value" : "你知道怎麼做掛毯嗎？我一直想做一個"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/11",
+  "value" : "電子人內部是錯綜複雜的機械組成的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/12",
+  "value" : "電子人會畫畫嗎？噢，等等。我已經看過電子人的畫了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/13",
+  "value" : "電子人會做夢嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/14",
+  "value" : "我能為你畫張像嗎？你的金屬散發的光澤真是有趣——光與影互相作用"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/15",
+  "value" : "電子人真是迷人。真迷人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/16",
+  "value" : "你的眼睛和星星一樣明亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/17",
+  "value" : "能遇到一位電子人真是太好了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/18",
+  "value" : "我聽說過最近的事件的黑暗傳說"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/19",
+  "value" : "機器人，真不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/20",
+  "value" : "你的哐當聲讓我頭大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/21",
+  "value" : "今天真高興！一位機器人朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/22",
+  "value" : "冷靜，電子人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/0",
+  "value" : "啊，總算遇到能賞識我的人了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/1",
+  "value" : "好，讓我們來慶祝你的到來！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/2",
+  "value" : "當你身邊沒有我們的時候會不會想念我們的藝術和文化？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/3",
+  "value" : "如果你有時間我們可以聊聊關於茶的綜合理論"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/4",
+  "value" : "在其他種族中尋找平靜很困難嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/5",
+  "value" : "你看起來很優雅又很懂禮貌"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/6",
+  "value" : "你經常去圖書館嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/7",
+  "value" : "我的茶壺碎了，也許你有備用的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/8",
+  "value" : "我覺得一個鮫族保護者一定要具有戰士的技能……記住，平靜也是一種技能"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/9",
+  "value" : "我的茶葉中有一隻海螺。發生這樣的事你不會覺得討厭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/10",
+  "value" : "一些最偉大的鮫族作品都是由那些具有冒險精神的人創作的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/11",
+  "value" : "還有什麼比涼水直接澆在皮膚上更讓人感到清醒地呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/12",
+  "value" : "鮫族人壞到會去引導人思考嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/13",
+  "value" : "向前進吧，去傳播和平，我的孩子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/14",
+  "value" : "我聽說平木又開始惡作劇了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/0",
+  "value" : "在所有我讀過的圖書館的藏書裡，還沒看到過像你這樣的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/1",
+  "value" : "遇見不尋常的人總能增長見識"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/2",
+  "value" : "在黑暗的宇宙中射出一縷微光是一件好事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/3",
+  "value" : "你經常讀書嗎？我懷疑有那樣的光你根本不需要一盞檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/4",
+  "value" : "當你射出自己的光時，這個世界又是怎麼樣的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/5",
+  "value" : "我感覺我不應該和你一起喝茶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/6",
+  "value" : "你會游泳嗎？你能受潮嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/7",
+  "value" : "沒有什麼比好奇的事物更鼓舞人心了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/8",
+  "value" : "你真是五彩斑斕——我想為你畫張畫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/9",
+  "value" : "你就像是天上的星星。你生下來就是這樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/10",
+  "value" : "你是什麼？我之前從沒見過你們種族？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/11",
+  "value" : "你的樣子真奇妙！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/12",
+  "value" : "一種像星星一樣發光的生物！也許像一輪滿月……哪種比喻更恰當呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/13",
+  "value" : "我見過像你一樣發光的海魚！儘管你讓人印象深刻得多"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/14",
+  "value" : "祝你過得太平，發光的傢夥！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/novakid/15",
+  "value" : "你的光讓人平靜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/0",
+  "value" : "你可能注意到了：並非所有翼族都是虔誠的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/1",
+  "value" : "哦天哪，我把種子都灑開了，現在都佈滿灰塵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/2",
+  "value" : "沒有喙吃飯很困難吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/3",
+  "value" : "今天我忙到很晚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/4",
+  "value" : "很多其他的翼族人不爬樹，但我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/5",
+  "value" : "我在考慮搞一點寵物魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/6",
+  "value" : "哦不……我弄丟了我的縫衣針"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/7",
+  "value" : "你知道什麼好一點的笑話嗎？過幾天我要做一場飯後演講"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/8",
+  "value" : "我在一個合夥人和我一起寫小說"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/9",
+  "value" : "我希望你在這裡能感到愉快，有客人真好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/10",
+  "value" : "翼族的擁抱讓人覺得好癢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/11",
+  "value" : "我打算今晚來和你喝一杯，但我在洗我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/12",
+  "value" : "你喝過翡翠眼檸檬嗎？它們不是我的最愛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/13",
+  "value" : "我們來跳舞吧。我來哼調"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/14",
+  "value" : "你碰到過企鵝嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/15",
+  "value" : "我們這裡沒什麼社會等級"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/16",
+  "value" : "見到你很高興！哦，我就是有點緊張"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/17",
+  "value" : "哦天哪。原諒我，我的羽毛有點問題"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/18",
+  "value" : "對不起我沒心情聊天，走開否則我就啄你了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/19",
+  "value" : "翼族有強大的平衡性，還有適合高處的出色頭部。我也許可以從事走鋼絲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/20",
+  "value" : "我需要買種子！我快沒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/21",
+  "value" : "我需要一位格鬥陪練，我已經很久沒鍛鍊我的戰鬥技巧了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/22",
+  "value" : "我不知道自己是怎麼看待鞋子的，我喜歡它們的樣子，但它們限制我的利爪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/23",
+  "value" : "我的表哥成為了一名先知。與此同時我不再信仰庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/24",
+  "value" : "你來自哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/25",
+  "value" : "我一直尊重保護地。我覺得它是一個高尚的組織"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/26",
+  "value" : "我希望自己會飛，但我不相信庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/27",
+  "value" : "明天我去放風箏！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/28",
+  "value" : "如果你被拘禁了會很麻煩，但你有一個虔誠的家庭——我的叔叔是一名觀星信徒！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/29",
+  "value" : "我希望翼族的祖先是鱷魚而不是鳥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/30",
+  "value" : "向翼族人開口要羽毛是不合適的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/31",
+  "value" : "你看起來不知所措，需要來我翅膀底下嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/32",
+  "value" : "你試過翼族摔角嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/33",
+  "value" : "看起來你最近經歷過一些事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/34",
+  "value" : "我的羽毛沒事吧？我剛剛整理了一番但我沒有鏡子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/35",
+  "value" : "在我們翼族人周圍你就放鬆好了，我們不講究禮節的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/36",
+  "value" : "我期待著天氣的改變"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/37",
+  "value" : "你的服裝真不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/38",
+  "value" : "曾經有個猿族人叫我小雞。真沒禮貌"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/39",
+  "value" : "這裡生命不同了……祭司的祭品更少了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/40",
+  "value" : "不錯的服裝"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/41",
+  "value" : "昨晚我夢見自己在飛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/42",
+  "value" : "就像是保護者一樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/43",
+  "value" : "昨天關抽屜的時候夾到手指了，我現在什麼都做不了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/44",
+  "value" : "我經常夢見自己從通天塔上跳下。真是嚇人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/45",
+  "value" : "我開始在工作時吹口哨，所有人都加入了。就像是一場音樂劇"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/46",
+  "value" : "你看上去不太好。你有足夠的種子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/47",
+  "value" : "我全身很癢！我覺得我可能要換羽毛了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/48",
+  "value" : "你在這附近看到過一支紫色長矛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/49",
+  "value" : "觀星信徒談論拘禁的方式……真的讓我受不了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/50",
+  "value" : "我會和你分享我的種子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/51",
+  "value" : "你有沒有覺得看見一片廣闊的天空能讓你心情好起來？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/52",
+  "value" : "一會兒想和我練練？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/53",
+  "value" : "我很快要去收集蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/54",
+  "value" : "我的矛太鈍了不能用了，我要先磨一下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/55",
+  "value" : "我今天有點慌"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/56",
+  "value" : "你想看看我收集的蟲子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/57",
+  "value" : "我在學笛子！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/58",
+  "value" : "我其實不是翼族，我只是一名穿了羽衣的人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/59",
+  "value" : "我碰到了我喜歡的人，但我沒有勇氣去約他們出來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/60",
+  "value" : "今天我很閒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/61",
+  "value" : "經常有人問我要羽毛……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/62",
+  "value" : "我明天要參加一場化妝舞會，我不知道自己該穿什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/63",
+  "value" : "過去幾天我一直很緊張，似乎有什麼不好的事要發生"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/64",
+  "value" : "你覺得我們也許可以成為朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/65",
+  "value" : "成為保護者怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/66",
+  "value" : "如果明天天氣好，我要去野餐！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/67",
+  "value" : "等我一會兒，我在下盲棋"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/68",
+  "value" : "你想說什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/69",
+  "value" : "別碰我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/70",
+  "value" : "對不起，我需要給自己一點時間"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/71",
+  "value" : "見到你很高興，但我有很多東西要吃，現在沒法和你談話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/72",
+  "value" : "我用種子換來了一頭半馴服的海普納，但它逃掉了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/73",
+  "value" : "我吹口哨很厲害，我為此感到自豪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/74",
+  "value" : "我無法想像沒有羽毛的生活"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/75",
+  "value" : "我希望明天天晴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/76",
+  "value" : "讓我們成為筆友吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/77",
+  "value" : "我曾經吃過一些很美味的麵包。想想都能讓我覺得餓"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/78",
+  "value" : "今天晚上我們舉辦一場讀書俱樂部。你也來！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/79",
+  "value" : "我有一些額外的羽毛，如果你想試試的話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/80",
+  "value" : "想交個新朋友嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/81",
+  "value" : "昨天，今天，明天——事情越變越糟"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/82",
+  "value" : "我很困，我真的要睡覺了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/83",
+  "value" : "你喜歡種子？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/84",
+  "value" : "你們種族吃種子？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/85",
+  "value" : "我現在不能說話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/86",
+  "value" : "啊！……哦，對不起，你嚇到我了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/87",
+  "value" : "希望你度過愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/generic/88",
+  "value" : "很多翼族喜歡種子，但我更喜歡漿果"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/0",
+  "value" : "祝你過得開心，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/0",
+  "value" : "你好，人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/1",
+  "value" : "對你的家園我深表遺憾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/2",
+  "value" : "沒有羽毛很冷吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/3",
+  "value" : "你光禿禿的，一點羽毛都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/4",
+  "value" : "聽到地球的遭遇我深表遺憾……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/5",
+  "value" : "人類也是和平的物種，沒錯吧？有時候一個翼族戰士會和他們一起逃跑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/6",
+  "value" : "我的朋友說人類有很多腳趾，但我覺得她在開玩笑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/7",
+  "value" : "我聽說了那些觸手對地球做了什麼。想想就讓我覺得後怕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/8",
+  "value" : "有人類信仰庫魯克斯嗎？幾年前我就拋下了我的信仰，它不適合我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/9",
+  "value" : "我有時覺得人類看起來很勇敢……要是能有羽毛就更好了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/10",
+  "value" : "你想問我是不是睡在棲木上？曾經也有人類這麼問過我……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/11",
+  "value" : "我希望能看見地球。很遺憾它已經沒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/12",
+  "value" : "你的皮膚好光滑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/13",
+  "value" : "我聽說你們種族崇拜很多神"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/14",
+  "value" : "我看到過刮過毛的猿族。他看起來有那麼幾分像你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/15",
+  "value" : "我的人類朋友都對地球感到心痛。你一定也是如此"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/16",
+  "value" : "人類有翅膀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/17",
+  "value" : "歡迎，人類。把這裡當自己的家吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/18",
+  "value" : "能看到人類真好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/0",
+  "value" : "你一口氣能吃多少香蕉？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/1",
+  "value" : "很高興見到你，我毛茸茸的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/2",
+  "value" : "迷你克諾格是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/3",
+  "value" : "你真是毛茸茸的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/4",
+  "value" : "如果你想用你的科學讓我眼花繚亂，我非常歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/5",
+  "value" : "我在想變得毛茸茸會怎麼樣……對不起，我在自言自語"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/6",
+  "value" : "你有討人喜歡的口音"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/7",
+  "value" : "我真的不喜歡香蕉……它們會卡在我喙的深處"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/8",
+  "value" : "迷你克諾格怎麼用的？老大猿也是一種神？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/9",
+  "value" : "很高興能見到猿猴……猿族！對不起，我是說猿族。真尷尬"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/10",
+  "value" : "我有時覺得人類看起來很勇敢……要是能有羽毛就更好了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/11",
+  "value" : "你喜歡吹口哨嗎？這能讓我快活"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/12",
+  "value" : "啊！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/13",
+  "value" : "我喜歡猿族。毛茸茸的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/14",
+  "value" : "你是抵抗組織的成員嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/15",
+  "value" : "你知道嗎，我從沒試過香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/16",
+  "value" : "翼族能抓住猿族的跳蚤嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/0",
+  "value" : "嗨，翼族兄弟"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/1",
+  "value" : "我真的不想談論庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/2",
+  "value" : "你的羽毛有點亂"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/3",
+  "value" : "想想那些讓我承受巨大壓力的觀星信徒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/4",
+  "value" : "你和我都是有羽毛的鳥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/5",
+  "value" : "很高興看到翼族來這裡幫助宇宙"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/6",
+  "value" : "你最喜歡的種子是什麼？我喜歡礁豆莢，但這裡很難得到"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/7",
+  "value" : "保護地是怎麼看待翼族戰士文化？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/8",
+  "value" : "哇哦，一名翼族保護者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/9",
+  "value" : "你有健康的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/10",
+  "value" : "你去過羽翼之星嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/11",
+  "value" : "我們不會被關進籠子裡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/12",
+  "value" : "很高興看到一位翼族旅行者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/13",
+  "value" : "你聞起來像鮫族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/14",
+  "value" : "你在哪裡長大？你看著很眼熟"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/0",
+  "value" : "哦……葉族人。嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/1",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/2",
+  "value" : "你會咬人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/3",
+  "value" : "感覺像在和小樹說話，不過很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/4",
+  "value" : "你們是不是和翼族渴求天空一般渴求土壤？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/5",
+  "value" : "你的族人會種種子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/6",
+  "value" : "我知道有些種族很懼怕葉族，但我們翼族能顧好自己"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/7",
+  "value" : "什麼時候來打一架吧，我能實踐一下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/8",
+  "value" : "翼族是肉食鳥！別傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/9",
+  "value" : "在葉族面前吃菜很無禮？那種子呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/10",
+  "value" : "葉族也許是更好的獵手，但翼族是更好的戰士"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/11",
+  "value" : "你人不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/12",
+  "value" : "你們讓我想到了森林，光線穿過葉片"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/13",
+  "value" : "你聞上去像花和清新空氣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/14",
+  "value" : "啊嚏！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/15",
+  "value" : "你好……植物啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/16",
+  "value" : "好驚訝，一個葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/17",
+  "value" : "一個和平的葉族，真的嗎？從來沒聽過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/18",
+  "value" : "小心，我知道怎麼放火！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/19",
+  "value" : "聽說你喜歡衝刺，很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/20",
+  "value" : "你是個可愛的生物，我很喜歡葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/21",
+  "value" : "你讓我煩心，葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/22",
+  "value" : "你看上去一直都這麼兇殘嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/23",
+  "value" : "你是哪種植物長起來的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/24",
+  "value" : "你讓我想到了曾經喝過的翡翠眼檸檬"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/0",
+  "value" : "你有自我意識嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/1",
+  "value" : "機器人有神嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/2",
+  "value" : "你光禿禿的，一點羽毛都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/3",
+  "value" : "機器人很迷戀個體"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/4",
+  "value" : "我能拍你的頭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/5",
+  "value" : "很好奇如果一個機器人吃了一個羽翼水晶會發生什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/6",
+  "value" : "你需要油嗎？我有種子油和胡桃油！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/7",
+  "value" : "你都是金屬的嗎，從裡到外？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/8",
+  "value" : "我能給你一些種子嗎？你會吃東西的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/9",
+  "value" : "如果機器人想要飛，只要在腳上裝上火箭推助器"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/10",
+  "value" : "機器人怎麼工作？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/11",
+  "value" : "不知道什麼原因，我覺得所有的機器人都是騎士…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/12",
+  "value" : "如果你坐在陽光下，金屬會變燙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/13",
+  "value" : "我期待你能改善一下餐點"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/14",
+  "value" : "至少你不需要脫毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/15",
+  "value" : "機器人這點很吸引人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/16",
+  "value" : "我喜歡機器人沒說話就能表達出自己的感受，我不是很擅長潛台詞"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/17",
+  "value" : "有聽過翼族唱歌嗎？我們是很好的歌手，也很會吹口哨"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/18",
+  "value" : "我見過你的城堡，他們很宏偉！你應該探索我們的神廟和墓穴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/19",
+  "value" : "打賭機器人能從弒神中倖存"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/20",
+  "value" : "你們怎麼吃東西？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/21",
+  "value" : "很高興見到你，錫塊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/22",
+  "value" : "機器人很驚人，複雜而迷人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/0",
+  "value" : "一個鮫族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/1",
+  "value" : "和平共處"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/2",
+  "value" : "我不太游泳，特別是在鹹水中，對我的羽毛不好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/3",
+  "value" : "你游泳的時候覺得身體輕盈而自由，和我飛行時的感受一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/4",
+  "value" : "我不喝茶，所以也沒有。但我有很多種子！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/5",
+  "value" : "我喜歡鮫族的藝術，希望能畫出大師級別的畫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/6",
+  "value" : "我不是個自然詩人，但我很擅長譜曲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/7",
+  "value" : "你看起來好狡猾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/8",
+  "value" : "翼族生來並不熱愛和平，但別擔心，我們也沒有葉族那麼壞"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/9",
+  "value" : "鮫族的圖書館對所有人開放嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/10",
+  "value" : "我一直認為鮫族有鱗片"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/11",
+  "value" : "我偶爾畫畫，但我不奢望能與你曾經的成就相提並論"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/12",
+  "value" : "你有去過翼族的神廟嗎？不知道是否符合鮫族的審美…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/13",
+  "value" : "你需要暗礁豆種子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/14",
+  "value" : "你聞上去鹹鹹的，不過我喜歡，我在海邊長大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/15",
+  "value" : "我想開一個藝術收藏品會，有什麼建議嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/16",
+  "value" : "我不喜歡書"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/17",
+  "value" : "能教我游泳嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/18",
+  "value" : "鮫族冷血嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/19",
+  "value" : "一個和平的鮫族理所當然會加入和平的保護地"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/20",
+  "value" : "你有海的味道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/21",
+  "value" : "我們該一起去釣魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/22",
+  "value" : "打鯊魚的鼻子真的有用嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/23",
+  "value" : "你經常碰到海盜嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/24",
+  "value" : "很高興見到你，鮫族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/25",
+  "value" : "魚什麼的要來了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/26",
+  "value" : "巨大的會說話的魚！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/27",
+  "value" : "翼族能用嘴把魚從海裡叼起來，很精彩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/28",
+  "value" : "崇尚和平的鮫族，令人印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/0",
+  "value" : "太陽！你是這一帶的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/1",
+  "value" : "你閃著星光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/2",
+  "value" : "發光？打賭虔誠的翼族會認為你和庫魯克斯有關係"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/3",
+  "value" : "你的光比羽翼水晶還亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/4",
+  "value" : "你會一直發光嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/5",
+  "value" : "是占星師派你來的嗎？你為何到這裡來？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/6",
+  "value" : "好日子，明亮的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/7",
+  "value" : "你的光亮會讓模仿者自慚形穢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/8",
+  "value" : "我不知道你是什麼…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/9",
+  "value" : "你是水晶做的嗎？你太亮了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/10",
+  "value" : "我喜歡你的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/11",
+  "value" : "你從哪裡來？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/12",
+  "value" : "你的母星是哪裡？你是星球上的生物嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/13",
+  "value" : "我也像像星星一樣發光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/14",
+  "value" : "你能飛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/0",
+  "value" : "外面有好多有趣的物種"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/1",
+  "value" : "天，好無聊，我想找點有意思的事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/2",
+  "value" : "我曾經計劃加入保護地"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/3",
+  "value" : "我的鞋子溼了，不小心踩進了池塘"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/4",
+  "value" : "看到我的帽子了嗎？我快找一小時了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/5",
+  "value" : "我要打噴嚏！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/6",
+  "value" : "現在沒法說話，我超級忙"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/7",
+  "value" : "宇宙很大，我感覺很渺小"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/8",
+  "value" : "有一天我想要和你一樣的宇宙飛船"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/9",
+  "value" : "有奇怪的事發生"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/10",
+  "value" : "我冰箱壞了，我要吃好多蛋黃醬了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/11",
+  "value" : "之前有個猿族打了我一拳，不知道為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/12",
+  "value" : "我要開始一場尋寶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/13",
+  "value" : "我現在想要一頓烤肉晚餐"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/14",
+  "value" : "朝怪獸吼叫有時候很好玩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/15",
+  "value" : "最近有發現什麼有趣的武器嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/16",
+  "value" : "我現在想要一個康沃爾餡餅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/17",
+  "value" : "很高興見到保護地的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/18",
+  "value" : "我想念地球，一切糟透了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/19",
+  "value" : "我嫉妒你，能做一個冒險家"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/20",
+  "value" : "真是漫長的一天，我需要一個擁抱"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/21",
+  "value" : "你一定有很多故事要講！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/22",
+  "value" : "沒人會僱傭我，我唯一的技能是操控影子傀儡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/23",
+  "value" : "你們聽說過吸血鬼嗎？狼人呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/24",
+  "value" : "宇宙是一個很大很危險的地方"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/25",
+  "value" : "你喜歡薄煎餅嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/26",
+  "value" : "這附近的怪獸很嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/27",
+  "value" : "糟糕的歌聲在我腦子裡困了兩天了！救命！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/28",
+  "value" : "我現在不想說話，地球出了這樣的事，我有點失落"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/29",
+  "value" : "我們能改約個時間交流嗎？我有事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/30",
+  "value" : "你有空瓶子嗎？我這週末想做點果醬"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/31",
+  "value" : "我今天好累，太累了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/32",
+  "value" : "我超級餓"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/33",
+  "value" : "我覺的你很煩人，抱歉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/34",
+  "value" : "玩過跳房子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/35",
+  "value" : "喝一杯茶，坐一下吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/36",
+  "value" : "我們很像，你和我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/37",
+  "value" : "看今天的天真美"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/38",
+  "value" : "我很喜歡太空，知道嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/39",
+  "value" : "怪獸很可怕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/40",
+  "value" : "有時候我很想念連續劇，只是偶爾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/41",
+  "value" : "你見過獨角鯨嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/42",
+  "value" : "噁心，我剛剛吞了一隻蒼蠅"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/43",
+  "value" : "什麼時候出去走走！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/44",
+  "value" : "之前一定在什麼地方見過你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/45",
+  "value" : "我覺的我們能相處得很好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/46",
+  "value" : "我覺的你很合我胃口"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/47",
+  "value" : "你是在保護地嗎？好酷啊！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/48",
+  "value" : "我踢到腳趾了，今天好糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/49",
+  "value" : "我在一個藝術表演劇團！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/50",
+  "value" : "你這噁心的小東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/51",
+  "value" : "如果你需要律師，我有人可以推薦"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/52",
+  "value" : "我覺的我要感冒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/53",
+  "value" : "看到了？這是我的撲克臉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/54",
+  "value" : "現在我要去吃點冰淇淋"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/55",
+  "value" : "我們要來一次野餐！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/56",
+  "value" : "等下做點有趣的事"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/57",
+  "value" : "地球沒了，難以置信"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/58",
+  "value" : "我的貓丟了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/59",
+  "value" : "維持宇宙的和平真的很難，因為全宇宙似乎都不想要和平"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/60",
+  "value" : "有些事有問題，風雨欲來風滿樓"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/61",
+  "value" : "我吃了太多漿果，胃吃傷了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/62",
+  "value" : "我的家人在另一個星球"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/63",
+  "value" : "我懷念我的星球"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/64",
+  "value" : "最近有什麼趣事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/65",
+  "value" : "我急需一杯茶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/66",
+  "value" : "我最喜歡的筆丟了！你見到過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/67",
+  "value" : "我現在和你沒什麼可說的，我有生存危機"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/68",
+  "value" : "我們要反對社會黨的成見"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/generic/69",
+  "value" : "我肉燥做得很棒，我能成為肉燥大廚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/0",
+  "value" : "美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/0",
+  "value" : "懷念地球什麼？安靜的迪斯科"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/1",
+  "value" : "看到另一個人類總是很愉快"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/2",
+  "value" : "難以置信，地球居然出了那樣的事…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/3",
+  "value" : "塞西！…你不是塞西…你很像塞西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/4",
+  "value" : "我想地球"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/5",
+  "value" : "我一直做和觸角有關的惡夢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/6",
+  "value" : "我有個奇怪的想法：所有田鼠都死了！再沒有地球，再沒有田鼠"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/7",
+  "value" : "你會想家嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/8",
+  "value" : "終於有人知道什麼是擊掌了！我遇到的所有旅者都是外星人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/9",
+  "value" : "地球被襲擊時，我離開了那裡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/10",
+  "value" : "太空好大，我想要地球回來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/11",
+  "value" : "你從地球何處來？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/12",
+  "value" : "觸手？是誰的觸手？真的，這是最糟的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/13",
+  "value" : "我打賭我們的種族十年內將被消滅，敢賭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/14",
+  "value" : "如果我們真的是剃了毛的猿族怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/0",
+  "value" : "嘿，猿族夥計！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/1",
+  "value" : "會說話的猴子，酷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/2",
+  "value" : "你會傷害我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/3",
+  "value" : "老大猿族到底有多大？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/4",
+  "value" : "猿族曾經和我們像嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/5",
+  "value" : "猴子！等下，猴子有尾巴，是猿族！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/6",
+  "value" : "啊！！對不起，我本能害怕黑猩猩，而你的臉…抱歉…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/7",
+  "value" : "我曾經吃過一個金槍魚香蕉披薩，特別棒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/8",
+  "value" : "所有的猿族都擅長理科？那是我上學時最差的科目"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/9",
+  "value" : "抱歉猿族一直受壓迫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/10",
+  "value" : "猿族一直在遷移嗎？什麼時候有尾巴的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/11",
+  "value" : "聽到了和迷你克諾格有關的壞消息，不驚訝你居然加入了保護地"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/12",
+  "value" : "你的髮型好華麗"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/13",
+  "value" : "誰是\"老大猿族\"？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/14",
+  "value" : "你好，猿族！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/15",
+  "value" : "有沒有試過刮鬍子變成人類？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/16",
+  "value" : "迷你克諾格聽上去很糟糕！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/17",
+  "value" : "見到你真棒，猿族！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/18",
+  "value" : "你們好酷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/19",
+  "value" : "你這發臭的落水狗！或者是落水猿猴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/20",
+  "value" : "之前從未見過迷你克諾格士兵，嚇人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/21",
+  "value" : "你看上去好壯，像摔角選手"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/22",
+  "value" : "很高興見到你，猿族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/23",
+  "value" : "我小時候有過一個玩具猴子和你很像"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/0",
+  "value" : "嘿，是大鳥！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/1",
+  "value" : "漂亮的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/2",
+  "value" : "好奇怪你能飛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/3",
+  "value" : "你好，翼族！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/4",
+  "value" : "我有急事，得飛了。抱歉，有點麻木不仁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/5",
+  "value" : "你看上去好溫暖好蓬鬆"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/6",
+  "value" : "我一直聽到這個名字，誰是庫魯克斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/7",
+  "value" : "我也不會飛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/8",
+  "value" : "從未見過不討人喜歡的翼族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/9",
+  "value" : "聽說你們建了宏偉的神廟，我們之前也做過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/10",
+  "value" : "我喜歡鳥，我叔叔曾經有過一隻鸚鵡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/11",
+  "value" : "希望我有羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/12",
+  "value" : "見過翼族的塔樓，人們從那裡跳出來！？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/13",
+  "value" : "試過向日葵的種子嗎？你會喜歡的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/14",
+  "value" : "我研究過星系信仰——庫魯克斯很迷人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/15",
+  "value" : "我見過的另一個翼族告訴我有關於天空塔樓的事，心寒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/16",
+  "value" : "我能借一根羽毛做羽毛筆嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/17",
+  "value" : "如果翼族和蛇有了小孩，會是一條羽毛圍巾嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/18",
+  "value" : "翼族太酷了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/0",
+  "value" : "耶嘿，說話樹"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/1",
+  "value" : "你好可愛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/2",
+  "value" : "你們族人是不是生來就很野蠻？你看上去不像"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/3",
+  "value" : "可以修剪一下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/4",
+  "value" : "很難相信你是一個殺手！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/5",
+  "value" : "你們有花粉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/6",
+  "value" : "葉族會被大蜂鳥襲擊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/7",
+  "value" : "你讓我想到了小時候在地球上的花園"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/8",
+  "value" : "我見過綠手指一次，很好的小夥子…或姑娘…還是都不對？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/9",
+  "value" : "有空能教我打獵嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/10",
+  "value" : "希望我是葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/11",
+  "value" : "我聽說葉族會很邪惡，但你看上去不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/12",
+  "value" : "什麼肉最好？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/13",
+  "value" : "我想去找造矛的人，有這樣的人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/14",
+  "value" : "你好漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/15",
+  "value" : "我害怕你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/16",
+  "value" : "我小時候最好的朋友是一個葉族。他們吃了我的兔子，但我不介意"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/17",
+  "value" : "葉族會長到250英尺嗎，長著臉的紅杉？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/18",
+  "value" : "我一直注意著你，葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/19",
+  "value" : "見到你好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/20",
+  "value" : "聽說你和你的魚類朋友不合？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/21",
+  "value" : "你殺的怪獸比我吃的熱菜還多"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/22",
+  "value" : "你能閱讀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/23",
+  "value" : "葉族最棒！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/0",
+  "value" : "哇，漂亮，一個機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/1",
+  "value" : "未來在這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/2",
+  "value" : "聽過我們的星球嗎，機器人？現在該怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/3",
+  "value" : "你怎麼工作？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/4",
+  "value" : "有時候我喜歡假裝古時的騎士！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/5",
+  "value" : "沒有骨骼，機器人非常棒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/6",
+  "value" : "你需要替換眼球嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/7",
+  "value" : "木星的，你好！希望沒有冒犯到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/8",
+  "value" : "我曾經用硬紙板做過機器人的裝束"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/9",
+  "value" : "機器人講話方式很有趣…除了胡說八道的部分"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/10",
+  "value" : "我爸爸是機修工人，我猜機器人語裡是醫生的意思"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/11",
+  "value" : "你有些嘎嘎作響，要去給關節上油了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/12",
+  "value" : "我也有堅硬的外殼，但我的殼只是比喻"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/13",
+  "value" : "你那裡的合金很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/14",
+  "value" : "我一直想約個機器人出去"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/15",
+  "value" : "用金屬造的是什麼感覺？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/16",
+  "value" : "誰創造了你們？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/17",
+  "value" : "我想要和你一樣的鎧甲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/18",
+  "value" : "我喜歡你們說話的方式"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/19",
+  "value" : "很高興見到你，機器人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/20",
+  "value" : "你是什麼金屬造的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/21",
+  "value" : "你能下水嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/22",
+  "value" : "作為一個殺人機器，你好小"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/23",
+  "value" : "你有最冷酷的臉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/0",
+  "value" : "嘿，一條大魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/1",
+  "value" : "哦天吶，你的味道好搞笑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/2",
+  "value" : "讓我想起沙灘上度過的假期"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/3",
+  "value" : "一個鮫族？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/4",
+  "value" : "很高興見到你，魚臉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/5",
+  "value" : "我是強悍的游泳者，我不是吹，是真的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/6",
+  "value" : "我讀了十本書！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/7",
+  "value" : "鮫族的藝術非常好，我是粉絲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/8",
+  "value" : "我曾經吃過一個金槍魚香蕉披薩，特別棒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/9",
+  "value" : "鮫族追求和平，對吧？和人類一樣，怪不得你是保護者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/10",
+  "value" : "我原本住在地球的沙灘上，很懷念"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/11",
+  "value" : "我不太讀詩，覺得太晦澀了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/12",
+  "value" : "我一直在考慮，再也受不了了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/13",
+  "value" : "我偶爾畫畫，你有空可以看一眼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/14",
+  "value" : "鮫族會脫水嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/15",
+  "value" : "海豹和狗很像，但生活在海裡，所有鮫族都該有海豹"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/16",
+  "value" : "作為會說話的金槍魚，你真的很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/17",
+  "value" : "歡迎，鮫族！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/18",
+  "value" : "很高興見到你，魚！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/19",
+  "value" : "一起去游泳吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/20",
+  "value" : "有時候你讓我想到了魚和薯條，忍不住手指就放上去了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/21",
+  "value" : "生活在水下好酷炫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/22",
+  "value" : "聽說你們的建築很驚豔"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/23",
+  "value" : "你看上去是有文化的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/24",
+  "value" : "你打敗過鯊魚嗎？也許這和問我有沒有打敗過老虎一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/25",
+  "value" : "說話的魚，有腳的鯊…天，我喜歡這地方！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/26",
+  "value" : "我的星球有大片海洋，然後觸手怪物出現了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/27",
+  "value" : "你是一隻平滑的魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/28",
+  "value" : "我們該經常約出去，魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/29",
+  "value" : "噁心，你們都好黏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/30",
+  "value" : "裝備不錯，哪裡來的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/31",
+  "value" : "我懷念冰涼的海風"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/0",
+  "value" : "你是純能量造的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/1",
+  "value" : "哇，從沒見過你這樣的人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/2",
+  "value" : "你會一直發光，還是有開關？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/3",
+  "value" : "哇，你真的與衆不同…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/4",
+  "value" : "你有眼睛嗎？你能看見東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/5",
+  "value" : "你好酷，真希望和你一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/6",
+  "value" : "你好閃亮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/7",
+  "value" : "你是什麼？…不管是什麼我都喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/8",
+  "value" : "您好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/9",
+  "value" : "你發的那個光，真的是太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/10",
+  "value" : "你完全不適合出演\"黑暗中的殺手\""
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/11",
+  "value" : "哦，我的眼睛，你太亮了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/12",
+  "value" : "漂亮的臉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/13",
+  "value" : "你的光晚上招蟲子嗎？我收集蟲子…"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/14",
+  "value" : "你在派對上一定很受歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/15",
+  "value" : "你不是這裡人，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/16",
+  "value" : "哇，你光彩奪目！你是要去參加慶典嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/17",
+  "value" : "好吧，我從沒見過你這樣的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/novakid/18",
+  "value" : "你有我從未見過的特質"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/0",
+  "value" : "很多葉族在開花，不錯的季節"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/1",
+  "value" : "你看上去不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/2",
+  "value" : "火很嚇人，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/3",
+  "value" : "葉族什麼都不怕！除了火"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/4",
+  "value" : "昨晚綠手指說了一個和火有關的恐怖故事，從來不玩火柴！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/5",
+  "value" : "我喜歡下雨天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/6",
+  "value" : "葉族喜歡看著東西成長"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/7",
+  "value" : "葉族在陽光下覺得自己很強大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/8",
+  "value" : "葉族不喜歡陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/9",
+  "value" : "很可疑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/10",
+  "value" : "葉子吧，大概"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/11",
+  "value" : "如果不禮貌，葉族會戳你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/12",
+  "value" : "葉族不理解你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/13",
+  "value" : "葉族不認字！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/14",
+  "value" : "葉族很浮躁，戳刺不夠多"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/15",
+  "value" : "戳刺，故葉族在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/16",
+  "value" : "呀噫!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/17",
+  "value" : "種植讓我開心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/18",
+  "value" : "今天是美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/19",
+  "value" : "葉族喜歡冒險，我們有冒險精神"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/20",
+  "value" : "宇宙中一定有很多森林雨林"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/21",
+  "value" : "葉族今天要狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/22",
+  "value" : "來狩獵！開跑！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/23",
+  "value" : "什麼是\"浪漫\"？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/24",
+  "value" : "感覺暴風雨要來了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/25",
+  "value" : "葉族喜歡住在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/26",
+  "value" : "你們很好，我們什麼時候可以一起吃肉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/27",
+  "value" : "葉族什麼都不怕！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/28",
+  "value" : "刺刺刺！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/29",
+  "value" : "葉族孤獨，葉族很高興你在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/30",
+  "value" : "都不想刺你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/31",
+  "value" : "葉族思考自然的存在，葉族尋找精神指引"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/32",
+  "value" : "葉族現在沒法說話，葉族有的時候會迷失"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/33",
+  "value" : "葉族頭痛，讀了一頁書"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/34",
+  "value" : "葉族今天刺了十個東西！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/35",
+  "value" : "你有過葉族朋友嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/36",
+  "value" : "葉族有空的時候做矛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/37",
+  "value" : "葉族想刺東西但要規矩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/38",
+  "value" : "葉族什麼都不怕！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/39",
+  "value" : "這裡很不錯，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/40",
+  "value" : "葉族很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/41",
+  "value" : "刺？刺刺！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/42",
+  "value" : "朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/43",
+  "value" : "讓你看看什麼是最好的戳刺專家"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/44",
+  "value" : "葉族提議我們一同狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/45",
+  "value" : "一個朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/46",
+  "value" : "你擅長戳刺嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/47",
+  "value" : "說不了話，我的矛丟了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/48",
+  "value" : "葉族感覺像在玩躲貓貓"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/49",
+  "value" : "葉族感覺不太好，吃了老肉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/50",
+  "value" : "葉族等下要跳舞，跳舞和狩獵一樣棒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/51",
+  "value" : "葉族討厭在室內呆太久"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/52",
+  "value" : "你更喜歡什麼，太陽還是雨？葉族都喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/53",
+  "value" : "葉族從未點過火，都是讓其他人做"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/54",
+  "value" : "葉族在客人面前很有禮貌"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/55",
+  "value" : "我們是朋友嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/56",
+  "value" : "葉族今天很高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/57",
+  "value" : "葉族聽到了令人不安的流言"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/58",
+  "value" : "刺穿一切！滿足自己！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/59",
+  "value" : "葉族很開心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/60",
+  "value" : "葉族不喜歡他人的評論"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/61",
+  "value" : "交新朋友讓葉族很開心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/62",
+  "value" : "葉族今天不戳刺了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/63",
+  "value" : "猛刺"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/64",
+  "value" : "葉族有時會傷到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/65",
+  "value" : "葉族今天有很多事要做"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/66",
+  "value" : "葉族累了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/67",
+  "value" : "開吃！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/68",
+  "value" : "葉族今天感覺不好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/69",
+  "value" : "葉族想跳舞"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/70",
+  "value" : "你看上去很有趣，我能追你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/71",
+  "value" : "你會做矛嗎？葉族需要新的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/72",
+  "value" : "我不會狩獵像你的人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/73",
+  "value" : "葉族覺得你很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/74",
+  "value" : "葉族不懂你的興趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/75",
+  "value" : "葉族喜歡你，我們是朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/76",
+  "value" : "葉族不戳刺，葉族很好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/77",
+  "value" : "你喜歡什麼植物？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/78",
+  "value" : "我們來比一場，我抓到的獵物一定比你多！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/79",
+  "value" : "你擅長狩獵嗎？如果想在這裡獲得尊重，最好會狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/80",
+  "value" : "葉族肯定我們能做朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/81",
+  "value" : "你會閱讀嗎？葉族會"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/generic/82",
+  "value" : "葉族學習禮法"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/0",
+  "value" : "奇怪的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/0",
+  "value" : "屠夫！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/1",
+  "value" : "愚蠢的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/2",
+  "value" : "葉族聽說人肉味道不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/3",
+  "value" : "如果有毛髮是怎麼樣的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/4",
+  "value" : "葉族聽說人類愛好和平，和平不錯，狩獵更棒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/5",
+  "value" : "葉族喜歡肉！但不吃你，大概吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/6",
+  "value" : "注意點，肉類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/7",
+  "value" : "生物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/8",
+  "value" : "葉族聽說地球被怪獸吃掉了，葉族幫你打怪獸？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/9",
+  "value" : "葉族發現人類很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/10",
+  "value" : "葉族教人類戳刺的藝術"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/11",
+  "value" : "歡迎，皮膚人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/12",
+  "value" : "葉族從未見過人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/13",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/14",
+  "value" : "人類衝葉族說話，葉族微笑點頭"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/15",
+  "value" : "如果你們不打獵，怎麼知道誰是最強的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/16",
+  "value" : "葉族想要拔愚蠢人類的頭髮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/17",
+  "value" : "你們的牙齒和葉族一樣鋒利嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/18",
+  "value" : "葉族覺得人類來這裡很勇敢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/19",
+  "value" : "葉族看到了人類的太空船，很羨慕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/20",
+  "value" : "葉族希望和人類成為最好的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/21",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/22",
+  "value" : "人類不長葉子，葉族同情人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/23",
+  "value" : "葉族想要向人類展示如何用矛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/0",
+  "value" : "葉族喜歡猴人的味道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/1",
+  "value" : "生物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/2",
+  "value" : "注意點，肉類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/3",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/4",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/5",
+  "value" : "葉族比笨蛋黑猩猩強"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/6",
+  "value" : "葉族對猴子心存疑慮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/7",
+  "value" : "你們的牙齒和葉族一樣鋒利嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/8",
+  "value" : "猴人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/9",
+  "value" : "葉族喜歡肉！但不吃你，大概吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/10",
+  "value" : "猴人穿著愚蠢的衣物"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/11",
+  "value" : "你擅長爬樹嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/12",
+  "value" : "葉族聽說猿族很聰明，但沒有葉族的綠手指聰明"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/13",
+  "value" : "什麼是\"鎮壓\"？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/14",
+  "value" : "猿族很強！你似乎是個好戰士"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/15",
+  "value" : "如果你們不打獵，怎麼知道誰是最強的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/16",
+  "value" : "葉族和猴人在一起很安心"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/17",
+  "value" : "葉族現在起不刺猿族了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/18",
+  "value" : "葉族說你好，和大猴子友好相處"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/19",
+  "value" : "葉族覺得猿族很得葉族喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/20",
+  "value" : "猴子來看葉族的房子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/21",
+  "value" : "葉族承認葉族害怕猴人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/22",
+  "value" : "葉族毫無緣由打過一個猴子，不道歉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/23",
+  "value" : "葉族想要猴子的衣服"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/24",
+  "value" : "葉族想知道，什麼是跳蚤？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/25",
+  "value" : "讚美葉族的葉子，猴人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/26",
+  "value" : "葉族想知道猴人喜不喜歡葉族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/27",
+  "value" : "葉族覺得猴子風趣友善"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/28",
+  "value" : "葉族絕對不會傷害猴子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/29",
+  "value" : "傻猴子，葉族喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/0",
+  "value" : "鳥人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/1",
+  "value" : "葉族喜歡翼族的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/2",
+  "value" : "葉族很遺憾鳥人不能飛，不然狩獵起來更有挑戰性"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/3",
+  "value" : "葉族想打一下鳥人的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/4",
+  "value" : "葉族想知道庫魯克斯是不是真的那麼堅強"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/5",
+  "value" : "鳥人！你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/6",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/7",
+  "value" : "注意點，肉類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/8",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/9",
+  "value" : "葉族喜歡看鳥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/10",
+  "value" : "鳥人想聽葉族讀書嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/11",
+  "value" : "羽毛和花瓣一樣亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/12",
+  "value" : "你吃種子？你這個怪獸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/13",
+  "value" : "庫魯克斯和善嗎？是什麼樣的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/14",
+  "value" : "葉族喜歡肉！但不吃你，大概吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/15",
+  "value" : "葉族聽說翼族做過祭品，你吃過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/16",
+  "value" : "你安全了，葉族喜歡紅肉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/17",
+  "value" : "葉族今天很忙，鳥人也忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/18",
+  "value" : "風吹過羽毛和風吹過葉子感覺一樣好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/19",
+  "value" : "羽毛和花都好看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/20",
+  "value" : "鳥嘴是天然的矛！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/21",
+  "value" : "你好鳥人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/22",
+  "value" : "你是猛禽嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/23",
+  "value" : "葉族聽說過鳥人的墳墓，葉族想去看看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/24",
+  "value" : "羽毛讓葉族打噴嚏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/25",
+  "value" : "如果你們不打獵，怎麼知道誰是最強的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/26",
+  "value" : "葉族看鳥，大笑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/27",
+  "value" : "好看的小鳥，葉族不刺"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/28",
+  "value" : "葉族看到鳥人很激動！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/29",
+  "value" : "另外一個鳥人說葉族沒有社交技巧，葉族刺了一下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/30",
+  "value" : "葉族向鳥展示收藏的矛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/31",
+  "value" : "鳥人！葉族致以問候！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/32",
+  "value" : "葉族人求大鳥和葉族人說話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/0",
+  "value" : "葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/1",
+  "value" : "葉族人一個比一個會打獵！葉族人知道的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/2",
+  "value" : "葉族人在你身上聞到了鮫族的味道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/3",
+  "value" : "葉族人不是來惹是生非的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/4",
+  "value" : "葉族人想葉族人是不是真的是葉族人人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/5",
+  "value" : "葉族人在想你是不是在太空裡遇到了大獵物？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/6",
+  "value" : "葉族人不太熟悉新的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/7",
+  "value" : "你打了多久獵了？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/8",
+  "value" : "你似乎很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/9",
+  "value" : "葉族人喜歡花"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/10",
+  "value" : "你是好葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/11",
+  "value" : "也許哪天我們可以一起狩獵？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/12",
+  "value" : "葉族人是個好獵手。也許是最好的！你呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/13",
+  "value" : "你看起來很重要，你是綠手指嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/14",
+  "value" : "葉族人是個吃猿人的麻煩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/15",
+  "value" : "你好葉族人的朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/16",
+  "value" : "狩獵狩獵狩獵！每一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/17",
+  "value" : "葉族人推薦《刺殺的藝術》"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/18",
+  "value" : "葉族人在這是大人物"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/0",
+  "value" : "葉族人向金屬人打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/1",
+  "value" : "葉族人人請求看一看機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/2",
+  "value" : "葉族人希望機器人教葉族人數學！機器人數學很厲害不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/3",
+  "value" : "葉族人永遠愛機器人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/4",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/5",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/6",
+  "value" : "葉族人拍了拍金屬人的頭，咣啷咣啷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/7",
+  "value" : "葉族人看到機器人很激動"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/8",
+  "value" : "機器人似乎很友善"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/9",
+  "value" : "葉族人喜歡機器人發出的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/10",
+  "value" : "一個綠手指可以知道你在裡面怎麼工作"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/11",
+  "value" : "沒有肉？不感興趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/12",
+  "value" : "葉族人聽到機器人肚肚裡面有火。葉族人不喜歡火"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/13",
+  "value" : "你聞起來不像食物，唔"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/14",
+  "value" : "你的金屬可以用來做鋒利的矛頭"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/15",
+  "value" : "葉族人想機器人留下來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/16",
+  "value" : "葉族人喜歡金屬人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/17",
+  "value" : "葉族人給機器人顯擺技能"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/18",
+  "value" : "葉族人認為金屬人很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/19",
+  "value" : "葉族人從沒有打機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/20",
+  "value" : "機器人對葉族人很友好，葉族人尊敬機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/21",
+  "value" : "葉族人希望機器人喜歡這個地方"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/22",
+  "value" : "機器人和葉族人是朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/23",
+  "value" : "葉族人想要機器人衣服"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/24",
+  "value" : "葉族人想知道機器人喜歡葉族人的葉子嘛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/25",
+  "value" : "看見機器人葉族人就很高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/0",
+  "value" : "魚人聞起來很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/1",
+  "value" : "魚人也打獵嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/2",
+  "value" : "你以前遇見過葉族人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/3",
+  "value" : "葉族喜歡肉！但不吃你，大概吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/4",
+  "value" : "生物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/5",
+  "value" : "注意點，肉類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/6",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/7",
+  "value" : "你的家鄉有葉族人居住嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/8",
+  "value" : "苗條的小東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/9",
+  "value" : "什麼是\"和平主義者\""
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/10",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/11",
+  "value" : "如果你們不打獵，怎麼知道誰是最強的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/12",
+  "value" : "水下面有森林？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/13",
+  "value" : "葉族人曾經殺害上百萬鮫族？天哪，很抱歉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/14",
+  "value" : "葉族人曾經在這裡見過一隻鯊魚。現在死了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/15",
+  "value" : "魚人看起來滑滑的閃閃發光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/16",
+  "value" : "魚人和其他肉人聞起來不同"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/17",
+  "value" : "三隻眼！葉族人要是有三隻眼就可以抓到很多獵物啦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/18",
+  "value" : "你眼睛為什麼是紅的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/19",
+  "value" : "你的牙齒和葉族人一樣尖銳嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/20",
+  "value" : "魚人見過很多葉族人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/21",
+  "value" : "你最近抓了多少獵物？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/22",
+  "value" : "魚人以前肯定沒有聽說過葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/23",
+  "value" : "綠手指告訴葉族人一個鮫族告訴他說葉族人殺了鮫族的祖先。對不起"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/24",
+  "value" : "喂，魚人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/25",
+  "value" : "葉族人老遠就聞到你啦！小心，這會讓你們暴露的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/26",
+  "value" : "你能游多快？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/27",
+  "value" : "你是魚還是水螈？對我來說都是肉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/28",
+  "value" : "你們魚人喜歡劍還是矛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/29",
+  "value" : "魚人吃肉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/30",
+  "value" : "你中間的眼睛是真的嗎？還是為了捕獵畫的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/31",
+  "value" : "葉族人比魚人跳的跟高！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/32",
+  "value" : "這裡有多少魚人？我打賭沒有葉族人人多！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/0",
+  "value" : "光！光人！你是火嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/1",
+  "value" : "火人讓葉族人很不安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/2",
+  "value" : "注意言行，蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/3",
+  "value" : "你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/4",
+  "value" : "葉族人很害怕。你和葉族人人是一邊的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/5",
+  "value" : "你有臉的嗎？怪傢夥？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/6",
+  "value" : "如果你們不打獵，怎麼知道誰是最強的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/7",
+  "value" : "你是肉類還是植物？你是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/8",
+  "value" : "你的顏色比任何花都鮮豔"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/9",
+  "value" : "看起來你可以用手來煮肉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/10",
+  "value" : "真漂亮！你真好看！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/11",
+  "value" : "遇見像星星一樣亮眼的人真好！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/12",
+  "value" : "葉族人從沒見過星之子。只聽說過傳聞"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/13",
+  "value" : "你從哪裡來？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/14",
+  "value" : "葉族人希望能和你一樣耀眼"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/15",
+  "value" : "想哪天和葉族人一起去打獵嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/16",
+  "value" : "葉族人喜歡變化無常的生物"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/17",
+  "value" : "閃閃發光讓它很難潛伏"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/18",
+  "value" : "你是光亮的時候怎麼潛藏？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/19",
+  "value" : "你聞起來不像葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/novakid/20",
+  "value" : "不要靠我這麼近，我怕光！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/0",
+  "value" : "嚇人，你在這幹嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/1",
+  "value" : "無聊，好吧其實很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/2",
+  "value" : "好鬥。你為什麼要惹我？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/3",
+  "value" : "陰沉。我找不到我最喜歡的靴子了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/4",
+  "value" : "平靜。今天到目前為止還順利"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/5",
+  "value" : "歡樂。你看起來很滑稽！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/6",
+  "value" : "高興。我今天抓到八隻蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/7",
+  "value" : "開心。今天我生日"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/8",
+  "value" : "困惑。我把我的帽子怎麼了？剛才還在我手上！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/9",
+  "value" : "困惑。這兒發生什麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/10",
+  "value" : "不安。你為什麼在這？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/11",
+  "value" : "急躁。我有事情要做！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/12",
+  "value" : "鼓舞。我喜歡我的家"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/13",
+  "value" : "分心。哈？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/14",
+  "value" : "驕傲。你覺得這個地方怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/15",
+  "value" : "擔心。我想有個螺絲鬆了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/16",
+  "value" : "擔心。保持距離。我覺得我感染病毒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/17",
+  "value" : "傷感。一天又一天，時間好像停止了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/18",
+  "value" : "激動。待會我要檢查我的鰻魚籠子。祝我好運！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/19",
+  "value" : "驕傲。人們經常覺得我像帝王一般"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/20",
+  "value" : "殺氣騰騰！我現在很不爽"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/21",
+  "value" : "失落。為什麼煮飯這麼難？我做的菜都好難吃"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/22",
+  "value" : "無聊。我連著喝了八天肉湯了。你沒有菜單真幸運！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/23",
+  "value" : "羞羞。你長得真好看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/24",
+  "value" : "愁眉苦臉。我的豬豬跑了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/25",
+  "value" : "擔心。似乎有什麼不對勁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/26",
+  "value" : "打心底。我不想和你說話"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/27",
+  "value" : "求求你不要走。我想有個伴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/28",
+  "value" : "高興。我喜歡城堡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/29",
+  "value" : "滿足。多麼美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/30",
+  "value" : "好奇。你嘗過機械番茄嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/31",
+  "value" : "好奇。你們種族怎麼區分性別？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/32",
+  "value" : "友好。見到你很高興"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/33",
+  "value" : "累死了。最近忙死了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/34",
+  "value" : "真誠的。你真討人喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/35",
+  "value" : "惱怒。我找不到我的弓鋸了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/36",
+  "value" : "怨恨。我朋友說我燉的菜很難吃。我燉的菜很好吃！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/37",
+  "value" : "有志氣！某天我一定會成為了不起的鐵匠"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/38",
+  "value" : "不知所措。你在這幹嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/39",
+  "value" : "疲累的。我想睡覺了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/40",
+  "value" : "驚訝。請別按我的按鈕了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/41",
+  "value" : "考慮周全的。生理上我們不可能有更多不同了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/42",
+  "value" : "愉快。多麼漂亮的生物!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/43",
+  "value" : "困惑。我想不起我今天要做什麼了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/44",
+  "value" : "吃驚。嗨……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/45",
+  "value" : "害怕。啊啊啊！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/46",
+  "value" : "煩惱。我覺得我把我的鏟子埋了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/47",
+  "value" : "懷疑。你在這幹嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/48",
+  "value" : "好奇。你從哪來的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/49",
+  "value" : "絕望。你不會恰好有個齒條吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/50",
+  "value" : "好奇，你是個騎士嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/51",
+  "value" : "惱怒。我真沒空閒聊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/52",
+  "value" : "擔心。我想我把我朋友的工作台弄壞了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/53",
+  "value" : "了不起。你好像很重要"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/54",
+  "value" : "擔心。每次我俯身背都咔嚓響"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/55",
+  "value" : "焦慮。你有沒有在這附近看到只小雞"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/56",
+  "value" : "沒印象。你不吸引人？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/57",
+  "value" : "血槽回滿。我打了個盹"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/58",
+  "value" : "心煩意亂。我把最好的頂針弄丟了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/59",
+  "value" : "歇斯底裡。別管我！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/60",
+  "value" : "激動。噢！見到個新的人真好！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/61",
+  "value" : "狂喜。我的表妹今天來了，她人很有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/62",
+  "value" : "害怕，這個宇宙到處都是怪獸！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/63",
+  "value" : "高興。我明天放假"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/64",
+  "value" : "感興趣。星際旅行讓你高興？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/65",
+  "value" : "累了。我的腳痠，背也疼。我的眼睛燈泡都暗了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/66",
+  "value" : "傻笑。呵呵呵呵呵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/67",
+  "value" : "不滿意。一天天的老樣子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/68",
+  "value" : "慚愧。我在小雞的數量上對朋友們撒了謊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/69",
+  "value" : "高興。真是個友善的地方"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/70",
+  "value" : "滿足。我覺得我會在這裡度過下半輩子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/71",
+  "value" : "無聊。時間好像停止了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/72",
+  "value" : "內心受傷。什麼人把我的小雞壓扁了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/73",
+  "value" : "傷心。我和小夥伴有誤會。現在他都不理我了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/74",
+  "value" : "熱情洋溢。我在學習魯特琴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/75",
+  "value" : "好奇。什麼風把你吹來了朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/76",
+  "value" : "歡迎的。多麼友善的面孔！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/77",
+  "value" : "鼓舞。多麼美好的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/78",
+  "value" : "困惑。我以為我在這落了個蘋果"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/79",
+  "value" : "糊塗。對不起。我才起牀。你在說什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/80",
+  "value" : "生氣，我肩膀可不是用來給你照鏡子的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/81",
+  "value" : "挑剔。時尚品味是沒有標準的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/generic/82",
+  "value" : "有意思。你的種族外貌嚴重缺乏一致性"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/0",
+  "value" : "疑惑。你是什麼種類？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/0",
+  "value" : "噁心。肥肥的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/1",
+  "value" : "可憐。我聽說地球發生了什麼。真糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/2",
+  "value" : "悲傷。我希望我在保護地"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/3",
+  "value" : "擔心。你覺得地球發生的慘劇會在這發生嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/4",
+  "value" : "悲傷。地球上發生的額事情真糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/5",
+  "value" : "好奇。做人類是什麼樣子？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/6",
+  "value" : "好奇。地球小雞和機器人小雞有什麼相同？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/7",
+  "value" : "不安，人臉表情太豐富了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/8",
+  "value" : "快樂。一個人類！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/9",
+  "value" : "詫異。你是猿人？你的皮毛呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/10",
+  "value" : "惱怒。注意點你放肉塊的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/11",
+  "value" : "好奇。你怎麼處理胖胖的殼的晃動？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/12",
+  "value" : "好奇。那你為什麼在你身體上穿上那麼肉？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/13",
+  "value" : "小心。我聽說人類通常有病毒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/14",
+  "value" : "不安。你走路搖搖晃晃的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/0",
+  "value" : "震驚。多麼毛絨絨的生物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/1",
+  "value" : "不安。附近沒有猴子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/2",
+  "value" : "小心。你看起來很強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/3",
+  "value" : "好開心。猿族人是我最喜歡的類別！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/4",
+  "value" : "困惑。你是人類？怎麼有那麼多毛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/5",
+  "value" : "困惑。老大猿是猿族人還是其他東西？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/6",
+  "value" : "開心。我喜歡香蕉麵包！你有一些嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/7",
+  "value" : "同情。我聽說了迷你克諾格的糟糕事情。為你們感到難過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/8",
+  "value" : "挑剔。你的髮質天生很好，你應該好好養護"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/9",
+  "value" : "好客。你想要一根香蕉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/10",
+  "value" : "好奇。你有沒有可能和傳說的野人有關？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/11",
+  "value" : "好奇。什麼是迷你克諾格？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/12",
+  "value" : "好奇。猿人你的皮毛有什麼用？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/13",
+  "value" : "友好。你可以隨時在這裡休息。猿人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/14",
+  "value" : "讚美。你的皮毛看起來好棒！如果我是個猿族也想那樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/15",
+  "value" : "警告。你是大猿嗎？因為我想像不出有猿人比你還大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/16",
+  "value" : "傷感。對不起。我走神了，想像著你的毛髮被微風拂動"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/17",
+  "value" : "猶豫。如果我的手指摸過你的毛髮你會生氣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/18",
+  "value" : "懇求。也許某天你可以向機器人解釋香蕉聖代的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/0",
+  "value" : "輕蔑。據說鳥人信仰一個披有羽毛的神，是真的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/1",
+  "value" : "希望。我可以從你這買個蛋嗎？你的蛋一定很大"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/2",
+  "value" : "高興。正如我自己需要一片羽毛一樣。給你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/3",
+  "value" : "沉思。先有哪個？你的蛋還是，錯誤"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/4",
+  "value" : "平靜。對於你們鳥人，我沒有一點負面想法"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/5",
+  "value" : "好奇。冬天你會往南方去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/6",
+  "value" : "好去。翼族人的骨頭是真空的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/7",
+  "value" : "歡迎。我的小夥伴你喜歡這兒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/8",
+  "value" : "友好。我的翼族朋友，向你問候"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/9",
+  "value" : "迷住。你們是從雞起源的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/10",
+  "value" : "緊張。你不是來偷我的穀物的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/11",
+  "value" : "好客。這附近我有一些種子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/12",
+  "value" : "真實的。我一點也不知道翼族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/13",
+  "value" : "有趣。廟宇和城堡想像嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/14",
+  "value" : "沉思。我想機器人騎士和翼族勇士打架誰會勝出"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/15",
+  "value" : "好奇。庫魯克斯長什麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/16",
+  "value" : "著迷的。我喜歡你的嘴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/17",
+  "value" : "激動。鳥類是我最喜歡的動物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/18",
+  "value" : "有趣。你可以做一個非常舒服的羽毛枕頭"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/19",
+  "value" : "不感興趣。有一天一群你們同類從這經過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/20",
+  "value" : "警惕。在這兒的時候請剋制一下你對閃閃發光東西的熱情"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/21",
+  "value" : "關心。天哪，你有個非常鋒利的嘴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/22",
+  "value" : "高興。歡迎你，鳥人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/23",
+  "value" : "羞怯。你有漂亮的羽毛。我可以要一根嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/24",
+  "value" : "嫉妒。我想羽毛看起來很好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/25",
+  "value" : "好奇。什麼風把你吹來了？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/26",
+  "value" : "高興。祝你開心鳥人夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/27",
+  "value" : "友好。我希望你感覺不錯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/28",
+  "value" : "快樂。幸會，我的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/29",
+  "value" : "小心。我以前見過一個鳥人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/0",
+  "value" : "友善。問候你，植物人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/1",
+  "value" : "好奇。你是天生的還是長成的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/2",
+  "value" : "責備。別吃任何人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/3",
+  "value" : "害怕，你的牙齒好鋒利！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/4",
+  "value" : "焦慮。你看起來很禮貌。但是我不能確定你不打算吃我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/5",
+  "value" : "勇敢。你的牙齒刺不過我的外殼"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/6",
+  "value" : "友好。很高興見到你植物人。我們這土壤很肥沃"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/7",
+  "value" : "誠實。葉族人人你外表很嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/8",
+  "value" : "嫉妒。我希望機器人可以長花"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/9",
+  "value" : "緊張。所有的葉族人人都兇猛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/10",
+  "value" : "好奇。你們需要修剪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/11",
+  "value" : "沉思。有時候大佬和女人去狩獵。我不覺得像葉族人人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/12",
+  "value" : "熱情。機器人能成為綠手指嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/13",
+  "value" : "緊張。你是友好的是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/14",
+  "value" : "好奇。你的樹葉秋天會掉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/15",
+  "value" : "高興。你聞起來像花一樣。好甜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/16",
+  "value" : "勇敢。你沒有被嚇到耶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/17",
+  "value" : "高興。植物人別嚇人啦。我們不想每個人都跑到山上"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/18",
+  "value" : "臨時想起。我可以摘一片你的葉子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/19",
+  "value" : "吃驚。噢，我注意到你在這兒，我以為你是跟有斑點的草"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/20",
+  "value" : "緊張。你會在這呆很久嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/21",
+  "value" : "入迷了。你有很可愛的花蕾"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/22",
+  "value" : "擔心。請不要吃我們牲畜"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/23",
+  "value" : "緊張。你不會真的吃人吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/24",
+  "value" : "抱希望的。我可以聞聞你的花嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/25",
+  "value" : "好心。你看起來很友善。我覺得人們誤會你們葉族人了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/26",
+  "value" : "友善。你是有刺嗎？我可以抱你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/27",
+  "value" : "敬畏。你真好看！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/28",
+  "value" : "好奇。你的葉子只是裝飾嘛？有什麼生理作用？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/29",
+  "value" : "了不起。我不知道組織可以這麼強壯！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/30",
+  "value" : "友好。你想要一些水嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/31",
+  "value" : "好奇。植物人可以只靠水和陽光生存嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/32",
+  "value" : "友好。我覺得植物人種很可愛，不管別人怎麼說！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/0",
+  "value" : "輕佻。你的眼光炯炯有神！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/1",
+  "value" : "了不起，你真耀眼"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/2",
+  "value" : "鼓舞。遇見新的機器人總是很美好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/3",
+  "value" : "尷尬。我生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/4",
+  "value" : "不安。遇見陌生的機器人很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/5",
+  "value" : "輕蔑。我沒時間和追求冒險的機器人打交道"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/6",
+  "value" : "專心。我想你右邊眼睛燈泡裡有個豁口"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/7",
+  "value" : "熱情。讓我們來玩抓子遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/8",
+  "value" : "無聊。哦，另一個機器人，耶！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/9",
+  "value" : "了不起。我從沒見過這麼一個富於冒險精神的機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/10",
+  "value" : "累了。你們年輕機器人哪來這麼多精力？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/11",
+  "value" : "高興。多麼好的機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/12",
+  "value" : "鼓舞。我要學習用劍戰鬥！也許我可以成為一個騎士！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/13",
+  "value" : "深思。噓，我有新想法了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/14",
+  "value" : "擔心。你沒有病毒吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/0",
+  "value" : "慷慨。也許你想檢查一些機器人的構造，好來改進你自身的設計"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/1",
+  "value" : "羨慕。能夠游過大海肯定很解脫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/2",
+  "value" : "安心。看起來機器人不是唯一缺少閃亮秀髮的種族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/3",
+  "value" : "害羞。我一直是你們種族超強藝術技藝的粉絲！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/4",
+  "value" : "激勵。有時候我嘗試游泳的時候我可以浮起來。但是有時候我會沉下去"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/5",
+  "value" : "有趣。我從來沒喝過茶。好喝嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/6",
+  "value" : "好奇。你畫畫？我聽說鮫族人都畫畫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/7",
+  "value" : "叫。我曾經寫過一首很棒的詩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/8",
+  "value" : "有趣。我想哪天想去一個鮫族的圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/9",
+  "value" : "警惕。我有點怕魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/10",
+  "value" : "好奇。鮫族人喜歡雨嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/11",
+  "value" : "友善的。我遇見的每個鮫族人都很有禮貌"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/12",
+  "value" : "嫉妒。鮫族的建築比機器人城堡好看多了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/13",
+  "value" : "好奇。我從沒去過圖書館，它們是什麼樣子？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/14",
+  "value" : "好奇。我知道鮫族畫畫寫字。但是他們跳舞嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/15",
+  "value" : "高興！噢！一個鮫族人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/16",
+  "value" : "困惑。我以為鮫族得呆在水下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/17",
+  "value" : "害羞。我可以給你泡點茶嗎？我很擅長泡茶"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/18",
+  "value" : "傷心。和平主義似乎註定失敗。我的鮫族朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/19",
+  "value" : "諷刺。請你再告訴我有關鮫族技藝的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/20",
+  "value" : "好客。如果機器人傢俱不和你胃口，我向你道歉"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/21",
+  "value" : "思鄉。你的味道讓我想起我年輕的時候去海邊的旅行的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/22",
+  "value" : "好奇。鮫族人需要洗澡的時候怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/23",
+  "value" : "有意思。你在岸上呆的時間多還是在水裡？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/24",
+  "value" : "推理的。你的口袋裡有條魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/25",
+  "value" : "吹噓的。機器人的傢俱比鮫族傢俱持久時間長十倍"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/26",
+  "value" : "好奇。你會用遮蔽物躲雨嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/27",
+  "value" : "希望的。如果你不是太忙，也許可以帶我出海一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/0",
+  "value" : "困惑。你是哪種生物？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/1",
+  "value" : "關心。你著火啦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/2",
+  "value" : "好奇。有更多像你這樣的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/3",
+  "value" : "驚奇。我不知道你是什麼做的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/4",
+  "value" : "詫異。你比我眼睛還亮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/5",
+  "value" : "擔心。我見過一個機器人那樣子發光。它病得很嚴重"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/6",
+  "value" : "困惑。你是什麼做的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/7",
+  "value" : "激動。新東西！很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/8",
+  "value" : "高興。你真的給這兒帶來了光亮"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/9",
+  "value" : "困惑。你的臉很奇怪。你是鐵匠做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/10",
+  "value" : "好奇。多麼奇怪的一個生物"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/11",
+  "value" : "友善。你肯定從沒有買過火把油"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/12",
+  "value" : "高興。我喜歡明亮的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/13",
+  "value" : "困惑。多麼奇異的遭遇"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/14",
+  "value" : "了不起。發光的軀體很有吸引力"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/15",
+  "value" : "困惑。你沒有臉是怎麼看東西的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/16",
+  "value" : "敵意。如果我看不到你的面部表情，我無法信任你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/17",
+  "value" : "歡迎。我信任任何人。甚至那些皮膚發光的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/18",
+  "value" : "好奇。你怎麼保持發光的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/novakid/19",
+  "value" : "好奇。你是生命體還是機械？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/0",
+  "value" : "你不是這兒的，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/1",
+  "value" : "你看起來是滿世界亂跑的類型——你是天上來的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/2",
+  "value" : "你覺得這個地方怎麼樣。很好，不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/3",
+  "value" : "糟，我忘記把我的班鳩琴扔哪兒了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/4",
+  "value" : "我覺得自己身材像小提琴一樣前凸後翹。你呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/5",
+  "value" : "如果忘了從哪來，也別忘了要往哪裡去！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/6",
+  "value" : "我的記性不太好，但不會忘記帶著腦袋！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/7",
+  "value" : "我感覺好像有暴風要來，現在才知道原來那就是你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/8",
+  "value" : "有句老話這樣說－－只在摩施群的上游喝酒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/9",
+  "value" : "天啊！我忘了我的小牙籤放在哪了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/10",
+  "value" : "你神情不太對啊。最近有麻煩了嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/11",
+  "value" : "你從哪兒來的不重要，要到哪兒去才是關鍵！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/12",
+  "value" : "歡聚總是讓我沉溺！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/13",
+  "value" : "你不會想整天聽我抱怨的。出去快活吧，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/14",
+  "value" : "萬一麻煩來敲門，你要學會怎麼鎖門"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/15",
+  "value" : "如果事情看起來不值得做，它應該就不值得做"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/16",
+  "value" : "給你個小建議－－如果你想從坑裡爬出來，就別再挖了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/generic/17",
+  "value" : "你有一雙敏銳的眼睛。我們來場射擊比賽怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/0",
+  "value" : "我可沒見過你這樣的人。你到底是誰啊？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/0",
+  "value" : "所以說，是不是所有你這樣的人都這麼，呃，多毛？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/1",
+  "value" : "大猩猩？是你的朋友嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/2",
+  "value" : "我以前是不是見過和你長得一樣的人啊，朋友？我記不得了呢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/3",
+  "value" : "迷你克諾格？沒聽說過，是某個啤酒品牌嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/4",
+  "value" : "獨裁者與叛軍？看來你的人民正身處水深火熱啊，是吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/5",
+  "value" : "你這樣的臉可不多見，想讓我忘了還真不容易"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/6",
+  "value" : "真希望我也能長一臉鬍子啊。可惜，我這腦袋可以說是寸毛不生"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/apex/7",
+  "value" : "你們這種人一定很聰明——看眼神就能看出來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/0",
+  "value" : "你是隻鳥吧？真是太神奇了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/1",
+  "value" : "我跟你說，你這麼多羽毛的傢夥可不多見吶！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/2",
+  "value" : "你這些羽毛清理起來一定很費勁吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/3",
+  "value" : "你是鳥人，但又不會飛？真是悽慘啊，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/4",
+  "value" : "身為小鳥卻不能飛上高空……感覺一定很糟吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/5",
+  "value" : "你也許確實沒有翅膀，但你永遠可以在夢中乘風翱翔啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/avian/6",
+  "value" : "我們見過嗎？總感覺如果我見到你這麼多羽毛的人絕對不會忘記的，但我又說不準……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/0",
+  "value" : "你是植物人？那你能跟風滾草對話嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/1",
+  "value" : "你是植物，哈？那可別離火苗太近咯！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/2",
+  "value" : "植物最喜歡太陽——我們相處應該會很融洽的吧"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/3",
+  "value" : "你繼續長，我繼續照"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/4",
+  "value" : "你的牙還真是漂亮啊。可別趁著我不注意把我給吃了，好不好？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/5",
+  "value" : "花人？好久沒看到你這麼漂亮的傢夥啦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/6",
+  "value" : "我聽人說你們這些植物可兇狠了，但我感覺你還好嘛！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/floran/7",
+  "value" : "你們的眼睛真大，肚量一定也很大吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/0",
+  "value" : "你的眼睛簡直像星星一樣閃亮……你那鐵殼底下真的和我們不一樣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/1",
+  "value" : "你是鐵做的吧？那生鏽了怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/2",
+  "value" : "你可別生鏽啊！我以前有支左輪槍就是這麼壞掉了呢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/3",
+  "value" : "你真是金屬製成的？哎呦我的天吶……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/4",
+  "value" : "你是金屬製成的機器，是吧？那是不是說是有人把你造出來的呢？……你知道是誰造的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/5",
+  "value" : "你是金屬做的？嗯，如果什麼時候磕了碰了，有了凹洞，找我給你敲回來就好啦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/6",
+  "value" : "我的鐵兄弟啊，你的服裝真是好看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/glitch/7",
+  "value" : "希望下回下雨你可不要生鏽呀！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/0",
+  "value" : "你看上去好傷心，是不是最近失去了什麼寶貴的東西啊？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/1",
+  "value" : "你是什麼人啊？根本都不發光呢……當然，我也不是歧視你啦"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/2",
+  "value" : "你們這種人都穿的像你這樣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/3",
+  "value" : "你看上去肉乎乎的好像很脆弱，但如果你是快槍手的話，還是不可小覷的嘛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/4",
+  "value" : "你不會發光嗎？那你們在暗處怎麼看東西的啊？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/5",
+  "value" : "朋友，你看起來可是風塵僕僕啊。你是想遠徵星辰大海嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/6",
+  "value" : "你這傢夥真是我見過最奇怪的人了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/7",
+  "value" : "我看你好像很困擾的樣子啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/8",
+  "value" : "保護者組織？抱歉，沒聽說過"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/9",
+  "value" : "你家離這裡很遠嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/human/10",
+  "value" : "不管你走得多遠，不要忘記偶爾回家看看哦，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/0",
+  "value" : "三隻眼，哈？還……還不錯嘛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/1",
+  "value" : "你的第三隻眼能看見什麼？要保密嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/2",
+  "value" : "你身上充滿了靈感的氣息啊。你是藝術家什麼的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/3",
+  "value" : "你游泳有多快？一定比我快吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/4",
+  "value" : "我聽說你們都很聰明。你覺得和我打撲克能贏嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/5",
+  "value" : "你渾身都充滿了貴族氣息啊。有人告訴過你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/6",
+  "value" : "哇，你的色彩都快趕上我啦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/hylotl/7",
+  "value" : "你的眼神好犀利，一定是眼裡揉不進沙子吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/0",
+  "value" : "你好啊，朋友！要一路強勁地閃耀下去哦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/1",
+  "value" : "一路閃耀下去吧，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/2",
+  "value" : "我的天，你長得和我好像呀！我們之前見過嗎？我記不得了呢……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/3",
+  "value" : "朋友，一路閃耀下去吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/4",
+  "value" : "我不記得了，我們以前見過嗎？感覺你很眼熟啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/5",
+  "value" : "你也會做那種夢嗎？你知道我說的是什麼吧，就是在群星之中的那種……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/6",
+  "value" : "狂放不羈的靈魂一定要保持啊，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/7",
+  "value" : "你有沒有感到過，我們這樣的人，以前是某種偉大事物的一部分？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/8",
+  "value" : "我感覺我們這些發光的傢夥，似乎是忘了什麼很重要的事呢……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/9",
+  "value" : "一路前行，閃耀奪目！老話就是這麼說的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/10",
+  "value" : "最近有沒有去放牧摩施群？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/11",
+  "value" : "我還在練習射擊的時候，就成了最精準的左輪槍射手了呢！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/12",
+  "value" : "喂，朋友！給你一句忠告——可別像我一樣，忘了自己是要去哪兒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/13",
+  "value" : "你，嗯，發光很強嘛……你之後有空嗎？"
+} ]

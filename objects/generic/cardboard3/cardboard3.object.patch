@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被打開的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "打開的紙箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個已經被打開的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個中等大小的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面用來存東西的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個紙板箱雖然很輕，但容積很大，可以存很多東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個紙板箱，看來已經打開了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個簡單的紙板箱，並不漂亮，但可以用來存東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個脆弱的盒子，裡面可以裝任何東西"
+} ]

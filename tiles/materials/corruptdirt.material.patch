@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "噁心的污染泥土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "污染的泥土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。泥土被污染了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "噁心的污染泥土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個污染泥土不太好"
+} ]

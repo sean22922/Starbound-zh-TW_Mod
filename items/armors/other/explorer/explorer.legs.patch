@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子是用輕巧的材料所製，可以緩解冒險者的疲勞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "探險者護腿甲"
+} ]

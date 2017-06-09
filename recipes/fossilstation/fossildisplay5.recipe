@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 150 },
-    { "item" : "goldbar", "count" : 30 }
-  ],
-  "output" : { "item" : "fossildisplay5", "count" : 1 },
-  "groups" : [ "craftingfossils", "fossildisplays" ]
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這傢夥看起來……很聰明"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾用的智者面具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這看起來像是個電子人面具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個面具對於電子人人來說是個警告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人使得電子人人看起來很沮喪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個面具看起來像一個機器人。\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為那是個電子人人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個電子人面具做得不是很準確"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我認出來了，這是一個機器人的臉"
+} ]

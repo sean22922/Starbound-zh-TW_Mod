@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張眼型的椅子。不要和高腳椅子混淆了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我認為我應該檢查這些眼睛看時候隱藏著迷你克諾格攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子看起來是……活的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族盯盯著椅子，一直等到它眨眼。越來越累。坐、坐了下去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。除了外觀，這張椅子簡直沒什麼可看的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當我坐在這把椅子上時，我感覺它深入了我的頭腦。我希望這只是一個錯覺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把舒適卻奇異的椅子。在它上面有一個眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "你坐在這張椅子上片刻休息都得不到。一直感覺被監視著……"
+} ]

@@ -1,0 +1,105 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "那麼，你需要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "什麼東西引起你的注意了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "讓我們做個交易！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/3",
+  "value" : "來看看！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/4",
+  "value" : "只要最好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/5",
+  "value" : "我知道我們有對你有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/0",
+  "value" : "那麼，你需要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/1",
+  "value" : "什麼東西引起你的注意了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/2",
+  "value" : "讓我們做個交易！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/3",
+  "value" : "來看看！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/4",
+  "value" : "只要最好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/5",
+  "value" : "我知道我們有對你有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "無論何時你需要物資，來我們這！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "有任何別的需要的，來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "如果你得到了像素，我們就拿到了貨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/0",
+  "value" : "無論何時你需要物資，來我們這！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/1",
+  "value" : "有任何別的需要的，來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/2",
+  "value" : "如果你得到了像素，我們就拿到了貨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/0",
+  "value" : "想要交易？跟我來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/1",
+  "value" : "在搞到一些物資後？我可以幫忙！跟我來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/2",
+  "value" : "啊，所以你需要一些物資，是嗎？這邊請！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "我們到了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/1",
+  "value" : "那麼現在，你在尋找什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/2",
+  "value" : "就是它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/0",
+  "value" : "需要一些物資？這事兒我能幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/1",
+  "value" : "如果這是你找的物資，我來處理這兒的交易！"
+} ]

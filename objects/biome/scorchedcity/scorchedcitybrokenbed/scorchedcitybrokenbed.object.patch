@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張壞掉的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破損的時尚牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "破損的牀，沒用了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "破損的牀，看起來被遺忘了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這張牀已經破損了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。這張牀已經破損了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張破損的牀，睡在上面是個壞主意"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張破損的牀。無法發揮作用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這牀已經相當破了"
+} ]

@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "<questGiver>的家庭大改造"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "重新裝修<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人想到了一件新傢俱。快去做吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族人的家太沉悶了。我們把它弄得明亮一點吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;敏銳。我決定改造我的家。你能幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;害羞。我的家需要裝……也許你能幫幫我？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;這個地方一點也不像家，少了點東西。你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我有個裝修房間的想法，但是我一個人沒法做。你能幫我一把嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人終於有了^orange;<object> ^white;葉族人想要！把它放在葉族人的房子裡一定很好看，所以^green;請把它放在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "那個^orange;<object> ^white;正是我家需要的！^green;請把它放在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "激動。你能^green; 把^orange;<object>^green;放在我家嗎？^white;你應該^green;騰點空間出來，^white;如果有必要的話"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "期待。就快完成了！你要做的就是^green;把^orange;<object>^green;放在我房子裡的^white;某個地方！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "好的，我覺得^orange;<object>^white;正是我想要的！^green;你能在我家裡找個地方放置它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "我覺得這個^orange;<object>^white;效果肯定很好！現在要做的就是^green;找個好地方放它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "葉族人對此很高興。葉族人的新<object>看起來很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "這個<object>讓我家變亮了！謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "狂喜。那個<object>真的改善了氣氛，你說是不是啊？謝謝你幫助我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "高興。我覺得<object>就是我家需要的。謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "就是這樣！放在這裡看起來太棒了！非常感謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "好多了！和我想像的看起來一樣。太感謝了，你可以常常來看你的成果！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我沒能幫助<questGiver>改善房子。<questGiver.pronoun.subject>一定會在沒有我的幫助下完成的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "<questGiver>的房子被我裝潢失敗了。它看起來比以前更糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "將<object>添至<questGiver>的房子"
+} ]

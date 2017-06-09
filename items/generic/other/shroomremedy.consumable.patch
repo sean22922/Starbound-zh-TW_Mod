@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種似乎可以幫助自然恢復的混合物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幻菇貼布"
+} ]

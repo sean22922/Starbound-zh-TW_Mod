@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "比煮豆子更豐富更美味"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "豆子肉湯"
+} ]

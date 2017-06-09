@@ -1,9 +1,0 @@
-{
-  "name" : "largeshortbody",
-  "category" : "largeflying",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "largeshortbody.png"
-  }
-}

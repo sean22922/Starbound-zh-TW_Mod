@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "它是用一整塊石頭雕刻出來的。這肯定要花好幾年才完工"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "從這個徽章來看，這裡是個會見室。據說人們可以在這裡拜見庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大鳥的眼睛對著屁股。它在哭著自己的蛋嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這裡除了人工石頭外別無他物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這眼睛很詭異。就好像翼族之神在注視著你一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這顆石頭被雕刻得好像要碎了。它應該被完好地保存起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不想穿過這隻鳥"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我發誓這眼睛一直在盯著我轉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族徽章"
+} ]

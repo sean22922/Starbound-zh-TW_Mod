@@ -1,9 +1,0 @@
-{
-  "name" : "tank",
-  "category" : "tank",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "tank.png"
-  }
-}

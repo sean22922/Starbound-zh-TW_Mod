@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "刀刃上刻著\"想什麼，就大聲說出來！\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "星淚軍刀DX"
+} ]

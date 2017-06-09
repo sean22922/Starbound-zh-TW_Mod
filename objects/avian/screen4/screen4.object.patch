@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不祥的雕像脈衝信號……這是什麼意思？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕像螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "雕像：我看不懂它們"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "只有占星師可以讀懂這些。我認得這些是獻祭雕像"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻氣的畫面。葉族人看不懂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真失望。我沒法翻譯這些"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "雕像：我的翻譯器讀不懂"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "古代記號。我的翻譯器無法解碼它們"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我對這些符號很陌生。無從下手"
+} ]

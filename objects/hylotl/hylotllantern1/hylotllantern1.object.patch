@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統紙燈籠"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "紙質吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "紙燈籠總覺得會成為安全隱患呢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我在想這東西著火的概率有多大"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紙燈籠對葉族人很危險！會著火！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不以為然。紙燈籠對身體和安全都不好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦，天啊。不要來蜜蜂！等等，這是個紙燈籠。太無聊了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "手工製作的紙燈籠。最終，水分會像侵蝕我們一樣，侵蝕掉它"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "紙片不應該放在火旁，傻瓜都知道吧"
+} ]

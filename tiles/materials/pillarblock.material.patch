@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "柱形磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "陳舊的石柱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歎服。我相信這個石柱一定很古老了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石柱很古老"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去很陳舊的石柱"
+} ]

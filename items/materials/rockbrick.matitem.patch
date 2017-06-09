@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套生產粗糙地岩磚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "岩磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "不驚訝。這些不過是像磚塊一樣堆放岩石"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堆放著的岩石"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "除了一堆石頭以外什麼都不是"
+} ]

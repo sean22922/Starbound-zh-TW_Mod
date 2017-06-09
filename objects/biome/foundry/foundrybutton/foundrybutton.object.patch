@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鑄造工作坊裡的一個按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造工作坊按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個控制鑄造廠設備的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個控制這裡的某樣設備的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "及其按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。控制鑄造廠某件設備的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個按鈕是幹嘛的？只有一個辦法能知道！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個磨損嚴重的機器按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個按鈕以前一定經常使用"
+} ]

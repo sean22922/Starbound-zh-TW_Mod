@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對腐化的機器人腿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機器人腿"
+} ]

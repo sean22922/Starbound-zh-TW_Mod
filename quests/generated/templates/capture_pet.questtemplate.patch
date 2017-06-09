@@ -1,0 +1,225 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/monster/example/name",
+  "value" : "堅果蠓蟲"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/tradedMonster/example/name",
+  "value" : "恐嘴鴉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "覺得它聞起來很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/1",
+  "value" : "不知道該餵它什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/2",
+  "value" : "覺得它有點噁心"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/3",
+  "value" : "怕它們怕得要死"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/4",
+  "value" : "覺得不太適合我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/5",
+  "value" : "不喜歡那副可怕的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/6",
+  "value" : "真的是被它嚇壞了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/7",
+  "value" : "認為它不是適合我的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/0",
+  "value" : "稍早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/1",
+  "value" : "不久之前"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/2",
+  "value" : "這周早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/3",
+  "value" : "昨晚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/4",
+  "value" : "昨天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/0",
+  "value" : "看起來你好像有比我更好的目標"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/1",
+  "value" : "你大概比我更擅長這個"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/2",
+  "value" : "你可能可以幫我抓一隻"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/3",
+  "value" : "我想你有足夠的能力幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/4",
+  "value" : "看起來你的技術正是我需要的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/0",
+  "value" : "你可以環顧一下，"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/1",
+  "value" : "何不到處看看？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/2",
+  "value" : "你應該到處看看，"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/0",
+  "value" : "我看見有幾隻在"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/1",
+  "value" : "我聽說有一群出沒在"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/2",
+  "value" : "有人告訴我說看見有一群出現在"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/0",
+  "value" : "與它一起狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/1",
+  "value" : "教它些技巧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/2",
+  "value" : "有了一個新的野獸朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/3",
+  "value" : "教它狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/0",
+  "value" : "你給我帶來了<monster>？！謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/1",
+  "value" : "你給我抓來了一隻<monster>？太好了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/2",
+  "value" : "哦，你抓到了<monster>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/3",
+  "value" : "你幫我帶來了<monster>？！謝謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/0",
+  "value" : "希望這隻<tradedMonster>你能滿意！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/1",
+  "value" : "我相信這隻<tradedMonster>跟你在一起更開心！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/2",
+  "value" : "給，現在你是寵物<tradedMonster>光榮的主人了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/3",
+  "value" : "給，這是你的<tradedMonster>。對它好一點哦！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/0",
+  "value" : "葉族人希望你喜歡這個<tradedMonster>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/1",
+  "value" : "這隻<tradedMonster>可以成為您的狩獵新夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "寵物<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我想要一隻<monster>陪伴我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;如果能有一隻自己的<monster>，我會很高興的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人想要一隻<monster>，需要別人幫我找一隻"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;不滿。我想要一隻<monster>來使喚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "有人給了我一隻<tradedMonster>，但由於我 <reason>。我更想要一隻^orange;<monster>^white;。\n^green;你能用這個 ^orange;寶貝球^white;幫我抓一隻嗎？如果你不清楚從何開始，\n<guide1><guide2>^orange;<spawnPoint.direction>的<spawnPoint>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "<earlier>我試著自己抓一隻^orange;<monster>^white;做寵物，可是卻失手抓住了這隻<tradedMonster>。\n<request>－^green;你能帶上這個^orange;寶貝球^white;然後為我^green;捉一隻<monster>^white;嗎？\n作為回報我會給你我的<tradedMonster>。\n如果你不確定從何開始，\n<guide1><guide2>^orange;<spawnPoint.direction>的<spawnPoint>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人用陷阱捉住了一隻<tradedMonster>，可是葉族人其實真的很想要一隻^orange;<monster>^white;。\n如果葉族人有一隻<monster>葉族人就能<florandreams>。^green;你能幫葉族人用這個^orange;寶貝球^white;\n捉一隻<monster>嗎嘶？\n葉族人在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近看見了一些"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "不滿狀。有人給了我一隻<tradedMonster>，但由於我<reason>，我更希望要一隻^orange;<monster>^white;。\n^green;你能幫我用這個^orange;寶貝球^white;捉一隻嗎？\n如果你不知道從何開始，\n<guide1><guide2>^orange;<spawnPoint.direction>的<spawnPoint>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "失望狀。我試著自己捉一隻^orange;<monster>^white; <earlier>，可是卻失手抓住了這隻<tradedMonster>。\n<request>－^green;你能帶上這個^orange;寶貝球^green;然後為我捉一隻<monster>^white;嗎？\n作為回報我會給你我的<tradedMonster>。\n如果你不確定從何開始，\n<guide1><guide2>^orange;<spawnPoint.direction>的<spawnPoint>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "<appreciation1><appreciation2>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "你給葉族人帶來了一隻<monster>？<floranappreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "欣喜若狂。<appreciation1><appreciation2>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "哎呀，我沒能幫<questGiver>得到他想要的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "捕獲一隻<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "將<monster>給<questGiver>"
+} ]

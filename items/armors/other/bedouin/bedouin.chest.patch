@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "層層的偽裝，探索未知領域的人專用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙漠斗篷"
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "中世紀壁爐"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "石頭做的壁爐。這時讓城堡暖和起來的好辦法"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀壁爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "火焰中的噼啪聲讓我放鬆下來"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "石頭的結構，裡面有火。看起來是取暖用的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人寧願挨凍，也不遠坐在火旁"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "聰明。我喜歡在寒冷的夜晚坐在火堆旁"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個溫暖的火爐。現在就差一包果汁軟糖了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在神人城市裡，溫度是很小心控制的。現在皮膚感覺到的火焰的溫暖很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "木頭燃燒的香甜氣味簡直是絕了"
+} ]

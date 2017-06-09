@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石葉族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葉族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "葉族化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"源於植物的葉族人擁有富含木質素的骨頭，看起來就像木頭一樣。\""
+} ]

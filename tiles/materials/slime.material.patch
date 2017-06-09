@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "厚重的粘球。戳它的話還會輕微晃動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "史萊姆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "遲疑。這個史萊姆看起來黏黏的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人愛死史萊姆了！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這史萊姆看起來有點噁心"
+} ]

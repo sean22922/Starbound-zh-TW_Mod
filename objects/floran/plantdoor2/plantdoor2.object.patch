@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道用輕木打造的伸縮門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伸縮木門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這道伸縮門很結實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "雖然是用輕木打造的，但是這道門很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "木是最強大的物質，因為它是來自植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這道木門非常堅固"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這道大木門是可以伸縮的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這道門重視功能過於形式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這道門是用木材打造的，但是我感覺它會很難擊破"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個棋盤遊戲，有紙板城堡和棋子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇幻的棋盤遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這類有創造性的遊戲在老大猿的政權下是違禁品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個做遊戲用的小城堡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "即使是葉族人也喜歡時不時玩點愚蠢的遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很困惑。這個複雜的棋盤遊戲似乎要用到四十面的骰子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓歡樂時光開始吧！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我還記得小時候玩過這種遊戲，很快樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我要贏得所有城堡！"
+} ]

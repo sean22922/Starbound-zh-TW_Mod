@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用純銀打造的螺絲釘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "純銀螺絲釘"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "疑惑。這尺寸的螺絲釘要用在哪呢？"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "用純銀打造的閃亮螺絲釘"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "用純銀打造的大號螺絲釘"
+} ]

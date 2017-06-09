@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "古怪的桌子。它似乎是活著的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古怪的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我喜歡更加工業化的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "把腳放在這桌子底下感覺不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不信任桌子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇怪的創意"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "桌子是活的？感覺坐桌邊很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這桌子讓我覺得什麼東西都有靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "從沒見過這樣的東西"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "寶貝球放在這裡，寵物就能出來透透氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寵物柱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在這裡寵物可以被拴著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個便於繩拴寵物的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "被捕獲的寵物圈養在這"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。捕獲的寵物放在這個裝置裡很方便"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "繩拴圈養被捕獲的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一旦寵物被放入這個裝置，他們就不會走太遠"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個讓寵物不會四處亂走的方便站點"
+} ]

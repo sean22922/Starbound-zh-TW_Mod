@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/friendlyName",
+  "value" : "海洋任務"
+} ]

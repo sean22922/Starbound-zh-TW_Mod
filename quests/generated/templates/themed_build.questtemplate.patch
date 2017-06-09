@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "<questGiver>的擴張計畫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "<questGiver>想要新朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族想要新朋友！你可以幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族想要新鄰居！葉族有計劃……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;快樂。我打算在這裡交新朋友。你願意幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;和藹。你不覺得我們需要一些新鄰居嗎？我有個計劃……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;要是能認識些新人應該會很棒吧？我有個主意……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我覺得交些新朋友對我們有利。我想到個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族需要你^green;建造一個屋子^white;，然後^green;放^orange;3個^green;<tag>^green;在裡面^white;。別忘了再放^green;1張^orange;殖民地房契^green;和1盞^orange;燈！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族需要你^green;建造一個屋子^white;，然後^green;在裡面放^orange;3個^green;<tag>^white;。再加上^green;1盞^orange;燈^green;和1張^orange;殖民地房契！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "注意。你能否^green;建造一個屋子^white;，然後^green;放^orange;3個^green;<tag>在其中^white;？別忘了^green;加上^orange;殖民地房契^green;和1盞^orange;燈！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "興奮。你能否^green;建造一個房子^white;，然後^green;在裡面放^orange;3份^green;<tag>^white;？還要^green;加上^orange;殖民地房契^green;和1盞^orange;燈！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "^green;建造一個屋子^white;，然後^green;放^orange;3個^green;<tag>在裡面^white;好不好？別忘了^green;再加上^orange;殖民地房契^green;和1盞^orange;燈喔！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "你能不能建一座房子^white;，然後^green;在裡面放^orange;3份^green;<tag>^white;？別忘了^green;加上^orange;殖民地房契^green;和1盞^orange;燈！^white;我好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "成功！葉族擁有新朋友了！葉族喜歡你建造的房子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "你建好了房子！葉族很佩服你的手藝"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "興奮。我們有新鄰居了！他們一定會很滿意這裡。謝謝你的慷慨協助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "佩服。你的設計能力比我想像中更厲害，真是個美麗的房子。謝謝你的努力！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "謝謝！現在我們擁有一個新的家了！是不是很興奮？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "成功！希望我們的新鄰居會喜歡他們的房子。謝謝你的幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我太忙了，無法幫<questGiver>建造一個房子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我沒有幫助<questGiver>完成<questGiver.pronoun.possessiveDet>蓋房子夢想。畢竟<questGiver.pronoun.subject>也不是真的需要一位鄰居"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "與此人一同建造家園："
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "一份殖民地房契"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "3個<tag>^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/3/text",
+  "value" : "任何光源"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/4/text",
+  "value" : "任何門"
+} ]

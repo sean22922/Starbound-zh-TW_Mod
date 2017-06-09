@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "水晶椅。符合帝王的身份"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把豪華的水晶椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把水晶椅顯得華麗而極具異域風情"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族可以用椅子把人給砸、砸碎"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣，普通就算了，椅子上有一個水晶還是假的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這把椅子看起來價值連城"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把光彩奪目的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我要帶著水晶冠才能坐在這裡嗎？"
+} ]

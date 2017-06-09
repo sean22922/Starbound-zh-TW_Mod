@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張三條腿的小木頭桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艙內凳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果這些是金屬的話，它應該會更牢固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張挺不錯的小桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想知道葉族人能把這個扔多遠嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅狀。這張小桌子放點東西還是不錯的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張小木桌。還需要的只有一本書，可能還要一盞燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張小桌子看上去是個半成品。或許上點漆會有幫助"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這老玩意有很多作用"
+} ]

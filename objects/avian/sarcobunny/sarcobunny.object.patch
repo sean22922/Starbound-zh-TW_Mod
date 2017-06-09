@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "把你的小兔子一起帶到來世，這不對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小兔子石棺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個石棺怎麼是兔子形狀的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一具罪犯和異教徒的石棺。裡面的翼族人將在來世失去他們的翅膀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "長耳朵，死了很久的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。除了石棺的設計以外，裡面還躺著一個翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個兔子石棺！好可愛！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個石棺裡的水晶好像是用來封閉石棺本身的。他們把石棺封死之時，裡面的人是否還活著？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "翼族人的石棺。但怎麼是兔子模樣的"
+} ]

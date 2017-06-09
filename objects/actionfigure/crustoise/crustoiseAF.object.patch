@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"鋒利的釘子可以刺穿任何太空靴。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "硬殼小雕像"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "背心和頭巾的經典組合，再搭配上副警長的徽章"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "副警長的背心"
+} ]

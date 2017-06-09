@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個依靠設置好的信號運作的電路"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "延遲閘"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個依靠設置好的信號運作的電路"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀的說。一個依靠設置好的信號運作的電路"
+} ]

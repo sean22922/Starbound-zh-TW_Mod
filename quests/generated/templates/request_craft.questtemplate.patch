@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "友善的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先，某樣東西葉族人有求於<target>，<target.pronoun.subject>應該不會介意。^green;去要求^orange;<target>^white;給葉族人製作一個^orange;<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "葉族人知道^orange;<target>可以製作我們需要的東西。^green;從<target.pronoun.object>那裡去拿一件^orange;<item>^white;吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "不安。我需要你去^green;拜訪^orange;<target>^white;。<target.pronoun.subject>答應為我製造的那件^orange;<item>^white;應該已經好了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "沉悶。我的朋友^orange;<target>^white;答應<target.pronoun.subject>會幫我製造^orange;<item>^white;，但是<target.pronoun.subject>還沒有出現。^green;你能不能去找<target.pronoun.object>幫我拿回來？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先，我需要你去幫我拿點東西。在整個星系中^orange;<target>^white;最知道如何製作最好的^orange;<item>^white;，你去幫我^green;要求一個^white;，我們稍後會需要它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先，我需要一個^orange;<item>。<target>^white;很擅長製作它們，所以我們要^green;讓<target.pronoun.object>^white;為我們特別製作一個"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人想讓你幫忙去^orange;找<target>取回^white;<target.pronoun.capitalSubject>之前為我特別製作的特殊物品^orange;<item>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族人確定^orange;<target>^green;會做^orange;<item>^white;，現在，葉族人需要請你去^green;跟<target.pronoun.subject>要一個"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "期待。^green;如果你去找^orange;<target>^white;，<target.pronoun.subject>應該會給你<target.pronoun.subject>正在為我製作的^orange;<item>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "鬱悶。^orange;<target>^white;知道如何製作^orange;<item>^white;，他比我更行。請^green;要求<target.pronoun.object>為我製作^white;一個好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "接下來我需要一個^orange;<item>。<target>^white;可以為我製作任何東西，^green;讓<target.pronoun.object>開工吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "接下來，去讓^orange;<target>^white;為我們組裝一個訂做^orange;<item>^white;。只要^green;向<target>提起我的名字^white;，<target.pronoun.subject>就會知道要怎麼做"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/0",
+  "value" : "對！<target>是不是最棒的？這件<item>將在我們接下來的計劃中大有所為"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/1",
+  "value" : "你拿到<item>了！今天真是太開心了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/0",
+  "value" : "高興。幹得漂亮！<target>總是對我很好，但有時不太大方。謝謝你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/1",
+  "value" : "喜悅。太棒了，你拿到了<item>！現在，我們只需要將它運用到我的偉大計劃中！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/0",
+  "value" : "幹得漂亮，我就知道你會拿到<target>。一切盡在掌握之中……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/1",
+  "value" : "我從沒見過有人製作的<item>比<target>的更精美。我的計劃終將實現"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "很好，這件<item>太完美了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "葉族人就知道你能做到的。有了這件<item>，我們就萬事具備了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "失望。這件<item>的品質和我想像的不太一樣。恐怕只能將就一下了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "猶豫。<target.pronoun.capitalSubject>真的為我做了這個？我可以收下嗎？哇！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "謝謝！<target>真的做得很好，我以前的那些<item>都比不上了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "沒人比得上<target>！又完成了一件事。謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "從<target>獲得<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "回到<questGiver>那裡"
+} ]

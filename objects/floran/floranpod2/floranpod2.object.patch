@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某種奇怪的豆莢，裡面好像有什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "菌類豆莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這邪惡的生物是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "都家裡好像有什麼東西在生長"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人發現了奇怪的豆莢，聞上去很熟悉，葉族人很害怕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。豆莢是葉族人的出生地，但是……少了什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "噫，好噁心！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人這次又想弄出什麼可怕的東西？！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡面在發生著某些奇怪而又恐怖的事情"
+} ]

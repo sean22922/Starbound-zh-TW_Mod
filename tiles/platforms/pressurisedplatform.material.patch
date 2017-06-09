@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "增壓平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅固的增壓平台，能夠經受高壓環境！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這些堅固的平台為了承受住高壓環境都做了加固"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固的金屬平台冷冰冰的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去很閃亮的平台"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它的外框上方浮動著一個水晶，散發出一種怪異的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶火炬"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "水晶浮在半空中。它好像在散發出光亮"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在需要更加固定光源的地方，翼族人採用水晶來代替火炬。它們可以持續使用數千年"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可怕的光。血的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷住。這顆晶石看起來漂浮在空中，它產生著自己的重力場，還能發光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "水晶在發光，但碰上去完全冰冷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如此美妙的科技。翼族人是怎麼學會使用它的？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這顆漂浮著的閃亮岩石就像火炬一樣"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系中最明顯的環狀星球——土星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "土星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "土星是氣態巨行星並且是太陽系中第六顆行星"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "土星薩杜恩以地球古代的農業之神命名。翼族文化中有一位神與這驚人\n的相似"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "土星是太陽嘶……系中的一顆氣態巨行星。它的星環是太陽系中最大的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷狀。這個巨大的行星環由小至太空塵埃大至十米的岩石\n共同組成"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "土星是太陽系中最大的氣態行星。它的星環單純不做作，跟其他的妖豔行星\n都不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "土星的六邊形是大自然超乎意料並富有邏輯的美麗的另一個範例"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "土星是第一批來自地球的亡命之徒的藏身處。他們躲藏在星環中搶劫貿易船隻"
+} ]

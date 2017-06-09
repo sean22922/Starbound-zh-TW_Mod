@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黏球"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "準備被這黏糊糊的東西擊中"
+} ]

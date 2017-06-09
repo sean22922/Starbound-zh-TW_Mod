@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一團溼乎乎的史萊姆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水滴史萊姆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個儲液器，看起來還在滴著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個噁心的粘液球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會避免觸碰粘液球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。一個粘稠的儲液器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "粘液真噁心"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "當你的皮膚已經很黏時，粘液也不是那麼壞啦"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "滲漏出的粘液"
+} ]

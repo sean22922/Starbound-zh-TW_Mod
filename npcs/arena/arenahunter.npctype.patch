@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "寵物們！攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/0",
+  "value" : "這次你可逃不了了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/0",
+  "value" : "你真是個容易的獵物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/0",
+  "value" : "我聞得到你的味道哦！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/0",
+  "value" : "別躲了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/0",
+  "value" : "抓住他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/0",
+  "value" : "就差一點！"
+} ]

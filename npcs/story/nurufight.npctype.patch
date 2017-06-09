@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/start/default/default/0",
+  "value" : "這些穿長袍的惡女獵人想要打一架。讓她們看看什麼叫受苦吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/leave/default/default/0",
+  "value" : "我走了，回頭見！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/1",
+  "value" : "這是我族群的聚會！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/2",
+  "value" : "你別指望能打敗我這樣的獵人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/3",
+  "value" : "嚐嚐我的矛！"
+} ]

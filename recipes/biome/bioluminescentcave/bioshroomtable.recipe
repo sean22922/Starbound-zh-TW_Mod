@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "glowfibre", "count" : 15 },
-    { "item" : "shroom", "count" : 10 }
-  ],
-  "output" : { "item" : "bioshroomtable", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

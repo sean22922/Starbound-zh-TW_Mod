@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個鳥型的罈子，裡面裝滿了灰燼。我想要打碎它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥食壇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個翼族人的罈子。看起來裝滿了粉末"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個灰燼壇。很多翼族人都是被火葬的。他們的骨灰被放在類似這樣的罈子裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砸碎翼族人罐子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反射性：這個罈子裡的骨灰本身是翼族人，電子人的骨灰是不能被這樣處理"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個……是翼族人的骨灰？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "翼族人對逝者的骨灰懷有敬意"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我用槍打它就能打碎它"
+} ]

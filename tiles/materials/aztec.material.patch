@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "石頭上有一些小圖案"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太好了。我不知道這些是什麼意思"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人無法理解象形文字"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像符號"
+} ]

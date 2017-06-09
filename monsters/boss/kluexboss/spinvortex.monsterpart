@@ -1,9 +1,0 @@
-{
-  "name" : "kluexbossvortex",
-  "category" : "kluexboss",
-  "type" : "spinvortex",
-
-  "frames" : {
-    "spinvortex" : "spinvortex.png"
-  }
-}

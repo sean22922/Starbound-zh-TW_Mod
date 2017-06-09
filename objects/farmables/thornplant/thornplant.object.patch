@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "多刺的植物加上多刺的果實"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "多刺植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些水果看上去可沒那麼讓人有食慾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "奇怪的多刺植物，結出的果實也是多刺的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "多刺的水果……就是拿來扔的！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。這些多刺的植物看起來可以用來抵禦飢餓的野生動物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一些奇怪的多刺水果"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種植物真是特別寶貝自己的體液啊……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像是其他世界的仙人掌！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張貝殼形狀的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貝殼牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "保證良好的睡眠品質"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張牀是由巨大的蚌殼做成的，看上去很舒適"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "海草做的牀總是那麼容易讓人入睡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真自豪。一張適合鮫人王的牀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這牀太漂亮了。甚至還有水牀墊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在也沒有什麼比睡在成群海藻中更舒適的了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀看上去漂亮極了。聞上去就像美味的小蝦"
+} ]

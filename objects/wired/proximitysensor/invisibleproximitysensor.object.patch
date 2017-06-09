@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "隱形近距離偵測器"
+} ]

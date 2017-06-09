@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把古老的手工雕刻的搖椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艙內椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想我更喜歡我的傢俱牢靠一點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "手工傢俱！我很喜歡這個"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡搖椅發出來的木頭味道嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔憂狀。不牢固的椅子一定會把人晃暈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我想一邊聽著班卓琴一邊讓椅子前後搖晃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是我見過最好的木質椅子之一"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "搖滾椅——比站立椅還要好"
+} ]

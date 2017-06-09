@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這傢夥看到我後感覺很驚訝！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾用的人類面具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這看起來像人類的面具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個面具對於人類來說是個警告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人讓人類看起來傻裡傻氣的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這看起來像是人類的面具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個……人類嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個人類的面具不是很精緻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個人類的面具。這對人類來說不怎麼好看"
+} ]

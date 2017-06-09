@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"本性貪婪狡猾。如果潛行時受到了干擾，它會用邪惡之眼詛咒你。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獨眼貓怪小雕像"
+} ]

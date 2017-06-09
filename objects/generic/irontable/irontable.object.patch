@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把用劍做桌腳的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋒利的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張種子總讓人感覺最後會捅到某個人的腳趾頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "誰坐在這都得心驚膽戰的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人往桌子那走。呃，葉族人被桌子割到了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "舒服：一張很普通的桌子。其他人似乎有些害怕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我十分猶豫要不要坐在這"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "武器這麼個用法好像似乎有點點太不安全了吧"
+} ]

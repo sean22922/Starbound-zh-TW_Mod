@@ -1,0 +1,97 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先，^green;種下這些種子。^white;給它們澆水，看著它們成長。等作物成熟了， 把^orange;<cropList>^green;帶給葉族"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "你首先要做的是^green;種下這些種子。^white;等作物長大後，把^orange;<cropList>^green;帶給葉族。^white;別忘記給它們澆水！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "友好。首先，^green;我需要一些新鮮的^orange;<cropList>^white;。哪怕是初學者也能種出來，只要有這些^orange;種子^white;和一點耐心就夠了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "懷疑的。我從一個商人那裡買了這些^orange;種子^white;但什麼都沒種出來。^green;也許你可以替我種一些^orange;<cropList>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先我需要你來^green;種^orange;<seedList>。^white; 經常給它們澆澆水，等它們成熟之後，^green;收集 ^orange;<cropList>^green;然後帶給我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先我需要<cropList>但現在是淡季。你會種東西對吧？這是^orange;<seedList>^green;讓你來種的，^white; 等你^green;收穫^orange;<cropList>^green;之後可以把它們帶給我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "現在葉族需要^orange;<cropList>。 ^green;種下並且灌溉^orange;<seedList>。^white;等到作物變大變軟了它就成熟可以收割了！^green;把你的成果帶回給葉族"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "接下來葉族需要你^green;用這些種子種植^orange;<cropList>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "膽小的。我希望自己沒給你添太多麻煩，但^green;還是請你種一下^orange;<seedList>。^white; 能不能等它們成熟後 ^green;把新鮮的作物帶給我^white;？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "興奮。我的下一步計劃要用到 ^orange;<cropList>。我園藝水準不怎麼樣，但我確定你會種植。^green;拿著這些^orange;種子^green; ，替我種這些作物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "現在我需要你^green;種植^orange;<seedList>^white;。好好照顧它們直到它們成熟，^green;替我收穫^orange;<cropList>^green;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "接下來我們需要一點農產品。我有^orange;<seedList>，^white;但是沒有種東西的地方。你不介意的話可以替我^green;種下它們然後把^orange;<cropList>^white;帶給我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "鬆軟可口！謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "謝謝！葉族覺得在這裡種<cropList>是一件很困難的事——你幹得漂亮！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "高興。我自己肯定沒法把這些作物種得像現在這麼好，你很有農業方面的才能"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "困惑。我可能永遠不能搞懂你是怎麼把這些種子種得這麼好的，但這無關緊要。我真的謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "啊，完美地成熟了！你真有這方面的才能"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "哇哦，你將來也許能在農業領域大有作為！新鮮的<cropList>從土裡冒出來了！這會派上大用場的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "是的，這就是葉族需要的！你是最棒的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "謝謝！葉族無法理解為什麼會有人想要吃這種東西，但葉族現在需要這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "高興。作物長得好大！謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "高興。幹得漂亮，我的計劃正在完美執行中"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "謝謝。它們看起有點少，但有機產物就是這樣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "就需要這樣的<cropList>。幹得漂亮！是時候讓這些農產品發揮作用了！"
+} ]

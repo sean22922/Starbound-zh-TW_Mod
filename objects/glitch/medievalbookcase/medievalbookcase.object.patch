@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "存放民間故事和傳說的書架……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀書架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裝飾得很漂亮的書架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裝滿書籍但落滿了灰塵的舊書架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "古老且落滿灰塵的書架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吸引。機器人沒印過多少本書。不知道這裡有沒有"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "不知道這些書已經過了多少年頭了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許這些舊書中有些很棒的傳說"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個書架已經很老了！"
+} ]

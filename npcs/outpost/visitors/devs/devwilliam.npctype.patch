@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嗨！我是威廉，地球的設計員，我的專業是人工智慧"
+} ]

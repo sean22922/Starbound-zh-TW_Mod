@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個堅固的木櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寬木櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "儲存空間一般"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "要是儲存空間再大些就好了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "中等大小的儲存空間"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自然。中等大小的儲藏空間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "帶有一堆抽屜的櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儲存空間還行"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只偶有兩個抽屜？我想要更多"
+} ]

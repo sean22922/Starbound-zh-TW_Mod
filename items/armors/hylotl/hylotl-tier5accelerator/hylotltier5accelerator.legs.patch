@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "輕盈強韌的護腿，讓戰士的行動疾如風迅如雷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海將軍脛甲"
+} ]

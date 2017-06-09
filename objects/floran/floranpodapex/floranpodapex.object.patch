@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來這個猿族人和菇族人不能很好地融合"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "被困住的猿族豆莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這隻猿族人身上發生了什麼事情？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是個悲劇收場"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族不想要討論這件事"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懵逼。這個猿族竟然活著，而且是自己選擇爬進來的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我覺得它……還有生氣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是個奇怪的躲猿之地"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻猿族還活著嗎？"
+} ]

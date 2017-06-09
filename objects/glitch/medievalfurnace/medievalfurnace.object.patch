@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "中世紀火爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "過時的冶煉"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個樣式過時的熔爐，可以用來冶煉工具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀火爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個樣式過時的熔爐，應該是冶鍊金屬用的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個石爐，可以耐高溫"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "熔爐裡面沒有火！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。像這樣的煅爐一般是用來製造工具和武器的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個舊式的熔爐，用來製造大件的重型武器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來冶煉的舊式熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個狀況良好的古舊熔爐"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/23/text",
+  "value" : "各位夥伴們……今天我們聚首見證保護者組織的成長"
+}, {
+  "op" : "replace",
+  "path" : "/panels/24/text",
+  "value" : "500年來我們在地球這裡驕傲地肅立著，以和平的名義凝聚了各種各樣的種族"
+}, {
+  "op" : "replace",
+  "path" : "/panels/25/text",
+  "value" : "我們的任務是：保護者組織人；提供支持、居所、和教育給尋求我們幫忙的人，並且牽線各個勢力達成和平協議"
+}, {
+  "op" : "replace",
+  "path" : "/panels/26/text",
+  "value" : "而今天，以和平的名義，我們歡迎我們最新加入的夥伴們，並且贈送他們每一人一個最強大的工具……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/27/text",
+  "value" : "^orange;物質操縱器^white;"
+}, {
+  "op" : "replace",
+  "path" : "/panels/28/text",
+  "value" : "哈？剛剛那是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/panels/30/text",
+  "value" : "什、什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/33/text",
+  "value" : "畢業生，快跑！奪過操縱器然後馬上逃命！"
+} ]

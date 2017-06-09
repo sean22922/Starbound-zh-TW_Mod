@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大香蕉萬歲！神聖的水果！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大香蕉鎖雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "雕像上有一個標記。看起來可以按下去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這雕像有點奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "狡猾的科技"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "值得調查。這個雕像裡藏著某種設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個雕像裡的按鈕藏得不是很好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "糟糕的藉口"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是一個按鈕嗎？小心點"
+} ]

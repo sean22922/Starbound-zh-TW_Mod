@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "骨製外框有點令人不安，但是外皮令人非常舒服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "由骨頭和外皮製成的牀。我自己的皮會使我非常不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我希望牀是溫暖的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人睡在骨頭與皮之間。這種狩獵的味道能使葉族人睡個好覺"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這張牀看起來像是用機器人的殘骸製作的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "血的味道染在牀單上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "怎麼可以將一個生物做成一個傢俱呢，太不敬了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀聞上去有種腐爛的惡臭"
+} ]

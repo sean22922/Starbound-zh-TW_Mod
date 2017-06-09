@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "老舊的系統讀數，好像過期了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "數據螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些看起來像是系統診斷。我搞不懂"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這螢幕顯示附近水晶的狀態。只有占星師才能看懂"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人科技。葉族人不懂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪，我無法和機器建立聯繫"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來挺複雜的。也許它表示某種翼族科技裝置的狀態"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人看不懂這些。它們好像是系統的統計數據"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這條信息是什麼意思，我怎麼不明白"
+} ]

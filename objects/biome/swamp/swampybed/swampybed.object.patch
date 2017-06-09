@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張不尋常的牀，牀上用品由根和葉製成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沼澤牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張牀似乎比表面看來更舒適"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "木船架和葉子搭配的牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡睡在葉子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "昏昏欲睡。能量不足。需要開啓睡眠模式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "似乎是條船。放滿葉子的一條船"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我感覺睡在如此惡劣的牀上會很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種牀是讓過簡單生活的人使用的"
+} ]

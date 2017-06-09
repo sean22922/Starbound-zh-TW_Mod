@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些菲洛合金的褲子既實用又時髦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗礁褲子"
+} ]

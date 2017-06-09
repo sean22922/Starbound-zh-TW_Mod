@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙色霓虹收集者標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓鮫人去表面採集魚卵的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我的翻譯器說這個標誌要求鮫人去綁架小寶寶。這不是真的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "據我的翻譯器所說，鮫人會偷小孩。我覺得這難以置信"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵：也許鮫人得想想他們的語言是如何翻譯過來的。這似乎表示了他們在偷小孩"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，我一直都懷疑鮫人在打些什麼主意呢。不，這不可能是真的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這要求讓鮫人從表面上收集魚卵，真是仁愛寬厚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒時間一個個去翻譯了！"
+} ]

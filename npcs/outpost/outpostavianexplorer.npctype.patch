@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我瞭解到對於生命來說遠不止飛行。還有整個宇宙可以探索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我瞭解到對於生命來說遠不止飛行。還有整個宇宙可以探索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/0",
+  "value" : "另一個翼族探險者！在星際生活非常刺激不是嗎？"
+} ]

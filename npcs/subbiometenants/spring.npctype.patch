@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "花盆售貨員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "售賣裝飾用的盆栽"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "你要買點花嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "你貌似需要買點花！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "我們來做點買賣吧！我有很多盆栽！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "如果你想再買點盆栽的話歡迎再次光臨！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "謝謝惠顧—需要盆栽的話歡迎再次光臨！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "需要盆栽的話原因再次光臨！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/3",
+  "value" : "如果你還需要盆栽的話你知道在哪能找到我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/0",
+  "value" : "你想買點花嗎？跟我來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/1",
+  "value" : "你要買點花嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/2",
+  "value" : "跟我來商店—你能在我店裡買點盆栽"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/3",
+  "value" : "來看看我的盆栽吧？跟我來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "我們來交易吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/1",
+  "value" : "就是這了！隨便看看有沒有你喜歡的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/2",
+  "value" : "那你要不要買點盆栽？"
+} ]

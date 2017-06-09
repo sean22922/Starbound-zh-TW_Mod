@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種晶狀沉澱。亮晶晶的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶灌木"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "水晶好美"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一串閃亮的水晶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮、有尖角的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不耐煩，把水晶踩在腳下，不開心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，真漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "水晶讓我想到了冰凍的珊瑚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "閃閃發亮的水晶"
+} ]

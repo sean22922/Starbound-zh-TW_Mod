@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "硬鋼面板，專為受壓環境打造"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "受壓硬鋼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "感興趣。這個硬鋼設計用來適應各種壓力環境"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅固的硬鋼面板"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "閃亮的硬鋼面板"
+} ]

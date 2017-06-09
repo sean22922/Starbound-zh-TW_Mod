@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不管你是穿著運動褲和小帽子還是休閒褲都可以接受"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "加熱的水果飲料"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這噁心飲料的噁心甜味勾起了回憶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "水果飲料？翼族人可不喜歡熱飲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "噁心。噁心的熱液體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冒險。我想我會喜歡這種飲料"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可口的飲品……我現在就能來一杯這個"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人喝茶，還有點其他的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不是蒲公英汽水不過也行了"
+} ]

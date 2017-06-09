@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你刺骨的一瞥將使恐懼刺穿最勇敢的心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "恐懼眼球帽"
+} ]

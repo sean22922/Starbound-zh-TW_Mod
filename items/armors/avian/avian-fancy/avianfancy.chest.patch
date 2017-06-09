@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件講究的襯衫，通常都是在特殊場合穿的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗的襯衫"
+} ]

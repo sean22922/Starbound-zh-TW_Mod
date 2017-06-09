@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我準備好下水尋寶了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "下水前我得冷靜一會。深呼吸，集中注意力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "想想鮫人以前生活在海浪之上…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "這件潛水服是我親手做的！你看出來了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "你到過海浪之下嗎？那裡的寶藏是為勇士準備的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "到海浪之下探險…我只在睡覺時夢到過"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "你喜歡我手工製作的潛水服嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "到海浪之下探險是每個鮫人的夢想"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "即使是鮫人，憋氣能力也是有限，這件潛水服可以在深水區保護我們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "你探索過未知的深處嗎？"
+} ]

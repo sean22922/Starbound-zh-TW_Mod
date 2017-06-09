@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台來自保護者學會的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者大廳桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張簡單的桌子。我喜歡它"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張桌子很白。讓我想起了夏日的雲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "乾淨，白色的桌子。葉族人可以看見倒影"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不為所動。一張白色的桌子，設計簡潔。也許是猿族的設計"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是張很酷的桌子！站在它旁邊讓我感到很酷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張有著光澤表面的現代桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不是桌子愛好者，但我想這是一張漂亮的桌子"
+} ]

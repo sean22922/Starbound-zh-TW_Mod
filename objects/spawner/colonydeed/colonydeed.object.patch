@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "要是在這棟樓安裝好門和燈，就會有人願意搬進來了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^yellow;殖民地房契"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "要是在這棟樓安裝好門和燈，就會有人願意搬進來了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個裝置會邀請人住進來的。記得確保樓裡面有門和燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牆上裝著螢幕。這樣就會有人搬進來了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，要是好好佈置下這樓，殖民地契約就會鼓勵人們搬進來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這對於擴張殖民地來說很棒。在建築裡放置門和燈，就會有人搬進來了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要是在這棟樓安裝好門和燈，就會有人願意搬進來了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有了殖民地契約就會有人搬進這棟建築。確保這棟建築有門和燈"
+} ]

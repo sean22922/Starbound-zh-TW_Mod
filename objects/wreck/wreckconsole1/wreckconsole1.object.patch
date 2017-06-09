@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "想要用他是不可能的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "沒用的損壞的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個控制台。不工作了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個控制台壞掉了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沮喪狀。這個控制台損壞且無用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個控制台無法工作。一半的按鈕都丟失了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個控制台壞得根本修不好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個磨損的控制台。很好奇這東西是否曾工作過"
+} ]

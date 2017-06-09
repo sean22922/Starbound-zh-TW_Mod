@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統浪潮畫"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這幅畫上畫著一陣大浪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這幅畫不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不錯！但是刷的有點漫不經心"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭海浪的畫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人豔羨。畫出的海浪十分傳神"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "似乎在地球上看見過一模一樣的畫作呢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "每一筆都包含著情感，從而將一瞬而逝的波浪凝結成永恆的美"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這巨大波浪的畫作還真是令人感動呢"
+} ]

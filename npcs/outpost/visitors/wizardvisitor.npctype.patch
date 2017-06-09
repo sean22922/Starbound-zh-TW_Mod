@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "好奇，你最近有見到過法杖或魔杖嗎？對的人拿到了，會是很有力的武器！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "激動，我在搜尋各式法杖魔杖，你最近有見過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "緊張，這些長袍好典雅，但真的很難走路"
+} ]

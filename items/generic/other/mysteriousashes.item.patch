@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是垃圾袋裡殘留的神祕物質"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "神祕灰燼"
+} ]

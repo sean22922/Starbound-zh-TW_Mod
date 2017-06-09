@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "推拉門讓我覺得我處於一個科幻遊戲中……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "優美的滑門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "推拉門，好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有些文明認為，如果你沒有靈魂門就不會對你有反應"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不是很確定這些門是怎麼運轉的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "假設：這些門的運轉有奇妙之處"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有一次，我像這樣子衝向一扇門，結果它沒有及時打開……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "光滑的推拉門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我喜歡這些漂亮的滑門"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "purpleblue",
-  "category" : "crasberry",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "purpleblue.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "曼德拉草精"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "散漫的生活方式，讓它能在地下繁衍出數量巨大的族群"
+} ]

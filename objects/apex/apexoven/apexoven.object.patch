@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能把食物加工到一個合理的水準"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "制式烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 能把食物加工到一個合理的水準"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個簡單的烤箱，及時和加熱食物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "幾個加熱食物的設備。我能在這裡做飯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火使得食物更美味"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。確認為烹飪設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個氣體烤箱。我從來沒用過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我能在這兒快速加熱食物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來做飯"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "珊瑚果的果實看起來就像海中的生物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚果種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "珊瑚果，不看外表，真的就是一種水果"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個果實嚐起來卻跟海鮮一樣，真奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個偽裝成動物的植物，真聰明"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪。看起來就像海中的生物，怎麼會是果實呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一種不僅看起來連嚐起來都像龍蝦的水果"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "美味的珊瑚。真的非常美味。每個人都該試試"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真正的海裡的果實"
+} ]

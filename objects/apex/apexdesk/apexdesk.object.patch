@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "每一張桌子上都有一個咖啡杯，燈光照在桌面上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式書桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "咖啡杯和檯燈是展示的。它們被粘到了桌子上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個奇怪的桌子…上面的東西是粘住的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為什麼把東西粘在桌子上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。物品似乎被焊在了桌面上。動不了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "什麼……杯子和檯燈是粘在桌子上的。知識為了展示嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一些假的東西被粘在了桌子上。這是何種惡作劇？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個咖啡杯被釘在桌子上了。幹嘛要這樣？"
+} ]

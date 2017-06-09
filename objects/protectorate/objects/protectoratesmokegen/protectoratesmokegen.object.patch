@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "煙"
+} ]

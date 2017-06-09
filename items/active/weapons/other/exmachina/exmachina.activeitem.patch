@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "序列號：0451"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ex機器"
+} ]

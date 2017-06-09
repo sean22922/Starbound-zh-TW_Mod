@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用兇猛獵物的角和下頜骨裝飾，並配上日耀石板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "哨兵頭盔"
+} ]

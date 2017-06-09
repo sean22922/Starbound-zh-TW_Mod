@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/noCollarLabel/value",
+  "value" : "無項圈"
+} ]

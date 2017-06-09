@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個綠色手電筒！所有東西看起來都很熱並且充滿了憤怒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "手電筒"
+} ]

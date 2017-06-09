@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種不穩定的晶體物質，從衛星開採而來，用作FTL"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶體爾切斯燃料"
+} ]

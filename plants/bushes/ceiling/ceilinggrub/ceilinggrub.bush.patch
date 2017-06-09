@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種噁心的蛆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一種噁心的蛆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "扭動的蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一種未知的蛆蟲種類"
+} ]

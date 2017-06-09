@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子用來保護穿戴者免受各種污染的毒害"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "防毒褲子"
+} ]

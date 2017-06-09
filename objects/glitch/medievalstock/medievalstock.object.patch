@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對樹幹。中世紀的懲罰方式"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀足枷"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "樹幹：這些丟臉東西之一是迷你克諾格已經研究過的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來是用來控制什麼的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "木頭的東西聞聞起來像很甜的水果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "害怕。你可不想戴上這玩意"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果你給這個足枷講個笑話，那它……就成了發笑的足枷。我快笑死了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來限制別人的行動，同時還可以向那個人扔爛水果"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來鎖住不法分子的足枷"
+} ]

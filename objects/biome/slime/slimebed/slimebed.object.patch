@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "懸浮在泥裡，甜蜜地入睡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個粘液牀，看起來很可疑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我羽毛上會沾上粘液嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黏糊糊的！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。粘液會導致生鏽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "它是粘液做的。希望我在那裡面還能呼吸"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粘液的牀。會提供平靜的睡眠嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "粘液做的牀？值得一試"
+} ]

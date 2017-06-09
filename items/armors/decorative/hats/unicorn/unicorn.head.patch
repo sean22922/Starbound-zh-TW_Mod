@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這來自一個新時代"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獨角獸頭"
+} ]

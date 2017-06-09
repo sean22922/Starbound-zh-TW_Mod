@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有了純日光礦的加成，這件藝術的傑作將能夠掌控觀衆的喜悅和恐懼"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "烏鴉之喙"
+} ]

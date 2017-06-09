@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鑽頭很快但壞得也很快。物質操縱器的臨時替代品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金鑽頭"
+} ]

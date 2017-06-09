@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張結冰的椅子。坐一會兒就不舒服了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我擔心坐下去的話會被黏在椅子上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子讓我的羽毛都凍住了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "椅子讓葉族人感到好笑。顫抖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "考慮：這些椅子不適合戶外聚會"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把很有創意的椅子。我的皮膚粘在上面了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我想我看見有一條魚凍在裡面。可憐的小東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一般而言，我應該遠離冰製傢俱"
+} ]

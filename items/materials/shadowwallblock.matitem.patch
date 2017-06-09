@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用暗影石雕刻的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗影磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "感覺。這些磚塊用十分耐久的材料製成"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅硬的黑磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "用暗黑石製成的磚塊"
+} ]

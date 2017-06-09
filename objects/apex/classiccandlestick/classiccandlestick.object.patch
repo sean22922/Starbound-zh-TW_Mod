@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有三個腳的金色蠟燭架。那些蠟燭似乎永遠都不會融化掉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典燭台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "底部貌似是純金的，但是火焰似乎是電子的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "蠟不會融化，火焰也不會灼人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人怕火。但是這種火不燙人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反射。如果火焰只是跳動的燈泡，那蠟燭是不是就更不真實了？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為那些蠟燭只是一些會閃的燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "技術和手工藝的混合物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個漂亮的蠟燭，但是火焰不是真的"
+} ]

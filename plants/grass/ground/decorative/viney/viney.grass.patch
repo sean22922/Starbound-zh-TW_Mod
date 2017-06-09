@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。藤蔓"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個遇險信標。鬼才知道誰會聽到它的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遇險信標"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個遇險信標。我希望留下他的人沒事"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個遇險信標。有人有麻煩了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人也幫助狩獵。有時"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個失事信標正在多個頻道傳輸信號"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個信標正在發出遇險信號"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有人需要幫助。保護弱小是應該的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看來這是個遇險信標。不知道是誰啟動它的"
+} ]

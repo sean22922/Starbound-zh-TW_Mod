@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這工具用不了很長時間，但有了這個可以挖得很快"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅鎬"
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/0",
+  "value" : "你想一直戰鬥到死嗎？那就如你所願！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/1",
+  "value" : "你不知道自己在跟什麼樣的人戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/2",
+  "value" : "你是來阻止我的嗎？那就來吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/3",
+  "value" : "來，檢驗一下你的毅力！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/4",
+  "value" : "如果我們定要作戰，那你必死無疑！"
+} ]

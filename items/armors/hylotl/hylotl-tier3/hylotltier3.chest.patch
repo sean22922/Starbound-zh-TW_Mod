@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用絲綢和金屬所製，就像鮫族人戰士一樣，這塊胸甲將高雅和堅韌完美的結合在一起"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "河水胸甲"
+} ]

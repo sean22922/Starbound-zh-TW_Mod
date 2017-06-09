@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焦油尼"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "活在焦油中並以此為食，排泄物也是焦油"
+} ]

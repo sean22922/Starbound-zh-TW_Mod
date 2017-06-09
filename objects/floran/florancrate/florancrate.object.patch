@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用樹乾和骨頭製成的儲物箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "木頭與骨頭的板條箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用木頭與骨頭製成的一個簡單板條箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會把多餘的骨頭和木材存起來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。怎麼會有那麼無趣的箱子？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "骨頭的角能讓它輕鬆地在地上移動"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我很想知道葉族人在這個箱子裡藏了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我其實不是很想知道這個箱子裡藏的是什麼？"
+} ]

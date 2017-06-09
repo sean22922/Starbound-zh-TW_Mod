@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "通常用於畢竟淺的潛水"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "潛水通氣管"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/intro/default/default/0",
+  "value" : "嗯…你真的是太固執了吧？伊瑟真是給你洗腦了…我該給你洗回來"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/death/default/default/0",
+  "value" : "你不明白是不是？你還是贏不了！"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/death/default/default/1",
+  "value" : "毀滅仍在覺醒，很快宇宙的一切都將淨化，除了人類！"
+} ]

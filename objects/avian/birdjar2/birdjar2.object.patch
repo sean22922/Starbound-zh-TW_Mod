@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這罐子真醜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醜陋的神廟之罐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個不起眼的罐子。裡面應該沒什麼好東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個罐子可能是生手製作的，模樣很醜陋"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "醜罐子。是葉族人就把他摔碎了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷住。摔碎它也許就知道裡面是什麼了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我們來打破這個吧。它太醜了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡沒什麼有用的東西，打破它吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以用這罐子來當作射擊練習的目標"
+} ]

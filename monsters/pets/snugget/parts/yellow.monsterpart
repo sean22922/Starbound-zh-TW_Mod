@@ -1,9 +1,0 @@
-{
-  "name" : "yellow",
-  "category" : "snugget",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "yellow.png"
-  }
-}

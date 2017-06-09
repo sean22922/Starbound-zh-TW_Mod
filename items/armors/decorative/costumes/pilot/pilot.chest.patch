@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "腋下有點磨損，這件大衣肯定被拍打過多次"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "飛行員夾克"
+} ]

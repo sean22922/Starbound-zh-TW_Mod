@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "午夜斗篷，為那些喜愛陰影的人做的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑暗斗篷"
+} ]

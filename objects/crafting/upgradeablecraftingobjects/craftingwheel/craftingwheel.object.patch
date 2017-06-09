@@ -1,0 +1,125 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "紡車是用來紡織布匹、面料和其他織物的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;紡車^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台紡車，裁縫的工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用於紡線的一個工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人使用紡車來紡線"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這是一個裁剪工具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台木製紡車，非常老式，古色古香"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人認為紡線是行為藝術"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "也許可以用這玩意給自己做個新襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "紡車是用來紡織布匹、面料和其他織物的"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;紡車^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "一台紡車，裁縫的工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "用於紡線的一個工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "葉族人使用紡車來紡線"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "這是一個裁剪工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "一台木製紡車，非常老式，古色古香"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "鮫人認為紡線是行為藝術"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "也許可以用這玩意給自己做個新襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "紡車"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;紡織品和染料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "縫紉機用來做衣服、布料和其他一些可打造的材料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;縫紉機^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "一台縫紉機，裁縫專用"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "用於紡線的一個工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這台機器縫衣服，還用針"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "非常高級的裁縫工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "一台縫紉機，非常的標準"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "雖然並不傳統，但縫紉機的效率要高的多"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "也許可以用這玩意給自己做個新襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "縫紉機"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;紡織品和染料"
+} ]

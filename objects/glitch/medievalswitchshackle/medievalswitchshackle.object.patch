@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "其中的一個枷鎖看起來很可疑……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牆上的枷鎖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一條鎖鏈搖得很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "其中一條鏈子好像是假的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可疑的鏈子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。其中有根鏈子不是鐵製的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "其中一條鏈子的一部分比其它要低"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "其中一條鏈子的一部分比其它要高"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "其中有根鏈子看起來很奇怪"
+} ]

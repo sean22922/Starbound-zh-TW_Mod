@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒適的木製扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個扶手椅看起來不錯，很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "色彩鮮豔，很舒適"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有著線條柔和把手的柔軟椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。我很願意能在這把椅子上消磨時間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把簡陋的木質扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "樸實，舒適"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一把外表吸引人的把手椅"
+} ]

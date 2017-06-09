@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張裝飾豪華的餐桌，適合老西方人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子上亂放著牌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "上滿散佈著彩色的薯片"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這張簡單的桌子有遊戲設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子真有西部邊疆風格！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張桌子就是設計用於玩牌和打架的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "發條！真神奇！"
+} ]

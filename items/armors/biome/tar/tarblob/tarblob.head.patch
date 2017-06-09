@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個厚焦油麵具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "厚焦油麵具"
+} ]

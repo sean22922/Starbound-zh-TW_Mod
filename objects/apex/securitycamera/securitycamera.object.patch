@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "附近都是最好的保全攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高科技保全攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一直在監視"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我得小心這種攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這攝影機自己能動"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。這個攝影機有動態偵測"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有人在攝影機後面看著我的一舉一動。太可怕了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看著這個攝影機，我都想藏在海底"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "你看什麼？"
+} ]

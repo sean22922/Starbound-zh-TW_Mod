@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "titaniumbar", "count" : 1 }
-  ],
-  "output" : { "item" : "modernplatform", "count" : 40 },
-  "duration" : 0.5,
-  "groups"  : [ "craftingfurniture2", "materials", "all" ]
-}

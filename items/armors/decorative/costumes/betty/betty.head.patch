@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一副面具，能隱藏穿戴者身份"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾面具"
+} ]

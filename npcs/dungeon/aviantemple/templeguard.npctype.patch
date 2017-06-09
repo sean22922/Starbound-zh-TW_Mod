@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "入侵者！離開這個神聖的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/1",
+  "value" : "站住！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/2",
+  "value" : "你不尊重庫魯克斯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/3",
+  "value" : "你們不受歡迎，陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/4",
+  "value" : "盡頭，庫魯克斯索賠另一個靈魂！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/5",
+  "value" : "庫魯克斯的憤怒會降臨到你的頭上！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/6",
+  "value" : "庫魯克斯要我殺了你們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/0",
+  "value" : "入侵者！離開這個神聖的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/1",
+  "value" : "站住！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/2",
+  "value" : "你不尊重庫魯克斯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/3",
+  "value" : "你們不受歡迎，陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/4",
+  "value" : "盡頭，庫魯克斯索賠另一個靈魂！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/5",
+  "value" : "庫魯克斯的憤怒會降臨到你的頭上！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/6",
+  "value" : "庫魯克斯要我殺了你們！"
+} ]

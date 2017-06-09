@@ -1,9 +1,0 @@
-{
-  "name" : "kluexbossstatuebody",
-  "category" : "kluexbossstatue",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "kluexbossstatue.png"
-  }
-}

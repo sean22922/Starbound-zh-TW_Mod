@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用耐鋼鍛造成的大劍。十分強韌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "耐鋼大劍"
+} ]

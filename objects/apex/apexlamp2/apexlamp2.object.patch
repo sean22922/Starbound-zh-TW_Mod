@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "燈罩帶小圓點花樣的高腳木製檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式高檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "制式長檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個長燈。我想知道他怎麼工作？又沒有水晶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "長燈，明亮的燈光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。有光就有安全"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個明亮的長燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個燈能照亮一個大房間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個高的立式檯燈"
+} ]

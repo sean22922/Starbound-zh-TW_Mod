@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "需要雪來驅動，它會自動的讓你的手套保持乾燥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪球投擲者"
+} ]

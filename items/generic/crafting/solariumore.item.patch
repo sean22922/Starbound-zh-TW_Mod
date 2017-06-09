@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "是日耀石。摸上去很暖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "日耀石礦"
+} ]

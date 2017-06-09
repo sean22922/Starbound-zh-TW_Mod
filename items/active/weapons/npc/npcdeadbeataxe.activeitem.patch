@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把樣子平平無奇的斧頭，連把手都是彎的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC無賴斧頭"
+} ]

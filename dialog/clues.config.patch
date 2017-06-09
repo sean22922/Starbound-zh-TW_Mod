@@ -1,0 +1,201 @@
+[ {
+  "op" : "replace",
+  "path" : "/floran/default/default/0",
+  "value" : "葉族人聽說今年的狩獵抓到了一隻巨大的野獸"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/1",
+  "value" : "葉族人是個超棒的獵手——打算今年大顯身手"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/2",
+  "value" : "葉族人終有一日會成為牧人！"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/3",
+  "value" : "葉族人是最棒的！哦，是第二棒的，你聽說過奴魯"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/4",
+  "value" : "葉族人一隻在黑暗中捕獵——是進儀式狩獵洞窟的練習"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/5",
+  "value" : "葉族人真的很想獲得狩獵的獎盃！"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/6",
+  "value" : "你那麼瘦不拉幾的。我打賭你都沒法活著走出儀式狩獵洞窟"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/7",
+  "value" : "葉族人記不住……這是一頭野獸的名字嗎，以西利？"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/8",
+  "value" : "狩獵馬上就要開始了"
+}, {
+  "op" : "replace",
+  "path" : "/floran/default/default/9",
+  "value" : "你知道奴魯嗎？她是最優秀的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/0",
+  "value" : "我們鮫族人是知識和信息的卓越的保管者"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/1",
+  "value" : "在書籍裡面蘊含著許多無價之寶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/2",
+  "value" : "我喜歡收集書籍。這是鮫族文化的一大部分"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/3",
+  "value" : "有一些自鮫族人在這片土地定居下來就有的遺產到現在都還保存著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/4",
+  "value" : "很久以前。為了保護他們，鮫族人將我們最偉大的遺蹟沉入海底"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/5",
+  "value" : "我想成為一名圖書管理者，但這需要承擔極大的責任"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/6",
+  "value" : "很多落入了葉族人的手中，但還有剩下很多倖免於難的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/7",
+  "value" : "保衛我們先祖的智慧，保衛我們的文化"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/8",
+  "value" : "過去的珍寶重見天日不是很棒嗎？這對於鮫族人來說並不少見"
+}, {
+  "op" : "replace",
+  "path" : "/hylotl/default/default/9",
+  "value" : "據說過去的鮫族人擁有豐富的圖書收藏"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/0",
+  "value" : "我們最古老最顯赫的建築都是圍繞著對於庫魯克斯的崇拜的"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/1",
+  "value" : "翼撰史詩提過具有強大能力的東西，我不知道他們是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/2",
+  "value" : "很久以前有很多真正的大翼族廟宇。現在只剩下這個了"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/3",
+  "value" : "我們翼族人和神廟強盜有大過節。在古神廟裡有一些十分有價值的古物"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/4",
+  "value" : "一些庫魯克斯的神廟有古代守衛。但他們在守衛什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/5",
+  "value" : "並不是所有的庫魯克斯的神廟都只有觀星信徒才去的，有一些古代的神廟落在守護者的手中"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/6",
+  "value" : "神廟深處是禁止進入的——這就是他們如何保衛祕密的"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/7",
+  "value" : "庫魯克斯的神廟遍佈宇宙，但有一些特別恐怖"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/8",
+  "value" : "我小時候聽過一些物品擁有無限的能力，是由庫魯克斯本人贈與的"
+}, {
+  "op" : "replace",
+  "path" : "/avian/default/default/9",
+  "value" : "我想有一天能去偉主神廟看看，但很少人知道在哪"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/0",
+  "value" : "我聽說有很多星球被迷你克諾格拿下了"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/1",
+  "value" : "迷你克諾格的疆域廣闊，有很多基地和指揮點"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/2",
+  "value" : "迷你克諾格守護著我們的文化"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/3",
+  "value" : "人們稱呼我為陰謀家。但是我知道迷你克諾格有內在的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/4",
+  "value" : "迷你克諾格總是為他們自己建立起新的設施，卻從來不關掉舊的"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/5",
+  "value" : "我聽說在迷你克諾格設施的深處有一些奇怪的事"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/6",
+  "value" : "許多人說老大猿擁有巨大的財富和很多遺產"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/7",
+  "value" : "反抗軍現在經常襲擊迷你克諾格的基地"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/8",
+  "value" : "迷你克諾格不透露任何消息。沒有人知道他們擁有什麼要做什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/apex/default/default/9",
+  "value" : "迷你克諾格擁有所有的財富和珍寶"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/0",
+  "value" : "嫉妒。有很多舊機器人冒險者把他們幾年來找到的珍寶都藏起來了"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/1",
+  "value" : "生氣。重要的機器人遺物都在機器人手中流轉著，我卻從來沒有"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/2",
+  "value" : "做夢一般。要是我能去宇宙探險，不知道我能收集多少奇珍異寶。你聽過那些故事……"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/3",
+  "value" : "幻想。我曾聽過有一個奇怪的人擁有一座城堡，城堡裡面都是奇珍異寶"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/4",
+  "value" : "可怕。我聽說有穿紫色長袍的信徒襲擊了機器人城堡"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/5",
+  "value" : "苦。你聽說過男爵嗎？在一場牌裡，他把我所有錢都拿走了。有了那麼多珍寶，還要我那些錢"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/6",
+  "value" : "沉思。一些機器人城堡和要塞城牆後面都藏有古老的珍寶"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/7",
+  "value" : "沉思。我多想擁有奇妙的珍寶……一些機器人有豐富的寶庫！"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/8",
+  "value" : "擔心，你聽說過歐卡薩斯嗎？顯然他們對於那些攻擊機器人城堡的人很憤怒！"
+}, {
+  "op" : "replace",
+  "path" : "/glitch/default/default/9",
+  "value" : "羨慕。我聽說有一個機器人稱呼自己為男爵的。顯然他擁有很多珍寶！"
+} ]

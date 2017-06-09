@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個猿人頭骨。剩下的部分應該是獻身科學了吧？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿人頭骨面具"
+} ]

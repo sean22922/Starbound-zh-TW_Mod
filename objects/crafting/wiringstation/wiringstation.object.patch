@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "接線站"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "電路有關的任何事項"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於生產複雜的電路零件"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;電路站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我在這裡可以製造使用電路的設備"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是用於製造使用電路的設備的工作間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以製作電路的設備"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這是用於製作電路設備的工作間。非常方便"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在這個工作間可以製作電路設備。太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個工作間可以製作電路工具和附件"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個工作間可以製作關於電路的任何設備"
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : " 鑄造商人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 售賣礦石和挖礦裝備！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "從當地鑄造廠直接獲得你的礦物資源！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "源於鑄造廠的材料，就在這！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "歡迎！或許你需要一些挖礦裝備？來點金屬怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "來啦！所以，你需要什麼挖礦工具嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/1",
+  "value" : "我們到了！所以，你需要什麼？或許是什麼加工金屬？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/2",
+  "value" : "歡迎？你想買點金屬嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "如果你需要一些礦物，你知道上哪去找！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "如果你需要一些原金屬，你知道去哪找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "需要原金屬的時候隨時過來找我！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種有亮黃色花瓣的花。適合做染料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "只要有這朵花，我就能把我的衣服染成黃色的了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人的歷史上很流行使用黃色花朵製成的染料"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黃色花朵在葉族人的文化中代表青春"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "熱情。一朵富有生機的黃色花朵"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "未知品種的黃花。為什麼我感覺自己被你激勵了？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "讓人振奮的黃花"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一朵長相平平的黃色花朵"
+} ]

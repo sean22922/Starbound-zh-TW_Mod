@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "噁心，黏稠的史萊姆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黏稠的史萊姆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "粘糊糊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "發言。有用的史萊姆"
+} ]

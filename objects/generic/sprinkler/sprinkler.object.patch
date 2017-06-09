@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套自動澆水解決方案"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灑水器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台灑水器，澆灌作物的好辦法"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一台自動澆灌作物的機器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "澆灌作物……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒有感覺。這是用於自動澆灌的解決方案。我更喜歡親手澆水"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一台用來澆作物的灑水器！從灑水器間跑過讓我覺得有懷舊的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "他是用來澆水的，簡單但很聰明"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "讓澆灌變得簡單"
+} ]

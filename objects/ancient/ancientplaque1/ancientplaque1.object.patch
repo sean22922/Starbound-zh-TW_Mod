@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "老得不行的信息"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古徽章"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "也許這座廢墟勉強算得上是個信息？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一想到這東西有可能存在多久了，我的羽毛就發抖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人讀不了這個！無聊！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。我不能分析這個廢墟的含義"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "古老嚇人的符文是我的菜"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一則古老信息。符號像河流一樣彎曲蜿蜒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個歪歪扭扭曲線看起來很眼熟"
+} ]

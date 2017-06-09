@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "荷葉表"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "荷葉形的表"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "荷葉形的表。真可愛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "就像是遊樂場裡面的小玩意一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人的鐘錶真傻喔"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可笑。這鐘錶的形狀真是太怪異了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "對於騙人的小機關來說，這東西還挺可愛的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這不是使用性的典型代表，但卻是對時間流逝的一種記錄"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "荷葉形狀的鐘錶。記得我以前有隻仙人掌形狀的表呢"
+} ]

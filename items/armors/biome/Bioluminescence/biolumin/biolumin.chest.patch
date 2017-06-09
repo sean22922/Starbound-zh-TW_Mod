@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發光的衣服 - 像星星一樣亮！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光的衣服"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "加固支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "前哨站支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。常用於前哨站建築中的大樑類型"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在我看來就是金屬大樑"
+} ]

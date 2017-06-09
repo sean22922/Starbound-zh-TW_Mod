@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇古老垂直的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老艙門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇古老垂直的門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個古老的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來是扇在地板上的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個艙門很古老"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個用來水準移動得閥門是不夠的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個古老的艙口，本身就是遺蹟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "地板上有個入口，看起來很老"
+} ]

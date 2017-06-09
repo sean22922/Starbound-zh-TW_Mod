@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵菇族人假扮的巨型蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一朵巨大的菇族蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看上去比菇族人可愛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這朵蘑菇存在的意義是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人知道你的祕密，小蘑菇。葉族人不會告訴別人的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，這是一個活著的菇族人，它巧妙地把自己偽裝起來了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "需要更多毛毛蟲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個菇族人假扮的邪惡蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這朵蘑菇有什麼特別的地方嗎？"
+} ]

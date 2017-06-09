@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粉彩色小凳子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩凳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小凳子，以心形為裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個精緻的小凳子。上面還有心呢！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族在想這凳子是不是用真心製造的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一個小凳子，以心形為裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個挺有新鮮感的小凳子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個賣相很不錯的小凳子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來休息的小凳子"
+} ]

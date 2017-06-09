@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一架銅質梯子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅質梯子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "吃驚。這個梯子是用銅做的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "銅做的梯子"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "銅做的梯子"
+} ]

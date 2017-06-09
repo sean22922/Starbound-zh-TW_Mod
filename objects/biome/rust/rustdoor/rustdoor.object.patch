@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道生鏽的門。它好像通往恐怖的地下室"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇不祥的生鏽了的門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇這樣的門不可能通向什麼值得去的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "僅此一次，葉族不知、知道說什麼好了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。一扇生鏽的門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇生鏽的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門沒有得到良好的維護"
+} ]

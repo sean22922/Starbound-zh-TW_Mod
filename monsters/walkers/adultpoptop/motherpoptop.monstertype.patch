@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帕普踏普母親"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "好大…"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/capturedMonsterName",
+  "value" : "成年帕普踏普"
+} ]

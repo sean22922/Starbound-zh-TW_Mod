@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個銅塊有清晰的類似齒輪的痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅齒輪塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。我發現這些銅塊的形狀很討喜"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "像機器齒輪的銅塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "銅塊，看起來像齒輪"
+} ]

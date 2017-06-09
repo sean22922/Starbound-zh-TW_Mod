@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "煉獄聖殿騎士和他的寵物會從火焰中獲取力量，不要讓他們靠近陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "燃燒噴霧可以有效地防止你被火焰進一步灼傷，但是無法消除直接接觸火焰造成的傷害"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "使用平台來躲避陷阱，並與煉獄的劍保持距離"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "你最好儘快解決煉獄，否則他的寵物會源源不斷地出現"
+} ]

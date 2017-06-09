@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "醫生"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "醫療"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "我可以在船上為你提供治療"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "葉族人可以在船上為你提供治療"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "幫助。我可以在船上為你提供治療"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/0",
+  "value" : "你好像受傷了，讓我幫你治療一下！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/1",
+  "value" : "讓我幫你吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/2",
+  "value" : "你好像需要治療，來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/default/default/3",
+  "value" : "嘿，我可以幫你治療，別動！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/0",
+  "value" : "你好像受傷了，葉族人可以幫你治療！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/1",
+  "value" : "葉族人是醫師，相信葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/floran/default/2",
+  "value" : "你好像受傷了，葉族人可以幫你治療！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/0",
+  "value" : "擔心。你好像需要治療！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/1",
+  "value" : "關心。你需要治療嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/fieldBenefit/glitch/default/2",
+  "value" : "幫助。你似乎需要治療"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+  "value" : "你好像需要治療！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+  "value" : "讓我幫你吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+  "value" : "我是戰地醫師，我可以幫你治療！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+  "value" : "你似乎需要我的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/4",
+  "value" : "快來！我可以治療你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+  "value" : "葉族人有可以幫上忙的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+  "value" : "葉族人可以幫上忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+  "value" : "葉族人可以幫你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+  "value" : "渴望。我想要幫你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+  "value" : "興奮。你需要治療嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+  "value" : "幫助。這個可以治療你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+  "value" : "幫助。這個能幫上你，拿著！"
+} ]

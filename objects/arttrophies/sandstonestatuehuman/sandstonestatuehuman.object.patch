@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座人類雕像。看頭髮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "人類砂岩雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個人類。很容易看出來人類和猿人有深厚的淵源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個人類。他的髮型看起來就像羽毛一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚、愚蠢的人類有著愚、愚蠢的髮型。雕、雕像"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心：我為這個人類感到悲哀，他必須留著這樣難看的髮型"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個普通的人類明星。我曾經收集了他的全部專輯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個人類雕塑。這個人看起來像是在引領某種潮流"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "他的髮型很瘋狂，就像剛摘下帽子一樣"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "耐鋼製的竿體，適合在嚴酷的環境垂釣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "耐久釣竿"
+}, {
+  "op" : "replace",
+  "path" : "/lureName",
+  "value" : "基礎釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/reelName",
+  "value" : "基礎捲線器"
+} ]

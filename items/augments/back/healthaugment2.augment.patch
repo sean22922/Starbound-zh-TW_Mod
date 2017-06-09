@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "提高你的總生命值的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生命II增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "生命II"
+} ]

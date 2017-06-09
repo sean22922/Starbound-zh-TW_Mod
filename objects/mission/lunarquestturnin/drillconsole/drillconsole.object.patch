@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個鑽頭控制台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "採礦鑽控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "連接鑽頭的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個自帶鑽頭的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶鑽頭的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。一個直連礦井鑽頭的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鑽頭，有可能是通過控制台操作的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個礦井控制台，功能強大"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "礦井控制台"
+} ]

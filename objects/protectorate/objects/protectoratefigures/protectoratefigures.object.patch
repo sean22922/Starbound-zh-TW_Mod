@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者的易開罐活動公仔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者易開罐玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "幾個玩具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可愛的玩具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "玩具盯著葉族人啊！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。收藏家的好玩具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有些收藏家的好玩具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些人偶非常可愛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有些玩具"
+} ]

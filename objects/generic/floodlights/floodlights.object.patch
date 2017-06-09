@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "如果我再盯著這些光看，我就會成瞎子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "探照燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "強烈的亮光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "能把黑夜變成白晝的光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "強光傷害葉族人眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我可以清楚的看到這些燈光的閃耀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "探照燈名副其實"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族人用類似的光在海洋深處照亮周邊環境"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些大燈比夏日烈焰還要耀眼"
+} ]

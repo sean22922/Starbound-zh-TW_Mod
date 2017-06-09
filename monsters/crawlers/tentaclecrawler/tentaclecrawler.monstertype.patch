@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個尖釘可以穿透所有太空靴"
+} ]

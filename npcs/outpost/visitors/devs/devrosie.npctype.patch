@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嗨，我是羅西！宇宙好大，我想嗅每一朵花，追尋每一個飛蟲，攀爬每一棵樹"
+} ]

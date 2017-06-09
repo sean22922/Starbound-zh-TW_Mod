@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "葉族人認為應該有更多葉族人的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "博物館應該有更多葉族人的東西，你認同嗎？"
+} ]

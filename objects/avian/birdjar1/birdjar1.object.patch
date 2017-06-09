@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個罐子已經很老舊了。看上去可以砸爛……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "精緻的神廟之罐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這裡的雕刻已經磨損。這個水壺好像可以砸爛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個罐子可能用庫魯克斯的圖案來裝飾。它裡面可能裝有獻祭品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "已經磨損的罐子，可以砸爛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這材質很脆，很容易打碎"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這東西看上去好像輕輕一碰就會碎掉。不知道裡面有什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個罐子上的圖案已經無法辨認。但是裡面可能有有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻很脆的罐子很適合用來當射擊目標"
+} ]

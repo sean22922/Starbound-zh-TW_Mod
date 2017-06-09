@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/activeCrewLimit/text",
+  "value" : "你達到了船員數量的上限。請拋下一部分船員以便繼續擴充船員"
+}, {
+  "op" : "replace",
+  "path" : "/crewLimit/text",
+  "value" : "你的船隻無法承受更多船員。要麼想辦法提升船隻大小，要麼通過船艦命令解散部分船員"
+}, {
+  "op" : "replace",
+  "path" : "/gainedCrewMember/text",
+  "value" : "你發現了你的第一位船員！在船上跟我對話以管理船員和監視他們的狀態"
+} ]

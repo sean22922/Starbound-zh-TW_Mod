@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/title",
+  "value" : "電子人"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/description",
+  "value" : "機器人被建造的目的是用來模擬文明。但是程式上的失誤導致他們在模擬初期就停滯不前了，時至今日他們依然無法擺脫他們的中世紀價值觀和信仰"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/0",
+  "value" : "塗色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/1",
+  "value" : "頭部Mod"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/2",
+  "value" : "襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/3",
+  "value" : "褲子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/4",
+  "value" : "燈光顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/5",
+  "value" : "細節顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/6",
+  "value" : "襯衫顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/7",
+  "value" : "褲子顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/8",
+  "value" : "電子人"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/9",
+  "value" : "性格"
+} ]

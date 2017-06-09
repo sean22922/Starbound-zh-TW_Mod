@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "屋頂上吊著一串骨頭，好像風鈴一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大號骨頭風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些骨頭隨風發出聲響"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些骨頭的響聲非常令人緊張"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很享受這些聲音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "煩惱。這些骨頭髮出的聲音和蟲子一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這骨頭風鈴發出的聲音很嘈雜"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "骨頭風鈴發出的聲音讓我毛骨悚然"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "可怕的風鈴"
+} ]

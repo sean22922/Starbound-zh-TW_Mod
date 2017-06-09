@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "寵物站"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "為捕捉的寵物提供各種服務"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可製作寶貝球，治療站和其他有關寵物的功能"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;寵物站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我能在這裡製作寶貝球"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這能讓我製作寶貝球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人有時候捕捉一些生物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太激動了！有了這個，我就可以製作寶貝球！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷！也許我能捕獲一整支軍隊的憤怒蜜蜂"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要馴服一頭野獸，就要和它建立起真摯不渝的友誼"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有了寶貝球小孩子都能馴服一頭野獸"
+} ]

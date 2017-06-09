@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件輕盈柔軟的胸甲，可以讓戰士迅速攻擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海將軍胸甲"
+} ]

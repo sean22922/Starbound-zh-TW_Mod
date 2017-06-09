@@ -1,0 +1,253 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "完美通用受害者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "威脅<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "為<questGiver>威脅某人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;<target> 需要明白葉族人不是好惹的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族人在這需要被尊重！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;激進。我需要 <target> 變得順從,我知道怎麼做"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;狡詐. 我決定<target> 應該更怕我一點…我有個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我決定了，萬一我需要<target>做什麼，讓<target.pronoun.object>服從我會很不錯。我正好有個計劃…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我想要<target>的尊重，但是友情太麻煩，我有個更好的計劃…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先，我們要確定^orange;<target>^white;承認葉族人的權威。葉族人有個極好的辦法－^orange;拿個閃亮的<item>^white;，然後^green;和<target>談一談^white;。可別失敗！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "首先，葉族人不認為^orange;<target>^white;明白葉族人的重要性。^orange;用致命的<item>^white;瞄準<target.pronoun.object>，然後^green;開始談話^white;－<target.pronoun.capitalSubject>會知道要尊重我的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "首先，我需要^orange;<target>^white;害怕我。你能去^green;把一個^orange;大號<item>^green;對準<target.pronoun.object>^white;嗎？那會讓 <target.pronoun.object>知道這裡誰才是老大…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "威脅。首先我需要不管我要什麼，^orange;<target>^white;都願意合作－你能以我的名義^green;威脅<target.pronoun.object>^white;嗎？^orange;拿著<item>^green;和<target.pronoun.object>談談，我肯定<target.pronoun.subject>會明白的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先，我需要^orange;<target>^white;的服從。如果你先^green;拿著個大號^orange;<item>^green;對準<target.pronoun.object>再開始談話^white;，我肯定<target.pronoun.subject>會明白的…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先，我需要^orange;<target>^white;服從我的所有意見。也就是說<target.pronoun.subject>要怕我！^green;和<target.pronoun.object>談談，同時^orange;用<item>^green;指著<target.pronoun.possessiveDet>臉^white;我肯定<target.pronoun.subject>會知道以後該怎麼做的…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/0",
+  "value" : "這是個交朋友的好機會。^green;拿上一個嚇人的^orange;<item>^green;然後告訴^orange;<target>^green;今後要聽葉族人的！^white; 別擔心，這不難。葉族人以前幹過"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/1",
+  "value" : "下一步你要 ^green;用 ^orange;<item>^white;來 ^green;嚴肅地^white; 和 ^orange;<target>^white;談談. 確保 <target.pronoun.subject> 明白誰是老大。當然是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/0",
+  "value" : "惡毒。下一步，我的計劃是讓^orange;<target>^white;願意為我做任何事，也就是說^green;<target.pronoun.subject>要怕我^white;。我知道<target.pronoun.capitalSubject>害怕^orange;<item>－^green;和<target.pronoun.object>談話^white;的時候^green;拿在手上^white;就會讓<target.pronoun.subject>明白的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/1",
+  "value" : "實用。下面我需要^orange;<target>^white;的服從－如果<target.pronoun.subject>怕我，<target.pronoun.subject>會照我說的做。我聽說^green;<target.pronoun.subject>害怕^orange;<item>^white;－你能^green;拿一個指著<target.pronoun.object>^white;，並讓<target.pronoun.object>知道這裡誰是老大嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/0",
+  "value" : "我計劃的下一部分需要 ^orange;<target>^white;的服從。最好的辦法就是威脅<target.pronoun.possessiveDet>生命！^green;拿一個大^orange;<item> ^green;然後去和<target.pronoun.object>^white;談談。<target.pronoun.capitalSubject>會明白的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/1",
+  "value" : "下一步，我需要 ^orange;<target>^white;服從我。如果<target.pronoun.subject>怕我的話就簡單了！你能^green;拿一個^orange;<item>^green;指著<target.pronoun.object>，然後以我的名義談判嗎？^white;那樣應該有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/0",
+  "value" : "葉族人還需要你幫最後一個忙。^orange;<target>^white;將是我的得力助手，如果你^green;和<target.pronoun.object>交談的時候拿著一個^orange;<item>^white;，葉族人肯定<target.pronoun.subject>會明白的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/1",
+  "value" : "該讓^orange;<target>^white;知道誰是老大了。^green;拿著^orange;<item>^green;和<target.pronoun.object>^white;談談，我肯定<target.pronoun.subject>很快就會屈服。葉族人看好你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/0",
+  "value" : "威脅。最後，我需要^orange;<target>^white;當我的狗－我聽說<target.pronoun.subject>害怕^orange;<item>。^green;你可以帶著並和<target.pronoun.object>談判^white;－<target.pronoun.capitalSubject>會明白的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/1",
+  "value" : "威脅。最後，我要讓^orange;<target>^white;尊敬我。只有一個辦法－你應該^orange;用<item>^green;威脅<target.pronoun.object>^white;，那樣<target.pronoun.subject> 就會知道害怕。這計劃很簡單"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/0",
+  "value" : "最後，我的計劃要收尾了。你知道^orange;<target>^white;害怕^orange;<item>^white;嗎？你要^green;用它來威脅<target.pronoun.object> 然後發起談話^white;－<target.pronoun.capitalSubject>會很害怕，然後就會對我俯首帖耳。真是完美！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/1",
+  "value" : "我的計劃終於要收尾了！ 但我仍然需要^orange;<target>^white;的絕對服從。如果<target.pronoun.subject>害怕我，就會對我言聽計從！你快^green;用^orange;<item>^green;指著<target.pronoun.object>並開始談判吧！^white;<target.pronoun.capitalSubject>會知道是我派你去的，別擔心"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人覺得在這有權勢是很好的。葉族人認為^orange;<target>^white;很值得利用。最好是^green;和<target.pronoun.object>談話時拿著^orange;<item>^green;在手裡。^white;葉族人相信你能成功"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族人需要確定^orange;<target>^white;明白葉族人不好惹。^green;去和<target.pronoun.object>^white;談談. 哦！^green;用^orange;<item>^white;指著<target.pronoun.object>，這會讓 <target.pronoun.object>配合"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "威脅。為了贏得^orange;<target>^white;的服從，我需要<target.pronoun.object>害怕我。^green;你能以我的名義用^orange;<item>^green;指著<target.pronoun.object>^white;嗎？我肯定<target.pronoun.subject>會明白"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "惡毒。為了讓^orange;<target>^white;怕我，你要^green;找個^orange;<item>^green;並用它指著<target.pronoun.possessiveDet>臉^white;。我肯定<target.pronoun.subject>會明白的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "^orange;<target>^white;確實很害怕^orange;<item>^white;。完美！^green;去用它威脅<target.pronoun.object>並開始談判^white;－我肯定<target.pronoun.subject>會明白是我派你去的！讓<target.pronoun.capitalSubject>害怕之後，<target.pronoun.subject>以後就會聽我的啦！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "我聽說^orange;<target>^white;害怕^orange;<item>^white;！你能去幫我^green;威脅<target.pronoun.object>嗎^white;？我肯定<target.pronoun.subject>在<item>指著<target.pronoun.object>的時候會服從的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "完美！這下<target>以後一定會幫我們了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "真快！多虧了<item>。葉族人很滿意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "滿意。<target>的服從毫無疑問是有用的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "滿意。威脅<target>比想像中的簡單。這很有用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "成功了！<target>現在十分害怕我，而且會對我言聽計從！操縱他人太容易了…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "威脅成功了！<target>會滿足我一切要求。這很有用。感謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/0",
+  "value" : "幹得好。這會讓接下來的計劃很容易。葉族人感謝你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/1",
+  "value" : "這部分計劃你執行的很好。我們繼續下一部分！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/0",
+  "value" : "激動。威脅比我想像的容易！感謝你的努力－我保證它們不會白費"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/1",
+  "value" : "迫切。我期待著利用<target>的服從。感謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/0",
+  "value" : "現在我說什麼<target>就會做什麼！我說了威脅很簡單，對吧？我們很快就會用上了…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/1",
+  "value" : "現在<target>擔心<target.pronoun.possessiveDet>生命，<target.pronoun.subject>會對我言聽計從！我應該多威脅別人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/0",
+  "value" : "葉族人很滿意！有了這個盟友，葉族人的生活會更容易"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/1",
+  "value" : "葉族人對結果很滿意。你是真正的朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/0",
+  "value" : "滿意。有了<target>的服從。今後會很有用。感謝你的…配合"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/1",
+  "value" : "雄心勃勃。<target>對我絕對服從，我看到未來的很多機會…感謝你的配合！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/0",
+  "value" : "成功了！現在<target>會聽我的。總有一天會用上的。感謝你的…配合"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/1",
+  "value" : "如果能讓人畏懼，幹嘛還要受人喜歡？感謝你的幫助！我相信<target>未來會對我有用…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "成功！葉族人感謝你的努力。有了新的助手，讓我覺得我很強大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "謝謝你，葉族人一開始就知道你靠得住！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "野心。<target>的服從會讓我的許多計劃收益。現在是我行動的時候了！我感謝你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "滿意。<target>對我言聽計從，我會得到更多機會。我很感激你的…配合"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "感謝你的…配合。以後<target>就會聽我的了！那會很有用…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "社交控制太簡單了！<target>現在對我是忠誠的。感謝你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "這個任務沒有按照計劃進行。很可能要讓<questGiver>靠自己做<questGiver.pronoun.possessiveDet>骯髒事了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我沒能成功威脅到<target>，希望<questGiver>對我不是太失望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/2",
+  "value" : "我沒能幫助<questGiver>威脅<target>。也許這樣最好－威脅別人是不好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "裝備<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "威脅<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "回去報告<questGiver>"
+} ]

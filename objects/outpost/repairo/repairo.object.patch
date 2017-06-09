@@ -1,0 +1,53 @@
+[ {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "交通工具修復"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個修理工Rob，機械商人，修理損壞的交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "修理工Rob"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個機械人致力於修理東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個機械商人修理壞了的交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃閃發光的金屬人修理東西！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "鬆一口氣。這個機械人能夠修復壞了的交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Rob Repairo真棒！他長得很歡欣，並且能修理好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個機械商人異常地鼓舞人心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "整天修復東西，他看起來真的很開心"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/0",
+  "value" : "把你的破房子修好——幾塊自動晶片，你就能出發了！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/1",
+  "value" : "不記得在哪停你的飛行機車了嗎？只要從自動晶片重建就好！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/2",
+  "value" : "只要幾片自動晶片，就可以使那些難看的劃痕和凹陷瞬間消失！"
+} ]

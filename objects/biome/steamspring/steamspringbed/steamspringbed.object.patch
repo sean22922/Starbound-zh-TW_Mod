@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張由框架管支持的舒適的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽噴泉牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張牀使用再利用銅管為牀架——非常環保"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張美麗的牀的銅管在陽光下閃閃發亮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族很困惑。這張牀為什麼用銅管打造？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷惑。這張牀上的銅管難道讓人睡得比較舒服？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我感覺老舊的銅管不是堅固的牀架的最佳選擇"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我猜這張牀是故意弄成懷舊風格的。我不大喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以躺在這樣的牀上數星星"
+} ]

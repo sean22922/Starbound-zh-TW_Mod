@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "爛泥"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "融化的冰塊造成了厚厚的爛泥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "獲知。這樣的雪泥是用融化的冰做成的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "又冷又溼的雪泥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一整團冰冷的雪泥"
+} ]

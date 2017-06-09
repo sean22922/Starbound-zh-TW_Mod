@@ -1,0 +1,189 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/amber/title",
+  "value" : "琥珀"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/amber/description",
+  "value" : "琥珀比其他的古代遺物種類更為豐富"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ammonite/title",
+  "value" : "鸚鵡螺"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ammonite/description",
+  "value" : "鸚鵡螺是特點十分鮮明的化石，在絕大多數具有生命的星球上都有出現其變種"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/egg/title",
+  "value" : "蛋化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/egg/description",
+  "value" : "古代生物的化石，還沒破殼便被凍在歷史的長河之中"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/fern/title",
+  "value" : "蕨化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/fern/description",
+  "value" : "石化的蕨類葉子證明幾千年前有機生物就已經存在了"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/fish/title",
+  "value" : "魚化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/fish/description",
+  "value" : "上千年來，魚的解剖結構基本沒有任何變化"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/mysteriousalien/title",
+  "value" : "神祕外星人頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/mysteriousalien/description",
+  "value" : "奇怪而奇妙的生命體，已丟失在時光的長河之中"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/penguin/title",
+  "value" : "企鵝化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/penguin/description",
+  "value" : "一隻企鵝的化石遺骸"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/sabertooth/title",
+  "value" : "劍齒虎頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/sabertooth/description",
+  "value" : "劍齒虎由於其長長的獠牙，化石的辨認度很高"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/track/title",
+  "value" : "腳印化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/track/description",
+  "value" : "這個腳印的大小表明，留下腳印的生物應該是該物種的成年雄性"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/trilobite/title",
+  "value" : "三葉蟲"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/trilobite/description",
+  "value" : "三葉蟲由於其特點鮮明的外骨骼，成為了留存最為完好的化石族羣"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/avianSkeleton/title",
+  "value" : "猿人化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/avianSkeleton/description",
+  "value" : "猿族的化石遺骸。可以發現強勁的牙齒與突出的眉骨"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/apexSkeleton/title",
+  "value" : "翼族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/apexSkeleton/description",
+  "value" : "這塊翼族化石具有十分鮮明的鳥類特點：空心骨骼與短而彎折的喙"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/floranSkeleton/title",
+  "value" : "葉族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/floranSkeleton/description",
+  "value" : "這從葉族的骨骼充滿木質素，使其擁有了樹木的外觀"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/glitchSkeleton/title",
+  "value" : "機器人化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/glitchSkeleton/description",
+  "value" : "石化的機器人。內部的線路損壞嚴重"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/humanSkeleton/title",
+  "value" : "人類化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/humanSkeleton/description",
+  "value" : "地球霸主人類的化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/hylotlSkeleton/title",
+  "value" : "鮫族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/hylotlSkeleton/description",
+  "value" : "這具鮫族化石骨骼展現了早期適應水中生活的跡象"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/alpacaSkeleton/title",
+  "value" : "駝族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/alpacaSkeleton/description",
+  "value" : "一隻死去已久的駝族留下的緻密骨骼"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/avioscaleSkeleton/title",
+  "value" : "羽族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/avioscaleSkeleton/description",
+  "value" : "這隻羽族具有極大的眼窩和突出的喙"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/froggSkeleton/title",
+  "value" : "蛙族化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/froggSkeleton/description",
+  "value" : "完美的蛙族化石樣本"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/mysteriousSkeleton/title",
+  "value" : "未知化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/mysteriousSkeleton/description",
+  "value" : "難倒無數科學家的化石，其來源與年代均不可考"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ixodoom/title",
+  "value" : "埃克斯歐督姆化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ixodoom/description",
+  "value" : "這隻節肢動物在其厚實外骨骼的幫助下，存活了數百萬年"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ophidaunt/title",
+  "value" : "歐肥大鱗吐化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/ophidaunt/description",
+  "value" : "這個蛇鱗吐的遠古祖先曾經是在海中捕獵，而不是像現在一樣，在陸地上掠食"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/trex/title",
+  "value" : "霸王龍化石"
+}, {
+  "op" : "replace",
+  "path" : "/collectables/trex/description",
+  "value" : "地球上曾經的原始生物，由過度熱心的科學家帶到了各個星系"
+} ]

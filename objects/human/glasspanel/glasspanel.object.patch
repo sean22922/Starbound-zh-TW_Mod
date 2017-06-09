@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃亮的玻璃儀表"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "玻璃儀表"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "彩色的玻璃，很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "它像珠寶一樣閃亮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "玻璃可不是藏身的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝：人類的工藝真是嘆為觀止"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這樣的彩色玻璃可以做成炫酷的太陽眼鏡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這玻璃就像色彩斑斕的貝殼那樣閃亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "透明的玻璃。我能看透它"
+} ]

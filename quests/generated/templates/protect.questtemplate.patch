@@ -1,0 +1,209 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/spawnPoint/example/name",
+  "value" : "黑暗、恐怖的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "保護<target>遠離<threat>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "拯救<target>遠離<threat>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族希望<target>站在我們這邊。葉族要想個計劃達成這一目標"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族想<target>欠葉族一份情"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;擔心。我希望能贏得<target>的好感，現在我聽說<target.pronoun.copulative>有危險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;渴望。我聽說<target>有危險。這或許是一個機會贏得<target.pronoun.possessiveDet>好感"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我聽說<target>有麻煩，如果我幫助<target.pronoun.object>，可能會讓<target.pronoun.subject>更信任我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我收到<target>有危險的消息。如果我幫助<target.pronoun.object>，可能會讓<target.pronoun.subject>更喜歡我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "葉族知道^orange;<threat>^green;在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近堵^orange;<target>。^white;葉族需要<target.pronoun.object>活著，所以你要^green;保護好<target.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "葉族聽說^orange;<target>^green;惹到了<threat>，所以他們從^orange;<spawnPoint.direction>的<spawnPoint>^white;來了！葉族希望你去^green;保護<target.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "緊張。我聽說^orange;<threat>^white;從^orange;<spawnPoint.direction>的<spawnPoint>^white;來堵人，目標是^orange;<target>^white;。你能幫忙^green;保護<target.pronoun.object>遠離<target.pronoun.possessiveDet>敵人^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "熱心。^orange;<target>^white;正受到^orange;<threat>^white;的威脅，從^orange;<spawnPoint.direction>的<spawnPoint>^white;正朝這裡前進。請你幫忙^green;保護<target.pronoun.object>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先，我們需要處理^orange;<threat>^white;。他們正從^orange;<spawnPoint.direction>的<spawnPoint>^white;趕來。我聽說他們的目標是^orange;<target>^white;！無論如何請將他們^green;趕走^white;，<target.pronoun.capitalSubject>需要我們的保護！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "第一個任務很簡單，趕往^orange<spawnPoint.direction>的<spawnPoint>^green;保護<target>^green;，確保^orange<threat>^white;無法攻擊^orange;<target.pronoun.object>^white;！竭盡全力！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/0",
+  "value" : "下一個不容易。葉族聽說^orange;原來在<spawnPoint.direction>的<spawnPoint>的<threat>^white;要來堵^orange;<target>^white;。葉族需要你^green;阻止他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/1",
+  "value" : "下一步時機正好。葉族得到消息說^orange;<threat>從<spawnPoint.direction>的<spawnPoint>^white;來找^orange;<target>^white;的麻煩。葉族希望你^green;保護^orange;<target>^green;遠離^orange;<threat>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/0",
+  "value" : "慌張。我收到密報說^orange;<threat>^white;就要到了，從^orange;<spawnPoint.direction>的<spawnPoint>^white;出發來攻擊<target>！^green;如果你能幫我保護<target.pronoun.object>^white;，我會非常感激！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/1",
+  "value" : "激動。我收到消息說^orange;<threat>^white;快要到了，取道^orange;<spawnPoint.direction>的<spawnPoint>^white;，來襲擊^orange;<target>^white;。如果你幫忙^green;保護<target.pronoun.object>^white;，我能贏得<target.pronoun.possessiveDet>感激"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/0",
+  "value" : "下一步^green;我們要抵禦^orange;<threat>^white;，他們來自^orange;<spawnPoint.direction>的<spawnPoint>^white;。聽說他們的目標是^orange;<target>^white;。如果我們願意冒著生命危險去^green;保護<target.pronoun.object>^white;，那<target>會知道<target.pronoun.subject>可以信任我們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/1",
+  "value" : "下一步，我們要保護^orange;<target>^white;。有一群^orange;<threat>^white;取道^orange;<spawnPoint.direction>的<spawnPoint>^white;來攻擊<target.pronoun.object>^white;。盡你所能保證^green;<target>免受傷害！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族聽說^orange;<threat>^white;在找<target>有一陣子了，而且他們發現<target.pronoun.object>藏在這裡。就快從^orange;<spawnPoint.direction>的<spawnPoint>^white;附近過來找麻煩了。葉族需要你^green;確保<target>的安全^white;。做到了，對誰都有利"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族知道^orange;<target>^white;選錯邊了。^orange;<threat>^white;隨時都能從^orange;<spawnPoint.direction>的<spawnPoint>^white;來這裡！但如果葉族幫忙<target>，那<target.pronoun.subject>就欠了葉族一份情，所以^green;請保護<target.pronoun.object>免受敵人傷害"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "緊張。聽說^orange;<threat>^white;從^orange;<spawnPoint.direction>的<spawnPoint>^white;殺來，目標是^orange;<target>^white;！^green;能幫我保護<target.pronoun.possessiveDet>生命嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "不安。我收到消息^orange;<threat>^white;從^orange;<spawnPoint.direction>的<spawnPoint>^white;來堵^orange;<target>^white;！你要幫我^green;保護<target.pronoun.object>^white;，快來不及了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "聽說^orange;<threat>^white;要來抓^orange;<target>^white;並把<target.pronoun.object>擄回^orange;<spawnPoint.direction>的<spawnPoint>^white;。絕對不許發生這種事！請竭盡所能^green;保護<target.pronoun.object>^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "<target>有危險！有一幫從^orange;<spawnPoint.direction>的<spawnPoint>^white;來的^orange;<threat>^white;，來意不善。可以幫忙^green;確保<target>不受傷害^white;嗎？無論付出什麼代價！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "做得好，葉族的計劃完美實施！<target>不用知道是葉族告訴<threat><target.pronoun.subject>躲在這的…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "好樣的。你救了<target>！護衛技巧很好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "放心。<target>安全了，欠了我一份人情。謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "感激。多虧有你，<target>安全了。之後只要我們要求<target.pronoun.object>，<target.pronoun.capitalSubject>一定會來幫我們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "幸虧有你<target>才沒受傷。我相信<target.pronoun.subject>理所當然會對我們很感激！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "你保證了<target>的安全！<target.pronoun.capitalSubject>永不不會忘了我們救了<target.pronoun.possessiveDet>命。感覺我們之間有了交集"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/0",
+  "value" : "葉族對你的戰鬥技巧印象深刻。<threat>完全沒想到！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/1",
+  "value" : "葉族印象深刻。<target>運氣不錯，消息很正確，我敢賭這些<threat>完全沒想到！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/0",
+  "value" : "狂喜。你幫忙保護了<target>！因為救了<target.pronoun.possessiveDet>命，<target.pronoun.capitalSubject>欠我一份情－將來一定有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/1",
+  "value" : "印象深刻。你救了<target>！雖然是你解決了大部分麻煩，但全因為我有通知你，所以<target.pronoun.subject>欠我一份情。謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/0",
+  "value" : "你快速解決掉這些<threat>！我們會贏得<target>的信任。我確定一定有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/1",
+  "value" : "幹得好！這些<threat>遇到對手了。我打賭<target>現在更喜歡我了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "成功！<target>知道是我讓你阻止了<threat>所以覺得欠葉族一份情！。<target.pronoun.capitalSubject>不會知道更多內情的…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "成功！<target>受到保護了。現在<target.pronoun.subject>欠葉族一份人情"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "印象深刻。你確實是英勇的騎士！多虧你，<target>安全了，而且<target.pronoun.subject>會在我需要<target.pronoun.object>的時候幫我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "熱情。你擊敗了<threat>，拯救了<target>！你就是偉大的戰士！<target.pronoun.copulative>因此對我很感激！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "哈哈哈，<threat>對我們來說小菜一碟……呃，我是說對你來說。我想我們能贏得<target>的信任！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "真是令我印象深刻！<threat>一點機會都沒有。我覺得我們也贏得了<target>的友誼"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我沒能避免<target>受到<threat>的傷害。我為此有點內疚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "<target>還是被<threat>傷害了。也許，我不能算是個鬥士"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/2",
+  "value" : "我保護<target>不成功。也許我以後不應該承諾保護民衆"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/3",
+  "value" : "我保護<target>失敗了。也許<questGiver>應該給我多點訊息的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "找到<spawnPoint>的位置"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "殺死<threat>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "確保<target>的安全"
+} ]

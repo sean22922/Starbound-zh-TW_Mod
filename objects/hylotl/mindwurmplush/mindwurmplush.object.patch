@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可疑的腦蟲毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腦蟲絨毛玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不覺得這個毛絨絨的東西很可愛……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "腦蟲太可怕了以至於沒法變得可愛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "對於佛洛蘭覺得可愛的東西來說腦蟲太煩人了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "心疼：我不喜歡腦蟲 ，即使在毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "即使在絨毛玩具的形式， 腦蟲還是有點嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "腦蟲是對於尋找生物很有興趣。我不確定我想要一個它的毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "絕對要比活的腦蟲可愛多了！"
+} ]

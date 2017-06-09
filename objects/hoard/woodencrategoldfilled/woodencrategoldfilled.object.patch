@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝滿寶物的木箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝滿寶藏的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木箱子。裝的寶藏太多了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個木製儲物箱，裝滿了金子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "木箱子裡有寶物！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。這個木箱子不足以裝下這麼多寶物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個裝滿寶物的木箱子，顯然沒有考慮到安全"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個普通的木製箱子，裡面的寶物都要溢出來了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這箱子都沒有蓋子，怎麼裝我的戰利品？"
+} ]

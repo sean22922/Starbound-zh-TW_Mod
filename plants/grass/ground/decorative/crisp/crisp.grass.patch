@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個易碎的根"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一個易碎的根"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "脆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一個易碎的根"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當然看起來像是那樣。無名的塗鴉藝術家"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "\"不准逃跑\"的塗鴉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很顯然，無處可逃。猿族人非常熟悉的警告"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某些人的觀點顯然很消極"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "畫得好。但葉族人不同意上面的內容"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。儘管這麼說，可我已經掃描出了四種逃跑的方法"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "接受挑戰"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個塗鴉上的痛苦和顏料一樣多"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某人在心情不好的時候畫的"
+} ]

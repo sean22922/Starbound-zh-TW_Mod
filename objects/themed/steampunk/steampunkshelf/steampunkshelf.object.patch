@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套掛著菸斗的架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽朋克架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "管子是製作安全門防護的最好的材料了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個書架體現了真正的創作天賦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡書，但書架就還好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這些管子用於支撐書架"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "舊管子這樣用真是有創造力"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這不是最優雅的儲存盒子的方式，但話說真的挺好用的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在想那個時鐘是不是壞了？"
+} ]

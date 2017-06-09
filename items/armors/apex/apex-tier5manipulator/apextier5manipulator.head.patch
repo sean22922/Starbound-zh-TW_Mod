@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "遮住臉部的頭飾。這個護目鏡中的世界是紅色的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特工的頭巾"
+} ]

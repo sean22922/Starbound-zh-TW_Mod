@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿了冒泡的熔化液體的高大容器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型鋼水包"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "容器裡的融液散發著微弱的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個容器裡裝著超熱的融液"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燃燒的液體冒著泡，散發著紅光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這個容器可以保持內部液體的溫度嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "裡面的液體散發著炙熱的熱量"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個容器裡盛放著融液"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "裡面的液體散發著炙熱的熱量"
+} ]

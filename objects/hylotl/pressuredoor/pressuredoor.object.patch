@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能夠很好受壓的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "受壓門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "堅固的受壓門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個非常沉重的金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在水下很適用的大鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放心。這個門非常重，應該具有很不錯水密性"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個堅固的大鐵門專門用來應對高壓環境"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "製作精良的受壓門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "強有力的受壓門"
+} ]

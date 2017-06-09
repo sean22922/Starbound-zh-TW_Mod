@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一卷銅線"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅線"
+} ]

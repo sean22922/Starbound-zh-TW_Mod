@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "菲洛合金礦主要能在冰凍恆星周圍的行星上找到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "菲洛合金"
+} ]

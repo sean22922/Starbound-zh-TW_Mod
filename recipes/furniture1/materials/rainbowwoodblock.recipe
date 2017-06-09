@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "rainbowwood", "count" : 1 }
-  ],
-  "output" : { "item" : "rainbowwoodblock", "count" : 20 },
-  "duration" : 0.25,
-  "groups"  : [ "craftingfurniture", "materials", "all" ]
-}

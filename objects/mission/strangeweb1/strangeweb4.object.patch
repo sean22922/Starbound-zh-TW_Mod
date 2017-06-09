@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "奇怪的天然網"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇怪的網"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這像是天然生成的。什麼會產生這種物質？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看上去黏黏的。我可不想讓它沾到我的羽毛上面"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞起來像獵物！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個看上去流動的物質不是人造物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這東西聞起來比看起來還糟糕。什麼生成的這東西？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許，又是什麼葉族不喜歡的東西？要不然比那個還嚴重點……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "像粘在鞋上的口香糖一樣"
+} ]

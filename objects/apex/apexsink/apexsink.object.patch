@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不要忘了洗手！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洗手間水槽"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個無可挑剔的水槽。迷你克諾格無法忍受不乾淨的家"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個飲水機…也許是一個自動飲水機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "甜甜的營養水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "注意。水純度13%。水中含有合成物質"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我想待會在洗個手"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "水不適合在裡面游泳"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來可以飲用"
+} ]

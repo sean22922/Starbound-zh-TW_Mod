@@ -1,9 +1,0 @@
-{
-  "name" : "swoosh",
-  "category" : "guardianboss",
-  "type" : "swoosh",
-
-  "frames" : {
-    "swoosh" : "swoosh.png"
-  }
-}

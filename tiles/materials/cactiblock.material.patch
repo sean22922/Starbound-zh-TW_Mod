@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被做成建材的仙人掌。還是有很多刺"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "仙人掌磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個建材是由多刺的仙人掌做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡多刺的仙人掌磚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "由仙人掌做的。最好不要靠著它"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有果汁的清香"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶杯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一杯果汁。在禁酒期間這種果汁也是被禁的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼人沒有這樣塑造水晶的方法"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面有噁心的水果味"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可分析。被子裡似乎有果汁"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "味道讓我想起了熱帶果汁"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要想把水晶塑造成這樣必須得有靈活的手指"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "杯子好看，我猜裡面的果汁也不差"
+} ]

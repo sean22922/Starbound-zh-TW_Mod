@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "壞了的UFO"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "UFO道具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看上去好像是個無機能的飛碟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "曾用來遨遊天際的機器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一種小小的金屬東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。無機能了的飛行器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去很復古的飛碟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為一個身材較小的乘客打造的載具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去很粗糙的太空載具。似乎還懷了"
+} ]

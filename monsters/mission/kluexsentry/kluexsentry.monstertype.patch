@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯崗哨"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "石廟守衛，由古老的科技啟動"
+} ]

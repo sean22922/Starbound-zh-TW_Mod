@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "製作麵包必不可少的材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小麥"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "美麗的留聲機，播放著古樸的曲子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境留聲機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "留聲機裡傳出的音樂喚醒了我心裡的一些東西。這種感覺讓人激動"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這台簡單的設備通過轉動碟片播放音樂。真是神奇！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡音樂，葉族躲藏的聲音都是偷偷摸摸的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這台設備轉動著碟片，莫名其妙地就能放出音樂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "舊時候的留聲機！孩子們，快過來！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這台音樂播放器結構如此簡單，卻能播放出音樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "播放的這首曲子真的非常棒，抖腿停不下來！"
+} ]

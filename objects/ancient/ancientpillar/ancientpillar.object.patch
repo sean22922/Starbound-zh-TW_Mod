@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在大門旁發現的古老柱子。發出光亮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老柱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根遠古發光柱子。我心懷敬畏"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊發光的巨石。宇宙真神奇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光的岩石！葉族人想起了人造太陽"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有洞察力的。超凡的光線是由某種我不認識的物質發出的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是個遠古燈杆"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這根聳立的柱子一定已經見識了很長的歷史"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "發光的石頭讓我想起遠處的月亮"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出摩施幼崽，長大後成為成年摩施。摩施會產乳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "摩施蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "摩施的蛋，成年摩施可以生產牛奶，牛奶對你的皮毛有益"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個蛋中有個小摩施"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人迫不及待的想看摩施蛋孵化！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "一個摩施蛋！摩施牛奶非常有營養"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "摩施蛋！請趕快孵化吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "蛋中有個嬰兒摩施"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個摩施蛋，你想要牛奶的話，最好養個摩施"
+} ]

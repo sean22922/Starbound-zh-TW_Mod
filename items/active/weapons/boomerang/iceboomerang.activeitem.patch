@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有冰霜之心的冰霜迴力鏢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰霜迴力鏢"
+} ]

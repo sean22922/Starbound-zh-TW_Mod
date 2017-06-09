@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石羽族軀幹"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羽族軀幹"
+} ]

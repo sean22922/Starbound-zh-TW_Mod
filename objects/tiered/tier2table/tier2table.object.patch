@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張基本的鎢製桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢製桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個鎢製的桌子一定有所用途"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張堅固的鎢製桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這張桌子好的能讓葉族人切——肉——"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好呀，一張製作精美的鎢製桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張不錯的鎢製桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對於一張基本的鎢製桌子而言，這張還不賴"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張不錯的鎢製桌子"
+} ]

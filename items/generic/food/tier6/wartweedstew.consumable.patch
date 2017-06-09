@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "肉疣果和蔬菜燉成的美味濃湯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燉肉疣果"
+} ]

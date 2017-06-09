@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "葉族當上保護者的不多，但能被選中無疑是件值得驕傲的事！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "葉族為早餐喝了五杯翡翠眼檸檬而懊悔不已"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "葉族希望能有上廁所的時間"
+} ]

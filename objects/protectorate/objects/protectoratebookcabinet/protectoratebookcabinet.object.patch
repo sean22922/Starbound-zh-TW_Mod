@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這麼多的書，這麼少的時間！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者書櫥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些輕閱讀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我們可以從這裡借書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "書上全是字、字、字、字"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不偏不倚。這些書是公共的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個圖書櫃。你可以免費借書"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這麼多的書，這麼少的時間！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個圖書櫃"
+} ]

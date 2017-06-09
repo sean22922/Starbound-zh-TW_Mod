@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "懸空的冰碎片"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "懸空的冰碎片"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冰的碎碎片"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。懸空的冰碎片"
+} ]

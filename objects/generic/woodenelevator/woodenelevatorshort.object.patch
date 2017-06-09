@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這台簡單的木製升降梯是在滑輪系統上運作的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "短木製升降梯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在這個電梯上我感覺不太安全"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台木製升降梯，這裡最平穩的升降梯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在使用木製機械時葉族人感覺安全"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。一台木製升降梯達到了安全標準了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "搖搖晃晃的木製升降梯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "滑輪和木頭的平穩運作"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不穩的木製升降梯"
+} ]

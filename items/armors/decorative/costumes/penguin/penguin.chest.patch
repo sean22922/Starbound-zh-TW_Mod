@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "企鵝裝胸件"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝裝胸甲"
+} ]

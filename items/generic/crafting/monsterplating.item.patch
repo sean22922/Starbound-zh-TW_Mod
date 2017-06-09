@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自一個怪物的電鍍板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "堅硬的怪物金屬板"
+} ]

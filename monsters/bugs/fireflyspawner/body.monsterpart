@@ -1,9 +1,0 @@
-{
-  "name" : "fireflyspawner",
-  "category" : "fireflyspawner",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fireflyspawner.png"
-  }
-}

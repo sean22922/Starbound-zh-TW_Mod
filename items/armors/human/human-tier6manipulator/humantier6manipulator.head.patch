@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在你漫遊宇宙時，它可以保護你的腦袋，畢竟你的腦子裝在腦袋裡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "漫遊者頭盔"
+} ]

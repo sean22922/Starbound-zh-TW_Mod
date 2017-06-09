@@ -1,9 +1,0 @@
-{
-  "name" : "bouncebagcritter",
-  "category" : "bouncebagcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

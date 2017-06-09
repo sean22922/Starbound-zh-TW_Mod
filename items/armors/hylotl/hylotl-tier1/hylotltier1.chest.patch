@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "遠古鮫人技術生產的胸甲，不要錢一樣地加入鐵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥潭胸甲"
+} ]

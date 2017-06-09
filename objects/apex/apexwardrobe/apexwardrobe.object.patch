@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個基本款量產櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "抵抗組織曾經在這些櫃子裡藏有他們的偽裝……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "沒有標記，沒有裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "衣櫃？這、這些東西生出了葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不稀奇。這種傢俱對心靈沒有用處"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "就好像有人要費盡全力把這個衣櫃做得那麼難看一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許有些有趣的東西在裡面。外表有時候是具有欺騙性的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個櫃子用來放我的內衣不錯"
+} ]

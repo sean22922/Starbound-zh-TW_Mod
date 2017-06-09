@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "簡易的長椅，椅腿被固定在地板上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬長椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "長椅，比你想的要舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個舒服的金屬長椅"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不介意坐一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。一個非常舒服的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "長椅，還釘在地上。真是失望啊，我還是要個新長椅吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "安全的長椅，沒人能很快偷走它"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "為迷路人準備的座位"
+} ]

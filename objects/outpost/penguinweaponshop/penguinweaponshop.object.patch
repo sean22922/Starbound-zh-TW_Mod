@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "提供稀少武器的升級"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "比吉的信譽優良武器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這兒看起來像是個黑市，用來交易武器包裹"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼多劍。大部分比商人還大！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人看到了好多武器。好激動"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起。這麼小的商販能舉起他自己的商品嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來真是個了不起的存在"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個窮街陋巷店鋪裡的商人對於頭飾有個特殊的口味"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個地方存放了好多強硬的工具。或許有用"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "比吉的信譽優良武器"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;每天提供新的武器升級！"
+} ]

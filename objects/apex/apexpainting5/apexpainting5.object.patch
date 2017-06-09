@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "希望我們永遠遵從他"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿十字繡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "十字繡是少數猿人被允許進行的愛好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "做這個需要巧妙的手"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對織物非常熟練"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "默想：為什麼猿人會做這個"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望猿人不是被逼著做這個的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我想知道猿人對他有什麼祝福"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這一定需要不少時間和決心"
+} ]

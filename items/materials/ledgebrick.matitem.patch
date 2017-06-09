@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有著小小突出的石頭磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "高興。這個石頭上面有一小個雕刻圖案"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "石雕磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些看起來很老的磚塊"
+} ]

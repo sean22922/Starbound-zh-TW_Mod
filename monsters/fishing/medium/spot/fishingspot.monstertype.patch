@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小花巨嘴鯉"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以吞食比自己體重高10倍的獵物"
+} ]

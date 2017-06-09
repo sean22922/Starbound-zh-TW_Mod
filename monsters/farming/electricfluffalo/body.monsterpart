@@ -1,9 +1,0 @@
-{
-  "name" : "electricfluffalo",
-  "category" : "electricfluffalo",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

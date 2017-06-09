@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一條鐵質外皮的腰帶。看起來像羽毛一樣輕，但事實並不是如此"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "新生腰帶"
+} ]

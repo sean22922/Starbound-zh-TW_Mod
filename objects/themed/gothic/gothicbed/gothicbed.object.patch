@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "假裝你是這可怕棺材裡的亡靈食屍鬼！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "哥特牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格可能覺得埋葬人是種浪費……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "埋葬在這樣的東西裡可不會讓庫魯克斯滿意"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這是用來埋葬超級好吃的肉的嗎嘶？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "(不快狀)這棺牀讓我感覺非常糟"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "嗯，擁有一個橫在這周圍的棺材再普通不過了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族可不願意細究這些病態的意象"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "讓我感覺像是在殯儀館"
+} ]

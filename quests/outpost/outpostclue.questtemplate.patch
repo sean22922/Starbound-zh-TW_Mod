@@ -1,0 +1,149 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "參觀前哨站"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "在你離開之前，我教你怎麼使用你^orange;物質操縱器^white;的^green;掃瞄功能^white;。按下 ^#71f2f6;[N]^green;來啟動 ^orange;掃描模式^white;，^green;主要關注區域會變成綠色，可以讓你學習周圍的許多東西。試著掃描看看前哨站的幾個特殊設施，讓我知道你進展如何！"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "幹得漂亮。可能看起來微不足道，但是掃描是一項重要技能，是我們尋找神器的關鍵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "^green;掃描物品^reset; 以瞭解更多^orange;哨站^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/2stopshop/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text",
+  "value" : "你可以在這個商店購買私人傳送器，真是特別有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text",
+  "value" : "只要商店開張，你就能在這購買私人傳送器。相當有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text",
+  "value" : "操縱檯能夠讓你裝配技術，能夠大大提升你的靈活性和機動性"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/signstore/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/signstore/text",
+  "value" : "在這個商店你能夠製作你自己的客製化標誌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text",
+  "value" : "這個商店開張的時候你能夠在這製作客製化標誌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/terramart/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/terramart/text",
+  "value" : "特拉集市的庫存主要供給農業和園藝品。還可以用他們的宅配服務來購買你要的產品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/terramartclosed/text",
+  "value" : "特拉集市開張的時候，它的庫存主要供給農業和園藝品。還可以用他們的宅配服務來購買你要的產品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/frogfurnishing/text",
+  "value" : "傢俱商店售賣從宇宙各地精選的外來物品，通常也有新庫存。同時也售賣殖民地契約，如果在居住區的話會吸引一些租戶"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/frogfurnishingclosed/text",
+  "value" : "傢俱商店售賣從宇宙各地精選的外來物品，通常也有新庫存。同時也售賣殖民地契約，如果在居住區的話會吸引一些租戶"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+  "value" : "企鵝達龍在僱傭兵之中很受歡迎，比奇茲的酒保很樂意用鑽石交易達龍"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text",
+  "value" : "企鵝達龍在僱傭兵之中很受歡迎，比奇茲的酒保很樂意用鑽石交易達龍"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/shipyardcaptain/text",
+  "value" : "企鵝皮特是載具方面的權威，不管是高科技的宇宙飛船還是普通的飛行機車都瞭如指掌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "閱讀是非常有益的愛好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "我們的哨站非常棒，是一個裝滿了奇珍異品的美麗地方。還有更多的角落等你探索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "太棒了！你真的很有探索之心呢"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "這完美概括了我們今天的行程！^#71f2f6;等你準備好，就過來找我^white;"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇搖搖晃晃的酒吧門，作用是把討人厭的雜草擋在外面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個猿人走進了酒吧……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這扇門一直晃動著，但永遠都不會飛走"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在葉族人的路上搖晃的蠢東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這扇門好像只是用作當有人進入時提示的巨大信號"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這裡要是有個窗子而不是門就好了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "穿過這種門廊的時候要注意不要被劈成兩半"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "穿過這些門時，你最好做好萬全的準備"
+} ]

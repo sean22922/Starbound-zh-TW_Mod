@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是賣貨的絕好地點"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "關閉的兩站傳送商店"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這小攤似乎關了。我在想誰開的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個金屬商人的攤位現在似乎關了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不確定這個攤位是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這看上去像是商人的攤位-我在想商人現在在哪呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個商人的攤位？我想商人現在不在這"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個低溫金屬框架像是一個商人的攤位。不過現在沒人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在想這個攤位的商人現在去哪了？"
+} ]

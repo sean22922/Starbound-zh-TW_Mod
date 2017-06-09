@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "設計用來適應各種壓力環境的大樑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "增壓橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "獲知。用於適應各種壓力環境的大量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的堅固金屬大樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "牢固的金屬大樑"
+} ]

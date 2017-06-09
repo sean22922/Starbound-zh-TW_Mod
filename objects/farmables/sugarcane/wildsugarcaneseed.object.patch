@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "甘蔗是很甜的纖維作物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "甘蔗種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "咀嚼甘蔗對於猿族人的牙齒很有幫助"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "糖可以用來增強味道"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "甜味"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "笨重：這個植物很尖銳，並且在正確的使用下具有潛在傷害性"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "甘蔗：不要吃太多，對牙有傷害"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "可以用來產糖，儘管沒有想要嘗試"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "和糖一樣甜，等等……"
+} ]

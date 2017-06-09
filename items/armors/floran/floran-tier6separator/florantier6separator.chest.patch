@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個結實的胸甲——最兇猛的獵物也無法戰勝穿上這個胸甲的戰士"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "合成胸甲"
+} ]

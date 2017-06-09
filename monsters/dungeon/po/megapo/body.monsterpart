@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "megapo",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "megapo.png"
-  }
-}

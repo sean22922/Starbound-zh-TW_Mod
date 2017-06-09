@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粗魯但有效的處刑工具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "斷頭台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "舊的但有效的懲罰方式"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "沒有像被打敗那麼糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "刀刃鋒利！可以用來做飯！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。機器人最喜歡的死刑方式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可不想用這套工具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "殘忍的處罰方式……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "又快又便捷，我非常喜歡！"
+} ]

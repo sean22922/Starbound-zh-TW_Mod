@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "探險者會攜帶這盞燈去照亮周邊的區域"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "探險者之燈"
+} ]

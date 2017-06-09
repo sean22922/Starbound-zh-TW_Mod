@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空氣通過的時候，通風孔會叮噹響"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "排氣閥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "通風口"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個通風口"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "通風口"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "確認：通風口"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小型通風口"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "通風設置"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個通風口"
+} ]

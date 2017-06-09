@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有價值的東西應該被儲存在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇家櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "王室的櫃櫥。裡面的內容就不能稍微符合一下它的價值嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我很激動能看看這樣珍貴的櫃櫥裡有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的盒子，裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思。雖然櫃子的價值很高，但不太可能往裡面放什麼特別的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "金子做的櫃櫥。我真是等不及想看看裡面是什麼了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "讓我們看看裡面吧。也許除了這些完全用不到的金子以外還有點有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這麼漂亮的盒子裡一定有好東西！"
+} ]

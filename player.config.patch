@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/blueprintUnlock",
+  "value" : "^green;學習製作: <ItemName>"
+}, {
+  "op" : "replace",
+  "path" : "/blueprintAlreadyKnown",
+  "value" : "已經擁有<ItemName>的藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/collectableUnlock",
+  "value" : "^green;<collectable>^white;已經加入你的^blue;<collection>^reset;蒐藏了"
+}, {
+  "op" : "replace",
+  "path" : "/companionsConfig/recruitDescription",
+  "value" : "^cyan;> 名字：^white;<name>\n^cyan;> 職業：^white; <role>\n^cyan;> 等級：^white; <rank>\n^cyan;> 狀態：^white; <status>"
+} ]

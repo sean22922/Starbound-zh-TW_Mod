@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它熾熱的核心會產生持續的岩漿流。它的拳頭很猛。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Pyromantle 小雕像"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "無賴的鐵頭盔只能保護頭部頂端"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無賴的鐵盔"
+} ]

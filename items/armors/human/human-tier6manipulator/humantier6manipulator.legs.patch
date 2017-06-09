@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一條好看的褲子/靴子組合，可以保護腿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "漫遊者褲子"
+} ]

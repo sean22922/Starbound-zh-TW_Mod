@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它燒焦的表面摸起來出人意外的舒服。離火遠一點！\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伊穀米小雕像"
+} ]

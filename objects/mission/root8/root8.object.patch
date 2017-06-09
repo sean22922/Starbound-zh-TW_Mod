@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有些長的根莖從天花板那突了出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長根莖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "根莖擠出了天花板"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "根莖從天花板上長了出來。也許有一天這裡會佈滿根莖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "根莖生長了很多年。就像葉族人一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這些根莖從天花板裡面突了出來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些根莖就像棕色的觸手"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些根莖長了有多長了？還有它們是什麼植物的根莖？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只不過是根莖罷了"
+} ]

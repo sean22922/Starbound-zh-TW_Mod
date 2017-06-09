@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個由捆綁起來的長矛打造的欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "曲矛欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個欄杆一定是裝飾用的，很不結實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "非常原始的一個欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "安全第一"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這個欄杆很尖銳"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可不想倚靠在這個欄杆上，這些長矛很尖銳"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個欄杆似乎起不到作用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個欄杆似乎不能讓人倚靠"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火山蝦"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "盡管有虛弱的身體，卻成功避免了滅絕"
+} ]

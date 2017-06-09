@@ -1,9 +1,0 @@
-{
-  "name" : "firerockcritter",
-  "category" : "firerockcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

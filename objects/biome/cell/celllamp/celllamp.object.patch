@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個高大的燈，互相連接著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "球形燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "沒人覺得這燈有用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "就算是收藏家，也覺得它太亮了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "細胞像閃耀的花"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思，看上去是無機的，但卻是有機細胞做的，有生氣但不是活物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "快樂且不著邊際，我最喜歡這種"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "傷著眼睛了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "讓他們知道需要宣揚的可不只是細胞"
+} ]

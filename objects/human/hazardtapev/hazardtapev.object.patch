@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個明亮的彩色帶明顯提示這個地方不安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "垂直危險標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌警告人們有危險"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "附近有危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這裡唯一的危害就是葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "想像：類似的標誌被用來標記能自我認知的電子人潛藏的地方"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我真想晃一晃ID卡然後去他媽的標誌吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果他們想讓這個標誌看起來更溫暖，也許人類就不該讓它這麼絢麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個帶子想告訴我不要靠近。我才不聽它的"
+} ]

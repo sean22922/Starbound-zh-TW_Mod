@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金屬崁燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬崁燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個崁燈，由金屬製成"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是盞燈，但不怎麼好看"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "耀眼的燈光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起。燈光運轉得極好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這燈是很棒，但是我不太接受它閃個不停"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燈光刺眼"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一盞能用的燈，你還想怎麼樣？"
+} ]

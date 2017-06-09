@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我確定我可以使用一些水"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "井蓋配水桶，看來經常用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個把手看來是用以升降水桶的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電子人還給水桶做屋子。電子人喜歡水桶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不滿意。村民們的飲用水都是從這種井裡來的。通常都很髒或被污染了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好卡哇伊的井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我很難立足於一個要用水桶來舀水的世界"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "古典取水方式，我最好別掉下去"
+} ]

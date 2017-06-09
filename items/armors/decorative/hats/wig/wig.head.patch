@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "低調的假髮。適合普通場合"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "非常精細的假髮"
+} ]

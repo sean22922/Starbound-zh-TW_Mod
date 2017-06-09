@@ -1,9 +1,0 @@
-{
-  "name" : "largetortoisechest",
-  "category" : "largequadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "largetortoisechest.png"
-  }
-}

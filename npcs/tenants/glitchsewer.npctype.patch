@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "不舒服。我房子的味道還縈繞鼻前，我真是無法釋懷"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "熱心。雖然你是個下水道工，但你還是可以享受自己的工作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "傷感。管理下水道真是個髒活。我真想想你那樣去探險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/3",
+  "value" : "不高興。我這輩子都在清理下水道。但總要有人來做……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/4",
+  "value" : "疲憊。我這輩子都在管理下水道"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/5",
+  "value" : "創意。我改良面罩來阻擋下水道的的味道。差點就成功了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/0",
+  "value" : "不舒服。我房子的味道還縈繞鼻前，我真是無法釋懷"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/1",
+  "value" : "熱心。雖然你是個下水道工，但你還是可以享受自己的工作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/2",
+  "value" : "傷感。管理下水道真是個髒活。我真想想你那樣去探險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/3",
+  "value" : "不高興。我這輩子都在清理下水道。但總要有人來做……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/4",
+  "value" : "疲憊。我這輩子都在管理下水道"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/5",
+  "value" : "創意。我改良面罩來阻擋下水道的的味道。差點就成功了！"
+} ]

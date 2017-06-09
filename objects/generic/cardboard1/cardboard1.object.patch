@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "直立的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "直立的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個紙板箱，上面有個箭頭指向它"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個簡單的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紙板箱裡有東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個箭頭也許用來保護裡面的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個紙板箱，用於存儲東西的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個簡單的紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個由紙板箱做成的盒子"
+} ]

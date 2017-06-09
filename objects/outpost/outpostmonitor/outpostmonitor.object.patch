@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個顯示器。誰在監視呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壁上顯示器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個顯示器，但是我看不清"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某種顯示器，但是看不清寫了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻不拉幾的顯示器，只有線條"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "低落。似乎發生故障了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好奇這個是不是打算顯示什麼東西的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "似乎是壞掉了。真沒想到"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "出了閃來閃去的線什麼也看不到"
+} ]

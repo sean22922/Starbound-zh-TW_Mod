@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "淺頂軟呢帽-一些人為了讓自己高貴，另一些人為了看起來更壞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軟呢帽"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這有教育意義！人類的面具，肌肉解剖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "人類解剖面具"
+} ]

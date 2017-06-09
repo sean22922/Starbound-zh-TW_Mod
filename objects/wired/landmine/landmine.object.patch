@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "注意腳下，這東西看上去會爆炸！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軍用地雷"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一枚地雷，依然還有威力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "天啊，我不想踩到地雷！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "注意腳下！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心，這是一枚還有威力的地雷。我最好小心點"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不想冒這個險，地雷看上去還是會爆炸的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "地雷，比海雷小但是依舊致命"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這東西依舊會爆炸"
+} ]

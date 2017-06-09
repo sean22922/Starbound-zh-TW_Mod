@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個衛生紙盒。希望別用完！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者衛生紙盒"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個洗手間捲紙架。最近剛剛補充過紙"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "品質上佳的衛生紙！真軟啊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "衛生紙快要沒啦！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真可惜。這個洗手間捲紙架工作不順心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "發覺廁所捲紙架是空的時的恐怖！幸運的是，這個沒有"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "廁所捲紙架"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "剩下很多紙的捲紙架"
+} ]

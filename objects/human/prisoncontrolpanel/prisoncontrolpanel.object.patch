@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個似乎是用來操控燈，門和警報的控制面台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "安全控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "站在安全控制面板的操作端感覺很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這似乎是管理門禁的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這機器是幹嘛的？葉族人想快點找出來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "明白。這個機器控制著一系列的門禁系統"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "企圖集結一群囚犯然後施放他們，這樣我就可以大喊\"越獄！\""
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "安全管理的自動方式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個控制面板。很遺憾它不能控制害蟲"
+} ]

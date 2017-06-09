@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "藍色的花燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "吊式花燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "柔和的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個光芒製造出很宜人的氛圍"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "花朵是光亮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "舒服。機器人喜歡花朵和光亮"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "花中一盞燈，好機智！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞用藍色花朵製造的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好美麗的一盞小燈。我喜歡"
+} ]

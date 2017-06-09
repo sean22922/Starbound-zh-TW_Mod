@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有人工觸角連接的背帶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邪教教徒武裝觸角"
+} ]

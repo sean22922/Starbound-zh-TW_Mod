@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "某個人"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/spawnPoint/example/name",
+  "value" : "黑暗、恐怖的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "<questGiver>的熱賣新商品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/1",
+  "value" : "讓<questGiver>生意興隆"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族很高興新商品取得了成功。現在葉族想要更多的商品！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;越多的商品意味著越多的客人。現在葉族要更多的商品！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;渴望。事情進展順利！請幫助我發揮全部潛能"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;資源豐富。我一定要抓住擴張店鋪的機會！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我的店鋪越來越受歡迎了！是時候囤一些高品質的商品了…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;上次的新東西讓我的店鋪度過了難關！能再幫我一次嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "我們的時機到了。在^orange;<spawnPoint.direction>的<spawnPoint>^white;有個旅行商人^orange;<target>^white;，<target.pronoun.subject>承諾會^orange;以<tradedItems>交換^white;<target.pronoun.possessiveDet>特別品。幫葉族一個忙，^green;搞定這樁生意！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族很高興聽說旅行商人^orange;<target>^white;最近在^orange;<spawnPoint.direction>的<spawnPoint>^white;盤桓。請^green;帶給<target.pronoun.object>這些<tradedItems>^white;，<target.pronoun.subject>會換給葉族一些流行的新貨！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "嫉妒。商人^orange;<target>^white;是個很受歡迎的傢夥…也許你能^green;帶著^orange;<tradedItems>^green;去^orange;<spawnPoint.direction>的<spawnPoint>^white;，交給<target.pronoun.object>以換取我需要的補給？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "有希望。如果你能去^orange;<spawnPoint.direction>的<spawnPoint>^white;找^orange;<target>^white;，<target.pronoun.subject>也許有我新產品所需的材料。請幫忙^green;打聽<target.pronoun.subject>是否接受^orange;用<tradedItems>作為交換"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "正是時候！旅行商人<target>到達^orange;<spawnPoint.direction>的<spawnPoint>^white;一陣子了。<target.pronoun.capitalSubject>答應提供我需要的新產品，作為交換，我要給他^orange;<tradedItems>^white;。你能^green;把貨帶給^orange;<target>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "要完成任務啦！<target>，一個旅行商人，將要來^orange;<spawnPoint.direction>的<spawnPoint>^white;做生意。你能^green;找到^orange;<target>^green;並給<target.pronoun.object>我們的^orange;<tradedItems>^green;來換取我們需要的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "城裡人聽說葉族店鋪有了全新的<newItem>商品，門外一定會大排長龍！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "葉族迫不及待看到大家知道葉族店裡有新貨之後絡繹不絕的景象了。<newItem>很受歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "狂喜。很高興的宣佈<newItem>成為我的常規商品。多謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "激動。你做到了！現在我的現貨單中就一直會有<newItem>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "成功！如果你需要全新的<newItem>就來我的店鋪！謝謝你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "多謝遞送。我現在能出售<newItem>了！如果你想要，就來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "我無法幫助<questGiver>為<target.pronoun.possessiveDet>店取得新商品。<target.pronoun.capitalSubject>可能已經夠多了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/1",
+  "value" : "我沒有成功幫<questGiver>推出新商品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/parcelName/0",
+  "value" : "收件人：<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/parcelDescription/0",
+  "value" : "這是給<questGiver>的包裹。我不該打開它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "把<tradedItems>給<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "將包裹帶給<questGiver>"
+} ]

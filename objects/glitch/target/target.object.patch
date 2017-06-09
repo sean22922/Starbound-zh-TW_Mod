@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "靶心！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "目標"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來箭術練習的目標"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "木板上畫了一些圓。不過目的是為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇奇怪的大鐵人畫作"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。電子人的射術很高超"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我很吃驚這樣的目標上沒有箭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許，是某種遊戲？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這不錯，但是有點過時了。我應該測試它一下……"
+} ]

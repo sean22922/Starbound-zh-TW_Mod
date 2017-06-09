@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發光的面具 - 照亮夜空！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光面具"
+} ]

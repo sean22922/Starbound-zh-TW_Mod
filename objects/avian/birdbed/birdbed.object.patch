@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座牢固的石牀，上面有一個乾草做成的巢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "守衛之巢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鋪滿了乾草的石牀。看上去非常不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個守護者的巢穴。守護者保護著翼族聖地。他們是極度虔誠的野蠻武士"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人有乾草做的巢。葉族人有同樣的寢具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關注。我感受不到這張牀有什麼人體工程學的效果"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張石牀。他們使用的乾草很不舒適。石牀摸上去很冰冷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要想睡在一堆石頭當中，得有鋼筋鐵骨才行。這應該是張武士睡的牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "乾草讓這張牀一點都不舒服"
+} ]

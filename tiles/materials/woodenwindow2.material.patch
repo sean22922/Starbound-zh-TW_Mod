@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "老舊的木質窗條，透光性不是很好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個木頭像一個屏障一樣濾過陽光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以從大木條那看出去"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以從木頭間的空間清晰地看到另一邊"
+} ]

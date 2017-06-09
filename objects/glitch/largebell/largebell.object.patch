@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "此鐘定會發出巨大的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個巨大的鐘。響聲肯定很大"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個巨大鐘。我在想它怎麼發出聲音的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聲音超大的鈴鐺！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "恐懼。這隻鈴鐺預示著危險"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一隻大鈴鐺。控制不住地想要搖響它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鐘的聲音是大多數神人從沒有聽過的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "從很遠的地方肯定都能聽見這隻鈴鐺"
+} ]

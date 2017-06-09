@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一整塊銀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銀塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。這磚塊完全用銀製成"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "純銀，好閃亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "用純銀打造的閃亮磚塊"
+} ]

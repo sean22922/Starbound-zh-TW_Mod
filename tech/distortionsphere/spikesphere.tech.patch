@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "變身成一個可以爬牆的球！^green;[F]"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "猛躥球體"
+} ]

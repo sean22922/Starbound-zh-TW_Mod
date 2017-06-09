@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "銘文寫著\"獻給為我打開新世界的父親。紀念特雷西·迪特裡奇 1963-2003\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "想像中的紀念碑"
+} ]

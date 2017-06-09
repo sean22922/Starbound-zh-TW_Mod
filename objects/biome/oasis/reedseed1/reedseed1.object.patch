@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "高大、多葉的蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘆葦種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "只是蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒意思，只是蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "高大、多葉的蘆葦"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是些蘆葦"
+} ]

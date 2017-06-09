@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "入侵者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/0",
+  "value" : "鮮肉！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/1",
+  "value" : "終於有好玩的東西揍了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/2",
+  "value" : "我要把你像紙張一樣撕碎！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/3",
+  "value" : "一定很令人滿意！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/4",
+  "value" : "來這裡？大錯誤"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/5",
+  "value" : "我很享受！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/6",
+  "value" : "哦！去那兒"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/7",
+  "value" : "你死定了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/8",
+  "value" : "我要打你了，然後要再打你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/9",
+  "value" : "你惹錯人了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/10",
+  "value" : "你跑不掉的，陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/11",
+  "value" : "過來點兒，我好糊你熊臉！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/12",
+  "value" : "啊！你就是坨死掉的爛肉！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/13",
+  "value" : "我討厭陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/14",
+  "value" : "過來！"
+} ]

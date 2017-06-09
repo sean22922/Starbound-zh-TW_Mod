@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張乾淨而堅固的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時尚的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來很新的乾淨牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "樸素的牀，牀單看起來很新"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "乾淨的牀有利於休息"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平靜。一張看起來性冷淡的牀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來很乾淨的牀，似乎很舒適"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡單的牀，該有的都有"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "要是你問我的話，這張牀看起來有點太乾淨了"
+} ]

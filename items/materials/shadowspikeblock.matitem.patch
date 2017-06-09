@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用暗影物質製成的尖磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗影尖磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "感興趣。這個 磚塊用未知物質製成"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "黑磚塊像黑夜一樣黑"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這些磚塊黑的就像是無月的夜晚"
+} ]

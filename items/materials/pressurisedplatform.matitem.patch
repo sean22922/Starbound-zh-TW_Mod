@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "設計用於潛在受壓環境下的平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "增壓平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "滿意。這些堅固的平台為了承受住高壓環境都做了加固"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅固的金屬平台冷冰冰的"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去很閃亮的平台"
+} ]

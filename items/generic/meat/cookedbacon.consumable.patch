@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "又鹹又脆的外星培根"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熟培根"
+} ]

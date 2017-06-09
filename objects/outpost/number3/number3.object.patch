@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "三個標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "三"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "三"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "三"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "三！有趣的曲線"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平淡。三"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "三"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "三"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "幸運數字"
+} ]

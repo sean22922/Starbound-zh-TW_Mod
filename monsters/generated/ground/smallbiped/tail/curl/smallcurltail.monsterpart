@@ -1,9 +1,0 @@
-{
-  "name" : "smallcurltail",
-  "category" : "smallbiped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallcurltail.png"
-  }
-}

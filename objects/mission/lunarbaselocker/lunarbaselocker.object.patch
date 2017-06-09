@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一組儲物櫃，拿來放東西最好了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "排放好的儲物櫃。節省空間的好方法"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可以存東西的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "儲物櫃用來存放東西的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。六個一組的金屬儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用來擺放物品的儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這讓我想起以前的學生時光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "六個沒鎖的儲物櫃"
+} ]

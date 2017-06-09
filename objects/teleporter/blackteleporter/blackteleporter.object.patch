@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "私人傳送點，連接著標記地點。\n在被受損後會^red;被破壞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "執行傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個私人的傳送器。有趣而有用的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我喜歡在傳送的時候羽毛呼呼響的聲音！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個私人傳送器太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真誘人，這個私人傳送器還是定製的呢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "私人傳送器！用這個實在是太時尚了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "私人傳送器，還是定製的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個傳送器太好看了！"
+} ]

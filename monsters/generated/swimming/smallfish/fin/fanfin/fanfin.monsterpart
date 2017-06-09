@@ -1,9 +1,0 @@
-{
-  "name" : "fanfin",
-  "category" : "fish",
-  "type" : "fin",
-
-  "frames" : {
-    "fin" : "fanfin.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "同類相食是一種傳統！一種非主流的傳統。穿上這些褲子來躲避你的綠手指朋友"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "食人族的褲子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一頂軍用帳篷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軍用帳篷"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在離家很遠的地方紮營的人常用的帳篷"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "離家很遠的人常用的帳篷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在野外，帳篷是不錯的住所"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "惱怒：空間不夠"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個帳篷在軍事營地很常見"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "軍事化的帳篷"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種軍用帳篷"
+} ]

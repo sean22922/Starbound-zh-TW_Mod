@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃閃發光的護甲代表著決心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "武裝展示護甲"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套很漂亮的盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這好像是戰鬥護甲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬人就穿著金屬護甲嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。這個護甲純粹是用來裝飾的。真正的戰鬥護甲要滄桑得多"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一套很美麗的護甲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這套護甲好像從沒上過戰場"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "戰鬥的時候似乎沒有必要穿上這樣的護甲"
+} ]

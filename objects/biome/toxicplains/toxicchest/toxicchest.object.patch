@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有毒的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不確定這個箱子可以觸碰"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個箱子似乎有毒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箱子有劇毒的味道"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。這個箱子似乎被周圍的毒素感染了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可以，這個箱子非常劇毒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "好奇怪的一個箱子……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "的確非常奇怪。我最好不要去觸碰這個箱子"
+} ]

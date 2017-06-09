@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "防水燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被玻璃箱保護的燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個正常的燈泡，防水的因此它可以在水下發揮作用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這燈似乎是防水的，因此它可以在開放水域裡工作"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平凡：防水燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個燈被設計為接觸水可以工作"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡易的防水燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "玻璃製成的燈泡"
+} ]

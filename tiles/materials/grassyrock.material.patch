@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "長草的硬石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長草的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。岩石的縫隙中長著草"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "長草的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "長著草的石頭"
+} ]

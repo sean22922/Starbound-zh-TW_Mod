@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件精緻且充滿藝術性的頭盔可以讓穿戴者具備很廣的視野"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "透光頭盔"
+} ]

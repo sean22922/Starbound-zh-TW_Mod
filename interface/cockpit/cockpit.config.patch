@@ -1,0 +1,519 @@
+[ {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/default",
+  "value" : "神祕星"
+}, {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/whitestar",
+  "value" : "溫和星"
+}, {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/orangestar",
+  "value" : "適度星"
+}, {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/yellowstar",
+  "value" : "輻射星"
+}, {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/bluestar",
+  "value" : "冷凍星"
+}, {
+  "op" : "replace",
+  "path" : "/starmapTypeDescription/redstar",
+  "value" : "火熱星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteNameEmptyText",
+  "value" : "< 尚未選擇星球 >"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/label/text",
+  "value" : "威脅"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/0",
+  "value" : "低"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/1",
+  "value" : "中度"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/2",
+  "value" : "有風險"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/3",
+  "value" : "危險"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/4",
+  "value" : "險惡"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/5",
+  "value" : "刀山"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/default/6",
+  "value" : "火海"
+}, {
+  "op" : "add",
+  "path" : "/threatLevelToText/default/7",
+  "value" : "地獄"
+}, {
+  "op" : "add",
+  "path" : "/threatLevelToText/default/8",
+  "value" : "煉獄"
+}, {
+  "op" : "remove",
+  "path" : "/threatLevelToText/default/10"
+}, {
+  "op" : "remove",
+  "path" : "/threatLevelToText/default/10"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelToText/moon/0",
+  "value" : "未知"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeLabel/text",
+  "value" : "著陸點分析"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/garden/0",
+  "value" : "^#76fe68;繁茂^white;的山麓標記著這一著陸點。這裡的植物和動物都很多。是讓人感到很安全的傳送地點"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/garden/1",
+  "value" : "傳送地點位於一個生機勃勃的平靜區域。這裡有你可以使用的資源。是^#76fe68;繁茂^white;且祥和的土地"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/garden/2",
+  "value" : "數據表明這個著陸地點很適宜生存——這個地區很安全，動植物資源都很豐富。是一個^#76fe68;繁茂^white;且適宜居住的地方"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/forest/0",
+  "value" : "著陸地點有很多的樹和其他植物，這個^#15ce02;森林^white;著陸點是一個很適宜各種生物生存的地方，當然也包括你在內"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/forest/1",
+  "value" : "這個^#15ce02;森林^white;裡到處是長滿葉子的樹，很適宜生存，我的數據庫顯示你會在這裡碰到林地生物"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/forest/2",
+  "value" : "你在這個星球的傳送點位於一個^#15ce02;森林^white;中。數據顯示這片林子相對平靜"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/desert/0",
+  "value" : "雖然這裡的植物數量很有限，但這個地點確實可以生存，這裡有很多的沙地，簡單來說，這裡是一片^#e6c801;沙漠^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/desert/1",
+  "value" : "一片^#e6c801;沙漠^white;地區，這裡有很多仙人掌以及各種各樣的動物，是相對安全的著陸點，只要你避開沙暴的話"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/desert/2",
+  "value" : "沙地，數據顯示有很多沙子，還有仙人掌……但主要是沙子。根據已有信息，我推斷著陸地點是在^#e6c801;沙漠^white; "
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/snow/0",
+  "value" : "這個冰冷的著陸點到處是^#69f1fd;白雪^white;。這個寒冷地區生長著各種各樣的樹木和動物，是一個堆雪球的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/snow/1",
+  "value" : "著陸地點很冷，但也還在可忍受範圍之內，^#69f1fd;白雪^white;覆蓋著這片區域，而且有可能遇到暴風雪，最好戴上帽子和手套"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/snow/2",
+  "value" : "這個地點較為寒冷，厚厚的^#69f1fd;積雪^white;覆蓋著地表。我的感應器顯示雪中有小動物在穿來穿去"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/savannah/0",
+  "value" : "著陸地點位於一片^#ffe21d;乾草原^white;，那裡很熱且有沙塵暴，並不是個好地方，但也並不很危險"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/savannah/1",
+  "value" : "這片^#ffe21d;乾草原^white;上有很多樹木，生存環境適中，數據表明有隻野兔在附近跑來跑去"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/savannah/2",
+  "value" : "著陸點位於一片^#ffe21d;乾草原^white;。這裡有很多樹木和灌木，是平坦遼闊的沙塵地帶"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/ocean/0",
+  "value" : "充斥著深^#008aff;海^white;和小型島嶼的星球。我的數據顯示這裡有大量的海洋生物，海洋上的小島風光秀麗"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/ocean/1",
+  "value" : "一個^#008aff;大海^white;覆蓋的星球上有很多島嶼和衆多生命，我的數據顯示海洋中有許多生物活動的跡象"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/ocean/2",
+  "value" : "這個^#008aff;海洋^white;星球的表面上到處都是漂浮的沙漠島。一個典型的熱帶環境星球"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/toxic/0",
+  "value" : "這個星球充滿了^#06ff00;毒素^white;——腐化的空氣、有毒的海水。^red;輻射超過安全等級^white;一千倍"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/toxic/1",
+  "value" : "這個^red;高輻射^white;星球是一片充滿了毒物的荒野，寄居著被輻射變異的生物， 其發光的地表也是^#06ff00;有毒的^white;。一個非常危險的地方"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/toxic/2",
+  "value" : "這是一個^#06ff00;充滿毒素^white;的星球，到處是^red;輻射^white;。海洋中的毒素等級尤其的高……我有必要提醒你，我們可以選擇其他目的地"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/jungle/0",
+  "value" : "這個著陸點在密密的^#12a003;叢林^white;中。在繁茂的植物中生存著很多奇異的動物，可惜這裡的^red;輻射等級非常致命^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/jungle/1",
+  "value" : "一個^#12a003;叢林^white;著陸點，這裡生存著非常多的植物和動物。該地區資源豐富但是^red;輻射指數卻很高^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/jungle/2",
+  "value" : "^red;高輻射^white;籠罩著這片^#12a003;叢林^white;地帶，讓這裡成為非常不適宜居住的環境，而且這裡的動物也非常不友好"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/alien/0",
+  "value" : "這個著陸點有一定的風險——^red;輻射等級非常的高^white;。但是，^#7800ff;變異的^white;地形也可以被描述為是黑暗童話中的場景"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/alien/1",
+  "value" : "這個著陸點充斥著奇異的植物、充滿攻擊性的動物和^red;高的驚人的輻射量^white;。這個區域的生物在輻射之下都嚴重^#7800ff;變異^white;了"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/alien/2",
+  "value" : "傳送點位於一個^#7800ff;遭輻射而變異^white;的地帶，^red;極高的輻射量^white;創造出一個毒性很強的環境，我強烈建議你不要下水"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/arctic/0",
+  "value" : "^red;著陸點的溫度非常的低。^white;你會被傳送到一個小島上，四周是^#00ffe4;寒冷的海洋^white;。強烈建議你帶條圍巾"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/arctic/1",
+  "value" : "傳送點^red;極其寒冷^white;：那裡是一個在^#00ffe4;寒冷海洋^white;中的小島。你會被傳送到海洋中的概率大概是0.025%，一旦被傳送到海洋中你會迅速被凍僵的"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/arctic/2",
+  "value" : "一個^red;溫度異常低^white;的地帶。那裡幾乎沒有動物，也沒有植物——只是在^#00ffe4;寒冷海洋^white;中的一個荒廢的小島而已"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/tundra/0",
+  "value" : "一個^#61ffe3;天寒地凍^white;的地方，全是冰——這裡的土地是多年的凍土。暴風雪非常普遍，而且^red;溫度極低^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/tundra/1",
+  "value" : "這個^red;極其寒冷的^white;著陸點是個^#61ffe3;溫度極低^white;的凍土，很可能是自我低溫保存的結果，記得多穿點衣服"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/tundra/2",
+  "value" : "^red;傳送點的溫度極低^white;。那個區域是^#61ffe3;凍土^white;，那裡只有極其耐寒的動物和植物"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/volcanic/0",
+  "value" : "這個^#e11212;火山^white;著陸點的^red;溫度異常的高^white;。如果你願意的話，我可以計算出你傳送到那裡後被立刻燒成灰的概率……"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/volcanic/1",
+  "value" : "這個星球的^#e11212;火山^white;活動過於頻繁，而傳送點的火山活動尤其厲害。那裡的^red;溫度已經遠遠超過正常生物所能生存的範圍^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/volcanic/2",
+  "value" : "傳送點位於^#e11212;火山^white;帶而且那裡^red;非常熱^white;。你能對這個地方感興趣，充分說明你具備不屈不撓的韌性"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/midnight/0",
+  "value" : "這是一個^#e11212;黑暗^white;世界，這裡沒有陽光。地表^red;非常寒冷^white;。你在著陸前必須做好生理和心理雙方面的準備"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/midnight/1",
+  "value" : "這個^#e11212;黑暗^white;世界非常^red;寒冷^white;。那裡有神祕的不明生物徘徊著，隱藏在無光的夜晚中"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/midnight/2",
+  "value" : "掃描顯示地表是^#e11212;全黑暗^white;的。事實是，由於黑暗，掃描根本沒顯示出任何數據，但是，我推測地表必然^red;異常寒冷^white;"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/scorchedcity/0",
+  "value" : "著陸點是一個^#b24301;被炙烤的^white;荒野。地表^red;溫度高的驚人^white;。你能選擇這個地點可真是勇敢"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/scorchedcity/1",
+  "value" : "傳送點是^#b24301;被炙烤的^white;荒野。由於^red;致命的高溫^white;，沒有生物能在這裡生存。但卻有人住在這個地方，我想破腦袋也不知道這是為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/scorchedcity/2",
+  "value" : "著陸點是一個^#b24301;被炙烤的^white;地方，^red;星球表面是強烈的高溫^white;。 只有極少數的幾個很強悍的人留在那裡，可能是因為習慣吧"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/magma/0",
+  "value" : "這個^red;異常炎熱^white;的星球主要由^#ff1818;岩漿^white;組成。記住，雖然你堅強的意志很讓人佩服，但意志是沒法用來防火的"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/magma/1",
+  "value" : "星球的表面^red;溫度極高^white;。很少有生物能在星球的^#ff1818;岩漿^white;海洋中生存"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/magma/2",
+  "value" : "傳送點是一個小島嶼，周圍都是^#ff1818;岩漿^white;。你竟然決定去那個^red;灼熱^white;的星球，這說明你很有勇氣"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/moon/0",
+  "value" : "這個^#949493;月球^white;上^red;沒有可供呼吸的大氣層^white;，地表下有燃料，你在這裡感到孤獨的概率高達92% "
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/moon/1",
+  "value" : "這個^#949493;月球^white;上沒有生命跡象，也^red;沒有大氣層^white;。但是這裡的燃料非常充盈，數據表明地表下有非常高的燃油儲備"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/moon/2",
+  "value" : "這個無人的^#949493;月球^white;上^red;沒有可供呼吸的大氣層^white;，但地下的洞穴有大量的燃油儲備，雖然很有用，但卻不是個好地方"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/asteroids/0",
+  "value" : "一群^#d7711e;小行星^white;地帶，數據表明^red;那裡沒有大氣層^white;，也沒有生命跡象，只有無盡的虛無，還有廣闊的建設空間"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/asteroids/1",
+  "value" : "一群沒有生命跡象的^#d7711e;小行星^white;地帶。 ^red;那裡沒有大氣層^white;，這些小行星只是在宇宙中漂流，並在遙遠星體的引力下按固定軌跡運動……這裡很適合建造房子"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/asteroids/2",
+  "value" : "一群^#d7711e;小行星^white;按橢圓軌道運行，數據表明^red;這裡沒有大氣層^white;。也沒有其他的東西……"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/barren/0",
+  "value" : "這個地點^#999966;荒蕪^white;且無生命跡象，數據表明這裡什麼都沒有，是一個空蕩蕩的地方"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/barren/1",
+  "value" : "這個星球是^#999966;荒蕪^white;的，沒有任何生命跡象，這裡什麼都沒有…… "
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/barren/2",
+  "value" : "數據表明著陸地點的樣子與衆不同，這裡格外的^#999966;荒蕪^white;，非常適合建設"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeToDescription/ancientgateway/0",
+  "value" : "一個未知出處的^#571cff;遠古傳送陣^white;，是擁有強大力量的神祕設施"
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeToDescription/gasgiant/0",
+  "value" : "一個由氣體所組成的巨大球體彼此相互混合，這裡根本就沒法著陸"
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeToDescription/gasgiant/1",
+  "value" : "一個氣態巨行星，這個星球上沒有固態物質，只不過是一堆氣體"
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeToDescription/gasgiant/2",
+  "value" : "沒法著陸，巨大的壓力和氣體所發出的暴風會瞬間把你碾碎"
+}, {
+  "op" : "replace",
+  "path" : "/dayLengthText/label/text",
+  "value" : "日循環"
+}, {
+  "op" : "replace",
+  "path" : "/dayLengthText/value/text",
+  "value" : "<value> 日"
+}, {
+  "op" : "replace",
+  "path" : "/sizeText/label/text",
+  "value" : "星球大小"
+}, {
+  "op" : "replace",
+  "path" : "/sizeText/value/text",
+  "value" : "<value> 區域"
+}, {
+  "op" : "replace",
+  "path" : "/oreText/text",
+  "value" : "地理分析"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/0/displayName",
+  "value" : "銅"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/1/displayName",
+  "value" : "銀"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/2/displayName",
+  "value" : "金"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/3/displayName",
+  "value" : "鐵"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/4/displayName",
+  "value" : "鎢"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/5/displayName",
+  "value" : "鈦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/6/displayName",
+  "value" : "耐鋼"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/7/displayName",
+  "value" : "菲洛合金"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/8/displayName",
+  "value" : "霓磷鹽"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/9/displayName",
+  "value" : "維奧合金"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/10/displayName",
+  "value" : "日耀石"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/11/displayName",
+  "value" : "晶體爾切斯燃料"
+}, {
+  "op" : "replace",
+  "path" : "/weatherText/text",
+  "value" : "天氣"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/rain/displayName",
+  "value" : "雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/drizzle/displayName",
+  "value" : "細雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/storm/displayName",
+  "value" : "風暴"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/ember/displayName",
+  "value" : "煤渣雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/snow/displayName",
+  "value" : "雪"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/fog/displayName",
+  "value" : "霧"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/ash/displayName",
+  "value" : "落灰"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/lightash/displayName",
+  "value" : "輕落灰"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/meteorshower/displayName",
+  "value" : "小隕石"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/largemeteor/displayName",
+  "value" : "大隕石"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/glowingrain/displayName",
+  "value" : "光雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/crystalrain/displayName",
+  "value" : "水晶雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/hailstones/displayName",
+  "value" : "冰雹"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/groundmist/displayName",
+  "value" : "迷霧"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/windstorm/displayName",
+  "value" : "暴風"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/spacejunk/displayName",
+  "value" : "太空垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/spacedustshower/displayName",
+  "value" : "星塵雨"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/snowstorm/displayName",
+  "value" : "暴雪"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/sandstorm/displayName",
+  "value" : "沙暴"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/duststorm/displayName",
+  "value" : "塵暴"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/icestorm/displayName",
+  "value" : "冰暴"
+}, {
+  "op" : "replace",
+  "path" : "/displayWeathers/acidrain/displayName",
+  "value" : "酸雨"
+}, {
+  "op" : "replace",
+  "path" : "/ftlOfflineText/text",
+  "value" : "超光速行駛離線"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/planetTypeDescription/value",
+  "value" : "？？？"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/showBookmarkList/caption",
+  "value" : "書籤"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/addBookmark/caption",
+  "value" : "添加/編輯書籤"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/goToMyShip/caption",
+  "value" : "顯示船位置"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/goToQuest/caption",
+  "value" : "顯示任務位置"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/windowtitle/title",
+  "value" : "導航控制台"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/windowtitle/subtitle",
+  "value" : "^#b9b5b2; 選擇目的地"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/bookmarkListLabel/value",
+  "value" : "^shadow;書籤"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+  "value" : "書籤名"
+}, {
+  "op" : "replace",
+  "path" : "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
+  "value" : "星球名"
+} ]

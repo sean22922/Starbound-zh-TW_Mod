@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "水晶箱。很可能箱子本身就是財寶？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個漂亮的水晶箱子。這是一個很有價值的發現"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個箱子裡的東西肯定會重要"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "水晶箱又冷又重，和冰箱一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感，這箱子原來一定藏過很大的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我打賭這個箱子裡曾經裝滿了各種金銀財寶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "美麗的箱子，閃爍著海洋的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這箱子好冷，適合貯藏易腐爛的東西"
+} ]

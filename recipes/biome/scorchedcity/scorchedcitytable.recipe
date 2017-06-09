@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "darkwoodmaterial", "count" : 25 }
-  ],
-  "output" : { "item" : "scorchedcitytable", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

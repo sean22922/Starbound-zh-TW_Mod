@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個破碎的桶。裡面覆蓋了一層乾泥…有東西要出來了？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的桶子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有東西…衝出來了？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是預兆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嘶碎呀嘶碎呀嘶碎呀……啊哦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "煩躁狀。看上去什麼東西把這台機器搞壞了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦 天哪，這讓我想起了我之前看的一部電影"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "玻璃從內側被打碎了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不太想碰那個"
+} ]

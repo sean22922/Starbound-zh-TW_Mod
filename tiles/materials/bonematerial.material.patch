@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一些骨頭緊密的連在一起"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "放好的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可怕。各種骨頭放在一起"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "骨頭！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一堆骨頭。誰要啊！"
+} ]

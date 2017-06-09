@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "神祕的古代之門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石柱門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這門出奇的大。另一邊有什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從沒見過像這扇大門一樣的東西。它通往哪呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在大門面前葉族人感覺渺小。葉族人想知道它通向哪裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚奇。這個門真大！誰造的？通往何處？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我從沒見過這麼神奇的門。誰創造了這個奇蹟？門那邊有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這門處處都締造著神奇。必定是有特殊目的的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我找不到詞語來形容這扇宏偉的門。我就靜靜地欣賞好了"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/destinations/0/name",
+  "value" : "廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/destinations/0/planetName",
+  "value" : "廢墟"
+} ]

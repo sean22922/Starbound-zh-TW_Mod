@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;大獲成功"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我的^orange;助推跳躍技術^white;需要經過試驗之後才能進行推廣。我的全新^orange;障礙賽^white;已經準備就緒！^green;如果你決定幫我試試，那就來找我吧^white;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "^orange;助推跳躍技術^white; 表現得非常好！那一套就送給你了，這是你應得的。^green;你想找活幹的時候可以來找我^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/enterInstance",
+  "value" : "與 ^orange;艾略特^reset; 交談進入 ^orange;障礙路線^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGoal",
+  "value" : "完成 ^orange;助推跳躍技術障礙路線^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;艾略特^reset;所在的 ^orange;哨站^reset;"
+} ]

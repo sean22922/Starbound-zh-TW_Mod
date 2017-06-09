@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一副非常諂媚的老大猿的畫，榮耀的受愛戴的猿人領袖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "榮耀的領袖畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿…這幅畫掛在成千上萬猿人的家裡。損壞老大猿的畫就意味著死亡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個猿人被化成了神"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "超級美味的閃亮的猿人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不可信。懷疑有不精確圖案"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不認為這個傢夥配得上他的名聲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個政治的領袖不在乎名聲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個站在壯麗落日前面的猿人"
+} ]

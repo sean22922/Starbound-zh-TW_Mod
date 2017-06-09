@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根破損的石柱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破損的石柱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根破損的柱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一根破損的柱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "破敗的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自然。這根石柱受到了損傷"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這根柱子真的很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一根高大石柱的殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一根破損的柱子"
+} ]

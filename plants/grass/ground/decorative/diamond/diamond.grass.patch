@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鑽石花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑽石花"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃耀的鑽石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一朵鑽石化"
+} ]

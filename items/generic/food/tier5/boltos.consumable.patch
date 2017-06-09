@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "博爾特奧斯，當你醒來很餓的時候，你是不會在意你放進嘴中的東西是什麼的的！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "博爾特奧斯"
+} ]

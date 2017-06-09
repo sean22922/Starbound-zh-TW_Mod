@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它好像不需要吃飯睡覺……它是機器嗎？\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "錫體客小雕像"
+} ]

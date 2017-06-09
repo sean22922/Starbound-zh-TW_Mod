@@ -1,9 +1,0 @@
-{
-  "name" : "fishingwhisker",
-  "category" : "fishingwhisker",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingwhisker.png"
-  }
-}

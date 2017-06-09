@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "拜託。雖然這種黃銅技術不是很先進，但至少能給我做身好看的衣服！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "高興。真是蒸汽的傑作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "自豪。看看這些美妙的零件！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "沉思。有了先進的蒸汽技術，或許我可以製造出時間機器！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "失望。為什麼其他人都不像我這麼小巧呢？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "開心。難道你為深奧的蒸汽力學著迷嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "疲憊。擦了一天的管道"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "擔憂。部分壓力讀數略低"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "靈機一動。延長某些管道，我就能造一張雙層牀給客人了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "煩惱。其實我不太確定這些管道和儀表是做什麼的…"
+} ]

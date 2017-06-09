@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它的移動受大氣的溫度影響。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Squeem 小雕像"
+} ]

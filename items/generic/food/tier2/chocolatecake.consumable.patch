@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "巧克力製成的蛋糕！還有其他蛋糕原料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巧克力蛋糕"
+} ]

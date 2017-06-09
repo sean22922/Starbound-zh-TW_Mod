@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個遠古火把閃爍柔和的光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古火把"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "遠古火把。奇怪的是仍然燃著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "遠古火把。什麼給它提供這麼久的能源？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一支熊熊燃燒的古老火把。危險"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。一支古老的火把，已經燃燒了很長的時間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一支古老火把。我好奇它已經點了多久了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一支古老火把。不知道燃了多久了，並且能量持久"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個古老的火把，點亮了四周。它已經燃燒了多久？"
+} ]

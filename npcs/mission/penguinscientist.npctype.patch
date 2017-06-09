@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我想我能改進運作。建造驚爆跳躍者 MK II！"
+} ]

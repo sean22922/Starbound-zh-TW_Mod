@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伊格瑪"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "伊格瑪不是太具有攻擊性，但尾巴上的釘子會造成巨大傷害"
+} ]

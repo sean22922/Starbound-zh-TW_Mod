@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "^#b9b5b2;收集"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "^#b9b5b2;條"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblFilters/value",
+  "value" : "^#b9b5b2;過濾器"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnCraft/caption",
+  "value" : "買"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProduct/value",
+  "value" : "可以負擔"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblDeeds/value",
+  "value" : "行為"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblFurniture/value",
+  "value" : "傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblCommunity/value",
+  "value" : "特點"
+} ]

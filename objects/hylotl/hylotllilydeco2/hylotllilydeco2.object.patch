@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "微型荷葉"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一串小荷葉牆飾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裝飾性荷葉。很好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "自從我上次迫降在沼澤之後，就沒見過這麼多的荷葉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "塑膠做的植物。簡直是對葉族的侮辱！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可笑。還真是喜歡荷葉呢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是給那些荷葉愛好者的最好禮物。不幸的是，我不是這些人之一"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然之每，予之於內"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "呵，這裡的人還真是喜歡荷葉呢"
+} ]

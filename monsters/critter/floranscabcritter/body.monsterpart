@@ -1,9 +1,0 @@
-{
-  "name" : "floranscabcritter",
-  "category" : "floranscabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

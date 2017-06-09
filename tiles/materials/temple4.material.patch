@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋寺塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "老、製作粗糙的塊狀物，石頭表面佈滿粗糙的圖畫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不驚訝。這些雕刻並不算很厲害"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石磚上的古老鵰刻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有些人居然在這些磚塊上面雕刻"
+} ]

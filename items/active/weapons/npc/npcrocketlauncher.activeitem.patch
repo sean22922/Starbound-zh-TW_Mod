@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有炸開一部分東西的能力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC火箭發射器"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "toxiccrabcritter",
-  "category" : "toxiccrabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

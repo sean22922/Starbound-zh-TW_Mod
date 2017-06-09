@@ -1,0 +1,97 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先葉族需要你^green;找到^orange;<fetchedItems>。 ^white;快去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "葉族找不到^orange;<fetchedItems>。 ^white;葉族會為你提供獎賞，如果你能^green;找到一些的話"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "興奮。首先^green;我需要你替我收集一些^orange;<fetchedItems>^white;。先謝謝你啦！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "興奮。計劃的第一步裡，^green;我需要你替我收集^orange;<fetchedItems>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先，^green;我需要 ^orange;<fetchedItems>^white;。你可以幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先，^green;我們需要收集^orange;<fetchedItems>^white;。你能搞定嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "是時候去^green;尋找^orange;<fetchedItems>了。 ^white;這很重要所以我們要馬上開始"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "你的下一個任務，^green;找到^orange;<fetchedItems>。^white;這對你這樣技藝高超的人來說易如反掌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "自信。接下來^green;我們需要^orange;<fetchedItems>。^white; 我相信你能搞定"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "渴求。接下來，^green;我需要你收集^orange;<fetchedItems>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "接下來 ^green;我們需要^orange;<fetchedItems>^white;。你能搞定，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "^green;接下來我需要^orange;<fetchedItems>^white;。這對計劃來說很重要"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "好！讓我們用<fetchedItems>開始工作吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "完美——現在葉族可以使用它們了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "感激。我感謝你能替我收集這些物品！我的計劃可以開始了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "高興。這些東西正是我計劃中需要的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "棒極了！現在我們可以使用<fetchedItems>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "幹得漂亮，<player>！我就說你能做到的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "完美，是時候來使用<fetchedItems>了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "比葉族預計得更快！葉族很高興"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "感激。你能替我收集這些東西我真是太開心了，它們對於我的計劃來說至關重要。謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "興高采烈。謝謝你替我拿到這些東西，我的計劃中會用到它們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "謝謝，我下一步計劃需要的就是這個……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "完美，這會派上大用場的。謝謝你！"
+} ]

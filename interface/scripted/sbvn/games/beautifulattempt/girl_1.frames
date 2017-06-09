@@ -1,7 +1,0 @@
-{
-  "frameGrid" : {
-    "size" : [300, 200],
-    "dimensions" : [4, 1],
-    "names" : [ [ "default", "annoyed", "pleased", "shocked" ] ]
-  }
-}

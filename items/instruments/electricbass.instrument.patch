@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把電貝司。來點節奏"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電貝司"
+} ]

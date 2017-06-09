@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套巨大的象棋中的白卒棋子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "白色石卒"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個棋子，迷你克諾格並不意味著國際象棋"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許是裝飾性的雕像？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的雕像，這是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。機器人貴族很早開始就學著下象棋。他們在戶外的大棋盤上下棋"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一枚巨大的象棋棋子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "好像是一枚很大的象棋棋子。鮫族人很喜歡棋類遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個遊戲看起來很無聊"
+} ]

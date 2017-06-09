@@ -1,0 +1,393 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/4",
+  "value" : "我們為人民的自由而戰，你呢，人類？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/8",
+  "value" : "對猿族的困境，你知道多少，人類？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/0",
+  "value" : "迷你克諾格也讓你失去家人了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/4",
+  "value" : "如果我們努力抗爭，總有一天能夠免受壓迫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/8",
+  "value" : "你是在逃避迷你克諾格嗎？祝你好運，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/9",
+  "value" : "迷你克諾格會為做過的事付出代價！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/13",
+  "value" : "你是反抗者的一員嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/4",
+  "value" : "我們為人民的自由而戰，你呢，翼族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/8",
+  "value" : "對猿族的困境，你知道多少，翼族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/avian/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/4",
+  "value" : "我們為人民的自由而戰，你呢，葉族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/8",
+  "value" : "對猿族的困境，你知道多少，葉族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/floran/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/4",
+  "value" : "我們為人民的自由而戰，你呢，鮫族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/8",
+  "value" : "對猿族的困境，你知道多少，鮫族?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/hylotl/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/4",
+  "value" : "我們為人民的自由而戰，你呢，機器人?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/8",
+  "value" : "對猿族的困境，你知道多少，機器人?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/glitch/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/1",
+  "value" : "你是來支援我們永不停息地對抗迷你克諾格的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/2",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/3",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/4",
+  "value" : "我們為人民的自由而戰，你呢，熱情的陌生朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/5",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/6",
+  "value" : "好奇老大猿到底什麼樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/7",
+  "value" : "打賭老大猿也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/8",
+  "value" : "對猿族的困境，你知道多少？…你是什麼生物？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/9",
+  "value" : "你瞭解迷你克諾格嗎？他們統治著猿人，但殘忍殘暴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/10",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/11",
+  "value" : "別打擾我，我忙著推翻邪惡的政權"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/12",
+  "value" : "別引發這裡的不安情緒，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/novakid/13",
+  "value" : "你的同類中也有無情的獨裁者嗎？"
+} ]

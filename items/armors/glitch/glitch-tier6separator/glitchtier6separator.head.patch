@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個有角的惡魔頭盔，預示著毀滅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毀滅領主的頭盔"
+} ]

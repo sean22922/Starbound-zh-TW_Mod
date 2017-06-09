@@ -1,9 +1,0 @@
-{
-  "name" : "fishingsaber",
-  "category" : "fishingsaber",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingsaber.png"
-  }
-}

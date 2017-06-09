@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螢火蛾"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只有螢火蛾翻動羽翼，鱗莖才會發亮"
+} ]

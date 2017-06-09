@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個高折射率棱鏡，上有刻印符文"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡水晶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個棱柱體似乎表面刻有符文"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個棱柱體上刻有符文"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有人在這石頭上刻了符文"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個這個棱柱體上刻有符文"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在想為何這個水晶上會有符文"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個棱柱體上有著相當神祕的符文"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些符文是幹嘛的？"
+} ]

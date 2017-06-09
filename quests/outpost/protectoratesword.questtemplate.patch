@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;英雄熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "急躁。把你的大劍給我！……嗯，看來我應該再說清楚點。把你的^orange;破敗大劍^reset;給我，讓我來給你修！伊瑟已經告訴我它是怎麼壞的了——這種程度對我來說不值一提！^white;不過，^green;我要收^orange;10張科技卡^green;才能為你修好^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "驕傲。給你！煥然一新！不用謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/turnInDescription",
+  "value" : "與在^orange;哨站^reset;的^orange;男爵^reset;交談"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個頭罩面具組合，很適合想要推倒政府的人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "篡位者的頭巾"
+} ]

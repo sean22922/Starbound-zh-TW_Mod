@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些好看的燕尾服褲讓你步入時尚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "錢袋褲"
+} ]

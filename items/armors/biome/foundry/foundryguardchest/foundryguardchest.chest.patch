@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些手套無法覆蓋你的胸部"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造防護手套"
+} ]

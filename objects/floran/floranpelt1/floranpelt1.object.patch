@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一大塊毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大塊棕色毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "厚的毛皮，可能用來隔熱的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼厚的一件毛皮可以製成一件頂好的披肩。葉族人似乎把它們掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人的村莊經常很冷。葉族人的房子用毛皮取暖。堵住牆中的縫隙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。據說這隻生物有200多年的壽命"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這麼大的一件毛皮。葉族人獵取的生物有這麼大？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這件毛皮應該為它原來的動物取暖的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一塊毛皮，可以用來取暖"
+} ]

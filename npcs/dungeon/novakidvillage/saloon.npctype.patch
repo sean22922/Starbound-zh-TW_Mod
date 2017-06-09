@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "看樣子你很識貨啊，肯定見多識廣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "你似乎喜歡四海為家，夥計"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "口渴時要到羊羣的上遊喝水。這是句老話了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "看來你遇到過不少麻煩，夥計"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "夥計，請坐。生活不必如此匆忙"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "你們很看重歷史嗎？我都記不起自己從何而來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "夥計，不用執著於追趕太陽。太陽明天還會升起來的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "有困難不代表你就一定得面對"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "我脾氣很好，不是你們以為的那種刻薄小人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "我從何而來並不重要，重要的是我將去往何方。這句話適用於所有人"
+} ]

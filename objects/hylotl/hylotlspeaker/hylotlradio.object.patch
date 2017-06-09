@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "陳舊不堪的收音機，竟然還能用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統收音機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這收音機竟然還能用，真了不起"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這老收音機的音樂似乎有些傷感"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "老收音機，真令人不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這老收音機的音樂令人舒心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這無線電讓人覺得很懷舊呢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "老舊的收音機，令人懷念過去"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這無線電音色還不錯"
+} ]

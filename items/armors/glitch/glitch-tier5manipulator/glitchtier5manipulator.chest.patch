@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "輕盈且堅固，讓穿戴者更敏捷、行動更迅速"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "槍騎兵胸甲"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個拿著長矛的葉族的雄偉雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葉族雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個葉族人正在展示它的投矛技術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個植物正在做最擅長事，準備殺死獵物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個雕像彰顯著狩獵的榮耀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析報告。這把長矛最近被用於刺穿一個生物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是葉族看起來很很強大，不知道是不是真有其人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "甚至一座葉族人雕像都讓我感到很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個葉族看起來很靠得住"
+} ]

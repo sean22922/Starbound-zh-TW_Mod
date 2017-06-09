@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我能看到我的倒影"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "玻璃塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "專注。我能看穿這個透明玻璃"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "從玻璃看葉族人很好看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我能清楚的看到玻璃的另一邊"
+} ]

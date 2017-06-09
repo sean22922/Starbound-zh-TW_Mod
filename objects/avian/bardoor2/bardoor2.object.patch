@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這扇沉重的鐵吊閘向上打開了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵閘門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來這扇鐵門是向上開的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "像這種門通常用來擋住那些想褻瀆它們的人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這扇門很沉重，用鋒利的鐵刺製作而成"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "挺不錯的。電子人人製作的鐵閘門達到了較高的工藝水準"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這門關上的時候我可不想被卡在它下面"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "固態鐵。實用性大於觀賞性"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真都是些堅固的鐵棒"
+} ]

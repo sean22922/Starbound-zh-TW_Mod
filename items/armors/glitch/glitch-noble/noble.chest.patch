@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乾淨、織工精細的貴族襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貴族襯衫"
+} ]

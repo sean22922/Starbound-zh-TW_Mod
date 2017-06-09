@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "多汁的貓李，因為濕潤柔軟的內部而得名"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貓李種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "貓李看著、聽著都不如吃著的好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "小巧，多汁，易於消化的精緻物，他的種子能吃嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "多汁，紅豔豔的，美味"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕。事實上，只要有人覺得味道不錯的任何東西，都能變成佳餚"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來就很好吃，但是我卻不是很想吃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "味道很刺鼻，鮫族人不喜歡吃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "聽說是好東西，但是看到實物以後我就不是很確定了"
+} ]

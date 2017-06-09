@@ -1,0 +1,137 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "吹牛。彩虹盜賊公會應該輕鬆就讓你免受傷害"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "英勇，我，堂堂彩虹盜賊，應該巡查看看有沒有什麼不法分子！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "友善，我是一個彩虹盜賊，但我們還是可以交談！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "大膽。有了獨角獸，我應該保衛我的盟友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "勇敢。彩虹盜賊公會應該保護無辜者免受傷害"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "生氣。其他的彩虹盜賊們應該聽聽這個恥辱"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/1",
+  "value" : "沮喪。像我這樣的人本不應該配得上這樣的條件"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "失望。我必須離開。其他的彩虹盜賊應該聽到這個！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/1",
+  "value" : "失望。雖然我以為我能把我的天賦帶到這裡，但是無人欣賞我"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "歡迎。你需要像我這樣的彩虹盜賊做什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/1",
+  "value" : "友好。你需要我的強盜技能呢？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/2",
+  "value" : "細心。我得確保這不會是一個陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "感激。這是彩虹盜賊公會的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/1",
+  "value" : "謝謝。彩虹盜賊公會感謝你給我提供一個家！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "勇氣。你回來就是註定要被擊倒的，敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "無畏。沒有人可以擊敗彩虹盜賊的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "莽撞。這用不了多久！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "勇敢。正義光譜攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "殘忍。讓戰鬥開始吧！正義光譜攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "敵意，竟然有如此愚蠢的人想和彩虹盜賊過不去！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "英勇。是時候讓你們看看彩虹盜賊的厲害了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/5",
+  "value" : "激昂。上舞台吧，開始戰鬥吧！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "勝利！彩虹盜賊又贏了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "開心。正義光譜又成功了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "開心。我應該把這個勝利的消息跟彩虹盜賊的夥伴們說"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "失望。敵人應該是溜了"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "驚訝。我以為我們的敵人正打算和我們交鋒"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "驚訝。敵人躲過了我的彩虹凝視！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "疑惑，他們去哪裡了？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "沮喪。要是我帶著彩虹弩就好了"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "沮喪。再靠近一點我就可以用我的彩虹劍了！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "支持。幹掉威脅我們的敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "支持！讓我們的敵人感受到正義的審判！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "支持。給我們的敵人掃描一次！"
+} ]

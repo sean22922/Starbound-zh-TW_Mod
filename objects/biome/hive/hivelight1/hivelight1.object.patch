@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道顫動的、肉乎乎的光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這盞燈散發著令人生厭的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是一盞討厭的燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人覺得燈看起來很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。血肉淋淋的燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是一盞噁心的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然之中透露著不自然"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個地方到底是誰負責裝飾的？"
+} ]

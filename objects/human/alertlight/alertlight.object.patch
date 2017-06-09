@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃爍的燈光也許是代表某種緊急情況"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警示燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些警告在猿人住的地方很平常，發出不可接受的行為的信號"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那個機器的叫聲就像鳥叫"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "打旋的光。就像罐子裡的螢火蟲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無感。一個帶顏色的燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些東西的尖叫很危險"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個不適當的舞蹈光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "吸引注意力的燈"
+} ]

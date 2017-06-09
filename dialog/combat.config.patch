@@ -1,0 +1,777 @@
+[ {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "又是你！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "你回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/2",
+  "value" : "啊哈！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/3",
+  "value" : "你回來了？"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/4",
+  "value" : "你回來了啊"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/glitch/default/0",
+  "value" : "憤怒。你會後悔回來的"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/glitch/default/1",
+  "value" : "好鬥。這次你逃不掉了"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/glitch/default/2",
+  "value" : "無畏。我已經準備好和你再大戰一場了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/glitch/default/3",
+  "value" : "生氣。你竟然還敢回來？"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/glitch/default/4",
+  "value" : "激動。你回來就是為了被我戰勝的"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/floran/default/0",
+  "value" : "葉族人對你回來感到很憤怒！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/floran/default/1",
+  "value" : "又見到你了，獵物"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/floran/default/2",
+  "value" : "你又回來了？"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/floran/default/3",
+  "value" : "這次葉族人會阻止你的！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/floran/default/4",
+  "value" : "獵物回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/0",
+  "value" : "敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/1",
+  "value" : "和敵人交戰！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/2",
+  "value" : "敵人攻擊了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/3",
+  "value" : "組裝形成！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/4",
+  "value" : "敵人的活動！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/5",
+  "value" : "與敵人交戰！給予增援！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/6",
+  "value" : "敵人進攻！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/0",
+  "value" : "咔！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/1",
+  "value" : "擦擦！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/2",
+  "value" : "啊嗯嘎嘎嘎嘎！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/3",
+  "value" : "喬克託克！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/4",
+  "value" : "塔帕庫庫庫洛！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/5",
+  "value" : "喀拉喀拉拉！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/avian/default/6",
+  "value" : "酋長！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/0",
+  "value" : "超級！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/1",
+  "value" : "是時候刺下去了，是時候射擊了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/2",
+  "value" : "狩獵獵物！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/3",
+  "value" : "抓到了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/4",
+  "value" : "刺它！射它！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/5",
+  "value" : "抓住它！吃了它！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/6",
+  "value" : "葉族人在狩獵！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/0",
+  "value" : "刺激！敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/1",
+  "value" : "好鬥。嚐嚐這個！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/2",
+  "value" : "冷靜。我不會那麼輕易就擊倒的"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/3",
+  "value" : "親愛的，戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/4",
+  "value" : "英勇。我應該擊敗這個敵人"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/5",
+  "value" : "急切。你快完蛋了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/glitch/default/6",
+  "value" : "你完蛋了，做好喪命的準備吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/0",
+  "value" : "戰場上是講究榮譽的"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/1",
+  "value" : "開始戰爭之舞！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/2",
+  "value" : "我掌握著暴風之力！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/3",
+  "value" : "你最好和大漩渦戰鬥的時候表現得比跟我打的時候好一點"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/4",
+  "value" : "我需要像閃電一樣出擊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/5",
+  "value" : "我會讓大雨傾盆在你頭上"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/default/6",
+  "value" : "我會帶著榮耀戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/floran/0",
+  "value" : "我會為了我祖先復仇"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/floran/1",
+  "value" : "我就是被訓練與葉族人戰鬥的"
+}, {
+  "op" : "replace",
+  "path" : "/attack/hylotl/floran/2",
+  "value" : "我會把你們這些野蠻的葉族人擊敗。為我的祖宗帶來榮耀"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/0",
+  "value" : "你死定了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/1",
+  "value" : "讓我們搞定這個！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/2",
+  "value" : "在一個火山星球，你是沒機會控制雪花的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/3",
+  "value" : "我並不是一個優秀的戰士……"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/4",
+  "value" : "啊……"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/5",
+  "value" : "我不會那麼輕易就倒下的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/6",
+  "value" : "我怎麼可以這樣倒下呢？"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/7",
+  "value" : "讓我們搞定這個……"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/8",
+  "value" : "小心。我要奮戰到底"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/9",
+  "value" : "上吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/10",
+  "value" : "你不會知道什麼會降臨在你頭上擊倒你！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/0",
+  "value" : "是時候來一場老派對決了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/1",
+  "value" : "噫哈~我們上吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/2",
+  "value" : "我們上吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/3",
+  "value" : "你趕緊手氣不錯吧，小雜種？"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/4",
+  "value" : "該大鬧一場啦！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/5",
+  "value" : "絕不走空！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/6",
+  "value" : "如果想找麻煩，你可是找對人了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/7",
+  "value" : "我可沒這個閒工夫！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/8",
+  "value" : "我槍法可比你好啊，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/9",
+  "value" : "這可不是我第一次馴服猛獸了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/10",
+  "value" : "轟！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/11",
+  "value" : "我們可不想惹麻煩！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "永遠不要惹我！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "喲！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/3",
+  "value" : "又一次勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/4",
+  "value" : "我甚至都沒怎麼流汗！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/5",
+  "value" : "呵呵"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/6",
+  "value" : "當然啦我贏了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/7",
+  "value" : "我最擅長這個了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/8",
+  "value" : "這有點壓力……"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/9",
+  "value" : "又一次輕鬆獲勝！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/10",
+  "value" : "好耶！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/11",
+  "value" : "這就是你的下場！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/0",
+  "value" : "永遠不要挑戰一名翼族人！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/1",
+  "value" : "你永遠打不倒一名真正的勇士"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/2",
+  "value" : "我的對手完全被我征服了……"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/3",
+  "value" : "我生來就是為了贏得這場戰鬥的"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/4",
+  "value" : "我毫髮無損"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/5",
+  "value" : "這就是向翼族人進攻的下場"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/6",
+  "value" : "對他們來說，他們盡力了，值得尊敬"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/avian/default/7",
+  "value" : "輕鬆"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/0",
+  "value" : "目標被征服了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/1",
+  "value" : "區域安全"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/2",
+  "value" : "問題解決了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/3",
+  "value" : "惹毛一名猿族人是多麼不明智"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/4",
+  "value" : "威脅解除"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/5",
+  "value" : "目標已經處理完畢"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/6",
+  "value" : "目標被幹掉了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/7",
+  "value" : "目標倒下了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/8",
+  "value" : "好了。我應該賺了一隻香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/apex/default/9",
+  "value" : "目標已經被解決了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/0",
+  "value" : "戰鬥結束了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/1",
+  "value" : "結束了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/2",
+  "value" : "我已經擊敗了敵人，我必須要好好回憶下這場戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/3",
+  "value" : "一場光榮的勝利"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/4",
+  "value" : "一場光榮的保衛我的文化的勝利"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/5",
+  "value" : "結束了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/hylotl/default/6",
+  "value" : "我已經為了我的人民奉獻了很多"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/0",
+  "value" : "滿足。又一次的勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/1",
+  "value" : "滿足。又一次幹得漂亮！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/2",
+  "value" : "興奮。這真是激奮人心"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/3",
+  "value" : "累死了，我需要更多的鍛鍊"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/4",
+  "value" : "開心。勝利來之不易"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/5",
+  "value" : "開心。不可思議的勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/glitch/default/6",
+  "value" : "自豪。我的絕技施展得酣暢淋漓"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/0",
+  "value" : "那真開心。現在葉族人該做什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/1",
+  "value" : "葉族人是歷史上最優秀的獵手！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/2",
+  "value" : "現在葉族人無事可做與……"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/3",
+  "value" : "葉族人贏了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/4",
+  "value" : "葉族人是最棒的！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/5",
+  "value" : "有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/6",
+  "value" : "做到了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/floran/default/7",
+  "value" : "葉族人很喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/novakid/default/0",
+  "value" : "這麼多事，完事非得喝一杯不可"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/novakid/default/1",
+  "value" : "我可是天生的格鬥冠軍，又有什麼好說呢？"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/novakid/default/2",
+  "value" : "這騎術還真是精彩啊！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/novakid/default/3",
+  "value" : "噫哈！真是厲害"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "總有一天會抓到你的"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "這沒完！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/2",
+  "value" : "不要回來！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/3",
+  "value" : "你在哪……"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/4",
+  "value" : "這爭論沒完沒了"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/5",
+  "value" : "你給我等著！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/glitch/default/0",
+  "value" : "尷尬。我的對手跑了"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/glitch/default/1",
+  "value" : "深思。我現在到底在幹什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/glitch/default/2",
+  "value" : "無聊。我現在要做什麼好呢？"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/glitch/default/3",
+  "value" : "壞脾氣，總算打發走了"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/glitch/default/4",
+  "value" : "希望如此。嗯……回來？"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/floran/default/0",
+  "value" : "葉族人會去狩獵一切其他的東西"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/floran/default/1",
+  "value" : "當他們回來，就會被我刺中的……"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/floran/default/2",
+  "value" : "葉族人會找到其他要追逐的人"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/floran/default/3",
+  "value" : "葉族人不會放棄！只是不確定接下來要幹什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/floran/default/4",
+  "value" : "葉族人餓了……或許獵物會回來的"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "卑鄙！這太卑鄙了！你怎麼消失的？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "他們逃走了！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/2",
+  "value" : "你要去哪？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/3",
+  "value" : "回來！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/4",
+  "value" : "怎麼會發生這種事？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/glitch/default/0",
+  "value" : "耐心。我會在這等著直到你回來"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/glitch/default/1",
+  "value" : "沮喪。我知道你就在這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/glitch/default/2",
+  "value" : "疑惑。他們去哪了？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/glitch/default/3",
+  "value" : "不確定。我剛剛不才和某人戰鬥過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/glitch/default/4",
+  "value" : "生氣。你怎麼消失的？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/floran/default/0",
+  "value" : "葉族人是好獵手。獵物是逃不出他的手心的！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/floran/default/1",
+  "value" : "葉族人可以聞到獵物的氣味！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/floran/default/2",
+  "value" : "狡猾的獵物藏起來了"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/floran/default/3",
+  "value" : "……葉族人找不到"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/floran/default/4",
+  "value" : "那鬼鬼祟祟的東西在哪？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "滾開！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "過來！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/2",
+  "value" : "回來！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/3",
+  "value" : "你怎麼過去的？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/4",
+  "value" : "我夠不到！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/glitch/default/0",
+  "value" : "生氣，我夠不著他們"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/glitch/default/1",
+  "value" : "生氣。來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/glitch/default/2",
+  "value" : "沮喪。我為什麼不帶弩過來？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/glitch/default/3",
+  "value" : "生氣，我要是都夠不著你我們怎麼對打？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/glitch/default/4",
+  "value" : "生氣！你靠近一點我們才能對打？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/floran/default/0",
+  "value" : "他們太遠了我沒法刺到"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/floran/default/1",
+  "value" : "葉族人夠不到！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/floran/default/2",
+  "value" : "靠近一點！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/floran/default/3",
+  "value" : "狡猾的獵物我們夠不到！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/floran/default/4",
+  "value" : "葉族人靠得不夠近！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "我有個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "抓住他們！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "每個人都在擋我路"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/3",
+  "value" : "他們怎麼還沒死？"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/4",
+  "value" : "別介！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/glitch/default/0",
+  "value" : "興奮！把他們都擊倒！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/glitch/default/1",
+  "value" : "聽我指揮，快拿下他們！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/glitch/default/2",
+  "value" : "熱情！拿下敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/glitch/default/3",
+  "value" : "刺激。為什麼這個敵人還不死？"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/glitch/default/4",
+  "value" : "自私，我要殺了它！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/floran/default/0",
+  "value" : "給我留一點"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/floran/default/1",
+  "value" : "快抓住！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/floran/default/2",
+  "value" : "葉族人很開心能參與其中"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/floran/default/3",
+  "value" : "抓到了！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/floran/default/4",
+  "value" : "葉族人很興奮！"
+} ]

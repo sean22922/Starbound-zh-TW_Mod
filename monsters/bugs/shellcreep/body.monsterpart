@@ -1,9 +1,0 @@
-{
-  "name" : "shellcreep",
-  "category" : "shellcreep",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "shellcreep.png"
-  }
-}

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/speciesText/default/buttonText",
+  "value" : "駭翼"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/repeatButtonText",
+  "value" : "再戰駭翼"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/selectSpeech/text",
+  "value" : "比翼死的老闆需要幫助。擊敗駭翼"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "威嚴的大門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀大門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇巨大的門。需要攻城錘才能打開"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這可能是我見過最大的門了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在這扇門面前葉族人都變成了小矮子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "安心。這扇門用一大片厚重的木頭將內外隔絕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇巨大的防禦性大門。需要不止一個攻城錘才能打開"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這樣的門通常是害怕入侵的民族建造的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "建造這扇門的人一定很不歡迎來訪者"
+} ]

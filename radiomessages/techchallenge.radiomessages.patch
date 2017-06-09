@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/techchallenge_doublejump1/text",
+  "value" : "想使用^orange;助推跳躍科技^white; ^#71f2f6;那就在空中按空格鍵^white;。這樣能讓你獲得一點點上升提升"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_doublejump2/text",
+  "value" : "遙感勘測顯示想要跳躍成功你必須^#71f2f6;延遲使用^orange;脈衝跳躍^white;直到你跟目標平台的邊緣同一水準為止"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_dash1/text",
+  "value" : "這個障礙需要你使用之前獲得的^orange;衝刺科技^white;。想使用它的話^#71f2f6;雙擊A或D以快速左衝刺或右衝刺^white;"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_dash2/text",
+  "value" : "這些門只會短暫性打開。你必須^#71f2f6;貼近門口^white;然後^#71f2f6;操控開關然後衝刺過去^white;"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_dash3/text",
+  "value" : "這些門口似乎只會打開^orange;非常有限的時間^white;。很欣賞你擁有忍受這種挫折的精神"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_dash4/text",
+  "value" : "讀數顯示^orange;低溫爆能槍^white;。它們並不致命，但是會大幅減低你的速度"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_morphball1/text",
+  "value" : "^#71f2f6;按F使用^orange;扭曲球體科技^white;以變形為壓縮型態或退出壓縮形態"
+}, {
+  "op" : "replace",
+  "path" : "/techchallenge_morphball2/text",
+  "value" : "看來你需要^#71f2f6;啓動你的^orange;變形領域^#71f2f6;空中跳躍^white;進入這個通道"
+} ]

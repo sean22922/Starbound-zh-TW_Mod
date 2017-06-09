@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保護者組織花園裡的長凳。上面有一個木板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者組織花園長凳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張結實的木長凳。牌匾上寫著\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "長凳上有塊牌子。上面寫著\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人時常坐在這張長凳上。牌子上寫著\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。我以前從來沒看過這張長凳的牌子的內容……\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張上好的木長凳。牌子上寫著\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "長凳的牌子上寫著\"紀念伊瑟·布萊特\""
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "來看看長凳的牌子上寫著什麼吧……\"紀念伊瑟·布萊特\""
+} ]

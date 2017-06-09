@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "上面帶有一枚符號的黑色方格旗"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "深色戰旗"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這會不會是用來標記領土的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "選擇黑色的原因會不會是為了看起來更加危險？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不是那麼喜歡旗幟。無聊的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。旗子上用這種顏色的機器人通常不太友好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "顏色很任性的旗幟，可以放在任何地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "單調的顏色表明這不是鮫族人做的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這面旗幟顏色深沉，不禁給人一種警告的感覺"
+} ]

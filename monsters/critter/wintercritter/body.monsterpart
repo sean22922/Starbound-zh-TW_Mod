@@ -1,9 +1,0 @@
-{
-  "name" : "wintercritter",
-  "category" : "wintercritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

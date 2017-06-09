@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "制式的猿人專家長褲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "專家長褲"
+} ]

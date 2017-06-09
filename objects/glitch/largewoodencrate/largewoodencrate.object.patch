@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個木箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大木箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個木製的儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很好木製的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個木箱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "只是個箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個木製的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻大板條箱"
+} ]

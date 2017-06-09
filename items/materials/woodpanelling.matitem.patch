@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在一個遙遠的地方這個木嵌板很流行"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質嵌板"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "疑惑。感覺這些木製板就是裝飾用的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "奇怪的木質裝飾品"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "木製面板，就是這地方的美妙所在"
+} ]

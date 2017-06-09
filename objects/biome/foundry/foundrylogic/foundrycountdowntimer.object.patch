@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "<一個在一組持續時間內保持活動的計時器。>"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造的倒數計時器"
+} ]

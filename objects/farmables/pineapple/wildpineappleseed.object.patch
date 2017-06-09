@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鳳梨，在吃之前一定要先切開它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳梨種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鳳梨又甜又多汁"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "樹葉就像羽毛一樣，只是在柔軟的方面上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鳳梨看上去像是葉族人的腦袋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嘲笑。機器人一直用鳳梨做射擊練習"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鳳梨。用來做小吃或是放在披薩上都很好吃！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "特別甜。鳳梨永遠不可能生長在海裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "誰會想到這麼醜的東西裡面竟然那麼甜？"
+} ]

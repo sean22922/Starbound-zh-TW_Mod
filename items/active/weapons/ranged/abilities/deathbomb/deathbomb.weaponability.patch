@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/ability/name",
+  "value" : "死敵爆彈"
+} ]

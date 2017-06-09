@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "復古風格的梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "不會過時的古典"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種款式的化妝台永遠不會過時"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "任何款式的化妝台都可以用，我不關心他們長什麼樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "深思下。這是來自未來的傢俱創意嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個最不時尚的化妝台才是最時尚的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在化妝台的設計上可以明顯看出簡約的趨勢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "跟我習以為常的梳妝台完全不同"
+} ]

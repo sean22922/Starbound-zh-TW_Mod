@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個陷阱向入侵者噴射冰霜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古代冰霜陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "致命的冰霜陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個致命的冰霜裝置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冰塊可是很危險的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心，是致命的冰霜陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小心冰霜爆破"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "冰，是水最致命的一種形式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個冰霜陷阱會把經過的臭猴子都凍住的"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "輕盈的菲洛合金蕾絲裙。附加的鳥足靴不能隨意更換"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火烈鳥裙子"
+} ]

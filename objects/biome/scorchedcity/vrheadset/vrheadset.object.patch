@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "虛擬現實耳機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "VR耳機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "只要安裝上正確的程式，我就可以探索任何我夢想的地方"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "使用這個頭戴設備，我感覺要上天了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人也能在VR裡狩獵！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起，佩戴虛擬現實頭盔就好像在調整你的程式，而不需要實際進行調整"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用這個，我可以去到任何地方，甚至是宇宙！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "了不起的裝置，可以模擬水下體驗而不用把自己弄溼"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用這個裝備，我可以不出家門地觀賞全宇宙！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇安全的杜拉鋼門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "杜拉鋼門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這扇門十分安全"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對於一扇基本的門來說十分堅固"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人躲在門後。跳出來。刺——！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "認可：有用的門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇堅固的杜拉鋼門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇堅固的杜拉鋼門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門看上去很堅固啊！"
+} ]

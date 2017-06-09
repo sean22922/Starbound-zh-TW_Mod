@@ -1,9 +1,0 @@
-{
-  "name" : "smallplainbody",
-  "category" : "smallflying",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "smallplainbody.png"
-  }
-}

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/speciesText/default/buttonText",
+  "value" : "武器試驗場"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/repeatButtonText",
+  "value" : "重返武器試驗場"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/selectSpeech/text",
+  "value" : "軍械士比吉需要你的幫助"
+} ]

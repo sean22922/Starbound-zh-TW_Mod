@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沉悶的空氣使風扇發出了咯吱咯吱的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的風扇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個被腐蝕的舊的風扇。幾乎不轉了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "空氣從中穿過，發出口哨般的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "扇葉已經停止轉動了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "消沉狀。這個曾經提供著新鮮空氣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "刀刃被腐蝕了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "破損且老舊，這個風扇已經無法使空氣流通了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "全部鏽住了，有了跟沒有一樣"
+} ]

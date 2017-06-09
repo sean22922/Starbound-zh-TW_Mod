@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個石桌，標準的翼族風格"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "神廟之桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個石桌。有著圖案和雕刻的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "神廟守護者可能用這張桌子來吃東西。上面的雕刻表示感謝庫魯克斯的賞賜"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人雕刻品堆在一張桌子上面。上面還沾滿食物的痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這張桌子沾滿各種食物的痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張石桌，根據它的磨損情況來看，可能是張餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張桌子上的雕刻很漂亮，但可惜的是它沒有保養好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "石頭桌子。我想要搬這東西不簡單吧"
+} ]

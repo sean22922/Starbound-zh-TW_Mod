@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "菇族人商人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "賣東西的蘑菇人"
+} ]

@@ -1,0 +1,165 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "尋找鮫族神器的線索"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我們要開始著手尋找^orange;鮫族神器^reset;了。在^orange;溫和恆星^reset;附近搜尋，^green;並在帶有大面積^orange;海洋^reset;的行星上尋找^orange;線索^white;，鮫族人喜歡居住在海下或海面上。^green;搜尋完成後就回來^reset;，小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "尋找鮫族神器的最後一條線索也找到了。幹得好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "^green;掃描物品^reset; 以找到 ^orange;鮫族線索^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/hylotllibraryposter1/text",
+  "value" : "這幅畫是手繪的，上面描繪了一幢具有重大文化意義的建築……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/librarycodex/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/librarycodex/text",
+  "value" : "鮫族人像守護寶藏一樣守護並保存著知識……書是他們最珍貴的財富，他們的神器會不會也藏在浩繁的卷帙之中？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/librarymodel/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/librarymodel/text",
+  "value" : "這座圖書館非常精美——可以說是知識的天堂！也許它們的神器就藏在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/pagodaaquarium/text",
+  "value" : "這座水族館上面有一個小島模型！真稀奇"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/hylotlmusicbox/text",
+  "value" : "這個音樂盒播放著古老的曲調……這是一個紀念品，我想調查一下它的來源"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "嗯，有意思……我得深入挖掘一番"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/text",
+  "value" : "有趣，這肯定跟我的研究有關"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/text",
+  "value" : "我不禁對鮫族人對知識的尊重肅然起敬"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/text",
+  "value" : "唔，到底……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/text",
+  "value" : "太好了，你找到的每條線索都能夠幫我形成完整的理論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/text",
+  "value" : "這條線索暗示了隱藏的信息"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/text",
+  "value" : "這樣一來，我之前的猜測就被證實了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/text",
+  "value" : "真是奇怪！但驚人的信息比意料之中的信息更加珍貴……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/text",
+  "value" : "即使是最不起眼的證據也能揭露出宇宙中最宏大的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/text",
+  "value" : "這個非常有用，繼續找！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "看來你找到的一些物品已經指向了神器的下落所在。我會儘快開始進行分析，你可以去搜尋更多的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "你還真是會收集鮫族人的文物啊！你似乎已經掌握了足夠的線索，這樣我就可以找到神器的具體地點了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "有趣——我從未聽說過宏塔圖書館。我已經不需要更多的信息了——^#71f2f6;等你準備就緒就回來方舟吧^white;"
+} ]

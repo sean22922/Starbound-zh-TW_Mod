@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "花盆裡一株像火一樣的花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火紅的花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這朵花的花瓣看上去像火苗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這朵花在微風中搖擺，就像火苗一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這朵花看著就像一團火，醜死了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這朵花的顏色和形狀都很接近火"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一朵漂亮柔軟的花，不知它含有什麼力量？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "從表面上看，這花充滿了活力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "盆裡的一株很漂亮的花"
+} ]

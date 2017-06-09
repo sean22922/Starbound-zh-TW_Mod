@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "真是糟糕的仿人形目標，我要把它叫做弗雷迪！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "仿製目標"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裝滿著稻草的仿人目標。用於戰鬥訓練"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "稻草人。它可嚇不倒我"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬人做稻草人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "回憶。一個訓練用人偶。騎士們用這個訓練劍術"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是某種訓練人偶。也許是劍術吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用稻草充填的人。也許是被用做戰鬥訓練的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我能用這個練槍法，但是我覺得它是被設計來練弓箭的"
+} ]

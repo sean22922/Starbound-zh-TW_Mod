@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出脆弱的火浮盧法羅幼崽——長大之後成為燒灼核心的良好來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "火浮盧法羅蛋——這種生物可以製造焦核"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個火浮盧法羅蛋，成年火浮盧法羅可以製造焦核，這是打造物品的好材料"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火浮盧法羅蛋。雖然葉族人不喜歡火，但這些生物很有用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這會孵化成火浮盧法羅；一個專門製造焦核的可愛野獸"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個火浮盧法羅蛋！裡面有一個可愛的小火浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個火浮盧法羅蛋。這些和平的田園小動物可以產出用於打造物品的焦核"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個火浮盧法羅蛋，裡面有個毛茸茸的小傢夥"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "競技場冠軍穿的傳奇頭盔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "競技場冠軍的頭盔"
+} ]

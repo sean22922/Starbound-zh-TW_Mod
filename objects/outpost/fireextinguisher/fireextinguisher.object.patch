@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "滅火器。不是拿來玩的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用泡沫來消滅火焰！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕。這個滅火器並不符合安全守則"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "滅火器。希望我用不到"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "會噴出泡沫的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個小東西可以用來熄滅火焰"
+} ]

@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嗨，我是泰伊！希望你能喜歡宇宙冒險！"
+} ]

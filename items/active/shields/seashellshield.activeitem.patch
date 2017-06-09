@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "敵人將像浪花一樣在你面前粉碎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貝殼護盾"
+} ]

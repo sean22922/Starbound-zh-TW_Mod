@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個翼之骨灰盒，據說是攜帶死者走向來世的物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼之骨灰盒"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有著翅膀的骨灰盒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些骨灰盒是給那些在戰場中死亡的翼族的。骨灰盒的本意是帶著死者走向來世"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶翅膀的盒子。盒子不會飛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這些翅膀一定意味著一些宗教思想"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為這是翼之骨灰盒。充滿了骨灰"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我好奇這些翅膀要把死者帶到哪裡去"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "翅膀的墳墓。他這是要飛去哪？"
+} ]

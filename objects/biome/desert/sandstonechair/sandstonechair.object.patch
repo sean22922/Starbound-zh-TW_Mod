@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張砂岩椅。易碎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "砂岩椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把粗糙的砂石椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子粗糙的摩擦著羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族動一下，椅子就開始碎裂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "評論。如果兩個人坐在這張椅子上，沙石可能會碎"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "坐在這裡的話，會弄得全身都是沙子！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把粗糙的砂岩椅子。讓皮膚感到很粗糙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這上面坐太久的話，背都會坐麻的"
+} ]

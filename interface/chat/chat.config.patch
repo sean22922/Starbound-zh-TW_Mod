@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/say/value",
+  "value" : "說："
+}, {
+  "op" : "replace",
+  "path" : "/gui/filterGroup/buttons/0/text",
+  "value" : "全部"
+}, {
+  "op" : "replace",
+  "path" : "/gui/filterGroup/buttons/1/text",
+  "value" : "玩家"
+}, {
+  "op" : "replace",
+  "path" : "/gui/filterGroup/buttons/2/text",
+  "value" : "日誌"
+} ]

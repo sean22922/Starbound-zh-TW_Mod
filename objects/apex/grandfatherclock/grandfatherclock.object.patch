@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我不知道鐘錶還可以在現代看到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古董鐘錶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "所有的猿人時鐘都是由廣播自動對時的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人是靠影子的方向來辨別時間的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人還在用日出日落來判斷時間"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。時間精度達到一微秒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這種鐘錶的聲音既可以是不吉利的，也可能是安撫人心的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "節拍器的聲音最適合冥想了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "滴答滴答。想不聽都不行"
+} ]

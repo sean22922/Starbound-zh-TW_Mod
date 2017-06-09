@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : " 地質商人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 售賣建築材料！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "友善狀。你想來點石頭嗎？我有很多！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "沮喪狀。沒人想買我的石頭……但或許你願意？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "渴望狀。或許你對我的石頭有興趣？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "愉悅狀。你真要來我的商店？太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/1",
+  "value" : "激動狀。你真的想買石頭？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/2",
+  "value" : "歡迎狀。現在你來了，你想來買點石頭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "絕望狀。歡迎下次光臨。我需要更多顧客！"
+} ]

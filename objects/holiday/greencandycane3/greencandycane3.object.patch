@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝飾著綠色的糖果手杖。是彎的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彎曲的糖果手杖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我真的很想吃了它。這是真的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來完全可以吃嘛！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太甜甜甜了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "飢餓。我打賭這個糖果手杖是薄荷味的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是真的糖果手杖。我要試著吃上一吃嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用糖來當裝飾？從來沒聽說過"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "為什麼要用糖果做裝飾？"
+} ]

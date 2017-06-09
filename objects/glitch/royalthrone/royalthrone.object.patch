@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "給皇室屁股坐的皇室寶座"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇家寶座"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "巨大的黃金寶座"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "皇室似乎都喜歡讓自己身邊金光閃閃"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的金屬椅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。一把王座，帝王氣勢盡顯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "皇室寶座。使用金子和緞子的手藝真好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "焦點就是浮華與富饒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這把王座真的氣勢非凡"
+} ]

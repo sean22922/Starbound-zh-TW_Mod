@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用尖銳的獠牙裝扮的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型遠古櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "葉族人櫥櫃中有什麼？我很擔心尋找到的結果"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個櫃子上的要麼是牙齒，要麼就是尖銳的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用獠牙裝飾這個櫃子，越尖銳越好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚嚇。這個櫃子上的獠牙特別尖銳"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個櫃子有獠牙"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "櫃子上裝飾著可憐生物的獠牙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "葉族人的確很喜歡尖銳的傢俱"
+} ]

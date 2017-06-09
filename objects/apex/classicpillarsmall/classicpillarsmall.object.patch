@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為了展示最好的東西，或支撐最小的建築物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小柱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這柱子本身就是一件藝術品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這樣的石雕可以媲美翼族人的技術"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人欣、欣賞這、這樣的技術"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感激：這樣的工藝能夠媲美電子人的石匠"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用來展示一些珍貴的物品"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "先進的石匠技術。猿人擁有很多技巧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個好看的石製架子。用來炫耀不錯"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鈦礦主要能在溫和恆星周圍的行星上找到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鈦錠"
+} ]

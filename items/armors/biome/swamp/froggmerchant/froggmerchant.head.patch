@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個面具讓你的頭保持溼潤"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蛙族頭"
+} ]

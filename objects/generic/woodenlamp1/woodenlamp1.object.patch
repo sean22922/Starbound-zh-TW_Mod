@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可愛的木製檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套木質迷你燈具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個電力供能的小木架燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可愛的燈照射出溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興，一盞簡單的桌燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一套漂亮的迷你燈具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一套迷人的燈具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈真可愛"
+} ]

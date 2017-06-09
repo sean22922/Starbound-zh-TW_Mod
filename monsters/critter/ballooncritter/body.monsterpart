@@ -1,9 +1,0 @@
-{
-  "name" : "ballooncritter",
-  "category" : "ballooncritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

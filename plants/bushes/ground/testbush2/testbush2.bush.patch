@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "變黑的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "變黑的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "灌灌木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。變黑的灌木"
+} ]

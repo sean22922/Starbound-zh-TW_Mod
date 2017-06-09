@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一式三套電視螢幕，朝向不同"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "USCM電視螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一系列的螢幕，無聊"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一堆螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "屏——幕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊，一堆螢幕而已"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "螢幕一堆，沒說什麼具體的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一式三套電視螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "螢幕都不顯示了"
+} ]

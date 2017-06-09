@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者學會的一條保護者牆飾橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者牆飾橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一條黃色的保護者橫幅。妙極了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "宛如豔陽般明亮。這顏色完美代表了保護者"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黃色的保護者橫幅讓葉族人感到很開嘶……心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲狀。標誌性的保護者橫幅。作為它的一部分我感到十分榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一條巨大明亮的保護者橫幅！真希望我的宿舍裡也能有一條"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "保護者橫幅代表了太多太多。對於我們所有人這意義重大"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我喜歡保護者橫幅的明亮顏色"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以一次性使用來挖掘化石，成功率中等"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高級化石刷"
+} ]

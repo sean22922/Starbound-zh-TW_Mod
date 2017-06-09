@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞發光的幾何圖形燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幾何圖形燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很棒的光源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞有用的燈能照亮哪怕是最黑暗的房間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈光對葉族人很安全嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅狀。一盞耐用的燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞簡潔而堅固的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一處有用的光源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈可能會超級有用"
+} ]

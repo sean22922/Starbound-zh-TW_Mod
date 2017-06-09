@@ -1,9 +1,0 @@
-{
-  "name" : "smallgeodecritter",
-  "category" : "smallgeodecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

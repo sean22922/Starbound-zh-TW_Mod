@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "禮物！用綠色的花紙和金色絲帶包裝著！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色禮物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "禮物！是給我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我很好奇這是給誰的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人想要禮物！刺刺進所有東西！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。他的內容很吸引我"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "禮物！禮物！包裝紙！耶！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是令人愉悅的包裝著的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "包裝上肯定下了功夫"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "洗手間隔間。別堵在裡面！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洗手間隔間"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "普通的洗手間隔間"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "洗手間隔間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡躲在隔間縫隙裡面看人們走來走起！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。洗手間隔間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "捉迷藏的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粗糙的洗手間隔間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "該你走時，你就得走"
+} ]

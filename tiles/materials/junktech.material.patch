@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "垃圾科技"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒用的垃圾金屬，大多都是過時科技的殘留物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這堆廢物當中有各種各樣的科技產物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "科技廢物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一堆舊科技產物雜揉成磚塊"
+} ]

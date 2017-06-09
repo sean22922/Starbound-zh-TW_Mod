@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個開關會輸出上輸入開啓時所記憶的下輸入狀態"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Latch開關"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個開關會輸出上輸入開啓時所記憶的下輸入狀態"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "面無表情。這個開關會輸出上輸入開啓時所記憶的下輸入狀態"
+} ]

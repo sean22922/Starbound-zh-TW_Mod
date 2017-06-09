@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "頭戴長角的戰鬥頭盔的一位駝族"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "駝族守衛真實頭盔"
+} ]

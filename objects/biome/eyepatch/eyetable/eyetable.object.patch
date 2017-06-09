@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種眼型的桌子。對穿裙子的人不太好"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼球之桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不喜歡會研究我的雙腳的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在這裡吃東西會讓人覺得非常緊張"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族坐、坐在桌子下面用眼睛分、分肉吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這隻眼球似乎能讓桌子轉動，也許是為了轉菜給別人吃？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個令人毛骨悚然的桌子適合出現在萬聖節聚會中"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張過度裝飾的桌子。除了眼睛什麼都沒有。工匠肯定有點失算"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些眼睛比我肚子都大"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "這是套裝，我發誓"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "你喜歡我的套裝嗎？這很是……我的風格"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "這套裝可不尋常……說實話"
+} ]

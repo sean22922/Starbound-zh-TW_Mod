@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "埃克斯歐督姆毒刺"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個已成化石的埃克斯歐督姆毒刺"
+} ]

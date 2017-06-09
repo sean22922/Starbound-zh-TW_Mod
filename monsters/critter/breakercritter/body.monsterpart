@@ -1,9 +1,0 @@
-{
-  "name" : "breakercritter",
-  "category" : "breakercritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "貌似某人過了一個痛苦的夜晚啊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骯髒的馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我們猿族已經習慣了像這樣的恐怖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我還是去別的地方吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "座位發臭！噁心！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。我真是無語"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒有什麼是漂白粉和一些凝固汽油搞不定的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我一生中都沒有見過這麼荒唐無視基本衛生的情況"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒人喜歡打掃乾淨，但這也太說不過去了"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/0",
+  "value" : "哈哈，戰五渣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/1",
+  "value" : "你的對手我可不是好對付的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/2",
+  "value" : "我賭五毛你會掉落很多像素！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/3",
+  "value" : "你真是送羊入虎口！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/4",
+  "value" : "戰鬥？好極了！我快無聊死了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/5",
+  "value" : "我不是針對你，我只是喜歡攻擊人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/6",
+  "value" : "驚訝吧，準備身體被捅出無數個洞吧！"
+} ]

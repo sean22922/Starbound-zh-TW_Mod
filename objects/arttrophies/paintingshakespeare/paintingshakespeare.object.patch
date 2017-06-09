@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "關於一個早已逝世的著名世俗詩人的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "著名的詩人畫像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很偉大的猿人詩人非常相似"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個莊嚴的人類。他穿著一件羽毛大衣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不會記錄每個人，葉族人相信我是人人，人人是我"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這件人類的衣服會被機器人所接受的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我好奇這個傢夥死了多久了……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這傢夥幹了什麼大事兒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個有領子花邊的光頭"
+} ]

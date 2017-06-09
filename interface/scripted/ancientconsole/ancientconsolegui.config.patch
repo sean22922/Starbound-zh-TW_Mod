@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "古代大門操作檯"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "需要熔核碎片來啟動"
+}, {
+  "op" : "replace",
+  "path" : "/gui/costDescription/value",
+  "value" : "需要碎片"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "內部發出亮光的釣餌，夜釣專用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "照明釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/lureName",
+  "value" : "照明釣餌"
+} ]

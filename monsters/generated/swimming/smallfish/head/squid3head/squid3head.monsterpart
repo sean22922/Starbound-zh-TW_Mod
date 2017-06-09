@@ -1,9 +1,0 @@
-{
-  "name" : "squid3head",
-  "category" : "fish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "squid3head.png"
-  }
-}

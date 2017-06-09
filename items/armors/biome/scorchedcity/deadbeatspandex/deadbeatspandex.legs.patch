@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "耐穿的緊身氨綸褲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "緊身褲"
+} ]

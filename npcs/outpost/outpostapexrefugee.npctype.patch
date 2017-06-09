@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你好，星際旅者！這裡永遠歡迎友善的面孔"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "你好，星際旅者！這裡永遠歡迎友善的面孔"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/0",
+  "value" : "在這裡我們就都擺脫迷你克諾格了！"
+} ]

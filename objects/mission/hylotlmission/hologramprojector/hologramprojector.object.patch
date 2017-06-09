@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台全息通信的老式投影儀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "全息投影儀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個老設備是用來在短距離下傳送全息圖的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個設備一旦啟動，就可以跨空間傳輸運動的圖像。超讚！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬有時候能顯示出動圖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很棒。這個設備能短距離傳輸全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這東西曾經是用來短距離傳輸酷炫的藍色全息圖的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族工程技術使得圖書館員工能短距離交流"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這塊金屬似乎不怎麼有反應"
+} ]

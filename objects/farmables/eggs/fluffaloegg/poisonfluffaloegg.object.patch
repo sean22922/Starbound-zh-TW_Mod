@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出脆弱的毒液浮盧法羅幼崽——長大之後成為毒液的良好來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒液浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個\"毒浮盧法羅蛋\"。但無論是蛋還是蛋裡面的浮盧法羅都不會毒到你"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一個毒浮盧法羅蛋。毒浮盧法羅比他們聽上去要友好的多"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "非常大的毒浮盧法羅蛋中有一個小小的毒浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我希望這個小毒浮盧法羅能儘快孵化"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個有毒的蛋！等等……一個毒浮盧法羅蛋，這樣就好多了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個異常明亮的蛋會孵化成一個毒浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個毒浮盧法羅蛋，但是沒有毒，裡面只是有個小生物而已"
+} ]

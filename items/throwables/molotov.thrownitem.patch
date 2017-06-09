@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燃燒彈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個瓶子裡的液體極度易燃"
+} ]

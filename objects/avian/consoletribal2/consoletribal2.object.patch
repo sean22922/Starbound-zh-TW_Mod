@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個基座上刻有蛋圖案的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻蛋圖案的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "神祕的控制台，上面還刻著蛋的圖案，這是什麼意思？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳統的控制台用晶體振動來進行交流"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人有很多奇怪的科技。葉族人不能理解"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。這些晶體裡面好像有能量，不過我不太清楚"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些翼族控制面板太奇怪了，你要把它插到哪去？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "翼族科技又美觀又實用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在想如果我按下其中一個按鈕會怎樣？"
+} ]

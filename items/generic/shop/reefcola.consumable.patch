@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "暗礁飲料，海洋的味道"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗礁飲料"
+} ]

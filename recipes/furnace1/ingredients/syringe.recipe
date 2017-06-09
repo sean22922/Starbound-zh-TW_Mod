@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "glass", "count" : 2 },
-    { "item" : "ironbar", "count" : 1 }
-  ],
-  "output" : { "item" : "syringe", "count" : 1 },
-  "groups" : [ "craftingfurnace", "ingredients", "all" ]
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "nautileech",
-  "category" : "nautileech",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "nautileech.png"
-  }
-}

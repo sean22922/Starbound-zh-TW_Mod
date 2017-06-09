@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻古老的木箱，現在仍然很結實"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻古老的箱子。看起來很結實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個很硬木製的有鎖箱子。裡面會有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在在找堅固固的箱箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。機器人一般都會把武器存放進這樣的木箱。這裡面會有嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這隻箱子簡直就像是從童話故事裡出來的一般"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個堅固的箱子。很適合保存鋒利的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "城堡裡可能會出現的那種箱子"
+} ]

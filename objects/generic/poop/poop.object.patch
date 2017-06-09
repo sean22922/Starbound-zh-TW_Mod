@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "噁心的糞堆。臭氣薰天！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "糞便"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "排泄物，這裡怎麼會有這個？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我還是別靠太近了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好難聞"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "堅決。生物體太噁心了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "請告訴我這不是真的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然規律的一部分"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "對這種東西沒什麼好說的"
+} ]

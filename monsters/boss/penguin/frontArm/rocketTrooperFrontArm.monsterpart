@@ -1,9 +1,0 @@
-{
-  "name" : "frontArm",
-  "category" : "penguinrockettrooper",
-  "type" : "frontArm",
-
-  "frames" : {
-    "frontArm" : "frontArm.png"
-  }
-}

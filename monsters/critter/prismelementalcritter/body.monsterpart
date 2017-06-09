@@ -1,9 +1,0 @@
-{
-  "name" : "prismelementalcritter",
-  "category" : "prismelementalcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在顯微鏡下，任何東西看上去都要恐怖多了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "顯微鏡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些是猿人的細胞嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人也有相似的設備，能從遠處觀察"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "美味的新鮮細胞"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷地。這個裝置下的細胞很久前就死了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不知道我在看的是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡的猿人細胞和人類的細胞非常相似"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個專為看清細小東西設計的設備"
+} ]

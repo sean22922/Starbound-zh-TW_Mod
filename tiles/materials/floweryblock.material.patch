@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葉和花做的芳香花束"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "花塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這花的位置很討喜"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些花看起來很健康"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很好看的花"
+} ]

@@ -1,0 +1,169 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發明家的小桌用來製造各種工作站"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;發明家的小桌^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "放滿手藝人工具的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個展示製作才能的好機會"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用、用桌子做好東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "創造的機會"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "發明家的小桌用來製造各種工作站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;發明家的小桌^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "放滿手藝人工具的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "一個展示製作才能的好機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用、用桌子做好東西"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "創造的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "創造者的桌"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "^#b9b5b2;創新站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "工程師桌子用來製造各種各樣的打造站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;工程師桌子 ^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "放滿手藝人工具的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "一個展示製作才能的好機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用、用桌子做好東西"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "創造的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "工程師桌子 "
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "發明站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/description",
+  "value" : "建築師桌子用來製造各種各樣的打造站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/shortdescription",
+  "value" : "^orange;建築師桌子 ^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/apexDescription",
+  "value" : "放滿手藝人工具的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/avianDescription",
+  "value" : "一個展示製作才能的好機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用、用桌子做好東西"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/humanDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+  "value" : "創造的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+  "value" : "我可以用在這找到的材料製作新的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "建築師桌子 "
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "發明站"
+} ]

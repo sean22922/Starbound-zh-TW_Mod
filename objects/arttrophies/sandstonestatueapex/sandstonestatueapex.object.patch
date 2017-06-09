@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座電子人雕像。栩栩如生"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電子人砂石雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個猿人看起來很面熟。我覺得她是一名前摔角選手"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個猿人塑像。供奉著猿人哲學家"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石、石頭做的猿人不太好吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人沉思。一個堅實的石頭猿人。一幅恰到好處的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個很棒的猿人塑像。這個猿人看起來很堅強"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個草草雕刻而成的猿人石像。這種粗糙正好和他們的外表相搭配"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一幅看起來很兇的猿人雕像"
+} ]

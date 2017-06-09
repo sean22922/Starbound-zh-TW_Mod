@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "切割成磚塊狀的冰塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "佩服。這個冰塊的切割十分講究"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "平滑的冰磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些切成磚塊式樣的冰塊"
+} ]

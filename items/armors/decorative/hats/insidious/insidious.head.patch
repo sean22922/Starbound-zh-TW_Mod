@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個非常嚇人的歌舞伎面具。掩飾了穿戴者的面具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "潛伏面具"
+} ]

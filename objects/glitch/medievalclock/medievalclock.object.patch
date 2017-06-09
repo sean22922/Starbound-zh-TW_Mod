@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個帶鐘擺的鐘。雖然滴滴答答響著，但指針卻不動了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀掛鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻小鐘錶。鐘擺還在左右蕩"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來是看時間的裝置。翼族人都是用太陽看時間的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "滴答，滴答，滴答，滴答"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同情。這個鐘上的時間永遠定格了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很漂亮的一個小擺鐘。鐘擺在動不過時間沒有改變"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個鐘表好像已經壞了，雖然鐘擺還在動……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "鐘的時間沒有變過"
+} ]

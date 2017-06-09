@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "傳統的和服襯衣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "和服"
+} ]

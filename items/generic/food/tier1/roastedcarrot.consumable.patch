@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "燒烤後更美味"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "烤胡蘿蔔"
+} ]

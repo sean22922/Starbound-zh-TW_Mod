@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一組喇叭，人們用它說話可以讓聲音更大"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "喇叭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個揚聲器。猿人家中非常常見"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個設備裂了個口子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "是某、某種聲、聲音裝置嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "測試：這個設備能收到不同頻率的信號"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一組揚聲器。音量可能非常大"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來播放聲音的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡這個揚聲器已經壞掉了"
+} ]

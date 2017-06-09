@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我太久沒有在家烹飪了……或者是有一個家"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通爐子"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "普通爐子"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 好吃，好吃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "爐子，我剛巧在想讓我肚子咕咕叫的料理"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "爐子，可以做美味佳餚"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "做好的肉比生肉好吃多了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "一個普通烤爐。來大吃一頓吧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這爐子聞著有烤雞的味道。真的，我認為是烤雞。好吧可能是任何東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "爐子，專為吃熟食的人準備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個烤爐"
+} ]

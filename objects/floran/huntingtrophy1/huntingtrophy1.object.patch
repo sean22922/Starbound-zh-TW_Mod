@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一粒頭骨被安放在一個圓形牌框中。它的視線隨著你移動……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "圓形裝裱頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一顆掛著的頭顱。很恐怖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一粒頭，也許是狩獵的受害者"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡陳列狩獵的獵物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這粒頭竟然被當成裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看到它我就毛骨悚然"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如此邪惡殺戮的炫耀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不想跟這傢夥落入同樣的下場"
+} ]

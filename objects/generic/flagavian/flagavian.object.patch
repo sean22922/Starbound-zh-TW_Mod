@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翼族人旗幟。 用^green;[E] 來標記傳送點"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥人的旗子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一面翼族人旗幟，可以用來作為傳送點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這面翼族人旗幟可以標記為我的飛船的傳送點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人旗幟 可以作為最佳傳送點來使用！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這面翼族人旗幟上有一個小型定位模組，可以讓它作為傳送點來使用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這面翼族人旗幟可以作為傳送點保存在我的傳送器上，這樣我就可以隨時回到這裡了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這面翼族人旗幟可以作為一個標識，讓我可以用傳送器隨時回到這裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以將這面翼族人旗幟標記為快速傳送點"
+} ]

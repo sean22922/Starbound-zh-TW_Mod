@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "已經升起的平台。不要站在它下面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "升起的平台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個大型的豎立木質平台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個木質平台好像很堅固的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個平台是由葉族獵人所打造的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有興趣。這個平台到底有何作用？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "從地面拔起的一個木質平台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "建造這個平台的葉族人明顯不是專業匠人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是某個用木材打造的平台"
+} ]

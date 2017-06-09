@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶護面的保護頭盔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "礦工頭盔"
+} ]

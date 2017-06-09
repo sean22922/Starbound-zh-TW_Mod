@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你渴嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者飲水機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台飲水機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台飲水機。爽呆了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個機器每天都有甘冽的嘶……水！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞狀。這飲水機每天都會裝滿"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好東西老朋友H2O"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "水，生命之源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我能從這裡面直接得到冷水"
+} ]

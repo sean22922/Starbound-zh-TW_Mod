@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大管子"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根大管子，通常用於排污系統"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "噁心。我一點都不想看到曾穿過這個管子的廢物"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "發臭的下水管道"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "骯髒的老舊管道"
+} ]

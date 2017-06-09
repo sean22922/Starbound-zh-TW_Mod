@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "濃密厚實的麵包，裡面塞滿了種子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥嘴豆麵包"
+} ]

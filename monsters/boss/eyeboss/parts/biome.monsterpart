@@ -1,9 +1,0 @@
-{
-  "name" : "eyebossbiome",
-  "category" : "eyeboss",
-  "type" : "biome",
-
-  "frames" : {
-    "biome" : "biome.png"
-  }
-}

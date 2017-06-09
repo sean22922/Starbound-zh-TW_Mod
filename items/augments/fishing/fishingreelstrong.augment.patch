@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "搭配測試過的高磅數釣線，搏魚時不易拉斷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "強韌捲線器"
+}, {
+  "op" : "replace",
+  "path" : "/reelName",
+  "value" : "強韌捲線器"
+} ]

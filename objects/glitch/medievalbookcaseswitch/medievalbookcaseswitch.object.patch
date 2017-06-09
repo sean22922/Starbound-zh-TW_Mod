@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些書裡面有一本不應該在這裡……好像……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀書架開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裡面有些書看起來不太對勁"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "落滿灰塵的書架。其中有些書看起來有些不真實……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "古老且落滿灰塵的書架。那幾本書看起來很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。有些書的放置很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這裡面有些書真不知道有多古老了。那幾本跟別的有些不一樣……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個書架絕對有些不對勁"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我有種預感，這些書絕對有不對勁的地方"
+} ]

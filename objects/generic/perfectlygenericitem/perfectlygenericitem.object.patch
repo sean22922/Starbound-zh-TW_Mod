@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一個完美的普通物品，可能過於完美了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "完美普通物品"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個物體有點意思"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從來沒見過一個如此對稱的物體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "完全立方真是太不自然了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。一個完全沒有任何物理瑕疵的物體"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個完美的方形立方體有什麼特別的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個立方體詮釋了完美的幾何圖形"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒什麼好說的，完美太沒意思了！"
+} ]

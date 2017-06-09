@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些標誌在回到家後很常見"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "誰授權寫這個標記的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想去哪就去哪。愚蠢的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失控：我不再接受命令"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "謝謝建議！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我想是時候注意了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我還是不進去了。還是進去……?"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "別這樣做！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "禁止進入標誌"
+} ]

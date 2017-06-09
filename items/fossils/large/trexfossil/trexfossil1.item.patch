@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "霸王龍骷髏頭"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個已成化石的霸王龍骷髏頭"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "霸王龍骨骼"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤上寫著\"一種來自地球的恐龍，被過度熱情的科學家散播到宇宙各個行星。\""
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "展示鮫人盔甲的架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫族盔甲展示架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鮫族人常會這樣展示自己的盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "令人佩服的鯨族工藝展覽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "特別展覽上的閃亮盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很不錯。這個看台展示了精心製作的盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去很不錯的鯨族盔甲，讓我想去了古老地球時期的盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們以我們的工藝為傲，並且把類似這樣的盔甲拿出來展示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盔甲挺不錯的……要多少錢才能買到呢"
+} ]

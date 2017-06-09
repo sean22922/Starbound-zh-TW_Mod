@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "天然的熔岩球體"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "天然的熔岩球體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燃燒的熱熱液體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。天然的熔岩球體"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這樣的羽翼會被賜給能夠和庫魯克斯交流的觀星信徒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "觀星信徒祭司之翼"
+} ]

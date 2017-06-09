@@ -1,9 +1,0 @@
-{
-  "name" : "backArm",
-  "category" : "penguingeneral",
-  "type" : "backArm",
-
-  "frames" : {
-    "backArm" : "backArm.png"
-  }
-}

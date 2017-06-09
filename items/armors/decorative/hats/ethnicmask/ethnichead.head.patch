@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大的，預兆面具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "部落面具"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個大鍋爐，大到可以放進去一個人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈大鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看來是一個壞主意，但是我不會介意坐在上面的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我在想我坐在上面太久會不會被拖去煮？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不想被燉成湯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我想問。要讓這生鏽的話要坐多久才行？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "坐在這裡就像有人給你瘙癢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "聞上去很奇怪，但坐上去很舒適"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這浴缸感覺略小"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "眼檸檬塞滿半個蛋芽，葉族聚居地很流行的餐前點心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼球碗"
+} ]

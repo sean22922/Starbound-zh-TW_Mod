@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個基板讓家更完美了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典底板"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。機器人地下城可不常見到基板"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "花哨的牆板"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些花哨的牆外型"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張鵝卵石鋪成的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張硬牀，我睡過更糟的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個堅固的點可以築巢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張石牀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "惱怒，睡這裡感覺背上都能刮下一層油漆"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這牀看起來不太舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粗糙的牀會帶來惡夢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "石頭做的牀，真不幸"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻灰獅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一隻灰獅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "如火的植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一隻灰獅子"
+} ]

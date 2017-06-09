@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "使生存包發出強光的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "照明III增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "照明III"
+} ]

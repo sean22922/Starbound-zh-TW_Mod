@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有駕駛飛鷹級飛船資格"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "飛鷹執照"
+} ]

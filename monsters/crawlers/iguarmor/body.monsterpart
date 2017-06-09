@@ -1,9 +1,0 @@
-{
-  "name" : "iguarmor",
-  "category" : "iguarmor",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "iguarmor.png"
-  }
-}

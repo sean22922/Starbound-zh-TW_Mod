@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "猿流感？貌似很嚴重……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿流感宣傳海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿流感毀掉了猿人群體。奇怪的是掌權的人沒有生病的。有傳言那是一個實驗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人會的猿流感嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "瘋狂的猿流感，葉族人會吃了你"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自信：猿流感不會得猿留給那"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望人類不會的猿流感"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "遭受著疾病的痛苦。猿人需要我們的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我沒那麼想要抓住那個"
+} ]

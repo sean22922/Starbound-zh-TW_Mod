@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "超光速修復工具"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用這個你就可以徹底修復你飛船上的超光速引擎"
+}, {
+  "op" : "replace",
+  "path" : "/unlockMessage",
+  "value" : "真棒！超光速引擎再一次準備啓航。我們終於可以離開這個銀河系了！"
+} ]

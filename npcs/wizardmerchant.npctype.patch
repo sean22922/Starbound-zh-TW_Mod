@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "  法師"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "  出售強大的魔法"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "歡迎來到我的奇蹟商店"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "有什麼你喜歡的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "我能為你做些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/0",
+  "value" : "我找到了迷你克諾格想獵殺的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/1",
+  "value" : "你肯定不是迷你克諾格吧？很好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/2",
+  "value" : "這裡不僅僅有香蕉哦……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/3",
+  "value" : "不如來點神奇的東西？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/0",
+  "value" : "也許是庫魯克斯賜福了我的存貨……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/1",
+  "value" : "我出售的某些物品能讓觀星信徒都驚呆"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/2",
+  "value" : "來瀏覽我的神奇物品吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/0",
+  "value" : "葉族出售神奇物品了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/1",
+  "value" : "葉族擁有最好的商品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/2",
+  "value" : "葉族的產品價廉物美！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/0",
+  "value" : "誘人。旅者，來看看我賣的物品吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/1",
+  "value" : "鬼祟。暫時只有齒輪和裝備哦，年輕人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/2",
+  "value" : "著急。我的商品非常驚人和奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/0",
+  "value" : "歡迎，請瀏覽我的商品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/1",
+  "value" : "有什麼能幫到你嗎？我有很多驚人的產品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/2",
+  "value" : "你一定會對我的產品很滿意的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "再見，旅行者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "日後多多光臨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "願勇氣與你常在！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/0",
+  "value" : "熱誠。再見，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/1",
+  "value" : "歡樂。以後多多光臨啊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/2",
+  "value" : "和藹。願勇氣與你同在！"
+} ]

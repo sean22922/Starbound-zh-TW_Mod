@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "奇怪的自然植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇怪的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人不確定這是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一種未知的自然構造"
+} ]

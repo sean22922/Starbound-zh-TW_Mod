@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "地球保護者組織所有成員的標準制服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護地襯衫"
+} ]

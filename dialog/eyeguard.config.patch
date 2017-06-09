@@ -1,0 +1,129 @@
+[ {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "侵略性。又是你！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "觀察性。我們的敵人歸來了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/2",
+  "value" : "威嚇。你回來了！那就受死吧！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/3",
+  "value" : "敵意。我會享受弄死你的！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/4",
+  "value" : "威脅。我又看見了一個活靶子！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "侵略性。我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "觀察性。一個可憐的旅者在逼近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "威嚇。你逃不出我的金睛火眼！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "敵意。你的故事到此為止了，旅者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "惡意。沒有人能夠躲過無所不見的聖戰者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/5",
+  "value" : "敵意。見證自己的末日吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/6",
+  "value" : "惡意。擁抱永久的黑暗吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/7",
+  "value" : "威脅。我看見了新的靶子！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/8",
+  "value" : "生氣。什麼鬼東西跑進了我們的領土？！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/9",
+  "value" : "狂怒。這塊土地是屬於無所不見的聖戰者的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/10",
+  "value" : "敵意。放棄希望吧，你面對的是我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/11",
+  "value" : "侵略性。你會後悔踏入我們的領土的！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "滿意。無所不見的聖戰者再次勝利了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "不滿意。我們必須繼續聖戰！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "深思。又一場勝利，但是還有更多的戰鬥即將來臨"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/3",
+  "value" : "生氣。我要求值得出手的敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/4",
+  "value" : "不滿意。不應該拖這麼久的"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "生氣。他們是如何逃出永恆的凝視的？！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "驚訝。他們是如何躲過我的凝視的？！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "憂鬱。我們的敵人離開了，但一定還會回來的！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "吃驚。他們不在我的視線範圍內嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "泄氣。我們的敵人是懦夫！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "憤怒。我們的敵人是懦夫！不敢光明正大的面對我！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/2",
+  "value" : "生氣。靠近來吧，惡魔！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "憤怒。打倒那個惡魔！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "讚許。無所不見的聖戰者會帶來勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "讚許。我希望見證敵人的毀滅！"
+} ]

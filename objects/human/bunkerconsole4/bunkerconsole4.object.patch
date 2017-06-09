@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這塊螢幕好像全是超級機密數據……無聊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寬屏控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "顯然這顆星球快爆炸了，我想這是誤報吧"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一隊人被派出去尋找一個被詛咒的藝術品。然後再也沒回來。也許是迷路了？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "打獵……聚會……葉族人打獵時也搞聚會啊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關切。似乎這個控制台的上一個用戶瘋了。報警消息有好多"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦，機密信息，看來政府在監視我們！誰知道呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡有一個嚇死人的計劃說是要吸乾這顆星球的海水。還好計劃被否決了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這有些消息，是關於禁止月球漫步的請願的。下一個是洋蔥湯的配方"
+} ]

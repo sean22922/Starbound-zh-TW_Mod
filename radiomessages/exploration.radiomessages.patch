@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/ancientgateway/text",
+  "value" : "像這樣的遠古廢墟在整個宇宙到處都是。我探測到附近有一處空間異常點……也許是某種傳送設備？"
+}, {
+  "op" : "replace",
+  "path" : "/techconsole/text",
+  "value" : "這間房間裡的主機可以重置你已裝備的科技技能。跟它互動以安裝新科技"
+}, {
+  "op" : "replace",
+  "path" : "/biomeradiation/text",
+  "value" : "【警告！該星球的輻射等級極為危險！】\n在沒有合適的防護裝備的情況下不應進行進一步探索！"
+}, {
+  "op" : "replace",
+  "path" : "/biomecold/text",
+  "value" : "【警告！該星球嚴寒徹骨！】\n在沒有合適的防護裝備的情況下不應進行進一步探索！"
+}, {
+  "op" : "replace",
+  "path" : "/biomeheat/text",
+  "value" : "【警告！該星球酷熱難耐！】\n在沒有合適的防護裝備的情況下不應進行進一步探索！"
+}, {
+  "op" : "replace",
+  "path" : "/biomeairless/text",
+  "value" : "這個星體沒有大氣層，所以你會逐漸缺氧。我建議你離開，直到合成了可呼吸的EPP後再重返這裡"
+}, {
+  "op" : "replace",
+  "path" : "/erchiussickness/text",
+  "value" : "我探測到一些受衛星的爾切斯礦藏所吸引而來的存在。你採集越多燃料，它們就越對你有興趣。這些存在的危險等級被定義為\"極度致命\"。我向你的無畏精神致敬"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把強力的權杖會讓持有者變得更強"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯權杖"
+} ]

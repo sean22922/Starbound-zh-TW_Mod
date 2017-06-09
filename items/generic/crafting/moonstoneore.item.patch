@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "月石礦，只能在衛星上找到，常用於FTL引擎的製造"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月石礦"
+} ]

@@ -1,0 +1,745 @@
+[ {
+  "op" : "replace",
+  "path" : "/merchantStart/default/default/0",
+  "value" : "你在找什麼材料？"
+}, {
+  "op" : "replace",
+  "path" : "/merchantStart/default/default/1",
+  "value" : "我有你需要得所有礦石"
+}, {
+  "op" : "replace",
+  "path" : "/merchantStart/default/default/2",
+  "value" : "既然我可以幫助你，為什麼要去地底忙活呢？"
+}, {
+  "op" : "replace",
+  "path" : "/merchantStart/human/default/0",
+  "value" : "你在找什麼材料？"
+}, {
+  "op" : "replace",
+  "path" : "/merchantStart/human/default/1",
+  "value" : "我有你需要得所有礦石"
+}, {
+  "op" : "replace",
+  "path" : "/merchantStart/human/default/2",
+  "value" : "既然我可以幫助你，為什麼要去地底忙活呢？"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/0",
+  "value" : "下次再見！"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/1",
+  "value" : "再來哦"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/2",
+  "value" : "你的像素總是行得通的"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/3",
+  "value" : "很高興和你做生意！"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/4",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/default/default/5",
+  "value" : "歡迎再來"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/0",
+  "value" : "回頭見！"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/1",
+  "value" : "再來哦"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/2",
+  "value" : "你的像素總是行得通的"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/3",
+  "value" : "很高興和你做生意！"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/4",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/merchantEnd/human/default/5",
+  "value" : "歡迎再來"
+}, {
+  "op" : "replace",
+  "path" : "/follow/default/default/0",
+  "value" : "需要材料嗎？這邊請！"
+}, {
+  "op" : "replace",
+  "path" : "/follow/default/default/1",
+  "value" : "快來看看我有什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/follow/human/default/0",
+  "value" : "需要材料嗎？這邊請！"
+}, {
+  "op" : "replace",
+  "path" : "/follow/human/default/1",
+  "value" : "快來看看我有什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/0",
+  "value" : "來看看我有些什麼材料"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/1",
+  "value" : "你在找什麼材料呢？"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/2",
+  "value" : "就是這裡了。有什麼需要幫助的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/human/default/0",
+  "value" : "來看看我有些什麼材料"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/human/default/1",
+  "value" : "你在找什麼材料呢？"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/human/default/2",
+  "value" : "就是這裡了。有什麼需要幫助的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/0",
+  "value" : "我這裡有你需要的一切必要材料！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/1",
+  "value" : "你需要得一切，這裡都有"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/2",
+  "value" : "我這裡有你需要的各種礦石、金屬以及合金！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/3",
+  "value" : "好東西便宜賣咯！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/4",
+  "value" : "你在別處可找不到這些東西！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/5",
+  "value" : "這些稀有材料我都能搞到，你不用去找了！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/0",
+  "value" : "我這裡有你需要的一切必要材料！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/1",
+  "value" : "你需要得一切，這裡都有"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/2",
+  "value" : "我這裡有你需要的各種礦石、金屬以及合金！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/3",
+  "value" : "好東西便宜賣咯！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/4",
+  "value" : "你在別處可找不到這些東西！"
+}, {
+  "op" : "replace",
+  "path" : "/tout/human/default/5",
+  "value" : "這些稀有材料我都能搞到，你不用去找了！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "我要走了！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/1",
+  "value" : "救命！我被襲擊了！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/2",
+  "value" : "我被襲擊了！"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/0",
+  "value" : "救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/0",
+  "value" : "抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/1",
+  "value" : "為我報仇！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/2",
+  "value" : "為我抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/3",
+  "value" : "別讓它們跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "我覺得我得走了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/1",
+  "value" : "喲！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/2",
+  "value" : "好險啊！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/3",
+  "value" : "太驚險了……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "我的家出現了改變，我不喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/0",
+  "value" : "我的店鋪了有東西被偷了？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/1",
+  "value" : "我的貨不是這麼擺的，這不太對……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/2",
+  "value" : "我的店變了，我要怎麼賣東西？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/0",
+  "value" : "你從我的店裡拿東西了？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/1",
+  "value" : "我的店鋪變了，我很不高興！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/2",
+  "value" : "你能幫我把店鋪恢復原狀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/0",
+  "value" : "困惑。我的店鋪變了"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/1",
+  "value" : "不滿。我喜歡店鋪原來的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/2",
+  "value" : "期待。我希望我的店鋪能恢復原狀"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/0",
+  "value" : "我的貨不是這麼擺的"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/1",
+  "value" : "這裡的東西變了"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/2",
+  "value" : "你能幫我把店鋪恢復原狀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/0",
+  "value" : "如果你能幫我把店鋪恢復原狀我將感激不盡"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/1",
+  "value" : "你能幫我把店鋪恢復成原來的佈局嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/2",
+  "value" : "我喜歡我店鋪原來的佈局。你能幫我把它恢復嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/0",
+  "value" : "我的店鋪有點不太對勁……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/1",
+  "value" : "這是我的商店！怎麼能隨便拿東西？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/2",
+  "value" : "我希望我的店鋪能恢復原狀，現在顧客們都不來了……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "我的房子需要修理！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/0",
+  "value" : "你能修好這些牆面嗎？顧客們都被嚇跑了"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/1",
+  "value" : "沒人願意來買東西了！你能幫幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/2",
+  "value" : "我的商店得保持最佳狀態！你能幫我修好它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/0",
+  "value" : "這裡的牆壞了！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/1",
+  "value" : "你能修好我的店鋪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/2",
+  "value" : "我的店鋪需要維修！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/0",
+  "value" : "鬱悶。損壞的店鋪把顧客都趕跑了"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/1",
+  "value" : "擔憂。毀壞的牆面可能會趕走潛在的客戶"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/2",
+  "value" : "艱辛。我需要幫助。你能在事情更糟糕以前把我的店鋪修好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/0",
+  "value" : "我店鋪的損壞讓我很擔心……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/1",
+  "value" : "我店鋪的損壞讓我很擔心……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/2",
+  "value" : "如果你能把我的家修好我將感激不盡"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/3",
+  "value" : "我家裡一面牆好像壞了。你能修好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/0",
+  "value" : "你能幫忙修理我的店鋪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/1",
+  "value" : "我想報告我店鋪的損壞"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/2",
+  "value" : "毫無疑問，我店鋪的損壞趕跑了我的顧客"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/0",
+  "value" : "我的店鋪損壞了。這讓我很不高興"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/1",
+  "value" : "你覺得我的店鋪有什麼奇怪的地方嗎？我覺得它好像損壞了……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/2",
+  "value" : "我發現這道牆壁破損了，也許你能幫忙修復它？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "我還以為這是我的家！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/0",
+  "value" : "這裡不是我的地盤嗎？我不會分享我的店鋪！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/1",
+  "value" : "你想讓別人搬進我的店鋪？！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/2",
+  "value" : "你為什麼在這裡放多一張牀？！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/0",
+  "value" : "別人不能搬進來！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/1",
+  "value" : "為什麼有人想搬進我的店鋪？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/2",
+  "value" : "我不會和別人分享我的店鋪！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/0",
+  "value" : "震驚。你想讓別的商人在我的店裡做生意？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/1",
+  "value" : "困惑。怎麼會有人想要搬進來？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/2",
+  "value" : "難過。我以為這個商店是我獨有的"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/0",
+  "value" : "為什麼有人想搬進我的店鋪？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/1",
+  "value" : "你在出租我的店鋪？這其中肯定有什麼誤會……"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/2",
+  "value" : "我的店鋪被出租了——肯定不是故意的"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/0",
+  "value" : "這裡怎麼還有一份租賃契約？我應該獨自享有這間店鋪的！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/1",
+  "value" : "這間屋子不是給我的嗎？為什麼要租給別人？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/2",
+  "value" : "我以為這間屋子是我一個人的。太令人不安了"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/0",
+  "value" : "我的競爭對手要搬進我的商店？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/1",
+  "value" : "我的商店裡有另一份租賃契約，我怎麼能冷靜？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/2",
+  "value" : "你要把我的店租給別人？肯定搞錯了"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "這樣我不能買東西！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/0",
+  "value" : "這樣我不能買東西！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/1",
+  "value" : "這樣的工作條件我無法接受……"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/2",
+  "value" : "這樣出售我的產品太困難了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/0",
+  "value" : "我不能這樣做生意！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/1",
+  "value" : "這裡的條件不太好！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/2",
+  "value" : "你還沒有維修我的店鋪！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/0",
+  "value" : "煩躁。我想做買賣，但是在這樣的條件下太困難了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/1",
+  "value" : "泄氣。希望你能聽從我的請求"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/2",
+  "value" : "鬱悶。還沒人來維修我的店鋪"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/0",
+  "value" : "這太過分了。我對這種條件很不滿"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/1",
+  "value" : "我不想在這樣的條件下工作"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/2",
+  "value" : "我的店鋪怎麼變成這樣了？！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/0",
+  "value" : "我的改進要求還沒有收到回覆……"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/1",
+  "value" : "這間商店不是我剛搬進來的樣子了……"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/2",
+  "value" : "我的商店的狀況太糟糕了，我覺得我被忽視了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/0",
+  "value" : "我努力在保持冷靜，但是我的要求得到答覆前我很難冷靜"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/1",
+  "value" : "我無法接受這間店鋪現在的狀況"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/2",
+  "value" : "我無法在這麼糟糕的商店裡工作……"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/0",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/1",
+  "value" : "就這樣吧，我放棄了。是時候去別的地方做生意了"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/2",
+  "value" : "我放棄了，我要去別的地方賣貨！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/0",
+  "value" : "這種狀況已經持續很久了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/1",
+  "value" : "我要去別的地方做買賣！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/2",
+  "value" : "這太不專業了，我要去別的星球做買賣！"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/0",
+  "value" : "放棄。是時候找一間更好地商店買東西了"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/1",
+  "value" : "憤怒。我應該在更好的商店裡做買賣"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/2",
+  "value" : "難過。是時候去別的地方賣東西了"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/0",
+  "value" : "我這樣的商人應該有更好的商店。我受夠了"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/1",
+  "value" : "是時候找間更好的商店了"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/2",
+  "value" : "這間商店不是我剛搬進來的樣子了。是時候找一間別的店鋪了"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/0",
+  "value" : "我搬到這裡來是為了更好的生活，但我不能再這樣工作了"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/1",
+  "value" : "我應該得到比這更好地工作條件！"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/2",
+  "value" : "要離開我很難過，但是我的投訴被無視了"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/0",
+  "value" : "是時候離開了，這間店鋪無法滿足我的標準"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/1",
+  "value" : "我很希望這間商店能好一點，但是並沒有"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/2",
+  "value" : "也許我應該去別的商店賣我的產品了"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "我回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/0",
+  "value" : "你叫我？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/1",
+  "value" : "你要買點什麼嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/2",
+  "value" : "嗨！你想買東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/0",
+  "value" : "你要賣我點東西？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/1",
+  "value" : "你需要買什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/2",
+  "value" : "你那時在找葉族人？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/0",
+  "value" : "疑惑。你是想買，還是要賣？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/1",
+  "value" : "友好。你想聊聊天，還是要買點東西？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/2",
+  "value" : "禮貌。你只是來打招呼的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/0",
+  "value" : "你想交易嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/1",
+  "value" : "你好，朋友！願庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/2",
+  "value" : "很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/0",
+  "value" : "你想和我做生意嗎？也許你想買點東西？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/1",
+  "value" : "你需要我的幫助？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/2",
+  "value" : "你好。你有什麼要買的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/0",
+  "value" : "你想討論什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/1",
+  "value" : "你要和我交易麼，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/2",
+  "value" : "你需要看看我的貨嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "這份禮物是為了答謝你對我商店的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/0",
+  "value" : "我覺得你會喜歡這個，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/1",
+  "value" : "這份禮物是為了答謝你對我商店的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/2",
+  "value" : "拿著這個，希望你能再次光臨"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/0",
+  "value" : "這是為你準備的一份禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/1",
+  "value" : "這是我為你挑選的！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/2",
+  "value" : "感謝你對我店鋪的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/0",
+  "value" : "感謝。這份禮物是為了答謝你對我生意的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/1",
+  "value" : "感激。我有一份禮物，感謝你對我店鋪的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/2",
+  "value" : "期待。希望你喜歡我為你挑選的禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/0",
+  "value" : "這份禮物是為了答謝你對我的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/1",
+  "value" : "我給你帶了一份禮物"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/2",
+  "value" : "希望這份禮物能讓你高興"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/0",
+  "value" : "請收下這份禮物，是對你的幫助的感謝"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/1",
+  "value" : "我有一份禮物，感謝你對我生意的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/2",
+  "value" : "感謝你對我生意的幫助，請收下這個"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/0",
+  "value" : "我的店鋪棒極了。這份禮物是為了感謝你的所作所為"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/1",
+  "value" : "請收下這份禮物，作為我對你幫助的感謝"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/2",
+  "value" : "小小薄禮，以表感激"
+} ]

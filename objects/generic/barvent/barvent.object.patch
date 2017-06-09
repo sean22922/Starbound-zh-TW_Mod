@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被柵欄擋住的小通風口"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "用柵欄擋住的通風口"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個制式的排風口"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "排風口，我能感到微風拂過我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "是排風口！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "收到，是一個排風口"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "像是一個通風口"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "非常簡陋但很結實的排風管道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "非常結實的排風管道"
+} ]

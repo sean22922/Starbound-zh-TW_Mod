@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "凍土"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這土凍的很硬"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "細心。這土凍的很結實"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "摸起來很涼的凍土"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這凍土真涼"
+} ]

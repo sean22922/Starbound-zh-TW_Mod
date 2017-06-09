@@ -1,0 +1,2045 @@
+[ {
+  "op" : "replace",
+  "path" : "/test/name",
+  "value" : "測試地點"
+}, {
+  "op" : "replace",
+  "path" : "/garden/archway/name",
+  "value" : "老拱門之頂"
+}, {
+  "op" : "replace",
+  "path" : "/garden/archway1/name",
+  "value" : "廢墟之塔"
+}, {
+  "op" : "replace",
+  "path" : "/garden/archway2/name",
+  "value" : "破敗之塔"
+}, {
+  "op" : "replace",
+  "path" : "/garden/gardenbridge1/name",
+  "value" : "橋梁"
+}, {
+  "op" : "replace",
+  "path" : "/garden/gardenbridge2/name",
+  "value" : "大型橋"
+}, {
+  "op" : "replace",
+  "path" : "/garden/gardenhouseruin1/name",
+  "value" : "老房子廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/garden/grave1/name",
+  "value" : "孤獨墳墓"
+}, {
+  "op" : "replace",
+  "path" : "/garden/grave2/name",
+  "value" : "孤寂墳墓"
+}, {
+  "op" : "replace",
+  "path" : "/garden/graveyard/name",
+  "value" : "墓地"
+}, {
+  "op" : "replace",
+  "path" : "/garden/graveyardflowers/name",
+  "value" : "華麗墓地"
+}, {
+  "op" : "replace",
+  "path" : "/garden/littlecave1/name",
+  "value" : "小型山洞營地"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumburiedruin/name",
+  "value" : "掩埋廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumgardenruin1/name",
+  "value" : "殘壁"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumgardenruincamp/name",
+  "value" : "廢墟營地"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumgardenruinplain/name",
+  "value" : "一堆瓦礫"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumgardenruintall/name",
+  "value" : "全毀建築"
+}, {
+  "op" : "replace",
+  "path" : "/garden/mediumruin/name",
+  "value" : "落葉瓦礫塚"
+}, {
+  "op" : "replace",
+  "path" : "/garden/smallcamp/name",
+  "value" : "營地"
+}, {
+  "op" : "replace",
+  "path" : "/garden/smallpile/name",
+  "value" : "小型土堆"
+}, {
+  "op" : "replace",
+  "path" : "/garden/smallstonehouse/name",
+  "value" : "古老石頭建築"
+}, {
+  "op" : "replace",
+  "path" : "/garden/smalltower/name",
+  "value" : "古老高塔"
+}, {
+  "op" : "replace",
+  "path" : "/garden/smalltower2/name",
+  "value" : "古塔"
+}, {
+  "op" : "replace",
+  "path" : "/garden/tunnelsmall1/name",
+  "value" : "廢墟地下室"
+}, {
+  "op" : "replace",
+  "path" : "/garden/wall1/name",
+  "value" : "古城牆"
+}, {
+  "op" : "replace",
+  "path" : "/garden/wall2/name",
+  "value" : "殘壁"
+}, {
+  "op" : "replace",
+  "path" : "/garden/wall3/name",
+  "value" : "殘壁"
+}, {
+  "op" : "replace",
+  "path" : "/garden/well1/name",
+  "value" : "井"
+}, {
+  "op" : "replace",
+  "path" : "/garden/well1-bottom/name",
+  "value" : "井底"
+}, {
+  "op" : "replace",
+  "path" : "/garden/well3/name",
+  "value" : "井"
+}, {
+  "op" : "replace",
+  "path" : "/alien/tunnel1/name",
+  "value" : "小型隧道"
+}, {
+  "op" : "replace",
+  "path" : "/alien/lab1/name",
+  "value" : "實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/alien/lab2/name",
+  "value" : "實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/alien/lab3/name",
+  "value" : "實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/alien/lab4/name",
+  "value" : "實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/alien/lab5/name",
+  "value" : "實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/alien/podium/name",
+  "value" : "講台"
+}, {
+  "op" : "replace",
+  "path" : "/alien/crater/name",
+  "value" : "火山口"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/house1/name",
+  "value" : "石板屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/house2/name",
+  "value" : "石板屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse1/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse2/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse3/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse4/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse5/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse6/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse7/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse8/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse9/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/cliffhouse10/name",
+  "value" : "崖壁小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/storagehut1/name",
+  "value" : "儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/storagehut2/name",
+  "value" : "儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/alpine/tunnel1/name",
+  "value" : "石板隧道"
+}, {
+  "op" : "replace",
+  "path" : "/bioluminescence/cave1/name",
+  "value" : "小型山洞"
+}, {
+  "op" : "replace",
+  "path" : "/bioluminescence/tunnel1/name",
+  "value" : "小型隧道"
+}, {
+  "op" : "replace",
+  "path" : "/bioluminescence/pond1/name",
+  "value" : "池塘"
+}, {
+  "op" : "replace",
+  "path" : "/bioluminescence/spire1/name",
+  "value" : "藍色尖塔"
+}, {
+  "op" : "replace",
+  "path" : "/bioluminescence/spire2/name",
+  "value" : "黃色尖塔"
+}, {
+  "op" : "replace",
+  "path" : "/bones/fort1/name",
+  "value" : "小型堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/bones/fort2/name",
+  "value" : "大型堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/bones/grinder/name",
+  "value" : "碎骨頭堆"
+}, {
+  "op" : "replace",
+  "path" : "/bones/house1/name",
+  "value" : "廢棄小屋"
+}, {
+  "op" : "replace",
+  "path" : "/bones/storage1/name",
+  "value" : "儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/bones/storage2/name",
+  "value" : "儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/bones/storage3/name",
+  "value" : "高儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/bones/storage4/name",
+  "value" : "儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/bones/tunnel1/name",
+  "value" : "木隧道"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/tunnel1/name",
+  "value" : "山丘隧道"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/tunnel2/name",
+  "value" : "大型開隧道"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/tunnel3/name",
+  "value" : "石塊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/tunnel4/name",
+  "value" : "小型隧道"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/pond1/name",
+  "value" : "石塊池塘"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/pond2/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/colourful/mound1/name",
+  "value" : "山底下的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/dark/cave1/name",
+  "value" : "洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/dark/crater1/name",
+  "value" : "小型火山口"
+}, {
+  "op" : "replace",
+  "path" : "/dark/cliff1/name",
+  "value" : "崖邊階梯"
+}, {
+  "op" : "replace",
+  "path" : "/dark/cliff2/name",
+  "value" : "崖邊階梯"
+}, {
+  "op" : "replace",
+  "path" : "/dark/ruins1/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/ruins2/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/ruins3/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/ruins4/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/ruins5/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/altar1/name",
+  "value" : "小型祭壇"
+}, {
+  "op" : "replace",
+  "path" : "/dark/hill1/name",
+  "value" : "高廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/tower1/name",
+  "value" : "參天廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/tower2/name",
+  "value" : "野地廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/tower3/name",
+  "value" : "分斷廢墟塔"
+}, {
+  "op" : "replace",
+  "path" : "/dark/tower4/name",
+  "value" : "高大廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/platform1/name",
+  "value" : "小型廢墟平台"
+}, {
+  "op" : "replace",
+  "path" : "/dark/platform2/name",
+  "value" : "古老平台"
+}, {
+  "op" : "replace",
+  "path" : "/dark/platform3/name",
+  "value" : "古老平台上的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/dark/smallruin1/name",
+  "value" : "小型廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/smallruin2/name",
+  "value" : "小型廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/smallruin3/name",
+  "value" : "小型廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/spire/name",
+  "value" : "古老廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/dark/buried1/name",
+  "value" : "掩埋廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/desert/arch1/name",
+  "value" : "古老石拱門"
+}, {
+  "op" : "replace",
+  "path" : "/desert/arch2/name",
+  "value" : "古老石拱門"
+}, {
+  "op" : "replace",
+  "path" : "/desert/arch3/name",
+  "value" : "古老石垣"
+}, {
+  "op" : "replace",
+  "path" : "/desert/arch4/name",
+  "value" : "砂岩廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/desert/column1/name",
+  "value" : "古老石柱"
+}, {
+  "op" : "replace",
+  "path" : "/desert/column2/name",
+  "value" : "古老砂岩柱"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house1/name",
+  "value" : "小型木屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house2/name",
+  "value" : "凸起木小屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house3/name",
+  "value" : "小型木屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house4/name",
+  "value" : "大型木屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house5/name",
+  "value" : "傾斜木屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/house6/name",
+  "value" : "砂岩屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/pyramid1/name",
+  "value" : "小型金字塔"
+}, {
+  "op" : "replace",
+  "path" : "/desert/well1/name",
+  "value" : "古老砂岩井"
+}, {
+  "op" : "replace",
+  "path" : "/desert/well2/name",
+  "value" : "古老砂岩井"
+}, {
+  "op" : "replace",
+  "path" : "/desert/well3/name",
+  "value" : "古老砂岩井"
+}, {
+  "op" : "replace",
+  "path" : "/desert/oldhouse1/name",
+  "value" : "廢棄砂岩屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/oldhouse2/name",
+  "value" : "廢棄砂岩屋"
+}, {
+  "op" : "replace",
+  "path" : "/desert/oldhouse3/name",
+  "value" : "廢棄砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/arch1/name",
+  "value" : "小型拱門"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/tunnel1/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/mound1/name",
+  "value" : "通道穿過的山丘"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/mound2/name",
+  "value" : "通道穿過的山丘"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/tower1/name",
+  "value" : "守望塔"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/tower2/name",
+  "value" : "守望塔"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/tower3/name",
+  "value" : "古老守望亭"
+}, {
+  "op" : "replace",
+  "path" : "/eyepatch/lab1/name",
+  "value" : "研究實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/flesh/tunnel1/name",
+  "value" : "小型空洞山崗"
+}, {
+  "op" : "replace",
+  "path" : "/flesh/cave1/name",
+  "value" : "血肉洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/flesh/pit1/name",
+  "value" : "小型血肉溝渠"
+}, {
+  "op" : "replace",
+  "path" : "/flesh/clearing1/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/forest/clearing1/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/forest/clearing2/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/forest/clearing3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/forest/cottage1/name",
+  "value" : "木製山寨"
+}, {
+  "op" : "replace",
+  "path" : "/forest/well1/name",
+  "value" : "古老石井"
+}, {
+  "op" : "replace",
+  "path" : "/forest/well2/name",
+  "value" : "古老石井"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut1/name",
+  "value" : "小型石製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut2/name",
+  "value" : "小型石製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut3/name",
+  "value" : "高石屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut4/name",
+  "value" : "小型木製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut5/name",
+  "value" : "古老木廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut6/name",
+  "value" : "木製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/hut7/name",
+  "value" : "古老木廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond1/name",
+  "value" : "小型石塊池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond2/name",
+  "value" : "小型石塊池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond3/name",
+  "value" : "表淺池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond4/name",
+  "value" : "表淺池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond5/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond6/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond7/name",
+  "value" : "小型淹水廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond8/name",
+  "value" : "表淺池塘"
+}, {
+  "op" : "replace",
+  "path" : "/forest/pond9/name",
+  "value" : "小型池塘廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin1/name",
+  "value" : "小型殘壁"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin2/name",
+  "value" : "廢墟石橋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin3/name",
+  "value" : "凸起石平台"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin4/name",
+  "value" : "小型石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin5/name",
+  "value" : "廢棄木小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin6/name",
+  "value" : "落葉小屋"
+}, {
+  "op" : "replace",
+  "path" : "/forest/ruin7/name",
+  "value" : "小型石塊廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside1/name",
+  "value" : "崖邊熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside2/name",
+  "value" : "崖邊熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside3/name",
+  "value" : "崖邊電梯井"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside4/name",
+  "value" : "崖邊電梯井"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside5/name",
+  "value" : "崖邊電梯井"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside6/name",
+  "value" : "小型崖邊洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/cliffside7/name",
+  "value" : "崖邊電梯井"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/clearing1/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/clearing2/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/clearing3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/clearing4/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/factory1/name",
+  "value" : "小型工業平台"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/factory2/name",
+  "value" : "凸起工業平台"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/factory3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/foundry/factory4/name",
+  "value" : "高工業塔樓"
+}, {
+  "op" : "replace",
+  "path" : "/geode/crater1/name",
+  "value" : "一對小火山口"
+}, {
+  "op" : "replace",
+  "path" : "/geode/crater2/name",
+  "value" : "結晶溝渠"
+}, {
+  "op" : "replace",
+  "path" : "/geode/crater3/name",
+  "value" : "結晶溝渠"
+}, {
+  "op" : "replace",
+  "path" : "/geode/cave1/name",
+  "value" : "野地洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/geode/cave2/name",
+  "value" : "凸起洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/geode/cave3/name",
+  "value" : "小型空洞洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing1/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing2/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing4/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing5/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/clearing6/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/geode/spire1/name",
+  "value" : "尖水晶塔"
+}, {
+  "op" : "replace",
+  "path" : "/geode/spire2/name",
+  "value" : "多刺結晶山丘"
+}, {
+  "op" : "replace",
+  "path" : "/geode/hill1/name",
+  "value" : "小型山丘"
+}, {
+  "op" : "replace",
+  "path" : "/geode/hill2/name",
+  "value" : "小型山丘"
+}, {
+  "op" : "replace",
+  "path" : "/geode/hill3/name",
+  "value" : "山底下的小洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/geode/hill4/name",
+  "value" : "山底下的小洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/geode/cave/name",
+  "value" : "野地洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/bridge1/name",
+  "value" : "小型木製橋"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/hut1/name",
+  "value" : "掩埋木小屋"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/pond1/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/rocky1/name",
+  "value" : "石塊露頭"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/rocky2/name",
+  "value" : "淹水石露頭"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/rocky3/name",
+  "value" : "一對石柱"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/rocky4/name",
+  "value" : "石塊淺洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/rocky5/name",
+  "value" : "一對小石露頭"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/hill4/name",
+  "value" : "山底下的小洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/cliff1/name",
+  "value" : "小型懸崖"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/cliff2/name",
+  "value" : "小型懸崖"
+}, {
+  "op" : "replace",
+  "path" : "/giantflowers/tower1/name",
+  "value" : "木製瞭望台"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cliff1/name",
+  "value" : "崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cliff2/name",
+  "value" : "小型崖邊洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cliff3/name",
+  "value" : "小型崖邊洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cliff4/name",
+  "value" : "小型崖邊洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cliff5/name",
+  "value" : "崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/hive/pit1/name",
+  "value" : "小型坑"
+}, {
+  "op" : "replace",
+  "path" : "/hive/pit2/name",
+  "value" : "表淺封閉隧道"
+}, {
+  "op" : "replace",
+  "path" : "/hive/pit3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/hive/clearing1/name",
+  "value" : "小型凸起空地"
+}, {
+  "op" : "replace",
+  "path" : "/hive/clearing2/name",
+  "value" : "凹陷空地"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cave1/name",
+  "value" : "小型洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/hive/cave2/name",
+  "value" : "大型鏤空塚"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/hut1/name",
+  "value" : "廢棄木小屋"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/hut2/name",
+  "value" : "古老崖邊路徑"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/hut3/name",
+  "value" : "古老崖邊洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tunnel1/name",
+  "value" : "古老崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tunnel2/name",
+  "value" : "枝繁葉茂的崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tunnel3/name",
+  "value" : "枝繁葉茂的崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tunnel4/name",
+  "value" : "廢棄崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tunnel5/name",
+  "value" : "小型隧道"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/bridge1/name",
+  "value" : "小型枝條橋"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform1/name",
+  "value" : "一對木平台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform2/name",
+  "value" : "一組古老木平台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform3/name",
+  "value" : "古老木平台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform4/name",
+  "value" : "有古老木平台的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform5/name",
+  "value" : "一組古老木平台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/platform6/name",
+  "value" : "小型凸起平台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/cave1/name",
+  "value" : "枝繁葉茂的小拱洞"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/cave2/name",
+  "value" : "枝繁葉茂的小拱洞"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/pond1/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/pond2/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tower1/name",
+  "value" : "枝繁葉茂的木瞭望台"
+}, {
+  "op" : "replace",
+  "path" : "/jungle/tower2/name",
+  "value" : "高木製瞭望台"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/bridge1/name",
+  "value" : "小型木製橋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut1/name",
+  "value" : "小型砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut2/name",
+  "value" : "小型砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut3/name",
+  "value" : "高砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut4/name",
+  "value" : "廢棄木儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut5/name",
+  "value" : "小型砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut6/name",
+  "value" : "井邊的砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut7/name",
+  "value" : "井邊的砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hut8/name",
+  "value" : "木製守望亭"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/hutpond1/name",
+  "value" : "小型池塘邊的木製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/pond1/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/pond2/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/oasis/ruin1/name",
+  "value" : "凹陷砂岩小屋"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/column1/name",
+  "value" : "一對小柱"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/cave1/name",
+  "value" : "小型裂縫"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin1/name",
+  "value" : "小型石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin2/name",
+  "value" : "小型船艦殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin3/name",
+  "value" : "木製破敗小屋"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin4/name",
+  "value" : "一堆石瓦礫"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin5/name",
+  "value" : "凹陷石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin6/name",
+  "value" : "石塊廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ruin7/name",
+  "value" : "石瓦礫"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ship1/name",
+  "value" : "木製船艦殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/ocean/ditch1/name",
+  "value" : "石塊溝渠"
+}, {
+  "op" : "replace",
+  "path" : "/prism/cave1/name",
+  "value" : "洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/prism/cave2/name",
+  "value" : "小型突出崖"
+}, {
+  "op" : "replace",
+  "path" : "/prism/cave3/name",
+  "value" : "短鏤空洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/prism/clearing1/name",
+  "value" : "小型淹水空地"
+}, {
+  "op" : "replace",
+  "path" : "/prism/clearing2/name",
+  "value" : "小型突出崖下的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/prism/hill1/name",
+  "value" : "小型山丘"
+}, {
+  "op" : "replace",
+  "path" : "/prism/hill2/name",
+  "value" : "短尖山丘"
+}, {
+  "op" : "replace",
+  "path" : "/prism/pond1/name",
+  "value" : "表淺池塘"
+}, {
+  "op" : "replace",
+  "path" : "/prism/temple1/name",
+  "value" : "華麗道路"
+}, {
+  "op" : "replace",
+  "path" : "/prism/temple2/name",
+  "value" : "鋪砌空地"
+}, {
+  "op" : "replace",
+  "path" : "/prism/temple3/name",
+  "value" : "華麗寺廟"
+}, {
+  "op" : "replace",
+  "path" : "/prism/tunnel1/name",
+  "value" : "長隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/arena1/name",
+  "value" : "木造競技場"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut1/name",
+  "value" : "地下小屋入口"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut2/name",
+  "value" : "廢棄地下小屋"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut3/name",
+  "value" : "狹窄洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut4/name",
+  "value" : "古老山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut5/name",
+  "value" : "山寨廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut6/name",
+  "value" : "高山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut7/name",
+  "value" : "小型山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut8/name",
+  "value" : "凸起山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut9/name",
+  "value" : "一對凸起山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut10/name",
+  "value" : "一組蒙塵的古老山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut11/name",
+  "value" : "一組蒙塵的古老山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut12/name",
+  "value" : "一組蒙塵的小山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut13/name",
+  "value" : "隧道上的小山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut14/name",
+  "value" : "高山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut15/name",
+  "value" : "高山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut16/name",
+  "value" : "高廢棄山寨下的空地"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut17/name",
+  "value" : "高廢棄山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hut18/name",
+  "value" : "小型木製屏障"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/house1/name",
+  "value" : "一組蒙塵的古老山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/house2/name",
+  "value" : "老屋"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/house3/name",
+  "value" : "蒙塵的凸屋子"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/house4/name",
+  "value" : "小型木製通道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/hutwithwell1/name",
+  "value" : "井邊的山寨"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/tunnel1/name",
+  "value" : "山寨下的木製隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/tunnel2/name",
+  "value" : "低木隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/tunnel3/name",
+  "value" : "低木隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/tunnel4/name",
+  "value" : "山丘裡的木隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/camp1/name",
+  "value" : "小型營地"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/camp2/name",
+  "value" : "小型營地"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/platform1/name",
+  "value" : "木製平台"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/platform2/name",
+  "value" : "一組木平台"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/bunker1/name",
+  "value" : "掩體後的防衛塔"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/bunker2/name",
+  "value" : "地下掩體"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/bunker3/name",
+  "value" : "地下掩體的最底層"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/cliffside1/name",
+  "value" : "蒙塵的崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/cliffside2/name",
+  "value" : "蒙塵的崖邊隧道"
+}, {
+  "op" : "replace",
+  "path" : "/savannah/pond1/name",
+  "value" : "池上小橋"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/house1/name",
+  "value" : "小型廢墟建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/house2/name",
+  "value" : "小型廢墟建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/shelter1/name",
+  "value" : "古老地下庇護"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/shelter2/name",
+  "value" : "古老地下庇護"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform1/name",
+  "value" : "破敗的金屬路"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform2/name",
+  "value" : "有倒塌金屬橋的礦坑"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform3/name",
+  "value" : "一堆廢鐵旁的平台"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform4/name",
+  "value" : "一堆廢鐵旁的平台"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform5/name",
+  "value" : "一堆廢鐵旁的凹陷平台"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform6/name",
+  "value" : "一堆廢鐵旁的平台"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/platform7/name",
+  "value" : "小型堆廢鐵旁的平台"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/clearing1/name",
+  "value" : "有金屬瓦礫的空地"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/clearing2/name",
+  "value" : "覆蓋瓦礫的金屬路"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building1/name",
+  "value" : "生鏽廢棄建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building2/name",
+  "value" : "廢棄建築的頂樓"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building3/name",
+  "value" : "生鏽廢棄建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building4/name",
+  "value" : "廢棄建築的頂樓"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building5/name",
+  "value" : "古老生鏽建築頂部"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building6/name",
+  "value" : "廢棄建築的頂樓"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building7/name",
+  "value" : "生鏽廢棄建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building8/name",
+  "value" : "生鏽廢棄建築"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/building9/name",
+  "value" : "小型建築的外殼"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/pile1/name",
+  "value" : "一大堆廢金屬"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/pile2/name",
+  "value" : "一堆廢金屬"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/pile3/name",
+  "value" : "一堆廢金屬"
+}, {
+  "op" : "replace",
+  "path" : "/scorchedcity/pile4/name",
+  "value" : "一堆廢金屬"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building1/name",
+  "value" : "蘑菇地下道"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building2/name",
+  "value" : "蘑菇地下道"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building3/name",
+  "value" : "蘑菇地下道"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building4/name",
+  "value" : "蘑菇儲藏小屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building5/name",
+  "value" : "蘑菇小屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/building6/name",
+  "value" : "蘑菇小屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house1/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house2/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house3/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house4/name",
+  "value" : "小型蘑菇茅屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house5/name",
+  "value" : "小型蘑菇茅屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house6/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house7/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house8/name",
+  "value" : "蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house9/name",
+  "value" : "小型蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house10/name",
+  "value" : "小型蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/house11/name",
+  "value" : "小型蘑菇屋"
+}, {
+  "op" : "replace",
+  "path" : "/shroom/ruin1/name",
+  "value" : "枝繁葉茂的木廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/snow/lake1/name",
+  "value" : "小型冰凍池塘"
+}, {
+  "op" : "replace",
+  "path" : "/snow/lake2/name",
+  "value" : "小型冰凍池塘"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave1/name",
+  "value" : "小型覆雪壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave2/name",
+  "value" : "小型覆雪壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave3/name",
+  "value" : "小型覆雪壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave4/name",
+  "value" : "小型覆雪壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave5/name",
+  "value" : "小型冰凍穴"
+}, {
+  "op" : "replace",
+  "path" : "/snow/cave6/name",
+  "value" : "小型冰隧道"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house1/name",
+  "value" : "小型廢棄木條屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house2/name",
+  "value" : "蓬亂木條屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house3/name",
+  "value" : "冰小屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house4/name",
+  "value" : "冰小屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house5/name",
+  "value" : "小型廢棄木條屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/house6/name",
+  "value" : "小型廢棄木條屋"
+}, {
+  "op" : "replace",
+  "path" : "/snow/lab1/name",
+  "value" : "小型研究實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/snow/beacon/name",
+  "value" : "金屬燈塔"
+}, {
+  "op" : "replace",
+  "path" : "/snow/well1/name",
+  "value" : "小型冰井"
+}, {
+  "op" : "replace",
+  "path" : "/spring/column1/name",
+  "value" : "一組小石柱"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool1/name",
+  "value" : "內有石柱的小池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool2/name",
+  "value" : "小型池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool3/name",
+  "value" : "內有石柱的小池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool4/name",
+  "value" : "內有高石柱的小池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool5/name",
+  "value" : "內有石柱的小池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/pool6/name",
+  "value" : "有二石柱的池塘"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin1/name",
+  "value" : "枝繁葉茂的石廢墟頂部"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin2/name",
+  "value" : "淹水石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin3/name",
+  "value" : "淹水石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin4/name",
+  "value" : "淹水石廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin5/name",
+  "value" : "淹水倒塌的廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin6/name",
+  "value" : "殘壁旁的空地"
+}, {
+  "op" : "replace",
+  "path" : "/spring/ruin7/name",
+  "value" : "淹水木廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/spring/clearing1/name",
+  "value" : "有小石柱的廢墟空地"
+}, {
+  "op" : "replace",
+  "path" : "/spring/well1/name",
+  "value" : "古老井"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building1/name",
+  "value" : "淹水木屏障"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building2/name",
+  "value" : "空的磚屋"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building3/name",
+  "value" : "空磚屋的頂樓"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building4/name",
+  "value" : "大型磚建築"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building5/name",
+  "value" : "小型磚塊小屋"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/building6/name",
+  "value" : "一對木小屋"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/cliffside1/name",
+  "value" : "崖邊水池"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/cliffside2/name",
+  "value" : "崖邊水池"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/cliffside3/name",
+  "value" : "崖邊水池"
+}, {
+  "op" : "replace",
+  "path" : "/steamspring/cave1/name",
+  "value" : "有管道穿過的淹水壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut1/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut2/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut3/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut4/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut5/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut6/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut7/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut8/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/hut9/name",
+  "value" : "沼澤中的蓬屋"
+}, {
+  "op" : "replace",
+  "path" : "/swamp/platform1/name",
+  "value" : "小型木製平台"
+}, {
+  "op" : "replace",
+  "path" : "/tarpits/hut1/name",
+  "value" : "小型木製小屋"
+}, {
+  "op" : "replace",
+  "path" : "/tarpits/hut2/name",
+  "value" : "小型棚屋"
+}, {
+  "op" : "replace",
+  "path" : "/tarpits/cave1/name",
+  "value" : "洞穴入口"
+}, {
+  "op" : "replace",
+  "path" : "/tarpits/clearing1/name",
+  "value" : "淹水廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/tarpits/camp1/name",
+  "value" : "小型營地"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/industrial1/name",
+  "value" : "工業哨站"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/industrial2/name",
+  "value" : "工業平台"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/industrial3/name",
+  "value" : "小型工業筒倉"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/industrial4/name",
+  "value" : "工業哨站"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/tunnel1/name",
+  "value" : "突出崖下的金屬隧道"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/tunnel2/name",
+  "value" : "小型山丘下的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/tunnel3/name",
+  "value" : "毒坑下的金屬隧道"
+}, {
+  "op" : "replace",
+  "path" : "/toxic/platform1/name",
+  "value" : "毒坑上的銅製平台"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/cave1/name",
+  "value" : "野地的鏤空洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/cave2/name",
+  "value" : "小型開放洞窟"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/cave3/name",
+  "value" : "管路旁的毒溝"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/cave4/name",
+  "value" : "突出崖下的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/cave5/name",
+  "value" : "管路旁的毒溝"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/pipes1/name",
+  "value" : "一組綠管道"
+}, {
+  "op" : "replace",
+  "path" : "/toxicoceanfloor/pipes2/name",
+  "value" : "一組綠管道"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building1/name",
+  "value" : "小型金屬站"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building2/name",
+  "value" : "金屬站"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building3/name",
+  "value" : "蓬亂金屬屏障"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building4/name",
+  "value" : "小型地下掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building5/name",
+  "value" : "倒塌掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building6/name",
+  "value" : "小型地下掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building7/name",
+  "value" : "小型前哨"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building8/name",
+  "value" : "小型金屬哨站"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building9/name",
+  "value" : "大型地下掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building10/name",
+  "value" : "小型掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building11/name",
+  "value" : "高金屬哨站"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building12/name",
+  "value" : "地下掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building13/name",
+  "value" : "地下金屬掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building14/name",
+  "value" : "地下金屬掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building15/name",
+  "value" : "小型金屬掩體"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/building16/name",
+  "value" : "高金屬哨站"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/platform1/name",
+  "value" : "工業平台"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/platform2/name",
+  "value" : "工業平台"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/hill1/name",
+  "value" : "小型山丘頂部"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/cave1/name",
+  "value" : "山底下的營地"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/cave2/name",
+  "value" : "冰壁龕裡的庇護"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/cave3/name",
+  "value" : "小型冰凍洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/cave4/name",
+  "value" : "山底下的小隧道"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/graveyard1/name",
+  "value" : "古老墓地"
+}, {
+  "op" : "replace",
+  "path" : "/tundra/igloo1/name",
+  "value" : "小型雪屋"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/cave1/name",
+  "value" : "表淺地下洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/cave2/name",
+  "value" : "隧道穿過的山丘"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/cave3/name",
+  "value" : "小型火山裡的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/cave4/name",
+  "value" : "小型火山上的隧道"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/clearing1/name",
+  "value" : "小型火山旁"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/clearing2/name",
+  "value" : "突出崖下的壁龕"
+}, {
+  "op" : "replace",
+  "path" : "/volcanic/clearing3/name",
+  "value" : "小型空地"
+}, {
+  "op" : "replace",
+  "path" : "/naturalcave/entrance/name",
+  "value" : "古老礦井入口"
+}, {
+  "op" : "replace",
+  "path" : "/naturalcave/depths/name",
+  "value" : "古老礦井深處"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/lab1/name",
+  "value" : "迷你克諾格實驗室入口"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/lab2/name",
+  "value" : "迷你克諾格實驗室入口"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/underground1/name",
+  "value" : "迷你克諾格實驗室下的設施"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/underground2/name",
+  "value" : "迷你克諾格實驗室下的設施"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/underground3/name",
+  "value" : "迷你克諾格實驗室下的設施"
+}, {
+  "op" : "replace",
+  "path" : "/apextestfacility/underground4/name",
+  "value" : "迷你克諾格實驗室下的設施"
+}, {
+  "op" : "replace",
+  "path" : "/apexbase/entrance1/name",
+  "value" : "迷你克諾格基地大廳"
+}, {
+  "op" : "replace",
+  "path" : "/apexbase/room1/name",
+  "value" : "迷你克諾格實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/apexbase/room2/name",
+  "value" : "迷你克諾格實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/apexbase/room3/name",
+  "value" : "迷你克諾格實驗室"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/room1/name",
+  "value" : "電子人堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/room2/name",
+  "value" : "電子人堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/room3/name",
+  "value" : "電子人堡壘中的大棋牌室"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/room4/name",
+  "value" : "電子人堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/entrance1/name",
+  "value" : "通往電子人堡壘的左閘道"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/entrance2/name",
+  "value" : "通往電子人堡壘的右閘道"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/bridge1/name",
+  "value" : "電子人堡壘中的高木橋"
+}, {
+  "op" : "replace",
+  "path" : "/evilfortress/top1/name",
+  "value" : "電子人堡壘頂部"
+}, {
+  "op" : "replace",
+  "path" : "/dungeoncrawler/entrance1/name",
+  "value" : "電子人堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/dungeoncrawler/chapel1/name",
+  "value" : "古老電子人地牢中的禮拜堂"
+}, {
+  "op" : "replace",
+  "path" : "/dungeoncrawler/room1/name",
+  "value" : "古老電子人地牢深處"
+}, {
+  "op" : "replace",
+  "path" : "/dungeoncrawler/room2/name",
+  "value" : "古老電子人地牢深處"
+}, {
+  "op" : "replace",
+  "path" : "/dungeoncrawler/room3/name",
+  "value" : "古老電子人地牢深處"
+}, {
+  "op" : "replace",
+  "path" : "/glitchsewer/entrance/name",
+  "value" : "下水道入口"
+}, {
+  "op" : "replace",
+  "path" : "/glitchsewer/depths/name",
+  "value" : "下水道深處"
+}, {
+  "op" : "replace",
+  "path" : "/humanprison/entrance/name",
+  "value" : "監獄入口"
+}, {
+  "op" : "replace",
+  "path" : "/humanprison/courtyard/name",
+  "value" : "監獄庭院"
+}, {
+  "op" : "replace",
+  "path" : "/humanprison/cellblock/name",
+  "value" : "監獄牢房區"
+}, {
+  "op" : "replace",
+  "path" : "/humanprison/cellblockroof/name",
+  "value" : "監獄牢房區的屋頂"
+}, {
+  "op" : "replace",
+  "path" : "/aviantemple/entrance/name",
+  "value" : "翼族神廟入口"
+}, {
+  "op" : "replace",
+  "path" : "/aviantemple/top/name",
+  "value" : "翼族神廟頂部"
+}, {
+  "op" : "replace",
+  "path" : "/aviantemple/grandchamber/name",
+  "value" : "翼族神廟雄偉廳室"
+}, {
+  "op" : "replace",
+  "path" : "/aviantemple/depths/name",
+  "value" : "翼族神廟深處"
+}, {
+  "op" : "replace",
+  "path" : "/aviantomb/entrance/name",
+  "value" : "翼族古墓入口"
+}, {
+  "op" : "replace",
+  "path" : "/aviantomb/depths/name",
+  "value" : "翼族古墓深處"
+}, {
+  "op" : "replace",
+  "path" : "/floranhuntinggrounds/entrance/name",
+  "value" : "葉族狩獵場入口"
+}, {
+  "op" : "replace",
+  "path" : "/floranhuntinggrounds/depths/name",
+  "value" : "葉族狩獵場深處"
+}, {
+  "op" : "replace",
+  "path" : "/florancanyon/entrance1/name",
+  "value" : "枝繁葉茂的山谷入口"
+}, {
+  "op" : "replace",
+  "path" : "/florancanyon/entrance2/name",
+  "value" : "枝繁葉茂的山谷頂部"
+}, {
+  "op" : "replace",
+  "path" : "/florancanyon/depths1/name",
+  "value" : "枝繁葉茂的洞穴深處"
+}, {
+  "op" : "replace",
+  "path" : "/florancanyon/depths2/name",
+  "value" : "枝繁葉茂的洞穴深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/entrance1/name",
+  "value" : "古老鮫族廢墟入口"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/depths1/name",
+  "value" : "古老鮫族廢墟深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/depths2/name",
+  "value" : "古老鮫族廢墟深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/depths3/name",
+  "value" : "古老鮫族廢墟深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/depths4/name",
+  "value" : "古老鮫族廢墟深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcity/depths5/name",
+  "value" : "古老鮫族廢墟深處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcastle/castletop/name",
+  "value" : "廢墟鮫族城堡頂部"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcastle/entrance/name",
+  "value" : "廢墟鮫族城堡入口"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlruinedcastle/rearentrance/name",
+  "value" : "廢墟鮫族城堡後門"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由維奧合金加工並被純淨的日耀石所加固的護脛甲，就像它們的穿戴者一樣強悍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "弱光護脛"
+} ]

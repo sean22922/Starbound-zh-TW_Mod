@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有強大後坐力的重型手槍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鈦合金全自動手槍"
+} ]

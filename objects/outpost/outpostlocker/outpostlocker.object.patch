@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個鎖櫃，不知道是誰的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋金屬鎖櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是誰的鎖櫃？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我想我能不能裝進去"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人好奇裡面裝了啥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平淡。一個鎖櫃。用來鎖東西的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "噢，這讓我想起了高中"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個簡陋不美觀的鎖櫃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是個鎖櫃，有基本功能吧"
+} ]

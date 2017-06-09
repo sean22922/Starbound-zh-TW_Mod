@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "成熟的番茄做成營養豐富的濃湯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "番茄湯"
+} ]

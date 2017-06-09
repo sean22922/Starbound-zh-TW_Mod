@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "地精的家。因為帽子就是家"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "家帽"
+} ]

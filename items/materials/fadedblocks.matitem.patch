@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "軟而褪色的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軟磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "推理。這些褪色的磚塊被時間打磨的非常光滑"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "光滑的褪色磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看起來光滑的磚塊"
+} ]

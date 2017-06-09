@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個乾淨的，色彩明亮的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "球形桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "對迷你克諾格而言太花了，該按它的喜好來"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "光亮是一種申明"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮、光滑、沒有靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "拒絕，我絕對不會在這麼華而不實的東西邊吃飯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來就像一個小孩的玩具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這桌子真的是非常…豔麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一張該死的會發光的桌子"
+} ]

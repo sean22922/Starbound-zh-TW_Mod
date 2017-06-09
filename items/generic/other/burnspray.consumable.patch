@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保護你的身體不受燒傷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "抗燃噴霧"
+} ]

@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "悄悄地裂開，山核桃煙的氣味真是好聞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粗糙的烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "木火烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "粗糙的烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "木火烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可愛的小烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人喜歡用這樣的烤爐煮東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石、石、石頭烤爐烤肉很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有用信息。瓦片可以反射熱量，使得烹飪更快更均勻"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個可愛的烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真迷人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那真是我見過最可愛的小爐子！"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "出人意料的有效"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "昏迷手套"
+} ]

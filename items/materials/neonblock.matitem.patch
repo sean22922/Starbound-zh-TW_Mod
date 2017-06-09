@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "充滿氖氣的染色磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "霓虹塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "著迷。看上去整個磚塊都包含著氖氣"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "充滿鮮豔的氖的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這個磚塊裡面充滿了某種氣體"
+} ]

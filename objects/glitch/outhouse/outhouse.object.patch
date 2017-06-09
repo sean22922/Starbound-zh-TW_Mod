@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "茅房！請享用！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外屋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "廁所：我想我需要去一趟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "破舊的廁所"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡小小的有味味道的房子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反駁：這個建築裡有數不清的新芽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你總是能在音樂節找到這樣的廁所"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "奇怪的廁所"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺這可能不只是一個茅房"
+} ]

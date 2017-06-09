@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "耀滴魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的身體沒有血肉——完全是由有機粘液所組成"
+} ]

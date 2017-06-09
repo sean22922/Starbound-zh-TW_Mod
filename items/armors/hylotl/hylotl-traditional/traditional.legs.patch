@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "普通的護腿，延展性好且防水"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通褲子"
+} ]

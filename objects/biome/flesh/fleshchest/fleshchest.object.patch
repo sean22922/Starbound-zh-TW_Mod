@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種黏糊的肉質的箱子，用來存放物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "厚實的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個箱子上令人噁心的特性是一種很好的防賊措施"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不太想去打開它"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人捅開箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡：真是一個令人討厭的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "總之，好吧，讓我們將它打開吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個令人不舒服的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "聞起來感覺還是生肉的味道。真噁心"
+} ]

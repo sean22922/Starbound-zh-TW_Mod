@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵能亮的花。就像向日葵，但它不會亮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這真是一個令人高興的燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "當打開它時，這朵花釋放出微弱的亮光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡植物。植物能產生安全的火焰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個光源似乎完全是太陽能的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一朵蘊含著能量的花。恩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞有趣的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "美麗的一盞燈"
+} ]

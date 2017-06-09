@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅前任大保護者的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大保護者肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "前任大保護者看上去年邁而安詳"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "前任大保護者，看上去年邁而慈祥"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以打贏舊日大保護者……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歡迎狀。這位大保護者看上去非常平易近人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這位大保護者看上去過去應該是常喝牛奶吃小餅乾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這位昔日的大保護者看上去十分和藹"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這舊日大保護者肯定連只螞蟻都不願意踩死"
+} ]

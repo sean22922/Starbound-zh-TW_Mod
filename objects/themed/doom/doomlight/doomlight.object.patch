@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "厄運之光。眼睛在黑暗中發光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "厄運燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這眼球散發出一種詭異的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不管我站在屋裡的什麼地方這燈似乎都在跟著我"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人盯——著燈看，燈也盯——著我看"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕狀。這盞燈就像個巨大的眼球"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，酷。一隻巨大的發光眼球"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈的風格很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不喜歡這盞燈看我的方式"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "泥土製作的小而完美的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這些磚塊被仔細的製造並安置過"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "簡單的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好看的磚塊"
+} ]

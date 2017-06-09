@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"以翼族人之神庫魯克斯的形象建造的帶有翅膀的守護者。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯化身小雕像"
+} ]

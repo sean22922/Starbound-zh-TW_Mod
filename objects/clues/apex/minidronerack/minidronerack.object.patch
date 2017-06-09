@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台展示下載自頂端無人機的情報的電腦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷你無人機情報台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這台電腦好像在從迷你克諾格的無人偵察機上下載數據"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這台電腦跟機器無人機相連。我想知道到底找到什麼信息了？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電腦螢幕顯示機器上的東西了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "慫恿。這電腦在顯示跟它相連的小機器人上的信息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這台電腦跟頂上的無人機相連。我想知道是誰製造的，從上面能得到什麼信息？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這台電腦正在接受連接的銀色無人機上接受一些奇怪的信息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我想知道設置這東西是幹嘛用的？"
+} ]

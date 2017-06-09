@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個標誌表示自由流動的空氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人空氣標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "翼族人對空氣的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那是翼族人空氣標誌，我怎麼可能忘記"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些飄動的線標誌著空氣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "長見識。這個標誌應該是翼族人空氣標誌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我猜這個標誌代表空氣或風"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個比較粗糙的方式來表示空氣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來是翼族人對風的雕刻"
+} ]

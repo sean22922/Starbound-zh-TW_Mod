@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牆燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "LED壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一盞運轉良好的壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一個牆燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃閃發光！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起。這面裝了燈的牆很醒目"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞非常標準的壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞壁燈。能工作但是不令人愉悅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "燈沒問題。但是沒我亮！"
+} ]

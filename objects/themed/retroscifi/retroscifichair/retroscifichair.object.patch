@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把復古風格的蛋形椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "舒適而吸引人，品質有保證的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把懸浮椅子。真有趣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對懸浮椅子很懷疑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪，這椅子如何保持平衡的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直想要一把雞蛋外觀的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把懸浮椅子，真新奇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這椅子看起來舒坦，就像坐在一個蛋殼裡面一樣"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用霓磷鹽製成的靴子據說從來不會讓你走錯路。這一點還未被證實"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "孔雀裙子"
+} ]

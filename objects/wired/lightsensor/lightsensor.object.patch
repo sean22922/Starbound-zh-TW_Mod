@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "觸發底部暗光的按鈕和頂部亮光的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "光偵測器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "觸發底部暗光的按鈕和頂部亮光的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "三思。觸發底部暗光的按鈕和頂部亮光的按鈕"
+} ]

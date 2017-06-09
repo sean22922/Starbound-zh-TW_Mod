@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "向附近敵人反射傷害的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "反射傷害"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "反射"
+} ]

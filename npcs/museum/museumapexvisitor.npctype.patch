@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你覺得這些玩意都多老了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "總有一天，人們會記住我們的功績而非我們的強權"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "多少有些可疑的老大猿娃娃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿娃娃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿型狀的娃娃……等等，它的眼睛是攝影機？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "挺好看的一個娃娃，但我覺得它的眼睛其實是攝影機……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族懷疑洋娃娃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。我感覺這個洋娃娃實際上是某種間諜的設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "洋娃娃的眼睛一直在眨……我敢確定那是個間諜設備"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個洋娃娃身上的某種東西讓我感覺很不舒服……我感覺它的眼睛是攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個洋娃娃身上的某種東西真是讓我感覺不舒服"
+} ]

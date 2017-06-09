@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "包含有兩個螺旋條的障礙物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "球形門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這肯定不是一個安全門。如果我再瘦點我可以從邊上擠進去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "它看起來有點薄"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "低矮、糾結的蠢門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "惱火，這門絕對是造型大於功能"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張門一團糟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "只是實用，一點都不好看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看著這門，好像看到了一桶小吃"
+} ]

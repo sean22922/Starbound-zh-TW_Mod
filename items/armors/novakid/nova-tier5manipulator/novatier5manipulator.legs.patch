@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鋸骨者不祥的褲子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋸骨者休閒褲"
+} ]

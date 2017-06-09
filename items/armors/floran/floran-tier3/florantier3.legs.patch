@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "腿甲上蓋滿了樹葉，用於在樹林中偽裝"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遊牧褲"
+} ]

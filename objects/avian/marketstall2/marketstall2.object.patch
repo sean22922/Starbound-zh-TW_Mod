@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個可愛的小攤擺放著漂亮的織物和衣服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "市場衣服攤位"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "各種各樣鮮豔的衣物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人喜歡隨風飄揚的鮮豔衣物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人穿著光亮的服裝容易被發現，在葉族人的叢林裡他們永遠無法存活"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安全。我不懂得這種風格"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如此華美的衣服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這件衣服很漂亮。這些顏色在波浪之下失去了它們的活力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡有些奇特的小東西"
+} ]

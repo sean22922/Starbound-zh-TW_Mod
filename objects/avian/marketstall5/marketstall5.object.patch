@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一間空蕩蕩的大店。這裡的貨物流通肯定相當緩慢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型的空蕩蕩的市場貨攤"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一家空店"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這間店是空的。地底人很難找到貨物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "空的小店"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人失望。這間店是空的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "空蕩蕩的小店看起來總是令人感覺傷感"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這間店需要儲備貨物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一無所有的攤子，沒什麼東西可買"
+} ]

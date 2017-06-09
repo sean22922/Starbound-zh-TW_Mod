@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一個香蕉裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "自從這個椅子被造出來猿人的時尚就開始進化；悲哀，猿人沒有自由"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼一個舒適的椅子。這個猿人的巢穴"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "真噁心！！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不開心。這把椅子礙我的眼"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個抑鬱的扶手椅。但是很舒適！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些粗俗的東西對心靈會有很麼效果？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不漂亮但是很舒服"
+} ]

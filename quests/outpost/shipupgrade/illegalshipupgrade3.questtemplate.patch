@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;魚鷹號飛船升級"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "這艘飛船執照合法毋庸置疑。^green;拜訪企鵝皮特^reset;用^orange;6個升級模組^reset;來升級你的飛船"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "一艘飛船的升級就要好了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "企鵝皮特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/turnInDescription",
+  "value" : "將^orange;升級模組^reset;送給在^orange;哨站^reset;的 ^orange;企鵝皮特^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/conditions/0/description",
+  "value" : "取得^orange;<itemName>^reset;：^green;<current> / <required>^reset;"
+} ]

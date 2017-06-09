@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "啓動"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "艦船受到了損害，你孤獨地飄在太空中。你只能啓動艦船電腦，看能不能發現什麼有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "航行已甦醒！你終於獲得了指引，以及陪伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/wakeSail",
+  "value" : "啓動船舶電腦"
+} ]

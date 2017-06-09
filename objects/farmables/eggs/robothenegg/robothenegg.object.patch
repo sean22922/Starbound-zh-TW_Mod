@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出機械小雞，長大後成為機械母雞。成年母雞會下AA電池"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機械母雞蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這蛋中有個機器人母雞"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是個機器人母雞蛋，當裡面的雞成年後它會生產AA電池"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不能吃機器人母雞蛋……葉族人也不能吃機器人母雞……葉族人很鬱悶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "一個機器人母雞蛋！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一個機器人母雞蛋！我認為機器人小雞仔可能比正常的小雞仔還可愛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個機器人母雞蛋，成年機器人母雞可以生產AA電池"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個蛋裡有一隻機械小雞"
+} ]

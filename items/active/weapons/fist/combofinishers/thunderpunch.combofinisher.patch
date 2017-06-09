@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/comboFinisher/name",
+  "value" : "雷電拳"
+} ]

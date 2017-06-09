@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個架子上沒有什麼有趣的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的空架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個空架子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "堆放物品的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬架子很涼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很失望。什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個空金屬架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "架子看起來很孤單"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "什麼也沒有"
+} ]

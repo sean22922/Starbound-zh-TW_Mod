@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灼眼蛸"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這生物的觸手會從硬殼中伸出來濾食熔岩中的碎屑"
+} ]

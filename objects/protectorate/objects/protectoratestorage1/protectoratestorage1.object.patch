@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一串大型狀態囊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "狀態囊儲存器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "保護者將這些艙發送到宇宙中。它們有時候會失靈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些狀態倉在休眠多年後有時候會失靈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "亮晶晶的艙。好資源，不過有嘶……時候會很危險"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣狀。這些艙被發送到太空並落在最近的世界裡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些艙衝著殖民世界被發送到太空。不過它們有時候會失靈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種自動殖民的方法。探索者常常會發現他們被這些東西\n搶先一步"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "狀態艙強大而優質的收集品。忽略時不時的故障以外還是挺有用！"
+} ]

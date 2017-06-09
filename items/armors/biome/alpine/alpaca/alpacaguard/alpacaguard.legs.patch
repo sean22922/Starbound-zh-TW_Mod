@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "駝族腿部穿的這些毛絨絨的板甲保護性很強！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "駝族真正守衛腿部"
+} ]

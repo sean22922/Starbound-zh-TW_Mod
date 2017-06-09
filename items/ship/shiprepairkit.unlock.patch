@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船隻修復工具"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "並不是很全，但也足以讓你的船保持船型"
+}, {
+  "op" : "replace",
+  "path" : "/unlockMessage",
+  "value" : "好極了！雖然超光速引擎還需要處理一下，但最起碼你可以去到這個星系中的其他行星去"
+} ]

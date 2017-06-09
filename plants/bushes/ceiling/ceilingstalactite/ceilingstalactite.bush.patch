@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小心，是鐘乳石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐘乳石"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "岩石釘"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述，有岩石釘"
+} ]

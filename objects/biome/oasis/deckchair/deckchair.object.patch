@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "休息用的摺疊椅。看起來很能讓人放鬆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "甲板上的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把樸素的椅子很適合癱坐在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子看起來挺舒服的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要靠著休息休息"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "神清氣爽。這把椅子似乎能消融我的憂愁"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這把椅子很適合癱坐進去，好好放鬆一下"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子能讓任何坐上去的人感到放鬆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這把椅子看起來很適合坐上去翹著二郎腿放鬆放鬆"
+} ]

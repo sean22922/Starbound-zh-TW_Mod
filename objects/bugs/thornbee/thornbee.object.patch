@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個易怒的小傢夥有著剃刀般鋒利的翅膀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "尖翅蜂"
+} ]

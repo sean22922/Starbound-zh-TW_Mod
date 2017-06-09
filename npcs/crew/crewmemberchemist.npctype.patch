@@ -1,0 +1,89 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "化學家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "製藥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "我可以給我們加速！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+  "value" : "等上船之後我要給每個人都加加油！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "等我們上船之後，葉族會好好鼓勵鼓勵你的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "友好點。等我們上船，我會好好給你充充電！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+  "value" : "等我們上船，我會好好給你加加油，夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/0",
+  "value" : "我可以加速！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/1",
+  "value" : "讓我幫你吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/2",
+  "value" : "你似乎需要我的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/default/default/3",
+  "value" : "我能幫忙的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/0",
+  "value" : "葉族人可以幫你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/1",
+  "value" : "葉族人可以幫上忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/floran/default/2",
+  "value" : "葉族人可以幫你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/0",
+  "value" : "渴望。我想要幫你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/1",
+  "value" : "興奮。或許你需要強化！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/2",
+  "value" : "感興趣。這能幫上你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/glitch/default/3",
+  "value" : "幫助。這個能幫上你，拿著！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/0",
+  "value" : "看來你需要幫手啊，夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/1",
+  "value" : "你好像需要幫手啊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/2",
+  "value" : "看來你非常需要幫手啊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/combatBenefit/novakid/default/3",
+  "value" : "夥伴，等一下，我來幫你！"
+} ]

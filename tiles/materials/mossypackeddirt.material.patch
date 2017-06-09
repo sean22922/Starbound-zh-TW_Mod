@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長滿苔蘚的泥土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這團泥土上面長滿了苔蘚"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "被苔蘚覆蓋了的泥土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這泥土上面全是苔蘚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "緊密的土，上面布滿了苔蘚"
+} ]

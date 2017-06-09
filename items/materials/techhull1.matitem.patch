@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "電路隱藏在加固的電鍍材料下"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "加固的科技塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "羨慕。這個電鍍層牢牢覆蓋著下面的電線"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人撕開電鍍層，猛切電線"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這漂亮的錶盤下面有一堆電線"
+} ]

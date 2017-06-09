@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個長凳，非常適合戶外使用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "戶外長凳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張簡單的金屬長椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把有三個座位的長椅。看上去很冰涼"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來坐下休息的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這是一個簡單的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把簡單的長椅。看上去很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "當你腿累了你可以在這裡休息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我會在這個長椅上休息一會"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一個古老的路燈。它散發出一點點的溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀路燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "補救的街燈，用木頭和鐵做成"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "從木頭框架掛著的燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "籠子裡發出火光，掛在遠離葉族人的地方"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。路燈很有用。晚上沒有路燈的街道最好不要走"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是木質的街燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人子喜歡掛燈了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來在夜晚照亮街道的燈"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一卷粗藤蔓。看上去很結實"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。看上去這些堅韌的藤蔓生長的時候就交錯在一起了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "藤蔓就像葉族人一樣堅韌成長"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些藤蔓看上去很魁梧"
+} ]

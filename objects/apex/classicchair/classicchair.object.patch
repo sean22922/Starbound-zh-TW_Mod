@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個餐椅適合喜歡魚子醬的人坐"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "昂貴的木材和柔軟的天鵝絨。真實奢侈……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我透過我的羽毛感到了天鵝絨的柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "血紅色的紅天鵝絨，葉族人最喜歡的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "渴望。我們老家的城堡裡也有這樣的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這椅子的材質摸上去感覺很名貴"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這麼名貴的材料……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這椅子對我這種人太華麗了"
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為了你們所有的農業和地球化要求！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特拉集市"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "特拉集市"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "^#b9b5b2;食物，種植和寵物供給"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "賣補給的農業商店。愉快"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "買農業補給的最好的地方，沒有之一"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族可以在這裡買寵物禮物。還有其他的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興，一個很好地買農業補給的地方"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "恐怖集市？我已經在顫顫發抖了。等下，哦，特拉集市。好吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來購買農業補給的地方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我總是想退休後搬到一家農場"
+} ]

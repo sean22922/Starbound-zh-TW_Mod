@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "多可愛的花朵啊！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者組織花朵"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一朵可愛的粉色花。我應該把它撿起來，作為今天的紀念"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是一朵充滿希望與活力的花。我應該把它拿上！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "你好啊小朋友……也許葉族人應該把花收在葉族人的口袋裡！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。我應該把它撿起來，紀念我的畢業日"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你好啊小傢夥。也許我該把你帶上一起，作為畢業的紀念？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "美麗的日子找到的美麗的花。我該把它帶上嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我並不是多愁善感的類型……但我想拿上這朵花，作為今天的紀念"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由樹枝和根製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沼澤箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我對這種箱子的安全性表示懷疑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用天然資源打造的箱子。很美麗"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想要在箱子裡存放東西！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這玩意能存放好多東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "難道用樹枝打造的箱子有特別加成？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子好醜陋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不知道這個箱子能放什麼東西？"
+} ]

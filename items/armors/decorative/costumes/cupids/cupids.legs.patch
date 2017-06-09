@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "丘比特的尿布。一股愛的氣息！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "丘比特的尿布"
+} ]

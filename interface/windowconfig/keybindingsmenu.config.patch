@@ -1,0 +1,245 @@
+[ {
+  "op" : "replace",
+  "path" : "/keyActions/player/0/label",
+  "value" : "上移"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/1/label",
+  "value" : "左移"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/2/label",
+  "value" : "右移"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/3/label",
+  "value" : "蹲避"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/4/label",
+  "value" : "跳躍"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/5/label",
+  "value" : "走/跑及物質操縱器切換"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/6/label",
+  "value" : "互動"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/7/label",
+  "value" : "丟下物品"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/8/label",
+  "value" : "編輯介面"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/9/label",
+  "value" : "啟動頭部科技"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/10/label",
+  "value" : "張口閉口"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/11/label",
+  "value" : "吶喊"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/12/label",
+  "value" : "開心"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/13/label",
+  "value" : "悲傷"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/14/label",
+  "value" : "面無表情"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/15/label",
+  "value" : "笑"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/16/label",
+  "value" : "惱火"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/17/label",
+  "value" : "喔"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/18/label",
+  "value" : "噢"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/19/label",
+  "value" : "眨眼"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/20/label",
+  "value" : "擠眉弄眼"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/21/label",
+  "value" : "吃"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/player/22/label",
+  "value" : "睡"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/0/label",
+  "value" : "改變行動條"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/1/label",
+  "value" : "取消選擇"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/2/label",
+  "value" : "選擇槽1"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/3/label",
+  "value" : "選擇槽2"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/4/label",
+  "value" : "選擇槽3"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/5/label",
+  "value" : "選擇槽4"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/6/label",
+  "value" : "選擇槽5"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/7/label",
+  "value" : "選擇槽6"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/8/label",
+  "value" : "物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/9/label",
+  "value" : "電路模式"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/10/label",
+  "value" : "繪畫模式"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/toolbar/11/label",
+  "value" : "調查/掃描模式"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/0/label",
+  "value" : "可互動物強調"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/1/label",
+  "value" : "鏡頭看"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/2/label",
+  "value" : "駕駛艙向上"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/3/label",
+  "value" : "駕駛艙向下"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/4/label",
+  "value" : "駕駛艙向左"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/5/label",
+  "value" : "駕駛艙向右"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/6/label",
+  "value" : "上一頁聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/7/label",
+  "value" : "下一頁聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/8/label",
+  "value" : "前一行聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/9/label",
+  "value" : "下一行聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/10/label",
+  "value" : "送出的聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/11/label",
+  "value" : "開始聊天"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/12/label",
+  "value" : "開始聊天命令"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/13/label",
+  "value" : "重複上個命令"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/14/label",
+  "value" : "全螢幕切換"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/15/label",
+  "value" : "打開物品清單"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/16/label",
+  "value" : "打開文件紀錄"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/17/label",
+  "value" : "打開任務清單"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/18/label",
+  "value" : "打開製造清單"
+}, {
+  "op" : "replace",
+  "path" : "/keyActions/game/19/label",
+  "value" : "隱藏抬頭顯示器"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/accept/caption",
+  "value" : "接受"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/cancel/caption",
+  "value" : "返回"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/setDefault/caption",
+  "value" : "初始化"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/categories/tabs/0/tabTitle",
+  "value" : "玩家"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/categories/tabs/1/tabTitle",
+  "value" : "工具條"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/categories/tabs/2/tabTitle",
+  "value" : "遊戲"
+} ]

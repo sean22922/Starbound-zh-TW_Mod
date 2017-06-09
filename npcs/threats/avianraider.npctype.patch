@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/0",
+  "value" : "離開這！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/1",
+  "value" : "敵軍入侵—幹掉他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/2",
+  "value" : "你看不出我們在忙嗎？！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/3",
+  "value" : "我們要在這裡把你埋葬！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/avian/default/4",
+  "value" : "這地方完全是我們才能選的！"
+} ]

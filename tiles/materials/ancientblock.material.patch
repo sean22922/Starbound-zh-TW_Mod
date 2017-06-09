@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些磚塊的年紀不小了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古石塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好神奇。這些石塊明顯非常老了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "古老石塊塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些石頭比大地還老"
+} ]

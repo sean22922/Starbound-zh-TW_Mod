@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "……另一個寶座"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇室廁所"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "真的有必要用黃金的廁所嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是廁所時間的奢華經歷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的金水碗"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "審判：財富的浪費"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "黃金的廁所似乎有點太過了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是浪費的糟糕展覽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在我看來，金廁所還真是浪費啊"
+} ]

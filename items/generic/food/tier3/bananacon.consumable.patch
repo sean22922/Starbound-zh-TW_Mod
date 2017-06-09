@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "培根、香蕉和一點巫術，就能奉上香蕉培根"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "香蕉培根"
+} ]

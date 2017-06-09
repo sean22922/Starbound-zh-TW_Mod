@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有葡萄製成的甜美果汁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葡萄汁"
+} ]

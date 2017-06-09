@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "浮盧法羅小牛"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "新生浮盧法羅的食物決定了它們會長成什麼？"
+} ]

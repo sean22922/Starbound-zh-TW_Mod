@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把岩石椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "搖椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "坐上去似乎不會舒適"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來很是直接取自大自然"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族至少會在上面鋪上一些苔蘚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思。一塊石塊和一張椅子之間的界限是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我看一眼就感覺屁股疼"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個由石塊打造的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我覺得是用來坐的"
+} ]

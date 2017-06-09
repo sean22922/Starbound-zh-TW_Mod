@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個裝飾牌似乎在描述什麼鯨族人的藝術作品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "關於鯨族人的研究……上面說五：關於女性的十項研究"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牌子上的字好無聊。不過聽閃亮的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這個牌子上面有藝術品的名字和日期"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "上面有一些關於鯨族人的東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個小牌子上面寫著\"關於鯨族人女性的研究\""
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "關於鯨族人女性的第十個研究"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銘牌"
+} ]

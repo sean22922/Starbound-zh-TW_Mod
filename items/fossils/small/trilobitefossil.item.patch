@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "三葉蟲"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石三葉蟲"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "三葉蟲"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "\"三葉蟲是保存最完好的化石門類之一，這多虧了他們的外骨骼結構。\""
+} ]

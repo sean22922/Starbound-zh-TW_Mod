@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;收集零件"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我目前正在研發的^orange;科技^white;是真正的奇蹟！它可以將使用者壓縮成很小的球形，從而可以在很狹窄的空間中自由移動。我還需要一些零件才能最終完成這項技術。^green;你能給我帶來^orange;10個金錠^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "真是太棒了！現在要做的，就是測試一下^orange;扭曲球體技術^white;，我有場地可以進行測試"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/turnInDescription",
+  "value" : "與在^orange;哨站^reset;的^orange;艾略特^reset;交談"
+} ]

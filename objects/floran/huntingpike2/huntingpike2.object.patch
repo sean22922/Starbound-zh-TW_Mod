@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "長矛上的頭骨。葉族最愛的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長矛上的頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "人類的頭骨被插在長矛上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "跟葉族不同，翼族尊重亡者"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族把戰利品陳列在長矛上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這根長矛上的頭骨似乎是屬於人類的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個頭骨磨損嚴重，看來是插在長矛上有一段時間了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一粒頭骨插在葉族狩獵長矛上"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "頭骨插在長矛上，這不清真"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來阻止入侵者的火焰陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族火焰陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "火焰陷阱一出，繞道而行"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "天啊，火焰和羽毛水火不容啊！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火焰陷阱是葉族人最糟糕的敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這只是小小的火焰陷阱，沒什麼克服不了的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個值得信任依賴的火焰陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "輕盈的戰士是不會懼怕火焰的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "簡單卻致命，這是我的最愛"
+} ]

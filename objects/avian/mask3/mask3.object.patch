@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個面具看起來很憤怒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾用的異族面具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "等一下，那是個猿人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個面具對於猿族來說是個警告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人使得猿族人看起來很傻"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個面具很有可能是猿族人的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為那應該是個猿族人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個猿族面具做得並不精緻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個不怎麼受人喜歡的猿族人的描述"
+} ]

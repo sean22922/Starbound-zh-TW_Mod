@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊冰"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一塊冰"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冷冷的冰！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一塊冰"
+} ]

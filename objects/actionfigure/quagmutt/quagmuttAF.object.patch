@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它不衛生的生活方式不盡人意。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Quagmutt 小雕像"
+} ]

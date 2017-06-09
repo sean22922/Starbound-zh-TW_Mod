@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它們會攻擊所有嚇到它們的人，而它們很容易受驚嚇。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Snuffish 小雕像"
+} ]

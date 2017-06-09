@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "傳說中如果有人在這張牀上睡一晚，就永遠都醒不來了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "舒適的傳統型牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個牀除了不能睡什麼都好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個普通的牀，看起來很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "平整的牀。無聊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵。這個牀很簡單，但材料都是高品質的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個牀有一種不需要改變的傳統風格"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個精美的傳統牀。許多種族都能從中學到一些"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "見識過比這個更糟糕的牀。也見過比它更好的"
+} ]

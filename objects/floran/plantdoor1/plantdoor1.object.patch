@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道用交錯的藤蔓打造的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤蔓門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些藤蔓可以像門口般打開"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "讓葉族來打造藤蔓造的門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族藤蔓聽從命令開門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "神奇。這些藤蔓可以移動讓人出入"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這道門感覺像在框架裡成長"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族對植物的掌控讓人嘆為觀止，這些藤蔓可以散開像門一樣打開"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是什麼門？我看不見門把"
+} ]

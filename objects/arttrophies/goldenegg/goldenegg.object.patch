@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金蛋！什麼？！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "令人驚奇！這蛋從哪來的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳說是真的！多麼美麗的景色"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人收集漂亮的蛋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很好。這麼漂亮的蛋能賣很好的價錢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這蛋真漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金光閃閃的蛋。一個真正的奇觀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "它太亮了，跟鏡子一樣"
+} ]

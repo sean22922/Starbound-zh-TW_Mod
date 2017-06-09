@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/start/default/default/0",
+  "value" : "你好，士兵。我們來處理這個場面吧，好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/leave/default/default/0",
+  "value" : "做得好，士兵。方舟上再見吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "目標在我視野內！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/1",
+  "value" : "我在對付敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/2",
+  "value" : "發現目標！"
+} ]

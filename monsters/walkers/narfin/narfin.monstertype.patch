@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "角魚怪"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用喇叭吸引同伴，交配季的燈光秀十分壯觀"
+} ]

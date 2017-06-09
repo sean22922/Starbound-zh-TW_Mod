@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個清道夫胸甲可以提供方便的防禦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "清道夫胸甲"
+} ]

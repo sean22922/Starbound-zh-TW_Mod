@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "萊西亞集團準則"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "萊西亞集團對其下屬所有員工的友好準則"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "我們懇請各位員工：\n1. 隨時穿戴正確的安全設備\n2. 舉止得體專業\n3. 遇見不熟悉的狀況，先向萊西亞總部彙報，再做出應對\n4. 祝您愉快"
+} ]

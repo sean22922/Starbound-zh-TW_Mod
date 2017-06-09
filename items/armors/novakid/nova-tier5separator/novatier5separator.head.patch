@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "戴上這個上等頭飾，可以讓你眼中不沾沙子，讓你的敵人從背後消失"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "流氓帽子"
+} ]

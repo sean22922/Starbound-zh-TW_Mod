@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "圖米戈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "長腳讓它們能站在水中捕魚"
+} ]

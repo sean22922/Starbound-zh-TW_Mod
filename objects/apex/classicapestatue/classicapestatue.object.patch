@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "獻給一位光輝領導的一點合適的光輝時刻"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我們的光輝領導……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用來引起自豪的雕像？也許是恐懼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這、這麼一隻又大，又好吃的猴子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自愧不如。比例正確嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是一尊大雕像。他看起來很嚴肅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對權力不必要的展示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個表情嚴肅的猿人雕像"
+} ]

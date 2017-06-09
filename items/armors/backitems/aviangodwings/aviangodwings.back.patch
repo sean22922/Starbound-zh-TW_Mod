@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太驚人了，這些翅膀栩栩如生"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族神之翼"
+} ]

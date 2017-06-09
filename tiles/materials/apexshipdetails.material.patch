@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鉚釘金屬牆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬軌道"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "完畢。這個金屬牆被大螺栓加固了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "超強螺栓加固金屬"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金屬製成的奇怪牆"
+} ]

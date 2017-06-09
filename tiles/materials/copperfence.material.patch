@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "結實的銅圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自信。這個銅圍欄比木頭強多了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "結實的銅圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個圍欄使用銅做的"
+} ]

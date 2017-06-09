@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "閃爍的小泛光燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個能在水裡工作的閃光小燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個普通的閃光燈泡，防水的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個閃光燈似乎是防水的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃光燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個防水閃光燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個防水的閃光燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "只是一個防水閃光燈泡而已"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "燈是防水的，但還是壞了"
+} ]

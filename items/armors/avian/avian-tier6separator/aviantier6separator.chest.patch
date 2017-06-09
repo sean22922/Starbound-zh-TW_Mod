@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個胸甲上的肩甲高度恰好可以在你衝過別人身邊的時候撞到他們的臉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "犀鳥胸甲"
+} ]

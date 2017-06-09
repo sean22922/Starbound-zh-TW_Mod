@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保護性的鐵纖維被織入布料中"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "偵察兵的護脛甲"
+} ]

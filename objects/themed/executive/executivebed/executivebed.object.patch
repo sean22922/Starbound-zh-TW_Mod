@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "昂貴的牀。為了你的睡眠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "總裁牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "全世界最舒適的牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一旦你躺下去，就不想起來了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人沉——到牀裡去了，暫時忘了打——鬥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "極其幸福。真的，沒有牀比這更好了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "自睡前吃奶酪以來，就沒在牀上那麼開心過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "舒服的我都說不出話來了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這絕對是我睡過的該死的最好的牀"
+} ]

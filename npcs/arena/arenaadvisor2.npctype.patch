@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "沃羅的攻擊會極大地減緩你的移動速度，請注意躲避"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "沃羅會試圖躲在她的寵物後面，從遠距攻擊你，利用競技場的地形來躲避她的射擊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "沃羅的寵物們相對沃羅來說比較弱，我的建議是儘量先解決它們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "你可以使用邊緣來引誘沃羅接近你，此時是出擊的最好時機！"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/destinations/0/name",
+  "value" : "回到艦船"
+}, {
+  "op" : "replace",
+  "path" : "/destinations/0/planetName",
+  "value" : "離開這一世界"
+} ]

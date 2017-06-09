@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "壞絨毛玩具。一個很可愛的玩具娃娃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞絨毛玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可愛的玩具娃娃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個可愛的小毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黏黏玩具！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞。一個可愛的黏性物質"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷，我想要一個！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "嚶！我想要這個玩偶成為我的收藏！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不知道這是什麼東西"
+} ]

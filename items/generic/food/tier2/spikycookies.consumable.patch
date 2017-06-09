@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "和普通餅乾一樣，只是有尖角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "尖角餅乾"
+} ]

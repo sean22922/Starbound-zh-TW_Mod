@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系的最小的行星——水星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "水星是太陽系中第一顆行星，在引力束縛下導致它的一天\n極為漫長"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "水星墨丘利，太陽系的第一顆行星。依照地球古代以迅捷聞名的\n商業之神命名"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太陽系中的一顆嘶……小行星。離太陽最近。荒蕪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷狀。1水星日的長度幾乎相當於59地球日，而它1年的長度\n差不多有88地球日"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是我故鄉星系中最小也最靠近太陽的行星"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "水星。除了太陽系中的一顆行星之外它最出名的還是幾十年前的\n一系列駭人聽聞的採礦事故吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "水星是太陽系的一個無關重要的小行星"
+} ]

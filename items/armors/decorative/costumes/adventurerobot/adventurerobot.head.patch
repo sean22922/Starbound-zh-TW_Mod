@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件原型面具受到了機器人的啓發。-不可用-"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冒險家的面具"
+} ]

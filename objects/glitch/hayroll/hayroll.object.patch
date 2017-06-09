@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一卷捆好的乾草"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾草卷"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "緊緊捆成卷的乾草"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人不會將乾草捲成這樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這堆乾草能捲開！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。乾草全都捆成了卷，準備出售"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一大卷乾草"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種地表植物，風乾後捲成捆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好想甩開這卷乾草……"
+} ]

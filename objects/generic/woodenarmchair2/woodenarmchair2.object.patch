@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把奢華的把手椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "柔軟的把手椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把柔軟墊層包裹的把手椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不可能陷到椅子裡的，放鬆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人就像沙子一樣陷入了椅子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平靜：這把椅子非常的舒適"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你會一生擁有的那類把手椅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "吸引人的藍色"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很柔軟，就像坐在一朵棉花糖上"
+} ]

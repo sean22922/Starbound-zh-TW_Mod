@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件頭飾帶上之後別人只能看得見你的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "起義軍面具"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "渴望……按下……升起！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大紅按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "站在這個上面可能會啟動一些東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個大的紅色按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "必、必須按下按鈕！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "抵抗。我要不顧一切地按下那個按鈕了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我怎麼能不按這個呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我可以理解看到一個按鈕就想要按下它的心情。但是你必須控制自己，遏制你的渴望"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好吧，我要按下那按鈕"
+} ]

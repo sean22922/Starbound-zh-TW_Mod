@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵暗中發光的蘑菇。有用且非常可愛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可愛的發光蘑菇。會發出漂亮的夜光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個蘑菇發出的光照亮了整個房間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡發光的蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析：光亮是由一種寄生孢子產生的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞你可以擁抱的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個蘑菇燈很實用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是發光蘑菇！感覺房間都變得好舒服"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "隨機噴泉。最不可預測的噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "隨機噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一座噴泉！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一座噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡喝噴、噴、噴出來的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "猶豫：一座噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望我有些洗滌劑能放進去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一座漂亮的溫泉"
+} ]

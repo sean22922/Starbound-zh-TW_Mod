@@ -1,0 +1,209 @@
+[ {
+  "op" : "replace",
+  "path" : "/lunarbase01/text",
+  "value" : "所有生命跡象都是來自地底的深處。讀數是……難以定義。提前恭喜你的勇氣"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase02/text",
+  "value" : "看來是啓動了禁閉。你需要找到一個斷路器以恢復供電。在低照度的環境下請小心前進"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase03/text",
+  "value" : "我探測到這些怪物的體內擁有爾切斯化學跡象和人類DNA。預估他們的行為非常不穩定"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase04/text",
+  "value" : "爾切斯指數達到94 rad。你處於危險中。你當前的死亡指數是14607 morts"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase04a/text",
+  "value" : "親愛的，我真為AI感到抱歉"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase05/text",
+  "value" : "你看看他們；長期接觸爾切斯晶體似乎導致他們完全變異了！這些可憐的傢夥已經完全失去人性了"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase06/text",
+  "value" : "爾切斯指數達到101 rad。你當前的死亡指數是18472 morts"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase06a/text",
+  "value" : "噓！幫不上忙就別吵"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase07/text",
+  "value" : "傳統武器擁有大約0%機率傷害到爾切斯晶體。建議你使用其他攻擊方法"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase08/text",
+  "value" : "做得好！"
+}, {
+  "op" : "replace",
+  "path" : "/lunarbase08a/text",
+  "value" : "這裡的爾切斯足以修復船隻"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission101/text",
+  "value" : "這些廢墟很古老，似乎是葉族的聖地。讀數顯示它們邪惡和不詳"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission102/text",
+  "value" : "生物讀數顯示這些隧道中有很多生命跡象。97%是抱有敵意。我讚賞你的勇氣"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission103/text",
+  "value" : "真是脾氣暴躁的一個葉族人！讓我想起了曾經年少輕狂的自己，雖然那時的我沒那麼多葉子"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission104/text",
+  "value" : "無論這些葉族是在尋找什麼，一定是對他們至關重要的。他們比害蟲還要煩人！小心點，親愛的"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission105/text",
+  "value" : "這個物質是有機的。分析結果不明朗，但是能夠生成這麼多物質的生物一定是很巨大的"
+}, {
+  "op" : "replace",
+  "path" : "/floranmission106/text",
+  "value" : "證據顯示這些物體並非成熟體；很可能是剛剛孵化的。你可能是進入了一個巢穴"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission01/text",
+  "value" : "看來我們恰好碰上襲擊迷你克諾格的叛軍了。這應該對我們和他們都有利，親愛的"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission02/text",
+  "value" : "掃描顯示這個設施防衛森嚴，到處都是巡邏的重裝守衛"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission02a/text",
+  "value" : "我的掃描器又探測到一個守衛……又多一個了"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission03/text",
+  "value" : "這是個連動電路：降下這個路障也會降下地面上的另一個路障"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission03a/text",
+  "value" : "看來我們可以為反抗暴政獻出一份力量！太好了。滴水穿石啊"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission04/text",
+  "value" : "這個加持了護盾的發電器似乎還維持著地面上的另一個路障。只要把它的護盾摧毀，你就可以關閉電力，導致路障降下"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission04a/text",
+  "value" : "我欣賞你在遇到複雜情況時的頑強鬥志"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission05/text",
+  "value" : "這個實驗室深處有些奇怪的生命跡象"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission06/text",
+  "value" : "這是迷你克諾格的某個防衛森嚴的要塞……我知道你向來為人謹慎，但是這次你真的需要額外的小心小心再小心……"
+}, {
+  "op" : "replace",
+  "path" : "/apexmission06a/text",
+  "value" : "老大猿是個很危險的敵人"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission01/text",
+  "value" : "最好趁他睡著時找別的方法進去，親愛的。我們不會想碰上他"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission02/text",
+  "value" : "之前的數據顯示這麼古老的神殿是不會擁有如此致命的保全系統的……重新調整提示參數"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission03/text",
+  "value" : "檢測到分岔路。我建議不要選擇右路或左路。很可惜，這是沒辦法做到的"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission04/text",
+  "value" : "我、討、厭、火"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission05/text",
+  "value" : "你必須迴避它！你無法捅它！你無法射它！你只能繞過它希望不被發現"
+}, {
+  "op" : "replace",
+  "path" : "/avianmission06/text",
+  "value" : "這個地方有點家的感覺……如果沒有那些恐怖的尖刺的話"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission01/text",
+  "value" : "這個島嶼是\"宏塔圖書館\"的入口處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission02/text",
+  "value" : "當前外部壓力指數15 quash。掃描顯示此建築可以承受80 quash壓力。存活率——非常高"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission03/text",
+  "value" : "你正在接近地下層。我的讀數受受干擾了，但是需要的話我可以預估你的死亡級別……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission03a/text",
+  "value" : "我聽說過這些邪教徒，但是對他們知之不詳……難道說……天知道"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission03b/text",
+  "value" : "別擔心！對付殺氣騰騰的陌生人是你的拿手好戲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission04/text",
+  "value" : "那個女子……她的聲音……難道是？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlmission05/text",
+  "value" : "分析數據後，我確定想要活著抵達這個房間是不可能的。恭喜你的固執戰勝了邏輯！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchmission01/text",
+  "value" : "這個城堡屬於一位叫男爵的機器人。他是個退休了的英雄，為人有點……古怪……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchmission01a/text",
+  "value" : "他雖然有點不正常，但是沒什麼危險"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-arrived/text",
+  "value" : "讀數顯示這個建築雖然外表看起來是個行星，但其實它是個巨型生物"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-arrived2/text",
+  "value" : "你正站在廢墟的上方，親愛的。你對著地表做不了什麼——你需要往下移動"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-arrived3/text",
+  "value" : "一路小心。下面你遇到的每一個生物和物質都可能是致命的……"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-bottom/text",
+  "value" : "讀數顯示你的下方有一個深不見底的裂口。我建議你儘量不要跌下去"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-bottom2/text",
+  "value" : "SAIL說得對，你的腳下有一個深淵；阻隔著你跟廢墟的中央建築。你需要想辦法安全地下去"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-bossroom/text",
+  "value" : "你抵達了廢墟的心臟。你必須摧毀它"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-bossroom2/text",
+  "value" : "願庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-destruction1/text",
+  "value" : "你成功了！……但是有點不對勁。廢墟……這個建築很不穩定！"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-destruction2/text",
+  "value" : "它要爆炸了！快跑！"
+}, {
+  "op" : "replace",
+  "path" : "/tentaclemission-destruction3/text",
+  "value" : "別對他們指手畫腳，魚人！他們經歷過比這慘烈千萬倍的情況！"
+} ]

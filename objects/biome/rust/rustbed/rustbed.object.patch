@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張生鏽的牀。看上去很廉價且易碎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張劣質生鏽了的牀。讓我想起來迷你克諾格的牢房"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張沒有人喜歡的舊牀。慢慢的被鏽蝕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不會睡、睡在一張鏽跡斑斑的牀上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "妄想：鐵鏽的味道會讓我晚上做噩夢的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張生鏽了的舊牀。沒有什麼值得記錄的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張相當粗糙的牀。它實際上已經要散架了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀差不多要散架了"
+} ]

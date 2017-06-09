@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個煮飯的罐子發出了一百種肉的香味"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : " 中世紀鍋"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 中世紀鍋"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 好吃，好吃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "巨大的烹飪用罐子。聞起來很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一隻大鍋架在火上，應該是做飯用的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "做飯用的鍋。葉族人喜歡肉湯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。從這口鍋裡我能聞到很多我最愛的食物的味道"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很大的一口鍋。我希望周圍沒有什麼女巫"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些味道都是神人沒有聞過的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一口大鍋。在做什麼吃的？"
+} ]

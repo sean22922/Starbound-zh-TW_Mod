@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞空心圓燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波浪燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一盞有著大大圓圓燈泡的燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈有一個洞手可以穿進去"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好奇。這盞燈有一個洞手可以穿進去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太好了，有一盞溫暖的現代風格的燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞藍色的現代燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞現代風格的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "天黑的時候這會很有用"
+} ]

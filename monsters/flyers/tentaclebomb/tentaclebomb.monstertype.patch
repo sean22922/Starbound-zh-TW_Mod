@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "觸手爆彈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "風暴中，它們纏繞在樹上，不會被吹走"
+} ]

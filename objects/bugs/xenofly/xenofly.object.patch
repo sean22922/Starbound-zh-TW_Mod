@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個傢夥的小臉看起來很嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "異種飛蠅"
+} ]

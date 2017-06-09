@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩帶蟲鰻"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這條蟲鰻頭上的長長天線能夠接收附近行星的無線電波"
+} ]

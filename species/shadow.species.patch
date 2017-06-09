@@ -1,0 +1,53 @@
+[ {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/title",
+  "value" : "影子"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/subTitle",
+  "value" : "只有這些人知道……"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/description",
+  "value" : "我不知道這裡要放什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/0",
+  "value" : "膚色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/1",
+  "value" : "髮型"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/2",
+  "value" : "上衣"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/3",
+  "value" : "褲子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/4",
+  "value" : "內衣色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/5",
+  "value" : "髮色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/6",
+  "value" : "上衣色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/7",
+  "value" : "褲子色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/8",
+  "value" : "人類"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/9",
+  "value" : "個性"
+} ]

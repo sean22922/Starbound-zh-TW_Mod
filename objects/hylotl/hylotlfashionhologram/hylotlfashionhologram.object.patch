@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "展示著鮫人最新潮流的全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人潮流全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鮫人對於衣服的品味很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些風格我不太習慣…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人潮流真是難看"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：我想知道知道這些是否衣服會適合我"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "對於他們的自負，我不得不承認鮫人很時尚"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來似乎很時尚呢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "或許我也該試著穿穿鮫族的服飾？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套又薄又短的窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些簾子拉不上了。隱私現在不重要"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "薄的織物片。太小了蓋不住任何窗子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻猿人把窗簾做得太小了，蓋不住窗戶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這作為窗簾來說太小了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些窗簾不是很寬。你不能用他們蓋住一個窗戶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個織物是暗色的並且很粗糙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一樣的窗簾。太短了蓋不住窗戶"
+} ]

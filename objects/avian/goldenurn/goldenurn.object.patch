@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翼族觀星信徒的骨灰通常存放在像這樣的甕裡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金甕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裡面裝滿了骨灰和羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "觀星信徒的骨灰甕。裡面不只有他們的骨灰，還有一根他們的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面有美味的鳥灰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "思考。為什麼甕裡既要裝羽毛又要裝灰呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "羽毛和骨灰的集合，也許對翼族人來說意義非凡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來翼族人非常重視他們的羽毛。這個甕子裡裝滿了羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個罐子裝著死掉的翼族人屍體"
+} ]

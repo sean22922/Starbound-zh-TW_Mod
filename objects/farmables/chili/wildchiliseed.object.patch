@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "火熱的，火熱的狂歡節！對大家來說太火熱了，除了人類"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "辣椒種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "把辣椒塗成黃色是現在猿族人最流行的。但是要是他們被抓住了，就死定了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個火辣辣的星球，無與倫比"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火辣辣的水果，這個星球要讓你嘴巴辣爆了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真笨重。誰會選擇吃傷害他們的食物？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "辣椒很辣，但一不小心就上癮了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "巧妙地控制住辣味的極限。適當食用的話會很美味的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "星之子對於辣椒著魔了。越辣越好！"
+} ]

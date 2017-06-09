@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "水晶中放射出的華麗之光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很棒的光源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這水晶不是翼族人的，但是和他們的燈相似"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "水晶之光對於葉族人來說很安全"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一個水晶燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個純淨而堅固由水晶製成的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一處有用的光源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我一直想要一盞水晶燈"
+} ]

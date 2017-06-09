@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "緊密放置的厚金屬條"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬錠"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "不安。這樣的金屬條機器人地下城有"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅固金屬條"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看起來很堅固的金屬條"
+} ]

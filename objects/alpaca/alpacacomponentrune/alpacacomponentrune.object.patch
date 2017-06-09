@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的符文，標誌著生命的基本組成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "成分符文"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個符文毫無疑問年代久遠，卻暗示了對於科學認知的理解"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個符文不可能來源於翼族，其太科學了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "遠古符文！這個指的是生命粒子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可敬的。這個符文表明有機生命的最基本要素"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "對於一個這麼老的符文來說，這是個很先進的標誌。看起來像是個原子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個符文是由某個甚至在鮫族之前就已經散佈在星際之間的種族發明的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個古老的符文。顯示了生命的基本組成"
+} ]

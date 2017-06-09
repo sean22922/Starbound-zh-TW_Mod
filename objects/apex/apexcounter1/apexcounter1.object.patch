@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對標準櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老式但是功能不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個存食物的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "存食物。嗯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "飢餓。甚至電子人都由於有可能找到食物而激動了起來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像廚房檯面"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "裡面放著什麼食物，我想知道？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是個洗手檯"
+} ]

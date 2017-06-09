@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/altAbilityTitleLabel/value",
+  "value" : "特殊："
+}, {
+  "op" : "replace",
+  "path" : "/levelTitleLabel/value",
+  "value" : "等級："
+} ]

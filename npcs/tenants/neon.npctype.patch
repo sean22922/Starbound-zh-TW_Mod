@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "我以前是迷你克諾格的技師"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "我穿著這套制服你能看出我是猿族嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "這套制服能夠為我無線更新銀河伺服器的信息"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/3",
+  "value" : "我用這套制服能夠直接與電腦進行人機互動"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "這套制服能讓我直接與電腦網絡進行人機互動。真是酷酷的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "能有這麼高科技的制服真是太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我穿這套制服能夠用意念與電腦交互！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "我穿這套制服能夠與電腦進行無線交互！"
+} ]

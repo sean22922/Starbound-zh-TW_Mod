@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你應該用純天然的食材來做吃的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "庫魯克斯大神用千萬個太陽照射著我們的作物！讓植物茁壯成長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我只需要一個廚房來處理我的天然食物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "很多人都和我一樣，更想盡可能地親近大自然"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "新鮮食物是庫魯克斯大神的饋贈！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "麻煩來些蘑菇和種子！你應該吃得更健康些"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "太陽賜予植物生命，植物又維持著我們的生命…庫魯克斯大神是不是很神奇？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "我只想親近自然，連我的衣服都是有機材料！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "穿有機衣服可以讓我更親密地接觸自然、和庫魯克斯大神"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "有更多櫃子，我就能儲存更多的天然產品！"
+} ]

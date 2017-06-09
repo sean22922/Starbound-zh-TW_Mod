@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一堆小膠囊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "膠囊儲存器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些脆弱的膠囊裡面常常會有一些有用的補給"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些脆弱的膠囊是在地下採礦時的好資源"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人最愛打嘶……碎這些膠囊了。裡面有好多好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮狀。這些脆弱的膠囊對於再補給探索者棒極了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些脆弱的膠囊在你需要一些探索補給時可是救命的玩意"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在地下深處的探索者可以用這些脆弱的膠囊進行再補給"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些小膠囊不僅碎得乾脆利落，裡面還常常有些好東西！"
+} ]

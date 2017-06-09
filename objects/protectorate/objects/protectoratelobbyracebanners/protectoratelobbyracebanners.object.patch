@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者學會的種族橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者種族橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些旗幟代表不同的種族"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "代表六個種族的彩色旗幟。鳥類旗幟在右邊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人的旗幟是最好的顏色了。像樹苗一樣的綠色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。六個種族的旗幟！機器人的旗幟是我最喜歡的灰色"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "六面旗幟。每一面代表一個不同的種族"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "每一面旗幟代表一個種族。我個人比較喜歡的簡單的鮫族旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "六個種族的旗幟掛在窗口"
+} ]

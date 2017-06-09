@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶著燈籠的裝飾用木樁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統木樁"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "普通的木樁"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很適合鳥類磨嘴用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "是燈柱啊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：這連一般的木樁都不如"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個木樁似乎十分不穩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這燈柱真是賞心悅目"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "帶有燈籠的木樁。可別熄了啊"
+} ]

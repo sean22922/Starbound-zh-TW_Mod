@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "老大猿注視著你，外族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "獨立即奴役。服從即力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "只要你不惹是生非，這裡就不會有人傷害你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "不要嚇到這裡的人。別發出任何噪音"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "迷你克諾格很強大，老大猿看著呢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/5",
+  "value" : "這個星球上沒有力量比得上迷你克諾格！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/6",
+  "value" : "陌生人，你可以通過這裡。別惹麻煩"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/7",
+  "value" : "迷你克諾格很強大，陌生人。你最好尊重我們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/8",
+  "value" : "我會看著你的，就像老大猿看著我們所有人！"
+} ]

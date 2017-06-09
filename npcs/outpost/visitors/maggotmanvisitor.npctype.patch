@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "瑪格特人說：二林在手勝過二鳥在手"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "瑪格特人說：Teach a fish to eat, and he'll man for a lifetime"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "瑪格特人說：負負不得正"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "瑪格特人說：牛奶灑了真沒什麼好哭的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "瑪格特人說：強大的寶劍不是什麼好筆"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "瑪格特人說：諾曼是座島"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "瑪格特人說：拿著石頭的人不該向玻璃房投擲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "瑪格特人說：別看沸騰的鍋"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "瑪格特人說：你能用許多炊具來做兩份肉湯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "瑪格特人說：放開會咬你的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/10",
+  "value" : "瑪格特人說：盡信書不如無書"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/11",
+  "value" : "瑪格特人說：不要把禮物放在馬嘴裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/12",
+  "value" : "瑪格特人說：盜賊都很愚蠢"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/13",
+  "value" : "瑪格特人說：血液只是粘稠的水"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/14",
+  "value" : "瑪格特人說：我沒見過也沒聽說過有孩子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/15",
+  "value" : "瑪格特人說：每天都有狗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/16",
+  "value" : "瑪格特人說：死人沒有尾巴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/17",
+  "value" : "瑪格特人說：今天我的表壞了兩次"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/18",
+  "value" : "瑪格特人說：如果不能說話和走動的話，就不要嘗試"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/19",
+  "value" : "瑪格特人說：作為報復，用冷了的飯菜招待你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/20",
+  "value" : "瑪格特人說：你的貓不只一層皮毛"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/21",
+  "value" : "瑪格特人說：我有一千種說辭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/22",
+  "value" : "瑪格特人說：睡覺的狗是騙子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/23",
+  "value" : "瑪格特人說：你得到的時候你就是你看到的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/24",
+  "value" : "瑪格特人說：一直尋找哭泣的失敗者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/25",
+  "value" : "瑪格特人說：我的思想全都一文不值"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/26",
+  "value" : "瑪格特人說：羅馬是什麼時代？"
+} ]

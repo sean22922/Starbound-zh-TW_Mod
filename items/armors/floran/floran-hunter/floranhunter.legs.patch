@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種護腿可以讓獵人隨意去想去的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "野蠻人護腿"
+} ]

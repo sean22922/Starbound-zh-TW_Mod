@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個精美的紡織旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小缺陷旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一面旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個裝飾橫幅？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紅色絲綢橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。機器人製造所有種類的橫幅。他們代表著機器人不同的家園"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一面精美的旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這面旗幟做工很精巧。它一點意義深遠"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "精美旗幟"
+} ]

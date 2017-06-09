@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "猿族配給票證簿"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "迷你克諾格法律下的一本配給票證簿"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "迷你克諾格公民每日補給清單\n\n合法的營養糊 x 1\n合法的罐裝水 x 1\n每日一剝 x 1\n\n舉報叛軍可獲得額外奢侈品\n\n老大猿在看著你！"
+} ]

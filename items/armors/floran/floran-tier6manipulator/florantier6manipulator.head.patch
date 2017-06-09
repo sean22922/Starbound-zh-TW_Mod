@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "瘋狂的眼神和邪惡的微笑並不是這個恐怖面具最可怕的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巫師面具"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由平滑雕刻的發光晶體製成的燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡翡翠燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這燈的綠光讓我想到輻射廢棄物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這燈發出的光讓人害怕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對發光的石頭感到緊張"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。它本來就會發出這種光？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來這燈具有輻射性。希望它不是的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個發光水晶可以發揮燈的作用。真神奇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這玩意好像是個會發光的仙人掌"
+} ]

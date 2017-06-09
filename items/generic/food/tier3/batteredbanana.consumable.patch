@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "制式的香蕉，打碎混合在麵糰中油炸"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "香蕉泥"
+} ]

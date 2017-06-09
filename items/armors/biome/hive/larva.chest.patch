@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個蟲子，看起來像是人類的胸一樣，還有腿連在上面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "胸幼蟲"
+} ]

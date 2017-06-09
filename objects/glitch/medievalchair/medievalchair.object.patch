@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張硬椅子。坐一會就會感覺很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張硬木餐椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把很不舒服的木製椅子。裝飾風格比較樸實"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "尖的椅椅子，很好的武器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。一張普通的餐椅，透露著獨特的中世紀風情"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張漂亮的餐椅。非常硬，很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張很不舒服的木椅，裝飾也平淡無奇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張硬木椅"
+} ]

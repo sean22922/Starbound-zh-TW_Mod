@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看不見的電火花器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "看不見的電火花器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些部件被摧毀了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種級別的損傷沒法輕易修復"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "部件都損壞了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這些東西受到了巨大的傷害"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "不妙。這些部件都受損嚴重"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我最好試著儘快修復這些損傷"
+} ]

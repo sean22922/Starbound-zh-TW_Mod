@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個經典的金色壺"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典金壺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個經典的細長金壺是用於特殊場合的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個經典的細長金壺是用於特殊場合的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "簡單的細長金壺。漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欽佩。這個金壺很養眼"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個金壺很經典"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個經典的金色壺，有點炫耀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這金子非得做成壺嗎？"
+} ]

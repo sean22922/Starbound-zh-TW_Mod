@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝飾過的陶壺，裡面有什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅酒陶罐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小陶壺，我應該砸爛它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個粘馬鈴薯莢。在裡面可能會有有用的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個陶壺可以砸爛！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "打碎這個陶壺就可以發現裡面有什麼東西了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為有東西在裡面。我能打開它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個陶壺打造的很精緻，但是要看裡面有什麼東西的話只能打爛了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只要一槍就能打爛這個陶壺了"
+} ]

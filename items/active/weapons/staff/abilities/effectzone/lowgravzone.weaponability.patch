@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/ability/name",
+  "value" : "低引力之區"
+} ]

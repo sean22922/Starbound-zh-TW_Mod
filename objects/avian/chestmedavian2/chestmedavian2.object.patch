@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大而古老的箱子，由木頭和鐵製作而成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大舊箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個堅固的箱子，裡面有什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些箱子沒有裝飾，但很堅固，裡面可能有什麼貴重東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大箱子！裡面也許有食物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "渴望。事不宜遲，裡面可能有價值連城的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個堅實的箱子總是讓人愉悅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "大箱子，看起來能裝很多東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我能在這樣的大箱子裡裝很多東西"
+} ]

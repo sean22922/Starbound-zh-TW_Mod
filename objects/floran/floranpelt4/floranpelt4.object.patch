@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊大型動物身上的毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大塊雪地生物毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一件漂亮帶圖案的毛皮。我敢打賭這個生物蔚為大觀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "黑白條紋野獸毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "稀有圖案和顏色的毛皮。對葉族人來說很寶貴"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震驚。這顏色顯然是雪地生物的毛色，看來什麼東西都不能阻止葉族人的嗜血慾望"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我想了數個世紀前滅絕的白虎"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "獵殺如此漂亮的生物。太野蠻了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這塊毛皮相當優秀！"
+} ]

@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : " 自然商人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 售賣植物、種子和其他"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "我將自然帶回光明。傳遞愛！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "有機化！傳播美！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "你好，朋友！你對將自然之美傳遍宇宙有興趣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/0",
+  "value" : "葉族人傳播自然，售、售賣植物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/1",
+  "value" : "你想要自然？葉族人售賣種子和植物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/2",
+  "value" : "葉族人想要像素，會給種、種子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "回頭見！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "再來哦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "你的像素總是行得通的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/3",
+  "value" : "很高興和你做生意！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/4",
+  "value" : "謝謝你光臨我的商店"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/5",
+  "value" : "見到你真好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/6",
+  "value" : "歡迎再來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+  "value" : "希望我們的交易換來你的滿意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/1",
+  "value" : "我希望你能找到你在尋找的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/2",
+  "value" : "希望你的前路如葉脈般清晰"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/3",
+  "value" : "心與靈魂都要堅強"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/0",
+  "value" : "葉族能賣給你更多東西的話會很高興！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/1",
+  "value" : "歡迎再次光臨來再買點植物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/2",
+  "value" : "葉族喜歡賣東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/3",
+  "value" : "葉族人對交易很滿意"
+} ]

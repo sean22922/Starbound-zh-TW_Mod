@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波波飛"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不算很會飛的蒼蠅，波波飛是如何存活下來的，一直是一個迷"
+} ]

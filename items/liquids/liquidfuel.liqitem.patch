@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "液態爾切斯燃料"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "危險而又不穩定的物質，從月亮虹吸出，作為超光速旅行的燃料"
+} ]

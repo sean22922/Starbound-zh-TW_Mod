@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "屬於邪教徒的短劍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC邪教徒短劍"
+} ]

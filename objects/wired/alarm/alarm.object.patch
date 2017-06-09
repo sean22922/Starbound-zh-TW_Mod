@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個大閃光燈和嗡嗡響的汽笛一定會吸引很多注意的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警報器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "他們用於威懾入侵者，但同時也用於安全保障"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個閃光燈會警報有違法行為"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這會讓守衛警覺的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警報。這會讓很多人警覺的，我得小心點"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要是是在拍電影的話，我打賭等我離開它就爆炸了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個警報器，用於警報守衛有入侵者"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有警報器的話，想要帶著戰利品離開就不那麼簡單了"
+} ]

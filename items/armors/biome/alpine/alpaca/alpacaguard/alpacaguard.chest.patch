@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "駝族守衛穿的高防護性胸甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "駝族真實守衛軀幹"
+} ]

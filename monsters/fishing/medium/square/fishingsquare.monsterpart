@@ -1,9 +1,0 @@
-{
-  "name" : "fishingsquare",
-  "category" : "fishingsquare",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingsquare.png"
-  }
-}

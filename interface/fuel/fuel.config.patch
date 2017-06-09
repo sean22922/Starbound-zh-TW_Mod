@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "超光速駕駛燃料艙口"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "爾切斯燃料儲藏室"
+} ]

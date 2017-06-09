@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來像是雕刻蛋杯的地方…翼族人吃蛋嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕花牆櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個在牆上的櫥櫃。真省地方！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "許多地底人的房子都非常小。所以經常在牆上儲存一些東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牆上的儲存單位"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀的說，這是儲藏東西的地方"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "壁櫥"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我好奇這裡面是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "壁櫃。看起來是用於做廚房的"
+} ]

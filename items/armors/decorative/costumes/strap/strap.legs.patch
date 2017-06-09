@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "身體被烤成帶印。就好像我一點都沒穿！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帶印的腿"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "對電子人解剖的一個細節圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電子人"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這好像是電子人的解剖圖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這就是電子人怎麼裝配的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電子人介紹。看起來很難"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可分析。電子人的藥還十分原始。很多處方都是錯的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這好像是電子人的解剖圖"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "電子人似乎檢查了他們的解剖圖。也許他們的醫學能夠受益"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看看這些胳膊腿。看起來很難通過啊"
+} ]

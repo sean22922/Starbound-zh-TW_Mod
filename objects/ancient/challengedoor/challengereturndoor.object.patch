@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我真希望這扇門能帶我回到現實！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "挑戰門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "那扇門肯定是出口"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "謝謝庫魯克斯，這一定是我的出路了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人猜這是出口"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "但願如此。當然了，這一定是離開這的路"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我真希望這扇門能帶我回到現實！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "凡事有始必有終。是時候離開這了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我該離開這了"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個跳草裙舞的女孩。阿囉哈！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "草裙舞女孩"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個搖搖擺擺的人好像在演奏烏克麗麗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個跳舞的女孩穿著一條草裙"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不確定他是否喜歡……或許它長在葉族人身上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。搖擺運動有一種近乎催眠的效果"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "它讓我想起了白色的沙灘和藍色的大海"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看看她呀，拿著她的小烏克麗麗，搖搖晃晃地離開了"
+} ]

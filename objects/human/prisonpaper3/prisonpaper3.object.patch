@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "囚犯#2162的不會好好讀書的罪犯的學習小組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "事件備忘錄"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "貌似犯人們可以接受教育，而迷你克諾格則命令禁止這個內容"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個罪犯學習小組的傳單。看到他們努力的提高自己，很好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不知好歹，葉族人不懂這些"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "樂觀。學習小組的傳單。身在牢中還努力的提高自己，這讓我充滿了正能量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個學習小組傳單。早知道監獄的學習氣氛這麼濃厚的話，我就不去學校了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "學習小組海報。鼓勵囚犯學習是每個文化都要做的事情"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "囚犯學習小組的傳單"
+} ]

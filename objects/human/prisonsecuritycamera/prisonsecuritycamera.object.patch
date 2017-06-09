@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保全攝影機，窺視一切"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保全攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "保安攝影機。老大猿哥在監視我們嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個保安攝影機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有一隻眼睛的小盒子。它在看著葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服，我覺得我好想被監視了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我要成為明星啦！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是侵犯個人隱私"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個安全攝影機。最好表現好一點"
+} ]

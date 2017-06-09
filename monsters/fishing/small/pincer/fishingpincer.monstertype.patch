@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金枝海蛞蝓"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "除了頭上的角質鉗子之外，牠的管狀身體非常柔軟"
+} ]

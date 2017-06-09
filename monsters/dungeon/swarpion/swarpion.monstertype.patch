@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "闇影蠍"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "躲在黑暗的縫隙或角落，當附近出現獵物時就迅速發起攻擊"
+} ]

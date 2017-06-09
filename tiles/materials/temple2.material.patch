@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寺磚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些磚塊看起來非常古老。上面有複雜的文字和劃痕，但我認不出來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這些磚塊的年代沒法準確的推斷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡古老的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "估計這些磚塊已經在這有一段時間了"
+} ]

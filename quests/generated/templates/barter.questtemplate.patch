@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "某個人"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/spawnPoint/example/name",
+  "value" : "黑暗、恐怖的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "不久以前，客商^orange;<target>^white; 來到了<spawnPoint.direction>的^orange;<spawnPoint>^white;。<target.pronoun.capitalSubject>同意提供我們需要的<receivedItems>，作為交換條件，他們想要^orange;<givenItems>^white;。你能^green;把貨物帶到<target>^white;去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人需要和客商^orange;<target>^white;做筆交易——葉族人會給他們^orange;<givenItems>^white;以換回^orange;<receivedItems>^white;。他們不久以前到達了<spawnPoint.direction>的^orange;<spawnPoint>^white;。你能替葉族人^green;完成這筆交易嗎^white;？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "明智。客商<target>不久以前抵達了<spawnPoint.direction>的^orange;<spawnPoint>^white;。 <target.pronoun.capitalSubject>同意提供我們需要的^orange;<receivedItems>^white;，作為交換條件，他們想要^orange;<givenItems>^white;。你能^green;把貨物帶到^orange;<target>^white;去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "感謝！<receivedItems>對我接下來的計劃很有幫助……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "謝謝！<receivedItems>對我接下來的計劃很有幫助……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "非常感謝！<receivedItems>對我接下來的計劃很有幫助……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "將<givenItems>給<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "將<receivedItems>還給<questGiver>"
+} ]

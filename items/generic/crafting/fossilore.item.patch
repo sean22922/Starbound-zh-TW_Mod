@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個化石。不知道是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "未知化石"
+} ]

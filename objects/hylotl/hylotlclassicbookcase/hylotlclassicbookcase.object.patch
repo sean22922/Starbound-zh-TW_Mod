@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "精工細作。很美"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些鮫人族書籍。恩，我一會兒再讀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裡面有很多鮫人族的故事書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人喜歡閱讀。無聊的笨魚人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：每本書都是鮫人的自誇。太無趣了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我看到標題就已經想睡覺了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "滿是鮫人族故事書的暑假。其它種族都向我們的大圖書館涌來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "架子放滿了關於鮫人的書。我能想到好多比這有意義的事情"
+} ]

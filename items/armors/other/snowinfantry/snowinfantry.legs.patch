@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "配上隔熱材料，讓你的腳不再冰冷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪原步兵褲子"
+} ]

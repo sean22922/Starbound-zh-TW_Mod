@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "日耀石製成的褲子，上面有加固的肋狀組織翅，可以讓穿戴者輕易的游泳、奔跑、戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無光褲子"
+} ]

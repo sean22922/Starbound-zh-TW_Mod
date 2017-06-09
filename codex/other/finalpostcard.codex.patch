@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "感謝卡"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自朋友的卡片"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "\n那個眼睛一樣的東西好大！好刺激！你可能是我遇到的第二好的獵人。\n- Nuru ð\n\n庫魯克斯會以你為驕傲。\n- Tonauac ±\n\n真好看！\n- Baron 4c 69 67 68 74 Þ"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/1",
+  "value" : "你讓我明白了希望永存。謝謝。\n- Lana º\n\n你的成就的科學價值不可估量！\n- Koichi þ\n\n你能成為一位保護者。\n- Esther »"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/2",
+  "value" : "感謝你拯救了宇宙 «希望你在遊玩星界邊境時能體會到我們製作遊戲的過程中的樂趣。宇宙現在可以任你探索了！注意安全喔！\n\n- 呵呵魚遊戲  ^orange;°"
+} ]

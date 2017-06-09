@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不要低估猿人對香蕉的愛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有些人太喜歡香蕉了，因此把它們畫進畫裡面"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一種黃色的水果"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡黏黏的黃色食物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。看來是個水果"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個香蕉…好吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有些人肯定十分在乎他們的黃色水果"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種波普藝術？"
+} ]

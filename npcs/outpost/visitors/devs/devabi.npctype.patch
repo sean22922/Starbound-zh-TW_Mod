@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嗨，艾比！空餘時間我喜歡做怪獸雕像"
+} ]

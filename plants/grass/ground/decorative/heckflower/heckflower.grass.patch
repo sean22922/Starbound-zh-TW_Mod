@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "邪惡的鮮肉花朵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "地獄之花"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好吃的花"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。鮮肉做的花"
+} ]

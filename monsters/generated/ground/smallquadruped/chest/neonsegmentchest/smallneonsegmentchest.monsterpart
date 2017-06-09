@@ -1,9 +1,0 @@
-{
-  "name" : "smallneonsegmentchest",
-  "category" : "smallquadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "smallneonsegmentchest.png"
-  }
-}

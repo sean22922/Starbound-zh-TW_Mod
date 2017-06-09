@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專門用來劈砍的斧頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "稀有的斧頭"
+} ]

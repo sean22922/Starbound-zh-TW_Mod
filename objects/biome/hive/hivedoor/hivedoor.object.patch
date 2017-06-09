@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種由有機六角莢製成的黏糊糊的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂箱門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "近距離觀察後，這扇門好像在向外滲透某種體液"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我碰過這扇門後，羽毛上就粘上了黏糊糊的東西……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡踢倒黏糊糊的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警覺。這扇門滲出了一些不明液體……"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "任何地方，會滲出不明粘液的門都算不上乾淨吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我可以想到一千種更好的造門材料"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "光是看看這扇門我就已經不行了"
+} ]

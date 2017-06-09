@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個胸甲讓你想把一個女人綁到鐵路軌道上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "流氓胸甲"
+} ]

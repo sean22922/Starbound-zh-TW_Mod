@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對化石駝族腿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "駝族腿"
+} ]

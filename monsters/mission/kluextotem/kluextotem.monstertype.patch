@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯圖騰"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "因為有敏銳的眼睛，它們喜歡黑暗的環境，比如洞穴"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"遇到新的生命形態時總會讓人困惑。你會忍不住想看看。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Oogler 小雕像"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅讓人難忘的畫，上面是一個尖叫的猿人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "咆哮的猴子畫作"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是另一個迷你克諾格贗品嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這就是不去瞭解庫魯克斯的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人從我們獵殺的每一個人裡看到這張臉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有點緊張。這幅猿族繪畫令人感到不安"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這肯定不是真跡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這幅猿族繪畫就好一點"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個猿人瘋掉了"
+} ]

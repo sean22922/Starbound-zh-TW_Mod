@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "泥沙。都是泥沙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鬆散的泥沙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不適。想讓泥沙不滲入我的設備中很難"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "泥沙。特別灰"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一大堆佈滿灰塵的泥沙"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很強大的處理器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "處理器"
+} ]

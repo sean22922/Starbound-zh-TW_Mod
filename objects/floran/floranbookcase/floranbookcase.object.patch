@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "似乎是葉族人用獵物的殘骸製作的書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始書架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有沒有葉族人不用骨頭裝飾的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不能想像葉族人寫一本書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不讀書，只有綠手指才會用書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細緻。這張書櫃已經很長時間沒有被人用過了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "葉族人似乎不會讀書吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人的東西都喜歡增添死亡的氣息，它們連書櫃都不放過"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我還從不知道葉族人會讀書"
+} ]

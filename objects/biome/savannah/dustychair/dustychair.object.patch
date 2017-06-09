@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把破舊不堪，滿是灰塵的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滿是灰塵的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老舊而破爛，但是或許足夠使用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把椅子，坐墊裡塞滿了草。我可以習慣的！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人認為這椅子在戰鬥中被損壞了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個傢俱原本就如此凌亂嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來有點破損。我不確定能坐在上面"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子看起來經歷過很多事"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "灰塵也不是那麼糟糕"
+} ]

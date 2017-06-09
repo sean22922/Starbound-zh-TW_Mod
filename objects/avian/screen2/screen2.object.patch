@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一條繞著行星飛行的太空船"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "太空船螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在軌道上的一艘大型太空船"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人在宇宙中追尋著他們的足跡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一艘大船還有一個大星球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。看來在一個大行星的軌道上有一艘大飛船"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有一艘太空船在行星上面繞來繞去，繞得我頭有點暈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看來有一艘令人印象深刻的飛船正在接近行星軌道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有一艘太空船圍繞著一個行星繞圈"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "複合欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "加固欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。製作欄杆的金屬讓它很結實"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮金屬欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "結實的欄杆，想騎騎看"
+} ]

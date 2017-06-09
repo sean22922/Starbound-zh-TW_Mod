@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "生長在海洋行星上的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灌木叢道具3"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種讓人心情愉悅的歡迎標誌，意為著這是鮫人佔有的商店"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "友善的鮫人商店標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鮫人愉快的臉龐歡迎我進入一家商店。我怎麼能抵擋？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那張臉看起來很友好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人臉好蠢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。不知這商店裡賣了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鮫人愉快的臉龐是很有誘惑力的讓我進入這個店"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "該標誌表示其有良好的客戶服務"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "商店招牌。或許該進去看看 "
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空心竹被紮在了一起製成了風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "竹風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個竹風鈴，在風中沙沙作響"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "空心竹讓這個風鈴有著好聽的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "竹子在風中搖擺，發出好聽的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉快。我喜歡這個風鈴發出的千變萬化的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "空心竹讓這個風鈴有著好聽的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "空心竹製成的一個撫慰人心的風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個木製風鈴，聲音很令人心奮"
+} ]

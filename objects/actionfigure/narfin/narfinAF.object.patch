@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它用觸角吸引伴侶。交配季節的光線很壯觀。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "角魚怪"
+} ]

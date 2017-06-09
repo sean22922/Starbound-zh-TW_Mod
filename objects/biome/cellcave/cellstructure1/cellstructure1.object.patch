@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一間怪異的巢室"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂窩狀構造"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "真少見，是突變嗎？最開始這些細胞是怎麼樣的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些細胞真是大的有些嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這是植物，還是肉？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷，我看不清原有結構"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我想起來了物理課。要麼是生物課來著？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "奇怪但很有創意，沒有特別吸引人，但挺有趣的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "巨大的細胞？誰留在這裡的？"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乖乖。一大堆噁心的下水道污物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "污水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "挫敗。到處都是污水的臭味"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人覺得臭臭的污水很噁心"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "在我看來就是寫污水。聞起來就像烈日下屋外的廁所"
+} ]

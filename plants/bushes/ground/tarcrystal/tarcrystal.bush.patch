@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "已經結晶的瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "已經結晶的瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒鋒利的黏糊糊糊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。已經結晶的瀝青"
+} ]

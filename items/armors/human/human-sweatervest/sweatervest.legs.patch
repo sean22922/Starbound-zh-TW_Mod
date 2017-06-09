@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很舒服，穿戴容易"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "短褲"
+} ]

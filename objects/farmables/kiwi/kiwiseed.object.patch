@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種太空奇異果一般生長在很靠近地面的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇異果種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種太空奇異果的皮毛摸起來和猿族人的一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "異樣的多毛水果，裝載美味的種子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "毛茸茸的、柔軟的水果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。很多種族都吃這種水果"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是長在地上的奇異果，地生奇異果"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "另一種甜甜的水果。表皮卻讓人不想碰"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些奇異果吃起來和普通的奇異果一樣！"
+} ]

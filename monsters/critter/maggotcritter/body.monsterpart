@@ -1,9 +1,0 @@
-{
-  "name" : "maggotcritter",
-  "category" : "maggotcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

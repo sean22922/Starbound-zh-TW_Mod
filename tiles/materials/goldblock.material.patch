@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一整塊足金"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。金子做的金塊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮金塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "耶！閃亮的金塊！"
+} ]

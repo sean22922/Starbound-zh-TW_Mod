@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一副古老的全息圖像描述了一個虛擬的景象"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這幅全息圖似乎描述了一個角色和行星"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "神靈的描述讓我想起了庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "圖片裡的發光人在幫助行星"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個場景在顯示一個人幫助行星"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "古老壁畫總是喜歡錶現模糊而且神祕"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個全息圖神祕而美麗地描述一個生物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這幅古老的圖畫展示了某些神祕的人物"
+} ]

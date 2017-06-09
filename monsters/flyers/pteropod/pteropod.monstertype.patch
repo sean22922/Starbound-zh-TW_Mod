@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼莢蝠"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "豆莢中發酵的果實醞釀出有毒的粘液"
+} ]

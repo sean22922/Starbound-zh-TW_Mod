@@ -1,9 +1,0 @@
-{
-  "name" : "hologramglow",
-  "effectConfig" : {},
-  "defaultDuration" : 5,
-
-  "scripts" : [ ],
-
-  "animationConfig" : "hologramglow.animation"
-}

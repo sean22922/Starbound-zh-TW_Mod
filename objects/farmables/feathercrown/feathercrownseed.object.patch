@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "羽冠蘿蔔，從頂部發芽，隨風飄動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羽冠蘿蔔種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來像是翼族人頭上插著胡蘿蔔"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "出於翼族的細心。只有最好的菜餚才配有羽冠蘿蔔"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來像翼族人，吃起來像泥土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很哲學，或許有一天羽冠蘿蔔可以真的飛起來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一根有羽毛的蘿蔔，很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "羽毛掉到水裡可不是好事，羽冠蘿蔔也一樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種毛茸茸的水果"
+} ]

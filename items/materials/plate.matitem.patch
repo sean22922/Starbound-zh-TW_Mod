@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓我想起一個醫療中心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電鍍塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "好奇。這些金屬板都被可以弄平滑過"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "光滑閃亮的金屬板"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看起來很光滑的承樑板"
+} ]

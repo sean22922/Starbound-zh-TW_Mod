@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "拉娜·布萊克"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "獲得了強力補充物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "你好，士兵。我獲得了一批補充物。你需要這些嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "你好，士兵。我獲得了一批補充物。你需要這些嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "我明天會有一批新貨，如果你需要就過來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "明天再來吧，士兵——我到那時就有一批新貨了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/0",
+  "value" : "我得到了一批從叛軍大本營直接弄來的補充物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/1",
+  "value" : "士兵——叛軍給我運來新的一批補充物"
+} ]

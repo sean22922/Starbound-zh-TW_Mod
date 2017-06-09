@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我來這裡挑一些研究材料！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "在這件黃色的制服下，我的心臟正在為探索的熱情而轟鳴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我不會逗留太長時間，只是來買點研究之旅的材料！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "就算文化有所丟失，人們總能重新找回科技，是不是很神奇？"
+} ]

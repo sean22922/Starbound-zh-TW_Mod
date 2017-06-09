@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "私人傳送器的一種罕見高科技關鍵部分"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳送器核心"
+} ]

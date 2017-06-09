@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "礁石豆莢，和海水一起吃挺好吃的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "濃縮莢種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "礁石豆莢嚐起來又鹹又甜，但挺好吃的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可口的美食"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嚐起來像是漁夫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。礁石豆莢很奇怪，為什麼會有鹹的水果？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "礁石豆莢又鹹又甜，還很脆，感覺像是爆米花"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "礁石豆莢的甜度正適合鮫族人的味蕾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "礁石豆莢是開胃菜還是甜食？我真不知道"
+} ]

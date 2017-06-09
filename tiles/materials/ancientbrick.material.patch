@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個被雕刻的磚頭歷史太悠久了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這些古磚塊經受住了時間的考驗"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "古切割磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些看起來很老的磚塊"
+} ]

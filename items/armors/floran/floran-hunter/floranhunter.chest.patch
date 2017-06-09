@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "獵人的護胸蓋住了你的胸部，讓你覺得溫暖而乾燥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "野蠻人護胸"
+} ]

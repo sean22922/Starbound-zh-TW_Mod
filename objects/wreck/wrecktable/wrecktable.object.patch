@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張破舊的桌子。仍然能發揮桌子的用途"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張桌子的毀滅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張舊桌子。狀況十分糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "舊桌子嘶……修不好了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡狀。這張舊桌子狀態差得嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這桌子就是塊垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這桌子很舊，很破，很無藥可救"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這桌子狀況真不怎麼樣"
+} ]

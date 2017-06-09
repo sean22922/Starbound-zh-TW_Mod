@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "fleshstrand", "count" : 25 }
-  ],
-  "output" : { "item" : "fleshtable", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

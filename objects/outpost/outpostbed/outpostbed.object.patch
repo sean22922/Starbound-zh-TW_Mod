@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張簡陋的牀。不是太舒服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋金屬牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張簡陋的牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這牀看起來太簡陋了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想睡了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。一個舒服的地方打盹"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張好的普通牀"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張粗糙的牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個用來打盹的好地方"
+} ]

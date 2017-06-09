@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把大型中空晶洞雕刻成的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個晶洞的形狀正好適合當座位"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子看起來不太舒服，但也能坐上去休息休息"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "巨石不適合當椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。在這把椅子上坐太久肯定會不舒服的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個中空的晶洞正好能坐進去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "舒適性方面的缺陷可以用美景來彌補"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是我見過景色最美的石椅"
+} ]

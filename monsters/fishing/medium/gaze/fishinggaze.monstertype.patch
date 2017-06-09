@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "盯目鰱"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠巨大的眼睛可以抵消水溫和鹽份變化所引起的不適"
+} ]

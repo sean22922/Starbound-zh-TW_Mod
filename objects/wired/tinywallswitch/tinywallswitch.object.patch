@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能通過輕按進行開啓和關閉的簡潔開關"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牆壁微形開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個開關。它能啟動什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個小型開關一定能啓動什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "開開開關！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝狀。這個小開關看上去沒那麼強大"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我想知道我能玩這個開關多少次"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個基礎開關。能夠用來啟動什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我能撥動這裡的開關！"
+} ]

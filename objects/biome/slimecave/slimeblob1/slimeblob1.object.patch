@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一坨邪惡的史萊姆。噫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黏液滴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "腐爛的一堆爛泥。這東西該如何收藏？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一大團爛泥。這東西不清真"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "像樹液"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。一團惡劣的爛泥！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一大團果凍。我想去捅它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果有兩棲動物皮膚的話，爛泥團其實不難對付"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這玩意也許會有用"
+} ]

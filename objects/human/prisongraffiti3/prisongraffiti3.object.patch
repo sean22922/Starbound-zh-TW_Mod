@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "塗鴉：嚴厲的警告。忽略它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塗鴉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "\"能跑就跑\"。我怎麼知道要待多久？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我肯定是某人在開玩笑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在想寫這個的人跑出去了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警覺。一個緊急警告"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦，這些愛開玩笑的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "或許我應該聽從這個建議"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某人的警告。我會記住的"
+} ]

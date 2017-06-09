@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是種執行著叫\"尖叫的時尚間諜\"的遊戲的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紫色之拱機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個遊戲叫尖叫的時尚間諜。我感覺……我不會忘記他們的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個名為尖叫的時尚間諜的解謎遊戲。他們為什麼要尖叫？這是個謎嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "遊戲叫尖叫的時尚間諜。葉族人喜歡這個遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不簡單。這個遊戲叫尖叫的時尚間諜，我被它搞的心緒不安。6/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "時尚間諜真的都像尖叫的時尚間諜裡那樣害怕嗎？什麼是時尚間諜？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我聽說尖叫的時尚間諜是一個藝術家改編的真正的犯罪故事"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "時尚間諜確實叫個不停。我需要知道為什麼嗎？"
+} ]

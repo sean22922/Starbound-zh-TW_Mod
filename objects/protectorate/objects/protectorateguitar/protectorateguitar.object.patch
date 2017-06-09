@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "學生吉他"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者紅吉他"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把不錯的紅色吉他。我可以彈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我的室友很擅長彈吉他。也許他們可以教我"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聲音好大。葉族人喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嫉妒。我的一個室友彈吉他彈得真的很好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當然，我會彈。雖然不是現在"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "音樂。這樣一種表達性的語言"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我更喜歡聽音樂，但我可以拿這個演奏一些簡單的曲子"
+} ]

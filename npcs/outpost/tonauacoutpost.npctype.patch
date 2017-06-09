@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這麼宏偉的古代遺蹟……我敢打賭是庫魯克斯造的這些！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/bless/default/default/0",
+  "value" : "於是庫魯克斯說，\"福臨我軍！\""
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/bless/default/default/1",
+  "value" : "翼撰史詩 81:1:6——\"循庫魯克斯之跡者，他人不及。\""
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/bless/default/default/2",
+  "value" : "來，做個禱告！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/bless/default/default/3",
+  "value" : "這地方看上去甚至比偉主神廟還古老！來，做個禱告！"
+} ]

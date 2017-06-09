@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張有兩條彩虹的油畫。一道雙層彩虹"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩虹油畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這幅畫……如此強烈……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這幅畫上有兩道彩虹。這代表了什麼含義？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡明亮生動的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "被征服了。這條雙彩虹畫很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，我的天啊。看這一副彩虹畫"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一條雙彩虹，真漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一幅描繪著閃亮光紋的畫"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大量的蠕動觸手"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "觸手群"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "被干擾。這些觸手被壓碎到一個固體方塊當中"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡蠕動的觸手"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一大堆看著詭異的觸手被壓到一塊"
+} ]

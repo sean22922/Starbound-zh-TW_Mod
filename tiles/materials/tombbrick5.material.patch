@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "光滑的墳墓磚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "完美打磨過的古老磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這些磚塊的邊緣都經過平滑處理"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "平滑的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些看上去古老的磚塊十分平滑"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一支小號。別吹自個兒的角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小號"
+} ]

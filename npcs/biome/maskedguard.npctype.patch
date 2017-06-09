@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我在這裡是負責維持秩序的，你可以到處看看，但不要惹麻煩"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "在工廠工作讓我獲得鋼鐵一般的手臂！我可不是好惹的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我的錘子是用來維持秩序的，你老實點，我就不用錘子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "哪怕是老大猿都沒法在腕力比賽上勝過我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "我努力工作，不停流汗，這還挺累的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "為了保護這座工廠，我流了不少汗，你看出來了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我的羽毛裡都是汗！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "在我的家鄉，我從小就被當成戰士培養，保護這裡對我來說是小菜一碟！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "揮舞這柄巨錘並不是很難"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "勇敢。我可以面對這顆星球上的任何危險！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "擔心。你覺得我在出汗嗎？這其實是……忠誠的結晶！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "無聊。日復一日地守護這裡真的挺無聊的，我好想出去和誰打一架……"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/selectLabel/value",
+  "value" : "蒐集"
+}, {
+  "op" : "replace",
+  "path" : "/gui/emptyLabel/value",
+  "value" : "從左邊選擇蒐集類別"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "蒐集圖鑑"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "用抓到或製作的各種東西集齊目錄吧！"
+} ]

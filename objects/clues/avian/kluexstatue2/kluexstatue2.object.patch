@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座描繪著庫魯克斯神性威能的雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯蛇紋石雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "雕像的底座上有記載的翼族神明庫魯克斯的神話"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這座雕像表徵的是庫魯克斯的強大，在這被雕刻成了類似大蛇的形象"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "雕像中的大傢夥很像是專門為葉族人準備的對手！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個雕像將庫魯克斯神描繪為一個強大的蟒蛇，就像故事中講的一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個庫魯克斯雕像講述了他的故事，他就像一條長長的巨蟒！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡的文字講述了庫魯克斯不屈不撓的意志，他的身軀長而流動，就像河一樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不想和這隻巨蛇發生爭執……還是說它是鳥？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蘑菇衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "他們究竟是用的哪種蘑菇製作的這個衣櫃？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果我往這個衣櫃裡面放東西，我的東西會變成蘑菇味嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡把東西放進蘑菇裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。他們做這個衣櫃一定用了很多蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "誰會把東西放在蘑菇裡啊？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這到底是像衣櫃的蘑菇，還是像蘑菇的衣櫃？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個衣櫃看起來就像是一個大蘑菇！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把燒焦的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燒焦的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這長椅經受過不少傷害"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這長椅看起來磨損且生鏽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "老舊的生鏽長椅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "心神不定。這長椅證明即使是最強的金屬也會被腐蝕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這椅子有過更好的日子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果它會說話，真想知道這長椅會說些怎樣的故事"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這長椅看起來磨損地很厲害"
+} ]

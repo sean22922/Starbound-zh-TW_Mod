@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "爬滿了藤蔓的木製桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雜草叢生的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "除了桌子最上方之外，全部爬滿了藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "雖然這些植物看來很安全，但最好還不是要吃這個"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很喜歡爬滿植物的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這些植物已經很長時間沒人打理過了，因此它們爬滿了整張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個桌子挺漂亮的，就是上面爬滿了藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些植物幾乎把這張桌子給爬滿了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這桌子上爬得都是些什麼東西？"
+} ]

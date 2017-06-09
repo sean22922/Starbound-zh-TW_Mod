@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "像浴袍，但嚴肅的巫師們經常穿。巫師們經常洗澡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巫師長袍褲子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個節日杆！彩條很有節日氣氛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "節日的杆子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有條紋的杆子……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個杆子的條紋很想節日的糖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "真是個長杆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。有糖果條紋的杆子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "糖果條紋的杆子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一根紅白相間的杆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像糖，但是吃起來肯定不像！"
+} ]

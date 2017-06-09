@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一堆保護者儲物櫃，包括你的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "我的儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "其中一個儲物櫃是我的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "學生儲物櫃，還有我自己的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個儲物櫃是葉族人的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "熟悉。這是我幾年來的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我的儲物櫃裡，有我所有的課本和樂隊的照片"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個簡陋的學生儲物櫃我用著很好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是的，那是我的櫃子。不過裡面沒啥東西了"
+} ]

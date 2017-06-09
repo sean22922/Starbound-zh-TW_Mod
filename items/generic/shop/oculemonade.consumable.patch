@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大熱天，有什麼比得上一罐冰涼消暑的翡翠眼檸檬"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翡翠眼檸檬"
+} ]

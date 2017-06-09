@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張鮮豔色彩的桌子，上面還有一塊絢麗的桌布"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子有一塊很好看的桌布"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我喜歡這張桌子的七彩桌布"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡繽紛的桌布"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察性。這張桌子的顏色非常粉彩"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這塊桌布上的花朵是手工繡的。太用心了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是張裝扮精緻的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一張超級美麗的桌子"
+} ]

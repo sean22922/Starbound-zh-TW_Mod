@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系中金星的詳細模型的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "金星，被二氧化硫的大氣層不該，至今仍是太陽系中最熱的\n行星"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "金星維納斯。以地球古代的愛與美之女神命名"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太陽嘶……系的金星。八個行星裡排第二"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷狀。金星有天然的溫室氣體，這讓它的地表溫度非常\n之高"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "金星是太陽星中第二行星。在地球被毀滅前曾有過一場將\n它地球化的討論"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金星，地球的鄰居，差不多一樣大，但由於極端條件而毫無生命跡象"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金星。在地球上可以用肉眼看見。很懷念……"
+} ]

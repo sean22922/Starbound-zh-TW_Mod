@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個麥克風。為這裡的靈魂女歌手準備的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高頻麥克風"
+} ]

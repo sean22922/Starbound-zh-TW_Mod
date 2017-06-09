@@ -1,9 +1,0 @@
-{
-  "name" : "evolution",
-  "category" : "hen",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

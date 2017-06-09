@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃亮的護甲代表決心。嗯……這面盾看起來很鬆散"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可疑的展示護甲"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套美麗的護甲。盾看起來很鬆散"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這好像是戰鬥護甲。這面盾看起來很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬人就穿著金屬護甲嗎？葉族人嗅到了奇怪的氣息"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這套護甲的盾牌下面有一個開關裝置"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一套美麗的護甲。如果是在電影中的話，盾牌會藏著一個祕密開關"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這套護甲好像從沒上過戰場。盾牌看起來非常輕薄"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "似乎沒辦法穿著這樣的護甲上戰場。盾牌上有什麼？"
+} ]

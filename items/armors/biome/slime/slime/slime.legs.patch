@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿這個感覺像漫遊在果凍裡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "史萊姆褲子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牌子寫著 \"牢房區\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牢房區標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "牌子寫著 \"牢房區\""
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這東西的意思是\"牢房區\""
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個無聊的牌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。\"牢房區\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直就想去牢房區看看！不，等等，我想去的是動物園"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個標誌代表著人們無法看到周圍的情況"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "牌子寫著\"牢房區\""
+} ]

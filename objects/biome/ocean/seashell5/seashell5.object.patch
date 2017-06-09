@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一枚海貝！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海貝"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "海貝有時會在身體裡藏著寶物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "海貝真的是自然之寶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "海貝可以砸開！裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感傷。砸開海貝是可恥的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個海貝曾是一個外星生物的家。現在它裡面有像素點！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個海貝，這是海洋對我們的死亡警告"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不介意擊碎一些貝殼，只要能夠把它們霸佔的像素吐出來"
+} ]

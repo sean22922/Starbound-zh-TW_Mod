@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用這個惡魔羊頭骨面具嚇你的朋友和敵人吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羊頭骨面具"
+} ]

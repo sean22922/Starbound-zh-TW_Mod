@@ -1,0 +1,257 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/victim/example/name",
+  "value" : "完美通用受害者"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/thief/example/name",
+  "value" : "惡魔McThief"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/object/example/name",
+  "value" : "幽靈牀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "義務警察<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "幫助<victim>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人發現了令人震驚的犯罪！我們得解決它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;誘人的<item>被偷走了。我們要伸張正義！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;困擾。<victim>被偷東西了！我們得幫幫<victim.pronoun.object>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;投機。我發現<thief>一隻在偷東西。幫我把<thief.pronoun.object>抓起來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我看見<victim>正在尋找<victim.pronoun.possessiveDet><item>，我碰巧知道是誰偷走的。如果我們幫他找回來，<victim.pronoun.capitalSubject>一定會很感激"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;<victim>問我是否知道有誰能幫忙找到<victim.pronoun.possessiveDet><item>。我知道它在哪裡，但是我需要你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "葉族人遇到麻煩了，需要你的幫助。那個狡猾的小偷^orange;<thief>^white;偷走了屬於<victim>的^orange;<item>^white;！^green;請把它奪回來，放在^orange;<victim>的^green;房子裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "你一定不會相信發生了什麼！^orange;<victim>^white;被^orange;<thief>扒竊了。^white;葉族人希望能幫幫他，也許你能^green;奪回被偷走的^orange;<item>^green;，然後把它放回<victim>的房子？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "擔心。名叫^orange;<thief>^white;的小偷偷走了<victim>寶貴的^orange;<item>！你能不能^green;把它奪回來並放回^orange;<victim>的^green;房子？^white;我敢肯定<victim.pronoun.subject>會很感激的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "腹黑。<victim>應該信任我的。我早知道會這樣了。<thief>從<victim.pronoun.object>那裡偷走了^orange;<item>^white;。^green;你能把它從^orange;<thief>的^green;房子裡奪回^white;並^green;放回^orange;<victim>的^green;房子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "好吧，我得知^orange;<thief>^white;偷走了^orange;<victim>的<item>^white;。我需要你幫忙^green;拿回它^white;。你一旦得手，^green;就把它放回^orange;<victim>的^green;房子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先，我們要做的事和偷盜有關，但是是好的那種。我們需要從^orange;<thief>的家裡偷回被偷的^orange;<item>^white;。^green;成功後放回^orange;<victim>的^green;房子裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/0",
+  "value" : "幹得漂亮！葉族人還需要你幫個忙……^orange;<thief>^white;從我們友好的鄰居<victim>那裡偷走了^orange;<item>^white;——真是太過分了！^green;請把它奪回來並放回^orange;<victim>的^green;房子裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/1",
+  "value" : "葉族人對發生的事情很不滿——^orange;<thief>^white;無恥地偷盜了<victim>！如果你能^green;奪回被偷走的^orange;<item>^green;，把它還給^orange;<victim>，^white;我敢肯定<victim.pronoun.subject>會很感激"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/0",
+  "value" : "憤怒。那個騙子<thief>竟敢偷走可憐的<victim>最喜愛的^orange;<item>。^white;我們必須做點什麼！你能不能^green;從^orange;<thief>的^green;房子裡把它奪回^white;然後把它^green;放回^orange;<victim>的^green;房子？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/1",
+  "value" : "算計。接下來，如果你能^green;奪回^orange;<thief>^white;從<victim.pronoun.object>那裡偷走的^orange;<item>^white;，把它^green;放回<victim.pronoun.possessiveDet>房子^white;，我覺得^orange;<victim>^white;一定會很高興，那一定會讓<victim.pronoun.possessiveDet>永遠銘記"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/0",
+  "value" : "我們得入室行竊了。^green;去^orange;<thief>的^green;房子裡奪回被偷走的^orange;<item>^green;，然後^green;把它放回^orange;<victim>的^green;房子。^white;我會幫你把風，確保沒人看見你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/1",
+  "value" : "進去偷點東西應該也無傷大雅……去^green;偷回^orange;<thief>的^green;房子裡的^orange;<item>^green;。然後把它放回^orange;<victim>的^green;房子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/0",
+  "value" : "葉族人需要幫助。^orange;<thief>^white;從可憐的<victim>那裡偷走了^orange;<item>^white;——太狡猾了！^green;把它奪回並放回^orange;<victim>的^green;房子^white;。然後葉族人就不會打擾你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/1",
+  "value" : "噢，不！葉族人聽說^orange;<victim>^white;被^orange;<thief>^white;扒竊了。沒人阻止這樣的犯罪！請你^green;奪回被偷走的^orange;<item>^green;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/0",
+  "value" : "不安。我們還有最後一個問題——那個討厭的^orange;<thief>^white;偷走了<victim>最喜愛的^orange;<item>^white;！^orange;<victim> ^white;肯定很絕望，除非我們——我是說……你^green;把它奪回並放回<victim.pronoun.possessiveDet>房子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/1",
+  "value" : "巧妙。我聽說^orange;<thief>^white;最近偷走了<victim>的^orange;<item>。^white;如果你能^green;把它奪回並放回^orange;<victim>的^green;房子^white;，<victim.pronoun.subject>一定會非常感激，並在以後報答我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/0",
+  "value" : "是時候為正義而戰了！從^green;<thief>的家^white;奪回被偷走的^orange;<item>^white;，然後^green;把它放回^orange;<victim>的^green;家。^white;我會幫你把風的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/1",
+  "value" : "一切就緒，是時候充當義務警察了！你去^orange;<thief>的^green;藏身處^white;奪回被偷走的^orange;<item>^white;。然後悄悄地把它放回^orange;<victim>的^white;家。我會幫你把風的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族人需要你的幫助。^orange;<thief>^white;從親愛的<victim>那裡偷走了^orange;<item>^white;——太狡猾了！把它奪回並放回^orange;<victim>的^green;房子^white;，可以嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "真是世風日下……葉族人聽說^orange;<thief>^white;偷走了^orange;<victim>的^green;<item>。^white;你能不能^green;奪回^orange;<item>^white;並還給它的主人呢？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "擔心。情況緊急，^orange;<thief>^white;搶劫了<victim>並拿了<victim.pronoun.possessiveDet>^orange;<item>^white;！如果你能把它^green;奪回並放回^orange;<victim>的^green;房子^white;，<victim.pronoun.subject>甚至不會知道它丟了。我會很感激"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "狡猾。^orange;<thief>^white;最近偷走了<victim>最喜愛的<item>。^green;奪回^orange;<item>^green;並把它放回<victim.pronoun.possessiveDet>房子，我敢肯定^orange;<victim>^white;一定會非常感謝我。^white;你能幫幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "你去^orange;<thief>的房子^green;偷回被偷走的^orange;<item>^white;。你一旦得手，就把它^green;放回^orange;<victim>的^green;房子^white;，我會幫你把風的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "我在尋找的^orange;<item>被<thief>偷走了^white;。你去<thief.pronoun.possessiveDet>家裡把它^green;偷回來^white;，然後^green;放回^orange;<victim>的^green;房子裡^white;物歸原主。我會幫你把風的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "太棒了！<victim>一定會很高興我們奪回了<item>！但是葉族人還需要你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "現在我們可以休息了，<victim>拿回了<victim.pronoun.possessiveDet><item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "高興。太棒了！<victim>拿回了<victim.pronoun.possessiveDet><item>一切都恢復正常了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "狡詐。你成功地把<item>放回了<victim>的房子——謝謝你！如果我能讓<victim.pronoun.object>相信這是我做的，我一定能贏得<victim.pronoun.possessiveDet>信任！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "你做得實在太棒了！我等不及看到<thief>發現自作自受時<thief.pronoun.possessiveDet>表情了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "沒我想像的那麼難。你很擅長這種事，不是嗎？<victim>一定會很高興發現物歸原主了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/0",
+  "value" : "太好了！<victim>一定會很感激能拿回<item>。現在，葉族人需要更多幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/1",
+  "value" : "你做到了！希望<thief>後悔<thief.pronoun.possessiveDet>罪行。葉族人會監視他，避免再發生這種事！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/0",
+  "value" : "滿意。幹得漂亮！<victim>一定會很高興能拿回<item>。你願意再幫我辦點事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/1",
+  "value" : "狡詐。謝謝你把<item>奪回並還給<victim>！我希望你不會介意我搶了你的功勞。我一定能獲得<victim>的信任！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/0",
+  "value" : "太好了！你沒有留下任何指紋，我很欣賞這一點，太聰明了。我們就等著<victim>聽到這個好消息吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/1",
+  "value" : "幹得漂亮！<victim>一定會對我很高興，一旦<victim.pronoun.subject>看見<victim.pronoun.possessiveDet><item>物歸原主"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/0",
+  "value" : "成功了！<victim>一定會很高興能拿回<item>。這讓葉族人也很高興"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/1",
+  "value" : "葉族人很感謝你能把<item>還給<victim>。葉族人就知道你很靠譜！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/0",
+  "value" : "狂喜。危機解除——<victim>拿回了<victim.pronoun.possessiveDet><item>！真的非常感謝你，<player>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/1",
+  "value" : "高興。我很高興你能把<item>還給<victim>！一旦我告訴<victim.pronoun.object>是我做的，<victim.pronoun.subject>一定會信任我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/0",
+  "value" : "正義的使者－<player>和<questGiver>！聽起來是不是很不錯？你真是神出鬼沒，<thief>都不知道發生了什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/1",
+  "value" : "你真是個天才，我看見你帶了自己的工具。<victim>一定會很高興看見<victim.pronoun.possessiveDet>東西物歸原主"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "任務完成！<victim>一定會很開心能拿回<item>。這讓葉族人也很開心"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "你奪回了<item>！我敢肯定，<victim>有你幫忙後會很有安全感！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "放鬆。非常感謝！<victim>拿回了<victim.pronoun.possessiveDet><item>，<thief>一定不敢再偷竊<victim.pronoun.object>了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "愉快。你做的很好，替我把<item>放回了<victim>的房間！你不會介意我搶了你的功勞吧？嘻嘻"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "你做的太輕鬆了！<victim>一定會很高興看見我們奪回了<victim.pronoun.possessiveDet><item>。你以前幹過這個嗎？用那個特殊工具就不用擔心會留下指紋了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "幹得漂亮！<victim>一定會很感激得知<victim.pronoun.possessiveDet><item>物歸原主了。我們現在是勇敢的義務警員了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我沒能幫助<victim>。也許我還是不插手比較好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我沒能奪回<victim>的<item>。<questGiver>應該可以靠<questGiver.pronoun.reflexive>完成"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/2",
+  "value" : "我沒能奪回<victim>被偷走的東西。希望<victim.pronoun.subject>不會太介意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "從<thief>的房子裡拿走<victim>的<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "將<item>送還回<victim>的家"
+} ]

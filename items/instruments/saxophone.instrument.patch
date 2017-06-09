@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一支薩克斯管。為了你的太空藍調"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "薩克斯管"
+} ]

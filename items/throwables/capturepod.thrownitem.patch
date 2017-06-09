@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空的寶貝球"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發現野生的怪物！用力丟過去，試著收服牠吧"
+} ]

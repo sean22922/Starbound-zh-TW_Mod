@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的木雕球"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽朋克球"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "手工製作的球體儀。我在想這做得準不準確呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這手工製的球體上寫有贈言"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想把木球滾下山，把敵人砸個稀巴爛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。我在想這球體儀做得精確不？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個木頭球體儀描繪的到底是哪個星球？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "做這個球體儀可是相當好的手藝活啊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "可以看出真是花了不少功夫才打造出來的"
+} ]

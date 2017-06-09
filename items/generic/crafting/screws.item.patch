@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把金屬螺絲釘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螺絲釘"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "灌木叢中似乎有小撲蟲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醉魚草"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一處怕滿蟲子的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我在灌木叢中發現了一個蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "灌木叢中的小小蟲子太小沒法刺"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個灌木叢的生物特性吸引了這些蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有些蟲子很漂亮，我應該抓一些帶走"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "好可愛的小蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這風滾草上面全是蟲子"
+} ]

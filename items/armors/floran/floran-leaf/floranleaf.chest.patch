@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件上衣表面是用葉子做成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "樹葉護胸"
+} ]

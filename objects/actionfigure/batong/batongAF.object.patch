@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它能通過空氣中的分子感知前面的物體。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "八通小雕像"
+} ]

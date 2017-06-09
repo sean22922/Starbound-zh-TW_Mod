@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "威尼斯面具與帽子。現在是幾點？嘉年華！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "威尼斯面具"
+} ]

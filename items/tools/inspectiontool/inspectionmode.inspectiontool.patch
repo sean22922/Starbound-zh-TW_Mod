@@ -1,0 +1,141 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "視察周圍世界。^green;按[N]鍵快速選擇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "視察模式"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/0",
+  "value" : "看不見那裡"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/1",
+  "value" : "要再靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/2",
+  "value" : "從這裡看不見"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/3",
+  "value" : "離得不夠近"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/0",
+  "value" : "我的眼睛沒那麼好，得靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/1",
+  "value" : "離得不夠近，看不清楚"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/2",
+  "value" : "要靠近一點才能看清"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/3",
+  "value" : "在這裡看不見"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/0",
+  "value" : "葉族人在這裡看不見！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/1",
+  "value" : "葉族人得靠得近一點才能看見"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/2",
+  "value" : "葉族人看不見那個地點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/3",
+  "value" : "葉族人離得不夠近，看不見"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/0",
+  "value" : "失望。我在這裡看不見那個地點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/1",
+  "value" : "疑惑。我不確定那是什麼，也許我應該靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/2",
+  "value" : "沮喪。我在這裡看不見"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/3",
+  "value" : "苦惱。我離得不夠近，看不見"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/0",
+  "value" : "這裡沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/1",
+  "value" : "這什麼都沒"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/2",
+  "value" : "這裡真的什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/3",
+  "value" : "沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/0",
+  "value" : "我一無所獲"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/1",
+  "value" : "沒什麼值得說的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/2",
+  "value" : "那裡沒什麼令人感興趣的東西"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/3",
+  "value" : "什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/0",
+  "value" : "沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/1",
+  "value" : "什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/2",
+  "value" : "這什麼都不是"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/3",
+  "value" : "沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/0",
+  "value" : "無感。這裡沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/1",
+  "value" : "平靜。那裡什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/2",
+  "value" : "失望。沒什麼有意思的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/3",
+  "value" : "冷漠。這裡真的什麼都沒有"
+} ]

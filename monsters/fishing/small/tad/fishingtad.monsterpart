@@ -1,9 +1,0 @@
-{
-  "name" : "fishingtad",
-  "category" : "fishingtad",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingtad.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個老舊的瘟疫之主面具。真的很恐怖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瘟疫之主面具"
+} ]

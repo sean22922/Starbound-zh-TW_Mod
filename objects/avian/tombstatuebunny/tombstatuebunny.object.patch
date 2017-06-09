@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小兔子的雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族兔子雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個兔子雕像。這代表著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這座雕像代表著一個註定無法在來世獲得翅膀的偉人。他們會像兔子一樣永遠地蹦跳下去"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "巨型的兔子人，應該可以成為美味的點心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。我相信在翼族人的社會中兔子很重要"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個兔子雕像。它對於翼族人來說肯定有什麼重要意義"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個兔子是某種侮辱嗎？是否代表著翼族人的墮落？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個動物的雕像。一個惟妙惟肖的兔子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一株發光的葡萄樹！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光藤"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "發光的卷鬚"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那東西的藤蔓很美"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光的綠藤"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意，希望所有洞窟都有這發光的藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "恐怖的發光藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "藤蔓像深海會移動的海草，模糊的光線令人開心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些藤蔓裡有很多有用的東西"
+} ]

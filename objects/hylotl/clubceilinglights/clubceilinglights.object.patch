@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍俱樂部燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "俱樂部屋頂的彩燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "現在只需要一個青蛙機器就能給這個地方添上夜店氣息了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我在想什麼樣的水晶能發出藍光呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "藍色亮光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不感興趣。是一道藍光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "設定氛圍的環境燈光。什麼氛圍？不確定"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "俱樂部的藍色環境燈光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個藍燈照亮了整個房間"
+} ]

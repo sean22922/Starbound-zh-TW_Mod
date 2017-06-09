@@ -1,9 +1,0 @@
-{
-  "name" : "smallspineplatetail",
-  "category" : "smallquadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallspineplatetail.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "眼檸檬酸味派，上面蓋著甜甜的調和蛋白"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼檸檬調和蛋白"
+} ]

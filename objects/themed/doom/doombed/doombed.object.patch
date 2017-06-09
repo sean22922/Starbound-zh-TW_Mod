@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張高貴的的厄運牀。雖然有一點扎人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "厄運牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張異常美妙、舒適的牀。看上去不尋常地詭異"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對於休整我的羽毛來說這地方和其它地方一樣好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人帶著牙齒在超棒的牀上休——息"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關切狀。這張牀的外表讓人有些不安"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張絕妙的牀。在這應該能輕易地得到休息，只要它別讓我做噩夢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "建造品質真棒。儘管它的外表就不一定了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這牀對於什麼尖尖的玩意來說應該挺舒服"
+} ]

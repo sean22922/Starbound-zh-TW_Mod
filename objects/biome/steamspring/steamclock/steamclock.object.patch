@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蒸汽驅動的漂亮大時鐘面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽時鐘面"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "讓人驚歎的一個時鐘"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個巨大的時鐘，讓人無法忽視"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "現在葉族也知道時間了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。這個時鐘能夠顯示正確的時間嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "什麼東西有手但是不會鼓掌？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "更大的時鐘也無法給你更多的時間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個巨大的時鐘，讓人無法忽視"
+} ]

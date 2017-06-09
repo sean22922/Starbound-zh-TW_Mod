@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小型加熱器！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型加熱器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "溫暖舒適的便攜式加熱器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用來加熱羽毛再好不過了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "熱量很好，還沒有火。對葉族人來說安全"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。一個小暖氣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小型加熱器，聽起來好有未來感，炫酷！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "方便獲得溫暖的聰明辦法"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個加熱器。我從來就不需要"
+} ]

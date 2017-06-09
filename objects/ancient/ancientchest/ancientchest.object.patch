@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不知從哪來的古老箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "十分老舊的箱子。裡面可能有任何東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這箱子看起來確實很老了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很好奇。這奇怪箱子裡裝的啥？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。我無法感知這箱子的結構"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個看起來很老的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子的設計我不太熟悉，無法確定製作者"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "過了這麼久這箱子仍然完好，真了不起"
+} ]

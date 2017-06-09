@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一叢美麗的花朵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光花叢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "漂亮發光的花"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些發光的花太美了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族會戴發光的花…但這樣葉族就要被看到了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷人，這花很適應這嚴酷的環境"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我喜歡這些盛開在我花園的花，但似乎都太精緻無法移植"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些花發出微弱的光，似乎被遺棄在雪地中"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "並不是很美的植物"
+} ]

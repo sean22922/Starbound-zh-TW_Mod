@@ -1,9 +1,0 @@
-{
-  "name" : "apexscabcritter",
-  "category" : "apexscabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只是一個護牆板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式牆面板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木板。大多數猿人房子裡都能找到這個東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這東西蓋著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "無用的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒意思。沒有意義的木板"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我打賭你能在這玩意後面藏一個麥克"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這只是個裝飾還是有別的作用？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這木頭和一元店裡的靴子一樣不耐用"
+} ]

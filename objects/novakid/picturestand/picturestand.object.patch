@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個新奇的牛仔拍照看板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "挖洞拍照看板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果這個修飾物的功能是僞裝，那麼就實在太失敗了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "是站在這個圈圈裡拍照嗎？真是荒唐！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族一臉懵逼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個東西有啥用處？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個新奇的相架？讓我把頭放進去，然後找個人替我拍照！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這一點都不有趣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "嘻哈！站在它後面，就能變成牛仔了"
+} ]

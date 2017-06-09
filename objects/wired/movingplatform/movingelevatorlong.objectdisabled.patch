@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長升降機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "移動平台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "移動平台"
+} ]

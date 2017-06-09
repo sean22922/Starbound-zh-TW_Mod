@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "兩個標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "二"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "二"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "二"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "蛇形的數字二"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平淡。二"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個數字二。呵呵"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "二"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個二"
+} ]

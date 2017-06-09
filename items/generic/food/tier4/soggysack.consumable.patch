@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "將泥刺膽塞入珊瑚果中，這種事物的做法聽起來很糟糕，但嚐起來味道卻不錯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "章魚餃子"
+} ]

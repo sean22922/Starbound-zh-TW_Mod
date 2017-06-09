@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"當它閉上眼，它就會進入了另一個平面世界，從而免疫所有攻擊。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈體小雕像"
+} ]

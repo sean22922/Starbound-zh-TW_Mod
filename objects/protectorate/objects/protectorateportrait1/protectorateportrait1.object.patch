@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅前任大保護者的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大保護者肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "第一位大保護者的肖像。他眼神好嚴厲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "第一位大保護者的肖像。他看起來很為他手上的書感到驕傲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有血有肉的老人。現在死了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這是第一位大保護者。成就非凡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "第一位大保護者！他看起來正如你所想"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "第一位大保護者的肖像。他的眼睛裡有著非凡的智慧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "第一位大保護者的畫像。真是個眼神嚴肅的傢夥"
+} ]

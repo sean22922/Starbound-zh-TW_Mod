@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一小個投擲塊，粘在了表面上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "投擲塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很有趣，到底是什麼力量將這塊固定在這裡的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡投擲！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有些東西就是用來扔的"
+} ]

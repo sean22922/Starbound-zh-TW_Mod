@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個上鎖的小櫃子。存著一些東西。你怎麼不來試試看？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "壞掉的儲存系統。當然本不屬於葉族人原創的技術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "壞掉的儲存櫃子。我不相信是葉族人自己做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "當它完好時，葉族人在探索宇宙前將許多有用的物品儲存在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真苦惱。飛船的儲存系統已經無法運作了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "儲存櫃子。看來現在無法運轉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儲藏間。看來沒有能源供應運轉了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子。修理好之前沒什麼用"
+} ]

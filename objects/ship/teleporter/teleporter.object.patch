@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "值得信賴的傳送器啊，沒了你我們該怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "飛船的傳送器。傳送的時候就像以光速坐過山車一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳送器！傳送的時候就跟飛一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "飛船傳送器。葉族人在傳送的時候感到很困惑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哈哈，是傳送器。這樣在傳送的時候我得進入睡眠模式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "傳送器！傳送是多麼迅速"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "傳送器。傳送就像從山頂跳下潛進大海中"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "飛船傳送器！我們可以帶她兜兜風了！"
+} ]

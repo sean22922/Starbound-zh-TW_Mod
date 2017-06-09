@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "希望不是一個不穩定的火藥桶，最好在放下來之前檢查一下"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海盜桶"
+} ]

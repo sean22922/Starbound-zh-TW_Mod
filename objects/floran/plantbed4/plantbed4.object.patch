@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張蓋上被子的葉族囚犯牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蓋被植物牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張監獄牀褥。至少帶有一張被子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張由植物打造的牀褥"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族囚犯擁有簡單的牀褥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這個簡單的牀褥能夠當牀睡？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "至少這個牀褥有條溫暖的被子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用植物打造的結實牀褥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看來是一張牀褥平鋪在地面上"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這真是一件讓人震撼的收集品！我想知道是誰獲得了這些？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "這真是一件讓人震撼的收集品！我想知道是誰獲得了這些？"
+} ]

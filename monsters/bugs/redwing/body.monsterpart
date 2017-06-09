@@ -1,9 +1,0 @@
-{
-  "name" : "redwing",
-  "category" : "redwing",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "redwing.png"
-  }
-}

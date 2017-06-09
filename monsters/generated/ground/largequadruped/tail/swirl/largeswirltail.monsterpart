@@ -1,9 +1,0 @@
-{
-  "name" : "largeswirltail",
-  "category" : "largequadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "largeswirltail.png"
-  }
-}

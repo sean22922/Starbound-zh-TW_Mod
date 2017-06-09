@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "威脅。你絕不想惹上我們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "渴望。你看起來有很多像素可失！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "挑釁。你覺得看我這麼好玩嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/3",
+  "value" : "興奮。看—有人可搶了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/4",
+  "value" : "草率。我們趕緊搶吧"
+} ]

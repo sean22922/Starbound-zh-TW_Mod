@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沙化的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙化的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "沙沙沙子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。沙化的灌木"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蛋殼，半熟後會有紋理，打破後能看到蛋黃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蛋芽"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "腐壞的老舊金屬磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏽塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "恐懼。腐壞廢棄的金屬已經被風化腐蝕了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "腐壞的金屬磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些金屬看上去已經腐蝕的很嚴重了"
+} ]

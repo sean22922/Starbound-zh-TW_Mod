@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "^#b9b5b2;好吃的零食"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/0/tabTitle",
+  "value" : "購買"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/0/children/lblBuyTotalCaption/value",
+  "value" : "總金額"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/0/children/btnBuy/caption",
+  "value" : "購買"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/1/tabTitle",
+  "value" : "賣"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/1/children/lblSellTotalCaption/value",
+  "value" : "賣價"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/buySellTabs/tabs/1/children/btnSell/caption",
+  "value" : "賣"
+} ]

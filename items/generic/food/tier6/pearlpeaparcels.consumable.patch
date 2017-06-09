@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用肉疣果藤緊緊捆起來的珍珠豆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珍珠豆包"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一段巨大的腸子，它伸展開的範圍十分大"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腸鞭"
+} ]

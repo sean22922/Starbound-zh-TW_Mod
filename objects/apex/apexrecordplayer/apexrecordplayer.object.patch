@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "拿在發出老大猿1號專輯的沉悶的聲音，\"叢林之愛\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式唱片機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "唱片據說有潛在意識的信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "機器發除了很多高頻率的聲音，幾乎聽不到"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人鼓和節湊大師，但是是猿人中第二好的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "集中精神。這音樂裡沒有什麼音樂理論。包含著信息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這就是這裡被認為是音樂的東西？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有壓迫感的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "播放音樂的設備"
+} ]

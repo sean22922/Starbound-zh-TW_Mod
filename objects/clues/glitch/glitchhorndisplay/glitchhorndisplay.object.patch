@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶著編織旗幟的儀式號角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾號角旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這應該是某種儀式上用的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這玩意看起來很重要"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要那個號角！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這種號角是在特殊儀式中使用的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個號角應該很重要，否則為什麼要特意裝裱起來呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我不清楚為什麼這種樂器要被拿出來展示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這玩意應該很重要，但到底值多少錢呢？"
+} ]

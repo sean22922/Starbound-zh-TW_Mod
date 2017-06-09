@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看上去有毒的水果，但是真的是那麼毒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "百毒果"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種植物讓我感覺很噁心，是不是真的有毒？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "酸酸的，很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會給朋友吃百毒果，開他們玩笑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這種食物對所有企鵝都有毒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有毒的鳳梨，難道說普通的鳳梨還不夠毒嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種植物內的毒素可以用來治癒小毛小病"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我才不會相信名字裡有\"毒\"的水果"
+} ]

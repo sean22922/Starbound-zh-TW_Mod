@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被釘在獵矛上的小型昆蟲生物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艾克索菱矛"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鋒利的長矛上的似乎是某種昆蟲類生物的骨骼遺骸"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "長矛上的應該是昆蟲骨骼，昆蟲也有骨骼嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想知道狩獵這蟲子有多艱難"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "矛上的似乎是某種生物的遺骸"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某人扎穿了這個生物並將其作為戰利品給所有人觀賞，這年代到底有多悠久了？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "矛上的生物遺骸應該是對自己狩獵成績的一種展示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "矛上的骨頭讓我心生寒意，真是恐怖"
+} ]

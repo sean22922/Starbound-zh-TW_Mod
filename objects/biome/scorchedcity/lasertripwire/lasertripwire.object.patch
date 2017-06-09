@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿過這束雷射束可能會觸發一些東西！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雷射絆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "雷射絆網。做陷阱很有用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個雷射絆網會有用的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "雷射絆網"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起。帶雷射的絆網"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "穿過這束雷射束可能會觸發一些東西！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雷射絆網，可以用來耍過路的人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這讓我想起那些銀行劫案"
+} ]

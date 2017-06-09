@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個骨頭王座。讓你享受皇家待遇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨頭椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想像某種殘暴的霸主坐在這裡。也許老大猿會欣賞它"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我希望在翼族人寺廟裡找到類似的東西。一個非常險惡的翼族人寺廟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡骨座，葉族坐著，想著啃骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思，死去很久生物的骨頭，大概是滅絕了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個令人毛骨悚然的椅子。令人驚訝的舒適。我可以坐在這裡下達陰險的命令"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "從死亡中塑成的椅子。可怕的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "骨頭王座，很適合骨王"
+} ]

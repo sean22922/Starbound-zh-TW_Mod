@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根能插在任何建築上的旗杆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀旗杆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根旗杆。能夠插在房頂上，幾裡開外都能看見"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一根長旗杆上的旗幟展示著上面的徽章"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "長旗杆上的小旗"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。要是能在我家房頂插上這麼一根旗杆就好了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "旗子在最上面，有著長長的旗杆，所有人都能看到"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一面看起來很睿智的旗幟，徽章可能象徵著皇家"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一面非常漂亮的金旗"
+} ]

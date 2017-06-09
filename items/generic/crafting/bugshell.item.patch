@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某種早已死去的昆蟲的殼，古老而萎縮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蟲殼"
+} ]

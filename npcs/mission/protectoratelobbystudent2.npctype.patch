@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "很快你就能成為一名真正的保護者，擁有自己的物質操縱器了。想想都激動！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我聽說物質操縱器可以分解任何材料"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "要是你被派往遠方，別忘了你在地球還有朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/speak/default/default/0",
+  "value" : "嘿，<entityname>！咱倆聊聊？"
+} ]

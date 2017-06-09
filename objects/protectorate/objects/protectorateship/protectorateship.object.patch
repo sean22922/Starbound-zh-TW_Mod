@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者組織學院的飛船"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者組織飛船"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一艘太空船！這就是我的出路！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "感謝製作者！這或許會是我離開這裡的機會！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太空船！葉族人找到了逃跑的載具！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "如釋重負狀。我能使用這艘太空船安全逃離這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "正如我所願！這艘船就是我離開這裡的出路"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "就是它！這艘太空船能把我帶到更安全的地方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我要乘著那艘太空船去安全的地方了！"
+} ]

@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "wheat", "count" : 1 },
-    { "item" : "shroom", "count" : 5 }
-  ],
-  "output" : { "item" : "mushroombread", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ],
-  "collectables" : { "cooking" : "mushroombread" }
-}

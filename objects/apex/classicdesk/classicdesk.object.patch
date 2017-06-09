@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種桌子專用來做重要的決定"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子上做出個什麼可怕的決定？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "雖然翼族人不像一些人一樣重視金子，我還是被這裡展示出的工藝給震驚住了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這麼亮眼的桌子。也許猿人們做決定的時候都被桌子晃瞎了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚呆。電子人認為金子很貴重；這桌子能換一小塊金子了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我何德何能能坐在這樣一張椅子上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有時候謙卑的人能做出最好的決定"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這桌子感覺像是裝飾而不是用品"
+} ]

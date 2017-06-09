@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個未知用途容器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型金屬容器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個神祕的容器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "容器裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不知道容器裡有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。不知道這個容器裡有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個奇怪的容器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個不好看的容器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個容器。但是不知道裡面裝了什麼？"
+} ]

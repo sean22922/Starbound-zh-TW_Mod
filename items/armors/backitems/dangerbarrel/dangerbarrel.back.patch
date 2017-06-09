@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "危險的槍管。不要讓衣服滑落"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "動盪槍管"
+} ]

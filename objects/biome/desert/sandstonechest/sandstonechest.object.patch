@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粗鑿的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "砂岩箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個砂岩箱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個粗糙的砂岩箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砂、砂岩箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。用沙石做的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "也許這個箱子來自於一座沙塔"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個粗糙的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻沙石箱子。希望裡面不是裝的沙子"
+} ]

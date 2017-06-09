@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵巨型的蘑菇。用來做一張桌子最完美"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果你太餓了的話，你也許會把這張桌子都吃下去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張桌子看起來相當的薄"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人切肉的時候，需要一張更好的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "生物：這個巨大的蘑菇是長期真菌雜交的產物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在這裡吃東西感覺就像是魔法野餐一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "大自然在毀滅的同時也不忘給予"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張桌子真不怎麼結實，但是萌啊！"
+} ]

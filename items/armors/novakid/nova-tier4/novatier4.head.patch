@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只要有了這個古怪的10加侖帽子和麵具，你就是法律"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警長帽子"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "kluextotem",
-  "category" : "kluextotem",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "kluextotem.png"
-  }
-}

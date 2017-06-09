@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "種植易碎的鳥嘴豆。鼻孔是最好的部分"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥嘴豆種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "種子脆得非比尋常，但不是每個人都愛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有個古老的民間故事說翼族人在宴會上吃鳥嘴豆……我喜歡這個故事"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鳥嘴豆脆脆的，不像其他嘴巴溼溼的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哲理：這些種子看起來像鳥，還是鳥看起來像這些種子？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "作物看起來像翼族的臉。這令人有些不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鳥嘴豆吃起來特別好吃。吃的人只能祈禱附近沒有鳥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我才不想不小心錯吃了一個鳥嘴"
+} ]

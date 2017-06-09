@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "money", "count" : 150 }
-  ],
-  "output" : { "item" : "moderntable", "count" : 1 },
-  "groups" : [ "objects", "all" ]
-}

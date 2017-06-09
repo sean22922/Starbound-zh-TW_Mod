@@ -1,9 +1,0 @@
-{
-  "name" : "sealcritter",
-  "category" : "sealcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

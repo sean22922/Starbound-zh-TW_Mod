@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "破損的木頭桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破損的圓桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張破損的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張桌子已經完全破損了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有人砸壞了桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "多疑。是誰弄壞了桌子？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來有人拿錘子砸壞了這桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這桌子怎麼會破損地這麼厲害？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "垃圾，沒用了"
+} ]

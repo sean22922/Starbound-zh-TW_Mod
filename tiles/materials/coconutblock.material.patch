@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "椰子和砂漿做的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "椰子塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。這些磚塊的主要成分是椰子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "椰子可是很結實的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我猜這些椰子塊很結實"
+} ]

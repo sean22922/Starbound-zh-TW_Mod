@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這裡有一些活頁樂譜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式鋼琴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "所有猿人都學習如何演奏。然而，只有部分音樂被允許演奏"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那些按鍵能發出美妙的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用皮和骨頭演奏音樂，是鼓樂大師。不是愚蠢的聲音機器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。這個機器背後的數學原理相對簡單"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鋼琴…我能彈筷子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "啊音樂。那有點燃人們希望的力量"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有點放鬆的鋼琴曲挺不錯。可惜沒人彈"
+} ]

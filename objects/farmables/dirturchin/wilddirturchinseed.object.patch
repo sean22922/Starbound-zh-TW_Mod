@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "泥刺膽，像魷魚一樣韌又味如嚼蠟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥刺膽種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "與其說是蔬菜，不如說是便宜的種子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "當沒有更好的東西吃的時候，就湊合吃點泥刺膽吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "泥刺膽看起來像是小的仙人掌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。無聊、常見的植物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "曾有統計顯示百分之九十的人類對泥刺膽有恐懼症"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為什麼會有人喜歡吃這個"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "泥刺膽就跟泥土一樣無聊"
+} ]

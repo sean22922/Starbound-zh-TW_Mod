@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用來展示寶藏的底座"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀底座"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可以展示美味的底座"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "好像是某種特殊的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張小木桌，上面蓋著一張亮閃閃的桌布"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吸引。用來展示珍貴文物的底座"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看其來好像是展示用的底座"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來展示珍貴物品的地方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個非常漂亮的展示台"
+} ]

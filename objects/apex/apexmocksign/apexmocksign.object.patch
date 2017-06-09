@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張污損的老大猿海報"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "違反指示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "似乎有人不喜歡老大猿"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張污損的老大猿海報。幹得好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人覺得猴子很好笑！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。有人在這張老大猿的海報上亂塗亂畫"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "似乎有人不害怕迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "甚至在被壓迫的時間裡，猿人都能抽出時間損毀海報"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "損壞老大猿的海報是個大膽的舉動。我打賭有人為此付出過代價"
+} ]

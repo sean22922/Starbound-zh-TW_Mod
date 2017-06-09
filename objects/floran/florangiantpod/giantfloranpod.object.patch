@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大卵莢，好像是用來關野獸的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型真菌卵莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個怪東西是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個巨大的卵莢一定是用來裝大型生物的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人攻擊……不對，葉族人撤退……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。裡面的生物應該很快就要出現了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可不想看到裡面是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "堅持住，堅持住，葉族人是傷害不了我的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我真的不知道該怎麼處理這玩意，我現在只想出逃跑這一個辦法"
+} ]

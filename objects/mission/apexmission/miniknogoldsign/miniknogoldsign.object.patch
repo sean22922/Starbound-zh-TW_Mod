@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自猿族實驗室的老舊標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "文化部標識"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "知識部？那是……迷你克諾格的起源嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是個令人愉快的標誌啊。我在想它的歷史有多久了？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人並不怎麼在意老舊的地方"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人讚賞。這灰與銀的陰影真好看啊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個標誌讓我有些緊張"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這字可真醜。要是我能有支書法筆就好了……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺這個發現對於這裡的某個人來說意義重大……"
+} ]

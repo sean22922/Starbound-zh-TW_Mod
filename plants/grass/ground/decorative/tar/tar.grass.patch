@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粘糊糊的柏油"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粘糊糊的柏油"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "粘糊糊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。有用的柏油"
+} ]

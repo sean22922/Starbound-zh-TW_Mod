@@ -1,0 +1,77 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "某個人"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/spawnPoint/example/name",
+  "value" : "黑暗、恐怖的洞穴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "謝謝你的陪伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/1",
+  "value" : "你幫了我大忙，謝謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/2",
+  "value" : "謝謝你的幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/0",
+  "value" : "謝謝你對葉族的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/1",
+  "value" : "葉族人對你的幫助感激不盡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/2",
+  "value" : "謝謝你護送葉族到這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但我認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶我去那裡嗎^white;？這樣我們就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但葉族認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶葉族去那裡嗎^white;？這樣葉族就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "渴求。首先我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但我認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶我去那裡嗎^white;？這樣我們就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "接下來我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但我認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶我去那裡嗎^white;？這樣我們就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "接下來我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但葉族認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶葉族去那裡嗎^white;？這樣葉族就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "渴求。首先我們需要^orange;<items>^white;。它們本來是由旅行商人^orange;<target>^white;運送的，但我認為<target.pronoun.subject>在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近迷路了。你能 ^green;帶我去那裡嗎^white;？這樣我們就可以找到<target>並且^green;取回貨物^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "<appreciation>你可以看管好這些我下一步計劃中要用的<items> 嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "<appreciationfloran> 你可以看管好這些我下一步計劃中要用的<items> 嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "感激。<appreciation>你可以看管好這些我下一步計劃中要用的<items> 嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "將<questGiver>帶至<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "回到<questGiver>那裡"
+} ]

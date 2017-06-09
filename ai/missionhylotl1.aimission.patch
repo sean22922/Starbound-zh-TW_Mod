@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/speciesText/default/buttonText",
+  "value" : "宏塔圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/repeatButtonText",
+  "value" : "重返宏塔圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/selectSpeech/text",
+  "value" : "這個古老的島上建築應該就是那件鮫族文物的確切地點"
+} ]

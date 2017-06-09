@@ -1,9 +1,0 @@
-{
-  "name" : "adultpoptop",
-  "category" : "adultpoptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "adultpoptop.png"
-  }
-}

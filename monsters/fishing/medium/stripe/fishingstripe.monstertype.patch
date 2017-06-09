@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙焰鰆"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠身上的灰色條紋可以在岩漿中有迷彩的效果"
+} ]

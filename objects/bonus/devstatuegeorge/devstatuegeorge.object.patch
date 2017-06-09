@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "對喬治的致敬！終極的發展者！喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "喬治的雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "喬治萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "喬治萬歲！"
+} ]

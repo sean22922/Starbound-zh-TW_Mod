@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒服的翼族人凳子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "村莊裡的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個椅子看起來很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是陸生生物手工技術的最高水準了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這長椅的木材很柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這張凳子的工藝比其它翼族人傢俱還高超"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個漂亮的，舒服的長椅。這個看起來工藝十分精湛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雖然手工藝很值得稱讚，但是這個椅子看上去沒那麼迷人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來是個舒服的地方，可以休息一下"
+} ]

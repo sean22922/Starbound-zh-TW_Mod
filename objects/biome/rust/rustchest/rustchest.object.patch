@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個生鏽的箱子。幾乎要散架了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個箱子看起來不是很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "肯定有人等著這個箱子散架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族打開醜箱、箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嘲笑：這裡的鏽跡比任何鎖都更能阻止電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個生鏽的箱子。也許是海盜留在這的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個鏽跡斑駁的舊箱子"
+} ]

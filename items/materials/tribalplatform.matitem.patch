@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用堅實的寺磚製成的平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寺廟平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。石磚塊被組裝成這個平台"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "用老舊磚塊建成的平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "老舊磚塊搭成平台"
+} ]

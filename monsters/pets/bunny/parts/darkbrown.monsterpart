@@ -1,9 +1,0 @@
-{
-  "name" : "darkbrown",
-  "category" : "petbunny",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "darkbrown.png"
-  }
-}

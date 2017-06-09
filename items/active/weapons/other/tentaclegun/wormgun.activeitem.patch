@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把槍裡蘊含著大量的外星變異昆蟲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星蟲槍"
+}, {
+  "op" : "replace",
+  "path" : "/altAbility/name",
+  "value" : "觸手爆發"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小型導彈的發射器，由迷你克諾格的科學家研製"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷你克諾格發射器"
+}, {
+  "op" : "replace",
+  "path" : "/primaryAbility/name",
+  "value" : "火箭發射台"
+} ]

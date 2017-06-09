@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小心隔牆有耳……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿高清電視"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是老大猿？我從沒見過真的看過他的人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一隻大猴子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "它是個大電視"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。他能看到我們？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是我一直聽到的老大猿嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個殘忍的人負責猿人政權嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個大型顯示器。上面只有一個大號猿人"
+} ]

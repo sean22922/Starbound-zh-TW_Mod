@@ -1,9 +1,0 @@
-{
-  "name" : "vulturecritter",
-  "category" : "vulturecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

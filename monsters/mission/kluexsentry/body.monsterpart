@@ -1,9 +1,0 @@
-{
-  "name" : "kluexsentry",
-  "category" : "kluexsentry",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "kluexsentry.png"
-  }
-}

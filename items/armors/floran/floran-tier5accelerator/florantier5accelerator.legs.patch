@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "上面是用來想的，下面是用來起舞的，就算是睿智的葉族人也要懂得放鬆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "智者腰帶"
+} ]

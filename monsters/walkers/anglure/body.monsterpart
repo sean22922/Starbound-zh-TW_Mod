@@ -1,9 +1,0 @@
-{
-  "name" : "anglure",
-  "category" : "anglure",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "anglure.png"
-  }
-}

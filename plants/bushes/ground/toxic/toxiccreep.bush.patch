@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有毒爬行動物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一株變異的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "令人毛骨悚然的植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。這株植物似乎在輻射之下生長得很茂盛"
+} ]

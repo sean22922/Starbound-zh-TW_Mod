@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水球"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孩子和惡作劇者最喜歡的東西"
+} ]

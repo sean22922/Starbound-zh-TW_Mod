@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "普通的飛船燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些背光廣泛用在船上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "嗡嗡作響的燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "飛船燈對於葉族人的眼睛來說很刺眼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人印象深刻啊。這照明設備發處的光亮比熱能還多"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞明亮的白燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞明亮的白燈。創造了一種和諧的氛圍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個明亮的燈泡"
+} ]

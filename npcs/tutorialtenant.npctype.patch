@@ -1,0 +1,73 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我只是在探險，做著自己的事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "這是個好地方！有回家的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "如果想要建造一間商店讓商人進駐，那你就需要為他們建設倉庫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "大家住在你為他們建造的房子裡一段時間後，也許會開始送你禮物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "有興趣自己種植食物嗎？打造一把鋤頭你就能心想事成了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/4",
+  "value" : "大部分房客都不願意住在沒有燈光或者門口的房子裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/5",
+  "value" : "想要種植花草樹木的話，那就得找個澆水器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/6",
+  "value" : "那些奇怪的石門都是怎麼回事？一直都在那裡的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/7",
+  "value" : "如果你的房客有不滿，你應該幫助他們以免他們永久離開"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/8",
+  "value" : "傳送器適合跨星球傳送，但是需要傳送器核心才能打造"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/9",
+  "value" : "我懷疑我們這些流浪的旅者大部分都會待在安寧的行星上"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/10",
+  "value" : "有些房客對居住環境的裝修很挑剔"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/11",
+  "value" : "炸彈要小心處理！這不用說了吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/12",
+  "value" : "如果怪物襲擊你的房客，你需要吸引一些守衛入駐！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/13",
+  "value" : "是誰把武器箱子到處亂放？這算是亂丟垃圾了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/14",
+  "value" : "如果不想跳進大洞穴，那可以使用纜繩慢慢滑下去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/15",
+  "value" : "這年頭泡杯咖啡有那麼難嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/16",
+  "value" : "我好多年沒去過地球了！那裡現在什麼情況？"
+} ]

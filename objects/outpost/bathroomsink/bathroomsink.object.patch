@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "洗手間水槽。洗手！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洗手間水槽"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個普通的水槽"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "水槽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "容易濺開的水槽"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。一個水槽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "水槽。也許我該洗洗手……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "拿來游泳太小了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個簡簡單單的水槽"
+} ]

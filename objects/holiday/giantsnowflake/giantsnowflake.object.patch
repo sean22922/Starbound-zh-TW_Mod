@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一片巨大的雪花裝飾品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨大的雪花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "他們說每一片雪花都是獨一無二的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "每一片雪花的樣子都是獨一無二的。這是庫魯克斯的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "雪花。冷嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這片雪花會一樣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "不滿雪花的景色總是讓我渴望冬天"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雪花真是大自然美麗的現象"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "雪花真是好看"
+} ]

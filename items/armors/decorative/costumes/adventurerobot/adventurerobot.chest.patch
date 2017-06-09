@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "維奧合金讓這個原型胸甲非常強壯。-不可用-"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冒險家的胸甲"
+} ]

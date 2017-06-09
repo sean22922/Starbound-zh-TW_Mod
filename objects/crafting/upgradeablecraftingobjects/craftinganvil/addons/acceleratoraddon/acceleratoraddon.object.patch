@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個能夠給3D列印機附加遠距裝備和鎧甲的模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;加速器模組^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "真有用，這會為3D列印機添加額外的遠距裝備和護甲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以用它給3D列印機添加額外的裝備和護甲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這個給3D列印機添加其他東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。這個模組會給3D列印機添加額外的遠距裝備和護甲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這會給3D列印機添加額外的遠距裝備和護甲！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個有用的模組會給3D列印機添加額外的遠距裝備和護甲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個好用的模組會給3D列印機添加更多東西"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子的皮革都腐爛了。噁心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可怕的褲子"
+} ]

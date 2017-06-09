@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "城市垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用來丟棄垃圾的箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人通常把垃圾扔到地上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊：垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個垃圾桶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來廢物處理的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金屬製的垃圾箱"
+} ]

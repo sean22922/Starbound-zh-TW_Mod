@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個普通的麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "粗糙的纖維麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。裡面好像裝滿了麵粉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個粗麻袋"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個紡織袋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個裝滿了的麻袋"
+} ]

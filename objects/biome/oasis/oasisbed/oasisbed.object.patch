@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把帶陽傘的甲板躺椅，很適合豔陽天"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "甲板上的躺椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "啊，這裡很適合曬太陽打盹。真是太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這裡看起來很適合小憩一下"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為什麼要用這麼大一朵花擋住太陽？愚蠢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。我可以在下雨天在這裡休息，而不用擔心生鏽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦哦，要是能有本書，再端杯冷飲，在這裡躺著真是太美了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡很適合曬著溫暖的太陽看書——多麼寧靜啊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡就是你想在雨中小憩的地方嗎？我不是很懂"
+} ]

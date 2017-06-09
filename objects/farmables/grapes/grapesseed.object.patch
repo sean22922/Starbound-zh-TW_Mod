@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葡萄是天然的零食"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葡萄種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一種奢侈的食物，許多猿族人連嘗都沒嘗過"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "嬌小的，便於攜帶的葡萄"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "多汁的葡萄，看上去就像是紫色的眼球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厚顏無恥。這種葡萄很適合用來扔人，也可以用來當做小零食吃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "葡萄：給那些住院的孩子們最好的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "海葡萄更好吃，太甜了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "可以當做小零食吃的葡萄"
+} ]

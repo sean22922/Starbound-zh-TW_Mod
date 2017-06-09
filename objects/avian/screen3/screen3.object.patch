@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅星圖！看上去有點原始"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "星圖螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個周邊星系的星圖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "晶體諧振技術曾被用於星系地圖系統"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些是周邊的星系"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立的。這就是現在的星系"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個特別星系的模型"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對於他們來說這些星星是一大片海洋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是這個啊。這一定就是這個特別的星系了"
+} ]

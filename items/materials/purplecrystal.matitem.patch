@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "光線似乎在這個紫色水晶當中扭曲了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紫色水晶磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "敬畏。光線似乎在紫水晶當中跳躍"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "漂亮的紫水晶"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "紫水晶看上去很不錯"
+} ]

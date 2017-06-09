@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/areYouSure/value",
+  "value" : "你確定希望刪除\n你的人物角色嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/delete/caption",
+  "value" : "刪除"
+}, {
+  "op" : "replace",
+  "path" : "/cancel/caption",
+  "value" : "取消"
+} ]

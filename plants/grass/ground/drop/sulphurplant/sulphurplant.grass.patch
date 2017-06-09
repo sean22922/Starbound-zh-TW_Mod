@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "含硫的植物。散發出臭氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "含硫植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有惡臭！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一株惡臭的植物"
+} ]

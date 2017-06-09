@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "選擇目的地"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnTeleport/caption",
+  "value" : "傳送"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
+  "value" : "書籤名"
+} ]

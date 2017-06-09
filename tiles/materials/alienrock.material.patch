@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個奇怪的石塊來自異星"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很奇妙。這個石頭來自異星"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "像葉族的奇怪石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很奇怪的石頭"
+} ]

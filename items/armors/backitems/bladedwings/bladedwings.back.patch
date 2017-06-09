@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "威風的羽翼，是用鋒利的羽毛一樣的刀鋒組成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "刃翼"
+} ]

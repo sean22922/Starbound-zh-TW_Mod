@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "消滅所有的食物！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "微波爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "微波爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "方便烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "快速烹飪食物的設備"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有點像爐子，但是更快"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "加熱小吃的機器。葉族人以前用過"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服。微波會損害機器人的電路"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我曾經用微波爐做沙拉。其實也沒差啦！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "專為那些不注重烹飪細節的人準備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不知道這個機器能幹嘛……但發出的味道好像是裡面死了什麼東西"
+} ]

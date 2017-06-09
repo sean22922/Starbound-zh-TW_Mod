@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粘糊糊的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焦油的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來是一張普通的椅子，但感覺又不是"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在那張椅子上肯定會讓你少幾個根尾羽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族寧願坐在地面上也不坐黏糊糊的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不滿意。坐下去非常不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "非常不舒適的一張椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "任何讓你舒服得不想起來的椅子都不是好椅子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張椅子的表層黏糊糊的。非常不對勁"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金色台子，展出特別物品用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金色台子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金色台子很美"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "沒什麼比金色台子更能提高檔次的了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人把最好的腦袋放在台子上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欽佩。一個美麗的台子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以把我的舊游泳證書放在這"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個簡樸的架子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "作為架子來說挺漂亮"
+} ]

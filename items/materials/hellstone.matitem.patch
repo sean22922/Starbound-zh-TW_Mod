@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "惡，看上去是肉質的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "肉堆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "警覺。這個肉似乎還在顫動"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "黏糊糊的肉"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這肉看著好髒"
+} ]

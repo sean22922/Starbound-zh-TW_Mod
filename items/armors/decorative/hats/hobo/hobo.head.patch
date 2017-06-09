@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乾燥時提升1%雨抵抗力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "硬紙板流浪漢帽"
+} ]

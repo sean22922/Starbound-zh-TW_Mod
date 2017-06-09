@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "克勞斯先生的傳統襪子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "克勞斯先生的褲子"
+} ]

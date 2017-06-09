@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊黑暗岩石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑暗岩石"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這石頭看上去是火山岩"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這附近都是這石頭，小心走路！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝，一個黑石頭，差點都沒注意到"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小心摔倒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "剛形成的沉積岩，還有點像冷卻的岩漿"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如黑夜一樣的石頭，然而沒有星星"
+} ]

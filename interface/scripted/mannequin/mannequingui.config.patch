@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/swapGender/caption",
+  "value" : "轉換性別"
+}, {
+  "op" : "replace",
+  "path" : "/gui/equipFunctional/caption",
+  "value" : "裝備（功能性）"
+}, {
+  "op" : "replace",
+  "path" : "/gui/equipCosmetic/caption",
+  "value" : "裝備（裝飾性）"
+} ]

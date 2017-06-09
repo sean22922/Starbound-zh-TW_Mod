@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "定時器每5秒切換一次開關狀態"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "定時器（5秒）"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "定時器每5秒嘶切換一次開關狀態嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "面無表情。定時器每5秒切換一次開關狀態"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "stinkjack",
-  "category" : "stinkjack",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "stinkjack.png"
-  }
-}

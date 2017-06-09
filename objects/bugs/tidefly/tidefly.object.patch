@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只會在特定的月相時出現"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "逐潮蠅"
+} ]

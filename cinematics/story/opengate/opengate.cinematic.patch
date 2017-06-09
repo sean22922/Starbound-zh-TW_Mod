@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/36/text",
+  "value" : "現在只有一個神器沒找到了！"
+}, {
+  "op" : "replace",
+  "path" : "/panels/37/text",
+  "value" : "恩，根據我們的研究……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/38/text",
+  "value" : "實際上，我們根本沒有關於最後一個神器的任何記錄數據"
+}, {
+  "op" : "replace",
+  "path" : "/panels/39/text",
+  "value" : "說得對。之所以會這樣是因為它意志都在我們手中"
+}, {
+  "op" : "replace",
+  "path" : "/panels/40/text",
+  "value" : "我手裡的這個物質操縱器是唯一的一個"
+}, {
+  "op" : "replace",
+  "path" : "/panels/41/text",
+  "value" : "這是最初的原型－－^orange;物質操縱器^white;－－而它剛好也是賜予人類的神器"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色霓虹表示"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金屬睡蓮葉，上面有明亮的綠色標記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "上面有某種標記的荷葉"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個看上去像是一個鮫人腳上踩到了顏料，然後一腳踏上了睡蓮葉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不懂這是什麼意思"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵：一個裝飾用的睡蓮葉仍舊是一個睡蓮葉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這也許比它看起來要有意思"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族人的各種文化主題被完美地融合起來了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這閃亮的標記是什麼啊？"
+} ]

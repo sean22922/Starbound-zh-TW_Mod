@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "結實的鎢磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這些磚塊由鎢製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的鎢磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用鎢製成的平滑磚塊"
+} ]

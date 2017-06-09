@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把壞掉的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "損壞的時尚椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把壞掉的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把破損的椅子，真可惜"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這椅子壞了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這椅子破損地不可挽回"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這椅子壞了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把破椅子。已經沒法用了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這曾經是把椅子，在很久以前"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "像影子一樣黑的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗影石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "陶醉。這個黑色的磚塊似乎吸收了周圍所有的光"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "朦朧的黑磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去很黑的石頭"
+} ]

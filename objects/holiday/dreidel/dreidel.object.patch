@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有四個面的陀螺。每一面都有奇妙的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "陀螺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "能旋轉的樹頂，有意思"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個陀螺的玩具真是有趣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "轉轉著的玩具！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歡快。能旋轉的樹頂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷！太空陀螺!"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個粗糙質地的陀螺不止為什麼讓我很開心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些符號是不是有點像我的品牌？"
+} ]

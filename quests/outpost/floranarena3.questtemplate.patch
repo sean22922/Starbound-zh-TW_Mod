@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;火之競技場"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "現在還有最後一個挑戰者！一個讓人毛骨悚然的穿盔甲的人，名字叫 ^orange;煉獄聖殿騎士^white; 想要跟你戰鬥。他喜歡火，是真的超級喜歡。你帶些燒傷噴霧來對付他那火焰吧…… ^green;不管如何，你準備好的時候告訴我，我會送你過去^white;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你成功了！就算是火焰也戰勝不了你！真是厲害！來，拿著煉獄聖殿騎士的劍—這是你應得的，鬥士！別問我怎麼拿到的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/enterInstance",
+  "value" : "與^orange;努魯^reset;交談，前往^orange;競技場^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGoal",
+  "value" : "贏得競技場戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到^orange;努魯^reset;所在的^orange;前哨站^reset;"
+} ]

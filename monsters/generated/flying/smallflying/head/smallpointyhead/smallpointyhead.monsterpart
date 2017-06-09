@@ -1,9 +1,0 @@
-{
-  "name" : "smallpointyhead",
-  "category" : "smallflying",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "smallpointyhead.png"
-  }
-}

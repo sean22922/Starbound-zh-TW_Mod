@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這塊胸甲上的維奧合金板使得常規武器根本無法刺穿它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳凰胸甲"
+} ]

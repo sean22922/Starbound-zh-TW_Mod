@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這可不是好事兒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "動員海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果是迷你克諾格海報，那些字就會是\"你不會被消滅\""
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人向庫魯克斯祈禱，祈求安撫。我們不需要腦殘的動員海報"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這海報破了。葉族人看完海報更不冷靜了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "挫敗。猜那些字是什麼會讓我難受好幾天"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不驚訝有人毀壞了這個"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們鮫人不需要海報來幫助我們抵達化境"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "保持冷靜，然後幹嘛？估計我不會知道了"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在半空中可以再進行一次跳躍！"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "脈衝跳躍"
+} ]

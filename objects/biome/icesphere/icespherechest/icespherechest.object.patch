@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個結冰的球形箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰的球形箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個圓形的凍住的箱子。讓我們看看裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個光滑而冰冷的箱子，非常吸引人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人打開了冰冷的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析：這冰裡面添加有特殊物質，使它近期都不會融化"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個箱子看起來像是一個冰屋。也許裡面藏著一隻北極熊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個圓形的冰凍箱子。值得記下來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻冰箱子能讓我的戰利品保持新鮮"
+} ]

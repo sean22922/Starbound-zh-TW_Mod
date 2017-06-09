@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把由鵝卵石鋪成的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "比猿族審問時給的椅子舒服一點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "糟糕的工藝"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石牀傷到葉族的背了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傲慢，如果我有背肌肯定會被弄傷"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來一點也不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一定很難在這裡冥想"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不會選這樣的椅子"
+} ]

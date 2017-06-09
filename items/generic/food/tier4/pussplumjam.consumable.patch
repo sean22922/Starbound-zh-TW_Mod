@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用貓李做的果醬，超級濃厚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貓李果醬"
+} ]

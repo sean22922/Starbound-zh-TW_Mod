@@ -1,9 +1,0 @@
-{
-  "name" : "fullbrown",
-  "category" : "piglett",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fullbrown.png"
-  }
-}

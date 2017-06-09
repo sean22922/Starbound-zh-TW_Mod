@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個升級包在你的環境保護器的基礎上增加了冷卻功能。可以在^red;危險且炎熱^reset;的地方派上用場"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冷卻環境保護器升級包"
+} ]

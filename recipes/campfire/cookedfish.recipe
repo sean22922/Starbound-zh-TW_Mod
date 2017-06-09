@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "rawfish", "count" : 1 }
-  ],
-  "output" : { "item" : "cookedfish", "count" : 1 },
-  "groups" : [ "campfire", "consumables", "all" ]
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"一個完美的熔核碎片。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "核心碎片樣本"
+} ]

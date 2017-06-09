@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "威廉-格萊徹斯皮爾的肖像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "格萊徹斯皮爾的肖像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這電子人的毛髮怎麼和猿人一樣多？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "電子人有鬍子？怎麼可能？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電子人有鬍子。是真的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "推斷。我的數據庫顯示，部分電子人是根據其他種族來製造的。這就是其中之一"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "他看起來像是地球歷史上剛出現的詩人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "電子人藝術家？電子人董藝術？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "電子人詩人？沒聽說過"
+} ]

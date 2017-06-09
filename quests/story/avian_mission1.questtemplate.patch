@@ -1,0 +1,165 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "找到線索定位翼族神器"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我的下一個目標是^orange;翼族人^reset;！我們最好^green;前往^orange;叢林^white;密佈的星球——翼族人喜歡棲息在這樣的星球上。你可以在^orange;放射性星球^white;附近找到這樣的行星。回頭見。小心一點，旅途愉快！"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "根據上一條線索，我們已經距離找到翼族神器只差一步之遙了！多謝你目前為止的辛勤努力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "^green;掃描物品^reset; 以找到 ^orange;翼族線索^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmap1/text",
+  "value" : "這看起來像是古代的星球描繪。也許是為了標示出某個重要的地點？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmural1/text",
+  "value" : "這幅壁畫描繪了一筆鉅額的寶藏……其中很可能隱藏著翼族神器的線索"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexmural2/text",
+  "value" : "這幅壁畫已經很古老了，它揭示了早已被遺忘的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexstatue1/text",
+  "value" : "奇怪的雕像。底座上的文字比雕像本身更吸引人。魔鬼就藏在細節中，親愛的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/kluexstatue2/text",
+  "value" : "對於庫魯克斯的這個描繪非比尋常，上面的描述也很有意思，很有希望找到方向！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "嗯，有意思……我得深入挖掘一番"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/text",
+  "value" : "有趣，這肯定跟我的研究有關"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/text",
+  "value" : "翼族人民與他們的神有著不可思議的關係。這些不起眼的線索都指向了一個重大的事實"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/text",
+  "value" : "找到一條雖然隱晦但是很有價值的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/text",
+  "value" : "太好了，你找到的每條線索都能夠幫我形成完整的理論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/text",
+  "value" : "過去的歷史掩埋著呼之欲出的祕密。幹得好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/text",
+  "value" : "你都想不到這些小東西幫了多大的忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/text",
+  "value" : "遙遠古代的翼族人會將寶藏藏在什麼地方呢？抱歉，大聲說出你的想法！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/text",
+  "value" : "即使是最不起眼的證據也能揭露出宇宙中最宏大的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/text",
+  "value" : "這條線索暗示了隱藏的信息"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "看來你找到的一些物品已經指向了神器的下落所在。我會儘快開始進行分析，你可以去搜尋更多的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "你還真是會收集翼族人的文物啊！你似乎已經掌握了足夠的線索，這樣我就可以找到神器的具體地點了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "偉主神廟……一定是那裡！這就是我們一直在找的情報。^#71f2f6;等你準備就緒了就來方舟找我^white;"
+} ]

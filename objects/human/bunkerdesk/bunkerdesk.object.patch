@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "內建螢幕的辦公桌。看起來有人用它寫程式"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬辦公桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張辦公桌有內建螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個普通桌子，嵌著一個顯示器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶顯示器的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可笑：內建的電子產品都比獨立的產品要渣，當然除了電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個顯示器是內建在桌子裡的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "內建的顯示器。技術與舒適的有機結合"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "嵌進桌子裡的螢幕"
+} ]

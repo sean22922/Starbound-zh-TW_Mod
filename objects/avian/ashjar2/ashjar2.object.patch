@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝滿了灰燼的兔子形狀的罈子。也許我可以打碎它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "兔子壇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個罈子裡有很多灰燼。很可能是骨灰"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個罈子裡的灰燼就是一個在恥辱中死去的翼族人的骨灰。這個兔子標明了那些永遠無法在天空獲得翅膀的翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這、這是翼族人的骨灰還是其他生物的骨灰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這裡面的灰原本是翼族人的，為什麼這個罐子是這種形狀？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個兔子壇，裝滿了骨灰"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為什麼翼族人要把他們的逝者裝在這樣一個罈子裡呢？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個罐子很適合用來練習射擊"
+} ]

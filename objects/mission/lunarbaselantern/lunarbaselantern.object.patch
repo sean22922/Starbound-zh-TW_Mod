@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個電子燈籠發出令人愉快的溫暖燈光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地燈籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "雖然小但是很有用的燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "簡易設計的電燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "照亮葉族人前進通道的閃亮設備"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感激。這些燈真是太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "明亮的光源。我最好還是別盯著看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鼓舞人心的微光，讓我想起美好的日子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個是電燈所有不會出現汁液用光的情況"
+} ]

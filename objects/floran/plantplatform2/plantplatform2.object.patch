@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "巨大的木頭被排列成施工平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型木質腳手架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些木頭被堆疊起來協助建築工程"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個平台是用來支撐建築工人的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族腳手架用來建築"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。這個粗糙的平台隨時可能倒塌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個大型腳手架平台似乎可以支撐很大的重量"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這似乎是個暫時性建築，隨時可以被拆除並移動"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些木頭打造了一個挺結實的平台"
+} ]

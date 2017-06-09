@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;企鵝武器測試場地"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "通常而言，我會給你提供一些稀有武器的升級，但我的供應商已經全神貫注於^orange;新型試驗武器^white;了。如果你能……幫我毀了它，也許他就能照常把武器升級給我運過來了！^green;準備好之後就來找我，我可以送你去找他^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你毀掉了我的供應商的武器？太棒了！比吉信譽武器重新開張——^green;每天都來看看新品吧^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "比吉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "比吉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/enterInstance",
+  "value" : "與 ^orange;比吉^reset; 交談前往 ^orange; 測試站^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGoal",
+  "value" : "擊敗 ^orange;驚爆跳躍者 MK I^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;比吉^reset; 所在的 ^orange;哨站^reset;"
+} ]

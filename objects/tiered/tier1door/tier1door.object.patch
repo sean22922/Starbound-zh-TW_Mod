@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道基本的鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這扇門相對來說比較安全"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對一扇基本的門來說足夠安全了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人躲在門後。跳出來。刺——！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "認可：一扇有用、基本的門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇堅固的鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇簡單的鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只要一扇簡單的門做這個工作就好了"
+} ]

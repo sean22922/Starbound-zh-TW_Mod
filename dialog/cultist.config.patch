@@ -1,0 +1,421 @@
+[ {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "沒人可以通過這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/1",
+  "value" : "我們是歐卡薩斯！你阻擋不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/default/11",
+  "value" : "你別想走！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/1",
+  "value" : "我們是歐卡薩斯！你阻止不了我們，猿人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/11",
+  "value" : "你別想走！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/12",
+  "value" : "宇宙不需要你們猿族！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/apex/13",
+  "value" : "沒有你們猿族我們會更好！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/1",
+  "value" : "我們是歐卡薩斯！你阻止不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/11",
+  "value" : "沒有翼族人類會更好！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/avian/12",
+  "value" : "宇宙不需要翼族！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/1",
+  "value" : "我們是歐卡薩斯！野蠻人你阻止不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/11",
+  "value" : "我們將清除你們這些葉族人野蠻人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/floran/12",
+  "value" : "我們馬上就能清除你們葉族人了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/1",
+  "value" : "我們是歐卡薩斯！你阻擋不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/11",
+  "value" : "你站錯隊了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/human/12",
+  "value" : "叛徒，你站錯隊了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/1",
+  "value" : "我們是歐卡薩斯！鮫族你們阻止不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/11",
+  "value" : "滾回你們的泥潭吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/hylotl/12",
+  "value" : "我們馬上就能清除你們鮫族了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/1",
+  "value" : "我們是歐卡薩斯！機器人你們阻止不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/11",
+  "value" : "我會把你們送到報廢廠的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/glitch/12",
+  "value" : "你們都不算真正活著！機器人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/0",
+  "value" : "今天你很不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/1",
+  "value" : "我們是歐卡薩斯！你阻擋不了我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/2",
+  "value" : "別以為你能逃脫，沒有信仰的人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/3",
+  "value" : "如果你不和我們一起，你就是和我們對立！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/4",
+  "value" : "你是來阻擋我們的？不管怎樣不重要！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/5",
+  "value" : "你阻擋不了我們，想都別想！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/7",
+  "value" : "你來選擇了錯誤的時間來這兒"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/8",
+  "value" : "一個無信仰人靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/9",
+  "value" : "如果我殺了你，諾克斯或許會提拔我！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/10",
+  "value" : "你阻止不了我們的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/11",
+  "value" : "我甚至不知道你們算什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/human/novakid/12",
+  "value" : "宇宙不需要古怪的發光生物！"
+} ]

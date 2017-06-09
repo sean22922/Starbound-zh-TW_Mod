@@ -1,9 +1,0 @@
-{
-  "name" : "leafscabcritter",
-  "category" : "leafscabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

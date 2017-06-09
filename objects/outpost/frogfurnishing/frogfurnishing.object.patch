@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "全宇宙最好的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青蛙傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "青蛙商人之一。這個是賣傢俱的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個古怪的商人是誰？他的傢俱挺好的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人有點怕沉默的青蛙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這個青蛙擁有一些看著很不錯的貨物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個奇怪的兩棲生物在賣一些很不錯的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個生物的傢俱真的很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這一帶很少看到青蛙販子！"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "青蛙傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "主題傢俱，每一天都可以不一樣！"
+} ]

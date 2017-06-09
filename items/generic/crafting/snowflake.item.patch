@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一片保存完美的雪花。人們說沒有兩片雪花是一樣的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪花"
+} ]

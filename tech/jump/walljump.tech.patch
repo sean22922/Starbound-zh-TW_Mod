@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓你攀上並越過垂直的牆壁！"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "跳牆"
+} ]

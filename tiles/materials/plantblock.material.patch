@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "以植物製成的塊狀物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "植物磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這個磚塊看上去完全有植物製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人感覺和這個植物磚塊很親密"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在我看來就是用植物做成的磚塊"
+} ]

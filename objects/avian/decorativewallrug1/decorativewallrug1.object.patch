@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個編織得相當複雜精細的掛毯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "色彩鮮豔的掛毯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個掛毯。編織得很精美"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人用掛毯來裝飾他們的家。顏色越鮮豔越好看"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "明亮的顏色。媲美葉族人的花朵"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這條掛毯展示了很高的手藝"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是一條漂亮的掛毯。它增添了一抹鮮豔的色彩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "翼族人好像很喜歡色彩鮮豔的掛飾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個掛飾真好看"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系的最遙遠的行星——海王星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海王星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是海王星。上面的大黑斑很像有名的木星大紅斑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "海王星尼普頓依照地球古代的海神所命名，它的衛星也都以海中\n的次神所命名"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "海王星是太陽系裡第二大的冰凍巨行星嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷狀。幾年前由於系統錯誤譯名機器人的交通工具在海王星墜毀了。\n什麼都沒了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "海王星是我故鄉星系太陽系中最遠的一顆行星"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "海王星有大黑斑和小黑斑。如果還有第三個斑的話就堪稱\n完美了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "傳說有一位傳奇海盜躲藏在海王星的雲層中，因為那裡經常發生船隻失蹤事件"
+} ]

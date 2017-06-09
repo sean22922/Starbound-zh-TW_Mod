@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根堅固的金屬橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這個強化金屬主樑很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冷金屬主樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "堅固的金屬主樑"
+} ]

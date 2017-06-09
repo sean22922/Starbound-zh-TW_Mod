@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一叢異型灌木"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "異型灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "異嘶……型灌木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述狀。異型灌木"
+} ]

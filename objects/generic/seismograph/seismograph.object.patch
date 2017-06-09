@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "檢測地震活動的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "地震儀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這台設備能夠記錄地震。對某些人來說很實用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "上面顯示著一條線，偶爾會上下移動。好奇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬物體是紅色的。紅色是好的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "瞭解。這台設備正在監測所在區域的活動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這東西正在監測地震活動，真好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "持續不斷的波動檢測讓我想起了海上的潮起潮落"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一台用來監測地震活動的機器"
+} ]

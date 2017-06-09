@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "純銀平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用純銀打造的拋光平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。我都能從這些純銀平台裡面看到我的倒影"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用純銀打造的平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我估計這個平台一定花費不少"
+} ]

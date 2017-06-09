@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個奇怪的綠燈豆莢鬆鬆地懸掛在木頭雕刻的標杆上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤蔓豆莢燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "它看上去像一種發光的植物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "植物發出一種綠光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用綠色手指把植物種植在光中。更少的火、火，更少、少燒焦的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚豔。這株植物似乎可以吸收白天的日曬，然後在晚上發光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這綠油油的光，不知道豆莢裡是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個植物有點反常"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這棵樹怎麼會還能發光？"
+} ]

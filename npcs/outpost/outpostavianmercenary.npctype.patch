@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我曾經效忠於觀星信徒，直到我意識到我不再認同他們的觀念"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我曾經效忠於觀星信徒，直到我意識到我不再認同他們的觀念"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/0",
+  "value" : "在這裡你不用害怕觀星信徒的仇怨，我的朋友"
+} ]

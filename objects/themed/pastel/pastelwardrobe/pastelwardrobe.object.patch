@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粉彩色的衣櫥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩衣櫥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個很別緻的衣櫥"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個衣櫥裝飾著絢麗的心形和一個巨大的星星"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想要躲進去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厲害。這個衣櫥是用心之作"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個很魔幻的衣櫥。不知道裡面可以放些什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "頂級的手藝製造出了這個頂級的衣櫥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我喜歡這個衣櫥上的小星星裝飾"
+} ]

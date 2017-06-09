@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我剛從監獄出來！我聽喜歡這的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "別單鞋，我一點也不危險！我是因為財務欺詐被判入獄的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我穿這個連體衣是不是有點不合身？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "別因為我穿著這個連體衣就以為我是危險人物！我穿它僅僅是因為舒服"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/4",
+  "value" : "我沒入獄，我穿這個連體衣僅僅是因為舒服……真的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/0",
+  "value" : "如果我加入保護區，那我可能也就不會入獄了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/1",
+  "value" : "我聽說地球上發生什麼事了。我很慶幸當時我關在別處的監獄裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/2",
+  "value" : "我穿這個連體衣是不是有點不合身？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/3",
+  "value" : "別單鞋，我一點也不危險！我是因為財務欺詐被判入獄的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/4",
+  "value" : "我沒入獄，我穿這個連體衣僅僅是因為舒服……真的"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝甲！在這裡獲取裝甲！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝甲店符號"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "木頭的標記。看起來像是盔甲店的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "木頭的標記。好像是個盾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "附近有護盾商店？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這標誌著附近有護甲商店"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像放在裝甲店外面的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個標誌應該是裝甲店的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "護甲店的標誌"
+} ]

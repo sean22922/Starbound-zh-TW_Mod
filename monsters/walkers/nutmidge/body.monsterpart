@@ -1,9 +1,0 @@
-{
-  "name" : "nutmidge",
-  "category" : "nutmidge",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "nutmidge.png"
-  }
-}

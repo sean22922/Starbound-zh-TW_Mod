@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來這裡曾全是藥品——現在沒啦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破損的補給箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "破開的補給箱，有人偷走了東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個補給箱曾裝滿藥品，至少從外觀看來……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "損壞的空櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。能檢測出碘的痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "還有什麼被洗劫過的醫療箱更讓人失望的嗎？實際上，好吧，觸手怪乾的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子本應被更徹底地保護起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "偷藥真是太卑劣了"
+} ]

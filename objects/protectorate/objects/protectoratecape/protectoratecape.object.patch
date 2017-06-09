@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者橫幅上的一塊扯掉的布料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者橫幅破布"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "撕裂的織物被扔在地上。我該把它撿起來嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是從上面的旗幟上撕下的一點織物嗎？也許我應該把它撿起來"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "地上有些破布。也許葉族人應該留下"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。一些保護者組織旗幟上的破材料。我應該把它撿起來嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "地板上扔著一塊旗幟上的布。我應該把它撿起來嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "上面的旗幟上的一點撕裂的織物。也許我應該把它撿起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "從旗幟撕下的一點破爛的材料。我應該把它撿起來嗎？"
+} ]

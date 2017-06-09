@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "研究站"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "發展專業技術"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以用於研究發展高度專業的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;研究站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以用這個創造專業的設備"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "研究工作台"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以創造專業的東西了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個工作台很適合用於研究和發展新物品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以在這裡製造專業的東西了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個工作台很適合研究發展新的技術"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以在這裡製作所有的專業東西！"
+} ]

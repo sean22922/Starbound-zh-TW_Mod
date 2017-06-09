@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "莫諾普思"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的物種，敏捷、愛惡作劇。眼中常有智慧的光"
+} ]

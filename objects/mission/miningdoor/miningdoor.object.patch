@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個帶有工業氣息的金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "礦工的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這道門能夠承受很大火力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一道結實的金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個金屬門看上去完全弄不開"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。一道用結實的金屬製成的門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇人類起源的大門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一道醜陋的門，設計時考慮了功能"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門真的很不錯"
+} ]

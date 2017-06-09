@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "砍樹很有用。儘量避免大屠殺"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏈鋸"
+} ]

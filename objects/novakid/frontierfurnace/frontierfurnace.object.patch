@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "  邊境熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "  古時候的冶煉法"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻舊的青銅和黃銅熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻相當古老的銅熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "感覺如果我搞得太近，我的羽毛會被燒掉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好像很熱的樣子，葉族人有點擔心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這些管子不知道有沒有用？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個古老的金屬熔爐摸起來真的很熱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個古老的熔爐能量利用率非常低。只要我想，我有好幾個辦法可以改進"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "燒煤的味道……獨一無二的味道"
+} ]

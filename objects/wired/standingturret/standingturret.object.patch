@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你保護的塔樓！只能放置一次"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "防禦塔樓"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "自動基地防禦"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "永遠警惕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "怪物可沒什麼機會，除非它們能飛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有效地抵抗抗了或者的那些些東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎狀。千萬不能擾亂我兄弟的警戒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "自動化的保全系統"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來像是某種塔樓"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去這東西真能造成點傷害！"
+} ]

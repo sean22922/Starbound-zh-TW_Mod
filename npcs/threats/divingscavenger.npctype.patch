@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/0",
+  "value" : "敵軍潛艇！幹掉他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/1",
+  "value" : "這是我們的海洋—闖進這裡你們會後悔的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/2",
+  "value" : "這片海洋是我們的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/3",
+  "value" : "希望你準備好葬身海底了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/4",
+  "value" : "我們處置完你們，你們就與魚兒長眠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/5",
+  "value" : "你們不可能擊敗我們！這片海洋在我們的統治之下！"
+} ]

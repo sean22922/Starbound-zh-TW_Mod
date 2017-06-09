@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個面板顯示了與犯人們互動的一些信息……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "USCM流放設施面板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這上面說，不能用棒子捅犯人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很明顯\"一杯好茶\"的要求被拒絕了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "\"不要傷害囚犯。\"太多嚴格的規定了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑：貌似守衛都要先做檢查，來確保犯人們都是人類。這真是個罕見的錯誤嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "犯人們在同一時間只能最多玩三十個電子遊戲。說道壓迫"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這提到了\"水刑\"。或許是某種款待吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "與罪犯互動的指南。 \"記住，囚犯永遠是錯的\""
+} ]

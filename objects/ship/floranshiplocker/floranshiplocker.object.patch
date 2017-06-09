@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個上鎖的小櫃子。存著一些東西。你怎麼不來試試看？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一種系統。完劍是起源葉族人的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "儲存櫃子。難以置信葉族人製造了這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在探索宇宙前將許多有用的物品儲存在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：葉族人怎麼得到這種科技？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這艘船上的大部分科技似乎都不是起源葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個儲存系統的技術本不屬於葉族人。葉族人是通過一些方法獲得這項技術的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子，用於存放東西"
+} ]

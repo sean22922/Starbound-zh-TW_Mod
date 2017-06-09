@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黃金鴨子！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃金小鴨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻小金鴨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些東西真的很有價值"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃閃的小鴨子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷戀。很可愛"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一隻可愛的小鴨子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一隻小鴨，用金製成"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻堅固的金鴨"
+} ]

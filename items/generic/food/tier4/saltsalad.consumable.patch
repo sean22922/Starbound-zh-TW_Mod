@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用珊瑚果，礁豆莢和珍珠做成的風乾沙拉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鹽水沙拉"
+} ]

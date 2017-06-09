@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根葉族長矛鑲嵌在一張華麗的牌框內"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木板上的長矛"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一副牌框和一根華麗長矛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "展示著一個堅固的武器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族很注重自己的狩獵武器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好笑。機器人經常展示武器在牆壁上，但是這支長矛是葉族的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一根長矛。一定很重要，否則不會這麼展示著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "再一次，葉族驕傲地彰顯自己的野蠻文化"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那根長矛掛在上面簡直是浪費"
+} ]

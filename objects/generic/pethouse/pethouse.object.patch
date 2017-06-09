@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大小足夠讓一隻小動物舒服地待在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寵物屋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻受人寵愛的寵物的甜美小家"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "為寵物準備的小房子，我打賭我的兔子會喜歡它的！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族蛇通常住在很高的草內。要是寵物屋的話就不太正常了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這間狗舍很適合我珍愛的小豬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "又是一個想想就知道我挑剔的貓咪夥伴不會理睬的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這不是一所常見的房子，但也還行吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一間寵物屋！稍微有點窄，但誰會在意呢？"
+} ]

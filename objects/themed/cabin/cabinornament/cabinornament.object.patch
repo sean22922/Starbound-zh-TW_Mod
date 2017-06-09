@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對引人注目的角。這是哪一種生物身上的？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾性的角"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在牆上裝獸角是在浪費資源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是粗魯的展示"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡狩獵的戰利品嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝狀。經過更近距離的調查後發現這些獸角其實都是人造的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "獸角裝飾品是種經典的裝飾……我也不知道為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儘管顯然是人造的，這還是個挺自然樸素的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些獸角真是有些無恥的展示品，不是嗎？"
+} ]

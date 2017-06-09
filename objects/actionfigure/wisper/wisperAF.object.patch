@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"有人覺得耳語者喪失了靈魂，在夜裡，它們的光線會將開拓者引入歧途。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈精靈小雕像"
+} ]

@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/0/1/0/1/name",
+  "value" : "強盜團夥"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/1/1/name",
+  "value" : "邪教教眾"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/2/1/name",
+  "value" : "逃犯團夥"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/3/1/name",
+  "value" : "迷你克諾格科學家"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/4/1/name",
+  "value" : "闇黑騎士團"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/5/1/name",
+  "value" : "電子人盜賊"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/6/1/name",
+  "value" : "野生葉族獵人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/7/1/name",
+  "value" : "葉族食人族"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/8/1/name",
+  "value" : "流氓武士"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/9/1/name",
+  "value" : "庫魯克斯狂信徒"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/10/1/name",
+  "value" : "迷你克諾格科學家"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/11/1/name",
+  "value" : "迷你克諾格偵察隊"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/12/1/name",
+  "value" : "迷你克諾格刺客"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/13/1/name",
+  "value" : "迷你克諾格間諜"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/14/1/name",
+  "value" : "翼族入侵者"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/15/1/name",
+  "value" : "庫魯克斯狂信徒"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/16/1/name",
+  "value" : "闇黑騎士團"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/17/1/name",
+  "value" : "電子人弓兵團"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/18/1/name",
+  "value" : "電子人盜賊"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/19/1/name",
+  "value" : "邪眼十字軍"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/20/1/name",
+  "value" : "野生葉族獵人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/21/1/name",
+  "value" : "葉族狙擊隊"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/22/1/name",
+  "value" : "葉族食人族"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/23/1/name",
+  "value" : "強盜團夥"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/24/1/name",
+  "value" : "信徒"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/25/1/name",
+  "value" : "逃犯團夥"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/26/1/name",
+  "value" : "流氓武士"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/27/1/name",
+  "value" : "水底清除者"
+} ]

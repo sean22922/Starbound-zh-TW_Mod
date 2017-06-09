@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "別被它們光滑的外表給迷惑了，這些褲子十分耐用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "篡位者的褲子"
+} ]

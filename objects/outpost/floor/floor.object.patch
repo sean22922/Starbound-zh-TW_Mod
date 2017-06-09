@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "地面標示物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "地面"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "理解。地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "地面標示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "地面標示！喔！"
+} ]

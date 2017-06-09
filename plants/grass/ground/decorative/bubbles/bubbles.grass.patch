@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "氣泡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "氣泡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "氣泡發出響聲！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。氣泡"
+} ]

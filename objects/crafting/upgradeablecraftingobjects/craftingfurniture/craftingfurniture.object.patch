@@ -1,0 +1,125 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能夠用來製造建造定居點所需的材料和物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;木製工作台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來做木匠活的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用來展示木匠技術的機會"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這桌子來製造漂亮的房子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用這個製造裝修精良的家"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "將房子打造為家所需要的一切都在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以用這個桌子做一些非常結實的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "建造定居地所需要的材料和物品可以用這個木製工作台製造"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;木製工作台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "用來做木匠活的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "用來展示木匠技術的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這桌子來製造漂亮的房子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "我可以用這個製造裝修精良的家"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "將房子打造為家所需要的一切都在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "我可以用這個桌子做一些非常結實的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "木製工作台"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;傢俱塊"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "建造定居地所需要的材料和物品可以用這個工業工作台製造"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;工業工作台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "用來做木匠活的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "用來展示木匠技術的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這桌子來製造漂亮的房子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "真不錯。製作模組已啟動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "我可以用這個製造裝修精良的家"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "將房子打造為家所需要的一切都在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "我可以用這個桌子做一些非常結實的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 工業工作台"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;物品塊"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "置放在一個輪式木架上的一張簡單鋪蓋卷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輪式牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個輪式的木質監獄牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個監獄牀鋪有輪子可以推動"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族囚犯沒有華麗的牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。我不確定這個牀架可以支撐我的重量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個木質牀架，搭配了一些植物裝飾。看上去不會很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張牀看起來不舒服，而且沒有牀褥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我打賭這張牀在必要時能夠派上用場"
+} ]

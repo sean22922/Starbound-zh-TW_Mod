@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個發光的花莢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光花莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個發光的花莢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些發光的花莢讓人有些不安"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光的莢內有甜美的花蜜"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張，花莢有不詳的光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些發光的花莢太詭異了，我不喜歡這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我在海洋底見過這種發光的花莢，奇怪而優雅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看來是外星蛋！"
+} ]

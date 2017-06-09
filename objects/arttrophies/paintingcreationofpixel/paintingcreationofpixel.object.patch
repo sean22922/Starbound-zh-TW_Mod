@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅非常恢弘的畫，上面有兩個伸出手指的人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "恢弘的畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種畫會被迷你克諾格禁的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果有庫魯克斯在裡面就好點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看！兩個可以獵殺的人類！難得一見！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪。這是在用畫畫的形式表達對知識的渴求嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這確實是個稀有的發現。這幅畫好像更大幅一些"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這幅畫在描繪知識？鮫族人無疑會很欣賞它的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一幅描繪一些人類漂浮並伸出手指的畫。我不太懂"
+} ]

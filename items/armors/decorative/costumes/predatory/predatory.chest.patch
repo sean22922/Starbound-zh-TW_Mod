@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "兇猛，多葉的胸甲。狩獵開始了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獵食者胸甲"
+} ]

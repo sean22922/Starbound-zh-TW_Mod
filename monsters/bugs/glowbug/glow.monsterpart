@@ -1,9 +1,0 @@
-{
-  "name" : "head",
-  "category" : "glowbug",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "glow.png"
-  }
-}

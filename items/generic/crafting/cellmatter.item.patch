@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "細胞物質——可以用來製造不可說的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "細胞物質"
+} ]

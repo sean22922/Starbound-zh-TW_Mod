@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "昂貴的椅子。你再也不想再站起來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "總裁椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "坐在這張椅子上，我所有的憂慮都消失了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在這張椅子上能讓我忘了我被困在地面上這件事"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "坐在椅子嘶……上真舒服"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放鬆：每個人都該有張這樣的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "終極舒適"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張椅子是傑作。太舒適了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張椅子用來休息片刻棒極了"
+} ]

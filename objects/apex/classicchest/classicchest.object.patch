@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個充滿遠古寶藏的古老箱子！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個箱子！裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "鍍金的箱子。裡面有什麼有用的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "美麗的箱子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。沒有鎖"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我感覺是一個擁有一箱子財寶的海盜"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個箱子總讓我充滿興奮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個好看的寶物箱"
+} ]

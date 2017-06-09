@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個翼族人的伺服器一定儲存著大量數據"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人伺服器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這很明顯是個伺服器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人水晶收集數據並將它們儲存在這些機器中"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "儲存著比葉族人大腦還要多的信息"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "怎麼會，這裡數據實在是太多了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像個伺服器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡有太多的數據了。要是我能傳送一點的話……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這一定是儲存數據的伺服器"
+} ]

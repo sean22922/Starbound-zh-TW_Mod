@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/0",
+  "value" : "我已經這樣戰鬥過多年，你沒機會贏我的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/1",
+  "value" : "別擋我的路，不然你會後悔的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/2",
+  "value" : "我的能力遠在你之上！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/3",
+  "value" : "我的能力你應對不了！你的好運到頭了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/4",
+  "value" : "你要跟我鬥個你死我活嗎？那就如你所願！"
+} ]

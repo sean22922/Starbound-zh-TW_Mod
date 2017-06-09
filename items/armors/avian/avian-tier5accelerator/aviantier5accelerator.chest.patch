@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "精妙設計而來的胸甲，可以抵禦長矛，刀槍，子彈之類的攻擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "孔雀胸甲"
+} ]

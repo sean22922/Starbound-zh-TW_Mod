@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/connect/caption",
+  "value" : "加入伺服器"
+}, {
+  "op" : "replace",
+  "path" : "/address/hint",
+  "value" : "IP位址"
+}, {
+  "op" : "replace",
+  "path" : "/port/hint",
+  "value" : "連接埠"
+}, {
+  "op" : "replace",
+  "path" : "/account/hint",
+  "value" : "帳號"
+}, {
+  "op" : "replace",
+  "path" : "/password/hint",
+  "value" : "密碼"
+} ]

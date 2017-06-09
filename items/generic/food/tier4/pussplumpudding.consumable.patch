@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "水潤的稻米布丁，上面有貓李蜜餞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貓李布丁"
+} ]

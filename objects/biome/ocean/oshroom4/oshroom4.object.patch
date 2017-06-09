@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個株光的奧什魯姆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光奧什魯姆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我分辨不出這個是水果、蔬菜還是菌類"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些植物就像小太陽一樣點亮了海洋深處"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮！葉族人不能控制自己發光，這太有用了……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同意。又一個關於自然發光的絕佳案例"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某種海洋蘑菇……海菇？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "又一個詮釋海洋之美的例子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在想我們是不是由同樣的東西做成的，發光的植物"
+} ]

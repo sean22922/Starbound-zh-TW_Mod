@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個樸實無華的石墓布滿了灰塵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沒有裝飾的石墓"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一座沒有裝飾的墳墓"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一座那些買不起石棺的人使用的墳墓"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人相信塵歸塵土歸土，死人應入土為安"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀。機器人不下葬，他們在屍體上可以獲益"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個不適合度過來生的地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "屍體應該得到更好的待遇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "死人的牀"
+} ]

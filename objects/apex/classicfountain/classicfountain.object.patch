@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個造景用的噴泉——很多水貌似都被浪費掉了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個噴泉裡的水嚐起來……要比引到猿人家裡的水更加乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我的羽毛有福了，終於，可以洗澡了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡誰，水是生命和生長的給予者"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。掃描顯示這水是完全純淨的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些水都是從哪來的？看起來不像是重新收集的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡的水不是重新收集或者二次使用的，這樣的水真是很邪惡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這停下來喝點水不錯"
+} ]

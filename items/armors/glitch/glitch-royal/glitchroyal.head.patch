@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "掌權的電子人的皇冠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機器人皇冠"
+} ]

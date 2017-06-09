@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "捕獵雷射鹿的傳統武器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "霓磷鹽之弓"
+}, {
+  "op" : "replace",
+  "path" : "/altAbility/name",
+  "value" : "混亂箭矢"
+} ]

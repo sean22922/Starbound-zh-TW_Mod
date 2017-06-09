@@ -1,9 +1,0 @@
-{
-  "name" : "eyebosstentaclespacing",
-  "category" : "eyeboss",
-  "type" : "tentaclespacing",
-
-  "frames" : {
-    "tentaclespacing" : "tentaclespacing.png"
-  }
-}

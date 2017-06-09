@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "經受太空的考驗"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "首先，你需要一艘^orange;狀況良好的飛船^reset;。誰也說不準我們在完成目標前要旅行多遠。我建議你^green;回到哨站 ^orange;並與船塢長官企鵝皮特交談^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你的成功得來不易——非常好。現在你的飛船已經完全準備就緒，我們可以開始執行任務了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findMechanic",
+  "value" : "^green;找到^white;在 ^orange;哨站^white;的^orange;企鵝皮特^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/repairShip",
+  "value" : "^green;修復你的 ^orange;艦船^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findEsther",
+  "value" : "在^orange;方舟^white;^green;與 ^orange;伊瑟·布萊特^white; 交談"
+} ]

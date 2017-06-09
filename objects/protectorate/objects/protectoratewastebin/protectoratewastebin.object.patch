@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "學生用的簡易垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者組織垃圾箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我昨天才剛清空過它！今天該輪到別人了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "誰又往這個垃圾箱裡扔吃的了？這都臭了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箱子裡全是垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不高興狀。這垃圾箱明擺著都滿了是誰還繼續往裡面扔垃圾？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "誰來清一下這個垃圾箱……我以後做！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "溢出來的垃圾箱。我是在跟豬生活吧"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這箱子該清了"
+} ]

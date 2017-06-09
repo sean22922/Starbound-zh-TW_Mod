@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "近距離的時候擁有致命的殺傷力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "稀有散彈槍"
+} ]

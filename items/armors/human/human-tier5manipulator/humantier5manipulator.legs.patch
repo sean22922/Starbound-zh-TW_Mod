@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有了菲洛合金護膝，你的膝蓋再也不會受傷了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "開拓者的護膝"
+} ]

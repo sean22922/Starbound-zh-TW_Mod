@@ -1,0 +1,69 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個物質機械臂簡直就是為我量身打造……我可能需要它來逃出生天"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我得拿起這個物質操縱器，想辦法逃出去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我得拿起這個物質操縱器然後逃出去！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人最好是拿起這個物質操縱器，然後趕緊逃往安全的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張。我應該拿起這個物質操縱器，然後逃出去"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我應該拿上這個物質操縱器……要想活著出去，我可能需要它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個物質操縱器將是我活著出去的唯一助力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒時間琢磨了。我得拿起這個物質操縱器然後趕緊逃命"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/description",
+  "value" : "我得出去"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/apexDescription",
+  "value" : "我該走了"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/avianDescription",
+  "value" : "我得走了"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/floranDescription",
+  "value" : "葉族人必須得走"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/glitchDescription",
+  "value" : "緊張。我得離開了"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/humanDescription",
+  "value" : "我最好是快走"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/hylotlDescription",
+  "value" : "我不該再逗留了"
+}, {
+  "op" : "replace",
+  "path" : "/pickedUpParameters/novakidDescription",
+  "value" : "最好是趕緊走"
+} ]

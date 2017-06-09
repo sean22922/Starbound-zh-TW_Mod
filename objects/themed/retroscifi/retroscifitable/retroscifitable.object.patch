@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "復古風格的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張很棒的桌子，可以讓一家族聚在一起"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我怕要是這張桌子上面放了重物它就會翻了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的桌子值得我們好好欣賞"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真令人印象深刻，一張平衡性特別好的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子看起來它隨時都可能翻掉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張桌子的美在於其完美的平衡性"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "非常嫉妒這桌子能如此端正"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"切爾斯晶體中產生的寄生畸變。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "爾切斯恐懼小雕像"
+} ]

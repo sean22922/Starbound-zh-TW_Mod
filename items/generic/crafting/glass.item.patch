@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊用於製造的玻璃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "玻璃"
+} ]

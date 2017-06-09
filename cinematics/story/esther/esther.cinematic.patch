@@ -1,0 +1,77 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/5/text",
+  "value" : "哈嘍，親愛的！你帶的那個是物質操縱器嗎？太棒了，那你是個保護者"
+}, {
+  "op" : "replace",
+  "path" : "/panels/6/text",
+  "value" : "很遺憾，可能是最後一個吧，在……地球的可怕毀滅之後……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/7/text",
+  "value" : "我們現在還是不可避免地相遇了，真是悲哀"
+}, {
+  "op" : "replace",
+  "path" : "/panels/8/text",
+  "value" : "我的名字是 ^orange;伊瑟·布萊特^white;, 退休的大保護者"
+}, {
+  "op" : "replace",
+  "path" : "/panels/9/text",
+  "value" : "我多年以前離開了，真是個困難的決定；但不可輕忽我的研究"
+}, {
+  "op" : "replace",
+  "path" : "/panels/10/text",
+  "value" : "我發現了長久以來被人們遺忘但是對現在影響深遠的事"
+}, {
+  "op" : "replace",
+  "path" : "/panels/13/text",
+  "value" : "很久以前，有一股叫做\"耕耘者\"的力量，祂維持著宇宙的均衡"
+}, {
+  "op" : "replace",
+  "path" : "/panels/14/text",
+  "value" : "在祂的影響下，宇宙處於一片和諧之中。這種情況持續了十億年"
+}, {
+  "op" : "replace",
+  "path" : "/panels/16/text",
+  "value" : "但是這種寧靜只是暫時的。一個生物崛起了，仇恨和破壞之族。那就是\"毀滅\""
+}, {
+  "op" : "replace",
+  "path" : "/panels/17/text",
+  "value" : "\"毀滅\"無法容忍任何形式的生命，在全宇宙散播破壞"
+}, {
+  "op" : "replace",
+  "path" : "/panels/18/text",
+  "value" : "祂發動戰爭想要抹殺全宇宙的生命，如果不是\"耕耘者\"的犧牲，祂就成功了"
+}, {
+  "op" : "replace",
+  "path" : "/panels/20/text",
+  "value" : "\"耕耘者\"起身反抗\"毀滅\"，並成功將其封印"
+}, {
+  "op" : "replace",
+  "path" : "/panels/21/text",
+  "value" : "這樣一來，\"耕耘者\"完全耗盡了能量"
+}, {
+  "op" : "replace",
+  "path" : "/panels/23/text",
+  "value" : "在祂最後的力量消散前，\"耕耘者\"把神器賜予了6個被選定的種族"
+}, {
+  "op" : "replace",
+  "path" : "/panels/25/text",
+  "value" : "這6件神器，如果重新聚集在一起，就能構成可以打開通往\"毀滅\"之門的鑰匙"
+}, {
+  "op" : "replace",
+  "path" : "/panels/26/text",
+  "value" : "封印正在逐漸崩壞。我們必須再次聚齊神器，找到\"毀滅\"，然後真正地消滅祂"
+}, {
+  "op" : "replace",
+  "path" : "/panels/29/text",
+  "value" : "這可能要仔細考慮考慮，對你來說也是一個很大的請求……但是我需要你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/panels/30/text",
+  "value" : "神器散落在宇宙各處，我一個人找不全"
+}, {
+  "op" : "replace",
+  "path" : "/panels/31/text",
+  "value" : "我們必須找到它們然後根除\"毀滅\"，不要讓其他星球走上地球的道路"
+} ]

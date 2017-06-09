@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "看管人指引"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "偉主神廟看管人指引"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "－－永遠保持警戒警惕\n\n－－保護神廟勝於自己\n\n－－不要進入神廟太深\n\n－－保持警惕，注意陌生人\n\n－－崇敬不屈的庫魯克斯"
+} ]

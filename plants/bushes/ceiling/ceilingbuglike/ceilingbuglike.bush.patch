@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "奇怪的凸起"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇怪的凸起"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "令人毛骨悚然的形形形狀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一個很不常見的凸起"
+} ]

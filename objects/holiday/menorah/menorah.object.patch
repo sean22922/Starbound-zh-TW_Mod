@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "溫暖的節日紅光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "多連燈燭台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "溫暖的，發光的一套燭台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "溫暖的光讓我想起了鳥人的神廟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "如火一般的糖！葉族人喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一個多連燈柱台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "令人愉悅的多連燈燭台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些蠟燭散發出溫暖且令人高興的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個很可愛"
+} ]

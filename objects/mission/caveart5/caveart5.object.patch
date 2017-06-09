@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "描繪祭品的洞穴壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "神祕壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這裡是不是有一個什麼遠古生物在給葉族人什麼東西？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這似乎顯示一個大的生物把什麼東西給了這些快樂的人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這畫上面大傢夥在送葉族人禮物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這個似乎是對於很久以前發生的大事件的記錄"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在想這畫到底有多老了？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這畫似乎展示了一個偉大的種族把一個極其重要的禮物給了下面的人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這畫上面說有個大傢夥在給禮物。看上去挺熟悉的"
+} ]

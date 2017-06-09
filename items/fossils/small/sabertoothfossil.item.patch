@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "劍齒虎頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻劍齒虎的頭骨化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "劍齒虎頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"劍齒虎是廣為人知的化石，通過它們細長的犬齒可以很輕易識別。\""
+} ]

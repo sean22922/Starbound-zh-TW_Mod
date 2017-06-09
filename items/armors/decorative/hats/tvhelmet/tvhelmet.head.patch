@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒有信號，甚至看不了體育節目"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電視頭盔"
+} ]

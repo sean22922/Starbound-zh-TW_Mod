@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大廳聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種吸引注意力的燈光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一小盞聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一小盞聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞非常平凡的聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞平凡的聚光燈"
+} ]

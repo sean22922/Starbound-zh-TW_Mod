@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "罐子裡還能裝頭牛？白日夢呢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "罐中共生物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個罐中的小型共生物。經常被用作實驗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個膠狀的生物困在了一個罐子裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "凝膠狀的小生物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同情。這個共生物看起來有一點……難過"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，只是個小小的共生物。可憐的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我懷疑這個共生物一點也不喜歡在罐子裡的生活"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "噢，果凍！開玩笑啦"
+} ]

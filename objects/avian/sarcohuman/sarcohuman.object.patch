@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "衆所周知翼族人喜歡把人類夥伴作為陪葬品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "人類石棺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一具石棺。這是個人形的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在太空中的首批翼族人與人類有著深遠的友誼。這是個把人類帶到太空、讓他們獲得翅膀的嘗試"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞到了人類的味道！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，有人類在石棺裡面"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是個人類嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這不是個翼族石棺"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個外表跟人一樣的石棺。裡面是有人類屍體嗎？"
+} ]

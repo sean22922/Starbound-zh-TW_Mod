@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把花椅。如果你喜歡坐在這裡，那就意味著你喜歡黃油"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨型花椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把椅子想海綿一樣柔軟，非常奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子的背部不停的摩擦著我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族坐、坐在一朵花上，真開心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思。花瓣需要經過多少年才能經受住我的重量？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把用花製成的椅子。這裡面的花粉讓我不停打噴嚏"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這朵花是自然生長的還是經過了改造的？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "坐在花瓣上讓我感覺變成了森林裡的精靈"
+} ]

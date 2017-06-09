@@ -1,0 +1,77 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "飛船人工智慧，或者叫S.A.I.L"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "通過這個控制台我可以和飛船人工智慧（SAIL)對話"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以用這個工作站和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這神奇的控制板和SAIL對話！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這個工作站可以讓我和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個工作站可以讓我和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個控制台可以讓我和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個工作站可以讓我和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakeUp/0/0",
+  "value" : "正在重新啓動……"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakeUp/1/0",
+  "value" : "我是S.A.I.L，你的飛船人工智慧。 我負責維護你的飛船"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakeUp/2/0",
+  "value" : "我的程式也可以向你提供信息和建議"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakeUp/3/0",
+  "value" : "地球被一支神祕軍隊襲擊了，隨後被徹底毀滅了"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakeUp/4/0",
+  "value" : "這艘飛船的導航系統在我們逃離時損壞了。現在無法確定我們的方位"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/0/0",
+  "value" : "系統已關閉，請重新啓動"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/1/0",
+  "value" : "請重新啓動系統"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/2/0",
+  "value" : "重啓程式尚未啓動"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/3/0",
+  "value" : "請重新啓動以便使用S.A.I.L"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/4/0",
+  "value" : "重新啓動將飛船互動滿意等級提高了73%"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/wakePlayer/5/0",
+  "value" : "重新啓動需要有意識的生命體與S.A.I.L控制台互動"
+} ]

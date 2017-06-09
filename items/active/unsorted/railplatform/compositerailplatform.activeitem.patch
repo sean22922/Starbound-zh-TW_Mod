@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可以在軌道上前進的平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "合成軌道平台"
+} ]

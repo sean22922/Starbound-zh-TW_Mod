@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "製造"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "製造所有美好的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "^#b9b5b2;原理圖"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "^#b9b5b2;成品"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnCraft/caption",
+  "value" : "製作"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProduct/value",
+  "value" : "原料足夠"
+} ]

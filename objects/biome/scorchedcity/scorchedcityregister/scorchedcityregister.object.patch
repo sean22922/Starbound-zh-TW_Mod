@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "咔嚓！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "商店登記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個用來計算業務的機器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用來賣東西的機器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "咔-清！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：我在想這個設施運作的怎麼樣，在財政方面？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像個收銀機"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一個收銀機"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個收銀機，用來裝現金"
+} ]

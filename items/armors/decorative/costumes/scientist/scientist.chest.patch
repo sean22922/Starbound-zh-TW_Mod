@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓怪物的粘液噴不到穿戴者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "科學家外套"
+} ]

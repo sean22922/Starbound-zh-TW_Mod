@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用漂亮絲綢做成的翼族人旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人花紋旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有圖案的翼族人旗幟。圖案很粗糙，但是材料非常的生機勃勃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些有圖案的旗幟是由那些技術最差的陸生動物製成的，但是當有一定數量之後，它們就成為了色彩的海洋"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "明亮的顏色和有趣的圖案"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很歡快。漂亮的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這麼明亮的顏色。這些看上去很有意思"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儘管品質不怎樣，製造這種旗子還是很有樂趣的。看著它我內心感到溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這面旗子手工不錯"
+} ]

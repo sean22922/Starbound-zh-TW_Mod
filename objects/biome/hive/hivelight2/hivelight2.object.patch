@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自蜂巢中的一抹不祥之光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢微光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這盞燈讓我非常不安"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈有點噁心"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "如果葉族人直視這盞燈的話，會眼睛疼的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。這盞燈好像是用某種有機液體發光的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我脖子後面的汗毛都豎起來了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "多可愛單純的一盞燈啊！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈用什麼發光的？我不喜歡"
+} ]

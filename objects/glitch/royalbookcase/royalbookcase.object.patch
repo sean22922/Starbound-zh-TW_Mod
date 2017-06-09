@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "國王的書櫃……找找看王室成員看什麼書"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "王室書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個用金子裝飾的書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個鍍金的書架。翼族人相信這樣的奢華只有庫魯克斯有資格享用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "華麗的書架。裡面裝的難道不只是書嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。許多皇室成員都會讀書寫作"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鍍金的書架。也許國王都很喜歡讀書吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "究竟是什麼樣的國王才會在自己盡享奢華的同時讓農民忍飢捱餓？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "國王大概都沒什麼時間看書吧？"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "pulpin",
-  "category" : "pulpin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pulpin.png"
-  }
-}

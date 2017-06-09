@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蒙塵的櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒙塵的時尚櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這櫃子污跡斑斑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這櫃子太髒了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這櫃子真髒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。這櫃子覆蓋著一層污漬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這東西在這多久了？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這櫃子太不乾淨了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個櫃子真髒！"
+} ]

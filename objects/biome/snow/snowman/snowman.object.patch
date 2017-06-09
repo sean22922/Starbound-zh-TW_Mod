@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個完美的小雪人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪人"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個令人敬佩的雪人。你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個雪人。但似乎少了什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族獵捕雪、雪人。雪、雪人沒注意。雪、雪人崩碎了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嫉妒。機器人的身體有太多邊角，難以打造一個準確的雪機器人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個雪人！好想去把它的頭踢下來……越來越想去……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個冰雪做成的雕像有一天會融化，重新變成一灘水。它上面還有一個可愛的胡蘿蔔做成的鼻子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個雪雕？還是說有人在雪中站立太長時間了？"
+} ]

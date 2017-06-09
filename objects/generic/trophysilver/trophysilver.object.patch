@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牌子上寫著\"獎勵給能夠撼動自然力量的人。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獵人的獎品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人能夠從這座亮閃閃的獎品上看到倒影"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這個獎品的製作者懷著對受獎人的尊重而製作了它"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個獎品和嶄新的左輪手槍一樣閃亮"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用皮革和大型骨頭做的沙發"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古的睡椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把骨頭和皮革製成的睡椅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些骨頭很軟很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人大開殺戒，用骨頭做得沙發，其他葉族人則在享受的同時也很欽佩他"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這塊皮革上還有血跡呢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張沙發看起來應該是一個特別嗜血的葉族人的東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "想像葉族人坐在一個活物的骨頭上，真讓我噁心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "怎麼會有人能坐在這麼尖的沙發上"
+} ]

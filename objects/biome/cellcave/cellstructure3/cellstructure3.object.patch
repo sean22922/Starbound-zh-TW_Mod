@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一間怪異的巢室"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂窩狀構造"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個奇怪的現象"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一種現象。讓我回想起能量水晶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來很奇、奇怪的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析：它的細胞構造看起來屬於一種變體猿人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我想起來了物理課。要麼是生物課來著？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "當科學與藝術相遇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "巨大的細胞？誰留在這裡的？"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "熱帶和海洋水果做成的清爽沙拉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海洋沙拉"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色貝殼標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個貝殼上裝飾著藍色霓虹燈標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "貌似鮫人除了荷葉還真有別的愛好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "標誌發出微微的嗡嗡聲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑：為什麼有箭頭指向這個標記？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個標誌是什麼意思？買貝殼？收集貝殼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我記得很多鮫人都收集貝殼。而且很瘋狂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "招牌上有貝殼的圖案"
+} ]

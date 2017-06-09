@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "摩爾曼海報"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張重量級大片的海報，\"摩爾曼的預言\""
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "那就是海報上的對手？看起來很可怕……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個電影看上去十分恐怖……尤其海報上的怪獸"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "摩爾曼？只是個很可怕的人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷：誰是摩爾曼並且他們的預言是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鯨族人對於恐怖電影有一些歡樂的想法……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這可能是我看過的最恐怖的電影"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "要我說的話就是看上去挺恐怖的電影"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "hemogoblin",
-  "category" : "hemogoblin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "hemogoblin.png"
-  }
-}

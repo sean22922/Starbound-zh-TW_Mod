@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "據說能指向諸神寶藏的老舊破損地圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯藏寶圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個編織地圖說是能把讀者引領到庫魯克斯的寶藏哪裡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個地圖標記了能找到庫魯克斯寶藏的路。我想知道這地圖是誰做的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族厭倦了寫著字的老圖了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。這張古老的地圖標記了古老的寶藏。我想知道這有多大的可信度？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張地圖說是能找到古老的寶藏，我想知道這有多大的可信度？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這破碎的掛毯好像是什麼古老星圖的一部分。太神奇了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我想知道用這古圖能不能找到什麼被掩埋的寶藏"
+} ]

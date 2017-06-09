@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它的大長腿使得它可以站在水中抓魚。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Toumingo小雕像"
+} ]

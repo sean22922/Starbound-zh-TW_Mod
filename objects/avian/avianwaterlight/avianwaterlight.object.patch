@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "嵌在這個裝置裡的晶體發著微弱的光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶體之光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "從發的光來看，它在設計上有點俗豔"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "水晶真是萬能。這盞燈讓人身心愉悅"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "由石頭製成的閃亮的燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞。真是漂亮的燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "燈亮起來，才看出這是顆真的寶石"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞用寶石做出來的燈真是迷人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞瘋狂的燈是用石頭做出來的"
+} ]

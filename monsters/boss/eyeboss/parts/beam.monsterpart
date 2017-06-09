@@ -1,9 +1,0 @@
-{
-  "name" : "eyebossbeam",
-  "category" : "eyeboss",
-  "type" : "beam",
-
-  "frames" : {
-    "beam" : "beam.png"
-  }
-}

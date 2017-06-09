@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "時髦的鈦合金開拓者頭盔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "開拓者頭盔"
+} ]

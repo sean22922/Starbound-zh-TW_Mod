@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "晶洞寶石面具。會讓你的眼睛閃光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞面具"
+} ]

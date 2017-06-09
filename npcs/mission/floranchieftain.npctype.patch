@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "我是Chieftain！"
+} ]

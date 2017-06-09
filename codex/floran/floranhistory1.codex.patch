@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "獵肉指南"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "十分陳舊的葉族打獵指南。封面似乎是用骨片製成"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "葉族狩獵招數\n\n肉棍人們認為植物不吃肉，植物都像樹\n\n肉棍人太蠢，活該被葉族吃掉\n\n第一招：跑得要比獵物快\n\n第二招：在被殺之前殺掉獵物\n\n快去獵肉吧"
+} ]

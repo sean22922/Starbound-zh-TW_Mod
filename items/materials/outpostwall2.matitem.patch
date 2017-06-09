@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "設計用來暴露在極端元素下的厚重牆壁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "前哨站厚重牆壁"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "高興。沒有什麼可以移動該結構上的加固牆體"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "這堵牆很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "沒有什麼可以移動這個厚重牆體"
+} ]

@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我以前是一個大船上的船員！還是這裡更安靜一點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "呦吼吼，迎來拘禁生活了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "當我不再相信庫魯克斯我就上了一個飛船。在船上真是快樂的日子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/3",
+  "value" : "新鮮空氣，自由，那才是我想要的生活！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/4",
+  "value" : "別以貌取人！我還是很有教養的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/0",
+  "value" : "我以前是一個大船上的船員！還是這裡更安靜一點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/1",
+  "value" : "呦吼吼，迎來拘禁生活了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/2",
+  "value" : "當我不再相信庫魯克斯我就上了一個飛船。在船上真是快樂的日子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/3",
+  "value" : "新鮮空氣，自由，那才是我想要的生活！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/4",
+  "value" : "你以前聽過的話還是忘了吧，拘禁才是真正的自由"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以安裝在牆上的一個葉族牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "植物牆壁臥鋪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個簡單的牀可以懸掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用藤蔓懸掛著的監獄牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個監獄牀鋪是由結實的藤蔓所吊著"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。這個牀鋪的設計讓它可以從牆上懸掛著"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張牀看起來很不舒服，至少是懸掛在地面上的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張葉族牀鋪似乎是屬於監獄裡的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用植物打造的一張監獄牆壁牀鋪"
+} ]

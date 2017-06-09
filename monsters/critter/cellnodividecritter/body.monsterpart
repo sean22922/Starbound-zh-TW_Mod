@@ -1,9 +1,0 @@
-{
-  "name" : "cellnodividecritter",
-  "category" : "cellnodividecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一整塊純鉑金"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鉑金塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這個閃爍的磚塊用鉑金製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡閃亮的鉑金"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我估計這個鉑金磚塊一定讓某人花銷不少"
+} ]

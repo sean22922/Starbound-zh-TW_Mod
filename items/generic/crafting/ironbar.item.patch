@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鐵錠通常能在溫和恆星周邊的行星找到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵錠"
+} ]

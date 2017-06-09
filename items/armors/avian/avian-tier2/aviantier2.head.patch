@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "十分強韌的尖頭鎢製頭盔，擁有極高的審美價值"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "麻雀兜帽"
+} ]

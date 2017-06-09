@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種有大紅色花瓣的花。適合做染料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一朵紅色的花，可以用來做紅色染料，最好看的顏色！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這朵花的花瓣可以用來做紅色染料，紅色是萬能而又令人震撼的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這朵花是深紅色的，讓葉族人想起了自己的一個朋友"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "禮貌。紅色花瓣可以用來做高貴的紅色染料"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用這朵小花我可以做出很濃的紅色染料"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一朵紅色的花，充滿生機而又美麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一朵紅色的花，我感覺自己聞上癮了，這是為什麼？"
+} ]

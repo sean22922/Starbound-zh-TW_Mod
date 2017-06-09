@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "復古風格的小櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個時髦的儲存東西的櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "跟那些簡單的東西不同，這個櫥櫃有它的迷人之處"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "曲線櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，這是一個很有用的櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個有明顯曲線的櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個櫥櫃擁有的曲線真優雅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "正好用來存放你的雜物"
+} ]

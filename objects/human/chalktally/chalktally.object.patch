@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某人數不到25"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "數字編號"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格的巢穴的牆上也有類似的編號"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有人在數什麼，數什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這種記號記錄殺人數"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。這表示什麼東西的出現次數為25次。咱們永遠也不知道了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一堆數字編號，要不是在描繪崗哨的柵欄？真的搞不清"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡易而有效的數數方式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我認識的一個傢夥用這個記錄殺人數"
+} ]

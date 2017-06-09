@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不管你是鍛鍊還是坐在電視旁吃比薩，都可以穿它，真是多功能！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "運動褲"
+} ]

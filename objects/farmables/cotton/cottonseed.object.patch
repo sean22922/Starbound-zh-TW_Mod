@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株生長著毛茸茸的棉花芽的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棉花種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "棉花易於種植並且用途廣泛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "棉花植物！這些作物有很多用處！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以通過棉花種植製造出很多軟綿綿的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真有創造力。我可以用這些棉花做很多東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "棉花，人類歷史上最悠久的作物之一，多有用啊！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人的紡織工可以用棉花製作出最柔軟的紡織品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "棉花像這樣可以做成一堆這樣的東西"
+} ]

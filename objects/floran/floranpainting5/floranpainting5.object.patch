@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葉族人的抽象藝術"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始抽象藝術"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "它看上去像抽象藝術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "藝術，抽象多樣性"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要畫日出"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自大。不錯的抽象畫，很有個人的風格"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去像是那些抽象作品中的一小塊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人簡單的用抽象藝術實驗過一段時間。我們繼續"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去像是那些抽象作品中的一小塊"
+} ]

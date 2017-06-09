@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個鳥巢，裡面有個鳥蛋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥巢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個鳥巢，裡面有個鳥蛋。這個蛋能吃嗎"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "非常有趣的小鳥巢，很可愛！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "蛋很像肉……很好吃！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "知道了，鳥就是用這些鳥巢來繁殖後代的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是鳥巢。裡面有小鳥嗎"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個鳥巢，很自然"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "鳥巢很小，所以搭巢的鳥肯定也不大"
+} ]

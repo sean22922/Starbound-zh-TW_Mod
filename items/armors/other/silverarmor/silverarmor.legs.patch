@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "銀製的閃閃法令的護脛甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銀色護脛甲"
+} ]

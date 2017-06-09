@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把古典吉他。它輕輕地哭泣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典吉他"
+} ]

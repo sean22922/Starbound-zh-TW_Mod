@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個基座上刻有鳥圖案的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻鳥圖案的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一種神祕科技，不過看起來好像好水晶有關"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個水晶供電的控制台，上面可有傳統的鳥的圖案"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人的控制台閃閃發光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這種供能技術對我來說還是未知的，但好像和這些水晶有關"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個有很多翼族人標誌的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "翼族人居然對有科技含量的東西進行雕刻，真是少見"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個控制台當然能發出一些很精緻的光"
+} ]

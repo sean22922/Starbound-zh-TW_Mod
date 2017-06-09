@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "柳條支撐磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "緊緊交織在一起的柳條原料"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。這個柳條十分牢固"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人喜歡堅韌的柳條磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去這些磚塊就是一些緊緊纏繞在一起的原料做成"
+} ]

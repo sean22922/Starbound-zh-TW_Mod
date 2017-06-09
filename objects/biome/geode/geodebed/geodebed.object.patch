@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在一個巨大晶洞中雕出的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個晶洞大的都可以住人了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有些翼族人的牀是用石頭做的，但這張好像很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "尖銳的岩石不適合做牀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。晶洞裡的水晶石貌似睡起來不太舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張牀缺少舒適性，但用安全性彌補了。睡在岩石裡頭吧！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "睡在晶洞裡能讓人沉浸在大自然之美中"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以在這裡蜷縮著，就像是在自己的小世界中"
+} ]

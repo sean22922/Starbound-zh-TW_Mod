@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "啊哦，我該拿什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個自動販賣機。這可惜，沒有香蕉味的零食"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "非常適合緩解飢餓"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聰明機器款待葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "猶豫不決，我不知道該買哪一種"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦，天啊，這就是你每次都能贏的老虎機！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "賣含糖飲料的零售機。它們必須這樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "賣含糖飲料的零售機"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "好吃的零食"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅來自保護者學會的撕裂保護者牆飾橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "撕裂保護者牆飾橫幅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "旗幟已經撕壞了……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "撕裂的旗幟！已經毀了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "破損的旗幟……葉族人不喜歡這個"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太慘了。一面毀壞的保護者組織旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這面保護者組織旗幟狀態不太好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這面旗幟撕壞了！就象我的心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就連這面榮耀的旗幟都沒能倖免"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黃銅頭盔，適合那些喜歡生氣的人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "角鬥士頭盔"
+} ]

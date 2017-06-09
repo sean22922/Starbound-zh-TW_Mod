@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "機械化的！記得把螺絲吐出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機械番茄種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "機械番茄……你要是咬了螺絲釘牙齒沒斷的話，還是很道地的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "機械番茄。這些種子他們自己嚐起來應該很美味吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鮮嫩多汁。一小塊都很脆，跟人類一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不贊成。其他人去掉了螺絲。機器人覺得他們讓口味變重了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個塞滿了螺絲釘的番茄。吃下去需要莫大的勇氣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "尋常的機器人農民餐。不是很和我胃口"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "機械番茄嚐起來又衝，金屬味又濃"
+} ]

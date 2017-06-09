@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張簡單的鐵椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "不是最舒適的椅子，但是我很高興能有它"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "能坐的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人坐——在椅子上想著打獵的事情"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放鬆：這張椅子對於電子人來說正合適"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張硬椅子。讓我想起了學生歲月"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "不是鮫人所熟悉的奢侈風格，但是也還不錯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不是很好，但我也不挑"
+} ]

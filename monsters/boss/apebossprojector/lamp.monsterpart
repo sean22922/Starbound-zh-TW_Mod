@@ -1,9 +1,0 @@
-{
-  "name" : "apebossprojectorlamp",
-  "category" : "apebossprojector",
-  "type" : "lamp",
-
-  "frames" : {
-    "lamp" : "lamp.png"
-  }
-}

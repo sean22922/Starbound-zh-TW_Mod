@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "詐騙小姐"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "好，首先我們需要一點東西，葉族知道從誰那裡可以拿到。^green;找到^orange;<target>^green;，讓<target.pronoun.object>給我們<target.pronoun.possessiveDet> ^orange;<item>^green; up^white;，否則葉族會親自和<target.pronoun.object>談談！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "第一步，^green;我們要得到^orange;<item>^white;。葉族知道^orange;<target>^white;有一個。^green;讓 <target.pronoun.object>交出來^white;，葉族知道<target.pronoun.subject>很卑微不會反抗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "遲鈍。首先我要你^green;找到那個笨蛋^orange;<target> ^green;，讓<target.pronoun.object>放棄 <target.pronoun.possessiveDet> ^orange;<item>。 ^white;記得要提到是^orange;<questGiver>^white; 派你過來的，<target.pronoun.subject>不會反抗的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "冷漠。首先我們要面對^orange;<target>。 ^white;我需要<target.pronoun.possessiveDet> ^orange;<item>，^white;但我親自出馬的話<target.pronoun.subject>會非常恐懼。為了免去不必要的麻煩，勞駕你^white;代我去^green;把它取過來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "首先我們要找到一個不錯的^orange;<item>。 ^white;我知道^orange;<target> ^white;有一個，所以你可以^green;直接從<target.pronoun.object>那裡拿。^white; <target.pronoun.capitalSubject>已經知道<target.pronoun.possessiveDet>地點，所以<target.pronoun.subject>不敢違抗我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "我們要得到一個^orange;<item>。^white; 幸運的是， ^white; 住在附近的 ^orange;<target>^green;應該有一個。^white; 而且， <target.pronoun.subject>已經知道了誰才是這裡的老大，所以我知道^green;<target.pronoun.subject>會聽你的^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "下一步要一點體力了。葉族知道^orange;<target>^white;躲在某個地方。^green;告訴<target.pronoun.object> 葉族覺得<target.pronoun.subject>應該\"自願交出\"<target.pronoun.possessiveDet> ^orange;<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "^white;下一步我們要一個^orange;<item>。 ^orange;<target>^green;那裡拿一個，^white;<target.pronoun.subject>是一個膽小鬼，<target.pronoun.subject>會做所有葉族希望的事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "冷酷。下一步我們需要^orange;<item>^white;。^orange;<target>^white;有一個。<target.pronoun.capitalSubject>會^green;會立刻交出它只要你告訴<target.pronoun.object>是我派你來的^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "敵對。現在我們來找點樂子！找到^orange;<target> ^white;然後^green;迫使<target.pronoun.object>交出<target.pronoun.possessiveDet> ^orange;<item>。^white;這不會很難，只要你說是^orange;<questGiver>^white; 派你來的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "我們要找一個 ^orange;<item>^white;。^orange;<target>^white;有一個，而且<target.pronoun.subject>正好欠我個人情。麻煩你從^green;<target.pronoun.object>那裡 ^green;拿到^orange;<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "有一個好的^orange;<item> ^white;對於我們的計劃來說是必要的。我確信^orange;<target>^white;有一個，你為什麼不^green;跑一趟拿一下它呢？^white;別擔心，<target.pronoun.subject>不敢反抗的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "好極了！葉族知道<target>不敢反抗。這個<item>能很好地發揮作用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "你拿到了！很簡單吧？葉族想看看<target>的臉！葉族敢打賭 <target.pronoun.subject>被嚇得瑟瑟發抖！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "諷刺。 啊，我看到你拿到了<item>——我預料到讓它們交出<target>是一件很難的事。 暫時替我保管好它，行嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "可笑。啊，你拿到了<target>的<item>。我能想像<target.pronoun.possessiveDet>臉上的表情一定非常有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "幹得漂亮！這個<item>我們很快就會用到"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "這個<item>真不錯！你做得很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "你拿到了？<target> 可真好，沒有反抗就把<target.pronoun.possessiveDet> <item>給了葉族。<target.pronoun.capitalSubject>知道什麼對<target.pronoun.object>最好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "看到了吧？有時候完成事情最好的方式就是施加一點壓力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "高興。你得到了<target>的<item>。哈哈……<target.pronoun.subject>真是個懦夫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "滿意。這是最完美的<item>，我想<target> 應該沒造成很大麻煩吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "漂亮。我知道 <target>不敢輕舉妄動"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "收集<item>的工作真是太漂亮了！我知道讓<target> 待在附近是很有用的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "從<target>獲得<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "回到<questGiver>那裡"
+} ]

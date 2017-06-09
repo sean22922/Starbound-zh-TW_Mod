@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個結實頭盔上的面罩可以增強穿戴者的視野"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "探索者頭盔"
+} ]

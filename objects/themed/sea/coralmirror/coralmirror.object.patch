@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一面珊瑚外框的牆鏡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚鏡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這面鏡子的品質太糟糕了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這面鏡子裡面映射出來的景象模模糊糊的。難道裡面有什麼祕密嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看著鏡子就跟在水下一樣模糊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不滿足。這個鏡子的映射出來的景象模糊模糊的，就好像透過水往裡看一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個鏡子的映射出來的景象模糊模糊的，就好像透過水或者湯往裡看一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "當我在欣賞它的品質時，鏡子變得濛濛的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個鏡子的映射出來的景象模糊模糊的，就跟沙漠裡的熱天一樣"
+} ]

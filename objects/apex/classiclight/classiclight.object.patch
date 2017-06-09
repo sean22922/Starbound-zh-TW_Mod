@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "漂亮的鐵壁燭台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種燈的光芒非常溫暖並且舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種鐵製品比翼族人製槍匠的作品好多了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面沒有火焰在燃燒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。設計和目的不搭。檯燈為火焰提供氧氣，然而這設備是純電力的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞電燈。看起來是為了火焰建造的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些燈看上去是為了包裹住火焰而設計的，但是是它確實完全電動的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個燈看起來像是沙龍裡面用的"
+} ]

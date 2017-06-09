@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "外表看起來很脆，內裡卻灼熱的如同熔岩一般"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "烤馬鈴薯"
+} ]

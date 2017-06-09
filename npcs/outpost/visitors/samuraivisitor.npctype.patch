@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "鮫族戰士需要吃好！我就是來購買食物的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "這地方很奇妙對吧？我都想寫詩或歌頌民謠了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "如果我要保護人民，就一定要足夠強大，需要吃得好…我只是來買小吃的"
+} ]

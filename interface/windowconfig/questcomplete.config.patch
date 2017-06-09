@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/btnAccept/caption",
+  "value" : "好"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblMoney/value",
+  "value" : "^shadow;獎勵：^noshadow;"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblQuestTitle/value",
+  "value" : "翼族巨魔領主的祕密"
+} ]

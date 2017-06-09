@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把劍…當作控制器？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋒利開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些劍起到把手的作用。他們能啓動什麼東西呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對廢舊武器的完美再利用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用力拉劍，劍讓燈吱吱作響"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚人：一把好劍能有很多用途，即使在它變鈍之後也是。在這，它的作用就是一個把手"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我現在既擔心自己砍到，又想拉那個把手"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "像這樣的設備是和平的象徵？還是一種暴力的威脅？"
+} ]

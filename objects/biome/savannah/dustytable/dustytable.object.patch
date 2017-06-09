@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張滿是灰塵的木頭桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滿是灰塵的木桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來很粗糙的木質桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是張破爛不堪的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "佈滿灰塵的木桌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很明顯。這木頭看起來被太陽曬壞了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "桌布看起來是用乾草做的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很簡單的醜桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果需要的話，我還是能在這吃飯的"
+} ]

@@ -1,0 +1,133 @@
+[ {
+  "op" : "replace",
+  "path" : "/systemTypes/White/variationParameters/0/description",
+  "value" : "小型白星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/White/variationParameters/1/description",
+  "value" : "中型白星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/White/variationParameters/2/description",
+  "value" : "大型白星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Orange/variationParameters/0/description",
+  "value" : "小型橙星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Orange/variationParameters/1/description",
+  "value" : "中型橙星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Orange/variationParameters/2/description",
+  "value" : "大型橙星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Yellow/variationParameters/0/description",
+  "value" : "小型黃星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Yellow/variationParameters/1/description",
+  "value" : "中型黃星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Yellow/variationParameters/2/description",
+  "value" : "大型黃星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Blue/variationParameters/0/description",
+  "value" : "小型藍星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Blue/variationParameters/1/description",
+  "value" : "中型藍星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Blue/variationParameters/2/description",
+  "value" : "大型藍星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Red/variationParameters/0/description",
+  "value" : "小型紅星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Red/variationParameters/1/description",
+  "value" : "中型紅星"
+}, {
+  "op" : "replace",
+  "path" : "/systemTypes/Red/variationParameters/2/description",
+  "value" : "大型紅星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier1/baseParameters/description",
+  "value" : "1等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier2/baseParameters/description",
+  "value" : "2等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier3/baseParameters/description",
+  "value" : "3等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier4/baseParameters/description",
+  "value" : "4等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier5/baseParameters/description",
+  "value" : "5等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Tier6/baseParameters/description",
+  "value" : "6等行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Moon/baseParameters/description",
+  "value" : "衛星行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/Barren/baseParameters/description",
+  "value" : "荒蕪行星"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/AsteroidField/baseParameters/description",
+  "value" : "小行星帶"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/AncientGateway/baseParameters/description",
+  "value" : "遠古傳送陣"
+}, {
+  "op" : "replace",
+  "path" : "/planetaryTypes/GasGiant/baseParameters/description",
+  "value" : "氣態巨星星球"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier1/baseParameters/description",
+  "value" : "1等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier2/baseParameters/description",
+  "value" : "2等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier3/baseParameters/description",
+  "value" : "3等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier4/baseParameters/description",
+  "value" : "4等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier5/baseParameters/description",
+  "value" : "5等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Tier6/baseParameters/description",
+  "value" : "6等衛星"
+}, {
+  "op" : "replace",
+  "path" : "/satelliteTypes/Moon/baseParameters/description",
+  "value" : "沼澤標準衛星"
+} ]

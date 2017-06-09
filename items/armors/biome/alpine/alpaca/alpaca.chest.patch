@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "想遊覽宇宙的話，記得帶一件暖和的毛衣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星羊駝毛衣"
+} ]

@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嗨，我是莉莉！我要抓住星星附近的所有怪獸。特別是那些胖乎乎的"
+} ]

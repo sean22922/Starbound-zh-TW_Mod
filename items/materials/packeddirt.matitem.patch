@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "緊密的土"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用泥土填裝的小磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "歡樂。這些磚塊就是用泥土包裹出來的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "用泥土包裝出的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去軟軟的磚塊，用泥土製成"
+} ]

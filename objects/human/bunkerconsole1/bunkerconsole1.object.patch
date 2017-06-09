@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "好多有趣的操縱桿，算了我還是離遠點吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套指揮控制台。不知道是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來瞎搞它會很危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶好多按鈕和手柄的機器！誘人，不過葉族人還是別亂動了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。手柄越多，亂動控制台就越危險"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我猜這玩意兒打開通向豆莢灣的門，要不就是引爆什麼東西。它肯定有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "千萬……不要……拉動……操縱桿……啊……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "誰知道這些按鈕和手柄是幹嘛的。我不想自討苦吃"
+} ]

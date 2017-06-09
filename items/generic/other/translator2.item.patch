@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一半古代的輪盤，用於翻譯字符"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "右翻譯輪盤"
+} ]

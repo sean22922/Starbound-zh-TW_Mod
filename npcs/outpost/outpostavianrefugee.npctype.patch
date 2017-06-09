@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我幾乎成了庫魯克斯的長老，但是我太害怕就逃到了這裡。我現在該怎麼做？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我幾乎成了庫魯克斯的長老，但是我太害怕就逃到了這裡。我現在該怎麼做？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/avian/0",
+  "value" : "另一個不再追隨庫魯克斯的翼族？你的存在讓我欣慰"
+} ]

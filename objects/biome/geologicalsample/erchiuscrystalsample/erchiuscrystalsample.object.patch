@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"爾切斯晶體燃料的完美樣品——更大的量則可以用來給FTL艦船提供能源。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "爾切斯晶體樣品"
+} ]

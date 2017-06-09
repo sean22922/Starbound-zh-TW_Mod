@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "煮鍋的工藝永遠也不可能超越鍛鐵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煎鍋"
+} ]

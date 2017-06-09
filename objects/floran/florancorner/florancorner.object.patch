@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張從天花板拉伸的薄皮革"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皮革支撐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張拉伸的皮革"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "它看上去像一張拉伸的皮革。我不確定它的用途"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人把皮革掛起來產生可人的香味"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很困惑。拉伸的皮革。用來裝飾的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是用皮革做的，聞起來也是"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "裝飾性的皮膚……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這看起來像是拉伸過的皮革"
+} ]

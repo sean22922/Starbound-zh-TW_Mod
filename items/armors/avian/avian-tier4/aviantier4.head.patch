@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由耐鋼製成的頭盔，翼族宇航員的選擇。免責聲明：不提供對真空環境的保護"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貓頭鷹頭盔"
+} ]

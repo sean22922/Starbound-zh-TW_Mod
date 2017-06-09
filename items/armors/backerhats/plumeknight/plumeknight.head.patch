@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "羽毛騎士的頭盔。有一條大大的漂亮羽毛！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羽毛騎士頭盔"
+} ]

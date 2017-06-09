@@ -1,9 +1,0 @@
-{
-  "name" : "blueback",
-  "category" : "blueback",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "blueback.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可能有或者沒有容納一頂起作用的降落傘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "飛行員雙肩包"
+} ]

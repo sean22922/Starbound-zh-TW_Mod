@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根木製電線杆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製電話線杆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根木製電話線杆，看起來大部分完好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一根木杆，是做什麼用的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "木杆，或許可以用來攀爬？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自信，一根木製電話線杆"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一根木製電話線杆，曾經用來連接電線，傳輸信號"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一根木杆。看起來曾經很有用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真想知道這曾經是用來做什麼的"
+} ]

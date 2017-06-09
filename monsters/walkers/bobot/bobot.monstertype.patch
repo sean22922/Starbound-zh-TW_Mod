@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波波特"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒人知道它從哪裡來，是誰造出來的"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "上等的牆紙，簡直畫龍點睛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典壁紙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "疑惑。機器人從來都沒理解牆畫的理念"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "奇怪的紙張覆蓋著牆面"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "牆紙。用來提升這地方檔次的不二之選"
+} ]

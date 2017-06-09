@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能用來做小屋的屋頂"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小屋屋頂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "開心。這個小屋屋頂有鄉村氣息"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人創造了小屋屋頂"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一個小屋屋頂，能在雨天擋雨"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鋸骨者大衣，有威嚇力但卻很高雅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋸骨者大衣"
+} ]

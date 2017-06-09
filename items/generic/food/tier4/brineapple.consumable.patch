@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在光滑的鳳梨塞入珊瑚果凍，趁熱食用。奇特的鮫族風味！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚鳳梨"
+} ]

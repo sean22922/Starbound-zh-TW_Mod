@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這電梯設計在鑄造中十分常見"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長工業電梯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台結實的升降梯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "繞過多層設施的最便捷方式"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "升降梯上上下下"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊，這個升降梯很無趣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用來在各層之間上升下降的升降梯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一部工業電梯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是某種升降梯，這個有用！"
+} ]

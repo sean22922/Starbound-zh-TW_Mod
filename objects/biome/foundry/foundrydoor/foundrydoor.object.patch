@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇常在鑄造時使用的金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沉重的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇看起來很沉重的門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我完全推不開這扇門，實在太沉了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人把門摔上來製造巨大的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "調皮。把這扇門摔上的話能不能發出巨大的聲音呢……"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "帶有小窗的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門跟海下的那些門很像，非常沉重，且不透水"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇帶有小窗的門"
+} ]

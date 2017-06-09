@@ -1,9 +1,0 @@
-{
-  "name" : "smallrhinochest",
-  "category" : "smallquadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "smallrhinochest.png"
-  }
-}

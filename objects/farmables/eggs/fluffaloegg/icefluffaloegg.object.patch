@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出脆弱的冰浮盧法羅幼崽——長大之後成為冷凍提取的良好來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰浮盧法羅蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個蛋中有一個冰浮盧法羅。當這個生物成年後可以製造冷凍提取物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個冰浮盧法羅蛋。 冰浮盧法羅是家畜——它們專門製造冷凍提取物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面有個毛茸茸的小冰浮盧法羅！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "一個冰浮盧法羅蛋！這些可愛的毛茸茸的家畜可以製造冷凍提取物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個冰冷的蛋——裡面有一個冰浮盧法羅！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個蛋中的小傢夥有朝一日會長成一個成年的冰浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "蛋中有一個冰浮盧法羅，照顧這些生物一開始會有點麻煩，但他們製造的東西會加倍補償你的投資"
+} ]

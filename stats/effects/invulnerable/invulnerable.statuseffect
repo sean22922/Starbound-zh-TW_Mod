@@ -1,9 +1,0 @@
-{
-  "name" : "invulnerable",
-  "effectConfig" : {},
-  "defaultDuration" : 1,
-
-  "scripts" : [
-    "invulnerable.lua"
-  ]
-}

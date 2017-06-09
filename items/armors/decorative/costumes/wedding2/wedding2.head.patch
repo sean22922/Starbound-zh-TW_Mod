@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "絲綢薄紗做的婚禮面紗"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "婚禮面紗"
+} ]

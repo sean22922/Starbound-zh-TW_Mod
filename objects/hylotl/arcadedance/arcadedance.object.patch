@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來一起跳個舞吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "跳舞機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不確定自己會是個好舞者。箭頭動的太快了！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這不太適合有爪子的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些箭頭太快了！葉族人很失望！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。一旦掌握了節奏，這個遊戲真的太簡單了。9/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我想告訴開發者這個遊戲已經上天了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "玩轉跳舞吧是一件挺有挑戰的事情"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "耶嘿！我們一起玩吧！"
+} ]

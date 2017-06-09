@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "漂亮的石頭噴泉。泉水看起來很清新"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "分層石頭噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一座漂亮的噴泉，噴水的聲音能夠撫慰心靈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一座很大的噴泉，讓我聯想到一個供鳥戲水的水盆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "對葉族人來說水是生命的使者"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感到放鬆，水的聲音讓人平靜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果我有硬幣的話早就扔進去了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "清澈美妙的水，有時候真想念大海啊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種斑紋密佈的雕像正在噴水"
+} ]

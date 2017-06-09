@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/friend/example/name",
+  "value" : "友善的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "<questGiver>的新帽子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/1",
+  "value" : "<questGiver>希望看起來<adjective>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/2",
+  "value" : "幫助<questGiver>顯得<adjective>一點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人想要變<adjective>。葉族人有個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;如果葉族人看起來<adjective>，葉族人就會更受歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;^cyan;我想要變得<adjective>一點。你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;^cyan;激動。是時候換個造型了。你能幫我變得更<adjective>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我想要穿得<adjective>些，你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我想要變<adjective>，我有個計劃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "最後，葉族人需要你 ^green;把 ^orange;<clothingIngredients>^green; 送到 ^orange;<friend>^white; 那樣 <friend.pronoun.subject> 就可以做我的 ^orange;頭盔了.^white; 趕快！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族人馬上要成功了！葉族人需要你 ^green;把 ^orange;<clothingIngredients>^green; 帶給 ^orange;<friend>^white; 那樣 <friend.pronoun.subject>就能製作我的 ^orange;頭盔了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "滿意。你現在只要請求 ^orange;<friend>^white; 製作我的新 ^orange;頭盔。^white; 你能 ^green;把 ^orange;<clothingIngredients>^green; 送給 <friend.pronoun.object>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "耐心。 終於，你能 ^green;把 ^orange;<clothingIngredients>^green; 送給 ^orange;<friend>^white;, 讓 <friend.pronoun.subject> 製作我的 ^orange;頭盔嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "最後，去請求 ^orange;<friend>^white; 幫我打造 ^orange;頭盔。^white; 和<friend.pronoun.object>^green;提我的名字，然後給<friend.pronoun.object>我們的^orange;<clothingIngredients>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "剩下的就只是讓^orange;<friend>^white;做我的特製頭盔了。^green;給<friend.pronoun.object>我們的^orange;<clothingIngredients>^white; 然後<friend.pronoun.subject>就可以開始製作了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "成功！你不覺得葉族人看起來很<adjective>嗎？感謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "葉族人看起來<adjective>了！這會讓我多交幾個朋友。感謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "感謝。多虧了你，我肯定看起來<adjective>多了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "高興。這個新造型讓我看上去非常<adjective>，你不覺得嗎？感謝你的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "謝謝你！你覺得如何？我看起來不<adjective>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "謝了！我看起來怎麼樣？一定超級<adjective>的吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "我無法幫<questGiver>看起來不一樣。\n不過<questGiver.pronoun.subject>看起來明明很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/1",
+  "value" : "我沒有幫<questGiver>得到<adjective>的外型.我寧願 <questGiver.pronoun.possessiveDet>是現在的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/parcelName/0",
+  "value" : "收件人：<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/parcelDescription/0",
+  "value" : "這是給<questGiver>的包裹。我不該打開它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "把<clothingIngredients>給<friend>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "將包裹帶給<questGiver>"
+} ]

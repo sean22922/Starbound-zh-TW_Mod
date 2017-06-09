@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "坐起來相當危險的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冷凍火椅"
+} ]

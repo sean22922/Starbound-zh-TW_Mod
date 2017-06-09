@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "瓶子裡裝滿了各種不同種類的血液。我希望他們可別把自己的血抽乾了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血庫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個血庫。很多猿人在提供血液之後就再也見不到了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "占星師相信血液裡包含了魔力"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個自動販賣機！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這血是用來幹嘛的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些小瓶中的一些被標記了。他們都被標記了\"失敗\""
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人相信血液應該留在體內"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我從沒見過這麼多血"
+} ]

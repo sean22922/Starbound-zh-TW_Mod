@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"沒人知道它從何而來或是誰製造了它。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波波特小雕像"
+} ]

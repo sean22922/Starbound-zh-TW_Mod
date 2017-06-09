@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這看起來像一個伺服器。我好奇它能執行什麼樣的遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的伺服器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個安控伺服器。無法進入"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有很多閃光信號燈，"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈箱發出了滴答的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很慚愧。即使是我也無法通過這個伺服器的安全驗證"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像一個數據伺服器。我們絕不可能得到任何東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個伺服器有能裝下一千個神人圖書館的數據"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種技術是用來存儲信息的"
+} ]

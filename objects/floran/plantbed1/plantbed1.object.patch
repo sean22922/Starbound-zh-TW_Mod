@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個葉族監獄鋪蓋卷。攤開置放於地面上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "植物鋪蓋卷"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個監獄鋪蓋卷。總比睡在泥土上好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用植物打造的監獄鋪蓋卷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族的囚犯擁有很簡單的鋪蓋卷"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這張鋪蓋卷是用植物打造的，上面布滿了蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個鋪蓋卷似乎支撐不了人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些植物被編製成了一個鋪蓋卷"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來是個由植物打造的牀褥"
+} ]

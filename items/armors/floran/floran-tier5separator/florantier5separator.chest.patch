@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專門為那些靜靜等待獵物的戰士所準備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "採集者胸甲"
+} ]

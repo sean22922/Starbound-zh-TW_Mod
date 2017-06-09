@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個標誌，寫著\"危險！\"。再明白不過了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅色危險標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人的生命中沒有多少時間是不危險的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "為什麼猿人要這麼清楚的標明危險？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人生活在危險之中"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲觀。那麼明顯沒什麼好擔心的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有點小危險對大家沒什麼壞處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們必須小心點"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我對危險可不陌生"
+} ]

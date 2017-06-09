@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來運輸物品的兩輪車"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "兩輪車"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "好大一個兩輪車。看來能裝不少東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "好大一個木製兩輪車。我不知道它是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡兜風！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。可以用推車來運送東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "超大的兩輪車，你可以在裡面打個盹兒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "超大的兩輪車，可惜為什麼不是四個輪子的？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種大型推車，運東西不錯"
+} ]

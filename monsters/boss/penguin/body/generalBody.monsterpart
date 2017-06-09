@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "penguingeneral",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

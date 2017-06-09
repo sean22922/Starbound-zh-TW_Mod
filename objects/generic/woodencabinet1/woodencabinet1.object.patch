@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個堅固的木櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雙木櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "小型的木質儲藏器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "小型的儲藏室"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "儲藏室。空間不大"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒感覺。這裡沒什麼空間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一對可愛的櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "小但實用的儲藏空間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就目前而言似乎挺安全"
+} ]

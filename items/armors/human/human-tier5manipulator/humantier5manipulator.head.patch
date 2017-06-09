@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我們不應該透過玫瑰色的玻璃審視生活，而應該透過琥珀色的面罩"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先行者頭盔"
+} ]

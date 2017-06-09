@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個雕刻精緻的牌框，上面陳列著頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "盾形裝裱頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "安裝在一個雕刻牌框上的頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族喜歡用野蠻的方法陳列他們的獵物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡展示狩獵戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚駭。這個頭骨竟然被當做裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個木質牌框上面穩當地置放著一粒頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個牌框雕刻細緻，可惜上面放的是頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一粒頭骨被當成戰利品置放著"
+} ]

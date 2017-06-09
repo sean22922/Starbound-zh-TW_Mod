@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "三角合金礦。美麗光滑的閃光三角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "三角合金礦"
+} ]

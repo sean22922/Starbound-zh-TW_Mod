@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用藤蔓做成的燈。或者用燈做成的藤蔓？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型藤蔓燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "多麼漂亮的火"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一株會著火的植物。很不尋常"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物的燈光，不是火燒的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。葉族懂得巧妙地利用大自然資源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個燈光似乎是天然的，而不是人造的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "即使是邪惡的葉族都懂得欣賞大自然的美麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個植物看來會發光"
+} ]

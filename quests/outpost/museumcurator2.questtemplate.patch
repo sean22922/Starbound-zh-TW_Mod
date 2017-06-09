@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;猿族統治者"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我一直在做文化研究，我感覺非常有必要把老大猿包含到我博物館的猿族展區。 ^green;你能幫我帶個 ^orange;老大猿半身像嗎^white;? 我聽說那東西到處都是，那你應該在猿族的聚居地找到一個"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "這放到博物館太適合了！謝謝你"
+} ]

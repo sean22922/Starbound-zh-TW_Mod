@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "味濃醒腦，夾在麵包裡試試！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇異果醬"
+} ]

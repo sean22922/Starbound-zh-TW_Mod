@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "暗淡的紅光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些光背廣泛用在船上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一盞燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紅燈！危險！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。這個燈泡的功率很小"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "生氣的紅燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個可通行的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "紅燈"
+} ]

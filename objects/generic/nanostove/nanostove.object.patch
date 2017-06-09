@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "提供超乎尋常的熱量，非常適合戶外烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奈米爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "奈米爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "高科技營地烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可移動的，環境友好型的露營火爐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個手持的露營火爐。不再有碳足跡！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人害怕爐子燒到葉族人，但葉族人還是要使用爐子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "聲明：該火爐可節省大量能源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真棒，我喜歡來自未來的火爐！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個華麗大於實用的露營火爐"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好用的小火爐，但和真正的營火沒法比"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在寒冷中，穿上這件羊毛衫暖和一下吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱晶襯衫"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張上面有盞大燈的牀，產生相當大的熱量"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一盞給牀加熱的燈，就好像在鑄造廠裡還不夠熱一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "帶有人工光亮的牀，躺在這裡感覺就像是身處太陽之中"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶有燈光的牀好熱啊，葉族人的皮膚就感覺正好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嫉妒。帶加熱的牀對機器人而言沒有對有機生物那麼有效"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好像是一張太陽牀，躺在上面真的很熱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "會加熱的牀。鑄造廠的工人一定能在熱量中茁壯成長，鮫族人可受不了這樣的高溫"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用燈加熱的牀。躺在那上面就像是大中午躺在太陽底下"
+} ]

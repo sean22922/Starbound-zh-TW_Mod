@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/ability/name",
+  "value" : "<elementalName>元素彈球"
+} ]

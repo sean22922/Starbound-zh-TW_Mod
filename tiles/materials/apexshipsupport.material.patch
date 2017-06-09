@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "製造船過程中的支撐牆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船支撐"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "明白。這種支撐常用在製造過程中"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "船結構支撐"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "將太空飛船裝在一起的關鍵"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張可能是葉族人的綠手指的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張葉族人的桌子，葉族人為什麼會需要桌子？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從沒想像過葉族人坐在桌子上工作的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人使，使用桌，桌子來策劃下一次守獵。葉族人的桌子上沒有骨頭。葉族人必，必須集中精神"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平凡：一張簡單的木桌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子看起來好像不是用骨頭做的，真是奇蹟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "不是用骨頭做的葉族人傢俱？而且還是辦公桌？我的天哪"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張葉族人的桌子應該是綠手指的吧？"
+} ]

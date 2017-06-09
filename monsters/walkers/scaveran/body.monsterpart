@@ -1,9 +1,0 @@
-{
-  "name" : "scaveran",
-  "category" : "scaveran",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "scaveran.png"
-  }
-}

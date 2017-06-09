@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "罩子放亮點，士兵！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/0",
+  "value" : "迷你克諾格的敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/1",
+  "value" : "為了老大猿的榮耀！摧毀煽動者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/2",
+  "value" : "發現敵人！消滅他們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/3",
+  "value" : "為了我們光榮的領袖！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/4",
+  "value" : "發現敵人！自由開火！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/5",
+  "value" : "發現敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/6",
+  "value" : "殺死反對黨就能升職！"
+} ]

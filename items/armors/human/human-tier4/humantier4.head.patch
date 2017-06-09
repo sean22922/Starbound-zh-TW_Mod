@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "先驅者硬鋼頭盔可以在最危險的環境中保護使用者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先驅者頭盔"
+} ]

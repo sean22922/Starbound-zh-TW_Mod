@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "存放些東西，如何？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是機器人的儲存單位。看來無法使用了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "飛船的儲存櫃子。傷心的是已經壞掉了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "當它完好時，機器人在這裡儲存著寶貝"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。這個儲存櫃子壞了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當這個東西運轉的時候，這是一個放貴重物品的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "腦海中想起鮫人的一句諺語，但當儲存櫃子壞了都是屁話"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子。用來放東西的。但是它竟然壞掉了"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某種先進岩石做出的古老平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "搞不懂。這個古老平台的科技我搞不懂"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪科技製作的平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個平台有一些看起來很奇怪的科技"
+} ]

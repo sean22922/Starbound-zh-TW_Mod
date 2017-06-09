@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的地球衛星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一顆曾經為人類所用的衛星。匠心獨運"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我想知道人類要用這個幹嘛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嘶……閃閃發亮的人類太空玩具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "深受感觸狀。人類的科技對我一直深有啓發"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一顆舊衛星，已經無法工作了但看上去依然酷炫"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "人類曾經沉迷於交流的證明"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "輝煌的太空垃圾"
+} ]

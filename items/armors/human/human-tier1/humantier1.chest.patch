@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "無袖的鐵製背心，提供可靠的防禦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "偵察兵胸甲"
+} ]

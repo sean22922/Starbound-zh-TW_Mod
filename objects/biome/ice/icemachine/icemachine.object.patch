@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個冰製成的自動販賣機。親愛的，那是用冰做的冰"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個冰凍機器用處很多"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這裡的冰能保持其他地方的冰不融化。聰明的設計"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人爬進冰箱，顫抖，然後爬出來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "計算。這個冰製自動販賣機有整整六千四百八十四個冰塊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個冰凍機器，人類最偉大的發明之一"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來製冰的箱子，本身也是用冰製成的。真有趣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "所有的冰塊都會凍成一個大冰塊的吧？"
+} ]

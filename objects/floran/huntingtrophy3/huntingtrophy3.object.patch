@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一粒頭骨被當成戰利品置放在十字木板上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "十字裝裱頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個粗糙的牌框上面放著一粒頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這粒頭被一些小木板安裝在牆壁上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族經常把戰利品掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。這樣懸掛頭骨真是活久見"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個可憐的傢夥一定沒想到自己會落入如此下場"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為什麼有人會喜歡這樣陳列頭骨？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個頭骨戰利品讓我很心寒"
+} ]

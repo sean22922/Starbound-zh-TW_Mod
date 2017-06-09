@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台音質優美的鋼琴。用來演奏些歌曲非常棒！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "閃亮的鋼琴"
+} ]

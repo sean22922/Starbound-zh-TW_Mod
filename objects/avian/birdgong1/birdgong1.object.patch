@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊大型鐵鐘。它好像在引誘別人去敲它一樣！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "敲著這面鐘發出了低沉的聲響"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些鐘是被用在神廟裡，召喚翼族人來祈禱的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡翼族人的噪聲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。鐘發出的聲音產生了很大的迴響"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是難以自禁地想敲這面鐘"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我想像一面在海洋下面的鐘會發出這麼不一樣的聲響"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "敲它肯定會很響"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一頂可以遮住臉並創造神祕氣氛的兜帽……很適合隱祕活動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "潛行者的頭巾"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粗糙的木棺材。很幸運，裡面沒人！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境棺材"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這隻棺材雖然不是特別漂亮，但我想死了之後，美感什麼都也就無關緊要了吧"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "根據翼族傳統文化，會把死人葬在比這大得多的棺材裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個盒子正好能藏人。葉族人可以用它來埋伏……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。如果不小心被關在裡面該怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我感覺好像碰一下就會扎刺一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是用來葬死人的？真是……可怕"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這讓我有種病態的感覺"
+} ]

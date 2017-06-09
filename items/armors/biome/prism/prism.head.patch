@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用灰白的玻璃製成的透明頭盔。不實用，但是好看"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱晶頭盔"
+} ]

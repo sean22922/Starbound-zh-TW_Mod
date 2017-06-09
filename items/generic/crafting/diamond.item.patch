@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個切割的很好的鑽石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑽石"
+} ]

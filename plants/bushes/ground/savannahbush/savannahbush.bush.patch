@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "已經死亡的尖刺灌木"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "已經死亡的尖刺灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "死了的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。已經死亡的尖刺灌木"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用現代材質製成，這個平台摸上去很平滑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "現代平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "滿足。這個平滑的現代平台很惹眼而且也很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "平滑的現代平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "漂亮的金屬平台"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種蟲子能摩擦腿部產生小火花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳凰蟲"
+} ]

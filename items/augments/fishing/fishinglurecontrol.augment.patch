@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "內裝陀螺儀的釣餌，控制性絕佳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機動釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/lureName",
+  "value" : "機動釣餌"
+} ]

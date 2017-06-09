@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種適合戶外的燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "基本燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在黑暗中可以引領我們"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "高高亮亮的街燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿足呀。一個用堅固金屬做成的高高的燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "單個燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "就像閃爍在天際的明星"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個電子街燈"
+} ]

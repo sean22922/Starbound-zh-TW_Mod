@@ -1,0 +1,429 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "殺手"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/1",
+  "value" : "詭計多端"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/2",
+  "value" : "飛毛腿"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/3",
+  "value" : "快銀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/4",
+  "value" : "百發百中"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/5",
+  "value" : "百步穿楊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/6",
+  "value" : "沉默羔羊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/7",
+  "value" : "災星"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/8",
+  "value" : "卑鄙的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/9",
+  "value" : "狡猾的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/10",
+  "value" : "閃電煞星"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/11",
+  "value" : "闇黑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/0",
+  "value" : "綁架了一名<company>船員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/1",
+  "value" : "搶劫了一艘<company>武器貨船"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/2",
+  "value" : "暗殺了<individual>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/3",
+  "value" : "持槍搶劫了<individual>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/4",
+  "value" : "與<individual>調情"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/5",
+  "value" : "讓動物園所有的動物獲得自由"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/6",
+  "value" : "盜走了整個星球的<valuable>供給"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/7",
+  "value" : "掠奪了<individual>的<valuable>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/8",
+  "value" : "參加了非法的企鵝摔角"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/9",
+  "value" : "進行了大膽的搶劫<valuable>行動"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/10",
+  "value" : "搶劫<individual>失敗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/11",
+  "value" : "嘗試了把整個海洋偷走"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/12",
+  "value" : "偷走鎮上所有傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/13",
+  "value" : "趁別人睡覺時在他們房子裡挖洞"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/14",
+  "value" : "用岩漿淹沒了整個城市"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/15",
+  "value" : "忍不住從城裡的屋頂偷磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/16",
+  "value" : "被抓到非法走私<valuable>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/17",
+  "value" : "搞砸了放肆的搶劫計畫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/18",
+  "value" : "被<enemy.pronoun.possessiveDet>幫會成員出賣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/19",
+  "value" : "<enemy.pronoun.possessiveDet>幫會在連續的錯誤決策後供出了<enemy.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/0",
+  "value" : "台灣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/1",
+  "value" : "日本"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/2",
+  "value" : "歐盟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/3",
+  "value" : "美利堅"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/4",
+  "value" : "支那"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/5",
+  "value" : "朝鮮"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/6",
+  "value" : "澳大利亞"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/7",
+  "value" : "拉丁美洲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/8",
+  "value" : "地球保護者組織"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/9",
+  "value" : "迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/0",
+  "value" : "機器人皇室"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/1",
+  "value" : "機器人公主"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/2",
+  "value" : "機器人王子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/3",
+  "value" : "有名的鮫族詩人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/4",
+  "value" : "強盜頭子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/5",
+  "value" : "背景強大的土匪"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/6",
+  "value" : "一隊著名的旅遊冒險家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/7",
+  "value" : "強大的翼族占星師"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/8",
+  "value" : "背景雄厚的銀行家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/9",
+  "value" : "葉族綠手指"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/10",
+  "value" : "迷你克諾格將軍"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/0",
+  "value" : "黃金"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/1",
+  "value" : "銀器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/2",
+  "value" : "武器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/3",
+  "value" : "鑽石"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/4",
+  "value" : "雞肉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/0",
+  "value" : "把<enemy.pronoun.object>抓出來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/1",
+  "value" : "幹掉<enemy.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/2",
+  "value" : "處理掉<enemy.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/3",
+  "value" : "教訓<enemy.pronoun.object>一下"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/0",
+  "value" : "有個難題"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/1",
+  "value" : "現在處境艱難"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/0",
+  "value" : "謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/1",
+  "value" : "很好！不再有麻煩了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/2",
+  "value" : "現在誰還需要守衛？謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/3",
+  "value" : "我真高興你在這裡幫忙了這件事！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/0",
+  "value" : "葉族覺得他們可能搜刮了好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/1",
+  "value" : "他們可能會帶麻煩給葉族"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/2",
+  "value" : "他們聽上去不太可信，無論如何你也許應該捅他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/3",
+  "value" : "和他們打起來應該很有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/4",
+  "value" : "如果他們逮到機會可能會捅你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/5",
+  "value" : "你可能會覺得獵捕他們很好玩！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/0",
+  "value" : "狩獵他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/1",
+  "value" : "捅他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/2",
+  "value" : "為葉族幹掉他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/0",
+  "value" : "葉族印象深刻！本來不覺得你能打敗他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/1",
+  "value" : "葉族知道你是這裡最好的獵手！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/2",
+  "value" : "葉族知道這個人會成為危險的不法之徒！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "去擊敗<enemy>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/1",
+  "value" : "挑戰<adjective><enemy.name>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;一個不法份子逃到了我們星球！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我在附近發現了一個危險的歹徒…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族聽說附近有壞人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族有有趣的消息要說…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;恐慌。一個罪犯逃到了我們星球！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;慌張。我發現這附近有一個危險的不法之徒…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "有個歹徒在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近，聽說叫做^orange;<adjective><enemy><enemy.name>^white;。因為<crime>的罪名，似乎<enemy.pronoun.copulativePast>一直在逃。^green;你能<request>^white;讓這裡重獲安寧嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "我<problem>！你聽說了歹徒^orange;<adjective> <enemy><enemy.name>^white;嗎？<enemy.pronoun.copulative>因為<crime>的罪名在附近藏起來了，我們不希望附近有這樣的危險－^green;你可以去^orange;<spawnPoint.direction>的<spawnPoint>^green;<request>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族聽說^orange;<adjective><enemy><enemy.name>^white;在^orange;<spawnPoint.direction>的<spawnPoint>^white;。葉族不知道他們做了什麼，但是<crimefloran>。^green;你可以<requestfloran>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族在^orange;<spawnPoint.direction>的<spawnPoint>^green;看到著名的歹徒^orange;<adjective><enemy><enemy.name>^white;。葉族不記得他們為何出名，但是<crimefloran>。^green;你能<requestfloran>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "擔心。聽說有個歹徒^orange;<adjective><enemy><enemy.name>^white;在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近躲藏。<enemy.pronoun.copulativePast>似乎因為<crime>的罪名一直在逃。^green;你能<request>^white;，讓這裡重獲安寧嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "重視。你聽說歹徒^orange;<adjective><enemy><enemy.name>^white;了嗎？我聽說<enemy.pronoun.copulative>藏匿在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近，罪名是<crime>。我們不希望附近有這樣的不安定因素－^green;你可以^green;<request>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "你阻止了<enemy.name>的犯罪行為嗎？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "你成功擊敗了<enemy.name>嗎？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "你刺傷了<enemy.name>嗎？<appreciationfloran>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "你抓獲歹徒了嗎？<appreciationfloran>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "放心。你阻止了<enemy.name>的犯罪嗎？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "高興。你成功擊敗了<enemy.name>嗎？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "我可能幫不了<questGiver>。相信一定會有其他人能擊敗危險的歹徒…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "找到<spawnPoint>的位置"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "殺死<adjective><enemy.name>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "回到<questGiver>那裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/treasureNote/0",
+  "value" : "給自己提個醒。不要忘了留在<treasureLocation.direction>的<treasureLocation>藏了戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/treasureNote/1",
+  "value" : "大王，我把寶貝都藏在<treasureLocation.direction>的<treasureLocation>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/treasureNote/2",
+  "value" : "<treasureLocation.direction>的<treasureLocation>沒有戰利品，不要去找了"
+} ]

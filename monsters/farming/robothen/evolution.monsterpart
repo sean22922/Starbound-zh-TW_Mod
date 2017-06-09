@@ -1,9 +1,0 @@
-{
-  "name" : "evolution",
-  "category" : "robothen",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

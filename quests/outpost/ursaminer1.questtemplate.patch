@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;失蹤的泰迪"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我的寶貝把他寶貴的^orange;泰迪熊^white;弄丟了。他這個樣子的話，我的商店就沒辦法開張了——你能幫我給他^green;弄到一隻新的泰迪熊^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "小寶貝又開心起來了！謝謝你，我的商店現在可以開張了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "伯納德"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "伯納德"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questFailed/title",
+  "value" : "伯納德"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/failConditions/0/failureText",
+  "value" : "小熊已經從別人手中拿回泰迪熊了！"
+} ]

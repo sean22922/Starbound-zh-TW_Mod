@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿上會讓你像一個蛙族商人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蛙族商人腿"
+} ]

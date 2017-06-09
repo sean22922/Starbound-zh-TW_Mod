@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於製作有不同效用的食物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;廚房櫃檯^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個桌子涵蓋了製作任何美食的一切要素"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在這裡幾乎可以做出任何翼族人的餐點。更重要的是，還可以製作很多非翼族人的餐點！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人赤手空拳的準備食物。但是桌子也很用用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "靈感：開始做菜吧！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "廚師的桌子。這裡有不同的設備用於製作食物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "做菜時一門藝術，這就是它的畫筆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有了這些我就可以露一手了"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可可豆可以調製成美味的飲料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可可種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "咖啡因為其特有的優點而被人所追求"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可可豆看上去秀色可餐，但嚐起來特別苦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可可讓葉族人甦醒著"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真笨，機器人竟然不知道這些苦澀的豆子是寶"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可可，對人類來說最提神的植物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "別糾纏著它的苦味不放，可可是一種很有用的資源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "可可聞上去棒極了，但我不知道喝這東西有什麼好處"
+} ]

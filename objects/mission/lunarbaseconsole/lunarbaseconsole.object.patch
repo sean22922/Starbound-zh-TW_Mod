@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "光滑的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地控制中心"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個有著大號觸摸屏的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個帶有按鈕的控制面板，前提是我想按"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶有按鈕的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。要是我和這個控制面板交互的話也許會發生些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個是控制台。誰控制的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個電子設備用來遠距遙控東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "控制台，要是我按了這些按鈕會怎麼樣呢？"
+} ]

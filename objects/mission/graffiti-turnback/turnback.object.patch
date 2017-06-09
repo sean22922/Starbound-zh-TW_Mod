@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "塗鴉標示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這標示反而讓我想要繼續下去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "萬一我應該呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚蠢的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "相信。我應該按照塗鴉說的做。塗鴉不會撒謊，它沒法撒謊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "折頭？不可能"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "至理名言通常出自絕境"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不會折頭"
+} ]

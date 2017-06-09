@@ -1,0 +1,169 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來將礦物和其他原料製成工藝原料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;原始熔爐^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個很原始的火爐，我在這裡都能聞到"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用於熔鍊礦石的火爐"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火爐的火焰嘶嘶作響，葉族人不怕火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個火爐的溫度正好可以熔鍊礦石"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用於熔鍊的火爐，溫度很高"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "滾燙壯觀的爐"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "普通的火爐，用於熔鍊礦石"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "這個原始的火爐用於將礦石和其他原料製成可打造的材料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;原始熔爐^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "一個很原始的火爐，我在這裡都能聞到"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "用於熔鍊礦石的火爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "火爐的火焰嘶嘶作響，葉族人不怕火"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "這個火爐的溫度正好可以熔鍊礦石"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "用於熔鍊的火爐，溫度很高"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "滾燙壯觀的爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "普通的火爐，用於熔鍊礦石"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "原始火爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;鋼筋條和原料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "這個工業火爐用於將礦石和其他原料製成可打造的材料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;工業火爐^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "一個工業火爐，我可以在這裡熔鍊鈦和其他原料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "用於打造鈦以及其他合金的工業火爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "火爐中的火焰嘶嘶作響，能聞到鋼筋條的味道"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "火爐的溫度正好可以打造鈦和其他更堅固的合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "一個工業火爐，可以熔鍊鈦和其他金屬"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "高溫的工業火爐，可以用這個打造堅固的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "裡面散發的熱量非常強，如果我能流汗的話，肯定汗流浹背了"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "工業火爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;鋼筋條和原料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/description",
+  "value" : "這個原子火爐可以將礦石和其他原料製成可打造原料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/shortdescription",
+  "value" : "^orange;原子火爐^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/apexDescription",
+  "value" : "一個原子火爐，我可以用這個打造堅固的合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/avianDescription",
+  "value" : "一個原子火爐，用於打造更堅固的合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/floranDescription",
+  "value" : "閃亮的東西轉轉轉，製出更堅固的閃亮東西"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "value" : "這個原子火爐非常高級，可以將礦石打造為合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/humanDescription",
+  "value" : "一個原子火爐，這個裝置可以創造出精煉礦石與合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+  "value" : "一個原子火爐，我可以用這個造精煉礦石與合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+  "value" : "可以用這個原子火爐精煉一些堅固的合金"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "原子火爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;鋼筋條和原料"
+} ]

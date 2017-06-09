@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血哥布林頭"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "血哥布林的前半部分，可以獨立行動，但仍然只是半個怪物"
+} ]

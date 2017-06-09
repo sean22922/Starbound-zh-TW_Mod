@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "描繪一些動物的洞穴壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "動物壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用天然材質畫的一些動物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個笨拙的繪畫作品應該有星星這麼老了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有老葉族人畫成"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。這畫似乎展現了一些有機野獸"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "為什麼所有的壁畫看著都差不多啊？有點創意好不好！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這畫不如古代鮫族人的畫精美"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看樣子是一幅很老的畫啊"
+} ]

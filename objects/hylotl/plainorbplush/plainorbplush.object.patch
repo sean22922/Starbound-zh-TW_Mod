@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可愛的普通維羅布毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "維羅布毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果我把它貼在我的頭上，它是否會耗盡我的生命？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "儘管他們在野外是危險的，絨毛玩具形式的他們還是很可愛的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "惱人的生物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "痛苦：如果我把它放在我的頭上，它是否會耗盡我的生命？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我從來沒有注意瓦羅波實際上是這麼可愛！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對於危險的生物來說，它們非常可愛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我覺得這東西挺可愛的"
+} ]

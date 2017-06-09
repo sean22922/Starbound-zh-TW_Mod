@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "想些開心的事兒！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "重新分配標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "想法重新分配……那對我是場噩夢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "想法是神聖的，他們怎麼敢！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡這個標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同情。還以為重新分配在電子人中很常見"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這種標誌實在是太嚇人了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "聽說冥想能打敗這種做法。想法在不存在的情況下不能被重新分配"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這標誌對我沒用。我沒什麼感覺"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毀滅真皮"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一大塊新鮮厚實的硬皮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這麼厚的皮具有很強的硬度"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "厚皮的保護性很好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這皮看起來比皮靴還好"
+} ]

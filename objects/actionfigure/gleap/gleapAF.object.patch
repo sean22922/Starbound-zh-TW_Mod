@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它由彈性物質製作而成。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葛利蹦小雕像"
+} ]

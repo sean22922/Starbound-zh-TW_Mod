@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "珍珠豆，特別硬"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珍珠豆種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "易碎的豌豆導致很多牙碎了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "珍珠豆是非常美味的食物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "小眼珠，葉族人曾經拿來當成武器用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。機器人的牙齒可以輕易地咬碎珍珠豆"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "就像豌豆一樣，再加上牙疼"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "美味的，易碎的珍珠豆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "珍珠豆可以當成手槍子彈用！"
+} ]

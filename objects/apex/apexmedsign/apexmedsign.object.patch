@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那個標記說明了附近有和藥物有關的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醫療灣標記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人在整個銀河系有最先進的醫療技術但是平均壽命是最低的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "難道不是所有種族都有治療牧師嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "吃垂死的美味好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。是一個學習有機生理學的機會"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來想一個醫院標記"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許醫療的場所很近"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "醫療設施存放在這裡"
+} ]

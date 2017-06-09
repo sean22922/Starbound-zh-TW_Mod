@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "菲洛合金礦。可用於熔鍊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "菲洛合金礦"
+} ]

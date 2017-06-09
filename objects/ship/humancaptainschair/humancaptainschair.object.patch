@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "船長坐在這裡駕駛飛船"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "人類船長之座"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "啊。自由的美妙啊。我可以在這椅子上指揮飛行員"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "船長之座。這是我的！我可以在這椅子上指揮飛行員"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "船上最好的位置。葉族人可以在這椅子上指揮飛行員"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "刺激啊。坐在船長之座讓我可以駕駛這座飛船。下一站去哪？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "船長之座。坐在這個位子上的人決定飛船飛去哪！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "坐在船長之座讓我可以駕駛這座飛船"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "船長之座。坐在這個位子上的人決定飛船飛去哪！沒錯就是我！"
+} ]

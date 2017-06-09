@@ -1,9 +1,0 @@
-{
-  "name" : "bigapehologram",
-  "category" : "bigapehologram",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "bigapehologram.png"
-  }
-}

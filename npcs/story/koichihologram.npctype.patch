@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/1/default/default/0",
+  "value" : "有人在嗎？！圖書館的動態偵測器收到了一個信號。你得幫幫我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/1/default/default/1",
+  "value" : "很抱歉……我的名字是^orange;光一^white;，我來這裡研究偉大的鮫族思想家。但是……這些惡棍出現了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/1/default/default/2",
+  "value" : "暴力犯！我淘到了地下室！我帶著似乎是他們想偷走的一件古物困在了這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/1/default/default/3",
+  "value" : "很抱歉提出這樣的不情之請，但是請救救我！我會打開進艙口"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/2/default/default/0",
+  "value" : "這座圖書館受到了相當的冷落。恐怕你得來回走很長一段路了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/2/default/default/1",
+  "value" : "但我能幫助你！我能通過這些陳舊的全息投影成像掌控圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/3/default/default/0",
+  "value" : "很抱歉你必須在黑暗中徘徊。這間屋子附近有一個斷路器……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/4/default/default/0",
+  "value" : "我知道這座圖書館年久失修了，但是這難道不仍然令人驚喜嗎？這麼多資源！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/4/default/default/1",
+  "value" : "千年的文學、藝術與論文"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/4/default/default/2",
+  "value" : "你知道這些文字甚至早於我們在葉族部落手下瀕臨滅絕的時代嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/5/default/default/0",
+  "value" : "圖書館的動態偵測器正在收集你方位下的運動……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/5/default/default/1",
+  "value" : "請在那裡保持小心，這些人都是暴徒！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/6/default/default/0",
+  "value" : "前方的房間被淹沒了……我必須游過去——我覺得你也得這麼做"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichihologram/7/default/default/0",
+  "value" : "恐怕這是最後的全息成像了。小心點，期待一會見到你！"
+} ]

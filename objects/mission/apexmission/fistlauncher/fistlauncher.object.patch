@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "該裝置經過精心設計，能夠以巨大的力量發射拳頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "拳頭發射器"
+} ]

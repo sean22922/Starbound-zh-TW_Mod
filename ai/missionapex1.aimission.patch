@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/speciesText/default/buttonText",
+  "value" : "迷你克諾格要塞"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/repeatButtonText",
+  "value" : "重返迷你克諾格要塞"
+}, {
+  "op" : "replace",
+  "path" : "/speciesText/default/selectSpeech/text",
+  "value" : "伊瑟確定這個莊園就是那件猿族文物的所在地"
+} ]

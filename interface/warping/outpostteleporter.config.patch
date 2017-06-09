@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/bookmarkName",
+  "value" : "前哨 - 第2站 傳送商店"
+}, {
+  "op" : "replace",
+  "path" : "/destinations/0/name",
+  "value" : "傳送回母船"
+}, {
+  "op" : "replace",
+  "path" : "/destinations/1/name",
+  "value" : "光一的博物館"
+} ]

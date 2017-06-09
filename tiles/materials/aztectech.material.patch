@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人科技塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有列印記號的先進翼族合成材料"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這些石塊由未知的人工材料製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "上有奇怪標記的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "覆蓋記號的堅固磚塊"
+} ]

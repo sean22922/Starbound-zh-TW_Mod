@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個總裁控制鈕。它真精緻，你無法控制地想要仔細地對待它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "總裁開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個控制器提供許多按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "擁有巨大全息界面的有用控制器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人按按鈕。製造事——件！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：一個控制器就能同時控制那麼多不同的機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張控制台，用來玩玩的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張控制台的設計簡潔而時尚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張控制台一定有什麼用，我就是想用一下"
+} ]

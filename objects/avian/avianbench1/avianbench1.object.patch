@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張美麗的生鏽的長椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鄉村凳子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張凳子看起來更加樸素，而不是豪華"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張漂亮的小長椅。陸生生物非常享受自己製作傢俱的過程"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這椅子的木材聞上去不錯，是好木材"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "漂亮：手工長椅"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個看起來是手工的。非常漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張迷人的長椅，雖然技藝不是很精湛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好可愛的凳子，可以用來歇腳"
+} ]

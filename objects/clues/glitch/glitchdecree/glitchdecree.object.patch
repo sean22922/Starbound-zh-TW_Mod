@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這道聖旨記錄了一個堡壘，在那裡寶藏被警惕的守衛所\n守護"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "聖旨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個舊法令記錄了寶藏的位置，在一座重兵把守的大型堡壘中"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個法令提到了一處裝滿了寶藏的堡壘的位置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不明白為什麼要把這些無聊的文字給框起來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個古老的法令記載著一個堆滿了寶藏的堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個皇家法令記載著一個重兵把守的堡壘，裡面有巨大的財富"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個老舊的皇家法令記錄著裝有很多寶藏的重兵把守的堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個文字記錄著某個裝有很多金子的堡壘"
+} ]

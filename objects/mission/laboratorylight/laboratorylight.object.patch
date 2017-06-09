@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞光滑的紅色壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "實驗室燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個迷你克諾格設計的燈即便在電力不足的情況下也可以照明"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個燈真亮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光使葉族人想要戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這燈能效比很高"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這燈發出熱烈的紅光。讓我有點不爽"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個燈消耗的能源很小。這和迷你克諾格一樣有環保意識"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "散發出的紅光就像將死的太陽"
+} ]

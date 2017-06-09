@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件難以理解的物質，可用作打造材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "相質"
+} ]

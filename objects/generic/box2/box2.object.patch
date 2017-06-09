@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個穩當的木製板條箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "穩當的木製板條箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個被重新加固過的木頭盒子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個由木頭和金屬做的盒子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬讓這個木頭盒子更為堅固"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，這些金屬託架讓這個盒子更結實了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "被金屬固定的木頭箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個木頭和金屬製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個盒子看上去像一個小方桶"
+} ]

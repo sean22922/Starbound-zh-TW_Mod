@@ -1,9 +1,0 @@
-{
-  "name" : "fishingwimp",
-  "category" : "fishingwimp",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingwimp.png"
-  }
-}

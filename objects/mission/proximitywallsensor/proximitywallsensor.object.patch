@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看著路！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牆體距離偵測器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "要是靠得太近這個就會爆炸的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "別靠太近！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "偵測器正盯著葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。一個距離偵測器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "距離偵測器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "偵測器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "得小心點"
+} ]

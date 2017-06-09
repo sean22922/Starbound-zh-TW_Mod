@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "灌輸了超新星之力的金屬護手"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "超新星金屬護手"
+} ]

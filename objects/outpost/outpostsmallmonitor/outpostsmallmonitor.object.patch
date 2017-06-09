@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個小型顯示器。但是用來播放什麼的？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型壁掛顯示器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我讀不出這個"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不可能看出螢幕上寫了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不知道這個螢幕上寫了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "挫敗。我不能看出來這上面寫了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個顯示器的圖片顯示品質不好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "上面顯示的信息非常難以看清"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看不清上面寫了什麼，但願不是什麼重要信息吧"
+} ]

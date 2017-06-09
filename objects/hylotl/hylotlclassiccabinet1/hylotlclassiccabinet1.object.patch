@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "木頭櫃子。門上都是風化的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統方櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "是有人弄壞了這個櫃子，還是它本身就是這個墨陽？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些裝飾真好看！如果你斜著看的話"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在想誰設計了這麼醜的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：這個櫃子是小孩子裝飾的嗎？貌似是的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "貌似是個新手藝術家想要裝飾著這個櫃子。太奇怪了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些刻痕中的深度和意思真是激動人心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個滑稽的櫃子。誰會因為這很漂亮？"
+} ]

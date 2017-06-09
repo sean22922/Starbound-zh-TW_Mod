@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個紙板箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紙箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個紙板箱可以用來存儲東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個紙板箱，不知道裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紙板箱用來存東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個紙板箱非常的耐用，不知道裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個紙板箱，用於存儲東西的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個紙板箱，有時簡單的方法就是最好的方法"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是個用來存東西的紙板箱"
+} ]

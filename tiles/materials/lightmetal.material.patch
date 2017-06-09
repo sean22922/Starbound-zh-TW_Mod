@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輕金屬"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊輕金屬，完美的實驗研究對象"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這些瓷磚很容易保持無菌狀態"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "平滑的金屬瓷磚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用金屬製成的瓷磚"
+} ]

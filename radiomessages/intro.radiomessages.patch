@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/protectorateExitBedPester/text",
+  "value" : "早安畢業生！你睡遲了。^#71f2f6;按A或D以起牀^white;"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateDormRoomTutorial/text",
+  "value" : "想要與附近的人，門或者其他對象互動，需要^#71f2f6;將鼠標移動到該對象上並按E鍵^white;,當然前提是你要能醒著的話"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateDormRoomPester/text",
+  "value" : "記住，你可以將鼠標^#71f2f6;移動到門口上然後按E^white;開門"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateLoungeTutorial/text",
+  "value" : "收集的制服都放在你的私人衣櫃裡……你明明都遲到了還能一臉鎮靜。我表示很服"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateStage5/text",
+  "value" : "留在這裡不安全！^#71f2f6;快去拿物質操縱器^white;。然後馬上前往穿梭機發射台！"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateCollapsedGalleryNoMM/text",
+  "value" : "快撿取大保護者掉落的物質操縱器——它是你生存下去的關鍵！"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateCollapsedGallery/text",
+  "value" : "看來天花板崩塌了。物質操縱器可以清除這些瓦礫。^#71f2f6;按R鍵裝備它^white;，然後對著瓦礫堆長按鼠標以開始挖掘"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateCollapsedGalleryPester/text",
+  "value" : "你可以使用物質操縱器通過這堆瓦礫。^#71f2f6;按R鍵裝備它^white;"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateFloodedDoor/text",
+  "value" : "掃描顯示這道門後面的房間被淹沒了。最好別進去……我建議你尋找別的路——^#71f2f6;使用空格鍵跳躍^white;到更高的平台"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateRooftop/text",
+  "value" : "這場災難的規模難以估算；破壞的程度已經超出了我的運算能力。你必須馬上離開這個行星"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateDuct/text",
+  "value" : "想要跳下平台那你需要^#71f2f6;長按S蹲下然後按空格鍵^white;"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateDuctPester/text",
+  "value" : "我們時間無多了。我建議你^#71f2f6;長按S蹲下，然後按空格鍵^white;以滑下這個平台"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateGetWeapon/text",
+  "value" : "那個運輸帶上面的箱子應該有一些武器。請武裝你自己！"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateWeaponPester/text",
+  "value" : "將武器^#71f2f6;置放在行動條的其中一個槽位上^white;，就在螢幕上方，然後^#71f2f6;按對應的數字鍵以裝備^white;或者卸下"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateTentacleBarrier/text",
+  "value" : "你需要摧毀那個觸鬚才能抵達穿梭機。我建議你撿取那個箱子裡的武器"
+}, {
+  "op" : "replace",
+  "path" : "/protectorateShipPlatform/text",
+  "value" : "我繞過了飛行前檢查。快上船！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "細細的掛繩。很經典"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典細掛繩"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "昂貴，沉重的窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "觸感柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "猿人用重天鵝絨做窗簾，葉族人用皮、皮囊做窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不錯。像這樣精美的東西很少"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些窗簾應該放在大廈裡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些窗簾幾乎貼在鮫人的皮膚上了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些窗簾看著像是用來炫耀的"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "引導軌道騎行者前往不同的道路"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軌道開關"
+} ]

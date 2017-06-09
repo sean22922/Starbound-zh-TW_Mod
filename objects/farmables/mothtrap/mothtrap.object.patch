@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "會吸引蠶蛾。蠶蛾會生產絲綢！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蠶蛾陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可以用來收集絲綢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以用這個來收集絲綢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚蠢的蠶蛾，留下了珍貴的絲綢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。機器人會利用蠶蛾製造最好的絲綢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這麼好的材料竟然是小蠶蛾產出的，真奇怪啊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有了這個我就可以收集絲綢，做出絲綢衣服了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "絲綢對於我這樣的人來說太花哨了，但我可以賣啊！"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "largeeyetail",
-  "category" : "largebiped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "largeeyetail.png"
-  }
-}

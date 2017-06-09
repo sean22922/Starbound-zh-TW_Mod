@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "長褲和靴子不光能保證靈活性，還能提供一定的保護"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "背叛者的長褲"
+} ]

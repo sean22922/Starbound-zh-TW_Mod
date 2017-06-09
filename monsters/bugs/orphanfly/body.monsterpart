@@ -1,9 +1,0 @@
-{
-  "name" : "orphanfly",
-  "category" : "orphanfly",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "orphanfly.png"
-  }
-}

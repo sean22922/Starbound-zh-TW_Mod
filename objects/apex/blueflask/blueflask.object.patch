@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿藍色液體的長頸瓶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色長頸瓶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "上帝才知道這個混合物帶來了什麼痛苦"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "藍色藥水？肯定不會好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞、聞起來很臭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇妙。藍色！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "聞起來像是……不該喝下的東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個混合物看起來有毒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "藍色的肯定不是天然的"
+} ]

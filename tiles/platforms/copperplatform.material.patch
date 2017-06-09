@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅質平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "銅做的平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。平台似乎是銅做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "銅做的平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我覺得這個平台是用銅做的"
+} ]

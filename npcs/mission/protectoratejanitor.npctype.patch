@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "沮喪。他們讓我每小時清掃一次橋面，好像我是個機器似的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "煩躁。離退休還有一天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "認命。這棵樹真是好看，確實需要維護一下"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "愉快。至少今天天氣不錯，適合戶外工作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/complain/default/default/0",
+  "value" : "厭煩。每天都有更多的花瓣要掃"
+} ]

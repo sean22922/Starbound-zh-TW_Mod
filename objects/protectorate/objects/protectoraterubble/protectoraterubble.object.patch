@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒有回頭路了。哪怕是物質機械臂都沒法打破這頑固的殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無法穿過的碎石"
+} ]

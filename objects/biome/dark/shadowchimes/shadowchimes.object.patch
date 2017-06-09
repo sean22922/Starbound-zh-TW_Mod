@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "許多人發現風鈴喜歡這些很舒緩柔和的鈴聲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這風鈴營造了一種氣氛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有悅耳鈴聲的風鈴"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "風吹拂過風鈴，發出悅耳的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興，這可愛的風鈴將春天帶到了我的台階上"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個風鈴的鈴音讓我感到恐懼"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這詭異的風鈴發出縹緲的聲響"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "聲音悅耳的風鈴"
+} ]

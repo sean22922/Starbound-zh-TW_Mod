@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些是……腦波嗎？對，就是"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腦部活動螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些看起來像是腦電波……是從哪來的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "腦電波。據說那些為翼族科技提供能量的水晶有著自主意識"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "腦電波線"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這些似乎是腦波"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "腦電波？這是誰的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些看上去像是思維的圖案。但會是誰的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些波形式什麼意思？"
+} ]

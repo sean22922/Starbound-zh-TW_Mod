@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "電流玉米生長的時候是酸的。不適合肉體生物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電流玉米棒"
+} ]

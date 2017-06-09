@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個頭巾帽子的組合可以讓別人認不出你來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "強盜帽子"
+} ]

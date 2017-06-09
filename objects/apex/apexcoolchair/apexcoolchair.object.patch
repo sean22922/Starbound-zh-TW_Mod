@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一張特別酷的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "時髦：只有迷你克諾格有這樣的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個蛋？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "柔軟的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "羨慕。這把椅子是最好的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是很酷的椅子。那猿人很懂造型啊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個椅子就像紙上的字母一樣流暢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一把蛋形椅子。真酷炫"
+} ]

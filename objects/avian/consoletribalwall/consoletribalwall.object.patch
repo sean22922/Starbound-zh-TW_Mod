@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個小型保全面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻安全面板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個控制面板包含有我不懂的科技"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些面板向其他水晶裝置發送水晶振動波"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的翼族人科技。葉族人想把它拿走"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好神祕。這種科技對於我的創造者來說也很新奇。裡面的水晶好像可以產生用於和諧共處的電流"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去像是某種控制面板。它好像不需要電源"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如此美妙的科技。手指摸上去有種微微振動的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那有閃亮的燈光和按鈕"
+} ]

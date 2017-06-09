@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個合金看上去很耐用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "感興趣。這種耐用的合金不是很常見"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅硬金屬磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去很堅固的金屬"
+} ]

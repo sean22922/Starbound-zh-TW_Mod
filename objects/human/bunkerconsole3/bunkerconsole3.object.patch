@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這塊螢幕好像全是個人備忘錄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "螢幕上有行字。\"親愛的瑪喬麗。請別忘了把貓放出去。愛你的大衛\" 有趣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "螢幕上有行字。\"昨天的毒性測試沒有決定性的結果。請安排更多測試。克雷納醫生\" 好吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "恩……螢幕上有一行高亮的信息。\"下班後買雞蛋\""
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "八卦。螢幕上有行字。\"我給你解釋一下你為什麼是錯的……\" 剩下的字都看不清了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "從這個電郵賬戶來看，某人犯了著名的\"回覆全部\"錯誤。可憐的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "從這些看來，人類在電腦上互噴的時候都是用臉滾鍵盤的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "個人電腦站。我可不是偷窺狂"
+} ]

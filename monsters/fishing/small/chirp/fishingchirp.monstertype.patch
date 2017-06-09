@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚嘰喳魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠開心時就會嘰嘰喳喳。以為自己是小鳥啊？"
+} ]

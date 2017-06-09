@@ -1,0 +1,177 @@
+[ {
+  "op" : "replace",
+  "path" : "/techscientist_dash/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_dash/subtitle",
+  "value" : "衝刺測試"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_dash/message",
+  "value" : "\n\n準備好要去障礙訓練場了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_dash/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_dash/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_dash/labels/name",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/subtitle",
+  "value" : "脈衝跳躍測試"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/message",
+  "value" : "\n\n準備好要去障礙訓練場了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_doublejump/labels/name",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/subtitle",
+  "value" : "歪曲球體測試"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/message",
+  "value" : "\n\n準備好要去障礙訓練場了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/techscientist_morphball/labels/name",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/arena1/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/arena1/subtitle",
+  "value" : "競技場戰鬥：角鬥士"
+}, {
+  "op" : "replace",
+  "path" : "/arena1/message",
+  "value" : "\n\n確定準備好進入競技場去對抗三個角鬥士了嗎？一旦進去，唯有勝利才能離開"
+}, {
+  "op" : "replace",
+  "path" : "/arena1/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/arena1/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/arena2/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/arena2/subtitle",
+  "value" : "競技場戰鬥：寵物馴獸師沃羅"
+}, {
+  "op" : "replace",
+  "path" : "/arena2/message",
+  "value" : "\n\n確定準備好進入競技場去對抗寵物馴獸師沃羅了嗎？一旦進去，唯有勝利才能離開"
+}, {
+  "op" : "replace",
+  "path" : "/arena2/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/arena2/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/arena3/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/arena3/subtitle",
+  "value" : "競技場冠軍：聖殿之怒"
+}, {
+  "op" : "replace",
+  "path" : "/arena3/message",
+  "value" : "\n\n確定準備好進入競技場去對抗火騎士－煉獄聖殿了嗎？一旦進去，唯有勝利才能離開"
+}, {
+  "op" : "replace",
+  "path" : "/arena3/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/arena3/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission1/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission1/subtitle",
+  "value" : "駭翼企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission1/message",
+  "value" : "\n\n你準備好讓我把你傳送到駭翼那邊，好讓你打敗他嗎？\n^red;你需要好裝備來對付他"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission1/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission1/labels/name",
+  "value" : "酒保"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/title",
+  "value" : "確認傳送"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/subtitle",
+  "value" : "企鵝武器測試場"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/message",
+  "value" : "\n\n你準備好讓我把你傳送到企鵝武器測試場，去對抗驚爆跳躍者MK I了嗎？\n^red;你需要很好的裝備來對付他"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/okCaption",
+  "value" : "準備好了"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/cancelCaption",
+  "value" : "等一會兒"
+}, {
+  "op" : "replace",
+  "path" : "/penguinmission2/labels/name",
+  "value" : "企鵝"
+} ]

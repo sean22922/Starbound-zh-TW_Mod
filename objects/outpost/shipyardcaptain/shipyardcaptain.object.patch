@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個看起來靠不住的隊長"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船廠隊長"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個人看起來很可疑，但是他賣很好的交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個人賣交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鬼鬼祟祟的人，賣交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。我可以從這個紳士手裡買交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "通常我會避免和這樣鬼鬼祟祟的人接觸，但是我真的需要一輛車"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有人告訴我這個隊長賣交通工具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我想知道這個人賣哪種交通工具？"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "企鵝皮特的車房"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "完全合法的個人生意"
+} ]

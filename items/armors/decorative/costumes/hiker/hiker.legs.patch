@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅固的材質讓這些非常適合尋找山裡的怪物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "徒步旅行者褲子"
+} ]

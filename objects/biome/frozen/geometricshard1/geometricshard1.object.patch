@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一大塊的冰"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大塊的冰"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一大塊冰"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一大塊尖銳的冰"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "上了霜的冰塊。葉族人也感覺上了霜"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。冰凍的水"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "冷冰冰的！舔一口的話，舌頭都會凍住的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一片冰，從裡到外都冰冷冷的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一片鋒利的冰，殺人滅口必備良器"
+} ]

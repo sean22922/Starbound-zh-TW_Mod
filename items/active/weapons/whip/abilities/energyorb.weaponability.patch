@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/ability/name",
+  "value" : "魯坎的寶珠"
+} ]

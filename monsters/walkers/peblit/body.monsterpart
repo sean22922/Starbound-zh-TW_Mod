@@ -1,9 +1,0 @@
-{
-  "name" : "peblit",
-  "category" : "peblit",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "peblit.png"
-  }
-}

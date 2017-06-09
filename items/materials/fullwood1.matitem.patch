@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "細心砍下的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "修整木塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "吃驚。雖然是剛砍下的木頭，但明顯受過仔細的處理"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "就是一些去蕪存菁"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "似乎是剛砍的，但這木頭被什麼東西處理過"
+} ]

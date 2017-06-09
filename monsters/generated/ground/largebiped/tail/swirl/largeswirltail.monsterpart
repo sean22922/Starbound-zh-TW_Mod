@@ -1,9 +1,0 @@
-{
-  "name" : "largeswirltail",
-  "category" : "largebiped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "largeswirltail.png"
-  }
-}

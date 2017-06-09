@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些清道夫的褲子內含編織保護層"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "清道夫褲子"
+} ]

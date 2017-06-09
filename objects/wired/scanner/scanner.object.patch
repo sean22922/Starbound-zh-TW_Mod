@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "完美適用於你的所有自動門！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "近距離掃描器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個近距離設備。當我接近它後它就能感知到"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台近距離設備。我靠近後好像它會觸發什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牆上有個嘶……掃描眼。它看著我呢！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑狀。這個近距離掃描器可能注意到我了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個近距離偵測器。當我靠近後它就能發現"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個掃描設備在我出現後就能分辨出來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一台近距離掃描器。它現在在看我嗎？"
+} ]

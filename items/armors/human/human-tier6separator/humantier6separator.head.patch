@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "戴著宇宙者頭盔，用有限的眼睛審視無限的宇宙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "宇宙者頭盔"
+} ]

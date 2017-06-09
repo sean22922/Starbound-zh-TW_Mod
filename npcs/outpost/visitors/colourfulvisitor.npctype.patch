@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "自誇，這是我輩的責任，彩虹盜賊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "友善，很高興見到你，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "友善，我是一個彩虹盜賊，但我們還是可以交談！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "不耐煩，我來這裡是要收集重要物資，僅此而已！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "勇敢，彩虹盜賊工會保護無辜者免受傷害！我們是一個嚴肅的機構！"
+} ]

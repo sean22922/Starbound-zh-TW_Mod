@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種藍色的信箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "城市郵箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個郵箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一箱發送信件"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不發送信件"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無關緊要。一個網絡隨身碟的郵件"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一個郵箱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這只是一個郵箱"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來發送信件的箱子嗎？看起來並不能瞬移傳送物品的樣子……"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一堆骨頭堆，主要是用來敲碎的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨頭堆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些骨頭只是要求被砸壞"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "土歸土，塵歸塵"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人粉碎骨。一天完成"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮，飛身一踢就能把這堆骨頭變為塵土"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果他們已經死了，粉碎這些骨頭沒什麼傷害"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粉碎的骨頭沒意思。我擔心我可能會在我路過時不小心敲到它。不可避免的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "乾燥、滿是塵土的骨頭，就盼著有人過去踢一腳"
+} ]

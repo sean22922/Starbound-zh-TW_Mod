@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石鮫族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "鮫族化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"這副鮫族人化石骨架展現了早期水生生命的跡象。\""
+} ]

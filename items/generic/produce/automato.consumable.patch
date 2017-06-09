@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "機械化的！記得把螺絲吐出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機械番茄"
+} ]

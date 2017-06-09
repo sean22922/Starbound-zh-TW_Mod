@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "摸起來很燙，它的殼像火焰一般閃耀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焰蟑螂"
+} ]

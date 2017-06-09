@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件上衣會讓穿戴者精力充沛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "太空制服上衣"
+} ]

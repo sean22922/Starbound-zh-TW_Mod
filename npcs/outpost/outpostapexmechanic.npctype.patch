@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這不是很多，可我盡我所能讓這地方保持運轉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "這不是很多，可我盡我所能讓這地方保持運轉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/0",
+  "value" : "歡迎你我的朋友！看到還有別人逃離老大猿的暴政真令人開心"
+} ]

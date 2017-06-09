@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個裝置是用來迅速冷凍東西的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "低溫爆能"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "從這個裝置射出的光束讓人冷到骨子裡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個冷凍裝置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冰可是很致命的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心，是高強度的冰凍裝置"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小心冷凍死光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "冰，是水最致命的一種形式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個低溫爆能可以凍死那群醜猴子"
+} ]

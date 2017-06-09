@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件衛衣，以防溫度太低"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通衛衣"
+} ]

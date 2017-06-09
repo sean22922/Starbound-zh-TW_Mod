@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瘟疫鱔"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它沒有眼睛，所以喜歡在夜間出沒，因為獵物也同樣看不見它"
+} ]

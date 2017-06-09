@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/btnShip/caption",
+  "value" : "飛船"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblMoneyLabel/value",
+  "value" : "總值"
+}, {
+  "op" : "replace",
+  "path" : "/gui/count/value",
+  "value" : "40槽"
+} ]

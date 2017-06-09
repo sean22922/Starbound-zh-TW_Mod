@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/0",
+  "value" : "我是來傳播庫魯克斯的福音的！注意聽我的教導，得到翅膀！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/1",
+  "value" : "每次你有好事發生都是因為庫魯克斯。那些不好的事都是你自己的錯"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/2",
+  "value" : "你知道每一刻恆星都是庫魯克斯的眼睛嗎？他能看到一切！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/3",
+  "value" : "如果我們想要航行，那我們必須活在庫魯克斯的光芒中！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/4",
+  "value" : "我們翼族人本來生活在超越塵世的天堂中。我們總有一天也會回去的！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/0",
+  "value" : "你真是庫魯克斯的忠實追隨者！願你能得到自己的翅膀"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/1",
+  "value" : "你也夢想有一點重獲翅膀嗎？希望赦免能夠讓我們變回曾經的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/2",
+  "value" : "每次你有好事發生都是因為庫魯克斯。那些不好的事都是你自己的錯"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/3",
+  "value" : "你知道每一刻恆星都是庫魯克斯的眼睛嗎？他能看到一切！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/4",
+  "value" : "如果我們想要航行，那我們必須活在庫魯克斯的光芒中！"
+} ]

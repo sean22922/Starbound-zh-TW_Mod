@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "美味的豆子配上這個香甜的米飯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "豆子意大利調味飯"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鹽冠魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠利用石頭和珊瑚礁來擦亮自己頭上的斜脊冠"
+} ]

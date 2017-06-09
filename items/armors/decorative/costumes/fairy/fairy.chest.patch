@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "跳舞上衣，能減少三倍的乳搖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "跳舞上衣"
+} ]

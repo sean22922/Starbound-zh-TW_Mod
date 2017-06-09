@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "骨匠"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "售賣骨製品……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/0",
+  "value" : "你想來點骨頭嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/1",
+  "value" : "來吧，買點我的東西吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/2",
+  "value" : "骨頭能讓你的敵人遠離！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/3",
+  "value" : "葉族人賣骨頭了啊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/0",
+  "value" : "快點回來吧。我知道你會的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/1",
+  "value" : "如果你想賣給我骨頭的話就回來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/2",
+  "value" : "一路平安，這是個可怕的世界"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/3",
+  "value" : "如果你需要骨頭，葉族人永遠在這裡……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/floran/default/0",
+  "value" : "跟著，商店從這邊走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/floran/default/1",
+  "value" : "葉族人是專業的骨匠。這邊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/floran/default/2",
+  "value" : "跟著葉族人從這邊走……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/floran/default/0",
+  "value" : "商店就在這！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/floran/default/1",
+  "value" : "現在來和葉族人做生意吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/floran/default/2",
+  "value" : "我有你可能會需要的東西"
+} ]

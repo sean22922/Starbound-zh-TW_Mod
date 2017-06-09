@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很久以前，只要這兩樣東西就可以驅動整個飛船"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的發動機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "當正常工作時，發動機能提供大量的能量"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一架大型發電機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的破機器嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望狀。一架壞掉的發電機"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是飛船的動力室。不提供動力了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個曾經是很棒的發動機"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "它在壞掉前一定都被榨乾了！"
+} ]

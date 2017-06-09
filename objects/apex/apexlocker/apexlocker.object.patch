@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個迷你克諾格櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "實驗室櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想知道裡面有沒有祕密"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裡面有值錢的東西嗎"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "搜尋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮：裡面有好玩的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個實驗室櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許裡面有有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個櫃子。裡面有什麼？"
+} ]

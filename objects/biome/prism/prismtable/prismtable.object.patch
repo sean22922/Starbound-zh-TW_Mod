@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從折射玻璃上切割出的光滑桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不想在這個乾淨的桌子表面撒上東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "精緻的作品，毫無疑問"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不能躲在桌子後面，桌子太令人分神了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。我可以在這上面放上些精緻的裝飾品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用這桌子吃飯會很有格調"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張桌子能散發出整條光譜的光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以就著這個吃早飯，我和你講"
+} ]

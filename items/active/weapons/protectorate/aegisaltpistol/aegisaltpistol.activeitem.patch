@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能釋放出連續的純淨能源光束"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "霓磷鹽之槍"
+} ]

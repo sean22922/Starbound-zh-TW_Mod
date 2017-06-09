@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有史以來最膽大包天的偷箱賊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "挖煤工的勇氣"
+} ]

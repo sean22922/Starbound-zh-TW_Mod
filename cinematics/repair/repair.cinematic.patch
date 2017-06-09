@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/1/text",
+  "value" : "修復FTL引擎中……"
+} ]

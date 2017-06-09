@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子可以加強穿戴者的行動力和腿力，其腿力可以碎骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "合成褲子"
+} ]

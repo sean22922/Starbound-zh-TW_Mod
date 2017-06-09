@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根高石柱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小柱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根柱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一根柱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "又高又大的石、石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自然。一根石柱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這根柱子真的很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一根劣質的柱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一根石柱，高高豎起"
+} ]

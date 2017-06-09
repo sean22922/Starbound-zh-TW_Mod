@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種自然出現的晶體能產生能量"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熔核碎片"
+} ]

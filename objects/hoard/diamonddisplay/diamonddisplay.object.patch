@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個大鑽石的展台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑽石展台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個大鑽石的盒子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用來展示無價珍寶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人從博物館偷過寶石。守衛很生氣。葉族人捅了他們"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "批判。這些首飾盒似乎沒有警報系統的保護"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "像是警匪片裡的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "和美麗寶石不相稱的展示台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果寶石丟了會有人發現嗎？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個黃銅、木材、青銅所打造的風車，會隨風向旋轉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境風車"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個簡單的風車會隨風向旋轉。是個實用的指標"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個風車的螺旋槳可以告訴我風向！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族在想旋轉起來的東西當武器用實不實用……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察性。這個風車的螺旋槳似乎能夠指示風向"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個老東西有個可以按照風向旋轉的螺旋槳。要的！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個旋轉的螺旋槳可以告訴我風向是哪方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個風車能夠顯示出風的強度和方向"
+} ]

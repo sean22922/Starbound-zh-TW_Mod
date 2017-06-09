@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用在圖書館或者桌子上的檯燈。很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這燈讓我想起學校時光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從沒見過這麼奇特的燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "綠光看得葉族人想睡覺"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿足。這燈開的時候還伴隨著一聲機械式的滴答聲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "現在就缺一本好書了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "並非鯨族人的作品，不過也挺吸引眼球的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "綠燈和看書很配哦"
+} ]

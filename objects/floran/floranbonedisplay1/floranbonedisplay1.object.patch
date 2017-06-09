@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這次葉族狩獵很成功"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨製戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根被當做戰利品的巨大骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這根巨大的骨頭是什麼動物身上的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人只展示被他殺掉的生物的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "畏懼。根據這根骨頭的大小，它的主人比整個機器人城堡還要大"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是塊大骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人是殺了什麼生物才獲得了這個……戰利品？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種東西可不是那麼好殺的"
+} ]

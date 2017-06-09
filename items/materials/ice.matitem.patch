@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅實冰，摸著能讓人打個冷戰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "觀察。看上去這些冰塊是自然形成的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "寒冷的冰塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些冰塊"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "hypnare",
-  "category" : "hypnare",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "hypnare.png"
-  }
-}

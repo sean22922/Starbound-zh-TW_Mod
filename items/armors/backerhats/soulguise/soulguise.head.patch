@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有超凡的黑暗力量的頭盔，它可以召喚出真正的主人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "靈魂偽裝頭盔"
+} ]

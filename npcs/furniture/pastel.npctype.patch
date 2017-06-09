@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我得練練我的新舞步了……有空再說吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我其實是個很厲害的舞者！我，呃，現在不想證明給你看"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我是這個太陽系裡最厲害的舞者！真的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "我漫遊星際，用無人能敵的芭蕾羞辱其他的舞者。很棒吧？"
+} ]

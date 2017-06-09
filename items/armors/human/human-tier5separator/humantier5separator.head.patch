@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "按照機器人頭部模型所製造的人類頭盔；模仿生命的藝術"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冒險者頭盔"
+} ]

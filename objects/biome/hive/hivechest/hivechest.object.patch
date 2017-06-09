@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個真正有毛的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個非常糟糕的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這隻箱子讓我背脊發涼"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要吃掉箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。鮮血淋漓、還在脈動著的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用血肉製成的噁心箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是個可怕的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻箱子不是很吸引人，但我還是想打開看看"
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
+  "value" : "我的房子顯然已經沒那麼像瀝青了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
+  "value" : "安排已經變更了，這不好……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/2",
+  "value" : "我發誓這以前還有很多瀝青的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
+  "value" : "我的瀝青坑需要點維護……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
+  "value" : "這裡有些損壞，你能修復嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/2",
+  "value" : "這裡需要修一下！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
+  "value" : "這是我的瀝青坑！誰也不能搬到這兒來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
+  "value" : "這個瀝青坑是我的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
+  "value" : "我的瀝青坑，不能接受！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
+  "value" : "這條件我沒法接受……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/severe/default/default/2",
+  "value" : "這些條件我忍受不了了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
+  "value" : "就這樣吧，我放棄。該離開了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/final/default/default/2",
+  "value" : "我放棄，我自己再找個新的瀝青坑！"
+} ]

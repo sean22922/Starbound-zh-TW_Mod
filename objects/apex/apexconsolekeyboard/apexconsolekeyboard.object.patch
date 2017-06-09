@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我好奇這些按鈕都是用來做什麼的……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "控制鍵盤"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個包括了26個猿人字母的鍵盤"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個有很多按鈕的設備，每個上都有外星符號"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻逼技術"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。只有26個標誌？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那不是傳統鍵盤…但是我認出了很多字母"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人的刻字就像流水。猿人的刻字就像石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "鍵盤，用來打字的"
+} ]

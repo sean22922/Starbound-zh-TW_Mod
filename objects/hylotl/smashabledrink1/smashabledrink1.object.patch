@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空了的百味果飲料瓶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空了的飲料瓶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "瓶子是空的，那麼除了打碎它還有別的能做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "瓶子是空的，那麼除了打碎它還有別的能做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "打碎！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "調皮：沒有什麼留在瓶子裡，所以它很易打碎"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "瓶子是空的，那麼除了打碎它還有別的能做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我體內的一小部分我很想打碎它"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "咦呀！打靶練習！"
+} ]

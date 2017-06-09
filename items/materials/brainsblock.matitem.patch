@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "脈動的大腦物質……它在思考嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大腦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "警覺。這裡存在腦活動嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人想要刺穿這個黏乎乎的大腦"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些新鮮的大腦物質"
+} ]

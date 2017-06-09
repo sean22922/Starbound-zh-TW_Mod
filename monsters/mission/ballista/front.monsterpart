@@ -1,9 +1,0 @@
-{
-  "name" : "ballistafront",
-  "category" : "ballista",
-  "type" : "front",
-
-  "frames" : {
-    "front" : "ballistafrontbody.png"
-  }
-}

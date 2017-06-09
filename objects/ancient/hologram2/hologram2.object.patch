@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一副古老的全息圖像描述了一個虛擬的景象"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個描述了一個獨眼行星破壞者。感到不安"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這幅畫裡有個生物抵抗衆神之力毀滅世界"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這幅畫了一個殘暴殺人怪獸的圖真令人震撼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。這幅壁畫裡面的生物在破壞行星，讓人很不安"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來是不祥之兆"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個全息圖展示了一隻多肢生物在摧毀行星"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個長得像烏賊的東西很難看"
+} ]

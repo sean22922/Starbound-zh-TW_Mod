@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "什麼東西比一張牀還要好？兩張牀！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艙內雙層牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "上鋪是為尋找接近的敵人嗎？我不明白"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "雙層牀對於分享空間再有用不過了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡嘶……睡得離地面太遠"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔憂狀。我希望它在使用時不要散架"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "雙層牀是一項美麗的發明。很高興它經受住了時間的考驗"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這項傢俱的天才之處都被粗糙的牀鋪毀完了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我，嗯我的確更喜歡睡在上鋪，靠近群星"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種螺旋植物，像DNA"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "DNA植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個植物看起來像蛇一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個植物看起來像蠕蟲一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個植物看起來像葉族一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：這種植物生長時它的DNA全部斷裂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我好奇這些是不是人為種植的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "大自然充滿奇蹟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不知道要看什麼？"
+} ]

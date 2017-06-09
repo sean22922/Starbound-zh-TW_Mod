@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非常漂亮的著色磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "著色磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這些磚塊上的繪畫很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的畫磚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "相當漂亮的畫磚"
+} ]

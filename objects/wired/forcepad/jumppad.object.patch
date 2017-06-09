@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用強有力而靈活的力量擊退目標"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "跳躍莢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用強有力而靈活的力量擊退目標"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人印象深刻啊，用強有力而靈活的力量擊退目標"
+} ]

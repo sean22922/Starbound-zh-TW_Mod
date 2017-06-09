@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個掃描指紋的設備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "指紋掃描器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "指紋掃描器，比猿人手還小"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人沒有指紋掃描器。這種保全設備對我們毫無用處"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "掃描手的設備。對葉族人的手沒反應……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "討厭：生物保全設備是一種奢侈品，只要少數種族才能使用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "指紋掃描器。可惜我的信息沒有被收錄。我一直想啟動這玩意兒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人的手會導致這種玩意兒崩潰"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種掃描手的設備。估計我的不行"
+} ]

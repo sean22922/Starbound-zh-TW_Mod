@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這扇鐵吊閘向裡面打開了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水準吊閘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來這扇鐵門是往裡面打開的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "像這樣的鐵門適合用來保護任何地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鐵門很重，金屬條很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關注。這些鋒利的金屬條看起來有點危險"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這扇沉重的金屬門向一側排開"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "堅固的鐵。可能不太好看，但能擋住不速之客"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這扇門很堅固"
+} ]

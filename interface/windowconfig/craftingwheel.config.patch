@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "紡車"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "線和繩"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "產品"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnCraft/caption",
+  "value" : "製作"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnStopCraft/caption",
+  "value" : "停止"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProduct/value",
+  "value" : "原料足夠"
+} ]

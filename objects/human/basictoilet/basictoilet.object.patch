@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個常見的馬桶！感謝群星！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "基礎馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小廁所，不是很乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "噓噓的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "馬桶很亮，味道很臭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。一個馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "廁所，有一處總是好的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粗鄙的廁所"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是個樸素的馬桶。不優雅，但是很有必要"
+} ]

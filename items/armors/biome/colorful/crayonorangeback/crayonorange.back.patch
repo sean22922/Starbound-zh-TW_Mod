@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個橙色蠟筆。裝備它來給你的衣服增添點顏色"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙色蠟筆"
+} ]

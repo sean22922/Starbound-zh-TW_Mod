@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "箱子上貫穿著閃耀著光芒的記號"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高科技箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個高科技箱子。看起來似乎裝有什麼高價值的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "好像裝著之前東西的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "特別的亮閃閃的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不作評價。這個箱子的來源未知"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "誰造的這東西？裡面又有什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子整合了很神奇的科技"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "噢，我打賭裡面裝滿了有價值的技術"
+} ]

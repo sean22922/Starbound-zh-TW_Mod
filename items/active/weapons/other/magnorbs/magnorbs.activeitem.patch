@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "特製的磁力架子，用於扔出和接住特製的球"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "磁力夾"
+} ]

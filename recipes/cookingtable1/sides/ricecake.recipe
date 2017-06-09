@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "kelp", "count" : 5 },
-    { "item" : "rice", "count" : 1 }
-  ],
-  "output" : { "item" : "ricecake", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ],
-  "collectables" : { "cooking" : "ricecake" }
-}

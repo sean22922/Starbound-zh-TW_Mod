@@ -1,9 +1,0 @@
-{
-  "name" : "nitroglycerine",
-  "effectConfig" : {},
-  "defaultDuration" : 10.0,
-
-  "scripts" : [
-    "nitroglycerine.lua"
-  ]
-}

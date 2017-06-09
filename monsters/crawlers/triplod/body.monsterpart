@@ -1,9 +1,0 @@
-{
-  "name" : "triplod-body",
-  "category" : "triplod",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "triplod-body.png"
-  }
-}

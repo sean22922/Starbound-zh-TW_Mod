@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/friendlyName",
+  "value" : "小行星帶"
+} ]

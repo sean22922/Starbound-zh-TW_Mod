@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "神祕的古代之門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古代之門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "通往未知的神祕之門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "神祕起源的門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想知道什麼奇怪生物製造了這扇門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。我無法追蹤這扇門的起源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "籠罩著神祕氛圍的遠古之門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一座紀念性建築，佇立在我跟前。我敢去看看它通向哪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇奇怪的門，求著我穿過它"
+} ]

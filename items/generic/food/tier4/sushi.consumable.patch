@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "美味的海草米卷，一款鮫族小吃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壽司"
+} ]

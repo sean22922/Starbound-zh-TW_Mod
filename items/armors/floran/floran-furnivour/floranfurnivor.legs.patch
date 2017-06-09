@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "顯然是用一場狩獵中捕獲的動物皮毛裝飾的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毛護腿"
+} ]

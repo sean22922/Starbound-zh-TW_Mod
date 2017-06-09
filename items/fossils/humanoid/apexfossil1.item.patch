@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石猿人頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿人頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "猿人化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"一名猿人的化石遺體。注意那強有力的牙齒和突出的眉骨。\""
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這會讓我不刺眼"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "太陽鏡"
+} ]

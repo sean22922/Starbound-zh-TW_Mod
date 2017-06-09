@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蘑菇雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "巨型蘑菇雕像"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是個大蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這蘑菇石頭真好看"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "幸福。我想要坐在雕像旁邊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是個大蘑菇雕像"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "石頭做的大蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "無論是誰雕刻的這塊石頭，都一定很喜歡蘑菇"
+} ]

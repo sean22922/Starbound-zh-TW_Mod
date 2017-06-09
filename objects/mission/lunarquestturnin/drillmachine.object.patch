@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大號的工業鑽孔機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "挖掘鑽孔機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這東西看上去真不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "絕對是我見過最大的鑽頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看上去挺好玩的鑽頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "激動。真是機械的奇蹟"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是我見過第二大的鑽頭！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "和鯨族人用來鑽海底的那個差不多"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真漂亮！"
+} ]

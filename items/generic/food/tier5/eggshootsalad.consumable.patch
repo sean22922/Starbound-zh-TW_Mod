@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蛋芽和羽冠蘿蔔做的沙拉，簡單量大"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蛋芽沙拉"
+} ]

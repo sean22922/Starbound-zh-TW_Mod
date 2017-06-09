@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢製平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用鎢製成的堅硬平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。鎢可以打造極其立體的平台"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅硬的金屬平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用鎢製成的平台"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "安撫寵物的項圈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "淡然項圈"
+}, {
+  "op" : "replace",
+  "path" : "/collar/displayName",
+  "value" : "淡然"
+} ]

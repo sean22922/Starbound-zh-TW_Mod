@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是種執行著叫\"殭屍香蕉大廈\"的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃色拱形機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "殭屍香蕉大廈是一款典型的猿人遊戲！我小時候覺得它很嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "殭屍香蕉大廈——你必須射殺所有的殭屍來保護你官邸裡的香蕉。有趣的概念"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為什麼要救討厭的香蕉？吃殭屍啊！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安地。現實世界裡存在殭屍香蕉大廈裡的那種生物嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "殭屍香蕉大廈。讓猿人們去把保護香蕉當作最高使命吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我理解保護家的迫切性，但我發現殭屍香蕉豪宅非常暴力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "殭屍香蕉豪宅？我已經玩過太多殭屍類遊戲了"
+} ]

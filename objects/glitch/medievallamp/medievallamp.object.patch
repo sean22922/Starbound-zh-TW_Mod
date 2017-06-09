@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "油燈：微微散出些許熱氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀油燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小型的鐵壁燈，適合掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個鐵質的燈可以掛在鉤子上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "籠子裡的火光，葉族人就喜歡這個"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。這隻燈是掛在一個鉤子上的，這樣就可以解放雙手了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這隻鐵製的小燈上面是一個鉤子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "手提燈，可以掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻燈，是掛在牆上的"
+} ]

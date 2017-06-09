@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "數位沙漏。定格在了某一位置"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙漏"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個沙漏，沙子一直在流，也許是一個電子人？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "測量時間的儀器。似乎卡住了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "沙子不往下掉了。為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這隻計時器已經流完了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一隻古老的沙漏……沙子還在繼續流"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "沙子似乎永遠流不完，怎呢麼回事？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻沙漏怎麼永遠也流不完？"
+} ]

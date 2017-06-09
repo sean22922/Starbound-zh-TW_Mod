@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "關於迷你克諾格堡壘信息的循環展示"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷你克諾格情報展示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這顯示器上顯示的是各處迷你克諾格要塞的信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "螢幕上顯示的是猿族政治要塞的一些信息。那張臉是老大猿嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "顯示文字和圖像的玻璃嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這台顯示器上顯示的時候猿族軍事要地的信息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這螢幕上顯示的是迷你克諾格的信息—還有老大猿那張大臉的照片！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這封藏了藍色冷光文字的螢幕，描述了關於迷你克諾格的有價值資訊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這螢幕上顯示那有軍事單位，還有一顆行星。真是整潔"
+} ]

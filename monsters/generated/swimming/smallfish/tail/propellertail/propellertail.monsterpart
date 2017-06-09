@@ -1,9 +1,0 @@
-{
-  "name" : "propellertail",
-  "category" : "fish",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "propellertail.png"
-  }
-}

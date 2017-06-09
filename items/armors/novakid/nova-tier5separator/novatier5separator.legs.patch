@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "雖然很鬆弛但很耐用，滿足流氓的需要"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "流氓褲子"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在鯊魚龍捲下的一步"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魚斧（滴狀）"
+} ]

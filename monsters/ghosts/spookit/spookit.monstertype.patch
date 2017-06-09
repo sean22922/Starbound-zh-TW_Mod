@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈體"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當它閉上眼，似乎進入了另一個空間，可以免疫所有攻擊"
+} ]

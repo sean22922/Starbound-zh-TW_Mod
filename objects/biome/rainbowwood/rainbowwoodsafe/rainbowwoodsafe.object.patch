@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由彩虹木製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩虹木箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用於存放物品的亮紅色箱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這箱子非常紅。看起來引人注意"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想看看箱子裡有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。色彩如此明亮的箱子裡會裝著什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個紅箱子看起來很有警示性，或者令人興奮？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "精緻的箱子，用彩色木頭製成"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個木箱看起來很有意思"
+} ]

@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嘿，我是湯姆！你有見過一個叫萊納的人嗎？"
+} ]

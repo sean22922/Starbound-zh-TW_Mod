@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我很好奇。你覺得把這件收集品拼起來要花多久？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我很意外。我們種族間的文化差異真是非常顯著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "我很好奇。你覺得把這件收集品拼起來要花多久？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "我很意外。我們種族間的文化差異真是非常顯著"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅顎鯰"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠天生有一個柔軟的顎骨，會隨著年齡的增長鈣化而變硬"
+} ]

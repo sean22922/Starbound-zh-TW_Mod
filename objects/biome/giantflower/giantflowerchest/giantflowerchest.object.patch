@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用花製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨型花箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "你可以輕鬆撿起這個箱子然後將它帶走"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個鮮花製成的箱子。很容易打開"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族可以讓這個箱、箱子把盜、盜賊吃下去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。打開這隻箱子，裡面就散發出花粉。不知道有什麼長期的影響"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個可愛的多彩箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個漂亮的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這麼光鮮的箱子一定充滿了樂趣"
+} ]

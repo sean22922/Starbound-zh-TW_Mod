@@ -1,9 +1,0 @@
-{
-  "name" : "icetip",
-  "category" : "icetip",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icetip.png"
-  }
-}

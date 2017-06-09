@@ -1,0 +1,141 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "描述世界上的事物，為列印進行掃描。 ^green;按[N]鍵快速選擇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "掃描模式"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/0",
+  "value" : "超出了我的掃描器的偵查範圍"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/1",
+  "value" : "似乎沒有讀數，我應該靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/2",
+  "value" : "信號太弱了，也許超出範圍了"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/default/3",
+  "value" : "一定是超出範圍了，我得不到讀數"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/0",
+  "value" : "掃描器掃不到，應該靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/1",
+  "value" : "我可能超出範圍了，掃描器掃不到那麼遠的地方"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/2",
+  "value" : "信號太弱了，最好靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/novakid/3",
+  "value" : "無法掃描，超出範圍"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/0",
+  "value" : "掃描器不夠強大！葉族人必須繼續前進"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/1",
+  "value" : "超出掃描器範圍"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/2",
+  "value" : "信號太弱了，葉族人離得不夠近"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/floran/3",
+  "value" : "一定是超出範圍了，葉族人得不到讀數"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/0",
+  "value" : "失望。偵測器無法在這裡分析那個地點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/1",
+  "value" : "疑惑。我好像得不到讀數，也許應該靠近一點"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/2",
+  "value" : "沮喪。信號太弱了，我肯定超出範圍了"
+}, {
+  "op" : "replace",
+  "path" : "/outOfRangeText/glitch/3",
+  "value" : "苦惱。一定是超出範圍了，我得不到讀數"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/0",
+  "value" : "這裡沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/1",
+  "value" : "這什麼都沒"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/2",
+  "value" : "這裡真的什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/default/3",
+  "value" : "沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/0",
+  "value" : "掃描器一無所獲"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/1",
+  "value" : "什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/2",
+  "value" : "掃描器顯示那裡什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/novakid/3",
+  "value" : "什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/0",
+  "value" : "沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/1",
+  "value" : "什麼都掃不出來"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/2",
+  "value" : "這什麼都不是"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/floran/3",
+  "value" : "沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/0",
+  "value" : "無感。這裡沒什麼令人感興趣的"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/1",
+  "value" : "平靜。那裡什麼都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/2",
+  "value" : "失望。什麼都掃不出來"
+}, {
+  "op" : "replace",
+  "path" : "/nothingThereText/glitch/3",
+  "value" : "冷漠。這裡真的什麼都沒有"
+} ]

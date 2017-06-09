@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "威脅。你絕不想惹上我們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "渴望，我渴望戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "挑釁。你覺得看我這麼好玩嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/3",
+  "value" : "激動，我一直在等待戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/4",
+  "value" : "無畏，我對戰過比你還要強大的敵人，你構不成威脅！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/5",
+  "value" : "傲慢，你看上去構不成威脅"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/6",
+  "value" : "發怒，你和那些壞騎士混在一起！"
+} ]

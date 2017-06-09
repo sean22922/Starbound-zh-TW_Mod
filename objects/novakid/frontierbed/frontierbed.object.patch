@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張結實的木牀，上面鋪著一張摩施獸皮牀單"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "你睡覺的時候蓋著這種獸皮肯定會很暖和"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "蓋著獸皮？我還是更喜歡稻草牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "狩獵的戰利品做成的牀？葉族感到很驚訝，這是個好主意"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷惑。這些牀單是用真獸皮做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我……想知道這是不是真獸皮？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看得出來，做這張牀的時候其實沒怎麼用心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "現在我可以在這張牀上安心的閤眼睡覺了"
+} ]

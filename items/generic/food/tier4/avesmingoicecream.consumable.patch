@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "百味果嚐起來各種味道！不論好壞，都值得做成冰淇淋一嚐"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "百味果冰淇淋"
+} ]

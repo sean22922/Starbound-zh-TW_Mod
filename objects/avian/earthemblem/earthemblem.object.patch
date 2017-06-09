@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個標誌象徵著強大而又有彈性的土元素"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人土地標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "象徵著土地的翼族人元素"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "土地標誌，在墓地裡很常見"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "它有點像矛頭，不過可是象徵著土地"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷住。這好像是土地標誌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一些三角形。它象徵著土地"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個標誌性的土地元素象徵"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我猜這是翼族人的土地標誌"
+} ]

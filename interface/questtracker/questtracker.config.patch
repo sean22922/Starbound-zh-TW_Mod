@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/lblQuestObjectiveList/value",
+  "value" : "收集8個污穢狼毛皮"
+} ]

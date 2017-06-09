@@ -1,9 +1,0 @@
-{
-  "name" : "fishcritter",
-  "category" : "fishcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

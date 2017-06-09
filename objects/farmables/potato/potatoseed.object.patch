@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "馬鈴薯！煮了！壓碎了！做成濃湯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "馬鈴薯種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "馬鈴薯太普通了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "馬鈴薯泥可好吃了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "剛從地裡挖出來的新鮮馬鈴薯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "敬佩：人類用簡單的原料創造出了豐富的菜餚"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，馬鈴薯，還有什麼你不能做到的事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種常見而乏味的蔬菜"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很適合在露營的時候吃"
+} ]

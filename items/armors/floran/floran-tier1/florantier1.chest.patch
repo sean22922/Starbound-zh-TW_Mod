@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很難得見到這種沒有到處都是壓痕和血還有肉塊的護胸"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "新芽胸甲"
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "獲取葉族神器"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "你收集到的線索揭示了^orange;葉族神器^reset;正被供奉在^orange;儀式狩獵洞窟^reset;中。根據目前的發現判斷，你需要^green;在一場儀式狩獵中爭奪它^reset;。我已經將座標發送給了航行。小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "很好，你做的非常棒！我們已經完成了六分之一了。不要不屑一顧。現在我們又有了^orange;奴魯^reset;的幫助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/missionRadioMessage/text",
+  "value" : "我已經收到了^orange;儀式狩獵洞窟^reset;的座標。^green;使用任務界面^reset;到達該位置"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/artifact",
+  "value" : "找到在^green;狩獵洞窟^reset; 的^orange;神器^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+} ]

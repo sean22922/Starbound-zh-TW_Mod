@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空中可以進行衝刺！冷卻時間：0.8s"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "空中衝刺"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個木製馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "木製的馬桶……不是很乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個接鳥糞的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人選擇到樹林裡解決"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。滿是細菌病毒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個木製馬桶……呃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人不需要這樣的設備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "想知道它到哪裡去了……"
+} ]

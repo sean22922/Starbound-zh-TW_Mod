@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "移動鍋爐，動能轉化為熱能"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鍋爐"
+} ]

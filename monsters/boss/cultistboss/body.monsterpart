@@ -1,9 +1,0 @@
-{
-  "name" : "cultistboss",
-  "category" : "cultistboss",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "cultistboss.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "narfishcritter",
-  "category" : "narfishcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

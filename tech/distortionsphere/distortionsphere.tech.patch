@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "變成球體並在狹窄的地方快速移動！^green;[F]"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "扭曲球體"
+} ]

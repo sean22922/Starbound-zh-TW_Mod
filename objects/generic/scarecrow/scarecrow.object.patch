@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一捆稻草，長了一張臉。挺可愛的！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "稻草人"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "帶著好看帽子的稻草人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我感覺正在被誰監視著……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "麻袋人嚇跑烏鴉，同時也嚇到了葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個稻草人雖然不能動，但看起來很靈活"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這傢夥看起來經歷了不少"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個稻草人，立正在原地"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "嘿，夥計！繼續加油"
+} ]

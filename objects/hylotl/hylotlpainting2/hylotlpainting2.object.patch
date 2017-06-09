@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統高山畫作"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一個著名古畫的複製品"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這幅畫不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不錯！但是刷的有點漫不經心"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭山峯的畫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人豔羨。雖然只是複製品，但這畫作實在太出色了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "似乎在地球上看見過一模一樣的畫作呢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是令人驚訝的情感與色彩的堆疊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "似乎是某種傳統畫作"
+} ]

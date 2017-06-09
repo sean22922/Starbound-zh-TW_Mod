@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一條花哨的紅色緞帶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者緞帶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一條精緻的絲絨帶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一條絲絨帶。漂亮！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紅色嘶……絲絨帶……葉族人餓了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立狀。一條紅色絲帶"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是條紅絲帶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一條紅絲帶"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是根紅繩"
+} ]

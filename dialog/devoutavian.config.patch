@@ -1,0 +1,1413 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "願庫魯克斯之光指引你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/0",
+  "value" : "願庫魯克斯之光指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/0",
+  "value" : "人類，聽說了你們的世界，我感到很難過。我會向庫魯克斯禱告給予你們力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/1",
+  "value" : "我想地球的毀滅是庫魯克斯的意思"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/2",
+  "value" : "人類不是有很多神靈嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/3",
+  "value" : "我相信人類可以轉變成信仰庫魯克斯，如果他們願意。你應該和一位觀星信徒談談"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/4",
+  "value" : "遺憾的是，庫魯克斯不歡迎沒有羽毛的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/5",
+  "value" : "地球上庫魯克斯的神廟嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/6",
+  "value" : "我不太確定庫魯克斯對於保護地怎麼看"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/7",
+  "value" : "兩個季節之前，我們向庫魯克斯獻祭了兩個人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/8",
+  "value" : "一點羽毛也沒有？庫魯克斯憐憫你們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/9",
+  "value" : "作為一個人類你很強壯。庫魯克斯重視強壯的人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/10",
+  "value" : "人類可以昇天嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/11",
+  "value" : "我不覺得人類勇士能夠比得上翼族勇士。但是我們有庫魯克斯的支持！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/12",
+  "value" : "沒有羽毛的人，祝你們好運"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/13",
+  "value" : "不要害怕觀星信徒的人類，他們會很嚴格，但是他們有我們最大的利益"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/14",
+  "value" : "人類，你見過囚徒嗎？可憐的迷失靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/38",
+  "value" : "很高興認識你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/49",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/0",
+  "value" : "哦……呃，你相信庫魯克斯嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/1",
+  "value" : "也許你該去找觀星信徒，他們能指引你走上正途"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/2",
+  "value" : "希望你在冒險途中不忘禱告"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/3",
+  "value" : "你也信奉庫魯克斯的，對不？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/4",
+  "value" : "你沒有被接地者的宣傳所洗腦吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/5",
+  "value" : "為什麼不爬到通天塔感覺下翅膀下的風呢？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/6",
+  "value" : "你加入了保護者組織？那對信奉庫魯克斯有幫助嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/7",
+  "value" : "你多久沒見證過神聖的獻祭了？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/8",
+  "value" : "你在旅途中有趁機散播庫魯克斯的信仰嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/9",
+  "value" : "你很強壯！也許有一天你能夠成為長老！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/10",
+  "value" : "你是個戰士嗎？非常棒！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/11",
+  "value" : "我擔心那些接地者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/12",
+  "value" : "你身上帶有翼撰史詩嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/13",
+  "value" : "我希望成為下一屆的長老！但我希望每一屆……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/14",
+  "value" : "你是個很強大的戰士，你的家人一定引以為傲"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/38",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/49",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/0",
+  "value" : "葉人，你信奉庫魯克斯嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/1",
+  "value" : "我很欣賞葉族的力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/2",
+  "value" : "希望有機會跟你一起狩獵。我覺得庫魯克斯會批準的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/3",
+  "value" : "葉族是地面種族，而我們翼族是天空的種族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/4",
+  "value" : "我知道接地者愛說我們壞話。所以我也很樂意詆譭他們！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/5",
+  "value" : "庫魯克斯不只是戰神，他還是生命、死亡、季節、和豐收之神。他是全能之神"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/6",
+  "value" : "我不確定是否在這裡獻祭過葉族。你的種族會流血的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/7",
+  "value" : "願庫魯克斯庇佑你狩獵順利"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/8",
+  "value" : "我不怕你葉族，我有庫魯克斯庇佑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/9",
+  "value" : "如果你從通天塔跳下來，不知道會不會跌死？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/10",
+  "value" : "如果說庫魯克斯能容忍任何除了我們之外的種族，那就只有葉族了。不過他不會容忍"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/11",
+  "value" : "你好，葉族。願庫魯克斯指引你的刀刃"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/12",
+  "value" : "祝福你，美麗的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/13",
+  "value" : "綠色人跟觀星信徒相似嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/14",
+  "value" : "葉子很美麗，但我比較喜歡庫魯克斯賜給我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/38",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/49",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/0",
+  "value" : "我聽說過迷你克諾格很多壞話，願庫魯克斯譴責他們"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/1",
+  "value" : "你聽說過庫魯克斯嗎，毛茸茸的傢夥？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/2",
+  "value" : "猿族是強大的戰士，值得尊敬"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/3",
+  "value" : "我不認為我們的神有你們的領導那麼獨裁。老大猿一聽就知道不是好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/4",
+  "value" : "你們應該尊敬老大猿；他很強大，而且是你們的領導。就像我們的庫魯克斯一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/5",
+  "value" : "猿人你好！你爬過通天塔嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/6",
+  "value" : "你知道嗎？香蕉是庫魯克斯創造的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/7",
+  "value" : "猿族的叛軍不是在跟迷你克諾格作戰嗎？你為什麼不參戰？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/8",
+  "value" : "其實有時候我覺得庫魯克斯也沒那麼厲害而已，這番話你決不能告訴別人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/9",
+  "value" : "我愛庫魯克斯，猿人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/10",
+  "value" : "你聽說過翼撰史詩嗎？我覺得它很有啓發性，哪怕對猿族來說也一樣"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/11",
+  "value" : "猿族是不是無神論者？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/12",
+  "value" : "我覺得科學就是猿族的宗教"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/13",
+  "value" : "如果你對庫魯克斯感興趣的話那就去找一位觀星信徒，他們是我們的領導"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/14",
+  "value" : "猿族會獻祭自己的族人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/15",
+  "value" : "我知道接地者愛說我們壞話。所以我也很樂意詆譭他們！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/16",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/17",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/18",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/19",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/20",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/21",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/22",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/23",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/24",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/25",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/26",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/27",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/28",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/29",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/30",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/31",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/32",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/33",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/34",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/35",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/36",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/37",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/38",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/39",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/40",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/41",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/42",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/43",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/44",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/45",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/46",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/47",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/48",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/49",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/50",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/0",
+  "value" : "觀星信徒說翼族是最頂層的種族，但是你似乎沒那麼弱嘛"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/1",
+  "value" : "鮫族也許不讚同戰爭，但是我們翼族的每場戰鬥都是為庫魯克斯而戰的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/2",
+  "value" : "你信奉庫魯克斯嗎，水中人？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/3",
+  "value" : "我不覺得庫魯克斯會喜歡你們的和平主義"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/4",
+  "value" : "鮫族是水中生物，我們翼族是天空的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/5",
+  "value" : "你們的人被譽為精神種族，但是你們卻沒有神明……我很困惑"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/6",
+  "value" : "你應該看看翼撰史詩！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/7",
+  "value" : "我不覺得鮫族的建築比得上我們的神殿和通天塔"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/8",
+  "value" : "沒有羽毛的人，祝你們好運"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/9",
+  "value" : "我只讀過一本書：翼撰史詩。不過我讀過很多遍"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/10",
+  "value" : "祝福你，願你找到力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/11",
+  "value" : "你去過通天塔探險嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/12",
+  "value" : "所謂的和平主義真是個有趣的概念"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/13",
+  "value" : "我覺得鮫族似乎不喜歡獻祭……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/14",
+  "value" : "你知道翼撰史詩有多少章節嗎？數也數不清"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/38",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/49",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/0",
+  "value" : "哦，你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/1",
+  "value" : "你有靈魂嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/2",
+  "value" : "你不適合被獻祭，只會把祭壇弄得油油的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/3",
+  "value" : "你信奉庫魯克斯嗎，金屬人？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/4",
+  "value" : "機器人有任何神明的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/5",
+  "value" : "機器人能否皈依庫魯克斯？我該去問問觀星信徒"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/6",
+  "value" : "如果機器人跳下通天塔，它肯定飛不起來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/7",
+  "value" : "你很強大！我覺得你會是個很好的戰士"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/8",
+  "value" : "你見過觀星信徒嗎？我不確定他們會如何看待你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/9",
+  "value" : "你信奉庫魯克斯的話，也許他會賜予你靈魂？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/10",
+  "value" : "翼撰史詩沒有提到機器人……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/11",
+  "value" : "你讓我感覺有點不安——創造你的人試圖扮演上帝"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/12",
+  "value" : "不知道你能否皈依庫魯克斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/13",
+  "value" : "你應該打造一些金屬翅膀……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/14",
+  "value" : "願庫魯克斯照亮你的路途，金屬人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/38",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/49",
+  "value" : "日安"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/0",
+  "value" : "一個來自天堂的存在？！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/1",
+  "value" : "庫魯克斯的光呀！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/2",
+  "value" : "是庫魯克斯派你下凡的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/3",
+  "value" : "你像羽翼水晶一般光亮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/4",
+  "value" : "你一定是庫魯克斯的創造！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/5",
+  "value" : "必須告訴觀星信徒們！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/6",
+  "value" : "你好美麗啊！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/7",
+  "value" : "一個光之戰士，一定是庫魯克斯派來的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/8",
+  "value" : "你是個星之子對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/9",
+  "value" : "這麼光亮，你一定是來自天堂！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/10",
+  "value" : "一個會發光的人，一定是庫魯克斯派來的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/11",
+  "value" : "你全身充滿著聖光！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/12",
+  "value" : "你一定是庫魯克斯的傑作"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/13",
+  "value" : "謝天謝庫魯克斯，一個美麗的天堂人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/14",
+  "value" : "很榮幸認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/15",
+  "value" : "庫魯克斯與你同在"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/16",
+  "value" : "一位友善的陌生人！謝天謝庫魯克斯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/17",
+  "value" : "庫魯克斯保佑你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/18",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/19",
+  "value" : "歡迎來到我們的村莊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/20",
+  "value" : "你見過觀星信徒？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/21",
+  "value" : "願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/22",
+  "value" : "很高興認識你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/23",
+  "value" : "願你的生命充滿著光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/24",
+  "value" : "祝福你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/25",
+  "value" : "願你昇天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/26",
+  "value" : "你好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/27",
+  "value" : "你好嗎"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/28",
+  "value" : "歡迎到來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/29",
+  "value" : "庫魯克斯指引你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/30",
+  "value" : "願你找到庫魯克斯的光"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/31",
+  "value" : "我的羽翼之星呀，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/32",
+  "value" : "別擔心，這不是獻祭之時"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/33",
+  "value" : "庫魯克斯的翅膀呀！是一位外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/34",
+  "value" : "願庫魯克斯帶你飛上天"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/35",
+  "value" : "願庫魯克斯讓你變強壯"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/36",
+  "value" : "願庫魯克斯指引你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/37",
+  "value" : "願強大的庫魯克斯保護你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/38",
+  "value" : "很高興見到你，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/39",
+  "value" : "讓庫魯克斯指引你的旅程"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/40",
+  "value" : "願庫魯克斯賜予你力量"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/41",
+  "value" : "願你昇天到庫魯克斯的身旁"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/42",
+  "value" : "願你行走在庫魯克斯的光亮下"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/43",
+  "value" : "嗨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/44",
+  "value" : "高興遇見你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/45",
+  "value" : "和你相識非常榮幸"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/46",
+  "value" : "你好，旅者"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/47",
+  "value" : "願你擁有美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/48",
+  "value" : "哦，你好啊"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/novakid/49",
+  "value" : "日安"
+} ]

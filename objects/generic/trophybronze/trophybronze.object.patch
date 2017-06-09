@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牌子上寫著\"不是所有金子都會閃閃發光。獎勵英雄般的勝利。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "戰士的獎品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這是個很小但很不錯的獎品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這個小獎品看起來很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個小獎品，由於做了什麼了不起的事而獲得"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/clear/caption",
+  "value" : "拿走全部"
+}, {
+  "op" : "replace",
+  "path" : "/gui/count/value",
+  "value" : "9格"
+} ]

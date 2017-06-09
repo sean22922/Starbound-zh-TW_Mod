@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於執行正義的手套"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "行刑者的手套"
+} ]

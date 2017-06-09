@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由岩石製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "岩石箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個由普通的石頭打造的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很普通的箱子，但是可能內含財富"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "似乎是存放東西的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這是個偽裝得很自然的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我差點以為它只是塊石頭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是個簡單的箱子，但是足以勝任它的用途"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "蓋子很沉重"
+} ]

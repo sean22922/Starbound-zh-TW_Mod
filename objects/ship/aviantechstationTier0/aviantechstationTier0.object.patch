@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "飛船人工智慧，或者叫S.A.I.L"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "當它開始運作時，我就可以通過控制台和SAIL對話了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "重啓工作站可以讓我和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人修復好這個控制板來講飛船喚醒！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望，我得先重啓工作站才能和SAIL對話"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我要是能重啓這個工作站，SAIL就能重新上線了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我可以通過控制台和SAIL對話。但我需要先重啓一下"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是時候重啓工作站，我才能和SAIL對話"
+} ]

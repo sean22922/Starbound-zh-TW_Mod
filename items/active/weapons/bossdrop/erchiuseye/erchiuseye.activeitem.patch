@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "榮耀的切爾斯之眼！瞄準你的敵人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "切爾斯之眼"
+} ]

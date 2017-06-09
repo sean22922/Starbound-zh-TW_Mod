@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "晶體嵌在表面的金門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶金門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "門上的晶體嗡嗡響，好像在給它提供電力。不知道是什麼科技"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些門散發出水晶的裝飾風格"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人看到這種閃亮的門很開心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這扇門的能量源已經超乎我們的認知"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "門上的晶體很溫暖。它在我的手指下輕輕地發出聲響"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雕刻精細的石頭門，上面還嵌著水晶"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我沒見過這麼閃亮的門"
+} ]

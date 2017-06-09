@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這對黑色的羽翼看上去十分邪惡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "惡魔之翼"
+} ]

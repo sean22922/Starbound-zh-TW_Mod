@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "neonmelon", "count" : 1 },
-    { "item" : "sugar", "count" : 1 }
-  ],
-  "output" : { "item" : "neonmelonjam", "count" : 1 },
-  "groups" : [ "craftingfood", "condiments" ],
-  "collectables" : { "cooking" : "neonmelonjam" }
-}

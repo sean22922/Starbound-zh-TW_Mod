@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵腐爛的恐怖之花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腐爛的花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "非常可怕的味道，難道是這朵花嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這朵花的味道真是糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "臭臭的花"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這朵花的味道好可怕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這朵花的味道太可怕了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是一朵可怕的花，一股腐臭味"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "哇！這朵花的味道真臭"
+} ]

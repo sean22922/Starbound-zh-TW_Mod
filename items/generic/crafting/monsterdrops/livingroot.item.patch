@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "進化過的植物碎片，可用作打造材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "活根"
+} ]

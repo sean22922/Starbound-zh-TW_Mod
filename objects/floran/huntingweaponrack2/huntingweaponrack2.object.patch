@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個葉族武器架。所有的武器都消失了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空置的武器架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個武器架，但是卻完全空置"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看來這個架子是用來擺放武器的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "空置的狩獵武器架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "假設。按照尺寸來看，這個架子可能使用來置放長矛的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個長矛架，只是一根長矛都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來存放葉族原始武器的架子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個架子是用來存放長矛的，不知道適合放步槍否？"
+} ]

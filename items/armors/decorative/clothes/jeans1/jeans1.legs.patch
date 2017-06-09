@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非常緊身的牛仔褲，專為追求時尚的太空人設計的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "緊身牛仔褲"
+} ]

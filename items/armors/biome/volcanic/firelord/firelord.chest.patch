@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件胸甲據說是由強大的生物在死星的核心內鍛造而成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火焰領主的胸甲"
+} ]

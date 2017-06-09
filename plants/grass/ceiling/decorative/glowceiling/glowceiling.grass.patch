@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發光的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。發光的植物"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張破舊不堪，滿是灰塵的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滿是灰塵的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老舊而破爛，但是或許足夠使用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張牀，牀單是草鋪成的。我可以習慣的！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以在這裡面睡得很好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個傢俱原本就如此凌亂嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "它看起來古老而乾燥。把它放在火邊會很令人緊張"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在這種悲慘的條件下睡覺會很不舒適"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一點點鏽害不了人"
+} ]

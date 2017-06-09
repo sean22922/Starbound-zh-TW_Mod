@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichi/greet/default/default/0",
+  "value" : "你在這裡！你做到了！你打敗了那些斗篷惡棍！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichi/greet/default/default/1",
+  "value" : "所以你也是為這個小玩意來的？真有趣……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichi/giveRelic/default/default/0",
+  "value" : "我覺得將它委託給你是最好的——作為你為人正直的回報。它在這裡絕對不安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichi/giveRelic/default/default/1",
+  "value" : "但是，呃……我能和你一起走嗎？這東西，這件工藝品——我想知道更多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/koichi/end/default/default/0",
+  "value" : "一位偉大的思想家教育我們\"經驗乃智慧之母\"，我要變得超級有智慧了！"
+} ]

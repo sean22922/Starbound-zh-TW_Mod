@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用來關押葉族囚犯的懸掛牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "懸掛木質牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個堅固的懸掛囚犯牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個雄偉的牢籠。安裝在牆壁上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族可以一腳踢破這個牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。這個牢籠竟然堅固得可以被懸掛著"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個牢籠讓人沒多少移動空間"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我肯定葉族囚犯很難從這個牢籠中逃走"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個高高懸掛的結實牢籠"
+} ]

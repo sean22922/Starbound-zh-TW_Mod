@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵巨大的毒花，可以把光轉化成能量。為什麼不戴在身上呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒花背包"
+} ]

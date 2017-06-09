@@ -1,9 +1,0 @@
-{
-  "name" : "pcodhead",
-  "category" : "fish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "pcodhead.png"
-  }
-}

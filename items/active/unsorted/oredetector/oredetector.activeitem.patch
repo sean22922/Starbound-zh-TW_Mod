@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發出脈衝來分析周邊材料的組成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "礦石探測器"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

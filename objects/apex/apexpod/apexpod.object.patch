@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來這裡有一個猿人，連著許多電線和管子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生命維持艙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老天爺…他們做了什麼？我想釋放他們但他們好像連著生命補給"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是多麼巨大的一個過程？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "湯！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嚇到了。怎麼回事？！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這裡到底發生了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "卑賤的靈魂…"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我覺得不對勁"
+} ]

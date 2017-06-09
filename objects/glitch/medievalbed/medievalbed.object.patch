@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張結實的牀，牀單是絲質的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "牀很硬，不過牀單是絲製的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "牀單摸起來非常柔軟，很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很喜歡絲製的觸感"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。機器人牀單十分絲滑，我們的金屬皮膚不會將其磨損"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "絲製的牀單，在粗糙的牀上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很好的絲製牀單。神人能很好利用絲製品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "優質的牀單不能代表優質的牀"
+} ]

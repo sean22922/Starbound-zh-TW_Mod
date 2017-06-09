@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個掃描眼球的設備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼球掃描器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個眼球掃描器。看起來認不出猿人的眼球"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "掃描人類眼球的儀器，但出於什麼目的啊？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機器想要掃描眼球。葉族人拒絕！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。只要經過正確調校，電子人能騙過這個掃描器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "眼球掃描器。有人在眼球邊上塗墨水。你們這些搞笑的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個眼球掃描器。對於鮫族來說這種設備很討厭。我們的腦袋形狀不合適"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "眼球掃描器？不知道我能拿來幹嘛"
+} ]

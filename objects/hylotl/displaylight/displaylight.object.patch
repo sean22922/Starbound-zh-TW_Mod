@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "照亮展覽物品的定向燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "定向燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是個燈，它的唯一作用是指著那個東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我應該去看看那個燈指向哪裡，或許會更有趣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "亮光照在美麗的物體上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謙虛。這道光在認真的執行自己的目標"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我更在意那道光指的是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這道光照亮的東西更加吸引我"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這道光到底指的是什麼？"
+} ]

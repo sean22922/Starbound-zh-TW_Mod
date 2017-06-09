@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "平台廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個破解覆滿灰塵的木質平台。看上去已經支離破碎了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警覺。這個老舊的木質平台結構已經不牢靠了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人證明著東西腐壞而且危險"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我最好還是小心點，這個老舊平台隨時感覺要壞"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為太空旅行者準備的舒適衣著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "正規馬甲"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些長袍是鮫族人僧侶穿的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "僧衣"
+} ]

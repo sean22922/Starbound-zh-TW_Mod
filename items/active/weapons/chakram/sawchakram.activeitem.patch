@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "伐木僧最愛的武器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋸齒輪刃"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種標記出了在哪結賬的標示"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "結賬標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不是排隊的粉絲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那個符號標記店鋪的收銀台開始的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "他們覺得葉族人會為了個愚蠢的標示一直等嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "生氣。我不喜歡排長隊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這長隊是要一路排到太空去，是吧？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "結賬隊列最前面的標示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我是不是要站在這裡面燈？我幹嘛要站在這裡？"
+} ]

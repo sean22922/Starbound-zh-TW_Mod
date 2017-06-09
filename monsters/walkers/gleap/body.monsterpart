@@ -1,9 +1,0 @@
-{
-  "name" : "gleap",
-  "category" : "gleap",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "gleap.png"
-  }
-}

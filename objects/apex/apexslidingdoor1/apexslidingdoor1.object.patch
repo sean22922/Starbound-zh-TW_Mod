@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "輕型推拉門，廣告上說它更纖薄，更快，也更貴"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輕推拉門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些門是用來隱藏祕密的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼新奇的建築血"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "門的聲音和毒蛇一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "幽默：隨著滑行的聲音在我的電路裡發出了火花"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些滑門發出了令人滿意的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門看起來沒有鎖和把手"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "令人印象深刻的門廊。這些肯定不便宜"
+} ]

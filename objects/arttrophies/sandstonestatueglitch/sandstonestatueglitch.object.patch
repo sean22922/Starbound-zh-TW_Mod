@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個砂石猿人。沒有知覺"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿人砂石雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個電子人。我決定這些傢夥都長的一個樣"
+}, {
+  "op" : "replace",
+  "path" : "/genericDescription",
+  "value" : "一個電子人雕塑。我好奇他是不是一個大人物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石、石頭做成的大鐵人。葉族覺得大鐵人看起來很愚、愚蠢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這座雕像描繪了第一個機器人模型，這個模型出現在他們自我覺醒之前"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直想要一個電子人夥伴。除此之外我就最想要這個雕像了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個電子人。他們的人造外殼總是不夠協調"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "現在誰要去用砂岩造一個金屬人？"
+} ]

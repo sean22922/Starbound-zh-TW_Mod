@@ -1,9 +1,0 @@
-{
-  "name" : "polarmoth",
-  "category" : "polarmoth",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "polarmoth.png"
-  }
-}

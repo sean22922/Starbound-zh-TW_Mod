@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有些人說用維奧合金打造的護腿會給使用者帶來神話般的速度。還有人說這一切都是子虛烏有"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳凰護腿甲"
+} ]

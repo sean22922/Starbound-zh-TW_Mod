@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝飾性的木輪子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "車輪子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個輪子，似乎是來自一輛舊馬車"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個木輪子。也許曾經是某輛車子的一部分？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不知道輪子有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。不知道它是否曾經安裝在一輛真正的車子上？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒料到一個陳舊的車輪子竟然也能當裝飾物，太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我不大確定這個輪子的用處。是用來當修飾物的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個車輪子——簡直是裝飾家居的必備物品！"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "敲碎椰子就是為了做這個，味道棒極了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "椰汁"
+} ]

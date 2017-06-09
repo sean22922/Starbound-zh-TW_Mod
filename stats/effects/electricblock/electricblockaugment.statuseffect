@@ -1,9 +1,0 @@
-{
-  "name" : "electricblockaugment",
-  "effectConfig" : {},
-  "defaultDuration" : 60,
-
-  "scripts" : [
-    "electricblock.lua"
-  ]
-}

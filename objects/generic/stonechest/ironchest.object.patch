@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "基礎型金屬箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一口箱子！看看裡面有什麼東東"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種箱子一般會放有寶物。我好激動啊！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箱子！葉族人一定要查看一下！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "猜測：裡面有什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一口箱子！來打開它看看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一口沒有打開的箱子沒什麼可驚喜的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那麼——一個未開啓的箱子！我們來看看"
+} ]

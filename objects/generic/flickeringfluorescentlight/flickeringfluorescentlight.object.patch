@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個螢光燈見過更美好的時光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毀壞的螢光燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個燈只有一點點電力了，也許能修好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個燈差不多整個壞掉了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃爍的光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "螢光燈幾乎不能工作"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞破碎的燈微微閃著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燈光似乎不能正常工作"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這破燈的亮光連蠟燭都比不上"
+} ]

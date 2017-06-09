@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "嘿，我是梅特戴普！我喜歡設計和灰色"
+} ]

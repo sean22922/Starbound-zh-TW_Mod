@@ -1,9 +1,0 @@
-{
-  "name" : "taroni",
-  "category" : "taroni",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "taroni.png"
-  }
-}

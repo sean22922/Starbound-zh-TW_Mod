@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些展示的斧子看起來很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "斧子展覽"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些裝飾性的斧子。看上去足夠鋒利，可以使用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看上去很殘暴的斧子。看上去確實很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚蠢！斧子不是掛在牆上的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吹噓。一把鋒利的斧子，是機器人的藝術品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "兩把短的，鋒利的斧子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人也能在武器中看到藝術價值"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "閃亮的展示物品。沒有什麼能媲美珍愛的舊物"
+} ]

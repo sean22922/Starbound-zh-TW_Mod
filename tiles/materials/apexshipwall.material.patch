@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "光滑金屬牆面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牆板"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這些可移動面板非常流暢和結實"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬面板超光滑牆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金屬面板"
+} ]

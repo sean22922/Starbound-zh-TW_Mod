@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "種在花盆裡的一簇晶洞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞花盆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這顆植物上的葉子其實是水晶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這棵植物就像石頭一樣硬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不明所以的植物和不明所以的植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這顆植物顛覆了我對晶洞形成機理的一切認識"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這顆植物蓋著綠色的小水晶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這顆非比尋常的石頭就像是一顆植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這顆植物正在往外吐水晶"
+} ]

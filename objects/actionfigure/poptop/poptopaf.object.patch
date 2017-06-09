@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"帕普踏普哼唱的聲音很優美，會迷惑它的獵物。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帕普踏普小雕像"
+} ]

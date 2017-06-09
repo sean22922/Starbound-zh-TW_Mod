@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個不知道什麼動物的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一個骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可能是植物人殺了它"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一個死去多時的骨頭"
+} ]

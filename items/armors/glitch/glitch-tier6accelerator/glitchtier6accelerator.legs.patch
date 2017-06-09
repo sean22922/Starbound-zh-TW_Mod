@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "軍團的護腿——強烈要求人們稱呼你的束腰帶為半裙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軍團士兵脛甲"
+} ]

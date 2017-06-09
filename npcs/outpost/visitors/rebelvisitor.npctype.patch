@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你看上去也無家可歸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我們也許在逃離迷你克諾格，但我從未覺得如此自由！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "迷你克諾格說我們是叛亂者，但我們是自由的戰士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "我們反叛軍為人民自由而戰，你為何而戰？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "時局艱難，但我們不能失去希望"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "我要與同盟一起打敗老大猿，打賭它也沒有很大"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "迷你克諾格讓多少反叛軍失去了家人朋友，不打倒他們，我們誓不罷休"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "我來這裡為反抗收集情報"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "我來這裡收集情報，你有沒有什麼情報可以幫助我們打敗老大猿？"
+} ]

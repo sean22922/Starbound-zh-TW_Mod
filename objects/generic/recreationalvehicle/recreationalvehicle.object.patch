@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一些鏽蝕的舊載具，已無法修復了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "旅遊車"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台古老的機器，曾經很時髦，但現在已損壞"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這機器真太難看了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞起來很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。壞了的旅行機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一些古老的損壞的載具，基本上是垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "古老的地面運輸工具，早就壞了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就像是一輛馬車，沒有馬，或者沒有車"
+} ]

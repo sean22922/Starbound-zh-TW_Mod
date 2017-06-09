@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "生鏽的板條箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "生鏽的儲物箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "注意。生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "只是個箱子，有點生鏽但還是完好的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個看上去已經生鏽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去生鏽的箱子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個粗糙繪製的頭骨。它看起來挺愉快"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塗鴉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來像是個人類的顱骨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個頭骨。這是個警告嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡這幅畫。很棒的藝術家"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。一個畫的很簡略的人類頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "又是一個驚人的街頭藝術"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個藝術家明顯很笨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個頭骨。是個警告……或者這裡有海盜！"
+} ]

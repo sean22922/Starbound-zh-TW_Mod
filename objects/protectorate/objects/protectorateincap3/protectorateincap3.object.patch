@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一位保護者……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者屍體"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不想看……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "天啊……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "真是悲傷……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太慘。我沒有言語了……"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我很抱歉……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我沒辦法看了……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不！這不可能發生"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "cream",
-  "category" : "petcat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "cream.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "fireevolution",
-  "category" : "firefluffalo",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

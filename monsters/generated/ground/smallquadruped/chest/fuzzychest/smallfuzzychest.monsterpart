@@ -1,9 +1,0 @@
-{
-  "name" : "smallfuzzychest",
-  "category" : "smallquadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "smallfuzzychest.png"
-  }
-}

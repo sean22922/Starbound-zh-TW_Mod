@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅描繪著庫魯克斯向他的追隨者賜禮的古老壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯賜禮壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這石頭上的壁畫講述的是翼族的神賜予他的信徒們恩賜"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這壁畫顯示庫魯克斯把恩賜留給了他最珍視的塵世信徒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族能跟石頭裡的鳥戰鬥，還能打敗他們"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個壁畫描繪的是庫魯克斯神明把寶藏留給他的信徒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張壁畫說的是翼族的神給他的信徒留下了禮物。神真是太好了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "翼族真相信有更高階的力量會給他們留禮物嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這圖畫說的就是有什麼人留下了禮物，或者是什麼東西留下的"
+} ]

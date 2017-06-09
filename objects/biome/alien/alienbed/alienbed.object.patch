@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "古怪的牀。它似乎是活著的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古怪的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想念家裡正常的牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個外星牀，這些是樹葉？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物牀！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可以，這牀會散發出…體熱？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這溫暖輕柔的觸感"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張設計獨特的牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個設計古怪的牀，當然"
+} ]

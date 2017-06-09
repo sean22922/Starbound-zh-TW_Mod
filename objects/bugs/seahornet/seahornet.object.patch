@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種蟲子的鼻子像海馬一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海黃蜂蟲"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個長滿藤蔓的木椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "叢生椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些藤蔓是長在椅子上還是被用來捆綁椅子？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看來大自然試圖征服這張椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "藤蔓加固椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這些藤蔓不會降低椅子的舒適度"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要麼這些藤蔓成長過快要麼是從沒有人砍過它們"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些藤蔓的型狀其實挺好看的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些藤蔓成長失控了"
+} ]

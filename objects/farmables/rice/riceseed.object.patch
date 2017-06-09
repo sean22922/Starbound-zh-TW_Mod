@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可煮，可炸，還能丟給老婆處理。稻米是每個廚房裡面都需要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "稻米種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "米飯對於任何飯來說都是好的補充"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "米飯，美味的食物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會用煮熟的心臟佐稻米"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。曾經有個機器人吃了一把沒經過料理的稻米，後來就變成了著名的打擊樂器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "稻米。適合用來填飽肚子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "稻米。味道很一般，但是是很基礎的糧食"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "稻米還不錯，配上辣椒特別好吃！"
+} ]

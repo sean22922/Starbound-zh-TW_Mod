@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株塑膠植物。不是一棵樹"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塑膠植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這株植物不是真的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一株假的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人戳假冒植物！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不確定。不知道是真的植物好呢，還是假的好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "覺得像是候診室的那種感覺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真噁心，是塑膠植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一株假的植物。很自然，但是沒有機能"
+} ]

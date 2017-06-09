@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這扇大鐵吊閘砰地一聲關上了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大吊閘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我討厭金屬條和鐵鏈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "堅固的門，能擋住任何入侵者"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固的鐵門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。這地方讓我想起我被組裝的地方"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇吊閘，好像回到了過去！非常逼真"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門很不友好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那是一扇非常堅固的門"
+} ]

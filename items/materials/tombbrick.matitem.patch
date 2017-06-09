@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "墳墓磚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "覆滿灰塵的遠古磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。靠近觀察發現這些磚塊十分古老"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "覆滿灰塵的古老磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些覆滿灰塵的古老磚塊"
+} ]

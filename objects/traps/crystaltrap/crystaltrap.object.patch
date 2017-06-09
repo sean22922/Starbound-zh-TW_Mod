@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個水晶陷阱用來抵禦入侵者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻水晶陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個水晶能發射出致命的死亡光束"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我才不會被這光束抓到呢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "水晶光束弄傷了葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。產生致命光束的水晶，原來如此"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個光速看上去很致命"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我要是能記住水晶光束出現的模式，我就能依照此行動了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "最好小心點，不然就要被這些光束射成灰了"
+} ]

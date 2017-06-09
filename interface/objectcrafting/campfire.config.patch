@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/toggleCrafting/caption",
+  "value" : "製作"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblText/value",
+  "value" : "^#b9b5b2;請將一個或多個原料放入左槽"
+} ]

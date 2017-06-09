@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "製作化石挖掘工具和展示化石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;化石站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "化石站"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "化石刷子和展示台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以在這裡製作化石挖掘工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在這個站點可以製作挖掘化石的工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對於化石很好奇。就在這裡葉族人可以製作挖掘化石的工具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "天啊。這些工具可以挖掘出化石，我等不及想試試了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "化石修復工具太棒了。我們可以瞭解一下這些世界的歷史了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "製作化石清理裝置，窺視歷史"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我對過去的事情瞭解不多，但或許我們可以通過這些工具瞭解一些歷史"
+} ]

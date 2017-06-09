@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "復古風格的電視機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古電視"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個電視看上去好前衛，但是我小時候也有一台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我到現在為止到對擁有一台電視這種事不那麼感冒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個奇特的箱子裡有著很吵的畫面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。我喜歡這項技術"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "最終，電視和媒體一樣都過時了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "跟這個設備相關的一切都是稀奇古怪的。跟一本好書大不相同"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "外表光滑的陷阱探查"
+} ]

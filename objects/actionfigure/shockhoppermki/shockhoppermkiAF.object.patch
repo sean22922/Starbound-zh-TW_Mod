@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"實驗中的企鵝機械，揮舞著裝有火焰噴射器的手臂和氣動拳套。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Shockhopper MK I 小雕像"
+} ]

@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "製作鋒利的東西"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "^#b9b5b2;藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "^#b9b5b2;成品"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnCraft/caption",
+  "value" : "熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnStopCraft/caption",
+  "value" : "停止"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProduct/value",
+  "value" : "原料足夠"
+} ]

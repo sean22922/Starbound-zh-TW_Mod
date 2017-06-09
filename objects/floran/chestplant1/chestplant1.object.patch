@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個箱子使用植物做的，看起來還在生長"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型蔓生箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "箱子本身看起來很有機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這箱子是製造出來的還是自己長出來的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "只有葉族人的綠手指才知道要怎麼從土裡培育出一個箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：看起來這個植物是出於特殊目的而種植的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個箱子是長出來的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來葉族人已經學會了治理大自然以生長出所需要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "葉族人怎麼培育東西的？他們可以像定製傢俱一樣定製種子嗎？"
+} ]

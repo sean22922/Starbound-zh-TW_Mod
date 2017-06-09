@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "規則"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葉族狩獵的規則"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "狩獵的規則是:\n\n跟其他葉族競爭\n擊殺大獵物\n贏取閃亮的獎盃"
+} ]

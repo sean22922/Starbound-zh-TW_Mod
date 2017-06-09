@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用心建造的金屬平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "確信。這個金屬平台能夠承受很大的重量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡冷冰冰的金屬平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "閃亮的平台"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "諷刺的是，當我看著這個裝飾性太陽的時候，一股冷氣直接從我脊椎裡面冒了出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾性太陽"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個太陽徽章。看上去很重要"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人認為太陽是通往太空的門徑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人著火了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真令我驚訝。翼族人的信仰和那群機器人的一樣荒謬可笑"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "太陽對於翼族人來說是否有特殊的意義？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "你能想像從來沒有看過日出的感覺嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一名翼族人的臉上有個太陽，這是什麼意思？"
+} ]

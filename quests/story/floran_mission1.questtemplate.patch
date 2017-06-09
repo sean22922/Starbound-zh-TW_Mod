@@ -1,0 +1,165 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "尋找葉族神器的線索"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "現在你已經對掃描瞭如指掌了，^green;我們要開始尋找這些^orange;神器^white;了。是的，先去找葉族人的神器……他們的殖民地包含許多關鍵的^orange;線索^reset;，可以幫助我們尋找神器的下落。葉族人如今隨處可見，但還是偏好茂密的^orange;森林^white;植被地貌的行星，這樣的行星可以在^orange;溫和恆星^white;附近找到。祝你好運，謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你真的做到了！這就是我們所需的最後一條線索。我知道葉族的神器在哪了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "在^orange;森林行星^reset;找到^orange;葉族村莊^reset;並^green;掃描物品^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/championspeardisplay/text",
+  "value" : "傳統的葉族文化非常重視狩獵與獵人……這一點一定會對他們埋藏神器的地點產生影響"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranhunterpainting/text",
+  "value" : "這幅畫描繪了葉族的獵人，他們的裝束充滿了儀式感"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/ixolingpike/text",
+  "value" : "這生物不是此區域的原生物種——我會去查閱我的分類記錄，看看能不能找到它的起源以及重要性"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranspinneret/text",
+  "value" : "這個吐絲器異常得大——什麼樣的生物才能擁有這樣的器官呢？這一點非常有價值。我想……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/floranwebbing/text",
+  "value" : "這張粘粘的網無論是色澤還是質地都不太尋常。織出這張網的生物一定擁有獨一無二的特性，而且很可能只生存在特定環境中"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "嗯，有意思……我得深入挖掘一番"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/text",
+  "value" : "唔，到底……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/text",
+  "value" : "葉族人不太熱衷於歷史，但他們十分重視傳統。這有助於描繪一幅文化的繪卷"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/text",
+  "value" : "找到一條雖然隱晦但是很有價值的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/text",
+  "value" : "葉族文化有時混亂，有時又能達到自然的統一，這其中暴力佔據著支配地位"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/text",
+  "value" : "這樣一來，我之前的猜測就被證實了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/text",
+  "value" : "很有意思的發現！繼續找，目前為止你做得很好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/text",
+  "value" : "他們竟然覺得這樣的物品很珍貴，而且還用這種方式展現了出來，有意思"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/text",
+  "value" : "真是奇怪！但驚人的信息比意料之中的信息更加珍貴……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/text",
+  "value" : "每一條線索都幫助我們越來越接近真相！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "看來你找到的一些物品已經指向了神器的下落所在。我會儘快開始進行分析，你可以去搜尋更多的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "你還真是會收集葉族人的文物啊！你似乎已經掌握了足夠的線索，這樣我就可以找到神器的具體地點了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "太棒了——我終於知道神器的具體地點了！^#71f2f6;等你準備就緒了就回方舟來找我^white;"
+} ]

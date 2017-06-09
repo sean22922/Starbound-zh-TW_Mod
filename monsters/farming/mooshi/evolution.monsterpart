@@ -1,9 +1,0 @@
-{
-  "name" : "evolution",
-  "category" : "mooshi",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

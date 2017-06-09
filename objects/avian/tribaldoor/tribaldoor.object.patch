@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇精美裝飾的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "精美裝飾的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在圓臉生物上的一隻鳥"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些門上的圖案增進了與其他世界的友誼。我的家就是你的家"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鳥下蛋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "原來如此，這些門象徵著誰該進來誰不該進來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這底下是張幽靈般的臉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這雕刻著的是什麼生物？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇畫著圖的門。想傳達什麼意思呢》"
+} ]

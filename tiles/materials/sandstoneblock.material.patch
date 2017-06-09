@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用平滑的沙石製成的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙石磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感覺。這些磚塊用堅硬的沙石製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅硬的沙石磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用沙石製成的磚塊"
+} ]

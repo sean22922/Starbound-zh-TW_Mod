@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種新型生物複合體和基因信息的樣本"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生物樣本"
+} ]

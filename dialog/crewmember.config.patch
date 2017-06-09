@@ -1,0 +1,169 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "你問我，我可以回答你一句無可奉告"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/0",
+  "value" : "今天任務是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/1",
+  "value" : "到這兒來很不錯，我的小夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/2",
+  "value" : "這是真正的自由"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/0",
+  "value" : "我們今天的計劃是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/1",
+  "value" : "準備冒險！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/2",
+  "value" : "穿越星海，我靠的不是翅膀而是朋友的陪伴"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/3",
+  "value" : "下一個任務是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/0",
+  "value" : "葉族人喜歡在星星之間狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/1",
+  "value" : "葉族人很專業"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/2",
+  "value" : "葉族人希望馬上捅刺點什麼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/0",
+  "value" : "渴望。我今天有好多安排！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/1",
+  "value" : "激動。完成一些追求吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/2",
+  "value" : "激動，有這麼目標要去做"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/3",
+  "value" : "友好的。如果你靠近我你就會很安全"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/0",
+  "value" : "冒險喲嚯！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/1",
+  "value" : "穿越太空，遭遇不幸，這就是生活！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/2",
+  "value" : "太空船上的生活！還有什麼更激動人心的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/3",
+  "value" : "不要擔心，在我身邊你很安全"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/4",
+  "value" : "我們往前會遇到什麼？冒險，陰謀還是搶劫？不是搶劫吧？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/0",
+  "value" : "我們的未來正待書寫，我們的命運就在群星之中"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/1",
+  "value" : "戰爭中富有詩意。或許我能馬上吟誦出來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/2",
+  "value" : "沒有什麼比和朋友結伴而行更讓人放心了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/0",
+  "value" : "你好！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/1",
+  "value" : "你有一雙敏銳的眼睛。我們來場射擊比賽怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/2",
+  "value" : "我超想在槍戰中發射……希望我們合作愉快"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/3",
+  "value" : "我本質上是個遊走的靈魂。這個工作很適合我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/0",
+  "value" : "嘿，大個子！我會保證你的安全的，別擔心！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/1",
+  "value" : "還好吧？需要些保護？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/2",
+  "value" : "我是個地地道道的傭兵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/3",
+  "value" : "保護安全上沒有人像只企鵝，也沒有企鵝比我做得更好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/4",
+  "value" : "我價值我體重的黃金！事實上值你體重的金子！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/5",
+  "value" : "冒險！激情！金幣！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/6",
+  "value" : "隨你問誰，我值我這個價錢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/7",
+  "value" : "我的槍已經擦得鋥亮，準備好下一單活了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/8",
+  "value" : "我是職業高手"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/9",
+  "value" : "我就是典型的航空飛向企鵝傭兵"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/10",
+  "value" : "我是個老手，不用擔心我"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/11",
+  "value" : "沒有什麼比身邊有隻企鵝更安全了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/12",
+  "value" : "只要報酬高，我就很忠誠"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/13",
+  "value" : "我的父母以及他們的父母都是傭兵。我算出身名門"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/14",
+  "value" : "我的家族世代傭兵！你在我身邊絕對安全，毋庸置疑"
+} ]

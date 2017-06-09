@@ -1,9 +1,0 @@
-{
-  "name" : "smallnotail",
-  "category" : "smallbiped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallnotail.png"
-  }
-}

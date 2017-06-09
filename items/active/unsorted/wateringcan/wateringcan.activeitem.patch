@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用這種新潮的灑水壺給你的作物澆水吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灑水壺"
+} ]

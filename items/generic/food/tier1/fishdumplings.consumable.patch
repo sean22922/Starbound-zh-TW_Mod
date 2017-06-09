@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "魚餃子，蒸熟後味道很淡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魚餃子 "
+} ]

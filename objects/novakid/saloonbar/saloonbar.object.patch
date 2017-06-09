@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個優美的吧檯，以及三張凳子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雅座酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個酒吧的桌面被擦得閃閃發亮。毫無疑問是經常被使用的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一定有很多各種各樣的人來過這個酒吧！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族覺得酒吧是個很好的戰場……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厲害。這個酒吧經歷過長時間的使用，但依然閃閃發亮"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，坐在酒吧後面，見證著各種形色的人來來往往……真是一種獨特的生活體驗呀"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我肯定這個酒吧經歷過不少風風雨雨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個很帶感的酒吧。我很願意坐下來談笑風生"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "就在大氣層外發現的超硬石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "隕石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感覺。這個岩石來自外太空"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡天上來的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些太空來的石頭和地上這些不一樣"
+} ]

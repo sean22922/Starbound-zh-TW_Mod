@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個精銳的翼族戰士才會戴的浮誇的霓磷鹽頭飾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "孔雀頭飾"
+} ]

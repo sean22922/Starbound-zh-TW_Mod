@@ -1,0 +1,1485 @@
+[ {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/default/default/0",
+  "value" : "請把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/human/default/0",
+  "value" : "請把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/apex/default/0",
+  "value" : "請把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/avian/default/0",
+  "value" : "請幫我把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/floran/default/0",
+  "value" : "把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/glitch/default/0",
+  "value" : "感激。請把這封回信帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/share_secret/pleaseTakeReply/hylotl/default/0",
+  "value" : "你能把這封回信帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/default/default/0",
+  "value" : "別用那個<item>傷害我！告訴<questGiver>我什麼都願意做！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/human/default/0",
+  "value" : "別用那個<item>指著我！告訴<questGiver>我什麼都願意做！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/apex/default/0",
+  "value" : "別用那個<item>傷害我！告訴<questGiver>我會服從的！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/avian/default/0",
+  "value" : "別用那個<item>傷害我！告訴<questGiver>我什麼都願意做！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/floran/default/0",
+  "value" : "別用那個<item>傷害葉族人！告訴<questGiver>葉族人會服從的！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/glitch/default/0",
+  "value" : "驚慌。別用那個<item>傷害我！告訴<questGiver> 我什麼都願意做！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/intimidated/hylotl/default/0",
+  "value" : "別用那個<item>傷害我！告訴<questGiver>我什麼都願意做！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/default/default/0",
+  "value" : "我為什麼要按<questGiver>的意思做事？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/human/default/0",
+  "value" : "我為什麼要按<questGiver>的意思做事？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/human/default/1",
+  "value" : "你嚇不到我，<questGiver>也不行！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/apex/default/0",
+  "value" : "<questGiver>派你來威脅我？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/apex/default/1",
+  "value" : "<questGiver>派你來威脅我？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/avian/default/0",
+  "value" : "我為什麼要按<questGiver>的意思做事？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/avian/default/1",
+  "value" : "我不怕<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/floran/default/0",
+  "value" : "葉族人不怕<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/floran/default/1",
+  "value" : "葉族人不怕你，也不怕<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/glitch/default/0",
+  "value" : "不怕。我為什麼要按<questGiver>的意思做事？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/glitch/default/1",
+  "value" : "困惑。你是替<questGiver>來威脅我的？"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/hylotl/default/0",
+  "value" : "<questGiver>不會讓我煩惱，你也不會"
+}, {
+  "op" : "replace",
+  "path" : "/intimidate/notIntimidated/hylotl/default/1",
+  "value" : "我為什麼要按<questGiver>的意思做事？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/default/default/0",
+  "value" : "這是在賄賂我嗎？管他呢……請替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/human/default/0",
+  "value" : "這是在賄賂我嗎？管他呢……請替我謝謝<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/human/default/1",
+  "value" : "這是在行賄嗎？很好！請替我謝謝<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/human/default/2",
+  "value" : "被賄賂感覺很好！請替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/apex/default/0",
+  "value" : "我很確定我被賄賂了，請替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/apex/default/1",
+  "value" : "這是來自<questGiver>的禮物？還是說這是在賄賂我？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/avian/default/0",
+  "value" : "<questGiver>也許是想賄賂我，不管怎樣，我很感激！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/avian/default/1",
+  "value" : "<questGiver>也許是想博得我的歡心，這舉動很不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/floran/default/0",
+  "value" : "葉族人不介意被賄賂。替我謝謝<questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/floran/default/1",
+  "value" : "葉族人喜歡受賄。替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/glitch/default/0",
+  "value" : "高興。賄賂！替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/glitch/default/1",
+  "value" : "感動。替我謝謝<questGiver>的禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/hylotl/default/0",
+  "value" : "我的忠心受到了影響！替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted/hylotl/default/1",
+  "value" : "禮物是有效的說服方式！替我謝謝<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/default/default/0",
+  "value" : "我在想 <questGiver>想從我這裡獲得些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/human/default/0",
+  "value" : "我在想 <questGiver>想從我這裡獲得些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/apex/default/0",
+  "value" : "我在想 <questGiver>想從我這裡獲得些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/avian/default/0",
+  "value" : "我在想 <questGiver>想從我這裡獲得些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/floran/default/0",
+  "value" : "葉族人想知道 <questGiver>想要些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/glitch/default/0",
+  "value" : "好奇。 <questGiver>想從我這裡獲得些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/glitch/default/1",
+  "value" : "擔心。為什麼<questGiver>想賄賂我？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/giftAccepted2/hylotl/default/0",
+  "value" : "我在想 <questGiver>想從我這裡獲得些什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/default/default/0",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/human/default/0",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/human/default/1",
+  "value" : "多好的禮物啊！你可以把它放在我家裡，好讓我能夠炫耀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/apex/default/0",
+  "value" : "真是個慷慨的禮物——或許應該把它放在我家裡？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/apex/default/1",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/avian/default/0",
+  "value" : "多好的禮物啊！你能把它放在我家裡，好讓我隨時可以享受嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/avian/default/1",
+  "value" : "多好的禮物啊！你能把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/floran/default/0",
+  "value" : "葉族人喜歡禮物！你能把它放在葉族人的家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/floran/default/1",
+  "value" : "葉族人最適合禮物了！你能把它放在葉族人的家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/glitch/default/0",
+  "value" : "愉悅。多棒的禮物啊！或許你能幫我把它放在我家裡？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/glitch/default/1",
+  "value" : "感謝。這禮物很好，我應該去炫耀一下。你能把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/hylotl/default/0",
+  "value" : "送給我這種禮物，你真好！你能幫我把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/hylotl/default/1",
+  "value" : "這禮物真是精美。你能幫我把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/novakid/default/0",
+  "value" : "我的天，這禮物太棒了！能幫我放到家裡去嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/bribe/requestAdditionToHouse/novakid/default/1",
+  "value" : "這禮物真是太有心了！能不能幫我放到家裡去？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/default/default/0",
+  "value" : "哇哦！請幫我感謝 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/human/default/0",
+  "value" : "哇哦！請幫我感謝 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/human/default/1",
+  "value" : "真好！請幫我感謝 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/apex/default/0",
+  "value" : " <questGiver> 真好。請幫我感謝他們"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/apex/default/1",
+  "value" : "請告訴 <questGiver> ，這禮物讓我非常高興"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/avian/default/0",
+  "value" : "請幫我感謝 <questGiver> 給我的這個禮物"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/avian/default/1",
+  "value" : "他人真好。請幫我感謝 <questGiver> "
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/floran/default/0",
+  "value" : "葉族人喜歡禮物！幫葉族人告訴 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/floran/default/1",
+  "value" : "給葉族人的禮物！請幫葉族人感謝 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/glitch/default/0",
+  "value" : "感激。請代我感謝 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/glitch/default/1",
+  "value" : "高興。告訴 <questGiver> 我很喜歡他們給的禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/hylotl/default/0",
+  "value" : " <questGiver> 有顆善良的心！請幫我告訴他們！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/hylotl/default/1",
+  "value" : "一個禮物！我應該感謝 <questGiver> "
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/novakid/default/0",
+  "value" : "<questGiver>可是個好朋友！下次見到他，別忘了替我致謝哦，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted/novakid/default/1",
+  "value" : "這禮物太棒了！能幫我向<questGiver>致謝嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/default/default/0",
+  "value" : " <questGiver> 是個好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/human/default/0",
+  "value" : " <questGiver> 真好！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/human/default/1",
+  "value" : " <questGiver> 是個好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/apex/default/0",
+  "value" : " <questGiver> 顯然是值得信任的"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/apex/default/1",
+  "value" : " <questGiver> 是我的好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/avian/default/0",
+  "value" : " <questGiver> 是個好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/avian/default/1",
+  "value" : " <questGiver> 是個好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/floran/default/0",
+  "value" : "葉族人喜歡 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/floran/default/1",
+  "value" : "葉族人決定把 <questGiver> 當作好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/glitch/default/0",
+  "value" : "愉悅。 <questGiver> 是個好朋友"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/glitch/default/1",
+  "value" : "高興。 <questGiver> 是個好人"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/hylotl/default/0",
+  "value" : " <questGiver> 贏得了我真摯的友誼"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/hylotl/default/1",
+  "value" : " <questGiver> 獲得了我的信任"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/novakid/default/0",
+  "value" : "<questGiver>真是個好朋友！值得人尊敬啊！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/giftAccepted2/novakid/default/1",
+  "value" : "這禮物太棒了！<questGiver>已經贏得了我的信任！"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/default/default/0",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/human/default/0",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/human/default/1",
+  "value" : "多好的禮物啊！你可以把它放在我家裡，好讓我能夠炫耀嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/apex/default/0",
+  "value" : "真是個慷慨的禮物——或許應該把它放在我家裡"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/apex/default/1",
+  "value" : "這禮物放在我家裡一定很不錯。你能幫我把它放在那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/avian/default/0",
+  "value" : "多好的禮物啊！你能把它放在我家裡，好讓我隨時可以享受嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/avian/default/1",
+  "value" : "多好的禮物啊！你能把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/floran/default/0",
+  "value" : "葉族人喜歡禮物！你能把它放在葉族人的家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/floran/default/1",
+  "value" : "葉族人最適合禮物了！你能把它放在葉族人的家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/glitch/default/0",
+  "value" : "愉悅。多棒的禮物啊！或許你能幫我把它放在我家裡？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/glitch/default/1",
+  "value" : "感謝。這禮物很好，我應該去炫耀一下。你能把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/hylotl/default/0",
+  "value" : "送給我這種禮物，你真好！你能幫我把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/hylotl/default/1",
+  "value" : "這禮物真是精美。你能幫我把它放在我家裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/novakid/default/0",
+  "value" : "我的天，這禮物太棒了！能幫我放到家裡去嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/gift/requestAdditionToHouse/novakid/default/1",
+  "value" : "這禮物真是太有心了！能不能幫我放到家裡去？"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/default/default/0",
+  "value" : "我向你保證，那個<item>是合法得來的！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/human/default/0",
+  "value" : "我向你保證，那個<item>是合法得來的！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/human/default/1",
+  "value" : "好吧。拿著<item>——我不需要它了！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/apex/default/0",
+  "value" : "好吧，把<item>拿回去——別給我惹麻煩！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/apex/default/1",
+  "value" : "那個<item>是合法得來的——我發誓！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/avian/default/0",
+  "value" : "我是求得允許後借來的那個<item>，不是偷的！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/floran/default/0",
+  "value" : "你可以拿回那個<item>，別給葉族人惹麻煩！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/glitch/default/0",
+  "value" : "緊張。我不知道那個<item>怎麼會在這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/glitch/default/1",
+  "value" : "擔心。那個<item>不是偷來的，只是看起來是那樣而已！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/hylotl/default/0",
+  "value" : "我沒偷那個<item>，我只是借來的"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/hylotl/default/1",
+  "value" : "<item>是光明正大拿來的，我向你發誓！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/novakid/default/0",
+  "value" : "跟你說吧，我完全不知道這<item>是哪兒來的！"
+}, {
+  "op" : "replace",
+  "path" : "/return_stolen/objectTaken/novakid/default/1",
+  "value" : "這<item>是我打牌贏來的！是我的！真的！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/default/default/0",
+  "value" : "好吧，好吧，我會付罰款的。別對我太苛刻了！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/human/default/0",
+  "value" : "好吧，好吧，我會付罰款的。別對我太苛刻了！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/human/default/1",
+  "value" : "你抓住我了！我會乖乖的"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/apex/default/0",
+  "value" : "好吧，我會付錢的。別告訴迷你克諾格這件事！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/apex/default/1",
+  "value" : "你逮到我了——我會付罰款的。別把事鬧大"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/avian/default/0",
+  "value" : "沒必要繼續羞辱我了。我決定付錢了！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/floran/default/0",
+  "value" : "葉族人被逮住了，所以葉族人會付罰款"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/floran/default/1",
+  "value" : "你逮到葉族人了！葉族人會付罰款的"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/glitch/default/0",
+  "value" : "被打敗了。我會付罰款的，我可不想惹上更大的麻煩！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/glitch/default/1",
+  "value" : "生氣。我會付罰款的——狡辯又有什麼用？"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/hylotl/default/0",
+  "value" : "我會付罰款的！沒必要再把事鬧大了"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/hylotl/default/1",
+  "value" : "冷靜點！我會付罰款的！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/novakid/default/0",
+  "value" : "我可不是流氓。我會給你個好價錢的"
+}, {
+  "op" : "replace",
+  "path" : "/collect_fine/fineCollected/novakid/default/1",
+  "value" : "好吧，好吧！你贏了！我掏錢！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/default/default/0",
+  "value" : "拿著！一個 <item>，給<questGiver>的！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/human/default/0",
+  "value" : "拿著！一個 <item>，給<questGiver>的！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/human/default/1",
+  "value" : "這是你需要的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/apex/default/0",
+  "value" : "這是你需要的<item>，希望合你要求"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/apex/default/1",
+  "value" : "這是<questGiver>需要的<item>"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/avian/default/0",
+  "value" : "這是<item>，希望能符合<questGiver>的需求"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/avian/default/1",
+  "value" : "這就是<questGiver>需要的<item>，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/floran/default/0",
+  "value" : "這是<item>，幫我拿給 <questGiver>！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/floran/default/1",
+  "value" : "這是給<questGiver>的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/glitch/default/0",
+  "value" : "開心，希望<questGiver>能喜歡他們的新<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/glitch/default/1",
+  "value" : "友好。請把這個<item>拿給<questGiver>——希望他們能喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/hylotl/default/0",
+  "value" : "這是<item>——希望它能讓<questGiver>開心"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/hylotl/default/1",
+  "value" : "我希望這個<item>能給你和<questGiver>帶來安寧"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/novakid/default/0",
+  "value" : "這個<item>——是給<questGiver>的！"
+}, {
+  "op" : "replace",
+  "path" : "/collect_gift/giftProvided/novakid/default/1",
+  "value" : "這就是那個<item>。有時間就去交給<questGiver>吧"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/default/default/0",
+  "value" : "這是我之前做的！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/human/default/0",
+  "value" : "這是你讓我做的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/human/default/1",
+  "value" : "這是我之前做的！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/apex/default/0",
+  "value" : "你需要我做點東西？一個<item>，馬上好"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/apex/default/1",
+  "value" : "這是你讓我給你做的<item>"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/avian/default/0",
+  "value" : "這是你讓我做的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/avian/default/1",
+  "value" : "<item>？這兒，我已經做了一個。拿去吧"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/floran/default/0",
+  "value" : "葉族人為你做了這個<item>，如你所需！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/floran/default/1",
+  "value" : "這是你讓葉族人做的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/glitch/default/0",
+  "value" : "慷慨。你走運了——我之前剛剛做了這個<item>。拿著吧"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/glitch/default/1",
+  "value" : "高效。我已經做好了<item>——請拿著吧"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/hylotl/default/0",
+  "value" : "我如你所需做了<item>——用真正的蛟族技能做的"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/hylotl/default/1",
+  "value" : "<item>？我可以給你做一個。來吧，拿著"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/novakid/default/0",
+  "value" : "你想要我做的這個<item>？那就拿去吧！"
+}, {
+  "op" : "replace",
+  "path" : "/request_craft/giftProvided/novakid/default/1",
+  "value" : "你還真是走運吶，我之前做了這個<item>，你儘管拿去吧"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/default/default/0",
+  "value" : "好吧， <questGiver>可以借我的<item>"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/human/default/0",
+  "value" : "好吧， <questGiver>可以借我的<item>。最後你會把它拿回來的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/human/default/1",
+  "value" : "當然，我可以把我的<item>借給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/apex/default/0",
+  "value" : "這是<questGiver>想要借的<item> 。我想我是拿不回來了"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/apex/default/1",
+  "value" : "<questGiver>可以借走我的<item>，我只希望還能拿回來……"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/avian/default/0",
+  "value" : "我不介意把我的<item>借給<questGiver>，只要他們最後能還回來！"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/avian/default/1",
+  "value" : "<questGiver>可以借走我的<item>，只要完事後能還回來就行"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/floran/default/0",
+  "value" : "葉族人可以借給<questGiver><item>，只要能拿回來就好"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/floran/default/1",
+  "value" : "這是給<questGiver>的<item>，葉族人不介意借出它"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/glitch/default/0",
+  "value" : "合理。這是我的<item>——告訴<questGiver>快點還回來"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/glitch/default/1",
+  "value" : "友好。請把這個<item>拿給<questGiver>——希望他們能喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/hylotl/default/0",
+  "value" : "我很樂意把我的<item>借給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/hylotl/default/1",
+  "value" : "<questGiver>如果需要的話，可以借走我的<item>！"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/novakid/default/0",
+  "value" : "嗯，當然可以讓<questGiver>借走我的<item>"
+}, {
+  "op" : "replace",
+  "path" : "/borrow/giftProvided/novakid/default/1",
+  "value" : "<questGiver>想借走我的<item>？可以！別太久就行！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/default/default/0",
+  "value" : "拿，拿走我的<item>吧，別，別傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/human/default/0",
+  "value" : "拿，拿走我的<item>吧，別，別傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/human/default/1",
+  "value" : "<questGiver>可以拿走我的<item>，只要別傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/apex/default/0",
+  "value" : "搶劫對我而言還是挺新鮮的事。拿著我的<item>吧"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/apex/default/1",
+  "value" : "拿著<item>吧——我更關心自己的安全"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/avian/default/0",
+  "value" : "沒必要威脅我！拿著我的<item>吧！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/avian/default/1",
+  "value" : "別折磨我了，拿著我的<item>吧！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/floran/default/0",
+  "value" : "葉族人現在不想打架！拿著<item>吧"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/floran/default/1",
+  "value" : "好吧！葉族人會幫助<questGiver>的！拿走葉族人的<item>吧！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/glitch/default/0",
+  "value" : "害怕。我不想受傷！如果你需要的話就拿走<item>吧！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/glitch/default/1",
+  "value" : "害怕。拿走我的<item>吧！給 <questGiver> ！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/hylotl/default/0",
+  "value" : "拿走我的<item>，然後放過我吧，我求你了！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/hylotl/default/1",
+  "value" : "別嚇我了！需要的話你就拿走我的<item>好了！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/novakid/default/0",
+  "value" : "不用吵吵鬧鬧！要是對你來說這麼重要，我的<item>你就拿去吧！"
+}, {
+  "op" : "replace",
+  "path" : "/extort/giftProvided/novakid/default/1",
+  "value" : "這算是僵局嗎？！好吧，我可不想打架，我的<item>你拿去好了"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/default/default/0",
+  "value" : "哦，你有我們需要的東西？等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/human/default/0",
+  "value" : "哦，你有我們需要的東西？等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/human/default/1",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/apex/default/0",
+  "value" : "你弄到了材料？等一下，我只需要做一下這個……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/apex/default/1",
+  "value" : "感謝你幫我拿來材料——給我點時間我就能做好這個……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/avian/default/0",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/avian/default/1",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/floran/default/0",
+  "value" : "你給葉族人帶來了材料！葉族人現在就製作，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/floran/default/1",
+  "value" : "感謝你的東西！葉族人只要一會兒就能製作好……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/glitch/default/0",
+  "value" : "迫切。你給我帶來了材料！等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/glitch/default/1",
+  "value" : "愉悅。你帶來了我們需要的材料！給我一點時間來做好這個……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/hylotl/default/0",
+  "value" : "感謝你帶給我這些東西。我等不及想要製作 <questGiver> 需要的東西了"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/hylotl/default/1",
+  "value" : "非常感謝你帶給我這些東西。我迫不及待想要製作了。現在，給我點時間……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/novakid/default/0",
+  "value" : "你把補給帶來了？好極了！等我一下，我這就搞定……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafting/novakid/default/1",
+  "value" : "你手裡有材料，我手裡有技術。等一下，我這就搞定……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/default/default/0",
+  "value" : "拿著吧！替我把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/human/default/0",
+  "value" : "給你！你可以替我吧這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/human/default/1",
+  "value" : "然後……完成！把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/apex/default/0",
+  "value" : "感謝你的等待。來，把這個帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/apex/default/1",
+  "value" : "搞定了！感謝你的等待。現在，把這個包裹帶給<questGiver>……"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/avian/default/0",
+  "value" : "感謝你的等待！你能幫我把這個包裹送給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/avian/default/1",
+  "value" : "拿著吧！請把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/floran/default/0",
+  "value" : "搞定！請替葉族人把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/floran/default/1",
+  "value" : "這就是了！把它帶給<questGiver>吧"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/glitch/default/0",
+  "value" : "愉悅。我做好了。你能幫我把這個帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/glitch/default/1",
+  "value" : "滿足。我做好了。現在幫我把這個帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/hylotl/default/0",
+  "value" : "真是精緻，要我說的話！你能幫我把這個包裹帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/hylotl/default/1",
+  "value" : "完美！難道你不欣賞我的手藝嗎？現在，你能幫我把這個包裹帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/novakid/default/0",
+  "value" : "我這回絕對是超常發揮！你能幫我把這個包裹送到<questGiver>那裡嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/hat/crafted/novakid/default/1",
+  "value" : "這絕對是我的傑作！麻煩你幫我把它送到<questGiver>那裡行嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/default/default/0",
+  "value" : "哦，你有我們需要的東西？等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/human/default/0",
+  "value" : "哦，你有我們需要的東西？等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/human/default/1",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/apex/default/0",
+  "value" : "你拿來了材料？很好，等一下，我需要製作……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/apex/default/1",
+  "value" : "感謝你幫我拿來材料——給我點時間我就能做好這個……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/avian/default/0",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/avian/default/1",
+  "value" : "你帶來了材料？很好，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/floran/default/0",
+  "value" : "你給葉族人帶來了材料！葉族人現在就製作，等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/floran/default/1",
+  "value" : "感謝你的東西！葉族人只要一會兒就能製作好……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/glitch/default/0",
+  "value" : "迫切。你給我帶來了材料！等一下……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/glitch/default/1",
+  "value" : "愉悅。你帶來了我們需要的材料！給我一點時間來做好這個……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/hylotl/default/0",
+  "value" : "感謝你帶給我這些東西。我等不及想要製作 <questGiver> 需要的東西了"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/hylotl/default/1",
+  "value" : "非常感謝你帶給我這些東西。我迫不及待想要製作了。現在，給我點時間……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/novakid/default/0",
+  "value" : "你把補給帶來了？好極了！等我一下，我這就搞定……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafting/novakid/default/1",
+  "value" : "你手裡有材料，我手裡有技術。等一下，我這就搞定……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/default/default/0",
+  "value" : "拿著吧！替我把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/human/default/0",
+  "value" : "給你！你可以替我吧這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/human/default/1",
+  "value" : "然後……完成！把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/apex/default/0",
+  "value" : "感謝你的等待。來，把這個帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/apex/default/1",
+  "value" : "搞定了！感謝你的等待。現在，把這個包裹帶給<questGiver>……"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/avian/default/0",
+  "value" : "感謝你的等待！你能幫我把這個包裹送給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/avian/default/1",
+  "value" : "拿著吧！請把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/floran/default/0",
+  "value" : "搞定！請替葉族人把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/floran/default/1",
+  "value" : "這就是了！把它帶給<questGiver>吧"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/glitch/default/0",
+  "value" : "愉悅。我做好了。你能幫我把這個帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/glitch/default/1",
+  "value" : "滿足。我做好了。現在幫我把這個帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/hylotl/default/0",
+  "value" : "真是精緻，要我說的話！你能幫我把這個包裹帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/hylotl/default/1",
+  "value" : "完美！難道你不欣賞我的手藝嗎？現在，你能幫我把這個包裹帶給<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/novakid/default/0",
+  "value" : "我這回絕對是超常發揮！你能幫我把這個包裹送到<questGiver>那裡嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/helmet/crafted/novakid/default/1",
+  "value" : "這絕對是我的傑作！麻煩你幫我把它送到<questGiver>那裡行嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/default/default/0",
+  "value" : "感謝你的東西，這是<questGiver>的包裹。代我問好！"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/human/default/0",
+  "value" : "感謝你的東西，這是<questGiver>的包裹。代我問好！"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/apex/default/0",
+  "value" : "你是代表<questGiver>來的？這是包裹，感謝你的這些東西"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/avian/default/0",
+  "value" : "感謝你來送這個。這是<questGiver>訂的貨！"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/floran/default/0",
+  "value" : "感謝你的東西。這是<questGiver>的包裹，別弄丟了！"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/glitch/default/0",
+  "value" : "謹慎。這看起來是那東西沒錯……好吧，交易吧。把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/hylotl/default/0",
+  "value" : "我很高興能達成這筆交易——感謝你帶來這些東西。請把這個包裹帶給<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/new_stock/trade/novakid/default/0",
+  "value" : "你是來取<questGiver>的包裹的吧？拿去吧，多謝你的補給了，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/default/default/0",
+  "value" : "你救了我！你是我的英雄！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/default/default/1",
+  "value" : "結束了？我剛剛真是命懸一線！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/human/default/0",
+  "value" : "別殺我，我可以給你很多東西……等等，你是在救我？謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/human/default/1",
+  "value" : "我還活著？你救了我！謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/apex/default/0",
+  "value" : "我真不知道，我怎麼總是碰上這種事"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/apex/default/1",
+  "value" : "謝謝你！要是你不來真不知道我會怎麼樣"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/avian/default/0",
+  "value" : "謝謝你，我嚇壞了！心臟撲通撲通跳！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/avian/default/1",
+  "value" : "你救了我！太感謝你了！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/floran/default/0",
+  "value" : "你救了葉族人！葉族人鬆了口氣！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/floran/default/1",
+  "value" : "葉族人如果有根矛就能贏了，但葉族人還是感謝幫助"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/glitch/default/0",
+  "value" : "感激。你救了我！我的英雄！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/glitch/default/1",
+  "value" : "鬆了口氣。感謝上帝你救了我！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/hylotl/default/0",
+  "value" : "你救了我！我永遠感謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/hylotl/default/1",
+  "value" : "結，結束了？哦，感謝上帝！謝謝你，謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/novakid/default/0",
+  "value" : "我還以為自己就要這麼死掉了呢！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/kidnappersDead/novakid/default/1",
+  "value" : "我剛才眼前閃過跑馬燈了！還以為自己死定了呢！"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/default/default/0",
+  "value" : "我還是很怕，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/human/default/0",
+  "value" : "嗯。我還是很怕，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/human/default/1",
+  "value" : "我還是好害怕——你能把我送回<questGiver>那的家嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/human/default/2",
+  "value" : "你能帶我回<questGiver>那裡嗎？有你在我還安全些……"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/apex/default/0",
+  "value" : "我還在發抖呢——求求你，能不能帶我回<questGiver>那裡？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/apex/default/1",
+  "value" : "真是太可怕了。你能送我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/avian/default/0",
+  "value" : "我現在一個人感覺很不安全。你能帶我回<questGiver>那嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/avian/default/1",
+  "value" : "真是嚇死我了……你能送我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/floran/default/0",
+  "value" : "葉族人不想一個人待著。你能帶葉族人回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/floran/default/1",
+  "value" : "你能把我這葉族人送回<questGiver>的家嗎？葉族現在很沒有安全感"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/glitch/default/0",
+  "value" : "嚇壞了。嗯，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/glitch/default/1",
+  "value" : "擔心。或許你能護送我回<questGiver>那裡？"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/hylotl/default/0",
+  "value" : "別丟下我！帶我回<questGiver>那裡吧"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/hylotl/default/1",
+  "value" : "你能把我帶回<questGiver>那裡嗎？我現在不太有自信……"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/novakid/default/0",
+  "value" : "你能把我送回<questGiver>那嗎？我現在感覺不大對……"
+}, {
+  "op" : "replace",
+  "path" : "/kidnapping/followHome/novakid/default/1",
+  "value" : "我還是不知道自己一個人還回不回得去。你能把我送回<questGiver>那嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/default/default/0",
+  "value" : "我完全迷路了，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/default/default/1",
+  "value" : "我……現在完全迷路了。你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/default/default/2",
+  "value" : "我沒打算迷路得這麼嚴重！你能護送我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/human/default/0",
+  "value" : "我完全迷路了，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/human/default/1",
+  "value" : "我完全迷路了，你介意帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/apex/default/0",
+  "value" : "我不知道自己在哪。請帶我回<questGiver>那裡"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/apex/default/1",
+  "value" : "我完全迷路了，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/avian/default/0",
+  "value" : "我一直以為自己方向感很不錯的……我想我錯了。你介意帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/avian/default/1",
+  "value" : "我怎麼會迷路成這樣的？好吧，真高興你找到了我。能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/floran/default/0",
+  "value" : "葉族人迷路了。你能幫葉族人找到<questGiver>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/floran/default/1",
+  "value" : "葉族人不知怎的迷路了……請帶葉族人回<questGiver>那裡？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/glitch/default/0",
+  "value" : "慌張。我想我是迷路了。請幫幫我——帶我回<questGiver>那裡？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/glitch/default/1",
+  "value" : "困惑。我想我或許迷路了。額，你能帶我回<questGiver>那裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/hylotl/default/0",
+  "value" : "哦，你能帶我回<questGiver>那裡嗎？我絕望般地迷路了"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/hylotl/default/1",
+  "value" : "我在想我這是到哪來了。拜託，帶我回<questGiver>那裡"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/novakid/default/0",
+  "value" : "你好呀！你能帶我到返回<questGiver>那裡的路上嗎？我迷路了"
+}, {
+  "op" : "replace",
+  "path" : "/escort/found/novakid/default/1",
+  "value" : "我一頭霧水，都忘了路怎麼走了。能把我帶回<questGiver>那去嗎，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/default/default/0",
+  "value" : "感謝你的東西，這是 <questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/human/default/0",
+  "value" : "感謝你的東西，這是 <questGiver>的<receivedItems>。代我問好！"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/apex/default/0",
+  "value" : "你是代表 <questGiver>來的？這是他們的<receivedItems>。感謝你帶來的東西"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/avian/default/0",
+  "value" : "感謝你來送這個。這是<questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/floran/default/0",
+  "value" : "感謝你的東西。這是<questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/glitch/default/0",
+  "value" : "友善。感謝你的東西。這是<questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/hylotl/default/0",
+  "value" : "我很高興能達成這筆交易——感謝帶來這些東西。這是<questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/barter/trade/novakid/default/0",
+  "value" : "多謝你的貨物——這就是<questGiver>的<receivedItems>"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/collectDelivery/default/default/0",
+  "value" : "你有帶給我的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/collectDelivery/default/default/1",
+  "value" : "喂，你是來送貨的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/collectDelivery/floran/default/0",
+  "value" : "你有帶給葉族人的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/collectDelivery/glitch/default/0",
+  "value" : "感興趣。你有帶給我的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/collectDelivery/novakid/default/0",
+  "value" : "你好呀！你是來為我送貨的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/default/default/0",
+  "value" : "這是你的東西。用得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/human/default/0",
+  "value" : "這是你的東西。用得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/apex/default/0",
+  "value" : "這是你的"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/avian/default/0",
+  "value" : "這是你的東西。用得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/floran/default/0",
+  "value" : "這是你的東西。用得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/glitch/default/0",
+  "value" : "高興。這是你的東西！用得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/hylotl/default/0",
+  "value" : "這是你的東西，祝用得開心"
+}, {
+  "op" : "replace",
+  "path" : "/escort_trade/provideDelivery/novakid/default/0",
+  "value" : "你的東西都在這了，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/default/default/0",
+  "value" : "嗨！我和<questGiver> 約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/human/default/0",
+  "value" : "嗨！我和<questGiver> 約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/human/default/1",
+  "value" : "你好！<questGiver>是我朋友，想讓我來幫你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/apex/default/0",
+  "value" : "你好。我和<questGiver> 約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/apex/default/1",
+  "value" : "你好，我和<questGiver> 約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/avian/default/0",
+  "value" : "嗨！我和<questGiver>約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/avian/default/1",
+  "value" : "你好！<questGiver>是我朋友，想讓我來幫你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/floran/default/0",
+  "value" : "葉族人和<questGiver>約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/floran/default/1",
+  "value" : "葉族人和<questGiver>是朋友，來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/glitch/default/0",
+  "value" : "友善。我和<questGiver>約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/glitch/default/1",
+  "value" : "友好。我被<questGiver>僱傭來幫助你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/hylotl/default/0",
+  "value" : "你好。我和<questGiver>約定來幫助你與<enemy>戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/hylotl/default/1",
+  "value" : "你好——我們將並肩作戰，因為<questGiver>要求我幫助你進行任務"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/novakid/default/0",
+  "value" : "你好啊！<questGiver>要我在這和你碰頭，幫你打敗<enemy>"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npcs/assistantIntro/novakid/default/1",
+  "value" : "你好啊！我的老朋友<questGiver>要我在這和你碰頭，幫你打敗<enemy>"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/default/default/0",
+  "value" : "我投降！拿開你的武器！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/default/default/1",
+  "value" : "我還是清楚什麼時候該認輸的！請你放下武器停手吧！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/default/default/2",
+  "value" : "好吧，好吧，我投降！拜託了，拿開你的武器！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/floran/default/0",
+  "value" : "葉族人投降！拿開武器！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/floran/default/1",
+  "value" : "葉族人投降！拿開武器！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/glitch/default/0",
+  "value" : "明智。我投降，拿開你的武器"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/surrender/glitch/default/1",
+  "value" : "害怕。我投降！拜託，拿開你的武器"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/default/default/0",
+  "value" : "你個蠢貨！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/default/default/1",
+  "value" : "我的謊言之網成功誘捕到你啦！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/default/default/2",
+  "value" : "哈哈，我騙你的！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/default/default/3",
+  "value" : "騙到你了！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/apex/default/0",
+  "value" : "你個蠢貨！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/apex/default/1",
+  "value" : "你是個蠢貨！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/avian/default/0",
+  "value" : "哈哈，你被耍啦！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/floran/default/0",
+  "value" : "葉族人耍了你！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/floran/default/1",
+  "value" : "葉族人騙過你了！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/floran/default/2",
+  "value" : "為什麼你會照著葉族人說的做呢？"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/glitch/default/0",
+  "value" : "淘氣。你個蠢貨"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/glitch/default/1",
+  "value" : "驚訝。你真的相信了？"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/glitch/default/2",
+  "value" : "震驚。你真的相信了？"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/hylotl/default/0",
+  "value" : "相信敵人的話可是大錯特錯！"
+}, {
+  "op" : "replace",
+  "path" : "/kill_npc/betray/hylotl/default/1",
+  "value" : "你太輕易地就相信敵人了！"
+} ]

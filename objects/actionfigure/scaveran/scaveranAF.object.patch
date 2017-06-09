@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它的喙裡的樣子真的很嚇人。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "恐嘴鴉小雕像"
+} ]

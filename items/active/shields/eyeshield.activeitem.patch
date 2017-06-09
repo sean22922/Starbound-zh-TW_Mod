@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "預見每一次攻擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼盾"
+} ]

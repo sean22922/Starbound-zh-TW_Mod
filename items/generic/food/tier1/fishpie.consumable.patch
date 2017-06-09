@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "好吃的餡餅！烤魚放醬，上面再加上奶油馬鈴薯泥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魚肉餡餅"
+} ]

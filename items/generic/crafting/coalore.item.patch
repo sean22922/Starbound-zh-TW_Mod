@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是煤。燃料的合適來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煤"
+} ]

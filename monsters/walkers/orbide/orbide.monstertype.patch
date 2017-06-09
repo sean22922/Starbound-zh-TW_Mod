@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奧百得"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它們蹣跚的行走方式讓人感覺不舒服"
+} ]

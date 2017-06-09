@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "tar", "count" : 5 },
-    { "item" : "torch", "count" : 1 }
-  ],
-  "output" : { "item" : "tarlight", "count" : 1 },
-  "groups" : [ "craftingfurniture", "lights", "all" ]
-}

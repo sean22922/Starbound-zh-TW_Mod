@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "骨竹果和香辛料一起烤得脆脆的，嗆辣的葉族菜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "辣骨"
+} ]

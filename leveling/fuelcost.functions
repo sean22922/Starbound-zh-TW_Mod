@@ -1,7 +1,0 @@
-{
-  "interSystemFuelcost" : [ "linear", "clamp",
-    [0, 10],
-    [10, 50],
-    [100, 500]
-  ]
-}

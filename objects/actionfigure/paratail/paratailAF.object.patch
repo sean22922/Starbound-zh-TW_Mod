@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"暴風雨來襲時，它會依附在樹上，這樣就不會被吹走了。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帕拉尾小雕像"
+} ]

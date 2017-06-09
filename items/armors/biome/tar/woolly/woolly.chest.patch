@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這麼多毛是為了保暖，但卻沒有覆蓋多少皮膚。好奇！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "史前多毛大衣"
+} ]

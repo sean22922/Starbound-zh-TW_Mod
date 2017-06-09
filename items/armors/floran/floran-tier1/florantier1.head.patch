@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為年輕葉族人設計的鐵裝甲，在打獵時穿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "新芽戒指"
+} ]

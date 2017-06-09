@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台當代風格的冰箱，能夠延長食品的保質期"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時尚的冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "頂端有冷凍層的冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個冰箱，可以用來裝食物並保鮮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個冰箱，裡面會有食物嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。一個冰箱，方便的食物儲藏器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在想，冰箱裡會不會有好東西？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個冰箱，最有用的發明了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個冰箱，裡面有好東西嗎？"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空的氧氣桶。只能當做配件來用了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "氧氣桶"
+} ]

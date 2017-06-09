@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "令人入迷，我眼睛挪不開了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝酒吧標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個很抓人眼球的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個酒吧標誌需要關注度"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "矮胖的鳥有個酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這是壞了還是本來設計就這樣？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，一個酒吧。還有企鵝！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個酒吧標誌很浮誇，但是有其魅力所在"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那些鬧鬨哄的鳥現在有個酒吧了"
+} ]

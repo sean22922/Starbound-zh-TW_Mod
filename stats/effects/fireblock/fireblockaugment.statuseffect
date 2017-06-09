@@ -1,9 +1,0 @@
-{
-  "name" : "fireblockaugment",
-  "effectConfig" : {},
-  "defaultDuration" : 60,
-
-  "scripts" : [
-    "fireblock.lua"
-  ]
-}

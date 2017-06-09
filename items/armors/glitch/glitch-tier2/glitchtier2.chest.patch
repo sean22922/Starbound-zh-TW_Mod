@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專門為保護機器人英雄而打造——寧可削減胸甲成本也不能削減全身成本"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "士兵的胸甲"
+} ]

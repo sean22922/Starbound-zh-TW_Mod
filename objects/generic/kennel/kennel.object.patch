@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個為可愛寵物準備的可愛狗舍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "狗舍"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "對於猿人來說，這可是豪華住所"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一種生物的小房子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人會躲在屋裡等生物回來，然後刺他！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這個狗舍可以住一隻可愛的機械狗"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個狗舍。現在我還得去找條狗"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個爛房子裡一股狗騷味"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個寵物屋！稍微有點變形，但誰會在意呢？"
+} ]

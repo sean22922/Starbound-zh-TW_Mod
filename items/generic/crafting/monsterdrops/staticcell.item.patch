@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一堆充了電的靜態元件。可用作打造材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "靜態元件"
+} ]

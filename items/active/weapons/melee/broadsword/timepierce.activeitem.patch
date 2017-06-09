@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把劍可以刺穿時間本身"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時間穿刺者"
+}, {
+  "op" : "replace",
+  "path" : "/altAbility/name",
+  "value" : "時間停止"
+} ]

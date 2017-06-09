@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大觸手"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "大觸手"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這觸手一定從什麼大東西上來的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "又大又強壯的觸手"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在我看來就是些觸手"
+} ]

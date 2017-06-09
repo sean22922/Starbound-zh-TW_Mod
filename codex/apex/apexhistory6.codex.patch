@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "VEP的副作用"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一份迷你克諾格內部報告"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "^red;只限內部流傳^white;\n\n痕跡器官-進化療程分發前最終報告：智力進化跟物理退化是無法避免的。骨頭改變會非常極端，毛髮生長會大幅提升。智力效率會提高至百分之300。\n\n結論：我們種族的改變是永久性的。立即開始研究逆轉物理退化效果"
+} ]

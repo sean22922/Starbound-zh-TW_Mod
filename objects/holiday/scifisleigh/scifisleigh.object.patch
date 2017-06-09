@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這對彩色的雪橇在後面有巨大的火箭引擎！誰還需要馴鹿，是吧？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "節日火箭雪橇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來今年聖誕老人開掛了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "推進力的雪橇。真令人驚奇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人變成聖聖誕老人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哈哈。火箭動力雪橇"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這會讓馴鹿開始競價"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "火箭也許就能解釋聖誕老人是怎麼在一晚上送那麼多禮物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這才是我的雪橇！"
+} ]

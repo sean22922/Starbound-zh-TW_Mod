@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "這套是用來隔絕污穢的。你最好別碰我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "我曾經見過這種疾病，迷你克諾格研究過的。令人討厭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "這個宇宙充滿了致命的細菌！我穿這套衣服讓人安全一些"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我在研究外星細菌。我原來被派駐在別處的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "回到地球，我們能治癒大部分疾病。希望數據沒有丟失……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "細菌到處都是！我怕被感染"
+} ]

@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "chili", "count" : 1 },
-    { "item" : "feathercrown", "count" : 1 }
-  ],
-  "output" : { "item" : "spicyfeathercrown", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ],
-  "collectables" : { "cooking" : "spicyfeathercrown" }
-}

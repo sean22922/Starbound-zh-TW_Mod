@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為迷你克諾格士兵打造的裝甲護腿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷你克諾格 護脛甲"
+} ]

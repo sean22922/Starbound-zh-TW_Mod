@@ -1,9 +1,0 @@
-{
-  "name" : "eyebosseyelid",
-  "category" : "eyeboss",
-  "type" : "eyelid",
-
-  "frames" : {
-    "eyelid" : "eyelid.png"
-  }
-}

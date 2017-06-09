@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是種執行著叫\"骯髒的漢堡英雄\"的遊戲的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙色之拱機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "墮落漢堡英雄是一個翻漢堡的遊戲。我喜歡漢堡！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在墮落漢堡英雄裡得高分需要反應敏捷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "關於翻肉的遊戲。葉族人餓——了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。翻漢堡來得高分的過程確實很上癮。7/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "墮落漢堡英雄。一個翻漢堡的遊戲！非常吸引人！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "骯髒的漢堡英雄是一個好遊戲，能讓小孩們被吸引，被娛樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個遊戲叫墮落漢堡英雄。為什麼要假裝翻漢堡呢？為什麼？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個小鳥雕塑上開始長出巨大的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾性小鳥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些羽毛是從這種鳥兒身上來的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人製作這些東西來裝飾他們的神廟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來很美味的鳥兒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "漂亮：一座帶有精美羽毛裝飾的雕像"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一座漂亮的翼族雕像"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些羽毛比雕像本身更漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這尊雕像有很好看的羽毛"
+} ]

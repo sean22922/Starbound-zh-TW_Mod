@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "如果這些劍落入歹人之手就糟糕了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "展示的劍"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "兩把鋒利的展示劍。最頂尖的殺手一般更偏愛匕首"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "鋒利的裝飾劍。翼族人很喜歡矛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒利的劍。葉族人喜歡錘子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。一把鋒利的劍。機器人選擇武器的時候偏愛闊劍"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "兩把鋒利的劍。人類展示喜歡斧子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一對鋒利的劍。神人偏好武器中的短劍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "兩把展示的劍。可能是假的"
+} ]

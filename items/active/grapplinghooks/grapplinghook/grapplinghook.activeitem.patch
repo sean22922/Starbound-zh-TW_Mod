@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太棒了，耶！這太好玩了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "抓鉤"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

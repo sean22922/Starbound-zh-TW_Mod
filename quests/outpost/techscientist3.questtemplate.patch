@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;助推研發"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我正在研發一種新技術，可以讓使用者一躍到半空中，從而達到前所未見的高度！可惜的是，我需要一些零件才能完成這項技術。^green;你能給我帶來^orange;10個銀錠^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "太好了！加上這些東西後，^orange;助推跳躍技術^white;就可以進入測試階段了！如果你願意幫我的話，就過來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/turnInDescription",
+  "value" : "與在^orange;哨站^reset;的^orange;艾略特^reset;交談"
+} ]

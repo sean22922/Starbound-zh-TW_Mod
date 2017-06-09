@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很多依然就想讓人按下的按鈕，但是最好還是別碰它們了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型木質主機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想知道這個按鈕什麼用……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我按這個按鈕會不會發生什麼事？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族無法抗拒按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。按下這些按鈕會發生什麼事？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這麼多讓人去按的按鈕！怎麼可能出問題？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在按這個面板上的按鈕前，我需要做好準備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡有些按鈕，不知道按下去會怎麼樣"
+} ]

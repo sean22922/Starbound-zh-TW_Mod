@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在這張裝飾華麗的椅子上安息"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把椅子本應該設計得更令人舒服，你看看這個！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "難道……這個是想讓我想起來世？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要藏在石椅的後面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚慌。你為什麼製作這樣的傢俱呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我沒法說這是一把有品位還是沒品位的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是用墓碑做成的椅子？真野蠻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不得不說，這把椅子坐起來感覺簡直太差"
+} ]

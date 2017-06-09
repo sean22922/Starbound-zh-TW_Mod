@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種能夠放出嘈雜的舞曲的喇叭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這音樂讓我想要跳舞！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這什麼噪音啊？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個音樂讓葉族人想扭屁股！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反感：這音樂令人不快"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "典型的夜店音樂，和我在地球夜店裡聽到的音樂沒什麼不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一首很紅的夜店歌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "以前沒聽過這種。不知道喜不喜歡"
+} ]

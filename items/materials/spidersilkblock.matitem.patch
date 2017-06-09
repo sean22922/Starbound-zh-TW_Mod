@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用網包成的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜘蛛網"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "佩服。大自然永遠充滿驚喜，這個物質完完全全是天然產物"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "粘糊糊的蜘蛛網。葉族人任務蜘蛛是一個強大的獵手！"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去很怪異的蜘蛛網"
+} ]

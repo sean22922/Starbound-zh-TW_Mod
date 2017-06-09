@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "燃燒吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/1",
+  "value" : "臣服在火焰面前吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/2",
+  "value" : "你會被火焰吞噬的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/3",
+  "value" : "接受煉獄聖殿騎士的怒火吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/0",
+  "value" : "再次承受我的怒火吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/0",
+  "value" : "火焰可以賦予生命，也可以奪走生命！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/1",
+  "value" : "只有能掌控火焰力量的強者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/2",
+  "value" : "被火焰吞噬吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/0",
+  "value" : "你不可能逃離我的烈焰的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/0",
+  "value" : "躲藏是沒有意義的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/0",
+  "value" : "前進！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/0",
+  "value" : "你逃不出我的烈焰的！"
+} ]

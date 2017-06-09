@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "操縱所有物質。^green;按[R]鍵快速選擇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

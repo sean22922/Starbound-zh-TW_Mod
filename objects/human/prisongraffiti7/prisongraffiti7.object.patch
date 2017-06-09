@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"出去\"是用鮮血寫的。你可以看出作者非常認真"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塗鴉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個塗鴉貌似是用血畫成的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很明顯這個藝術家很有戲劇天賦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "塗料聞著很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服。鮮血來自一位鮫族"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "不，你出去！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個塗鴉藝術家真應該休息一下"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用鮮血寫成的。是自己的血嗎？"
+} ]

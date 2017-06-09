@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一棵水晶樹。看來現在錢真的會長在樹上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶樹種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "自己種植你的水晶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一株會結出水晶的植物！太神奇了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人被其光滑的外表所疑惑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心，要是這個大面積種植的話會破壞經濟秩序的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當我小的時候，我經常幻想種植一棵金錢樹。這是另一件最好的事"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一株會結出水晶的植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "可以種植的水晶！你聽清楚了嗎！"
+} ]

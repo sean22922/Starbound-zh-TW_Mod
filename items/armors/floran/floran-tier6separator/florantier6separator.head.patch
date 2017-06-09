@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "宇宙中最兇猛的獵物在這頭盔面前也會顫抖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "合成頭盔"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "雕刻著一張友好面孔的大冰塊。居然沒有融化"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰塊面具"
+} ]

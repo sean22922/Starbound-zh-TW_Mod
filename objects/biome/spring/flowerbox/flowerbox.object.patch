@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "奇怪的大花，你可以躲在裡面！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "奇怪的花箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "小心，這些花朵後面可以藏人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些花朵讓人感覺很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡躲藏在花朵中"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這也許是個葉族牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "玩捉迷藏的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "巨大的奇怪花朵。我可以試試躲在後面"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在遇險時，可以利用這個花朵當隱藏處"
+} ]

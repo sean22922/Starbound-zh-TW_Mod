@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "長著金光閃閃的翅膀的蟲子，非常罕見！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金元子"
+} ]

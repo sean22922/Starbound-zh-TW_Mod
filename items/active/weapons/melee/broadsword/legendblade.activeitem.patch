@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把傳奇劍是由石頭鍛造成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳奇劍"
+} ]

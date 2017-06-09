@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由木頭和蘆葦製成的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘆葦椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "叢林之王的寶座"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子就像是叢林裡的王座"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這把椅子很適合給葉族人當王座"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。必要的時候，蘆葦也能坐，很有創意嘛"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "雖然坐起來不太舒服，但看起來還是很酷的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子還算是好看，但不太實用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一把用木頭和蘆葦製成的椅子，挺精美的"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "明顯的熔爐標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵匠標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木製標誌，表示這棟建築很可能是個熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個帶鐵砧的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "是個金屬商店？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。一個鐵匠的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鐵匠的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個熔爐的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這建築的標誌表示它肯定是個熔爐"
+} ]

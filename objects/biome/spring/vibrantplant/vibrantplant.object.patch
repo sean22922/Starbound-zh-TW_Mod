@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株五顏六色的盆栽植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "充滿活力的植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我感覺這顆植物過於鋒芒畢露"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不知道原來這麼多種顏色可以摻和在一起……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡七彩繽紛的植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這麼繽紛的植物是有人培養出來的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這顆植物很……七彩。這不清真"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "感覺這是個人工培養的植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個植物有著四季的顏色"
+} ]

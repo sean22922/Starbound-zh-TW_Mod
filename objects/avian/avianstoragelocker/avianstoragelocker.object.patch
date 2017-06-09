@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個漂亮的，寬大的，裝在牆上的存儲解決方案"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬製櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個可以存放你的東西的地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以把東西塞進櫃子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無感。一個金屬儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是個有工業感的儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來存放私人物品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "牆上的一個櫃子"
+} ]

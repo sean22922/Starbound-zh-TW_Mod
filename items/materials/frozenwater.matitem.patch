@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "光滑的冰"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "天然光滑的冰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "謹慎。冰凍起來的方式讓它不尋常的光滑"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "很滑的冰"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這冰真滑"
+} ]

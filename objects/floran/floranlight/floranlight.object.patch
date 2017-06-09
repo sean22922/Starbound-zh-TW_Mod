@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "豆莢中散發著自然的綠色光芒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤蔓爬牆燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "嚇人的綠光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "要怎麼控制這個植物生長的方向"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人的燈會吸收白天的日光，在太陽落山後發光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這些豆莢的生長位置似乎都是經過控制的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "綠光讓我很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些豆莢似乎很不自然"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈是從牆裡發光的"
+} ]

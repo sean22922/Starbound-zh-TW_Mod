@@ -1,9 +1,0 @@
-{
-  "name" : "calico",
-  "category" : "petcat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "calico.png"
-  }
-}

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "操縱引力的EPP模組，減緩你空中降落的速度"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "低引力增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "降落"
+} ]

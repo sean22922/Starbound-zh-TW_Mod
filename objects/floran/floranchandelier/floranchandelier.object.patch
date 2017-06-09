@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "卡在樹苗上的火把替代了美麗的華燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古的枝形吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "它看上去好像是一棵倒掛著火把的樹"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用小樹做的吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用小樹做了吊燈，再用骨頭裝著火把，這樣就不會燒到手了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣：看上去好像一棵小樹懸掛在天花板上"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去好像葉族人用一棵小樹苗來做枝形吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這大概是少數幾個沒有用骨頭的葉族人產物，等等……裝著火把的東西是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像是在樹上綁了一些火把，風格不錯"
+} ]

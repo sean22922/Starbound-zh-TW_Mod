@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "葉族人喜歡旅行！葉族人想走遍全宇宙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "葉族人喜歡旅行！葉族人想走遍全宇宙！"
+} ]

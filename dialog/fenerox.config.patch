@@ -1,0 +1,477 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "陌生的人。味道奇怪。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/7",
+  "value" : "未知的人。毛髮不多。奇怪的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/0",
+  "value" : "陌生的人。味道奇怪。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/apex/7",
+  "value" : "未知的人。挺多毛髮。鬍子不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/0",
+  "value" : "陌生的人。鳥臉。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/avian/7",
+  "value" : "未知的人。羽毛身體。非常古怪"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/0",
+  "value" : "陌生的人。金屬感。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/glitch/7",
+  "value" : "未知的人。雙眼發光。金屬皮膚？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/0",
+  "value" : "陌生的人。花朵味道。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/floran/7",
+  "value" : "未知的人。葉子身體。滲人笑容……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/0",
+  "value" : "陌生的人。魚的味道。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/hylotl/7",
+  "value" : "未知的人。橡膠皮膚。奇怪樣子"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/0",
+  "value" : "陌生的人。全身發光。好興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/1",
+  "value" : "少見的人。希望友善。感覺謹慎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/2",
+  "value" : "奇怪的人。不是費雷洛斯。很有禮貌！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/3",
+  "value" : "遇見陌生人。很友善。新的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/4",
+  "value" : "少見的人。在打招呼。不是費雷洛斯？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/5",
+  "value" : "友善的陌生人。感覺尷尬。謹慎地期待！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/6",
+  "value" : "新的陌生人。沒有信心。在打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/novakid/7",
+  "value" : "未知的人。怒氣沖沖。沒有臉蛋？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/0",
+  "value" : "陌生人偷東西。不OK。非常擔憂！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/1",
+  "value" : "驚人發展。出現失竊。非常震驚！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/2",
+  "value" : "見到搶劫。非常擔心。噁心行為！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/3",
+  "value" : "強盜偷東西。不禮貌。有點生氣"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/0",
+  "value" : "偷盜過分。必須停止。通知守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/1",
+  "value" : "盜竊噁心。需要幫忙。尋找守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/2",
+  "value" : "盜竊錯誤。呼喚支援。尋找守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "更換家園。有點失望。不開心"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/1",
+  "value" : "有點失落。家園改變了。非常煩躁"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/2",
+  "value" : "不見東西。家園不同。感覺不對勁"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "牆壁破損。需要修復。有點擔心"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/1",
+  "value" : "屋子損壞。需要修理。感覺憤怒！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/2",
+  "value" : "屋子損壞。牆壁破損。需要修理！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "又來一次。有點無禮。有點不高興"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/1",
+  "value" : "第二次了。我的家園。非常不高興"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "真的生氣。感覺被無視。也許搬家"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/1",
+  "value" : "不可接受。感覺被無視。大聲投訴！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/2",
+  "value" : "環境惡劣。感覺被無視。打算搬家"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "非常生氣。馬上搬家。失望的經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/1",
+  "value" : "馬上搬家。被無視了。可憐的家！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "被傳召了。感覺友善。說話吧！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/1",
+  "value" : "被需要。開始交談。說話吧！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "收到感激。有禮物。希望喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/1",
+  "value" : "感覺滿意。攜帶禮物。收禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/2",
+  "value" : "非常滿意。房子很好。收禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "戰鬥繼續。有長矛。戰鬥時間！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "襲擊者回來。感覺期待。戰鬥吧！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/2",
+  "value" : "襲擊再發生。長矛準備。戰鬥開啓！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/3",
+  "value" : "戰鬥回來。不害怕。費雷洛斯勇敢！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/4",
+  "value" : "不害怕。只有勇敢。長矛衝鋒！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "戰鬥開始。有長矛。戰鬥時間！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "發現襲擊者。感覺期待。戰鬥吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "襲擊發生。長矛準備。戰鬥開啓！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "戰鬥開始。不害怕。費雷洛斯勇敢！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "不害怕。只有勇敢。長矛衝鋒！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "戰鬥成功。沒有死亡。費雷洛斯勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "我還活著。戰鬥勝利。非常疲倦！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "敵人輸了。長矛厲害。現在安全了？"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/3",
+  "value" : "敵人敗了。費雷洛斯厲害。勝利了！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "敵人消失。看不見。敵人害怕了？"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "敵人消失。也許逃走。也許躲藏？"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/2",
+  "value" : "敵人失蹤。也許逃走。費雷洛斯成功……？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "敵人消失。看不見。敵人害怕了？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "敵人消失。也許逃走。也許躲藏？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/2",
+  "value" : "敵人失蹤。也許逃走。費雷洛斯成功……？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "敵人很遠。無法擊中。長矛太短！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "無法擊中。非常驚訝。敵人很遠！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "費雷洛斯支援。提供支援。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "熱心幫助。提供建議。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "感覺熱心。提供支援。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "沒有武器。感覺不安。受到攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/1",
+  "value" : "沒有武裝。受到攻擊。需要幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/2",
+  "value" : "非常弱勢。受到威脅。必須逃跑！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/3",
+  "value" : "處於危險。受到傷害。必須逃跑！"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/0",
+  "value" : "見證攻擊。愛莫能助。需要幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/1",
+  "value" : "攻擊發生。沒有武裝。救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/0",
+  "value" : "費雷洛斯支援。提供支援。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/1",
+  "value" : "熱心幫助。提供建議。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/2",
+  "value" : "感覺熱心。提供支援。戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "危險消失。感覺掏空。可怕經歷！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/1",
+  "value" : "威脅遠去。活了下來。依然發抖！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/2",
+  "value" : "危險過去。沒有死亡。很好結局"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/3",
+  "value" : "沒有死亡。危險結束。需要休息！"
+} ]

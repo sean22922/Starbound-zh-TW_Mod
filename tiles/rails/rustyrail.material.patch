@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的軌道"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些軌道有點粗糙，但還是能用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這些軌道看上去磨損嚴重而且鏽跡斑斑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "腐壞金屬軌道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去腐壞的軌道，恨不得不用它們"
+} ]

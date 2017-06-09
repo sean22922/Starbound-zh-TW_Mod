@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "蛋芽裡面都是液體精華"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蛋芽種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "總所周知，蛋殼讓鳥類的繁衍變得更困難"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "蛋芽——翼族人會拿來做煎蛋卷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來像蛋，卻孵化不出來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "出於好奇，翼族人們開心的吃掉了這些，儘管他們外表就像個雞蛋"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一種素食主義蛋"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對於那些不吃雞蛋的人來說這是一種很好的替代品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "蛋芽看上去像蛋，嚐起來像蛋，但是不是蛋"
+} ]

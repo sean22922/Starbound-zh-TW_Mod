@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑光滑石"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黑色，光滑的石塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。未知石頭做的黑石塊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光滑的石塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "黑色的石塊"
+} ]

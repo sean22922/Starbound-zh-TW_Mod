@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個冰箱。真希望裡面有好多好吃的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時尚的冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個冰箱。希望裡面有食物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "冰箱裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好冷！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。冰箱聞起來不乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個冰箱。裡面有雞蛋嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個冷藏食物的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個冰箱。會不會有人留下點吃的？"
+} ]

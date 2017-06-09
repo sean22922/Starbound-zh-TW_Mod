@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來切肉的廚房檯面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古工作台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子的表面似乎被刀破壞過"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "血液粘在這張桌子的表面"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族在這裡切肉。跟其他葉族分享"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。也許這個葉族砧板可以用來準備其他食物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "面板上的凹槽似乎代表這是切肉的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人似乎用這張桌子準備肉"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來切肉的地方"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個潮溼的胸件覆蓋了鱗片"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瀉湖胸件"
+} ]

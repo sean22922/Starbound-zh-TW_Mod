@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/0",
+  "value" : "你想戰鬥嗎？非常好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/1",
+  "value" : "我們的劍術無可匹敵！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/2",
+  "value" : "這是我們領地，只屬於我們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/hylotl/default/3",
+  "value" : "我受過最好的教導！你沒有機會贏我的！"
+} ]

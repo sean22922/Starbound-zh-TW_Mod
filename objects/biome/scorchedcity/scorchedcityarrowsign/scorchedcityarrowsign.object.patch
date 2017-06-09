@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個箭頭符號"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輪胎箭頭符號"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個箭頭標誌。是不是指向什麼有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個箭頭標誌，它指向什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箭頭標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "狡猾。一個箭頭標誌，可以預測人們會跟著它走"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個箭頭標誌，跟著隨便什麼標誌走，不會有壞事"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個箭頭標誌，我是該跟著走還是繼續走自己的路？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這裡放個箭頭有什麼意義？"
+} ]

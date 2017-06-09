@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "魚和像魚一樣的水果一起烹調，一款魚餐！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海鮮烤菜"
+} ]

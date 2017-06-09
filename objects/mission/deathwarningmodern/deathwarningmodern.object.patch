@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個標誌似乎在警告我什麼危險"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "死亡警告標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個差不多所有人都能理解的危險標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個沒有牙齒的翼族人的頭骨，這個標誌讓我感覺有點奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人興奮的標誌！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。這個警告標誌警告我如果不想遭遇危險的話就小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "充滿威脅的頭骨。一定是個好兆頭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個不好的標誌，用來警告別人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個頭骨，就是那種你可以在這頭裡面找到有機生命體的"
+} ]

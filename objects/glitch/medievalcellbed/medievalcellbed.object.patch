@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張非常簡潔的稻草牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀稻草牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張看起來很不舒服的牀，上面只有取暖用的乾草"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "幾乎就像是一個鳥巢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牀太硬了。葉族人睡得背疼"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。這種地方任誰都睡不好覺吧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張稻草牀。我簡直無法想像成宿睡在這裡會是什麼感覺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張硬木鋪上稻草的牀，很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀肯定是用來懲罰人的"
+} ]

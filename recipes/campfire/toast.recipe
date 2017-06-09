@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "bread", "count" : 1 },
-    { "item" : "egg", "count" : 1 }
-  ],
-  "output" : { "item" : "toast", "count" : 1 },
-  "groups" : [ "campfire", "consumables", "all" ]
-}

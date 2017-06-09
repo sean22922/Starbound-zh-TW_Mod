@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "皇家色彩"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇家蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "堅固的金子做的燭台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用這樣的金屬做燭台似乎有點浪費"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為什麼大鐵人把火放到金子做的棍子上？嘻嘻"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同情。一個金燭台。僕從必須在皇室到達之前把這些蠟燭點亮"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個燭台肯定值很多錢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是浪費。這裡用鐵就足夠了，金子會讓空的地方膨脹起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我有點同情那位點蠟燭的兄弟了"
+} ]

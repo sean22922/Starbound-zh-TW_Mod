@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乾淨的櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時髦的櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個櫃子，至少它是乾淨的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這櫃子看起來有點性冷淡，但是至少是乾淨的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "櫃子是乾淨的，太乾淨了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅，看起來乾淨的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個櫃子外表乾淨而冷淡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來性冷淡的櫃子，我在想它到底有多乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來整潔的櫃子"
+} ]

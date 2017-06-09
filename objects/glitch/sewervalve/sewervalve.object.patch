@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個排污閥。它有一個有趣的轉盤"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "排污閥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個閥門。運轉正常"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個閥門。運作正常"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "灌灌木叢的輪子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哈哈。這閥門能轉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個閥門。如果我轉它一下會怎樣？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個閥門。簡單但是有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我想轉一下這個閥門看看會怎樣！"
+} ]

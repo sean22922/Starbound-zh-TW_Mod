@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個砸了的顯示器，現在沒多大用處"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的監視器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "完全壞了，沒用了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這什麼都沒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "損壞的監嘶……視器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望狀。無法修復的故障"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "監視器壞了。無法修復"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "玻璃鋒利，我的小心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "什麼玩意把這給搞壞了"
+} ]

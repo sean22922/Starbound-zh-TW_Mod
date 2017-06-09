@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你好！我是^orange;<selfname>^white;－－我幫助投資建設哨站！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "嘿！我是 ^orange;<selfname>^white;－－別問為什麼，我幫助投資建設哨站！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "你好！大家都叫我 ^orange;<selfname>^white;。我出錢建哨站，希望你喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "朋友都叫我^orange;<selfname>^white;我是這裡的贊助人，你喜歡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "你好，你是<entityname>？我是 ^orange;<selfname>^white;！我出資建了這個哨站！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "嘿，我是^orange;<selfname>^white;，哨站的贊助商，希望你喜歡這裡！"
+} ]

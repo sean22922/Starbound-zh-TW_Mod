@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從斜槽裡釋放的氣體會讓你感覺身輕如燕"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "氣體助推器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "從這個孔裡排出的氣流產生低重力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "通風口模擬出了飛行的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "通風口讓葉族人飛起來！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。一個通風口，看起來挺安全"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "給我一個重力助推器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "暴露在氣流之中能夠讓我節約能量"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "生活中有時候你只需要一點助力"
+} ]

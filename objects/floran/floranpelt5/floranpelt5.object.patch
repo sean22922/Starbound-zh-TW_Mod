@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小型雪地動物的毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小塊雪地動物毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這塊毛皮好像是一隻幼獸的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一塊幼獸身上的毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很看重幼獸身上的毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕。這是一塊幼獸的毛皮，兇手是葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一塊動物毛皮，似乎還是幼年期的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這塊毛皮看起來像是從幼獸身上剝下來的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻可愛的動物"
+} ]

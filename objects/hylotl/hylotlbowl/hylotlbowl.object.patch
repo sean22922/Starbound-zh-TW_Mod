@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種簡單的有條紋的碗"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統的碗"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個條紋保齡球"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個基本的條紋保齡球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "保齡球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個碗"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一隻保齡球"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一隻手工上色的保齡球"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "能用來盛湯"
+} ]

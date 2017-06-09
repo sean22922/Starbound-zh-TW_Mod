@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "邪教教徒兜帽，就像一隻大眼"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邪教教徒武裝兜帽"
+} ]

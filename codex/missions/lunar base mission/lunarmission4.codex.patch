@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "緊急關停"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "萊西亞集團在一次緊急事故中發出的信息"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "根據Alpha1a: Awakening條例，該設施已被全面關閉。\n一個爾切斯生命體在你們的設施內甦醒。請所有員工保持冷靜。信件已向你們的家屬發出，以感謝你們的服務。\n祝您愉快，\n萊西亞集團"
+} ]

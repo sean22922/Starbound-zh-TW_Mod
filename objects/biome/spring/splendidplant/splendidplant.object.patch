@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株相當可愛的粉紅色盆栽植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "漂亮的花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "挺美麗的一棵植物。不知道是不是實驗室培養出來的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這顆植物散發著快樂的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族見到發光的植物就能寧靜下來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "快樂。這顆植物散發著正能量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這顆植物好美麗。再接再厲，小傢夥！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我從未在野外見過這樣的植物。好奇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這朵花的心臟猶如黎明的太陽般耀眼"
+} ]

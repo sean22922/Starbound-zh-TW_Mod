@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "農業表"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;打獵，播種和製造"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "^#b9b5b2;藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "^#b9b5b2;成品"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnCraft/caption",
+  "value" : "製作"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnStopCraft/caption",
+  "value" : "停止"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProduct/value",
+  "value" : "原料足夠"
+} ]

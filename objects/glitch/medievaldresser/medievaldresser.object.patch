@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這張梳妝台有一股發黴的味道，看來不是很乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張樸素的梳妝台。裡面可能裝著樸素的衣服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "儲藏室，有個桌子在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡聞舊傢俱的味道。葉族人總是吸一鼻子灰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿足。一張古老的梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張古老且佈滿灰塵的梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個古老的儲藏櫃，可能是用來放衣服的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個佈滿灰塵的多屜櫥櫃，可能是用來放衣服的"
+} ]

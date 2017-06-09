@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它很大……\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "成年帕普踏普小雕像"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "活潑有彈力的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一株有彈力的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人在這上面彈跳"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。一株形似彈簧的植物"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個結實的夾克衫，鋼製的扣件，讓你在任何季節都不會感到寒冷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "強盜背心"
+} ]

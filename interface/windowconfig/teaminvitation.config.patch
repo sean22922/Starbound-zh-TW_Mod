@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/titleLabel/value",
+  "value" : "隊伍邀請"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/inviteLabel/value",
+  "value" : "你想加入他們的隊伍？"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/inviterName/text",
+  "value" : "紅色領袖"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/ok/caption",
+  "value" : "接受"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/close/caption",
+  "value" : "拒絕"
+} ]

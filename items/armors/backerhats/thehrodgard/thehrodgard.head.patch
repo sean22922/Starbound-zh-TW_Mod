@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "傳奇的矮人頭盔，侯德嘉。是用石頭打造的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "侯德嘉"
+} ]

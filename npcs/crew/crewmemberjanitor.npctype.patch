@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "看門人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "清潔"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "我是<selfname>，看門人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+  "value" : "名字叫做<selfname>……管家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "葉族叫<selfname>……葉族的工作是清潔工"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+  "value" : "葉族名字是<selfname>，管家<selfname>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "好無聊，我是<selfname>……是一名管家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+  "value" : "無動於衷。工作就是工作，可是……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+  "value" : "當地板上佈滿塵土時，就得有人來清掃。就是這樣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+  "value" : "我是<selfname>，管家。這裡的大事小情都歸我管"
+} ]

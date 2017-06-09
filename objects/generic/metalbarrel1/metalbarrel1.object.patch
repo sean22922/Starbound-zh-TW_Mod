@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "通用金屬桶。已經封死了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬桶。已經被密封好了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "金屬容器。我進不到裡頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "圓形金屬塊。沒有門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "挫敗。一個金屬桶，我沒法打開"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個金屬鼓。我進不去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金屬容器。已經關上了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個密封的金屬桶"
+} ]

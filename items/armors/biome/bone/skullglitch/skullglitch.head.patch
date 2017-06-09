@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "機器人頭骨。不算是頭骨，但它們畢竟盡力了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機器人頭骨面具"
+} ]

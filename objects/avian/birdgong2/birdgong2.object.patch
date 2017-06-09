@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個漂亮的大鐵鐘。上面布滿了雕刻圖案"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "漂亮的翼族鐵鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這東西肯定會發出很響亮的聲音"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這鐵鐘一定是祭司們用來敲響來開始和結束祈禱儀式的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人的聲板大聲得像葉族人的鐘"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷住。它振動的頻率好像和翼族人的水晶一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直想敲一下這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種聲音從來沒有從海底發出過"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "敲這東西一定能弄出很大的聲響"
+} ]

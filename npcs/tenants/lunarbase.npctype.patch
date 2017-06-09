@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我以前是分配在月球礦山機構的。現在退休了，真是好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "爾切斯液體的味道太讓我噁心了。聞起來就像……糖漿"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我那時在礦山機構的時候要一直保持武裝。多數情況下是為了防範太空海盜"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "或許單輪近戰我稱不上是個偉大的戰士，但是我在礦山的日子讓我有了銳利的眼光"
+} ]

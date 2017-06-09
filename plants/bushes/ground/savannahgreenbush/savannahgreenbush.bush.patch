@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乾燥的大草原灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "易脆乾燥的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "乾燥的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。易脆乾燥的灌木叢"
+} ]

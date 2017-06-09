@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有兜的襯衫，工匠專用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "手工的襯衫"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "煙從這一點滾滾散發出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "煙霧似乎來自其他地方"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這道煙霧跑進我的羽毛中了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這道煙霧擋住了葉族的視線！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷惑。這道煙霧一定有來源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這道煙一定是來自附近某處"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很多煙霧，但是沒有火？奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我看見煙霧，難道是有人燒水忘了關火？"
+} ]

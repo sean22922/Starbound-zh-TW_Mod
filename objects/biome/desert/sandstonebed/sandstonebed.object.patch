@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張砂岩牀。使用前確保抹去灰塵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "砂岩牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張粗糙的砂岩牀。如果鋪上合適的牀墊的話會很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張粗糙的砂岩牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族睡、睡在砂、砂岩牀上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "仔細觀察。如果以合適的角度跳到這個牀上，沙石可能會崩裂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張牀看起來是為法老準備的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張粗糙的砂石牀。並非理想的棲身之所"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來不太舒服啊，我寧願睡在旁邊的地板上"
+} ]

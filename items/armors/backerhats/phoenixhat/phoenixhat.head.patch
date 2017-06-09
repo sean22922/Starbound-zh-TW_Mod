@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個環代表著一種傳奇的火鳥，據說它們能在星星上漫步"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳凰圈"
+} ]

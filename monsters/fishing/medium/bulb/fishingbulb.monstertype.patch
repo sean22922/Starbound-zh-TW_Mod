@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "花環鰻"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "身體上多組魚鰾讓牠輕鬆控制自己的浮力"
+} ]

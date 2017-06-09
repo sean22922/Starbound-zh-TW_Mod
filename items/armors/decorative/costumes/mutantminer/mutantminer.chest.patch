@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個顯眼的夾克-除非你正在變成粉色……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "變異顯眼夾克"
+} ]

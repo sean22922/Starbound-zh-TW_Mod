@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這把斧頭的重量完全不像外觀那樣讓人輕視"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢製大斧"
+} ]

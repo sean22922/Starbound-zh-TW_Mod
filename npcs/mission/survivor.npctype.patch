@@ -1,0 +1,161 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/0",
+  "value" : "我來對付他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/1",
+  "value" : "偷襲！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/2",
+  "value" : "開火！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/3",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/4",
+  "value" : "快，我們正遭受攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/5",
+  "value" : "小心！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/6",
+  "value" : "當心！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/7",
+  "value" : "沒時間聊了，我們被發現了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/8",
+  "value" : "糟了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/9",
+  "value" : "我們被發現了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/10",
+  "value" : "我是有備而來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/11",
+  "value" : "我們在進攻？我們在進攻！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/12",
+  "value" : "給他們點顏色看看！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/13",
+  "value" : "他們也想玩玩狩獵嗎？那就和他們玩！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/14",
+  "value" : "我得想辦法逃走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/0",
+  "value" : "嘿，自己人！你也被困在這裡了？我們作個伴吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/1",
+  "value" : "還有倖存者？！看來你能操控自己。你來帶路吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/2",
+  "value" : "我沒想到在這能遇到其他倖存者！我們一起行動吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+  "value" : "繼續前進吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+  "value" : "我深受觸動"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/2",
+  "value" : "話說你是怎麼到這的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/3",
+  "value" : "他們沒看見它來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/4",
+  "value" : "我在這裡太久了，他們根本攔不住我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/5",
+  "value" : "拿著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/6",
+  "value" : "籲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/7",
+  "value" : "保持警戒，可能還有更多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/8",
+  "value" : "我希望這些骷髏只是道具……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/9",
+  "value" : "這就是招惹我們的下場！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/10",
+  "value" : "但願那就是全部了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/11",
+  "value" : "走吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/12",
+  "value" : "儘管我們沒能成功逃出去，起碼我們重傷了他們"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/13",
+  "value" : "我想知道還有多少像我們這樣的人在這裡被窮追不捨……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/14",
+  "value" : "我希望能在離開前擊傷更多葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/15",
+  "value" : "籲，你自我處理的相當好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/0",
+  "value" : "我在這裡等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/1",
+  "value" : "我會待在這，別讓我一個人太久！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/2",
+  "value" : "你需要點時間嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+  "value" : "又見面了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
+  "value" : "我們去攔截吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
+  "value" : "你準備好繼續前進了嗎?"
+} ]

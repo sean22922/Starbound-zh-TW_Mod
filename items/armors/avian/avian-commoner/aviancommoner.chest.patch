@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很簡潔的無袖外套，有時候傳統儀式上會用到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "隱藏式襯衫"
+} ]

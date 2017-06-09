@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個豎立的火炬。照亮著想要吃掉你的一隻巨獸"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "堅固的火炬支架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個火炬支架的設計確保它不會燃燒周圍的任何東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個支架是豎立的。我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族火炬保證火不會燒出來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這個火炬支架彰顯著先進的做工"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個精緻的葉族火炬支架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我肯定這個火炬支架對於葉族來說一定很高雅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個非常好看的火炬支架"
+} ]

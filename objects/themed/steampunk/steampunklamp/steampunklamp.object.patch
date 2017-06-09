@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞電牆燈，充滿了流動的，熾熱的氣體"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽朋克燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我猜那盞燈是通過"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈真神奇，這是怎麼做的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人沒法不盯著那盞燈看"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "催眠。這個燈的材質不知怎的讓人昏昏欲睡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當燈光閃爍時催眠氣跟著瀰漫開。真是令人昏昏欲睡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈的滴滴聲很小很安靜"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我跟這油燈還是有些共同之處的"
+} ]

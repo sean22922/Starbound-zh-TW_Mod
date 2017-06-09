@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "軟而毛茸茸的雪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著魔。這個雪看起來像是剛剛開始下"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冰冷的雪"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一堆剛下的雪"
+} ]

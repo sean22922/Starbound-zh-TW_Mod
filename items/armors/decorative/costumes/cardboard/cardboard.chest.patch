@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "想像力就是真實力量的鑰匙！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紙板箱盔甲"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鵝卵石"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "硬鵝卵石，摸起來很光滑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇妙。這些鵝卵石很光滑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光滑的鵝卵石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不常遇到像這樣的鵝卵石"
+} ]

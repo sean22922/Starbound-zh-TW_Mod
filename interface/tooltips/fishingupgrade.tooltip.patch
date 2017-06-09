@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/instructionLabel/value",
+  "value" : "右鍵裝備釣魚竿"
+} ]

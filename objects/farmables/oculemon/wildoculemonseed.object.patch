@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "虹膜是這個奇怪的水果裡最好吃的部分"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼檸檬種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "眼檸檬讓我想起了大猩猩。那巨大的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "外表嚇人的酸水果"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "除了眼球以外最好吃的東西，葉族人喜歡吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反省。這顆水果或許是自身靈魂的一扇窗？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在宇宙中的所有水果，眼檸檬是讓人毛骨悚然的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這顆水果的一部分必須要經過特殊處理，否則是致命的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這顆水果會看你嗎？不知道……"
+} ]

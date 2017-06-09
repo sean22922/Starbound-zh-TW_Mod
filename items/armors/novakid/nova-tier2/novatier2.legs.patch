@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿上強盜皮套褲，找到完美的出入口吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "強盜皮套褲"
+} ]

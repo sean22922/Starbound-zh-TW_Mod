@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "別用手亂碰！這感應器能夠感應到液壓的存在"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "液壓感應器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "別用手指！偵測器顯示了現在液壓的情況"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人印象深刻。這個偵測器顯示了液壓的情況"
+} ]

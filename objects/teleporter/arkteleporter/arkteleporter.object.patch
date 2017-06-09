@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個傳送器可以讓你回到方舟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "方舟傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這說不定可以連接到方舟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個傳送器說不定可以快速傳送到方舟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這或許可以讓葉族人直接傳送到廢墟"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我仔細分析下，這個傳送器應該是連接到方舟廢墟的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "從這個傳送器的外表上看，我猜它一定是連接到方舟的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我相信這個傳送器應該是和方舟廢墟連接的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個便捷回到方舟的方法，然後就可以開始下一段冒險！"
+} ]

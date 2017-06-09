@@ -1,9 +1,0 @@
-{
-  "name" : "codhead",
-  "category" : "fish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "codhead.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子內部是連起來的，保溫又安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "溫暖灰褲"
+} ]

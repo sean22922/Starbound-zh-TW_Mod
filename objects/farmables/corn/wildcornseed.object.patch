@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有點甜。黃色的麥子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "玉米種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "玉米：另一種看起來像香蕉但實際上不是的食物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "玉米是一種很好的零食"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅硬的黃色玉米，烹飪然後它就會突然爆開"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑：據說如果電子人吃了玉米，他們會在我們中間爆開"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "穩定的供給甜玉米是非常完美的事情"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種平常的，沒什麼味道的小吃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "玉米可以有很多形式被人們所欣賞"
+} ]

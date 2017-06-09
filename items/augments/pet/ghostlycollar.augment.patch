@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "此項圈能給你的寵物幽靈般的外表"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈項圈"
+}, {
+  "op" : "replace",
+  "path" : "/collar/displayName",
+  "value" : "幽靈"
+} ]

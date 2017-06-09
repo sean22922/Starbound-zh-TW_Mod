@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿輻射材料的桶子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輻射桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬桶。從上面的符號看，最好還是別打開它了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "金屬容器。我沒法進到裡頭。上面的符號是什麼意思？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬圓柱體，沒有門，這塊金屬感覺很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "害怕。桶上的標籤說裡面裝有放射性物質"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個內容物未知的密封金屬桶"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金屬容器。已經關上了。我想知道裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個密封的金屬桶，我不想打開它"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "squidtail",
-  "category" : "fish",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "squidtail.png"
-  }
-}

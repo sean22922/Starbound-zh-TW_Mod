@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由濃稠的粘液物質製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不太肯定一個半透明的箱子能有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我能從粘液裡看到箱子裡的東西，真棒！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個能看到裡面的箱子可不夠卑鄙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。我能從粘液中看到這個箱子裡的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "仔細一看，我能看透到粘液的對面"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子似乎是由綠色玻璃打造的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "能看透卻不能打開的箱子有何用？"
+} ]

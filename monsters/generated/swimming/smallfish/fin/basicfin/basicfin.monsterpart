@@ -1,9 +1,0 @@
-{
-  "name" : "basicfin",
-  "category" : "fish",
-  "type" : "fin",
-
-  "frames" : {
-    "fin" : "basicfin.png"
-  }
-}

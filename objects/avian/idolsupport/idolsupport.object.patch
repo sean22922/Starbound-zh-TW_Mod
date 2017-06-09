@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根支撐樑，上面雕刻有一隻令人生畏的鳥兒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帶雕刻的支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這好像是一個用來承受重物的雕像物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裝飾傳統的支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人的支撐樑不是很堅固啊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冷淡。一個進行裝飾的支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要是我把這個弄開，會不會有東西垮下來？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "細節相當精美"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這條支撐樑很精細"
+} ]

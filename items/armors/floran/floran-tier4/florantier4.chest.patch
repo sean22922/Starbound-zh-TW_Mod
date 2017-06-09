@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個硬鋼製的胸甲，用來保護身體的重要臟器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獵人胸甲"
+} ]

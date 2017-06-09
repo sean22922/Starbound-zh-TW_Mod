@@ -1,0 +1,165 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "尋找猿人神器的下落"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我們應該開始著手尋找^orange;猿人神器^reset;了。猿人棲息在^orange;冰凍行星^reset;上，該行星環繞著^orange;冰凍恆星^reset;，所以我們應該^green;去那裡尋找我們需要的 ^orange;線索^green; ^reset;。記得穿暖和點，而且要記住：猿人社會現在正處在動盪之中，所以要格外小心"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你已經找到了我們尋找猿人神器所需的一切線索！真是太棒了，我們的努力終於沒有白費"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "^green;掃描物品^reset; 以找到 ^orange;猿族線索^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/bigapedoll/text",
+  "value" : "這隻娃娃其實是個偷拍攝影機……迷你克諾格控制者猿人社會生活和文化的各個方面。我會試著追蹤攝影機的信號……多謝你找到了它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/bigapetargetmap/text",
+  "value" : "嗯，這張地圖指明了老大猿的所在之處。看來迷你克諾格喜歡把寶貝藏在身邊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/minidronerack/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/minidronerack/text",
+  "value" : "多虧了你的發現！這架無人機記載著很多有用的情報"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/miniknogintel1/text",
+  "value" : "這個發現真是太有用了！我敢肯定這些情報與神器的下落有關"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/miniknognewspaper/text",
+  "value" : "這張剪報上報導的都是詐騙與政治宣傳，但我相信謊言之下一定隱藏著有用的情報"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "嗯，有意思……我得深入挖掘一番"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/text",
+  "value" : "有趣，這肯定跟我的研究有關"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/text",
+  "value" : "繼續找，這非常有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/text",
+  "value" : "找到一條雖然隱晦但是很有價值的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/text",
+  "value" : "太好了，你找到的每條線索都能夠幫我形成完整的理論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/text",
+  "value" : "唔，到底……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/text",
+  "value" : "這樣一來，我之前的猜測就被證實了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/text",
+  "value" : "真是奇怪！但驚人的信息比意料之中的信息更加珍貴……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/text",
+  "value" : "即使是最不起眼的證據也能揭露出宇宙中最宏大的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/text",
+  "value" : "這條線索暗示了隱藏的信息"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "看來你找到的一些物品已經指向了神器的下落所在。我會儘快開始進行分析，你可以去搜尋更多的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "你還真是猿人古董的收集專家啊！你收集到的線索似乎已經足夠讓我找出神器所在之地了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "我知道猿人神器在哪了！^#71f2f6;等你準備好了就回方舟來^white;，我會告訴你更多情況"
+} ]

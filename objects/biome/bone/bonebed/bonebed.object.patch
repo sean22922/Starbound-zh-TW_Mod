@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個棺材牀。讓你享受到不死者的撫慰"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨棺牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這牀看起來小並導致幽閉恐懼症。它有一個蓋子！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "睡在這個牀上一定不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族對棺材不熟悉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "恐懼，這個牀風格和棺材一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "也許太空吸血鬼使用此牀。太空吸血鬼是真的嗎？我希望如此！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "關於這個牀的事情讓我緊張"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "他們中有人喜歡睡盒子"
+} ]

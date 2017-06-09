@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能自己做藍月亮的話，為什麼還要等呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色噴漆槍"
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/0",
+  "value" : "給它們點顏色看看！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/1",
+  "value" : "不成功，便成仁！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/0",
+  "value" : "你救了我！被那傢夥抓住後我還以為自己完蛋了。你是我的英雄！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/1",
+  "value" : "你消滅了怪獸！我困在它裡面，差點也和其他人一樣變異了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/2",
+  "value" : "我被那傢夥抓住了。如果不是你消滅了它，我現在也變異了。謝謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/3",
+  "value" : "我沒死？！你救了我的命！謝謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+  "value" : "喲，你能操控自己"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/0",
+  "value" : "我最好馬上去修補礦井…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/1",
+  "value" : "礦井裡還有其他倖存者嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/2",
+  "value" : "你贏得了我們所有人的尊重"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/3",
+  "value" : "前方有儲物箱，去取裡面的東西吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+  "value" : "你是個探險家嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/1",
+  "value" : "我會永遠記得你的恩情！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/2",
+  "value" : "清理現場需要大量人手"
+} ]

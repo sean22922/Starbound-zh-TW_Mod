@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個冰箱，用來冷藏食物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式電冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很少猿人有食物剩下"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個存食物的設備"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡冷藏食物。肉能保鮮，是的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "決定了。我要攻擊這個食物貯藏設備！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個冰箱！能冷藏食物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們在大海下面不需要這玩意"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "裡面很冷，能讓食物保存更長時間"
+} ]

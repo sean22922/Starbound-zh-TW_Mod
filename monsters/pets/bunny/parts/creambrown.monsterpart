@@ -1,9 +1,0 @@
-{
-  "name" : "creambrown",
-  "category" : "petbunny",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "creambrown.png"
-  }
-}

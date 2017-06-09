@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "接收液態切爾斯作為飛船超光速裝置的燃料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "超光速燃料艙門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "超光速燃料艙門。燃燒燃料追尋自由"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "超光速燃料艙門。我們加滿燃料，去群星中探險吧！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "超光速設施的燃料艙門，我們快給它加滿燃料吧！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。這是超光速設施的燃料閥門，說不定我可以去探訪這個星系外面的星球了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是這艘飛船的燃料艙門。超光速設施有燃料後，我就可以探索星系外的世界了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "謙遜的超光速燃料艙門啊。燃料是探索的生命之血"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "超光速的燃料在這！"
+} ]

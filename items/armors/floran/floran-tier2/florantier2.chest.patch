@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鎢，用骨頭加固，並用獵物身上的毛皮所做的皮革塞滿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨製胸甲"
+} ]

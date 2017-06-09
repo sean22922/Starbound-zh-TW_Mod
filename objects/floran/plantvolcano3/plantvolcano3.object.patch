@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個寬型火山間歇泉，它不斷的排出熱氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寬型火山間歇泉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這火山泉應該不會溢出來，沒什麼可怕的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這火山泉閃著強光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人很討厭火熱的火山泉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "別擔心，這個火山裂縫沒危險的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "雖然看上去挺安全，可我才不要踩上去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在深海中看到這樣的裂縫並不奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "從這個裂縫中溢出的岩漿照亮了前進的道路"
+} ]

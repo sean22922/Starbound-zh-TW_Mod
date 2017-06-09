@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個壞掉的超光速燃料艙門。這行不通！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的超光速的燃料艙門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "轉變燃料為自由"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "讓我們把它加滿並且帶到星星上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "我們走！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮：一旦裝滿燃料，我們可以去其他的星球"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "燃料艙門。我可以充滿燃料繼續探索了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燃料是探險的命根子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡有超光速的燃料！要是修好的話……"
+} ]

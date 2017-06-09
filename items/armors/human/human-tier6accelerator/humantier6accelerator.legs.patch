@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子會去統計你穿過複雜電路的步數。別問我為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "探索者褲子"
+} ]

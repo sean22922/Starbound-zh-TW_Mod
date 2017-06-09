@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鮫族的餐點，充斥著過多的海洋生物做料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海洋驚奇"
+} ]

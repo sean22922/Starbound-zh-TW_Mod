@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "cottonwool", "count" : 3 }
-  ],
-  "output" : { "item" : "canvas", "count" : 1 },
-  "groups" : [ "craftingwheel2", "ingredients" ]
-}

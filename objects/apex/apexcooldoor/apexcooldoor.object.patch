@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個大門是由某種防彈材料製成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "安全門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個門看起來堅固得能阻擋任何東西…任何人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個堅固的門。一直蒼蠅都飛不進去"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很堅固的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "羨慕。強度這麼大的材料"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個很大很重的安全門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個看起來足夠堅固能抵擋海洋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇很厚的門"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小堅果蠓蟲"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "經常是和其他的小堅果蠓蟲一起長大，以保證彼此的安全"
+} ]

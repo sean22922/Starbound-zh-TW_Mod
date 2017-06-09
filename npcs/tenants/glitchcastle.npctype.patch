@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "妄自尊大。我是小皇族！機靈點，對我好點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "失望。我以前住的地方比這好多了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "不讚賞。我想我還能在這住住。雖然以前我住的地方比這大……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/3",
+  "value" : "傷感。我以前住在大城堡了，直聳雲霄"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/4",
+  "value" : "無禮。這個房子還行，但是不夠大，我不喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/0",
+  "value" : "禮貌。你看著像個農民，但是這並不是說你不能成就大事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/1",
+  "value" : "幻想。我以前有個僕人長得跟你很像"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/2",
+  "value" : "不讚賞。我以前有個比這大得多的房子。像你這樣的人是不會理解的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/3",
+  "value" : "傷感。我以前住在大城堡了，直聳雲霄"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/4",
+  "value" : "好奇。如果你沒有僕人，那你的這些家務誰做？"
+} ]

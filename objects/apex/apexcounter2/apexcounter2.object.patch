@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個制式流理台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式流理台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人做飯的時候會把洗手檯弄成這樣。我不推薦這樣做"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個準備食物的好平台"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嗯……咱們做好吃的吧！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。我們可以在這維持一陣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來是做食物的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡是準備美食藝術的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "準備食物的平面"
+} ]

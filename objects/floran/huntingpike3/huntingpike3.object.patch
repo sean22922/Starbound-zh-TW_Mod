@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "企鵝的骨頭被插在長矛上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝骨頭長矛"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這隻企鵝的遭遇讓人唏噓"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "沒有飛禽應該落得如此下場，哪怕是企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族將小鳥骨頭插在長矛上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這個裝飾讓人髮指"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些長矛上的骨頭似乎是屬於企鵝的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族風格的骨頭裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些讓人心寒的企鵝骨頭掛在長矛上"
+} ]

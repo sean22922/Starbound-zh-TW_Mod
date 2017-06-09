@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張極度時髦華麗的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個豪華的桌子光滑剔透"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張巨大的堅固豪華桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這張桌子好的能讓葉族人切——肉——"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好呀，一把做工精美的豪華桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張酷斃的懸浮桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "正常來說，它並不是我的菜，但它太令人印象深刻了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這桌子看上好像飄在空中"
+} ]

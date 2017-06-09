@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/0",
+  "value" : "陌生人，聽從庫魯克斯的吩咐！在他強大的羽翼下顫抖！對他鋒利的慈悲驚歎！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/1",
+  "value" : "我是占星師，庫魯克斯的後代！我的言語是我們有翼之神的聖諭！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/2",
+  "value" : "陌生人，有好事發生是因為庫魯克斯的垂憐，而壞事都是你自己的錯"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/3",
+  "value" : "你不像是庫魯克斯的忠實信徒，禮貌點，陌生人，我們不會傷害你"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/4",
+  "value" : "你不是這裡的人，但只要你遵守庫魯克斯的律例，我們就不會同你衝突"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/default/5",
+  "value" : "翼族人很快要前往天堂，別想念我們，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/0",
+  "value" : "翼族，聽從庫魯克斯的吩咐！在他強大的羽翼下顫抖！對他鋒利的慈悲驚歎！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/1",
+  "value" : "我是占星師，庫魯克斯的後代！看你們的眼神，我想你們已經知道了！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/2",
+  "value" : "有好事發生是因為庫魯克斯的垂憐，而壞事都是你自己的錯。作為翼族，你應該早就知道了！"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/3",
+  "value" : "星外的翼族人，你一直在傳播庫魯克斯的善語才能獲得羽翼的吧？"
+}, {
+  "op" : "replace",
+  "path" : "/dialog/converse/avian/avian/4",
+  "value" : "若我們忠於庫魯克斯就能在天堂掙得一席之地，其他種族無法加入"
+} ]

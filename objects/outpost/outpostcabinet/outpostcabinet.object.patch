@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個不知道裝了啥的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來很有意思的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個用來存東西的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。想知道櫃子裡裝了啥"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個粗糙的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個簡陋的櫃子。裡面有什麼嗎？"
+} ]

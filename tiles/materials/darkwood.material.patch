@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來蓋房或製造的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木材"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些做好的木板"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "做成木板的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這些木板做工精良"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "粗糙的木板"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一些木頭做的板子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "基礎木板"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是一些基礎木板"
+} ]

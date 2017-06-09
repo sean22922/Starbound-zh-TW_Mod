@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "碎石看上去像是一個老舊的建築物的碎片"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "碎石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。看來這個碎石曾經是某個建築物的一部分"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "從老舊建築物那得來的碎石"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一堆壓碎的石頭"
+} ]

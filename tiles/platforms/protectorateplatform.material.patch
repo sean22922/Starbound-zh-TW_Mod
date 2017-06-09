@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看著很簡易的平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這些平台可以輕易承受住我的重量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的金屬平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用金屬製成的漂亮平台"
+} ]

@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "入侵者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/0",
+  "value" : "別離開我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/1",
+  "value" : "你最好快點跑！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/2",
+  "value" : "你以為自己還能完整出去嗎？大錯特錯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/3",
+  "value" : "哈哈哈！來這裡就是一個錯誤，是吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/4",
+  "value" : "過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/5",
+  "value" : "跑沒用的，沒有地方安全！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/6",
+  "value" : "你不該來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/7",
+  "value" : "喂！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/8",
+  "value" : "你以為自己是誰！？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/9",
+  "value" : "你會明白的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/10",
+  "value" : "你那眼神是厭惡我嗎！？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/11",
+  "value" : "我會把你射到太陽裡去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/12",
+  "value" : "我希望陌生人被打個半死！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/13",
+  "value" : "想跑就跑啊，膽小鬼，追人更有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/14",
+  "value" : "哦哦哦！這會很有趣的！"
+} ]

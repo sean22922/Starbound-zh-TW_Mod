@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對很大的裝飾鐘。就是這個東西讓我們有了節日的感覺！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨大的假日鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "巨大的鐘！真高興！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "愉快的鐘"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "噹噹噹！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真高興。快樂的假日大鐘"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這讓我想到了單獨一個人在家的時光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些鐘能發出令人愉快的鐘聲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些大鐘肯定是用於節日的"
+} ]

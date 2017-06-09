@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這地方開店很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "關閉的青蛙傢俱店"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這箱子裝飾真奇怪。上面是不是有個沙發？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來有人在把這個箱子變成貨攤。會是賣什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想躲到箱子裡。希望裡面沒有人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這個箱子似乎是要改造成一個貨攤"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某人在裝飾這個箱子，很好奇最後完成後會是什麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我不確定這個盒子是要變成什麼樣子，但是我喜歡藍色油漆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我喜歡這個箱子的木質飾面，我想知道箱子主人用這個幹嘛"
+} ]

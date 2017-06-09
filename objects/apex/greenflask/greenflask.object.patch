@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿綠色粘液的長頸瓶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色長頸瓶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些恐怖的猿人混合物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "基本都凝固了。像蛋黃一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "惡、惡臭的綠色粘稠物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。未知的混合物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "最好還是別去管這個井吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "都能聞到毒藥的味道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不用調查就知道這玩意不是什麼好東西"
+} ]

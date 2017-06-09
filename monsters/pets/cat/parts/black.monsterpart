@@ -1,9 +1,0 @@
-{
-  "name" : "black",
-  "category" : "petcat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

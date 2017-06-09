@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我可不想被鎖在這些大鐵欄後面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵柵門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇鐵製牢房門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人用這種門來保衛他們的墓穴"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "重鐵門來保護裡面的好東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，這很像機器人地牢中的囚室門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看來像是一扇牢房門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇頗具壓迫性的門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門後面肯定關過一些倒黴的傢夥"
+} ]

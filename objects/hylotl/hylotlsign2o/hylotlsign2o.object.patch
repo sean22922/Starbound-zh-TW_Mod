@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙色霓虹標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來像\"呱\"這個字，不過它顯然不是這個意思"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "標誌上寫著\"呱\"。我覺得真不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我一點都不想沿著標誌指示的方向走"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵的。寫著\"呱\"的標誌。真有用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我確定這個標誌指向某處很好的地方。如果我不是忙於……其它事情……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "沐浴在標誌的霓虹光芒下，我想起了那些失而復得的愛。我的喉嚨有些哽咽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺看不懂"
+} ]

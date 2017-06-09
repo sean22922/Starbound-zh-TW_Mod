@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "僱傭兵不在乎時尚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "僱傭兵護脛甲"
+} ]

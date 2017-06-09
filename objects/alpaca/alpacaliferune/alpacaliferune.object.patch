@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老符文，生命的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生命符文"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個古老符文，本身代表著生命"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "符文被認為代表著生命的本質"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個古老標記，代表著生命"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "樂天派。一個古老的符文，代表著生命的美德"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很明顯，這個古老符文意味著生命"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個古老標誌，用來代表所有的生命"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個代表所有生命的符文，對於一個小符文來說級別很高"
+} ]

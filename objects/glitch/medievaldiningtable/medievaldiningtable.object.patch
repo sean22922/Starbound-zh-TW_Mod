@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張漂亮的餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇家餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子最吸引人的看起來是這張很漂亮的桌布"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有人在這張漂亮的餐桌上蓋了一塊桌布，以便保持乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這是牀還是桌子？好漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "貪婪。我已經好久沒有吃機器人的飯了。宇宙中很少有機會享受到這樣的樂趣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "巨大的餐桌。很適合來個大餐"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來像是皇室成員社交聚餐用的桌子。桌布表示將有一場盛宴"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張非常美麗的桌子，用來舉辦鄉間歌舞會"
+} ]

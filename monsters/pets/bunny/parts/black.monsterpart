@@ -1,9 +1,0 @@
-{
-  "name" : "black",
-  "category" : "petbunny",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

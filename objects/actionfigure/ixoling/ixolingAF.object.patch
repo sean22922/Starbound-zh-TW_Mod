@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"如果它再存活200年，它可能會變成一隻埃克斯歐督姆。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艾克索菱小雕像"
+} ]

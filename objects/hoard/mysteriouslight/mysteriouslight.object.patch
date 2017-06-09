@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個小小的金色聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金色聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格用這種聚光燈來進行刑訊逼供。有聚光燈，還有更可怕的東西……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "討厭而晃眼的聚光燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人感覺自己是大家的焦點"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "偷偷的。通過分析探照燈的工作模式，就可以很輕易的在附近悄悄行動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直都想站在聚光燈下"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "明亮而筆直的探照燈束"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這燈和我一樣亮！"
+} ]

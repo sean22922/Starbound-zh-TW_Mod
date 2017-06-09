@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;嗯我可以的！"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "要種植作物，我得保持土壤溼潤。我應該 ^orange;造一個木製噴水壺^white;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "太好了！有這個噴水壺和鋤頭，我應該就能開始種田了！"
+} ]

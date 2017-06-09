@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "天花板的聚光燈。適合點亮任何漂亮的藝術品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典天花板燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "為欣賞畫作提供照明"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "確實是一縷虛弱的光，建立來把注意力吸引到一個地方的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來給亂塗亂畫照明"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇妙。這燈的角度給電子人畫作照明正好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "畫廊燈。適合為畫作照明"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "最美麗的畫在這種燈光下也會更加美麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這燈是為了給畫照明用的"
+} ]

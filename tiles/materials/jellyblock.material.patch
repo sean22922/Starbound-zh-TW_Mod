@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鮮豔粘滑的膠狀物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "膠裝團"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不適。我不喜歡這個膠狀物搖晃的方式"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "左右搖晃的膠狀物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一團看著粘滑的膠狀物"
+} ]

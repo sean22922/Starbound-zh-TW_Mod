@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一片紅色的生肉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一片紅色的生肉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "生肉肉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可怕。一片紅色的生肉"
+} ]

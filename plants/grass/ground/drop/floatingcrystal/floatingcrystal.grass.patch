@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "神祕的漂浮水晶 "
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "神祕的漂浮水晶 "
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂浮有光澤"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷惑。一個漂浮水晶"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有著各種有趣的按鈕觸屏控制台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高科技控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "按下這個按鈕……會怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個按鈕好誘人啊…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人好想按閃亮亮的按鈕喔"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：我很想按下所有的按鈕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "也許按幾個按鈕會有有趣的事情發生"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "還是別隨便按按鈕了……不知會發生什麼事呢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "上面有幾個按鈕的控制台……真想按下去呢"
+} ]

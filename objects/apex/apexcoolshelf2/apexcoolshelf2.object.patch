@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來把一堆缺少標記的化學品放在一起是很不負責任的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的化學品架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "擺滿了實驗性調合物的架子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個鍊金術師的藥劑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "危險的臭味液體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。如果我喝一口會怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不認為這個架子上的東西喝起來很安全"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很多液體是致命的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺那玩意不能喝"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的翼族人村民！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我能生產一些翼族人朋友們"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許我能用這個召喚一些地面生物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人把翼族人給葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思：庫魯克斯對這會怎麼想？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "贊，我能召喚一支小鳥軍隊了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我估計召喚一隻翼族人是沒問題的"
+} ]

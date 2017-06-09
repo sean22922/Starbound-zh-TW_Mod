@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個有毒廢物桶。別灑了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "有毒廢物桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裝著廢料的桶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "超級難聞的桶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞聞上去就像葉族人的洗澡水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警報。這個混合物也許很危險"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要是我掉進這樣的桶裡，我會不會有超能力？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很多這樣的桶被其他人傾倒進海裡，那些都是沒必要關注的種族"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "它灑得到處都是！聞著和驢一樣臭"
+} ]

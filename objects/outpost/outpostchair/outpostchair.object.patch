@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把椅子。你可以坐下來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "襯墊金屬椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把標準的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把簡單的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "坐！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "讚許。一把椅子。機器人偶爾喜歡坐一下"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把像樣的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把簡陋的椅子，有基本功能"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一把有用的椅子"
+} ]

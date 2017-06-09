@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個升級包在你的環境保護器的基礎上增加了輻射中和功能。可以在^red;高輻射等級^reset;的星球上使用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輻射環境保護器升級包"
+} ]

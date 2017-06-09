@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "交易怪物"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "<questGiver> 想交易！"
+}, {
+  "op" : "replace",
+  "path" : "/message",
+  "value" : "<questGiver>想用<questGiver.pronoun.possessiveDet><tradedMonster>換你的<monster>。這是永久的交易。\n\n要成交嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/okCaption",
+  "value" : "當然"
+}, {
+  "op" : "replace",
+  "path" : "/cancelCaption",
+  "value" : "等一會兒"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翻弄燃燒的煤或者點火的時候用的工具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壁爐工具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "增強火勢的工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "尖銳的棍子，是幹什麼的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些是武器嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿足。一套鐵製的火具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我覺得這些工具是在壁爐使用的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些工具是幹嘛的？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金屬工具，用來生火的"
+} ]

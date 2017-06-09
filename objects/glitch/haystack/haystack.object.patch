@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一卷捆整齊的乾草，準備堆積起來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾草堆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一捆乾草。我不禁思索這些是幹什麼的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "方塊形狀的乾草"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用乾草堆砌成一座大城堡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。成捆的乾草容易存放"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我覺的這些應該叫乾草捆"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "乾燥的陸地植物，製成塊了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一捆乾草"
+} ]

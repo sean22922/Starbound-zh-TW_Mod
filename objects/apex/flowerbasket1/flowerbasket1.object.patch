@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可愛的吊籃。別抓著它晃！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "吊籃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可愛的吊籃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "多可愛的一排花啊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡搖籃。飛出去，撞破窗戶。有趣！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "仰慕。一個做工精美的吊籃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有一個曾經還掉在了我頭上。美好時光啊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個適當的翼族人裝飾。我還見過更厲害的海草編織"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個吊籃。有家的感覺"
+} ]

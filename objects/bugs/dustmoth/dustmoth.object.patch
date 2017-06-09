@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "星塵蛾翅膀上的鱗粉猶如星塵一般"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "星塵蛾"
+} ]

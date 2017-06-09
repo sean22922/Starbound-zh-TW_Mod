@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "令人入迷，我眼睛挪不開了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者全球"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這盞燈是在浪費能源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一盞球體形狀的燈催眠般地移動著"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "圓形燈超級棒！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不錯。我喜歡這個小飾物，儘管其目的性缺乏"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "時髦的球燈！我管它叫這個"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞平靜的、球狀的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈一直在動"
+} ]

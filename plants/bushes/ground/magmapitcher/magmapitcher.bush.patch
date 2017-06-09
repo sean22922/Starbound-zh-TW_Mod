@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿岩漿的圓錐體"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝滿岩漿的圓錐體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "山少的液體體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。裝著岩漿的圓錐體"
+} ]

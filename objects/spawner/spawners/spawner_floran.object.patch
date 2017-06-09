@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的葉族人村民！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葉族人召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "生產葉族人可能會是一場災難"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不確定我想生產葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人召——喚親——戚！耶——！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興：我一直都喜歡和植物交流"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我們搞點葉族人來，讓後走起吧！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "召喚葉族人是個糟糕的點子"
+} ]

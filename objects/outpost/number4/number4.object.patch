@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "四個標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平淡。四"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "四"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個四"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系的行星天王星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "天王星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "天王星的軸傾斜角超過了九十七度"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "天王星烏拉諾斯以地球的天空之神而命名。和翼族的天空之神相比\n這傳說可遜色多了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "天王星是太陽系中的第七行星。它有著模糊的星環嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷狀。天王星是太陽系中最寒冷的行星"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "天王星可能的確是以神命名的……可聽上去還是很搞笑"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "天王星因它偏轉的軸心而令人好奇。這讓它在太陽系中獨一無二"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "天王星是一個冰巨行星，因為可以有效掩蓋躲藏的船隻的引擎排放而聞名"
+} ]

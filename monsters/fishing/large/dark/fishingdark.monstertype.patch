@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅寶蜇"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠大部分的身體都是腦的事實，只能靠厚厚的頂殼保護"
+} ]

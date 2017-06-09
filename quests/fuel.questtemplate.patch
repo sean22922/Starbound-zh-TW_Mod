@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;航行燃料"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "想要給FTL引擎提供燃料，你需要使用液化爾切斯。這種粉紅色的液體^green;可以在^orange;沒有空氣的行星^green;^orange;地殼下找到^white;。我需要收集至少^orange;20單位的液化爾切斯^white;才足夠讓船隻航往附近的星系"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "我獲得足夠的燃料了！我可以^green;在船隻的燃料表那裡^orange;注入燃料。^white;然後使用導航系統跳躍到附近的其他星系"
+} ]

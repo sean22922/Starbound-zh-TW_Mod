@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太美了，顏色鮮豔的羽毛，排列得就像花一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "顏色鮮豔的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些羽毛是從哪隻鳥兒身上來的？體積很大，不可能是翼族人的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人採用五顏六色的鳥兒身上掉落的羽毛來裝飾神廟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人也喜歡用羽毛來裝飾。葉族人把這些羽毛當戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這些羽毛是從什麼動物身上來的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那些肯定是從一隻大鳥身上來的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些羽毛的美麗是不容置疑的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些羽毛很好看"
+} ]

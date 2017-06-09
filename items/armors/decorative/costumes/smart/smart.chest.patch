@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個上衣看起來具有智慧和數位感"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "精美上衣"
+} ]

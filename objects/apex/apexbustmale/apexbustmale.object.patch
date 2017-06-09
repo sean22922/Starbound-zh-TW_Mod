@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個重要猿族成員的半身像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "男性猿族半身像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想知道這個傢夥毀了多少家庭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "被巧妙的雕刻"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石頭盛宴對壞掉的牙齒有幫助"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "思鄉症。我能想起我們國王的雕像"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個傢夥看起來很重要"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "由普通石頭製造的機器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一座宏偉的雕像。這個猿人是誰？"
+} ]

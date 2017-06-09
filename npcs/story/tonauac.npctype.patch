@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/start/default/default/0",
+  "value" : "哦！……一位來訪者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/start/default/default/1",
+  "value" : "歡迎來到神廟！能迎來你真好。我是^orange;託納瓦克^white;，神廟看守"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/start/default/default/2",
+  "value" : "你是來瞭解我們全知全能的庫魯克斯神的嗎？我會非常樂意提供幫助！我來帶你參觀一下吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/start/default/default/3",
+  "value" : "不過有一件事，請不要碰任何東西。你也知道，我們過去深受盜賊苦惱"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/start/default/default/4",
+  "value" : "我知道你從沒想要拿走任何東西，但是不是所有人都可信。這真是令人難過……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/continue/default/default/0",
+  "value" : "請進！小心頭頂，還有腳下，還有你……自己，這裡有點危險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/maskDescription/default/default/0",
+  "value" : "這些儀式面具都非常古老，蘊藏著庫魯克斯的洪荒之力。我們認為"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/maskDescription/default/default/1",
+  "value" : "它們過於古老以至於都不可考……但是我們確實知道庫魯克斯是儀式面具的擁躉！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/altarDescription/default/default/0",
+  "value" : "這是我們的獻祭聖壇。這是非常好的典型。這些細槽使血液貫通全身"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/altarDescription/default/default/1",
+  "value" : "這座神廟是庫魯克斯自己修建的其中一座"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/altarDescription/default/default/2",
+  "value" : "天啊！他真是全知全能，不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/statueDescription/default/default/0",
+  "value" : "這是一位古代翼族戰士的雕像！這些是他的長矛……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/statueDescription/default/default/1",
+  "value" : "他已不再使用它們了，因為，呃，他已經死了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/endTour/default/default/0",
+  "value" : "嗯，希望你旅途愉快！請自由地四處參觀吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/endTour/default/default/1",
+  "value" : "很遺憾這是我們向遊客開放的最後一扇門。只有看守還有全能的神明能夠越過這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/endTour/default/default/2",
+  "value" : "上庭內有些可愛的物品，然後你通過返回這條路離開。讓我來開門"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/feelingTired/default/default/0",
+  "value" : "請切勿試圖深入，這很危險……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/feelingTired/default/default/1",
+  "value" : "嗯，能夠交到新朋友真好。但是這些路程真的……有點……累人……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/doorGreeting/default/default/0",
+  "value" : "哦，你在這啊！看見你平安真讓我鬆了口氣！我以為你迷路了……你真的不該出現在這……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/doorGreeting/default/default/1",
+  "value" : "事實上，我也不該——我以前還從沒到神廟的這麼深處來過……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/doorGreeting/default/default/2",
+  "value" : "說真的，呃，我也迷路了……但是我們兩人合力一定能找到回去的路！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/doorOpened/default/default/0",
+  "value" : "這扇門對我有點太小了。我確定你能過去"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/doorOpened/default/default/1",
+  "value" : "你去看一下那邊，我在這邊找找出口"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/giveRelic/default/default/0",
+  "value" : "……我知道你要幹什麼！一直都知道！！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/giveRelic/default/default/1",
+  "value" : "你是來侍奉庫魯克斯的！我是說，你如果沒有他的幫助和指引是不可能走這麼遠的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/giveRelic/default/default/2",
+  "value" : "這證明了這件古物一直在這裡等待著你：這些羽翼水晶容納著庫魯克斯意志的碎片！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/giveRelic/default/default/3",
+  "value" : "請問我能加入你嗎？我只庫魯克斯忠誠而熱忱的僕從——我保證我會有用的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tonauac/end/default/default/0",
+  "value" : "一個傳送點！感謝庫魯克斯！哦，他真是不可思議"
+} ]

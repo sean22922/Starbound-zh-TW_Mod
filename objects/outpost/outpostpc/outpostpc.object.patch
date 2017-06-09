@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台電腦。也許很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "台式電腦"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台電腦"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台奇怪的電腦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不會用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "羨慕。一台超級電腦"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很甜美的裝束"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "其他種族過分依賴技術，這讓我很傷心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我打賭這玩意可以查任何東西！"
+} ]

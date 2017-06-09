@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "酒吧的木質彩色招牌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧招牌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個老舊的招牌寫著酒吧兩個字。顧名思義，它就是個，呃，酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "酒吧？很不錯的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族沒時間去看那麼長的文字"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察性。這個招牌很引人注目——我懷疑它的目的是為了吸引顧客"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酒吧？可以打架嗎？還是說只能玩玩撲克牌？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡陋的招牌，使用廉價的剝漆來修飾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這才是我在尋找的好地方呀"
+} ]

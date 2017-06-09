@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這隻蟲子在空中飛行時會發出微弱的鈴鐺聲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "落鈴蟲"
+} ]

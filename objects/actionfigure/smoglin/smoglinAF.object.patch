@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它腹腔內的化學反應使它的氣息變得有毒。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "炎霧麟小雕像"
+} ]

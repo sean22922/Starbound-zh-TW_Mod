@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台樣式時尚的電視機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時尚電視"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台有格調的電視機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台電視，這些東西經常能在城市人家裡找到"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電視"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝，一台現代電視"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台電視！所有這些頻道依然不值得一看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台城市款的電視"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一台大城市裡的那種電視"
+} ]

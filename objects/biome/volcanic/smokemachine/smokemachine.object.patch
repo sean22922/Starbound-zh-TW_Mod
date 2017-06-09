@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台煙霧機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煙霧機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "煙霧機器很適合分散注意力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "製造煙霧的機器，有何用處？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "煙霧機器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "大笑。這台機器製造煙霧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某種煙霧機器，最適合迪斯科！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台煙霧機器，這非常……清真"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種煙霧機器"
+} ]

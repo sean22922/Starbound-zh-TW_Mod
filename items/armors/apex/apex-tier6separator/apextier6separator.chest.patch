@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這套盔甲巨大的肩鎧在向外界聲明，它的主人可不是吃素的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "前線胸甲"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "孢格斯"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在溫暖潮溼的環境下長得更快"
+} ]

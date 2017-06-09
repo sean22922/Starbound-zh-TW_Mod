@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個古老的傳送器無法運作了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞道的方舟傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個古老的傳送器無法運作了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個吃土的傳送器應該用不了了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傳送器一聲不響"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪。這個壞掉的傳送器看上去很古老……怎麼可能？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這傳送器要是能運作的話，就會將我帶往未知的世界"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個傳送器壞了有一段時間了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個古老的傳送器好像無法運作"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它總是焦躁不安。它橫著走路，哪怕是最輕微的衝突也會讓它爆發。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蟹卡諾小雕像"
+} ]

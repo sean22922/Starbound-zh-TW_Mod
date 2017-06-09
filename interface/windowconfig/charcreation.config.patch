@@ -1,0 +1,69 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/labelSpeciesRadio/value",
+  "value" : "^#8d8d8d;種族"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelGender/value",
+  "value" : "^#8d8d8d;性別"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelCustomise/value",
+  "value" : "^#8d8d8d;客製化"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelName/value",
+  "value" : "^#8d8d8d;名稱"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelDifficulty/value",
+  "value" : "^#8d8d8d;難度"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelRandomise/value",
+  "value" : "隨機："
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelToggleClothing/value",
+  "value" : "顯示穿著"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelPortrait/value",
+  "value" : "人類"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/saveChar/caption",
+  "value" : "完成"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/cancel/caption",
+  "value" : "取消"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelCasualMode/value",
+  "value" : "休閒"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelSurvivalMode/value",
+  "value" : "生存"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelHardcoreMode/value",
+  "value" : "極限生存"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/mode/buttons/0/data/description",
+  "value" : "不需要進食也不會有死亡懲罰"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/mode/buttons/1/data/description",
+  "value" : "進食才能生存，死亡時掉落道具"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/mode/buttons/2/data/description",
+  "value" : "死亡後角色便無法再復活"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSkipIntro/value",
+  "value" : "跳過開場任務"
+} ]

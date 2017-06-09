@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個用皮革製作的櫃子上有四顆巨大的獠牙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型原始櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用皮革和獠牙製作的櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個櫥櫃由伸展的羽毛做成。當受力時會彎曲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡皮革櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "經驗。用皮革做櫃子真是聰明的想法"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "碗櫃本身是由羽毛做成，很酷的想法"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "本來好好的一個創意被屠夫給毀了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這櫃子上的獠牙真不錯"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅神明庫魯克斯的古老壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "庫魯克斯世界壁畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這壁畫好像描述的是翼族人的什麼巨大的寶藏"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "庫魯克斯壁畫描述的是我族人巨大寶藏的位置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石頭上的這些東西看起來很重要的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這壁畫描述的好像是古代寶藏的神廟"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這石頭上的壁畫說的是一個堆滿寶藏的翼族神廟。唔"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這神祕的壁畫講述的是一個堆滿寶藏的翼族神廟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這古老的東西好像說的是什麼神廟"
+} ]

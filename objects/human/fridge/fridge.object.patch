@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "適合保存很多食物並保鮮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "全尺寸冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "冰箱，我要香蕉奶昔"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "冰箱，應該填滿了飲料和零食"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人聞到裡面有肉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這個冰箱正運作在最佳溫度下"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我快要興奮得顫慄了，想想吧，裡面多少吃的啊！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在水下冷藏食物簡單多了，這種裝置倒是一種聰明的替代手段"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "普通的冰箱"
+} ]

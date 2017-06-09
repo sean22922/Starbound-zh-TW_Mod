@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只是普通的烤肉，沒什麼特別，但也令人很滿意"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燒烤盛宴"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個生鏽的小鍋爐，可以將冰冷的水變成蒸汽"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型蒸汽鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個粗糙的燒水器不知有多少年代了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在這個金屬盒裡，水被蒸發為蒸汽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不知道葉族捅它的話裡面的水會不會流出來！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個機械似乎可以內燃把水煮起來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鏽跡斑斑的燒水器。不知道有多舊了？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個很醜陋的機關，可以將水製造成蒸汽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個燒水器似乎是自製的"
+} ]

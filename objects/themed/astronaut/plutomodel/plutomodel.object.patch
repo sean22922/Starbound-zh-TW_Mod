@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "的太陽系的矮行星——冥王星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冥王星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不理解人類對這顆體量渺小又無關緊要的矮星的癡迷"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "冥王星普魯託依據地球古代神話所命名。這讓我想起了某些翼族\n類似的神話"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個位於太陽系邊緣的小矮星，有著混沌的軌道"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑狀。為什麼人類這麼看重冥王星？這甚至連行星都不是"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可憐的冥王星……你的聲名真的是一落千丈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我從學院的地球文化101中瞭解到了這顆矮星充滿爭議的文化\n狀態"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "冥王星曾經是太陽系的第九個行星，直到它的資格被取消。現在它只是個無關重要的星球"
+} ]

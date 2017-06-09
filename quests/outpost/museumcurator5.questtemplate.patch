@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;新曲調"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我的博物館馬上就要完成了！我想奴魯會來看的。我聽說有一個有趣的裝置，叫做 \"^orange;老舊的電視機^white;\" 這能夠作為人類的展品。 ^green;你能帶一個給我嗎^white;? 在人類營地很常見，但是在其他地方也不是找不到"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "太棒啦！你能幫我找這些東西真是太好了。現在就剩一個展品了！"
+} ]

@@ -1,0 +1,73 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "我是一個美術供應商。你有什麼受過教育的方面嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "我很受尊敬—老大猿是同伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "我種族的其他人都放棄了，生活在污穢之中。多麼可悲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "地球毀滅了，那麼多美術作品也跟著一起毀滅了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "我是我去過的所有機構中穿著最為考究的人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我的衣服不是你見過的最好的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "戴這種假髮的葉族一直都是大家注意的中心"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "當葉族帶假髮的時候，人們都跟葉族說話。葉族不知道為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "葉族戴過一次這種假髮，現在大家都感覺葉族很花哨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我對帶羽毛的頭盔並沒有興趣，諸如此類—這更適合我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "這假髮讓人發癢……但是我感覺一下就高貴起來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "這真是太不舒服了。但是我喜歡人們投來的注意！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "我只對最優雅的藝術感興趣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/1",
+  "value" : "人的行為應該儘可能地優雅"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/2",
+  "value" : "鮫族在教養方面是領先的，而我在鮫族中又是最好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "輕蔑。走開，我正在聯繫傲慢的笑！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "愉快。我戴這個假髮的時候，人們都以為我很富有！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "滿意。我戴假髮的時候人們總是盯著我—肯定是因為我戴著它顯得太花哨了"
+} ]

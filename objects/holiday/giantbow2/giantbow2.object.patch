@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝飾用的紅色蝴蝶結"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "閃閃發亮的紅色蝴蝶結"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是裝飾用的蝴蝶結"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一條閃亮的裝飾用絲帶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紅的像肉一樣。假日的顏色色讓植物人很飢餓"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "古怪。裝飾用的絲帶會喚起送禮的想法"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "漂亮的絲帶，金色和紅色很配"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "非常漂亮的絲帶。也許是天鵝絨和金子做的？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個大號的紅金碗"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系中地球的詳細模型，人類的家園"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "地球模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "地球，地球屬保護者的家園，有段時間也是我的家"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地球，我的第二故鄉。我有時甚至都忘了它已經不在了……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "回想起我在地球的日子真嘶……是讓人悲嘶……傷。我很懷念它"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷念狀。我在地球學院的那段日子很愉快"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "家……一想像它現在留下的廢墟我就開始顫慄"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "地球。如此渺小的星球，卻在我心中留下了無法測量的空洞"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "地球。我向你致敬"
+} ]

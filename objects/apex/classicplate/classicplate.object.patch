@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個精美的瓷盤"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典盤子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個很棒的瓷盤。猿人經常被給予用塑膠做成的盤子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人傳統上是用碗吃飯的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人都想要從獵物身上吃到新鮮的肉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "淘氣。扔盤子的聲音是最好聽的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "非常精美的廚具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人同樣也是製作精美瓷器的大師"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盤子太亮了，跟鏡子一樣"
+} ]

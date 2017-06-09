@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "珊瑚變形果做的微辣咖喱粉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚果咖喱"
+} ]

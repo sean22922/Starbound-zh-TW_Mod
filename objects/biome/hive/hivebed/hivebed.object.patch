@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張絲綢牀，擱在一個蜂巢狀的底座上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張牀使用了蜂巢結構來保持穩定"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我在這種牀上肯定睡不好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不明白牀為什麼看起來像是獵物的巢穴？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。我在這麼奇怪的牀上肯定沒法安心睡覺"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "希望我睡覺的時候不會有什麼奇怪的東西爬到我的腿上……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我在這樣的牀上肯定沒法安心睡覺"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "即使是我這樣不挑剔的人都無法在這玩意上休息……"
+} ]

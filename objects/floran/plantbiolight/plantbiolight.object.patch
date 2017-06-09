@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個有機燈光輕輕閃爍著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "有機生物燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一棵發光的小植物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個散發柔軟光亮的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡植物燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這些發光的植物散發著自然光源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一棵發光的植物，看來燈光是可以種出來的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "只有自然能帶來敬畏"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這顆植物能發光發亮！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根神祕的操縱桿，到底是幹什麼用的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "開關杆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "唔，操作杆"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "什麼東西的開關"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "拉呀！！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一根機械操縱桿"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "巨大的紅色操作杆！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "紅色讓人更想去拉它了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這根操縱桿讓人好想扳一扳啊！"
+} ]

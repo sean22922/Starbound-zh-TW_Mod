@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"一個完美的普利斯岩礦石。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普利斯岩樣本"
+} ]

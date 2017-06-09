@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "經典燻肉鹹塔，適合野餐！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "法式洛林燻肉鹹塔"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "壓縮了10000像素的三維像素。解壓以取回像素"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "10k立體像素"
+} ]

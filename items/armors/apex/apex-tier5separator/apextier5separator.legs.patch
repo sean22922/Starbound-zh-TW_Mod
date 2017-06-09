@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一對優雅的靴子和長褲，十分輕盈，可以讓穿戴者行動迅捷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "刺客長褲"
+} ]

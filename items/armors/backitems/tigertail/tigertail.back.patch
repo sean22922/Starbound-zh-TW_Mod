@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在生產這種裝飾用的老虎尾巴時，沒有傷害到真實的老虎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老虎尾巴"
+} ]

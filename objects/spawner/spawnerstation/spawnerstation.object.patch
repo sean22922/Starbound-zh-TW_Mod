@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "僱傭者站點"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "使用僱傭者信號燈尋求幫助"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可以獲得僱傭者信號燈尋求各路人士幫助的站點"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;僱傭者站點^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想我能不能僱傭一個自由戰士"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種技術在羽翼之星很有爭議"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "快餐？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這種公平的系統，沒有大佬，沒有女人，更不用說鄉巴佬了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是線上絕密系統的終極進化"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "幫助他人獲得內在的平靜"
+} ]

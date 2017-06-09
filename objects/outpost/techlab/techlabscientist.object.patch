@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "技術實驗室科學家"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "技術實驗室科學家"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/0",
+  "value" : "對不起，我現在很忙"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/1",
+  "value" : "我們站在技術發展的最前沿"
+} ]

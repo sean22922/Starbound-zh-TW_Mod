@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "優雅的自動標誌平板印刷機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "EASEL印刷機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在這兒我可以印刷各種標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可以製造和印刷標誌的額地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "字數上限是多少？三，三個字"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震驚。Gutenbergbot可以用這個新奇裝置進入"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在這兒我可以製造特殊的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來知會和啓發的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果有時間我可以製造所有種類的標誌"
+} ]

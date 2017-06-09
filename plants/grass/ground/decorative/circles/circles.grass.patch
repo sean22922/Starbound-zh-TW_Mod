@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "掛著漿果的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "掛著漿果的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紫漿果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一株掛著漿果的植物"
+} ]

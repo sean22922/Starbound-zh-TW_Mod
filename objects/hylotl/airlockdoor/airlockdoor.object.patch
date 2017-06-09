@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種堅硬的氣閘門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "氣閘門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇很棒的大氣閘門。堅固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇嚇人的大金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人建造很堅固的大門！可以啊，魚人…可以啊……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。門把呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這與鮫人的傳統美學相去甚遠"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇氣閘門提供一流的安全性"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個很堅固的門"
+} ]

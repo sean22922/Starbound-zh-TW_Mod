@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最好按照他們說的做…哈！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "按照標記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "按照…我做了…這麼長時間了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "按照？老大猿是猿人的神嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不尊重晚宴"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有膽量。絕不！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "猿人宣傳。我應該在這裡畫一個小鬍子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "只有那些用恐懼統治的人需要海報"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不服從什麼照片的命令"
+} ]

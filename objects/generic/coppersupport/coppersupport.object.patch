@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個青銅結構的支撐橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青銅支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個銅製的支撐橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個金屬結構的支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "銅做的支撐橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個青銅橫樑實際上並沒有支撐任何結構上的重量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個青銅的支撐橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個非常結實的青銅支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個非常大的青銅橫樑"
+} ]

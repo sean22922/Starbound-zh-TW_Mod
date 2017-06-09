@@ -1,0 +1,73 @@
+[ {
+  "op" : "replace",
+  "path" : "/radioMessages/firstBallista/0",
+  "value" : "這強盜竟然開來了戰爭機器！我可不能讓我的堡壘被移平，你必須摧毀那個弩炮！"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/firstBallista/2",
+  "value" : "男爵"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/wallAttacked/0",
+  "value" : "糟糕，是弩炮！我美麗的城牆啊！快保護我美麗的城牆！"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/wallAttacked/2",
+  "value" : "男爵"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/additionalBallista/0",
+  "value" : "不會吧，又來一門弩炮！快救救我的堡壘！"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/additionalBallista/2",
+  "value" : "男爵"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/firstAirforce/0",
+  "value" : "又來一波進攻，我們被包圍了！他們派來了更多的步兵和弓兵，還有……我的天！他們在天上！那些紫色的混蛋上天了！"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/firstAirforce/2",
+  "value" : "男爵"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/reinforcements/0",
+  "value" : "喂？是我，我很抱歉，但是——邪教教徒越來越多了，請不要擔心，我們會幫忙的！雖然我可能會礙事，但其他人正在下來！ "
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/reinforcements/2",
+  "value" : "光一"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/finalWaveComplete/0",
+  "value" : "哈哈哈！他們完蛋了！我們把那些噁心的蛆蟲全部幹掉了！過來這裡，我有些話要對你說……"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/finalWaveComplete/2",
+  "value" : "男爵"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/noxGreeting/0",
+  "value" : "好，是你啊……那個\"木乃伊\"又派你來跑腿了？我們趕快把這事搞定吧"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/noxGreeting/2",
+  "value" : "諾克斯"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/noxBeamout/0",
+  "value" : "我們該走了！反正也毫無意義，你根本沒成功阻止任何事，這些很快就都消失了"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/noxBeamout/2",
+  "value" : "諾克斯"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/bossDefeated/0",
+  "value" : "它消失了嗎？你還好嗎？如果它消失了的話，我得和你談談了"
+}, {
+  "op" : "replace",
+  "path" : "/radioMessages/bossDefeated/2",
+  "value" : "男爵"
+} ]

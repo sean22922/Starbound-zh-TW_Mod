@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "10秒內恢復100生命值，並瞬間治癒大部分不良狀態"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醫療箱"
+} ]

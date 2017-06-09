@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "抵達終點後，將騎行者送回他們出發的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軌道減震器"
+} ]

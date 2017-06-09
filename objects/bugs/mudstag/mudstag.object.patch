@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種蟲子很黏。它的頭上有兩根長角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粘泥蟲"
+} ]

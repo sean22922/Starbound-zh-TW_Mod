@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張小巧可愛的木製茶幾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製茶幾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套小茶幾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "非常小的儲存空間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "小抽屜"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一個或許可以放在牀旁邊的傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一套帶有一對抽屜的木質茶幾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許在睡覺的地方旁邊放個桌子？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個小櫥櫃"
+} ]

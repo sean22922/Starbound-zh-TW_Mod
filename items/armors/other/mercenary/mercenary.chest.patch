@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒有任何裝飾的堅固胸甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "僱傭兵胸甲"
+} ]

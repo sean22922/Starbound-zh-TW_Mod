@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張空白的科技卡。足夠的科技卡可以讓我發展高科技"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "科技卡"
+} ]

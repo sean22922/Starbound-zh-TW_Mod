@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翼族因喜歡用人類陪葬而出名。等等……我貌似聽到裡面有響動！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "人類石棺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一具石棺，是人形的。等一下……那是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在太空中的首批翼族人與人類有著深遠的友誼。這是個把人類帶到太空、讓他們獲得翅膀的嘗試……等一下，我好像聽到有動靜？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞到了鮮肉的味道！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。石棺裡躺著一個人類。我偵測到生命跡象"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我好像聽到有動靜？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這具石棺剛才好像動了？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個外表跟人一樣的石棺。等等，我好像聽到了什麼？"
+} ]

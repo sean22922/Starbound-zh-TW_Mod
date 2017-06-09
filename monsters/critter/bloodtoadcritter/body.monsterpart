@@ -1,9 +1,0 @@
-{
-  "name" : "bloodtoadcritter",
-  "category" : "bloodtoadcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

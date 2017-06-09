@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一些魚目混珠的木製腳手架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製腳手架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "木質的腳手架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "平台的收集品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人願意爬高進行偷窺"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。用來幫人爬到高處的臨時裝置"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來是木質的腳手架。不確定是否安全"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "木質的架子。也許只是暫時一用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用木頭做的腳手架，很不結實"
+} ]

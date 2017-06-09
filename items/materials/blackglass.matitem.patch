@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個黑色玻璃面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑玻璃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "有趣。玻璃已經黑到幾乎不透明"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人能躲在黑玻璃後面"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這麼黑的玻璃，陽光都穿不透"
+} ]

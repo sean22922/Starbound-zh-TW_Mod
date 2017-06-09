@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看上去非常結實的工具箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅色工具箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有用的紅色工具盒！巨大，沉重還能製作厲害的打擊武器嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。一個非常堅固的工具盒"
+} ]

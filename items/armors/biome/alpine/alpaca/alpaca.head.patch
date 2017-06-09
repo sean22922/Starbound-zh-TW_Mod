@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個羊駝面具。又暖和又可愛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星羊駝面具"
+} ]

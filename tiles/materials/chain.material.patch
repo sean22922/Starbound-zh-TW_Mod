@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鎢鏈，不是拿來玩的那種"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鎢鏈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這些鏈條太結實了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人使用鏈子捕食"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些鎢做的鏈條"
+} ]

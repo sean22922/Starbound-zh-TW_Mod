@@ -1,9 +1,0 @@
-{
-  "name" : "electricevolution",
-  "category" : "electricfluffalo",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

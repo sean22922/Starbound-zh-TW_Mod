@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "葉族最好的射手"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "葉族在東旭中狩獵。但是現在沒那麼多了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "葉族喜歡你，所以不會射你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/3",
+  "value" : "葉族問道附近有獵物了。希望一會能射到人"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "香甜且有味道，在翼族人眼中十分寶貴"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羽冠蘿蔔果醬"
+} ]

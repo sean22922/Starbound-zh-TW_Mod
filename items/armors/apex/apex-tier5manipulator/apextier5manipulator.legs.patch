@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種靈便的褲子被菲洛合金加強過後，穿戴者會行動迅速且安靜，並能保證安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "間諜的褲子"
+} ]

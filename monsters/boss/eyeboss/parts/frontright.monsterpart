@@ -1,9 +1,0 @@
-{
-  "name" : "eyebossfrontright",
-  "category" : "eyeboss",
-  "type" : "frontright",
-
-  "frames" : {
-    "frontright" : "frontright.png"
-  }
-}

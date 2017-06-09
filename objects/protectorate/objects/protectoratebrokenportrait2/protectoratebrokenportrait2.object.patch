@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅前任大保護者的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大保護者肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "第一個猿族大保護者。是個有抱負的人物…"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個猿族大保護者。看起來很嚴肅…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個保護著說不定比我還慢！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真嚇人。這個大保護者目光嚴厲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個大保護者看起來相當嚴肅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個大保護者外表嚴肅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個大保護者正以嚴肅的目光看著我"
+} ]

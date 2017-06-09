@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒適的手織圍巾。快穿上，不然就感冒了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冬天圍巾"
+} ]

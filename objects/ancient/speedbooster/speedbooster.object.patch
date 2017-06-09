@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從槽裡噴出的氣體能夠增加奔跑速度"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "速度助推器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個精巧裝置，會發出使我物理速度增加的氣體"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "甜蜜氣味的氣體讓我的步伐充滿活力"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "綠氣讓葉族人跑得更快"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "但願如此。這個裝置發出的氣體聞起來很甜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個氣體聞起來很新鮮甜美。這是幹嘛的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個氣體的有益屬性是和增加物理速度相關的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種綠色氣體。能夠增加我的速度"
+} ]

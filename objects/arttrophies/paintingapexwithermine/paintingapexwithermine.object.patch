@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅寧靜的畫，上面有一個猿人和一隻寵物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寵物畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人一定很喜歡鼬。它們扮演著比貓還重要的角色"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個人是在膜拜著這個動物嗎？還是說他們只是它的主人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "毛茸茸的零食！葉族人想把它從畫裡撕下來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。要畫這幅畫這動物一定要站著不動很長時間吧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是貂，還是白鼬？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這畫裡的人物與自然和諧相處，至少是和這隻動物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻動物真好玩"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "ballistacannon",
-  "category" : "ballista",
-  "type" : "cannon",
-
-  "frames" : {
-    "cannon" : "ballistacannon.png"
-  }
-}

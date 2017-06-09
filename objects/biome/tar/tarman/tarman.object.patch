@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "像是雪人，但是黏糊糊的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塔爾曼"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "非常不好看的發明。我很同情這位瀝青人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "沒想到瀝青還有那麼多用處"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "瀝青人黏糊糊的。葉族不喜歡黏糊糊的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。為什麼把瀝青人弄成雪人的樣子而不是機器人的樣子？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "為什麼要弄這個黏糊糊的人形東西？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個瀝青人跟它的雪人親戚很相似。非常敬佩"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "建造這個噁心的東西的人需要被教訓下什麼叫清真"
+} ]

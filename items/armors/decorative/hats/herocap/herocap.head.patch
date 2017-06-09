@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "據說這項帽子曾屬於一個傳奇英雄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "英雄之帽"
+} ]

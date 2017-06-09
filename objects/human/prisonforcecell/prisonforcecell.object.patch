@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "或許是某種單獨拘禁設備？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "力場囚籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個囚籠貌似比別的囚籠更堅固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "即使對那些地面種族來說，被困在這麼一個小地方也是十分恐怖的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "關壞人的小艙……但這會讓他們變好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。這個艙室的力場是用來制服別人的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個專門為像殺手，小偷，亂穿馬路的人等危險犯人設計的監獄……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種非常粗野的監獄"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這地方確實挺小的"
+} ]

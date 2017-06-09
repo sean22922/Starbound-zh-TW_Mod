@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個工作站似乎在傳送很多數據"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "數據工作站"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看來在處理很多數據"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個機器看來在很忙碌的運轉"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些閃光的機器發出忙碌的噪音"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個終端機似乎正在處理關於這個星球的地形方面的數據"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這應該是某種電腦工作站，看來很重要，我還是不要碰了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個工作站似乎在處理非常大量的信息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些華麗的電腦，上面有各種各樣閃光的面板"
+} ]

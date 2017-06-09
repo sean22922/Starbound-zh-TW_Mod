@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種經典的冰球桌。先得十分的獲勝！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰球桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "桌上曲棍球？有意思！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一種桌上遊戲。可能會很有意思…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人擅長任何桌遊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "下定決心。我要精通這個桌上遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "桌上曲棍球！我小時候可在行這遊戲了…"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "想要贏桌上曲棍球，反應速度必須很快"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "桌上冰球？這是某種撞球遊戲嗎？"
+} ]

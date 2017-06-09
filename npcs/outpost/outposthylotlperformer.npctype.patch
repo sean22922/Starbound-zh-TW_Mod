@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "已經沒人能欣賞一個好笑話了！在這裡我的喜劇因子都浪費在白癡身上了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "已經沒人能欣賞一個好笑話了！在這裡我的喜劇因子都浪費在白癡身上了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/avian/0",
+  "value" : "你要自己出去？你這簡直是……自投羅網啊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/apex/0",
+  "value" : "迷人的猿族對他妻子說什麼了？你要把我逼瘋了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/floran/0",
+  "value" : "你怎麼稱呼一名葉族人的朋友？一朵花蕾！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/glitch/0",
+  "value" : "機器人最喜歡的舞種是什麼？機械舞！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/human/0",
+  "value" : "你把猿族的毛剃光以後會得到什麼呢？一個人類！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/hylotl/0",
+  "value" : "已經沒人能欣賞一個好笑話了！在這裡我的喜劇因子都浪費在白癡身上了"
+} ]

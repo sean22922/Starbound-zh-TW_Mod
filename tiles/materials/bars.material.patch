@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗金屬錠。即使佈滿鐵鏽，仍然堅固"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬錠"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。這樣的金屬條機器人地下城有"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固金屬條"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很堅固的金屬條"
+} ]

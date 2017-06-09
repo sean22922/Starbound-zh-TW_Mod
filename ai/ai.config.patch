@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/noCrewSpeech/text",
+  "value" : "^#6f6f6f;$ crew\r\n^cyan;> 你是這艘飛船上唯一一名註冊的船員。\n> 僱傭新的船員可以提升操作效率"
+}, {
+  "op" : "replace",
+  "path" : "/noMissionsSpeech/text",
+  "value" : "^#6f6f6f;$ missions\r\n^cyan;> 現在沒有可分配的任務"
+}, {
+  "op" : "replace",
+  "path" : "/shipStatus/1/text",
+  "value" : "^#6f6f6f;$ status\r\n^cyan;> 飛船推進器現在已經停止工作了。\n> 飛船傳送系統正常運作。\n> ^green;現在只能到下方的星球"
+}, {
+  "op" : "replace",
+  "path" : "/shipStatus/2/text",
+  "value" : "^#6f6f6f;$ status\r\n^cyan;> 飛船推進器開始工作。\r\n> 飛船傳送系統正常運作。\n> ^green;現在只能在這個星系中移動"
+}, {
+  "op" : "replace",
+  "path" : "/shipStatus/3/text",
+  "value" : "^#6f6f6f;$ status -f\r\n^cyan;> 飛船推進器開始工作。\n> 超光速引擎開始工作。\n>  飛船傳送系統正常運作。\n> ^green;現在能前往宇宙各處了"
+} ]

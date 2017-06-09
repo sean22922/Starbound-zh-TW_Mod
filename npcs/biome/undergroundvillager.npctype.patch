@@ -1,0 +1,101 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我喜歡地下！在地下生活是我最嚮往的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "哪怕老大猿和他的迷你克諾格都沒法找到我……希望如此吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "這片黑暗裡藏著不少東西，你是一個寶藏獵人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "你也是來這裡躲藏的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/3",
+  "value" : "即便迷你克諾格的探子都不會到這種洞穴裡來……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "只要我躲在這裡，我的敵人們就不會找到我了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "竟然有陌生人！你是來幹什麼的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "你是來挖礦的嗎？還是來找那幾扇神祕的門？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "我在這裡呆了好久了，保護地現在怎麼樣了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "嚇死我了，好久沒見過活人了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "這些洞穴還是有些危險的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "歡迎！你是想要定居地下嗎？有個鄰居挺好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/3",
+  "value" : "我有時候會見到像你這樣的旅行者，但是往往只會見到一次"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "你是來冥想的嗎？還是迷路了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/1",
+  "value" : "歡迎，旅行者！你是來尋找寶藏的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/2",
+  "value" : "歡迎！我已經獨自一人在這裡生存了好久了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/3",
+  "value" : "歡迎你，陌生人，你是來尋找人生的啓迪的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "葉族人喜歡在地下狩獵，更容易潛行"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "葉族人還沒在下面見過其他人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "葉族人被陌生人嚇到了！葉族人一般都是一個人……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/3",
+  "value" : "陌生人！竟然有陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "驚嚇。我沒想到會在地下碰到別人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "震驚。我好久沒有見過活人了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "歡迎。歡迎，你是準備在這裡住一陣子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/3",
+  "value" : "佩服。你是怎麼下來的？你一定是個勇者"
+} ]

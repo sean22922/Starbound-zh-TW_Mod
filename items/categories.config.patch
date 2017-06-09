@@ -1,0 +1,377 @@
+[ {
+  "op" : "replace",
+  "path" : "/labels/block",
+  "value" : "固體"
+}, {
+  "op" : "replace",
+  "path" : "/labels/liquid",
+  "value" : "液體"
+}, {
+  "op" : "replace",
+  "path" : "/labels/platform",
+  "value" : "平台"
+}, {
+  "op" : "replace",
+  "path" : "/labels/rail",
+  "value" : "軌道"
+}, {
+  "op" : "replace",
+  "path" : "/labels/chestarmour",
+  "value" : "胸部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/headarmour",
+  "value" : "頭部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/legarmour",
+  "value" : "腿部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/backwear",
+  "value" : "背部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/chestwear",
+  "value" : "胸部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/labels/headwear",
+  "value" : "頭部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/labels/legwear",
+  "value" : "褲子"
+}, {
+  "op" : "replace",
+  "path" : "/labels/enviroProtectionPack",
+  "value" : "EPP"
+}, {
+  "op" : "replace",
+  "path" : "/labels/clothingDye",
+  "value" : "服裝染料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/codex",
+  "value" : "記錄"
+}, {
+  "op" : "replace",
+  "path" : "/labels/cookingIngredient",
+  "value" : "食材"
+}, {
+  "op" : "replace",
+  "path" : "/labels/craftingMaterial",
+  "value" : "原料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/currency",
+  "value" : "貨幣"
+}, {
+  "op" : "replace",
+  "path" : "/labels/drink",
+  "value" : "飲料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/eppAugment",
+  "value" : "EPP填料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/farmBeastEgg",
+  "value" : "農場蛋"
+}, {
+  "op" : "replace",
+  "path" : "/labels/farmBeastFood",
+  "value" : "農場飼料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fishingRod",
+  "value" : "漁竿"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fishingLure",
+  "value" : "釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fishingReel",
+  "value" : "捲線器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/food",
+  "value" : "食物"
+}, {
+  "op" : "replace",
+  "path" : "/labels/foodJunk",
+  "value" : "垃圾食物"
+}, {
+  "op" : "replace",
+  "path" : "/labels/junk",
+  "value" : "無用"
+}, {
+  "op" : "replace",
+  "path" : "/labels/largeFossil",
+  "value" : "大化石"
+}, {
+  "op" : "replace",
+  "path" : "/labels/mediumFossil",
+  "value" : "中化石"
+}, {
+  "op" : "replace",
+  "path" : "/labels/medicine",
+  "value" : "藥品"
+}, {
+  "op" : "replace",
+  "path" : "/labels/musicalInstrument",
+  "value" : "樂器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/mysteriousReward",
+  "value" : "神秘獎勵"
+}, {
+  "op" : "replace",
+  "path" : "/labels/petCollar",
+  "value" : "寵物項圈"
+}, {
+  "op" : "replace",
+  "path" : "/labels/preparedFood",
+  "value" : "調理食品"
+}, {
+  "op" : "replace",
+  "path" : "/labels/quest",
+  "value" : "任務"
+}, {
+  "op" : "replace",
+  "path" : "/labels/railPlatform",
+  "value" : "軌道平台"
+}, {
+  "op" : "replace",
+  "path" : "/labels/shipLicense",
+  "value" : "船舶許可證"
+}, {
+  "op" : "replace",
+  "path" : "/labels/smallFossil",
+  "value" : "小化石"
+}, {
+  "op" : "replace",
+  "path" : "/labels/tech",
+  "value" : "科技"
+}, {
+  "op" : "replace",
+  "path" : "/labels/throwableItem",
+  "value" : "投擲物"
+}, {
+  "op" : "replace",
+  "path" : "/labels/tool",
+  "value" : "工具"
+}, {
+  "op" : "replace",
+  "path" : "/labels/tradingCard",
+  "value" : "交易卡"
+}, {
+  "op" : "replace",
+  "path" : "/labels/trophy",
+  "value" : "獎盃"
+}, {
+  "op" : "replace",
+  "path" : "/labels/upgradeComponent",
+  "value" : "升級套件"
+}, {
+  "op" : "replace",
+  "path" : "/labels/vehicleController",
+  "value" : "載具控制器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fuel",
+  "value" : "燃料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/farmBeastFeed",
+  "value" : "浮盧法羅飼料"
+}, {
+  "op" : "replace",
+  "path" : "/labels/actionFigure",
+  "value" : "行動圖"
+}, {
+  "op" : "replace",
+  "path" : "/labels/artifact",
+  "value" : "神器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/breakable",
+  "value" : "可破壞物"
+}, {
+  "op" : "replace",
+  "path" : "/labels/bug",
+  "value" : "蟲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/crafting",
+  "value" : "工作站"
+}, {
+  "op" : "replace",
+  "path" : "/labels/decorative",
+  "value" : "裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/labels/door",
+  "value" : "門"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fridgeStorage",
+  "value" : "冷藏庫"
+}, {
+  "op" : "replace",
+  "path" : "/labels/furniture",
+  "value" : "傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/labels/generic",
+  "value" : "通用"
+}, {
+  "op" : "replace",
+  "path" : "/labels/light",
+  "value" : "光源"
+}, {
+  "op" : "replace",
+  "path" : "/labels/other",
+  "value" : "其他"
+}, {
+  "op" : "replace",
+  "path" : "/labels/railPoint",
+  "value" : "軌道點"
+}, {
+  "op" : "replace",
+  "path" : "/labels/sapling",
+  "value" : "樹苗"
+}, {
+  "op" : "replace",
+  "path" : "/labels/seed",
+  "value" : "種子"
+}, {
+  "op" : "replace",
+  "path" : "/labels/shippingContainer",
+  "value" : "集裝箱"
+}, {
+  "op" : "replace",
+  "path" : "/labels/spawner",
+  "value" : "重生點"
+}, {
+  "op" : "replace",
+  "path" : "/labels/storage",
+  "value" : "存儲"
+}, {
+  "op" : "replace",
+  "path" : "/labels/techManagement",
+  "value" : "科技管理"
+}, {
+  "op" : "replace",
+  "path" : "/labels/teleporter",
+  "value" : "傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/teleportMarker",
+  "value" : "傳送標記"
+}, {
+  "op" : "replace",
+  "path" : "/labels/trap",
+  "value" : "陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/labels/wire",
+  "value" : "電路"
+}, {
+  "op" : "replace",
+  "path" : "/labels/assaultRifle",
+  "value" : "突擊步槍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/axe",
+  "value" : "斧"
+}, {
+  "op" : "replace",
+  "path" : "/labels/boomerang",
+  "value" : "迴力鏢"
+}, {
+  "op" : "replace",
+  "path" : "/labels/bow",
+  "value" : "弓"
+}, {
+  "op" : "replace",
+  "path" : "/labels/broadsword",
+  "value" : "大劍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/chakram",
+  "value" : "輪刃"
+}, {
+  "op" : "replace",
+  "path" : "/labels/crossbow",
+  "value" : "十字弓"
+}, {
+  "op" : "replace",
+  "path" : "/labels/dagger",
+  "value" : "匕首"
+}, {
+  "op" : "replace",
+  "path" : "/labels/fistWeapon",
+  "value" : "拳套"
+}, {
+  "op" : "replace",
+  "path" : "/labels/grenadeLauncher",
+  "value" : "榴彈發射器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/hammer",
+  "value" : "戰鎚"
+}, {
+  "op" : "replace",
+  "path" : "/labels/machinePistol",
+  "value" : "自動手槍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/pistol",
+  "value" : "手槍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/rocketLauncher",
+  "value" : "火箭發射器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/shield",
+  "value" : "盾"
+}, {
+  "op" : "replace",
+  "path" : "/labels/shortsword",
+  "value" : "短劍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/shotgun",
+  "value" : "散彈槍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/sniperRifle",
+  "value" : "狙擊槍"
+}, {
+  "op" : "replace",
+  "path" : "/labels/spear",
+  "value" : "矛"
+}, {
+  "op" : "replace",
+  "path" : "/labels/staff",
+  "value" : "棍棒"
+}, {
+  "op" : "replace",
+  "path" : "/labels/wand",
+  "value" : "魔杖"
+}, {
+  "op" : "replace",
+  "path" : "/labels/toy",
+  "value" : "玩具"
+}, {
+  "op" : "replace",
+  "path" : "/labels/uniqueWeapon",
+  "value" : "特殊武器"
+}, {
+  "op" : "replace",
+  "path" : "/labels/whip",
+  "value" : "鞭"
+} ]

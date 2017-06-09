@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這會讓一小部分穿戴者感到暖和"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "史前多毛褲"
+} ]

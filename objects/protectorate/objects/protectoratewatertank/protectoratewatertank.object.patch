@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者學會的水箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者水箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這水箱壞掉了。它在往樓下滲水"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "破損的水箱。水一定都滲透到樓下的房間裡去了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "水箱嘶……似乎破了。葉族人猜水現在都在樓下了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。一個破碎的水箱。我相信水一定都滲到樓下了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個水箱爆了！水一定都透過地板滲到樓下的房間了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個破損的水箱。水一定都滲到下面的房間去了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這水箱用不成了。水一定都滲到下面去了"
+} ]

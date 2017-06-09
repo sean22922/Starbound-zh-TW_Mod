@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是種執行著叫\"時髦的毛賊之地\"的遊戲的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色之拱機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "帥賊大鬧廢土講述了一群賊搶劫另一群賊的故事。最帥的賊才能獲勝！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這遊戲玩好需要技術和運氣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帥賊大鬧廢土！葉族人喜歡這個遊戲！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。一群帥氣的賊對抗另一群帥氣的賊。8/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "帥賊大鬧廢土最好玩！我要當最帥的賊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有人批評這遊戲充滿暴力，但它確實很有時尚氣息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "關於這個遊戲我有很多話要說"
+} ]

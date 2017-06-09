@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個簡陋的鐵砧，用來把金屬敲出形狀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "簡陋鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;盔甲和武器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台鐵砧機，電子人們很久沒用這些進行金屬加工了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊又大又平的厚鐵板"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "真重，適、適合用來做陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "教導：電子人用這些鐵砧製作各種武器。他們甚至用鐵砧製作鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鐵砧。人類在他們的歷史初期就已經不適用這個東西了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "可能是用在金屬製作方面的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個鐵砧，待在身邊總有好處"
+} ]

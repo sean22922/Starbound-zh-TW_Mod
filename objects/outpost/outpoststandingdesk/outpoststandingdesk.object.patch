@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張直立的桌子。造型不錯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "直立桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張直立的桌子。好累人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張直立的桌子。這是個小說裡才有的主意"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不太需要桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚喜。一張桌子。你可以站著而不是坐著使用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張直立的桌子，我聽說這主意不賴"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張直立的桌子，對於活躍頭腦有益"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張你可以站著使用的桌子。讓你時刻保持清醒"
+} ]

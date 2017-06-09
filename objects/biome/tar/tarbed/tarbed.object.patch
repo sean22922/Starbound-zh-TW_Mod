@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張簡單焦油牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焦油牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很奇怪的牀鋪材料選擇，但至少保暖和無毒性"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "比較適合沒羽毛的生物睡的牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "污泥牀很溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自豪：我自己的簡單牀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "抱歉我來遲了，我今天睡醒後下不了牀，因為那張牀是用瀝青製造的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很容易讓人睡不釋手的一張黏糊糊的牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不知道是哪個中二病想到利用瀝青來製造一張牀的"
+} ]

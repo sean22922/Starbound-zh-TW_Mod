@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "淋浴，讓你乾淨地逃脫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滴著水的監獄淋浴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我現在應該洗個澡了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果我能洗個熱水澡就好了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "淋浴滴下生鏽的水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服。機器人不適合淋浴"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我倒是想洗澡，但是我的歌聲會驚動敵人的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "現在讓我碰碰水我就覺得這是恩賜"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "啊，淋浴"
+} ]

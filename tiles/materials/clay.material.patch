@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "又重又黏的土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粘土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。它的密度足以當做建材"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "順滑的土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我猜乾燥後它會更結實"
+} ]

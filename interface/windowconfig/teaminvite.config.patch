@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/titleLabel/value",
+  "value" : "邀請至隊伍"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/name/hint",
+  "value" : "玩家名稱"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/ok/caption",
+  "value" : "邀請"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/close/caption",
+  "value" : "取消"
+} ]

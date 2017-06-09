@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "耳語者"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有人覺得耳語者喪失了靈魂，在夜間成長，會將開拓者引入歧途"
+} ]

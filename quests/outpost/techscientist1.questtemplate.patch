@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;研發科技"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我一直在研發能夠讓使用者從一點立即衝到另一點的技術，但我的設計^orange;原型^white;還缺少一些關鍵部分。你能^green;給我帶來^orange;10個銅錠^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你真的給我帶來了！太好了！有了這些，^orange;衝刺科技^white;就可以準備問世了，但只有一個辦法能夠保證……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "艾略特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/turnInDescription",
+  "value" : "與^orange;艾略特^reset;交談，他在^orange;哨站^reset;"
+} ]

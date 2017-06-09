@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"一種巨大的節肢動物，如果它堅硬的外骨骼受損，可以立刻再生。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "埃克斯歐督姆雕像"
+} ]

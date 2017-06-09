@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "對那些想要隱藏身份的人很有用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡單的兜帽"
+} ]

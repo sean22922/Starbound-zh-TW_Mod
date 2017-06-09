@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊堅實的鐵塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。真高興看見建築中用了鋼鐵"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冷鐵金屬磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些磚塊用鋼鐵精心製作而成"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "配普利特"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "頭佔身子的比例註定它們無法長距離奔跑"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "條紋戲服褲。別擔心，那些刺是假的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巴茲褲"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "yeticritter",
-  "category" : "yeticritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

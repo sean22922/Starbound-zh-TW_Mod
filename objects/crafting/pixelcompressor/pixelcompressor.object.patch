@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "儲存壓縮像素"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;像素壓縮機r^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我能在這裡收藏像素"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個收藏我的像素的安全地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人將寶貴的東西放在安全的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀的說。這是像素銀行"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我想知道這個像素銀行有沒有透支功能"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為將來收藏像素是一個不錯的投資"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是用來儲存像素的機器。一定很安全"
+} ]

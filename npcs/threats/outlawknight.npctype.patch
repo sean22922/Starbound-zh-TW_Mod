@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "威脅。我要把你撕碎扔回家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "挑釁。我要拜你撕碎！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "氣憤。我迫不及待地想做些粗野的動作了！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一顆可疑的水晶，即使讓人眼饞也不敢妄動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寶石開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一顆水晶。似乎還有什麼其他的用處"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這僅僅是一顆水晶嗎？不……沒那麼簡單"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃閃發光的水晶，你好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好笑。機器人把開關藏在了這種東西裡面"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這顆水晶一定有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一顆大水晶。似乎還有什麼其他的用處"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看來這顆水晶不簡單"
+} ]

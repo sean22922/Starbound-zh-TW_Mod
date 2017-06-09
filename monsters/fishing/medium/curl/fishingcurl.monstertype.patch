@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銀盤鰍"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的身體會隨著年齡而捲得愈來愈大，直到無法游泳為止"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "喂，這個鐘有個缺口……啊，好吧，是睡蓮的葉子啊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果你喜歡鐘錶，那這個還不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種形狀的種聲音肯定不是很對"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人摧毀鐘，但是噪音讓我們很不爽"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "思考。儘管形狀損害了聲音，但很好看"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個荷葉形的鐘。或許我可以在禮物商店裡面畫一個"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是個傑作，讓我覺得敲一下都是一種褻瀆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "能發出噪聲的樂器。什麼目的……我不能告訴你……"
+} ]

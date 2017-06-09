@@ -1,9 +1,0 @@
-{
-  "name" : "fishingsac",
-  "category" : "fishingsac",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingsac.png"
-  }
-}

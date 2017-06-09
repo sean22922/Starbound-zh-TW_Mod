@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個堅固的小型葉族木質牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型木質牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個做工精良的牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個小牢籠，也許是用來關押葉族囚犯的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個牢籠太小了，容納不了葉族囚犯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。被關押在這個牢籠中的囚犯根本沒有移動的空間"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個牢籠能容納到我嗎？似乎沒多少移動空間"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許是故意用這麼窄小的牢籠來懲罰囚犯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "被關押在這個牢籠中都無法直立起來"
+} ]

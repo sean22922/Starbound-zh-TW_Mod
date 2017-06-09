@@ -1,0 +1,101 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "入侵者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/0",
+  "value" : "我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/1",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/2",
+  "value" : "葉族發現敵人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/3",
+  "value" : "擊倒他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/4",
+  "value" : "葉族會帶你出去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/5",
+  "value" : "葉族不會在狩獵中被打敗！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/6",
+  "value" : "你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/7",
+  "value" : "狩獵開始！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/8",
+  "value" : "無路可走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/9",
+  "value" : "比賽開始！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/10",
+  "value" : "狩獵開始！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/11",
+  "value" : "出來和葉族比賽！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/12",
+  "value" : "你們攔不住我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/13",
+  "value" : "葉族看見你了，新人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/14",
+  "value" : "你無法在狩獵中打敗我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/15",
+  "value" : "有敵人！新人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/16",
+  "value" : "你無法阻止我贏得比賽！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/17",
+  "value" : "奴魯這次贏不了我，你也贏不了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/18",
+  "value" : "準備殺敵！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/19",
+  "value" : "至少你不是奴魯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/20",
+  "value" : "你不是最佳獵人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/21",
+  "value" : "死在山洞裡吧，新人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/22",
+  "value" : "葉族不會把勝利讓給無名鼠輩！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/23",
+  "value" : "你贏不了的，無名鼠輩！"
+} ]

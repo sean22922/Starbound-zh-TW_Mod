@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雞"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "地球上土生土長的溫順鳥類，經常下蛋"
+} ]

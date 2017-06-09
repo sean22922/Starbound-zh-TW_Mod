@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "咯咯，咯咯！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "抽水機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是設計用來把水抽走的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這會把水抽走。我的羽毛就不會弄溼了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "抽水機把水抽走了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這東西輕鬆地把水抽乾了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這能迅速地將水抽乾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個好用的能將水抽乾的裝置。一定有人喜歡的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這樣就不用煩那些討厭的水了！"
+} ]

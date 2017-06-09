@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這張牀是基於一架舊的地球太空船設計的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "太空艙牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在這樣的宇宙飛船裡航行我感到很不安"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "人類歷史的小小碎片"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "人類曾經嘶……使用這些東西飛行"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲狀。人類走了多麼漫長的一條路啊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "能回首往事追憶先祖真好。而且太空船的牀簡直酷斃了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族同樣有他們自己的早期宇宙旅行的一擊。我們只是不會為它們鋪牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "哇，真是個經典著作"
+} ]

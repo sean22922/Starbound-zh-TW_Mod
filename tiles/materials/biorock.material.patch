@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個石頭正在閃著生物光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃色閃光石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真奇怪，顯微鏡下，這顆石頭上的細菌散發著淡黃色的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡閃黃光的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個石頭髮著黃光，但卻沒有發出熱量"
+} ]

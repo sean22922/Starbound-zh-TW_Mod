@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "halogenpack", "count" : 1 },
-    { "item" : "diamond", "count" : 3 },
-    { "item" : "wire", "count" : 5 }
-  ],
-  "output" : { "item" : "xenonpack", "count" : 1 },
-  "groups" : [ "craftingfarm2", "survival" ]
-}

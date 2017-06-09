@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我真希望自己在上天文地理課的時候多認真一些"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "行星監控器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "螢幕上顯示的是行星信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是哪個行星？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好、好多無聊的文字"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "得意：螢幕上這些信息在我的內部偵測器面前相形見絀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "貌似就是這個行星…好多的信息"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "關於行星地形的詳細信息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "螢幕上顯示著我們目前身處的星球的信息"
+} ]

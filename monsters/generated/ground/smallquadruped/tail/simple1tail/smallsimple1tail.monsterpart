@@ -1,9 +1,0 @@
-{
-  "name" : "smallsimple1tail",
-  "category" : "smallquadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallsimple1tail.png"
-  }
-}

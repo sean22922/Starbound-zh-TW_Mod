@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個桌子擺放的井然有序，看起來也很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想知道誰在那裡工作"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個金屬桌子-表面上像"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "摸起來真涼啊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冷淡：一個桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個看起來很專業的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個薄的金屬桌子"
+} ]

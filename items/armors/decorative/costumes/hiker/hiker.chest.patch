@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓穿戴者覺得他們能夠攀登任何山脈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "徒步旅行者夾克"
+} ]

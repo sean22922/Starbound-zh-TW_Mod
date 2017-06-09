@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月球變種"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "令人不安的是，這種爾切斯生物原本可能是個人…"
+} ]

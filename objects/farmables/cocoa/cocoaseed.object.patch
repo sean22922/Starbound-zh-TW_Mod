@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可可植物，當成熟後，豆莢可以做成巧克力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可可種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可可的原料來源。用於製作可口的巧克力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可可豆莢可以做成美味的麵糰"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "當莢成熟了。葉族人可以做出美味的麵糰"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真奇怪，這株可可，就是巧克力的起源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可可就是巧克力的原材料！這是巧克力樹！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "陽光，水，還有耐心就是豐收的祕訣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "巧克力長在樹上"
+} ]

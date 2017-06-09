@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "飛標"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小巧卻致命的投擲飛標"
+} ]

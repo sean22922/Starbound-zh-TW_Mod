@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "來自保護者學會的一面浴室鏡子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者浴室鏡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個洗手盆，一面鏡子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是個洗手盆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來潑，或者用來洗的乾淨水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好嫉妒。有其他的學生在這裡刷過牙。有時候我會弄乾淨我的下巴"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我沒時間刷牙！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有時候我會進來，把開關開上。流水的聲音讓我冷靜下來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個洗手盆，還有一面鏡子"
+} ]

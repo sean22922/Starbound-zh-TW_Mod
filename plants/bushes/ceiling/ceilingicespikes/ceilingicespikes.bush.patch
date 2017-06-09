@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "懸空的釘狀冰"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "懸空的釘狀冰"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "冰的釘釘子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。喜歡空的冰釘"
+} ]

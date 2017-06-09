@@ -1,9 +1,0 @@
-{
-  "name" : "largecrookedtail",
-  "category" : "largequadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "largecrookedtail.png"
-  }
-}

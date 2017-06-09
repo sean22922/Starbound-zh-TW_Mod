@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這台自動販賣機吞過我的像素。現在還吞嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "冰鎮翡翠眼檸檬不錯，可惜我拿不到…"
+} ]

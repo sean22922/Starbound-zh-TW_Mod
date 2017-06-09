@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這以前是最經典的窗簾。現在有點破了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破舊的經典窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個窗簾怎麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有人把它弄壞了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "老舊的損壞窗簾。不那麼柔軟了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。這以前是個好窗簾，我肯定"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一些侵略性裝備"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個舊窗簾以前的日子很輝煌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "遺憾。這個窗簾以前很好"
+} ]

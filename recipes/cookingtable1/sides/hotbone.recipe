@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "boneboo", "count" : 1 },
-    { "item" : "chili", "count" : 1 }
-  ],
-  "output" : { "item" : "hotbone", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ],
-  "collectables" : { "cooking" : "hotbone" }
-}

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一支鐵火炬，裡面火苗在竄動著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀火炬"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一支鐵火炬"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "閃爍的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火焰舔舐著"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "安心。照亮城堡走廊的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把小的火炬燃燒到灰燼"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燃燒著的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一支鐵製的牆上火炬"
+} ]

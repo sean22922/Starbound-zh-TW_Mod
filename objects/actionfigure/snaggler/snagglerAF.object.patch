@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它的殼很難穿透，是一個狡猾的敵人。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Snaggler 小雕像"
+} ]

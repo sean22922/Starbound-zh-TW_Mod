@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個冰的球體。融化前砸碎它！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰的球體"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個由冰做成的完美圓球"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個空心冰球。看起來像是一個水晶球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族粉、粉碎了圓形的水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個冰球"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "它看起來像是一個凍住的泡泡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個及時凍住的圓球"
+} ]

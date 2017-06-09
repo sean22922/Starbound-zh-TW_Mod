@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裂開的畫框"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "扯裂的保護者畫框"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張肖像被毀了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一幅被毀的肖像…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "畫被刺穿了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "難過。一個過去的大保護者被撕裂的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張肖像被毀了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個標誌性人物被撕裂的肖像"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這幅舊肖像現在可真慘"
+} ]

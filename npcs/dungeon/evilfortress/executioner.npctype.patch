@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "威脅，我要把你切成碎片！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "挑釁。你覺得看我這麼好玩嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "激動，我一直等著試一試我的新斧頭！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/3",
+  "value" : "無畏，你這樣的人我放倒過無數！"
+} ]

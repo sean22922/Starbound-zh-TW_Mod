@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "裁縫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "時尚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "如果想要升級你的船員制服，隨時過來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+  "value" : "我會裁縫技能，可以升級你的船員制服。需要時找我就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "如果想要升級制服，找葉族就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+  "value" : "如果想要升級你的船員制服，葉族隨時為你服務！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "不客氣。如果想要升級你的船員制服，隨時過來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+  "value" : "很榮幸。如果想要升級你的船員制服，過來找我就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+  "value" : "如果你想修改船員的制服，那就來跟我打聲招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+  "value" : "如果你想更改船員的制服，那找我就對了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "看上去很適合這個季節！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "看起來不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "這套制服讓你的船員別具特色。真有眼光，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "非常時尚，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "葉族覺得這套制服很好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "你的風格給葉族留下了深刻印象！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "葉族贊同你選的制服，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "印象深刻。你選的制服會很有用，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "興奮。大家一定會愛死你的制服的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "期待。我都迫不及待地想知道大家怎麼評價你的新制服了，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/novakid/default/0",
+  "value" : "夥伴，你看起來就像是鋒利的轉動刀刃！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/novakid/default/1",
+  "value" : "這套新制服看起來比耐用鋼馬刺還要鋒利。有眼光，夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/novakid/default/2",
+  "value" : "這套制服選得真不錯，夥伴！"
+} ]

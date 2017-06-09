@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個空置的貨架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空置貨架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個用加固的植物材料打造的貨架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一些空置的貨架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族貨架空蕩蕩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這些貨架曾經是存放什麼東西的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個用植物和木材打造的葉族貨架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用天然材料打造的簡單貨架"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "無論曾經存放什麼東西，現在都已不在了"
+} ]

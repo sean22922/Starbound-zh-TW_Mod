@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種由蜂巢狀結構組成的奇燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "不知道這盞燈裡的光源是來自生物，還是電子光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈是由發光的昆蟲照亮的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "蟲巢似的東西在散發著光芒。葉族人很困惑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷惑。這盞燈到底是怎麼亮的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "貌似看不見什麼電線……這盞燈到底是怎麼亮的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈發出柔和的自然光與其怪異的設計非常相配"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我完全弄不懂這盞燈是怎麼點亮的……"
+} ]

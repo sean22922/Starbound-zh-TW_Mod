@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空木板。上面曾經有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空木板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "說不定這塊匾在等待一個頭顱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊正等待戰利品的匾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "展覽葉族武器的狩獵牌框"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個牌框的型狀很特殊，這是想展示什麼的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是個空置的狩獵牌框，也許是想陳列步槍或者長矛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一想到有一天會出現在這裡的東西我就瑟瑟發抖"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個牌框剛好可以放置一把步槍"
+} ]

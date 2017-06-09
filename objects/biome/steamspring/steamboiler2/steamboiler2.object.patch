@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個凹陷的長鍋爐，可以把冰冷的水變成蒸汽"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中型蒸汽鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來像一個巨大的試管"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我猜它製造蒸汽是有目的的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族很驚訝這東西竟然這麼燙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這東西雖然看起來頂部比底部重，但是卻能屹立不倒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個蒸汽燒水器似乎很過時了，無論是哪一方面來看……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族是不會製造這麼難看的東西的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "將這東西安裝在火車上就好玩了"
+} ]

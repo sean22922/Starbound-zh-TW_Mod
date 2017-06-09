@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個杜拉鋼控制器。按下所有按鈕！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "杜拉鋼開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個控制器提供許多控制"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個有用的控制器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人按按鈕。製造事——件！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：一個控制器就能同時控制那麼多不同的機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個控制器。得玩一玩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個控制器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是某種控制台，我只要按幾個按鈕……"
+} ]

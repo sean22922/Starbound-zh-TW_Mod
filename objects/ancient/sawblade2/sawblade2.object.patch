@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "哇，這看起來挺鋒利的！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老鋸齒陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好鋒利！葉族人一定要小心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這個看起來轉速有每分鐘4000轉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，我得小心點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我可不想變成壽司"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來不友好"
+} ]

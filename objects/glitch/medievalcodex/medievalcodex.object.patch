@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個鐘表上布滿了奇怪的圖畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀手抄本"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一本書。裡面全都是肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這本書裡全都是各種各樣的人的肖像"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面全都是圖畫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吸引。一本古代插圖的彙編"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這本書似乎是一本年鑑。裡面畫著許多不同的人的肖像"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這本書似乎很重要。每一頁都有一個不認識的人的畫像"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一本圖畫書"
+} ]

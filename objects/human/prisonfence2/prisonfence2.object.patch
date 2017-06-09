@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個網圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "低鎖鏈圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個網圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個圍欄。這是對那些地面生物殘忍的嘲笑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人肯定能跳過去！但葉族人不會飛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個鎖鏈圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個結實的鎖鏈圍欄"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果圍欄在海面下，那我就能游過去了。但，為什麼這東西不在海面下呢？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個金屬圍欄"
+} ]

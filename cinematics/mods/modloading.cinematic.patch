@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/2/text",
+  "value" : "更新MODS中"
+}, {
+  "op" : "replace",
+  "path" : "/panels/3/text",
+  "value" : "哇，你安裝了好多MODS耶？"
+}, {
+  "op" : "replace",
+  "path" : "/panels/4/text",
+  "value" : "更新需要點時間。要不你先去喝杯咖啡？"
+}, {
+  "op" : "replace",
+  "path" : "/panels/5/text",
+  "value" : "或者去走走？"
+}, {
+  "op" : "replace",
+  "path" : "/panels/6/text",
+  "value" : "別問我，我只是隻兔子"
+} ]

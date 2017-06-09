@@ -1,9 +1,0 @@
-{
-  "name" : "darkoneeyecritter",
-  "category" : "darkoneeyecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

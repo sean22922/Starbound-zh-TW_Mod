@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "哪裡有冰霜，哪裡就有霜凍蟲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "霜凍蟲"
+} ]

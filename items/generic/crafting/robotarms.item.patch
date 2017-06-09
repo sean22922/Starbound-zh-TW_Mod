@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "強壯的機械手，能舉起很重的物體"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "機械手"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船隻平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "符合太空旅行的要求"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "明白。這種平台是用在太空船製造過程中的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "超強船平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個平台足以承受碰撞磨損"
+} ]

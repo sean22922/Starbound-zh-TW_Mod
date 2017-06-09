@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "紙質吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紙燈籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個吊燈據說很容易引起火災。但是它們的主人沒有被允許換掉它們"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個燈用紙覆蓋著。看起來不安全"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人認為那個燈像太陽一樣燃燒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "注意：紙的溫度太高了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個紙燈。我希望那很安全"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人用紙和火焰造相似的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種掛在天花板上的紙燈"
+} ]

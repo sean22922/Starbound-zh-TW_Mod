@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這道光照亮了某種東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "損壞的展示燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "或許需要換燈泡了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果打開的話，它會照亮什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有人打壞了燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可怕。太慘了，這個燈需要馬上換燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "燈滅了，有人有備用燈泡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在出事之前應該有人來修修這個燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "像即將熄滅的火焰一樣閃爍"
+} ]

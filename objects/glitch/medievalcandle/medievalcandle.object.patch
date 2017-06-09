@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一支插在蠟台上的小蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一小截蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人的牧師經常藉著燭光工作"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "明火實在太危險啦！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。我好懷念燭光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個很小很漂亮的蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "蠟燭的燭光很小，不過搖曳的很漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一支乾淨的小蠟燭"
+} ]

@@ -1,0 +1,145 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "威脅。無所不見的騎士不會讓任何邪惡逃過我們的凝視"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "切實。無所不見的騎士願意幫助那些幫助我們的人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "陰險。我們會幫助那些給我們家園的人，力所能及的話……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "沉思。眼睛的符號是永恆的凝視"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "威嚇。沒有人能逃過無所不見的騎士！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "憤怒。看來這裡出問題了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/1",
+  "value" : "生氣。你沒看出問題嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "威嚇。對無所不見的騎士不敬是非常不清真的！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/1",
+  "value" : "威脅。你會為你的不敬付出代價的……"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "尊敬。您有什麼需要我幫忙的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/1",
+  "value" : "忍耐。你需要無所不見的騎士幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/2",
+  "value" : "觀察性。看來你需要我的幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "感激。你幫了我，無所不見的騎士會知恩圖報的"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/1",
+  "value" : "感謝。這是我的謝禮，謝謝你給我一個家"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "侵略性。我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "觀察性。我檢測到一位敵人在逼近！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/2",
+  "value" : "威嚇。你逃不出我的金睛火眼！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/3",
+  "value" : "敵意。見證自己倒在我腳下吧！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/4",
+  "value" : "威脅。我又看見了一個活靶子！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "侵略性。我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "觀察性。我檢測到一位敵人在逼近！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "威嚇。你逃不出我的金睛火眼！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "敵意。見證自己倒在我腳下吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "威脅。我看見了我們的下一個目標！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "滿意。不錯的一場戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "開心。我的戰鬥慾望暫時得到滿足了"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "不滿意。不應該拖這麼久的"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "失望。我丟失了我們的敵人……"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "驚訝。他們是如何躲過我的凝視的？！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "驚訝。他們是如何逃出我的永恆的凝視的？！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "吃驚。他們不在我的視線範圍內嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "泄氣。這個懦夫根本不敢跟我正面一戰！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "憤怒。我們的敵人是懦夫，不敢跟我正面肛！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "沉思。也許靜靜地觀察戰鬥就夠了"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "讚許。我看見了一場勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "讚許。我要看到敵人倒下！"
+} ]

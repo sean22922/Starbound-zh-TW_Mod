@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "低胸和大護肩的設計說明這個裝甲偏愛格調重於防禦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "旅行者胸甲"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "銅窗框的窗戶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅窗"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真棒。窗戶的框是銅做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "銅做的窗戶"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好看的銅窗框"
+} ]

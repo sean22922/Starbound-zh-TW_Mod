@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鬚鯉"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠長長的觸鬚會持續生長，最後比自己的身體還要長"
+} ]

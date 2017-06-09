@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/btnAccept/caption",
+  "value" : "好吧 :("
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblQuestTitle/value",
+  "value" : "翼族巨魔領主的祕密"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "防毒氧氣罐，可惜是空的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "有害物質儲氣罐"
+} ]

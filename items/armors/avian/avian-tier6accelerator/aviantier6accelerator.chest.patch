@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種用途精準的襯衫使用日光礦編織而成。很顯然，最大的特點就是韌性強勁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金剛鸚鵡裙"
+} ]

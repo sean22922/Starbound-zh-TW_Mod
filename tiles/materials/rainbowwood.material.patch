@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這片木頭未經打磨，十分粗糙，中心色彩鮮豔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "未打磨的彩虹木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述：未打磨的彩虹木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "未被戳過的木頭"
+} ]

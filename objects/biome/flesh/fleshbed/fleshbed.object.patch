@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張由新鮮血肉製成的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血肉牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格的恐怖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人睡得很死，而且拿牀單當早餐"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "深思。對機器人來說，沒有比鋼牀更惡意的了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是什麼啊？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "再怎麼做思想準備我也不可能在這張牀上睡覺"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀有脈搏"
+} ]

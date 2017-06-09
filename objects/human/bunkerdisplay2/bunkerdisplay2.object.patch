@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個螢幕上是圓餅圖，代表預算數據"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "數據螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "圓餅圖，看起來不是好吃的餅"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個圖形有點像樹莓塔，還缺了一塊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪，無聊的數據"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真諷刺。一個出色的圓餅圖，顯示了辦公用品支出的細節"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦，一個數據圖。可惜不是那種有趣的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這解釋了為什麼人類為了眼睛花費頗巨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不知道這個大圓圈想要表達什麼。但是缺了一塊"
+} ]

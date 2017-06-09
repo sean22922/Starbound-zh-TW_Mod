@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊物質塊。物質塊一塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "物質塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "著迷。這個好像是稀有的原石"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人一定會收集這種色彩繽紛的水晶"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些有著奇怪外表的水晶"
+} ]

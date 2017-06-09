@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "放置工具和設備的絕佳地方！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "採礦箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一口箱子！看看裡面有什麼東東"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種箱子一般會放有寶物。我好激動啊！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箱子！葉族人一定要查看一下！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。裡面是什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一口箱子！來打開它看看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這箱子看上去很工業"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真希望這個堅固的老箱子裡面有寶藏"
+} ]

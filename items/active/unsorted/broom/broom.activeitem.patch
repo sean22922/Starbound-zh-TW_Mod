@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最實用的清潔工具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "掃帚"
+} ]

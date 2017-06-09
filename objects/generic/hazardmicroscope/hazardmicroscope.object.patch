@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台大型顯微鏡，用於觀察具有潛在危險的細菌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "危險顯微鏡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台顯微鏡-用於學習研究的經典工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看這些微小的東西沒有看星星有意思"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用這個非常近地觀察植物！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "被吸引。很近地觀察有機材料會勾起你的好奇心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台顯微鏡！微小的東西可以變得大得可怕"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這台設備能夠用來觀察非常小尺度的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒時間去看顯微鏡"
+} ]

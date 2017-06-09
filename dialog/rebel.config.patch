@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "罩子放亮點，士兵！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/0",
+  "value" : "迷你克諾格惡魔！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/1",
+  "value" : "別後退！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/2",
+  "value" : "抓住他們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/3",
+  "value" : "革命！"
+} ]

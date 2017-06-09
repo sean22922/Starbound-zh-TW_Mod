@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "如果你小心裡面的一些金屬的話，這是驚人美味的燉湯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "自動湯"
+} ]

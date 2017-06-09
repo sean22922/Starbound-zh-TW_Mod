@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個齒輪。部分潤滑良好的機器。其實，這個有點生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "齒輪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個機械裝置。看起來運轉正常"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個機器。看起來挺髒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "旋轉的輪子，但是是幹什麼用的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思：許多這樣的齒輪能製作電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個滿是油污的機器，而且有點生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有點生鏽的機器，附近的水太多了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我估計這玩意以前挺好用的，但是現在來看已經生鏽了"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個空求生包……沒用！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "求生裝備包"
+} ]

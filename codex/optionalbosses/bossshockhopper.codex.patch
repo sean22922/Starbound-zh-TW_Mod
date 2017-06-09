@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "驚爆跳躍者 Mech Mk I"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "驚爆跳躍者 Mech Mk I的廣告"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "一個非常棒的邀約！\n有曾想過把帕格諾·巨拳的液壓拳頭、迴旋風暴5000的球狀閃電生產能力和希塔8的地對空導彈火力結合在一起嗎？現在這個夢想可以實現了！\n\n用驚爆跳躍者MK I就可以做到\n\n還包括其他驚人的功能：\n\n——同時具備速度和飛行能力的衝刺推進器"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/1",
+  "value" : "——大火力口徑的火焰發射器\n——人體工程學的控制方式讓使用更簡單\n\n今天就來買吧"
+} ]

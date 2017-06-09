@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發出空洞滴答聲的蘆葦鐘錶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘆葦牆掛鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "時鐘的嘀嗒聲真是催眠"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這無止境的滴答聲太令我惱火了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "時鐘的聲音真催眠"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真煩人，這嘀嗒聲就是停不下來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "挺漂亮的鐘，就是單調的嘀嗒聲太煩人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "催眠的，單調的嘀嗒聲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那種聲音會讓任何人發瘋"
+} ]

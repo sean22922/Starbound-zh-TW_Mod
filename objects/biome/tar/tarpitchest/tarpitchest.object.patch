@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "焦油製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焦油箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個黏糊糊的箱子是用來防盜的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裡面裝的東西必須珍貴得讓你願意觸碰這個箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很難打開的黏糊糊的箱子，裡面的寶藏最好很珍貴"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。無論裡面放了什麼東西，很可能已經黏糊糊了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很黏糊糊的箱子，算是一種附加的保險功能吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子的粘性是它本身的一種防禦機制"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很黏糊糊的一個箱子。希望裡面的寶藏沒有卡住"
+} ]

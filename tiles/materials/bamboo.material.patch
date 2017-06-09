@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "新切的竹子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "竹子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有希望。竹子的顏色表面是最近切下的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "新鮮竹子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些切好的竹子"
+} ]

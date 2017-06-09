@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個硬鋼防摔褲是飛行機車騎士專用的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先驅者褲子"
+} ]

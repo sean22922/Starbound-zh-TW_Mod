@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "我看到目標了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/0",
+  "value" : "我又看到他們了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/0",
+  "value" : "目標已擊敗！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/0",
+  "value" : "我找不到他們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/0",
+  "value" : "我的視野不是很好！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/0",
+  "value" : "給我騰出視野，讓我開槍！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/0",
+  "value" : "我的視野不好，我需要再接近一點！"
+} ]

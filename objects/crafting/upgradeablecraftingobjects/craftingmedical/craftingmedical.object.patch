@@ -1,0 +1,125 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "藥劑台用來製造治療物品和藥物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;藥劑台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子上有一堆醫療工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個展示個人醫療能力的機會"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這個桌子包紮傷口"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "醫療模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用這裡發現的材料來製作新的醫療道具"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在受到傷害後，這個可以治療我的傷勢"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個桌子可以用來療傷"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "藥劑台用來製造治療物品和藥物"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;藥劑台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "這張桌子上有一堆醫療工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "一個展示個人醫療能力的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這個桌子包紮傷口"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "醫療模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "我可以用這裡發現的材料來製作新的醫療道具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "在受到傷害後，這個可以治療我的傷勢"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "這個桌子可以用來療傷"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "藥店"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;健康平安"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "這個醫療站可以製造醫療道具和藥品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;醫療站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "這張桌子上有一堆醫療工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "展示個人醫療能力的機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這個桌子包紮傷口"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "醫療模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "我可以用這裡發現的材料來製作新的醫療道具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "在受到傷害後，這個可以治療我的傷勢"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "這個桌子可以用來療傷"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "醫療站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;健康平安"
+} ]

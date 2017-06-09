@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通澡盆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "好卡哇伊的澡盆，對猿人來說也太小了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有淋浴的澡盆，就像水從翼族人背上滴落"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大型游泳桶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "呆子，電子人不需要洗澡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "不錯的澡盆。正是博士要的。僅僅缺了點泡泡和蠟燭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "人類用來洗漱的水槽，我們鮫人只用來游泳"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "時不時泡個熱水澡不錯"
+} ]

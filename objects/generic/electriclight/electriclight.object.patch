@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "便宜的點燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "點燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小型的電光源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "積蓄電力來產生簡單的燈光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "沒有火焰的小、小型光源"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這些基礎燈光可以安裝在很多地方"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "安裝好基礎燈光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "只是一個很普通的燈光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是一個電子吊燈"
+} ]

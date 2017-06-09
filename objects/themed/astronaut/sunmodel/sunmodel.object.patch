@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個詳細的太陽系模型，這個黃矮星誕生了地球上所有的生命。它甚至能投射光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "太陽模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "太陽。太陽系的中心。這個黃色的矮星粗略計算佔到了主序星\n的7.6%"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "太陽系中的恆星。和我自己的家鄉行星中其中一個雙子星並沒有\n什麼不同"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太陽。儘管地球毀滅了它依然明亮地嘶……閃耀著"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷狀。我很想知道我什麼時候能再次親眼見到太陽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我的家鄉主星，太陽。我一直都記得地球上日落的景色……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "太陽系中的恆星，同時是一個G型主序星，作為定義太陽品質的\n公認星際標準而存在"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在學院時曾經盯著太陽發呆數個小時。真是懷念那段歲月"
+} ]

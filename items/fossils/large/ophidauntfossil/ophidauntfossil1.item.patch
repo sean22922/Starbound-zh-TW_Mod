@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "歐肥大鱗吐骷髏頭；"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個已成化石的歐肥大鱗吐骷髏頭"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "歐肥大鱗吐化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤上寫著\"這種蛇鱗吐的遠親祖先曾經生活在海洋中而不是陸地上。\""
+} ]

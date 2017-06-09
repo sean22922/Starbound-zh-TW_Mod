@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道冰冷的藍光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些光釋放出冰冷的藍色調"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這藍光讓我禁不住打哆嗦，就好像真的散發出冷氣一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "我們葉族人並不討厭藍色，但還是更喜歡綠色或者紅色！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，為何這光讓我感到一股寒意？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "藍光，當你向讓房間的氣氛冷下來時，用這光是最合適的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這藍光讓我聯想到陽光透過蔚藍的海洋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這光就像冰冷的燃燒之星，只不過更小一些"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "自然風的流行大劍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋼製大劍"
+} ]

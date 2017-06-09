@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個高懸的晶洞中放射出光線"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞之光"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "晶光閃閃的晶洞裡面大小正好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我以前見過很多用水晶發光的燈，但這個絕對不是翼族人設計的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光的岩石變成了天然的吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這個裝置能夠激發晶洞裡的天然光線"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "晶洞裡的天然光被改造成了燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈巧妙地結合了自然的力量和現代的技術"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一盞用綠螢石製作的燈"
+} ]

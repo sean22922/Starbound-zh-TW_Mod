@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當代風格小斗櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時髦的小斗櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個小衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "小衣櫃，藏小東西很有用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "一個小衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個小衣櫃，可以用來藏小東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個小衣櫃，很有用但是不太美觀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲藏物總是有用的！"
+} ]

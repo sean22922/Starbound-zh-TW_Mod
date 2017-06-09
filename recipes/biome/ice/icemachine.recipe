@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "iceblock", "count" : 12 }
-  ],
-  "output" : { "item" : "icemachine", "count" : 1 },
-  "groups" : [ "craftingfurniture", "storage", "all" ]
-}

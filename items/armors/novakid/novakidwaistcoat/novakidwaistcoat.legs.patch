@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "討人喜歡的時尚正裝"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "正規褲子"
+} ]

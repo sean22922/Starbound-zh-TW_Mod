@@ -1,9 +1,0 @@
-{
-  "name" : "sporgus",
-  "category" : "sporgus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "sporgus.png"
-  }
-}

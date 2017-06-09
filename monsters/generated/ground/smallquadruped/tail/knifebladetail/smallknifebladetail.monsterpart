@@ -1,9 +1,0 @@
-{
-  "name" : "smallknifebladetail",
-  "category" : "smallquadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallknifebladetail.png"
-  }
-}

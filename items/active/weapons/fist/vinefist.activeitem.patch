@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "釋放自然之力吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藤拳"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"臭名昭著的企鵝海盜——駭翼，坐在他的UFO裡。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "駭翼小雕像"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "骨竹果是很好的鈣源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨竹果種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一株非比尋常的植物。莖很脆，果實很多肉"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "骨頭不是翼族喜歡的食物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "香脆，耐嚼，多肉的食物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "怎麼會。這植物看上去就是有機的，但是機器人是沒有這些的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個植物不適合素食主義者"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "許多鮫人素食主義者的飯菜是由骨製植物製作的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "嚐起來像肉一樣的水果，奇怪！"
+} ]

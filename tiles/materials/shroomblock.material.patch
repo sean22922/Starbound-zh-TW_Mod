@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "柔軟真菌製成的塊狀物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。儘管被組裝成一個磚塊，但是這個蘑菇還活著"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可愛的蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這看起來不就是用一些蘑菇做成的磚塊嗎？"
+} ]

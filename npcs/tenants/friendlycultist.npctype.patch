@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "沒必要對我這麼緊張。我的目標你理解不了的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "不用擔心我。我很可信的。呵呵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "不要害怕，我不傷害人的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "保護地是一種習俗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/4",
+  "value" : "潛藏在荷葉中的恐懼……如果你無法打敗他們，那為什麼不加入他們呢？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太美了，振動的羽毛，排列得就像花一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "振動的羽毛束"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我沒見過鳥的羽毛這麼大"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在翼族人的神廟裡總是能見到各種各樣顏色的鳥的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡大羽毛。想要獵殺這些鳥"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。有這種羽毛的鳥體型都很大"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我討厭見到這些鳥的羽毛掉下來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些羽毛很好看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一束很美的羽毛"
+} ]

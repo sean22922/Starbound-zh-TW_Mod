@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "米煙斯蘑"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "持續釋放它有毒的煙霧就能放倒你"
+} ]

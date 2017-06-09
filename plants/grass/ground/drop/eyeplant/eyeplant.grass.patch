@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗野的眼球花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粗野的眼球花"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人凝視著深淵"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。邪惡的眼睛"
+} ]

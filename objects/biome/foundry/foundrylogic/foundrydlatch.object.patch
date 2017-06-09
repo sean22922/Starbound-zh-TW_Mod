@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "<Latch開關。只有在你明白這是什麼東西的時候才可能拿來用。>"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造Latch開關"
+} ]

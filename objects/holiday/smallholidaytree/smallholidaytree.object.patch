@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "微型的合成杉樹"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很小的人工杉樹"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是合成的樹。需要更多的燈光和裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這樹看起來相當像真的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不閃閃亮的樹。只是樹"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。這合成的樹需要裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很可惜是合成的，我都記不得真正的杉樹是什麼味道了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儘管這是偽造的，這還是很漂亮的樹"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "它是棵樹，但不是真的樹？"
+} ]

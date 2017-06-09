@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "耐鋼礦石"
+} ]

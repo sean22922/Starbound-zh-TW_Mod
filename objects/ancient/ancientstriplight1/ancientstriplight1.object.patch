@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一束神祕光線"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老條形燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "光線看起來不像是用電力的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些光發出不同尋常的色彩"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的藍色光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。我找不到這些古老光線的電源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些光要麼是古老遺蹟要麼是夜總會發出的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我好奇什麼給這些光提供能量？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "什麼讓這個藍光發亮的？"
+} ]

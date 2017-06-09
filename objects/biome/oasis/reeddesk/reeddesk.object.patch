@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "木頭和蘆葦製成的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘆葦桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "帶著蘆葦味道的平坦桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用木頭和蘆葦做的簡單桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張桌子。切肉用？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很好奇。一個人會在這種桌子裡放些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個帶著蘆葦抽屜的木桌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很顯然，這個桌子是用找到的材料精心製成的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不太贊成坐在桌子旁邊"
+} ]

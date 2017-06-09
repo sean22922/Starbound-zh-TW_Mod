@@ -1,9 +1,0 @@
-{
-  "name" : "mountcover",
-  "category" : "glitchknight",
-  "type" : "mountcover",
-
-  "frames" : {
-    "mountcover" : "mountcover.png"
-  }
-}

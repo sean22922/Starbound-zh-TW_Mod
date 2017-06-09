@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你現在挖魚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魚鎬"
+} ]

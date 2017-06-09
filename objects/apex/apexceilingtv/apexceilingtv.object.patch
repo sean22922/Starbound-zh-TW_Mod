@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個令人毛骨悚然的顯示器。一張臉閃過螢幕，快的幾乎沒法看見"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "閃爍天花板電視"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "每個猿人的家裡都有這個。充滿了\"教育的\"廣播。如果你看電視的時間足夠久就可能會使自己名聲不好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族人還沒實現過有這樣清晰度的圖片窗戶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "從圖片盒子裡發出這麼多閃光！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真可憐。這些生物比機器人還不自由"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這麼含蓄的宣傳"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "猿人像我們一樣被困住了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不認為這個廣播娛樂節目"
+} ]

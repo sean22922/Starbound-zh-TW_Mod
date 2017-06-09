@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種蟲子的翅膀如冰凍過一般"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰尖蟲"
+} ]

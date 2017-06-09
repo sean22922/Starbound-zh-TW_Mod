@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葉族人聚集到桌邊吃新鮮的燉肉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張葉族人桌子。可能他們在上面進餐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張簡單的葉族人桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人製造傢俱。將木頭與繩子綁在一起"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心：如果繩子磨損了話，這張桌子就會四分五裂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子似乎由連接處的繩子支撐著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "最簡單的桌子。鮫人孩子能製造的更好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "簡單的一張桌子"
+} ]

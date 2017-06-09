@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "赤紅扇"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這隻棘皮動物利用粉紅色的四肢把自己僞裝成花俏的魚一般的動物"
+} ]

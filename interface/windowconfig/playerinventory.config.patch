@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "^#b9b5b2;你的道具欄和裝備^green;[I]"
+}, {
+  "op" : "replace",
+  "path" : "/defaultPetNameLabel",
+  "value" : "^#b9b5b2;寵物狀態"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/head/data/tooltipText",
+  "value" : "頭部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/chest/data/tooltipText",
+  "value" : "胸部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/legs/data/tooltipText",
+  "value" : "腿部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/back/data/tooltipText",
+  "value" : "背部護甲"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/headCosmetic/data/tooltipText",
+  "value" : "頭部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/chestCosmetic/data/tooltipText",
+  "value" : "胸部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/legsCosmetic/data/tooltipText",
+  "value" : "腿部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/backCosmetic/data/tooltipText",
+  "value" : "背部裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/trash/data/tooltipText",
+  "value" : "丟棄"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelappearance/value",
+  "value" : "裝備槽"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelstats/value",
+  "value" : "狀態"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/companionName/value",
+  "value" : "寵物狀態"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labeltech/value",
+  "value" : "啟動技能"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/labelinventory/value",
+  "value" : "道具欄"
+} ]

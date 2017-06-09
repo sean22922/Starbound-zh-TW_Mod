@@ -1,9 +1,0 @@
-{
-  "name" : "round",
-  "category" : "guardianboss",
-  "type" : "hip",
-
-  "frames" : {
-    "hip" : "round.png"
-  }
-}

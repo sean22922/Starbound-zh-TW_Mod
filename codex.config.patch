@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/messages/alreadyKnown",
+  "value" : "記錄已存在"
+}, {
+  "op" : "replace",
+  "path" : "/messages/learned",
+  "value" : "情報已被添加到記錄中！"
+} ]

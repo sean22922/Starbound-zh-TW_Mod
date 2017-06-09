@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/start/default/default/0",
+  "value" : "嘿！士兵！快點，我們需要你進去隧道！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/start/default/default/1",
+  "value" : "噢，等一下。你不是我們的人。如果你來這裡是要加入我們，我們能夠用你！我們需要一個地下偵查員！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/start/default/default/2",
+  "value" : "名字叫^orange;拉娜·布萊克^white;，如果你想像我這麼失敗地滲入迷你克諾格要塞那就從那走吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/start/default/default/3",
+  "value" : "利用隧道來降低他們對我們的防備——我在這問題上相信你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/mid/default/default/0",
+  "value" : "你做到了！很好……我受傷了……我需要你來完成我們開始的任務，去解除最後的防備"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/end/default/default/0",
+  "value" : "做得好，士兵！多虧了你這一切都值得了。因為你這座要塞陷落了，而且……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/end/default/default/1",
+  "value" : "……這是什麼？這發光的東西真讓人分神……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/end/default/default/2",
+  "value" : "哦，這就是你來這裡的原因？……拿著吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/end/default/default/3",
+  "value" : "士兵，我願意幫助你，我認為你值得一些協助。我有可能會幫上你的技能"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lana/teleporter/default/default/0",
+  "value" : "在另一邊見！"
+} ]

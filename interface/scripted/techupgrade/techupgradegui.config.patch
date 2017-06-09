@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "科技升級控制台"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "選擇你的科技"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblDescription/value",
+  "value" : "選擇一個槽以改動"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot/value",
+  "value" : "頭髮"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblTechSlotHead/value",
+  "value" : "頭部科技"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblTechSlotBody/value",
+  "value" : "身體科技"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblTechSlotLeg/value",
+  "value" : "腿部科技"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblChipsLabel/value",
+  "value" : "需要科技卡"
+}, {
+  "op" : "replace",
+  "path" : "/selectTechDescription",
+  "value" : "選擇一項科技以裝備或升級"
+} ]

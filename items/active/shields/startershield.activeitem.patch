@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "比你的手略強"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "基礎護盾"
+} ]

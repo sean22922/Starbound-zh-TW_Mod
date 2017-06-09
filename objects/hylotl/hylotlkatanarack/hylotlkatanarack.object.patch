@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "劍架上擺滿了古式長劍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古劍劍架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套十分掠人心絃的古劍展示品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "整個劍架上擺滿了銳利的長劍"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "又亮又尖的劍"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "令人著迷。能打造出這種劍的人，一定經過了多年的冶煉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一整排的劍……真想抽出一柄來玩玩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "傳統武器，鐵匠們需要經過數年苦練，才能開始鑄劍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "劍架上擺滿了劍……真是夠古舊的"
+} ]

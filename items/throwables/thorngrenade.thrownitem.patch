@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "荊棘手榴彈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用一個水果和一些爆炸性的粉末去嚇死別人吧"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一本全部記載著保護者指導方針的舊書"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者舊書"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這本書裡寫了作為一名保護者最原始的、已經有些過時的指南"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一本很久以前寫成的書，裡面有作為一名保護者的指南"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一本灰撲撲的書，上面有些舊規矩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震驚。這本書保存得很好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一本蒙塵的舊書。裡面有些過時的指南"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這本書裡包含了作為保護者的最初指南"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一本模樣古老的書"
+} ]

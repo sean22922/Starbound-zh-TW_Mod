@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以打碎的水晶。大破壞的時候到了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "易碎的水晶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我要把這水晶給砸爛！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "砸爛這水晶會讓我很滿足"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砸碎亮晶晶！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "激動。砸碎這些水晶能夠創造巨大的財富"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是時候砸爛些水晶了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "藍水晶。漂亮。希望我不用砸爛他們！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我有非常強烈的渴望想要砸碎這些水晶"
+} ]

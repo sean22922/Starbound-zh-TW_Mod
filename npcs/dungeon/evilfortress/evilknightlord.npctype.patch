@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "恐嚇，這是我的要塞！來要付出代價！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "驕傲，你不配和我較量，我手下的騎士都懼怕我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "憤怒，你以為你能隨意來指手畫腳嗎！？"
+} ]

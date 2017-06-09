@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "優卡特"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "本性貪婪狡猾，如果潛行時受到了幹擾，會狠狠瞪你一眼"
+} ]

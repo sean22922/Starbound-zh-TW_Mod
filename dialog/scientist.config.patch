@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "迷你克諾格不是那麼好對付的"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/0",
+  "value" : "叛軍侵襲！警戒！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/1",
+  "value" : "叛軍混蛋！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/2",
+  "value" : "我們會給你個痛快的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/3",
+  "value" : "你們終將失敗，叛軍！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/4",
+  "value" : "叛軍潛入進來了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/5",
+  "value" : "別以為你能打敗我們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/6",
+  "value" : "我見過你，叛軍！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/7",
+  "value" : "毀滅，邪惡的傢夥們！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/8",
+  "value" : "叛軍士兵，試圖潛入過來！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/9",
+  "value" : "你不會或者離開這裡的，叛軍混蛋！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/apex/default/10",
+  "value" : "警報！叛軍在試圖潛入！"
+} ]

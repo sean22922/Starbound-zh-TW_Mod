@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "換衣服時躲在後面用的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統障子屏風"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個屏風。猿族不允許使用這些東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個屏風貌似呼吸就可以吹倒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在屏風上捅出洞來，偷看！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：你真的可以看穿這個屏風。一點用都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "其實這屏風根本擋不住別人的視線，很容易透過屏風看到輪廓"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡潔，完整，漂亮。這個屏風都有了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "極為輕薄的紙屏風，基本上遮不住什麼視線"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一些條紋木！好多條紋！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "異域條紋木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。木頭上的條紋似乎是材料互相排斥的結果"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "超超多條紋木。做出的房子全都是條紋！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個木頭上全都是條紋"
+} ]

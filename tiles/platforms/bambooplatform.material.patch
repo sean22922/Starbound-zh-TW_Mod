@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "竹製平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "以竹子為靈感的堅固平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有希望。竹平台特別堅固"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用強壯的竹子做平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "掛起的竹子像平台"
+} ]

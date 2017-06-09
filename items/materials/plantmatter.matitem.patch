@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用一堆植物物質製成的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "植物物質"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "感興趣。不止怎的植物物質被壓縮成了磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "葉族人喜歡植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "植物和落葉都搗碎在一起"
+} ]

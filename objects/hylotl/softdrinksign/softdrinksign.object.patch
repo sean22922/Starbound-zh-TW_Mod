@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軟飲料標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個純天然軟飲料廣告的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌是為天然飲料打廣告"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一個軟飲料的廣告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "飲品的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平凡：該標誌是廣告品牌的全天然飲料"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個軟飲料的廣告標識"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "該標誌是一個特別可口的天然飲料品牌的廣告"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "飲品品牌的廣告"
+} ]

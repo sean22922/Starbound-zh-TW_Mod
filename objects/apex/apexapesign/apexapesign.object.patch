@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿…即使現在我感覺被人盯著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用羽毛！占星師會認為這是褻瀆神靈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個猿有多大？或許我們能找到它飽餐一頓"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。我想檢查一下這個生命形式，並調查它的光學性質"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不知道猿人怎麼忍受這個的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在望外面看的時候，人必須先看內部"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "所有都能看到？有些東西不見為淨"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以看見所有的老大猿人！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿人海報"
+} ]

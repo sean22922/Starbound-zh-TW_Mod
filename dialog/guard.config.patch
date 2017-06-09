@@ -1,0 +1,285 @@
+[ {
+  "op" : "replace",
+  "path" : "/hail/default/default/0",
+  "value" : "我在監視著你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/1",
+  "value" : "你不要行差踏錯"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/2",
+  "value" : "我們這裡不容人廢物"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/3",
+  "value" : "走吧"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/0",
+  "value" : "小心。你不要惹是生非"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/1",
+  "value" : "可疑。你來這裡有何目的？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/2",
+  "value" : "陌生。咦！"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/3",
+  "value" : "警惕。你是誰？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/4",
+  "value" : "樂觀。你一定不會惹麻煩的"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/5",
+  "value" : "無言。你不會惹事……"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/6",
+  "value" : "嚴肅。你不要生事"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/7",
+  "value" : "虛偽。願你有個愉快的一天"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/8",
+  "value" : "蔑視。小心自己的安全"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/9",
+  "value" : "關心。你來這裡幹嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/0",
+  "value" : "注意安全，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/1",
+  "value" : "不要惹事"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/2",
+  "value" : "不要……不要惹是生非"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/3",
+  "value" : "別弄破什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/4",
+  "value" : "我盯著你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/5",
+  "value" : "你最好什麼事都不要做"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/6",
+  "value" : "我超級牛逼，你不要惹我"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/7",
+  "value" : "嗨！我是想說……哼"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/8",
+  "value" : "你來此有何貴幹？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/9",
+  "value" : "看什麼看？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/0",
+  "value" : "不要找事"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/1",
+  "value" : "葉族不喜歡你這張臉"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/2",
+  "value" : "別做傻事"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/3",
+  "value" : "三思而後行"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/4",
+  "value" : "葉族想要捅人……"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/5",
+  "value" : "葉族餓了……"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/6",
+  "value" : "給葉族一個理由"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/7",
+  "value" : "不要招惹葉族"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/8",
+  "value" : "走吧，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/9",
+  "value" : "惹麻煩的統統吃掉"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/0",
+  "value" : "別出聲，旅者，也不要惹事"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/1",
+  "value" : "遵守迷你克諾格的規則"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/2",
+  "value" : "老大猿在看著你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/3",
+  "value" : "暴力行為是不被容許的"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/4",
+  "value" : "為自己的行為負責"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/5",
+  "value" : "老大猿萬歲！千秋萬載壽與天齊！"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/6",
+  "value" : "我愛老大猿"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/7",
+  "value" : "老大猿也愛我們，除了那些不愛它的人"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/8",
+  "value" : "閉嘴，專心點"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/9",
+  "value" : "向迷你克諾格鞠躬"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/0",
+  "value" : "我們應該和平共處，共同建立美好家園"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/1",
+  "value" : "我希望我們可以收起手中的武器"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/2",
+  "value" : "別亂來，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/3",
+  "value" : "我們只希望你在我們的管轄範圍內保持尊敬"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/4",
+  "value" : "你要是膽敢惹怒我，我就不得不還擊了"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/5",
+  "value" : "我希望我們周圍寧靜的環境可以影響你的行為"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/6",
+  "value" : "鮫族戰士從出生那一刻就開始接受訓練"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/7",
+  "value" : "希望你不要隨便玷污這裡"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/8",
+  "value" : "別挑戰我的耐心"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/9",
+  "value" : "歡迎，陌生人。你是來欣賞我們的文化的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/0",
+  "value" : "別惹我"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/1",
+  "value" : "如果我們打起來，輸的那個人肯定是你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/2",
+  "value" : "恐怕我得請你讓開"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/3",
+  "value" : "希望你在這裡過得愉快"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/4",
+  "value" : "別惹是生非"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/5",
+  "value" : "歡迎你來到這裡，希望你能尊重我們的家園"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/6",
+  "value" : "我現在不想爭論……"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/7",
+  "value" : "希望我們能好好相處"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/8",
+  "value" : "只要你不打碎東西或是殺人，這裡永遠歡迎你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/9",
+  "value" : "翼族人自古以來就是偉大的戰士"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/0",
+  "value" : "可別惹出亂子來哦，朋友"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/1",
+  "value" : "如果你不搗亂，我們就絕對能和平相處"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/2",
+  "value" : "只要不找麻煩，我們是很樂意接受陌生人的"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/3",
+  "value" : "我忘了，以前是不是在這附近見過你啊？"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/4",
+  "value" : "享受你的鄉村生活吧，朋友。不要搞出什麼亂子就行了"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/5",
+  "value" : "最近這裡出了不少小偷。我們可不喜歡有人偷盜"
+}, {
+  "op" : "replace",
+  "path" : "/hail/novakid/default/6",
+  "value" : "你好！"
+} ]

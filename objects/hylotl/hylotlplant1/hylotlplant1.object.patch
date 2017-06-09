@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "假的植物裝飾，明顯是用塑膠做的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "塑膠假花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "為什麼會有人想買塑膠植物呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "塑膠植物。不錯喔"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人恨死塑膠植物了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不以為然。塑膠植物。太廉價"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "覺得像是候診室的那種感覺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真噁心，是塑膠植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這葉子還真是硬呢……啊不對，這是塑膠的耶！"
+} ]

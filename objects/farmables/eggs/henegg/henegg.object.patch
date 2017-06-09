@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化出小雞，長大後變成母雞。成年母雞會下美味的雞蛋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "母雞蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是個母雞蛋，裡面有個小雞仔"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個母雞蛋中有個小雞仔……我突然渾身籠罩著母愛的光環並想保護這個小雞仔"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有小斑點的母雞蛋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個母雞蛋似乎要孵化了！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "蛋中有個毛茸茸的小雞仔"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個母雞蛋——自然中最簡單也是最精緻的設計"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個母雞蛋就要孵化了"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "治療之水"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "清涼，乾淨的治療之水。喝了它能恢復你的身體"
+} ]

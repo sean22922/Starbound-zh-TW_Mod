@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "準備受死吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/0",
+  "value" : "這次你死定了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/0",
+  "value" : "你弱，我強！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/1",
+  "value" : "你根本打不過我們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/0",
+  "value" : "你躲不到哪裡去的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/0",
+  "value" : "逃不了的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/0",
+  "value" : "你是不可能打得過我們的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/0",
+  "value" : "再靠近點！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/1",
+  "value" : "我會抓住你的！"
+} ]

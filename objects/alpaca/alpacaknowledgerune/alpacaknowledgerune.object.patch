@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個象徵知識的遠古符文"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "知識符文"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個很複雜的古老符文，代表知識"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個代表知識的符文，難怪這麼複雜"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個複雜的符文，代表了知識的複雜概念"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一個代表知識的符文"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果符文代表著知識，那我能從中學習什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個小而複雜的設計自身包含了知識的不可捉摸性"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很好看的符文，和知識有關"
+} ]

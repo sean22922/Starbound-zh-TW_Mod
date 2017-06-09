@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這樣的羽翼一般都會有占星師代表他們自己的信仰穿在身上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "占星師助手羽翼"
+} ]

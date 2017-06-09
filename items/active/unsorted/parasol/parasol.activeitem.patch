@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在掉落的時候撐開，可以輕輕落下。如果在房間裡打開，就不是件好事了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "降落傘"
+} ]

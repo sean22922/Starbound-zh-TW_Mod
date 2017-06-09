@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "腐敗的臭氣從通風口飄出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的通風口"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "滿是灰塵的通風口"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "生鏽的通風口"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帶有硬殼的老通風管道嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "面無表情。一個通風管道"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個老通風管道。全都鏽住了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "發黴的通風口"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這老通風管道今非昔比咯"
+} ]

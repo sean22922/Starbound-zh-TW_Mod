@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/removeSelfText",
+  "value" : "離開"
+}, {
+  "op" : "replace",
+  "path" : "/removeOtherText",
+  "value" : "移動"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/beamToShip/caption",
+  "value" : "傳送到飛船"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/makeLeader/caption",
+  "value" : "設為隊長"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/removeFromTeam/caption",
+  "value" : "移動"
+} ]

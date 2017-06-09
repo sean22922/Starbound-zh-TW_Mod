@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻烤得十分完美的鳥。多麼美好的事物啊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熟家禽"
+} ]

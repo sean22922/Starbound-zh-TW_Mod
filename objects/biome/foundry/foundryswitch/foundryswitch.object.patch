@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鑄造機械活化開關"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個工業機械開關"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在廢棄的鑄造廠，最好別隨便亂動不明開關"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "控制機器的開關"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。控制工業機械的開關"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "只是控制某種機械的開關"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個開關油膩膩的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個看起來很笨重的機械開關"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個大門是由某種防彈材料製成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "是個氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "讚許。一個結實的氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個氣密艙，很有用"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個基本的氣密艙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像個氣密艙"
+} ]

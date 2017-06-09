@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用打磨過的石頭製成的地磚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石瓦片"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這個石頭被用心的打磨成地磚"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "將石頭打磨成漂亮的地磚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "將石頭切割打磨成漂亮的地磚"
+} ]

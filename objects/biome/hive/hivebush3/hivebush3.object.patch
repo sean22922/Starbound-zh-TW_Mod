@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某種卵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂卵"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些肯定是這裡的什麼生物下的蛋"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些好像是蛋。不過肯定不是我的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嗯，是蛋"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這些好像是這裡的生物群落中的某種生物下的蛋"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那些是蛋嗎？那樣的蛋我可不想吃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "那些是巨大又可怕的蛋……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "快看那些蛋有多大！"
+} ]

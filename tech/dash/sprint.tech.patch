@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "以加速代替衝刺，將消耗能量！"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "加速"
+} ]

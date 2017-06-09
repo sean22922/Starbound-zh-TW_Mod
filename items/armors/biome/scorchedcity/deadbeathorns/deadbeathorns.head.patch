@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些角又嚇人又好看"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無賴角"
+} ]

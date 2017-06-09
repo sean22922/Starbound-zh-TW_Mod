@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "顯著提高寵物傷害輸出的項圈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傷害III項圈"
+}, {
+  "op" : "replace",
+  "path" : "/collar/displayName",
+  "value" : "傷害III"
+} ]

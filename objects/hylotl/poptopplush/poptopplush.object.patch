@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種柔軟的帕普踏普毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帕普踏普毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "帕普踏普讓我毛骨悚然，但是這個卻很可愛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "為什麼這樣一個可怕的小生物要做成毛絨玩偶？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "啊，葉族人最喜歡帕普踏普的毛絨玩具了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "矛盾：帕普踏普是致命的生物，但他們很可愛"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "噢，這幾乎可以讓你忘記真正嚇人帕普踏普是怎樣的了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一個相當可怕的生物的可愛絨毛玩具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "比真的帕普踏普可愛多了"
+} ]

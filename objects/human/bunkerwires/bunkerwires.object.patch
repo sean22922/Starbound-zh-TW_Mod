@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這只是等著爆發的一場電氣火災"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電線"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "電線"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "危險的電線"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "纏在一起的電線很危險。葉族人之前得到了教訓"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。掃描顯示電氣故障的機率是98%"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "線纜最近不夠用了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一堆雜亂的電線，不安全"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "電線。給周圍什麼東西供電的"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "高折射率棱鏡。似乎有東西在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡水晶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "似乎這水晶內部有個人形的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有人，或者東西被困在了這個棱柱體裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面是什麼東西？還活著嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "恐怖。似乎這棱狀體裡有個人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "裡面有人。這是個棱形監獄！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個不祥的黑暗形體駐留在這個水晶中"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果沒弄錯的話，裡面應該有個人！"
+} ]

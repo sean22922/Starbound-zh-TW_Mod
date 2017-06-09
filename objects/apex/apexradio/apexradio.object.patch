@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個收音機開了但是沒聲音"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式收音機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在老家這些無線電大部分是用於迷你克諾格聲明的。有一段時間抵抗組織開通了一個海盜電台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "那看起來像是一個收音機。翼族人收音機使用水晶共振做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "遠距離交談設備"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣：一個收音機，目前收不到任何信號"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "協調按鈕固定在一個點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "安靜…"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來不能用"
+} ]

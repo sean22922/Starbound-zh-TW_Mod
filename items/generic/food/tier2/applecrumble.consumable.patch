@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一大片金色的麵包屑之下是香甜的燉蘋果"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘋果甜品"
+} ]

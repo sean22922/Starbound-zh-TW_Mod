@@ -1,0 +1,105 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/default/default/0",
+  "value" : "很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/avian/default/0",
+  "value" : "我喜歡維護這個地方的安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/avian/default/1",
+  "value" : "我喜歡這個工作，可以遇到很多有趣的人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/avian/default/2",
+  "value" : "真是無聊的一天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/avian/default/3",
+  "value" : "保護他人安全感覺很充實"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/apex/default/0",
+  "value" : "你的冒險愉快嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/apex/default/1",
+  "value" : "現在風平浪靜——很少有這種偷懶的機會"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/apex/default/2",
+  "value" : "別擔心，這裡很安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/apex/default/3",
+  "value" : "這個地方防衛森嚴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/floran/default/0",
+  "value" : "葉族很無聊，葉族要戰鬥……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/floran/default/1",
+  "value" : "葉族準備好守衛這個地方！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/floran/default/2",
+  "value" : "葉族準備好戰鬥了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/floran/default/3",
+  "value" : "別擔心。葉族會捅死入侵者的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/glitch/default/0",
+  "value" : "保護。我會守護你的和這個地方"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/glitch/default/1",
+  "value" : "驕傲。我有防衛的經驗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/glitch/default/2",
+  "value" : "警惕。我需要維護這個地區的安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/glitch/default/3",
+  "value" : "瞌睡。我能偷個懶嗎？現在風平浪靜的，不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/human/default/0",
+  "value" : "我不會懈怠的！我發誓！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/human/default/1",
+  "value" : "夥計，看著我，保持警惕，不要打盹兒"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/human/default/2",
+  "value" : "我可以保護這個地方的安全。易如反掌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/human/default/3",
+  "value" : "我喜歡保全工作。我有很多思考人生的時間"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/hylotl/default/0",
+  "value" : "為了保護他人而活是很有意義的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/hylotl/default/1",
+  "value" : "我會確保你在這裡的時光會很安寧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/hylotl/default/2",
+  "value" : "我會保護你，以及任何來這裡的人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/hylotl/default/3",
+  "value" : "我不會放鬆警惕的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/hail/novakid/default/0",
+  "value" : "生而護衛他人是種美德"
+} ]

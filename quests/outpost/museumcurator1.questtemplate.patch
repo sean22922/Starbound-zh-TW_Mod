@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;光一的請求"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我想開個博物館。你覺得葉族喜歡這東西嗎？我真的想多瞭解瞭解奴魯……不管怎樣，我需要展覽！你能 ^green;給我帶個 ^orange;翼族大石棺嗎^white;? 你能在翼族的墓穴找到"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "謝謝你！這肯定能作為翼族展覽的中心展品、我肯定奴魯會喜歡這個絕妙的展品的！其他人當然也會……"
+} ]

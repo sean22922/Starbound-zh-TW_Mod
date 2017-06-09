@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是賣貨的絕好地點"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "關閉的標誌商店"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "告示上說貨攤馬上打開"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我很好奇打開後會是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不知道這個打開後會是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "激動。上面說馬上就打開了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來稀奇古怪的貨攤。想知道是用來幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "貨攤的一邊噴上了鮫族的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "貨攤看起來很古怪"
+} ]

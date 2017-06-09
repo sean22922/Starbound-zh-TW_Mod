@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "奇怪的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/human/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/human/1",
+  "value" : "大自然就是我存在的意義！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/apex/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/apex/1",
+  "value" : "葉族人幫猴子們幹掉米尼什麼格"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/avian/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/avian/1",
+  "value" : "飛！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/floran/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/floran/1",
+  "value" : "葉族人在這個村莊裡可是大人物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/glitch/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/glitch/1",
+  "value" : "你需要葉族人幫你去捅什麼東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/hylotl/0",
+  "value" : "葉族人喜歡生活在叢林裡——他們熟悉各種植物和痕跡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/hylotl/1",
+  "value" : "我們當朋友吧！"
+} ]

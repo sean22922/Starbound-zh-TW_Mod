@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "睿智的人一定會保護好自己的胸腹，這就是胸甲的作用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "智者胸甲"
+} ]

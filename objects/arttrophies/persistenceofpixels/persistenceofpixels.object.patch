@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有點電子人超現實主義"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "像素的存留"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "奇怪的畫。好像描繪了時間的死亡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來好像描繪了溶化的電子人時間閱讀者的選擇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人看不不懂奇奇怪的畫"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我相信機器人還是有點意識到他們的處境。也許這種意識在這幅畫裡體現出來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "溶化的鐘。為什麼電子人要畫這個？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一幅超現實的藝術作品。真希望能問問這個藝術家"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那些鐘一定是被熱熔的吧"
+} ]

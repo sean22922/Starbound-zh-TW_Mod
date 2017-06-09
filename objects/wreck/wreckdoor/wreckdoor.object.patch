@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這門已經鏽的關不上了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇生鏽的門，關不上了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這扇門沉重且鏽住了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "沉重的門很難打開"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察狀。鐵鏽讓這扇門卡住了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇生鏽的舊門。非常重"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這門曾經安全性很高"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門曾經很牢固，在它的鉸鏈鏽住之前"
+} ]

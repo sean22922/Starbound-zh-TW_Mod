@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "污水桶。幾乎確定有毒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "污水桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "提醒自己：不要從鮮豔的桶裡喝水"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "污染：真是遺憾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "綠手指倒出了這個"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "決定：這個桶最好不要進行分析"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在地球上，倒髒水都可能被罰款"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "至少這不在海洋裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我還沒好奇到往這個桶裡看"
+} ]

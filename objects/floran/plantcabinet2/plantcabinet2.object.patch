@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶有大抽屜櫃的一張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子的桌面很光滑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我對這個桌子櫥櫃的做工很滿意"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張桌子，葉族存放東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這張桌子對葉族來說是異常的高品質"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子很不錯，畢竟是來自監獄裡的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個粗糙做工的葉族櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個很精緻的桌子，可以置放東西"
+} ]

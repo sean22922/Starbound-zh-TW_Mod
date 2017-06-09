@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個終端機。或許有用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "基本終端機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "某種終端機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個終端機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "嗶嗶發響的終端機"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不感興趣。一個終端機"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個終端機"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個連接終端機"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是個終端機，也許連著什麼？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個大號經典儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典杯墊"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個看起來很貴的碗櫃，也許是用來藏祕密的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼名貴的杯墊的裡面可能也會有一些同等重要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "咱們看看裡面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "期望：希望裡面有一些有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "來看看裡面裝的是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這麼奢華的門後面有什麼東西呢？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看著像個大號漂亮的櫃子"
+} ]

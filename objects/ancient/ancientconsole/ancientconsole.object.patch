@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來像是門的控制面板。應該還能用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "極古老的科技"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "控制台肯定和門一樣年代久遠。那可真夠陳舊的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "和門一樣年代久遠的控制器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。門的控制器。看起來確實很老舊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "大門控制器。一定和門一樣年代久遠了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "大門控制器。和門一樣神祕莫測"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看看能不能讓這個老古董動起來"
+} ]

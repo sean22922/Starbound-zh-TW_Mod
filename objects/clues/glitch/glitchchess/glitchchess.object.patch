@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個棋盤是定製的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "主題下棋桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "棋是一種戰略性遊戲，很少有人能精通"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某人很精心的搭建了這個遊戲的棋盤"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "能讓葉族人毀掉的棋子有很多！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我很想念過去下棋的時光，這些棋子作工精良"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看來是自己打造的棋子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "某人打算用這些棋子重現某些特殊的事情"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我一直搞不明白這遊戲怎麼玩"
+} ]

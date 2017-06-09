@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "寒冷堅硬的金屬板作牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏈式金屬牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來就不舒服的金屬牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這牀應該墊些乾草"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這是牀？葉族人感覺很糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿足：這樣的牀我睡起來肯定很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "懲罰他人最好的方法就是讓他們睡在這牀上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個非常不舒服的牀。我不想睡在這上面"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不讓人睡好才是最慘的懲罰方式"
+} ]

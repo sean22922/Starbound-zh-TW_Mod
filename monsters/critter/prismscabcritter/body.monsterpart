@@ -1,9 +1,0 @@
-{
-  "name" : "prismscabcritter",
-  "category" : "prismscabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

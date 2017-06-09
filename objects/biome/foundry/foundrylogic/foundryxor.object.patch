@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造XOR開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真有趣。XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "XOR開關。當兩個輸入不同時才開啟"
+} ]

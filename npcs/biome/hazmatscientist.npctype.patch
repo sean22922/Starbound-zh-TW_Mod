@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這些星球根本不瞭解大自然！我們沒法給它們分類！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "樣本組織太多了，我都檢查不過來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "這套服裝並不能很好地抵禦輻射，我只是感覺穿著會安全點而已！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "這裡有很多有敵意的生物，太好了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "這顆星球對我這樣的人來說簡直就是最危險的地方，太好了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "不知道我們能用這顆星球的樣本做出什麼新葯來呢？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "我的科學家們和我正在準備去探索宇宙裡所有的外星球！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "是不是輻射加速了這顆星球上的生物的不穩定生長？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "我在做研究，別污染我的樣本！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "\"我們在這顆危險的外星球上調查一下吧\"，他們說！ \"能有什麼事兒呢？\" 他們說！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/10",
+  "value" : "學習是非常酷的事情，不要輕信別人的話！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/11",
+  "value" : "他們就不能做點人性化的衣服出來嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/12",
+  "value" : "我穿著這套制服，你還能看到我的臉嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/13",
+  "value" : "別碰我——我身上都是未知的微生物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/14",
+  "value" : "在這件黃色的制服下，我的心臟正在為探索的熱情而轟鳴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/15",
+  "value" : "即便所有的生物都迷失了，人類最終也會重新發現科學"
+} ]

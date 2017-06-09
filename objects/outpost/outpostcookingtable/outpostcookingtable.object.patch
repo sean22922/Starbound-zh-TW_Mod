@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個櫃檯很適合用來準備食物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : " 雅緻烹飪桌子"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 雅緻烹飪桌子"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;準備做食物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張烹飪桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以用它來做美味的食物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用這個來做好吃的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。一張烹飪桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張烹飪桌子。派的上用場！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張簡單的桌子。用來準備食物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是時候做些吃的啦"
+} ]

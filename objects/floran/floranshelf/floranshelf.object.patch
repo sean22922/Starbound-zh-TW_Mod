@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來存放補給和器具的木和骨架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用木和骨製造的簡單架子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "架子本身就像是一件戰利品。不需要裝飾它"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族用架子擺放戰利品但是戰利品太大放不進架子。所以葉族用架子當戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這個架子是用某種巨大生物的肋骨製造而成的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個架子是空的。葉族人沒有東西可以守獵了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "至少架子是空的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "使用骨頭和木材所製，這個架子是某種戰利品"
+} ]

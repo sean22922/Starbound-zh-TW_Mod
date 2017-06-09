@@ -1,0 +1,757 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "士兵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "保全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/0",
+  "value" : "倒數第2名<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/1",
+  "value" : "第3名技術助理<field>軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/2",
+  "value" : "副助理<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/3",
+  "value" : "實習學徒<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/4",
+  "value" : "臨時代班<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/5",
+  "value" : "第3名後勤中尉<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/6",
+  "value" : "第64名准將<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/7",
+  "value" : "<field>常站軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/8",
+  "value" : "<field>常坐軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/9",
+  "value" : "行政泡咖啡<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/10",
+  "value" : "<field>指揮大師軍士長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/11",
+  "value" : "<field>獨立稽核員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/12",
+  "value" : "<field>依賴稽核員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/13",
+  "value" : "<field>無畏軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/14",
+  "value" : "<field>實習參謀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/15",
+  "value" : "小組長<field>參事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/16",
+  "value" : "後備<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/17",
+  "value" : "<field>可靠奴才"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/18",
+  "value" : "<field>理論顧問"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/19",
+  "value" : "<field>可靠走狗"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/20",
+  "value" : "<field>作業長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/21",
+  "value" : "萬用<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/22",
+  "value" : "<field>聯繫長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/23",
+  "value" : "緊急<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/24",
+  "value" : "<field>外交專家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/25",
+  "value" : "<field>研發主管"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/26",
+  "value" : "紀律渙散<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/27",
+  "value" : "<field>地區總監"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/28",
+  "value" : "<field>私人研究員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/29",
+  "value" : "<field>庸俗測量員"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/30",
+  "value" : "<field>激進創新者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/31",
+  "value" : "獨立<field>作業長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/32",
+  "value" : "你的平均<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/33",
+  "value" : "業餘愛好者<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/34",
+  "value" : "<field>事務碩士"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/35",
+  "value" : "<field>替代顧問代表"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/36",
+  "value" : "<field>亞軍軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/37",
+  "value" : "<field>緊急軍官"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/38",
+  "value" : "大副第二表兄弟第三<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/39",
+  "value" : "<field>義務實習生"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/40",
+  "value" : "<field>學徒"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/41",
+  "value" : "<field>論壇版主"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/42",
+  "value" : "<field>流氓奸商"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/43",
+  "value" : "中立第三方<role>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/44",
+  "value" : "<field>劣質談判"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/ranks/45",
+  "value" : "<field>扶手椅專家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/0",
+  "value" : "冒險者你好，介意我加入嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/1",
+  "value" : "我是<selfname>，我真的想隨船航行。你想僱傭我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/2",
+  "value" : "你就是我想要共事的人！想要僱用我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/3",
+  "value" : "我在尋找一個夥伴，你有興趣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/4",
+  "value" : "我在尋找一個夥伴，你有興趣嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+  "value" : "如果我加入你，你會庇護我不受老大猿的侵害嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+  "value" : "我的技術可以在旅途中幫到你們。你願意僱傭我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+  "value" : "或許我比較適合在船上的生活，我能加入你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+  "value" : "我想要展開一段新的生活，你缺人手嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+  "value" : "在星球之間航行……你缺人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+  "value" : "你有一艘飛船？你缺人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+  "value" : "你是不是在找船員？在星球之間航行一定很爽……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+  "value" : "或許我比較適合旅行者的生活？我能加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+  "value" : "沒有比在星球之間航行更讓我感興趣的事情了！我能加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+  "value" : "我可以在航行的過程中幫上忙的！我能加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+  "value" : "葉族人想要加入你的船隊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+  "value" : "葉族人想要找一份長期穩定的工作，你能給葉族人一份工作嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+  "value" : "你看上去很強，葉族人想要加入你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+  "value" : "興奮。我能加入你的旅行嗎？我的技能可以幫到你的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+  "value" : "絕望。我非常想要過載星辰之間穿梭的生活，請讓我加入你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+  "value" : "渴望。我會很有用的！我能加入你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/0",
+  "value" : "無法、無信仰、無戰鬥——這就是我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/1",
+  "value" : "我有一雙人字拖"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/2",
+  "value" : "我曾經爬到過一隻猿族人身上，那視野真好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/3",
+  "value" : "我們企鵝從來不會慌張"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/4",
+  "value" : "還有人感覺到最近宇宙有震盪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/5",
+  "value" : "不是所有企鵝都是搗蛋鬼！不，我們真的都是"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/6",
+  "value" : "我的羽毛裡都是機槍的機油"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/7",
+  "value" : "昨天我笑得太厲害了，差點被自己的鰭嗆死"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/8",
+  "value" : "嘿，我是<selfname>，很高興見到你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/penguin/default/9",
+  "value" : "人們認為企鵝很可愛，他們錯了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/novakid/default/0",
+  "value" : "我雖然忘了自己從哪兒來，但我知道我想去哪兒——跟著你，我的夥伴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/novakid/default/1",
+  "value" : "嘿，夥計，你是要找一位熱情的流浪者跟你一起走嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/novakid/default/2",
+  "value" : "咱們倆可能很合得來。願意把我招募到你的隊伍裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/novakid/default/3",
+  "value" : "如果你想招人，那我就是你要找的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "如果你要打敗壞人的話，我可以幫你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+  "value" : "如果你需要保護的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+  "value" : "如果你在戰鬥中需要我的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+  "value" : "我就在這裡隨時等你調遣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+  "value" : "我會在這裡等你，船長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+  "value" : "如果你需要軍事援助的話，就來找我吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+  "value" : "如果你在戰鬥中需要我的話，你知道去哪裡找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+  "value" : "如果你在戰鬥中需要我的話，你知道去哪裡找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+  "value" : "如果你在戰鬥中需要我的話，你知道去哪裡找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+  "value" : "如果你需要保護的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+  "value" : "如果你在戰鬥中需要我的話，你知道去哪裡找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+  "value" : "我特別擅長戰鬥，隨時來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+  "value" : "如果你需要保護的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "葉族人會在這裡等候你的差遣！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+  "value" : "葉族人是最棒的獵人！隨時來找葉族人幫你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+  "value" : "葉族人會幫助你戰鬥的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "英勇。如果你需要一個戰士來保護你的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+  "value" : "勇敢。如果你在旅途中需要協助的話，我就在這裡等你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+  "value" : "堅定。如果你在戰鬥中需要幫助的話，我會助你一臂之力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
+  "value" : "渴望。如果你在戰鬥中需要幫手的話，就來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/0",
+  "value" : "我在這裡隨時等候你的差遣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/1",
+  "value" : "如果你需要保護的話，隨時來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/penguin/default/2",
+  "value" : "如果你在戰鬥中需要我的話，你知道去哪裡找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/0",
+  "value" : "我暫時先待在這。等你需要我了，就過來招呼一聲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/1",
+  "value" : "我就一直在這兒等著，直到你需要我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/novakid/default/2",
+  "value" : "不用擔心我，我就在這兒等著，直到你再次用得著我了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/0",
+  "value" : "呼……癢死我了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/1",
+  "value" : "剛剛發生了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/2",
+  "value" : "我活著回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/3",
+  "value" : "我活著回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/4",
+  "value" : "我又活了！很好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/5",
+  "value" : "我覺得重生好像有點問題"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/6",
+  "value" : "我的頭好疼"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/default/default/7",
+  "value" : "我死前在幹什麼來著的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/floran/default/0",
+  "value" : "葉族人感覺很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/floran/default/1",
+  "value" : "葉族人不喜歡死亡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/floran/default/2",
+  "value" : "復活好癢啊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/floran/default/3",
+  "value" : "葉族人下次會更努力戰鬥的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/glitch/default/0",
+  "value" : "好暈，我剛剛死了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/glitch/default/1",
+  "value" : "復活，我回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/glitch/default/2",
+  "value" : "擔心。我覺得我復活得不錯，我看上去怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/glitch/default/3",
+  "value" : "迷惑。我剛剛是死了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/glitch/default/4",
+  "value" : "疲憊。復活好累人啊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/penguin/default/0",
+  "value" : "我真不敢相信我剛剛竟然死了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/penguin/default/1",
+  "value" : "沒有一隻自尊自愛的企鵝會永遠死去"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/penguin/default/2",
+  "value" : "呼……癢死我了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/penguin/default/3",
+  "value" : "復活弄得我頭好暈，我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/novakid/default/0",
+  "value" : "我看見了光明……不，等等，那就是我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/novakid/default/1",
+  "value" : "我死了嗎？好像沒有！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/novakid/default/2",
+  "value" : "重生者確實讓我急的馬不停蹄"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/respawned/novakid/default/3",
+  "value" : "活過來的時候讓我靈光一閃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/0",
+  "value" : "我在這裡等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/1",
+  "value" : "船長，我隨時待命！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/2",
+  "value" : "船長，我隨時待命！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/3",
+  "value" : "你需要我留在這裡嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/4",
+  "value" : "那我就留在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/default/default/5",
+  "value" : "我會留在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/floran/default/0",
+  "value" : "葉族人要留在這裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/floran/default/1",
+  "value" : "葉族人會留在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/floran/default/2",
+  "value" : "葉族人會留在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/glitch/default/0",
+  "value" : "遵命。我會留在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/glitch/default/1",
+  "value" : "耐心。我會留在這裡的，船長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/glitch/default/2",
+  "value" : "友好。我會留在這裡等待差遣，船長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/glitch/default/3",
+  "value" : "同意。我會留在這裡，船長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/penguin/default/0",
+  "value" : "那我就……等吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/penguin/default/1",
+  "value" : "行，我就等在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/penguin/default/2",
+  "value" : "我就等在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/penguin/default/3",
+  "value" : "我就等在這裡休息一下"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/novakid/default/0",
+  "value" : "好吧，夥伴，我就在這等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/novakid/default/1",
+  "value" : "只要你願意，我可以在這兒等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/unfollow/novakid/default/2",
+  "value" : "我暫時就在這兒等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/default/default/0",
+  "value" : "是，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/default/default/1",
+  "value" : "船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/default/default/2",
+  "value" : "出發吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/default/default/3",
+  "value" : "出發吧，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/default/default/4",
+  "value" : "我們要去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/floran/default/0",
+  "value" : "是，船長！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/floran/default/1",
+  "value" : "出發！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/floran/default/2",
+  "value" : "船長想去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/floran/default/3",
+  "value" : "葉族人準備完畢！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/floran/default/4",
+  "value" : "我們要去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/glitch/default/0",
+  "value" : "謙遜。我跟你走，船長"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/glitch/default/1",
+  "value" : "警惕。我們出發吧，船長？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/glitch/default/2",
+  "value" : "嚴肅。是時候動身了吧，船長？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/glitch/default/3",
+  "value" : "好奇。我們要去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/penguin/default/0",
+  "value" : "我準備好了，出發吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/penguin/default/1",
+  "value" : "那就出發吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/penguin/default/2",
+  "value" : "聽你的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/penguin/default/3",
+  "value" : "我來了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/novakid/default/0",
+  "value" : "沒時間拖拖拉拉了——我們快走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/novakid/default/1",
+  "value" : "是時候啓程了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/novakid/default/2",
+  "value" : "夥伴，該走了吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/follow/novakid/default/3",
+  "value" : "呀呼，我們走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/default/default/0",
+  "value" : "我追不上你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/default/default/1",
+  "value" : "你跑得太遠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/default/default/2",
+  "value" : "等等！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/default/default/3",
+  "value" : "別走太遠！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/default/default/4",
+  "value" : "我追不上你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/floran/default/0",
+  "value" : "葉族人離得太遠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/floran/default/1",
+  "value" : "葉族人被丟下了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/floran/default/2",
+  "value" : "葉族人追不上你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/glitch/default/0",
+  "value" : "失落。我追不上你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/cantreach/glitch/default/1",
+  "value" : "擔心。等等我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/penguin/default/0",
+  "value" : "嘿，等等我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/penguin/default/1",
+  "value" : "別跑太遠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/penguin/default/2",
+  "value" : "等等！"
+} ]

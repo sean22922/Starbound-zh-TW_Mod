@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "該圖案表示警告"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "危險磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。該圖案提示我每一步都要小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些條紋布意指警告"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我應該多留心這些條紋布"
+} ]

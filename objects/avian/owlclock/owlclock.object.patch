@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "滴答，滴答，滴答，滴答"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老鷹掛鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個可愛的時鐘，它的眼睛會動"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人享受製作物品的過程"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人時鐘有著鬼鬼祟祟的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。這兩隻眼睛每秒動一下"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好可愛的掛鐘"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看著這個計時器不禁覺得好歡樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "老鷹形狀的鬧鐘，好可愛啊"
+} ]

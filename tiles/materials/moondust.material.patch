@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "月塵，夢就是由它做的，"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月塵"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。月塵摸上去很軟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡色彩鮮豔的月塵"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在我看來就是月塵"
+} ]

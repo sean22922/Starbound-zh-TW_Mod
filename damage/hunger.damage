@@ -1,7 +1,0 @@
-{
-  "kind" : "hunger",
-  "damageCooldownGroup" : "hunger",
-  "damageCooldownDuration" : 0.4,
-  "damageCooldownPreGrace" : 0.0,
-  "damageCooldownMode" : "max"
-}

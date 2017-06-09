@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "加固過的邪教教徒腿甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "加固過的邪教教徒護脛甲"
+} ]

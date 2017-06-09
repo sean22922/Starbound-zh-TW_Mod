@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一坨邪惡史萊姆裡面的一張藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一坨藍圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "惡劣的爛泥中放著一張圖紙"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某種圖紙被置放在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面的難道是一張圖紙？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這東西似乎容納著一張圖紙"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某種圖紙存放在這東西裡！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看來葉族發明了一個能用的葉族風格容器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這東西不大實用的樣子"
+} ]

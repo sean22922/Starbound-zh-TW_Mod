@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"這是一種古老的物種，靈活而又搞怪。他們的眼神中充滿智慧。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "莫諾普思小雕像"
+} ]

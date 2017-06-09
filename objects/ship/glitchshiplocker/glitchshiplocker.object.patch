@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個上鎖的小櫃子。存著一些東西。你怎麼不來試試看？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個電子人的存儲器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "飛船儲存櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機器人在這裡儲存東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心，是一個完好的機器人儲存櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "存放值錢物品的地方"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我想到了一句鮫族人的諺語：\"永遠不要忘記你把貴重物品放在哪裡了。\""
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子，用於存放東西"
+} ]

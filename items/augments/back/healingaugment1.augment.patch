@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "緩慢治療你的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "治療I增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "治療I"
+} ]

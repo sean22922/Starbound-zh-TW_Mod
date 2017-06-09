@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一處鮮豔的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮮豔的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一處鮮豔的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一處鮮豔的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "美麗的植物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。色彩鮮豔的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一處鮮豔的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一處鮮豔的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這叢灌木真的很鮮豔"
+} ]

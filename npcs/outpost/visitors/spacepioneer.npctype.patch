@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "太空旅行應該充滿希望。記住這點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "探索未知的宇宙，對我這樣的開拓者意義非凡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我正在為地球尋找合適的替代品。不過我還沒有找到"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "我是太空的開拓者！我探索新奇有趣的世界"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "我只是喜歡把自己看作太空開拓者，並不是說我做了很多探險…"
+} ]

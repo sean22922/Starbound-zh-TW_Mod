@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在未知世界裡的秩序堡壘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "混沌護盾"
+} ]

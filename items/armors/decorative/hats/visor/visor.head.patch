@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你可以戴在眼睛上！這會讓你視力更好嗎？不會"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "護面"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寺塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "雕刻著奇怪花紋的古老石頭，上面有野獸的抓痕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這些時刻在描繪一種未知的語言"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡石畫"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "帶有雕刻的古老磚塊"
+} ]

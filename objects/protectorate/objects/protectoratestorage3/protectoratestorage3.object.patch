@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一組狀態囊和豆莢艙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "豆莢艙儲存器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些艙房被發射至附近的世界，在那裡它們作為保護者探索員的生命線\n而運作"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些艙房能夠保持休眠幾十年，但是供給通常會持續"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "艙房。探嘶……索者和冒險家的好資源"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇狀。這些艙房能夠被送至附近的世界，在那裡它們保持休眠"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在這個架子上能看見一些狀態艙。它們往往充滿了補給！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "漫步在未開發世界的探索者有時能偶然發現這些狀態艙"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在這架子上瞄見一些狀態艙。通常都充滿了好東西！"
+} ]

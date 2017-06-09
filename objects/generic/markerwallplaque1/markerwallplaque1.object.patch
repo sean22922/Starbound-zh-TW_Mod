@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "簡約不簡單。這樣的一塊小牌能夠帶來別樣的格調"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬小牌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以通過這個標記來辨別我的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個標示物品所有權的方便的標記"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人的標記上寫著\"嚴禁入內！\""
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "得意。一塊用來表示所有權的便利小牌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用一塊這樣的小牌的話，所有人都會知道這是我的房子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雖然鮫族人的住處已經夠獨特了，但這塊小牌會讓它板上釘釘"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一塊漂亮的小牌，能告訴陌生人這個東西已經有主人了"
+} ]

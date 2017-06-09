@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個戰利品架上覆滿了污穢的網"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "結網架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是某種噁心的織網"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某種網類的東西，我最好別碰！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個網可以作為絕佳的戰利品，只是有些難看了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "大大的、黏黏的網，沒什麼可怕的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "大概是某種網吧，噁心！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "由某種奇怪生物所製造的噁心的網"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去很噁心的網"
+} ]

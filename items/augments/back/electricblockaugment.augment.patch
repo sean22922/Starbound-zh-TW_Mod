@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "使你高度抗電的EPP模組"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電抗性增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "電抗性"
+} ]

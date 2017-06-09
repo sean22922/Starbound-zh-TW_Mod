@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個上鎖的小櫃子。存著一些東西。你怎麼不來試試看？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "飛船儲存櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我想知道在櫃子裡面是不是有什麼祕密？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在櫃子裡面會不會有值錢的東西呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人搜尋儲存櫃子尋找有價值的東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "刺激。我想裡面有我們感興趣的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "某隻船上的鎖櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "或許裡面的東西有用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子，用於存放東西"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "架子上有三個不知名的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這裡的骨頭看上去像是工具，幹什麼用的？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些事武器嗎？工具？還是戰利品？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來打磨其他骨頭的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欽佩。這些骨頭好像是工具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些骨頭是工具還是武器？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "把骨頭當成工具一樣吊著真是讓我噁心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這樣展示骨頭真的很嚇人"
+} ]

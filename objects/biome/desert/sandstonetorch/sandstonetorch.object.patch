@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個火炬閃爍著柔和的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "砂岩火把"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "火炬"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "燃燒著的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個燃燒的火炬。危險"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。只是一支簡樸的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一支簡單的沙石火炬"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一支簡樸的火炬"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "火苗曳曳的火炬"
+} ]

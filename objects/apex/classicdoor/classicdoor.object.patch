@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇經典的帶香蕉花紋的木門，還有一個把手"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "把手是純金的，木頭是香蕉味兒的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這樣一扇門只對少數人打開"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "猿、猿人黃果的香味是從木頭裡來的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "生氣。偵測器發現這門有獨特的氣味"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這扇門……是不是聞起來像香蕉？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "香木，在鮫人的工藝品裡很常見"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門把手真亮"
+} ]

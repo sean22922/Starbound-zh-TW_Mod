@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "邪教的祭壇。這裡曾經進行過邪惡的祭祀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邪教祭壇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個奇怪的祭壇，這裡曾經進行過什麼神聖儀式？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "庫魯克斯沒有祭壇，真沒有"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人聞到了血的味道"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個祭壇似乎被用於某種邪惡的儀式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個恐怖的祭壇，光是看著它就讓我渾身不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個黑暗可怕的潛伏者在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個黑暗的祭壇既詭異又讓人毛骨悚然"
+} ]

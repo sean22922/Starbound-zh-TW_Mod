@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個破舊腐爛的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腐朽的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一口箱子！看看裡面有什麼東東"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些箱子通常被用來裝蔬菜。我好興奮啊！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箱子！葉族人一定要查看一下！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。裡面會有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一口箱子！來打開它看看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一口沒有打開的箱子沒什麼可驚喜的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來生鏽了的箱子"
+} ]

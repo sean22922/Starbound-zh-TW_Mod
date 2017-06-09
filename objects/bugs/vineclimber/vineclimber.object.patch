@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它的腿看起來就像纏繞的藤蔓"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "攀藤蟲"
+} ]

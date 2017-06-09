@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些原型護脛有點硬，但確實很像機器人。-不可用-"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冒險家的護脛"
+} ]

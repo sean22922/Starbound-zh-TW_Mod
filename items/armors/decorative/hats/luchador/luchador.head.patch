@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用這個摔角手的面具摔出你的榮光吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魯查多面具"
+} ]

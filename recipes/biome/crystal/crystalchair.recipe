@@ -1,7 +1,0 @@
-{
-  "input" : [
-    { "item" : "crystal", "count" : 15 }
-  ],
-  "output" : { "item" : "crystalchair", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

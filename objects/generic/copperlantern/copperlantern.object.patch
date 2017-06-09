@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞銅製的油燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青銅油燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個青銅燈籠，以油作為燃料"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "燃料讓燈籠的火焰持續燃燒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火焰消、消耗掉了裡面的液體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "燈籠中含有油"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個簡易的青銅燈籠"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈的燃料在海底可燒不起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "銅製的燈籠"
+} ]

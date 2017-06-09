@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "殂鸚鵡螺"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種頭足類動物的觸手上塗著一層致命毒素，哪怕是成年波普託普都難逃麻痹"
+} ]

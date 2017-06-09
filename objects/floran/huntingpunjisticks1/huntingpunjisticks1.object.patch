@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鋒利，帶有尖刺的木棍。不要落在上面哦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型尖樁"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "致命長釘"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "危險的長釘"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "尖樁陷阱。尖銳"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張。這些尖樁連機器人都可以刺穿"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我應該揮舞一下這些鐵釘"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如此殘忍的長釘"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些尖樁的尖端非常鋒利"
+} ]

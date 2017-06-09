@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個舊櫃子。嘿！這裡面還貼著張照片呢……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個櫃子。我想知道裡面是不是空的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "現在這個儲物櫃不怎麼安全"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這櫃子聞起來好微妙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇狀。這櫃子裡面還會有東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個舊的腐爛的儲物櫃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我可不想把值錢的東西存在這"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不指望這裡面會有東西"
+} ]

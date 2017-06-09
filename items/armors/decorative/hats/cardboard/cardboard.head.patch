@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "因為誰想在那個昂貴的帽子上花錢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "不真實的帽子"
+} ]

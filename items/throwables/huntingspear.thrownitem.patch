@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "打獵矛"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "投擲用的矛。使得怪獸掉下肉來"
+} ]

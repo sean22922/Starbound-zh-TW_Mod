@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "噢！我不該接近它的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵絲網"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鐵絲網。迷你克諾格用這種東西來防止人們外出……或是進入"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "尖利的鐵絲。要小心，別讓它弄傷我的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒利，帶刺的弦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心：這種尖利的鐵絲網哪怕是電子人外殼也能劃傷"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鐵絲網，人類技術的毒草"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "帶鐵絲網的尖刺。野蠻原始的安全保障"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "球狀導線"
+} ]

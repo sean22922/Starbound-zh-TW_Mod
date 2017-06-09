@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "爾切斯採礦設施"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我可以把飛船修好，但需要用掉20塊^orange;爾切斯水晶^reset;……你最好去一趟^green;爾切斯礦坑^reset;。我已經將位置座標發給了^green;飛船裡的SAIL^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "很好！這樣就可以了。我現在就去維修你的飛船"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questStarted/title",
+  "value" : "企鵝皮特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/portraits/questComplete/title",
+  "value" : "企鵝皮特"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findCrystals",
+  "value" : "從 ^orange;爾切斯礦坑^white;^green;取回 ^orange;爾切斯晶體^white; "
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "^green;送回^white;在^orange;哨站^white;的^orange;造船廠上尉^white; "
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/missionRadioMessage/text",
+  "value" : "我已經收到了^orange;爾切斯礦坑^reset;的座標。等你^green;上飛船之後^reset;，你可以使用我的任務界面傳送到該位置"
+} ]

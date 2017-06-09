@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這只是骨製椅子。沒什麼大不了的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始的扶手椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個由羽毛和骨頭做成的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這椅子的骨頭像玻璃一樣光滑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會用獵物的骨頭做椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "恐怖。這把椅子上還有牙印"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些骨頭被削尖成一點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人相信所有的生物都是神聖的。他們不應該像椅子那樣終結"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "椅子就是椅子，原材料是什麼又有什麼關係呢？"
+} ]

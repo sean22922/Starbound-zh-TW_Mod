@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "腳印化石"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻動物的化石腳印"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "腳印化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"腳印的尺寸表明這很可能是該物種的成年男性留下的。\""
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "軍用褲子，為戰鬥醫療兵設計"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "戰鬥醫療兵褲子"
+} ]

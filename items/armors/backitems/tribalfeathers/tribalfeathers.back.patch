@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "掛在臀部的裝飾性羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "部落羽毛"
+} ]

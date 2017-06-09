@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "方小子"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "雖然身體是方的，但卻依然能游泳。非常勵志"
+} ]

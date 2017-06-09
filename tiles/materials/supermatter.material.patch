@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "常用於驅動超光速科技的水晶。還沒被完全研究透"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "切爾斯晶體"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。切爾斯晶體中蘊含中神祕的力量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的巨大晶體"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "大塊的切爾斯晶體"
+} ]

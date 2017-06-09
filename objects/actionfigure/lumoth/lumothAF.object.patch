@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"螢火蛾扇動翅膀的時候，燈泡才會亮起。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螢火蛾小雕像"
+} ]

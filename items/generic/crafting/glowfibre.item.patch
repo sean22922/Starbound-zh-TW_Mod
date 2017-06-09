@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "柱形、發光的植物纖維。它們會發出多種顏色的光！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光纖維"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個睡袋。雖然不是很舒服，但是依然能用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色睡袋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人叛軍在這度過了很多夜晚"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "睡在這些羽毛上會很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡睡、睡、睡在袋子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "諷刺：啊，太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個睡袋。在關鍵時刻能讓你免受毒素影響"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些在水下能用嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不能讓我享受最好的睡眠，但也能湊合著用"
+} ]

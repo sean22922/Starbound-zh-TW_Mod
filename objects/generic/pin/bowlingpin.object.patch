@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "把它撞倒！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保齡球瓶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個平衡的保齡球瓶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用於一種競技遊戲的物品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想把它撞倒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。它們排好了，等著再一次被撞倒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個保齡球瓶，我想把它撞倒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "它被撞倒了很多次，但總是會重新站起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個保齡球瓶正在求撞倒"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "scopefin",
-  "category" : "fish",
-  "type" : "fin",
-
-  "frames" : {
-    "fin" : "scopefin.png"
-  }
-}

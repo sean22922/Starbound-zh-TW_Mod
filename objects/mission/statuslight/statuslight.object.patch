@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "表示開關當前狀態的燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "狀態燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個燈表示當前開關狀態"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "燈發藍光，說明開"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "藍光指的是開"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感覺。藍光指的是開關開的狀態"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "燈是藍的的時候，開關開著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "體現開關狀態的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "開關開的時候燈發出藍光"
+} ]

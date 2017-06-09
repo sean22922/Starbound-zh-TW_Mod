@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "機器人著名主廚想要模仿馬鈴薯泥，算是，成功了吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雜泥"
+} ]

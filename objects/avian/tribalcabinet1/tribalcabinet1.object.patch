@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個小櫥櫃周圍都是雕花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小雕花櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個櫥櫃。看起來是擁有者自己雕刻出它們的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傢俱雕刻是地底人最熟練的技巧之一。這個櫥櫃就是其中的代表"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人看見雕刻中有許多錯誤"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個裝飾是不止一人完成的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來是一些人在雕刻這個櫥櫃中得到了許多興趣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雕刻這個櫥櫃是樂趣之源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個櫥櫃裝飾很簡陋"
+} ]

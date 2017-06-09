@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種粗糙多子的果醬，在嘴裡留下乾燥的口感"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瓦蓼果醬"
+} ]

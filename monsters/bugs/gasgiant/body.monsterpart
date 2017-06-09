@@ -1,9 +1,0 @@
-{
-  "name" : "gasgiant",
-  "category" : "gasgiant",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "gasgiant.png"
-  }
-}

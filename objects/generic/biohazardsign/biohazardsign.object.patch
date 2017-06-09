@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊寫著生化危機標識的金屬牌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生化危機標識"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "生化危機的通用標誌，最好小心點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "是指太陽嗎？也許不是"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這標誌有某種含義！葉族人不知道！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪，我認為我應該知道這個標誌的意思？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這塊標誌可有年頭了，意思是\"小心，有不好的東西！\""
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個標誌是某種警告"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個標誌是在給星之子商標打廣告嗎？"
+} ]

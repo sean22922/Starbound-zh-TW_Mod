@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把木吉他。篝火歌曲的完美伴侶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木吉他"
+} ]

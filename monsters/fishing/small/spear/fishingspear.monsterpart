@@ -1,9 +1,0 @@
-{
-  "name" : "fishingspear",
-  "category" : "fishingspear",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingspear.png"
-  }
-}

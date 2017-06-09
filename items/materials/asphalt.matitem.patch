@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "便宜但有效的建造材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "噁心。讀數顯示瀝青的美感小於2%"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "聞起來像焦油的黏稠瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一堆油和石頭"
+} ]

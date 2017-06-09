@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^green;挑戰者接近"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "嘿，鬥士！有個傢夥邀請我來 ^orange;角鬥士競技場錦標賽^white;，但是我感覺應該你去。如果你感覺自己夠厲害就 ^green;告訴我，我送你去參加第一輪^white;!"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "你活下來了！就知道你能行的。就知道你行的，鬥士！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/enterInstance",
+  "value" : "與^orange;努魯^reset;交談，前往^orange;競技場^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGoal",
+  "value" : "贏得競技場戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到^orange;努魯^reset;所在的^orange;前哨站^reset;"
+} ]

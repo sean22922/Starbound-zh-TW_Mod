@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "親愛的男爵"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個惱火的機器人官員寄來的信"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "親愛的男爵，\n\n請您（最後一次）不要再提出法律敕令了。還有，我要再次清楚地告訴您，您沒有權利通過法律。\n\n再次聲明—您沒有任何權威力量。請別這樣了。\n\n此致敬禮，\n議會樞密大臣"
+} ]

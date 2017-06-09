@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "硬鋼護脛甲，能讓穿戴者在自己崗位上連續站數小時而不覺疲累"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "湖水護脛"
+} ]

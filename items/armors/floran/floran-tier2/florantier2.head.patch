@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用鍍上鎢的骷髏頭裝飾——實用且有格調"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨製骷髏帽"
+} ]

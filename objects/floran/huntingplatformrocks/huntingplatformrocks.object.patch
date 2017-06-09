@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很有用的石頭。或者是箭矢才是關鍵之處？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蝕刻箭矢的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一顆印著箭頭的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊雕刻著箭矢的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這樣刺的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。為什麼要在石頭上雕刻一支箭矢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "讓我們順著石頭上的箭頭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雕刻粗糙的一粒石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有人在這塊石頭上雕刻了箭矢"
+} ]

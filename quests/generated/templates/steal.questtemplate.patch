@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/victim/example/name",
+  "value" : "完美通用受害者"
+}, {
+  "op" : "replace",
+  "path" : "/parameters/object/example/name",
+  "value" : "幽靈南瓜頭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "葉族給你的第一個任務是很隱祕的。^orange;<victim>^white;有一個^orange;<objectItem>^white;放在<victim.pronoun.possessiveDet>屋子裡，葉族要你去^green;借回來^white;，你懂葉族的意思吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "我們從第一步開始做起。葉族需要鄰居^orange;<victim>的^white;屋子裡的某個東西。葉族問過了，但是<victim>不答應。你能否^green;潛入幫葉族拿到那個亮晶晶的^orange;<objectItem>^white;？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "鬼祟。我需要某個物品；準確來說是^orange;<victim>的<objectItem>。^white;你能否^green;到<victim.pronoun.possessiveDet>家幫我……拿回來？^white;要是不重要的我也不會問你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "緊張。我需要你^green;去拿^orange;<victim>的<objectItem>。^white;這東西對我們更有用，但是<victim.pronoun.subject>不肯交出來……^green;我必須靠你去取……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "我需要某樣物品，我知道^orange;<victim>^white;在<victim.pronoun.possessiveDet>家裡有一個。我需要你趁<victim.pronoun.subject>還沒注意的時候，^green;潛入他家借走<victim.pronoun.possessiveDet>^orange;<objectItem>^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先，是很簡單的妙手工作。我需要^green;獲得^orange;<victim>的<objectItem>。^green;到<victim.pronoun.possessiveDet>房子裡取走它^white;，並確保沒有人看見你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "下一道任務很重要。葉族需要你^green;去^orange;<victim>的^green;屋子把^orange;<objectItem>^white;借回來。最好不要讓<victim>發現……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "這個任務需要潛行技能。葉族需要你^green;去^orange;<victim>的^green;房子取回一個^orange;<objectItem>。^white;要是有其他的方法葉族也不會選擇這條路"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "機智。現在我需要某樣東西……準確來說是^orange;<objectItem>^green;，就在 ^orange;<victim>的^green;家中。^white;需要你把它^green;取來給我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "憂慮。恐怕下一個環節需要我們去偷東西。你需要^green;取得^orange;<objectItem>^green;，它就放在^orange;<victim>的^green;屋子裡。^white;只要確保不被抓到就行"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "你對妙手空空有何看法？我需要你^green;借來^orange;<objectItem>^green;，它就放在^orange;<victim>的^green;屋子裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "下一步需要得到某個不屬於我們的東西。我們需要^orange;<objectItem>^green;，它就存放於^orange;<victim>的^green;家中。你需要去把它偷出來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "葉族就知道你靠譜！明顯沒有事情能難倒你。葉族很感激"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "你成功了！你的潛行技能比葉族的談判技能強得多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "佩服。你真的把<objectItem>從<victim>手中偷出來了？我還以為你臨陣退縮了。你先收著它，不要弄丟了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "偏執。這就是我所需要的<objectItem>。希望你作案時沒被看見。先別馬上交給我。先等一等"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "做得好！你先暫時保管好<objectItem>，確保不要弄丟了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "沒錯，我在找的就是這個<objectItem>！沒有被人看見吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "這個<objectItem>恰恰就是我們所需要的！雖然手段有點不正當，但是我們的出發點是好的，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "太棒了！雖然葉族知道你一定會成功。這個<objectItem>對接下來的計劃很重要"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "不滿。這的確是<victim>的<objectItem>。可是有點損壞了，不過也只能將就了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "慌張。別把<objectItem>交給我！你以為<victim>會猜不出來嗎？我現在不能保管它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "哇，你真是天下第一神偷！要是<victim>來尋找那個<objectItem>，我可不想被抓個正著。你先保管著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "別把那個<objectItem>拿過來！我們可不能讓<victim>抓個正著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "偷走<victim>的<objectItem>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "回到<questGiver>那裡"
+} ]

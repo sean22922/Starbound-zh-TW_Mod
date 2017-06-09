@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "中心有著奇怪雕刻的瓷磚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍氖石塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這些符號的意思未知"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡發光的符號"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "帶有閃光符號的石頭"
+} ]

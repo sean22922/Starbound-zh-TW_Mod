@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝備了一條時髦圍巾的盔甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾胸甲"
+} ]

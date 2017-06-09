@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇板式門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "板式門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這扇木質門不是手工打造的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這扇門使用機械打造的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡工廠裡生產的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察敏銳。這扇門似乎是在生產線上造出來的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇廉價製造的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這門體現不出個人的風格"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇便宜的木門"
+} ]

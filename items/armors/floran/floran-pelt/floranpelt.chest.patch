@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裡面還有隔熱的植物來保暖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皮毛護胸"
+} ]

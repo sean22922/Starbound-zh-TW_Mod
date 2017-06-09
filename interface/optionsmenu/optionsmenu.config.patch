@@ -1,0 +1,61 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/volumeLabel/value",
+  "value" : "音量"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/sfxLabel/value",
+  "value" : "音效"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/musicLabel/value",
+  "value" : "音樂"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/resLabel/value",
+  "value" : "全螢幕解析度"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/zoomLabel/value",
+  "value" : "放大級別"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/speechBubbleLabel/value",
+  "value" : "對話泡泡"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/tutorialMessagesLabel/value",
+  "value" : "教學訊息"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/interactiveHighlightLabel/value",
+  "value" : "目標高亮"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/fullscreenLabel/value",
+  "value" : "全螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/clientIPJoinableLabel/value",
+  "value" : "通過IP連接"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/clientP2PJoinableLabel/value",
+  "value" : "透過STEAM好友多人連線"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/allowAssetsMismatchLabel/value",
+  "value" : "允許資源檔不一致"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/backButton/caption",
+  "value" : "返回"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/acceptButton/caption",
+  "value" : "接受"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/showKeybindings/caption",
+  "value" : "鍵盤設定"
+} ]

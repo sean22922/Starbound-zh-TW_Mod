@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "褲子和靴子既輕便又靈活……是理想的潛行裝備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遊俠的褲子"
+} ]

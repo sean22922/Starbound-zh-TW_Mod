@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些護脛甲的碰撞聲會成為你敵人腦中揮之不去的夢魘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毀滅領主護脛"
+} ]

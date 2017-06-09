@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵異國的密林之花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "密林之花"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "花讓我們想起了植物人的家"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一朵屬於密林的花"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發出脈衝來探測周邊材料的密度"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洞穴探測器"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

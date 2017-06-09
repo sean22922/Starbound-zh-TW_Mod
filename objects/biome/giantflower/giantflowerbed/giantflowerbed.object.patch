@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張花牀。希望你不會對花粉過敏"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨型花牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張牀彈力十足，非常有趣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "睡在上面讓我的羽毛感覺很癢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族躺在植物上很快就能睡、睡著"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服。牀是用食肉植物做的。害怕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這種食物發出的清甜的香味對我來說沒有助眠效果"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然會被用作其他用途。值得記下來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "非常芳香的牀。睡在這上面的人能夢見一望無際的鮮花"
+} ]

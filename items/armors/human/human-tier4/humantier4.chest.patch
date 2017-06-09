@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "先驅者胸甲用硬鋼所制，就像凱夫拉人造纖維一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先驅者的胸襯"
+} ]

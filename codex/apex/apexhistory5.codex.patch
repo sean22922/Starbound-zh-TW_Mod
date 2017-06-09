@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "我們中出了反對者！"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "迷你克諾格致猿族的PSA"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "^red;拆穿叛軍的謊言！^white;\n\n反迷你克諾格叛亂意圖^red;摧毀我們的生活！^white;\n\n如果你懷疑自己的同事、朋友或家庭成員是叛軍成員，^red;請馬上通知你當地的迷你克諾格代表！^white;\n\n叛亂是^red;死罪！^white;\n\n永遠記住：^red;老大猿在看著你！^white;"
+} ]

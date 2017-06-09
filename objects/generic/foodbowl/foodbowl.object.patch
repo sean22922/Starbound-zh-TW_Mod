@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個寵物食物碗，當你不在時給你的寵物留點好吃的！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "食物碗"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來給寵物留食物的碗"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果我把食物放在這個碗裡，我的寵物就會明白這是給它們備的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裝食物的寵物碗"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這是一種責任，讓我的寵物們吃飽能夠讓它們健康快樂地成長"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個碗用來裝我寵物最喜歡吃的食物正好合適"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個小碗可以盛裝寵物的食物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個小槽是用來餵寵物的"
+} ]

@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "shroom", "count" : 15 },
-    { "item" : "darkwoodmaterial", "count" : 5 }
-  ],
-  "output" : { "item" : "shroomchair", "count" : 1 },
-  "groups" : [ "craftingfurniture", "decoration", "all" ]
-}

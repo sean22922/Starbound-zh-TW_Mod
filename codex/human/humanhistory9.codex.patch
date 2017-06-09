@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "人類需要你！"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "歐卡薩斯宣傳"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "人類必須團結起來\n戰勝威脅到我們生存\n的災難！\n\n我們必須必須和玷污了\n我們宇宙的蟲害種族\n戰鬥到底！\n\n就在你舒適的坐在家中時，\n這些噁心的生物正在玷污\n我們的家園！\n\n人類團結起來。\n加入歐卡薩斯。\n戴上紫色兜帽"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "便宜的螢光燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "便宜的燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "能起作用的基礎燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "提供照明"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡光，因為有光就有陰影，葉族人潛入陰影"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無趣：這燈的部件一點意思也沒有"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "便捷的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "防水燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個防水燈具"
+} ]

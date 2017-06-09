@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "石頭玻璃般的表面下有蟲子一樣的東西在蠕動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可怕的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。石頭裡的蟲子似乎在協助維持它的硬度"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "蠕動的蟲子石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "石頭裡有一些亂動的蟲子"
+} ]

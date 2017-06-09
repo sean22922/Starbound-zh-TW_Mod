@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "古怪的椅子。它似乎還活著"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古怪的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我希望不要這麼天然有機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "與衆不同的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡植物椅子，植物椅子很好！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕，這椅子是用外星有機物做的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是外星椅子？我可不想坐"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "外星植物做的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這椅子是用外星植物做的嗎？"
+} ]

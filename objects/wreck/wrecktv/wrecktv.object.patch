@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "螢幕上顯示閃爍的光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看上去沒有信號"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "只是靜電"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的搖擺跳舞機！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷狀。沒有信號，只是靜電"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "靜電干擾，我覺得沒信號"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這台監視器缺少輸入端"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒，啥都沒"
+} ]

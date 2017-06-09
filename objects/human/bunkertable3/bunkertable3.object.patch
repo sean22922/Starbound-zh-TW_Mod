@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "適合展開戰鬥部署計劃，開會，吃宵夜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型金屬桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個有警告的桌子。也許是警告你別砸到腳？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不會在家用這個桌子的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬桌子堅固耐用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。這是個堅固的金屬桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是個有工業感的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "不起眼，有點醜的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個金屬製桌子"
+} ]

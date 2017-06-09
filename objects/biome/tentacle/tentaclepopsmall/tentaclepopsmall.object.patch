@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一枚易碎的果實。好想知道裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中型觸手莢果"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "奇怪的植物。裡面似乎藏著什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很奇怪的植物。感覺裡面有什麼東西……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砸開它！裡面有好吃、吃的！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可摧毀。很難抑制打破它的一股慾望"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為有東西在裡面。我能打開它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有時候力量能夠得到獎勵"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個奇怪的植物似乎很適合當箭靶"
+} ]

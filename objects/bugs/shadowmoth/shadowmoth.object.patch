@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些蟲子很難發現，他們就像黑夜一樣漆黑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗影蛾"
+} ]

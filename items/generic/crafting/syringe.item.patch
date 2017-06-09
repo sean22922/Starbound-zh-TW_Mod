@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這可以用於製作針劑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醫療注射器"
+} ]

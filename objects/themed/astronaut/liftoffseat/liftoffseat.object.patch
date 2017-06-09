@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個水準的座椅，像地球太空船上的艦長椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發射座"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "模擬早期人類的太空旅行還真是令人著迷"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我認為這個姿勢在起飛時會是最舒服的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在加速穿越空間的時候這樣躺著一定超有趣嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷狀。旅途中這樣躺著是多麼天才的想法啊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "多棒的設計啊。它還能撐"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對鮫族人來說以這種姿勢開宇宙飛船實在是太可笑了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張椅子讓人可以葛優躺"
+} ]

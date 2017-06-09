@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這土似乎有點不對勁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥土陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這地上有些東西靠不住"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個土看上去不像真的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這土和其它的土聞起來不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我懷疑，這裡藏著什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這土看上去不自然"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這路上的這個土感覺有問題"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個土有點奇怪"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝飾性鐵標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境鐵標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個精緻的鐵標誌，可以掛在牆上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不知道有什麼象徵呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不明白掛上東西會不會讓武器更厲害"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這種掛在牆上的裝飾有什麼深層的含義嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這種符號是有什麼含義，還是就是為了好看？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種鐵標誌似乎是裝飾用的，但真是粗製濫造"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種標誌是保佑附近像我一樣的人們的平安的"
+} ]

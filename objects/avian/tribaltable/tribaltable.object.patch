@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個有趣的雕刻桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕花桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個雕刻精美的餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "吃完飯之後，很常見的是重新拿起刀叉在桌子上雕刻一些新的東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人愉快的餐桌時光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "棒，這個桌子的裝飾很複雜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來整個家族都參與到了雕刻桌子的工作中"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個主人似乎把這個桌子按照一組來裝飾的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個手工雕刻的晚餐桌"
+} ]

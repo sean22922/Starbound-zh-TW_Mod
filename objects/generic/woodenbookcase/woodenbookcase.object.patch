@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝滿書的高衣櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個簡單的木質書架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個書架，非常簡單"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "簡、簡、簡單的木質書架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不感興趣。就是個書架而已"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個普通的書架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個放置書本的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個很大很樸素的水果"
+} ]

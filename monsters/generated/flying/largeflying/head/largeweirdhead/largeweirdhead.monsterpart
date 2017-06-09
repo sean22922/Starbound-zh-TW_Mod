@@ -1,9 +1,0 @@
-{
-  "name" : "largeweirdhead",
-  "category" : "largeflying",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "largeweirdhead.png"
-  }
-}

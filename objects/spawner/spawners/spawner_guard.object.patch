@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的警衛！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警衛召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有了迷你克諾格，我能得到一些額外保護"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有了保鏢，庫魯克斯就不敢碰我了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人能夠保護自——己！但是多個保鏢也沒壞處"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意：人多力量大"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我一直想要個隨從來著"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "守衛能幫助我散播和平"
+} ]

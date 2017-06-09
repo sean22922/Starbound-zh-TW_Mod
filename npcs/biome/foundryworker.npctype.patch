@@ -1,0 +1,53 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "這裡太悶熱了，我的眼鏡裡都是蒸汽！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "這裡的樹裡富含有機金屬！這裡簡直就是天然的工廠！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "你不喜歡這裡的味道嗎？聞上去有點像烤土司"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "這座工廠的生存環境比較艱苦，但是也比在迷你克諾格的統治下生活好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "老大猿是不會找到我的，希望如此"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "我們身上的羽毛讓我們在這顆星球感覺更熱"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我的羽毛都快被這裡烤焦了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "這熱量！我都快被烤焦了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "只有最勤奮的工人才能在這座星球上勞作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "累死了。工廠的工作太累人了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "疲憊不堪。在這裡工作使得我都快接近融點了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "渴望。我只是一台巨大的機器裡不斷運作的小齒輪！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/3",
+  "value" : "疲憊。我的班就沒結束過！"
+} ]

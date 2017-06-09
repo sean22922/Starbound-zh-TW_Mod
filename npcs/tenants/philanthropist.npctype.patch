@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我感覺行動有點遲緩。你知道為什麼嗎？是因為我被身上的錢拖累了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "能夠帶著我巨大的財富完好無損地離開地球真是太幸運了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "如果你是真的富有，那你得讓所有人知道。你不會明白的"
+} ]

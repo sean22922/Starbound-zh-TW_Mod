@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "精煉廠是用礦石生產原始像素的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;精煉廠^white;"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "將礦石提煉為像素"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以在這放些礦石做些像素"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用礦石造像素。希望如此"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機器砸、砸、砸爛石頭，賺錢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀的說。礦石在這裡可以精煉成像素"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這就是印鈔機哦！有點像……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個複雜的機器，用於將礦石精煉成像素"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一台像素機器。我一直想來一台！"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一支單簧管。別吹得吱吱作響"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "單簧管"
+} ]

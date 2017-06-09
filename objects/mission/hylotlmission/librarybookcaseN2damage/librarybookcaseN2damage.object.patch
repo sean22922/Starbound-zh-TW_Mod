@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個華麗的書櫃，裝有失落的書"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "損壞的書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "現在大部分書都不見了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "書架上的大部分書現在都不見了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "更多的空書架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很擔心。書架上的大部分書都不見了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "現在這書架上許多書都不見了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果沒有書，那書架還能叫書架嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有人把所有好書都洗劫一空了"
+} ]

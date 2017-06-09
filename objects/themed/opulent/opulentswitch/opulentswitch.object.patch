@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "安裝在懸掛式水晶上的豪華的控制器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個控制器提供許多控制"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個有用的控制器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人按按鈕。製造事——件！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：一個控制器就能同時控制那麼多不同的機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個控制器。得玩一玩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個控制器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我就想按下所有按鈕"
+} ]

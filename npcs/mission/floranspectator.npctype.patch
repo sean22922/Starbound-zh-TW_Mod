@@ -1,0 +1,85 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "無可奉告"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "怎麼回事？奴魯每年都贏！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "可在山洞中與奴魯匹敵的新獵手！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "也許奴魯今年贏不了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/3",
+  "value" : "獵人越多越刺激！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/4",
+  "value" : "獵人！你們來晚了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/5",
+  "value" : "奴魯讓其他獵人相形見絀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/6",
+  "value" : "今年狩獵誰會勝出？我賭奴魯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/7",
+  "value" : "你有多大可能打敗奴魯，新人？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/8",
+  "value" : "葉族厭倦了奴魯每年都在狩獵中取勝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/9",
+  "value" : "也許你很快，但奴魯比你更快！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/10",
+  "value" : "也許今年是其他人勝出？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/11",
+  "value" : "葉族確信奴魯會再度勝出！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/12",
+  "value" : "我也會參加狩獵，不過奴魯這次又來了…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/13",
+  "value" : "為什麼還要費心去比賽，新人？你贏不了奴魯的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/14",
+  "value" : "你想進入山洞狩獵嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/15",
+  "value" : "新人？你是來山洞參加比賽的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/16",
+  "value" : "你是來參加狩獵的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/17",
+  "value" : "如果你是來參加狩獵的，那麼你來晚了，新人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/18",
+  "value" : "你是從太空過來參加狩獵的嗎？最好現在就出發！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/19",
+  "value" : "要想參加狩獵，你得動作快點！"
+} ]

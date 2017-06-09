@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑色墳墓磚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "摸上去有黑又硬，這些磚塊似乎將房間裡的熱氣都吸走了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "不驚訝。這些大磚塊並沒有統一的尺寸"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "大磚塊又冷又硬"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去很堅硬的石頭，摸上去一定很冷"
+} ]

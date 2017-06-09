@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發出美麗光芒的花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光花卉燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這光讓我想到了猿族的實驗，但沒那麼詭異"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這花的光很溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想要發光的花點亮葉族的家"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "專心，這燈的光線令人陶醉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "聞起來最香的一盞燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞精緻的燈，讚揚自然之美"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用這種花做個燈是好主意"
+} ]

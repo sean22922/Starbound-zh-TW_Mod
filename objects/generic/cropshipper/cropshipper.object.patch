@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在自己家裡就可以舒舒服服的把東西賣到特拉集市，只需要把它直接轟入太空即可"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特拉集市運貨"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "把產品放入箱子，將箱子射入太空，然後得到錢，非常容易"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "能被射入太空的箱子？如果你想賣貨的話，這麼做就對了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "賣東西實在太無聊……如果是將箱子射入太空來賣東西的話就不無聊了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太棒了，太空運貨系統！把貨物射入太空就可以賣到特拉集市上去！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用這個把貨物轟入太空！如果這東西沒錯的話，我這麼幹還能有錢賺！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "該裝置將箱子射入太空，真是非常奇異的賣貨方式……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "煙火可沒法放進需要射入太空的產品運貨箱中"
+} ]

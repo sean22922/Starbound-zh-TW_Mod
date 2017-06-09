@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "花盆中的海藻"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海藻盆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "海草。我看不見這有什麼吸引人的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一株溼溼的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "海草啊，好植物呀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。在罐子裡的海草。嚐起來好怪"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "海草不能在海洋以外生存"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "海草需要大海。否則他們就只是普通的草了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在你家裡有這種看上去那麼好玩的植物愛"
+} ]

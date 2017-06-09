@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個控制器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "自主自立控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個未知事物的控制器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個控制器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會使用這個，但是不確定是幹什麼用的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。我不知道這個控制面板是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個控制面板。可以打開關閉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個不知道用途的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果我按下足夠多的按鈕，應該會有反應"
+} ]

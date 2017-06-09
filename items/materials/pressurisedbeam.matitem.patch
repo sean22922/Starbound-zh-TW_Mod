@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為了受壓環境而製造的支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "增壓橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "觀察。這個支撐樑轉為受壓環境而製造"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅固的金屬橫樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這個金屬橫樑看上去很堅固"
+} ]

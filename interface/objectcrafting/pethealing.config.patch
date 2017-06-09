@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/toggleCrafting/caption",
+  "value" : "治療"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblText/value",
+  "value" : "^#b9b5b2;將寶貝球放入左槽"
+} ]

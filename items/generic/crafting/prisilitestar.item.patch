@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是普利斯岩星！星系中最為堅硬的東西之一！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普利斯岩星"
+} ]

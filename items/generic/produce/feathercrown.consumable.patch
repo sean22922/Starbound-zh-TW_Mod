@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "羽冠蘿蔔，你必須在在使用前拍打幾下"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "羽冠蘿蔔"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個壞掉的公用箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破損的公用箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個破損的設備箱，這還有些暴露的電線"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個設備箱破損且生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個壞了，都能看到電線了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "心事重重。曾經的設備箱已經破損生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個設備箱看起來破損了，似乎有人拿走了裡面有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個設備箱，鏽跡斑斑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這設備箱裡有用的東西似乎很久前就被拿走了"
+} ]

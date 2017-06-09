@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "把頭埋進熱焦油裡吧！會出什麼事呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "焦油麵具"
+} ]

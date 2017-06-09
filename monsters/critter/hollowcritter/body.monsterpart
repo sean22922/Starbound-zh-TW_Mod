@@ -1,9 +1,0 @@
-{
-  "name" : "hollowcritter",
-  "category" : "hollowcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

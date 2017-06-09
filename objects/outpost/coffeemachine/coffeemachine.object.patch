@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "咖啡機，提神就靠這個"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "咖啡機"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "一杯好東西"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這機器生成黑的，苦的液體"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這東西聞起來我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發臭的飲料機"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通。咖啡機"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "咖啡真不賴"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "苦的，讓人不爽的飲料"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "黑的，不加奶，不加糖。請不要介意！"
+} ]

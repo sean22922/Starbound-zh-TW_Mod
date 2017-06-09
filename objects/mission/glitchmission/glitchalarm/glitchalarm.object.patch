@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "報警鈴。人們都希望這東西永遠要響"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警鈴"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個設計十分簡潔，但警示有效"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果這就是原因的話，那這個鈴就可以用來警示他人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用這個鈴，發出很大的聲音！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。這個可以用來在緊急情況下警示周圍的人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個警鈴非常基礎，但它有用！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要我信任這個警鈴的能力，我很惶恐啊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有時候簡單的就是最好的，這個警鈴會起作用的"
+} ]

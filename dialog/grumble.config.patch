@@ -1,0 +1,441 @@
+[ {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "我的家出現了改變，我不喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/0",
+  "value" : "家裡出現了改變……我不知道是你弄的了還是我家鬧鬼了"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/1",
+  "value" : "我的屋子被人動過了，這不對勁……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/human/default/2",
+  "value" : "這裡的東西被移動過了嗎？感覺不大對勁……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/0",
+  "value" : "不要再拿走我的好東西"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/1",
+  "value" : "把葉族的家恢復原樣"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/floran/default/2",
+  "value" : "葉族的屋子之前棒棒噠。快恢復原狀！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/0",
+  "value" : "困惑。我的家變樣了"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/1",
+  "value" : "不滿。我不喜歡這種改變，把東西放回原位"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/glitch/default/2",
+  "value" : "期望。希望我的屋子能恢復原樣"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/0",
+  "value" : "呃，這不是我家之前的模樣……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/1",
+  "value" : "我不喜歡，你能否把東西放回原位？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/avian/default/2",
+  "value" : "請把我的東西放回原位"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/0",
+  "value" : "這些改變不好看，請恢復原狀"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/1",
+  "value" : "別再拿我的東西……你必須把我房子恢復原狀"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/apex/default/2",
+  "value" : "你必須把東西放回它們原來的位置"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/0",
+  "value" : "我家裡的風水被改變了……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/1",
+  "value" : "請把你拿走的東西還給我"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/hylotl/default/2",
+  "value" : "我房子裡的佈置有點反常……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/novakid/default/0",
+  "value" : "這裡發生了什麼事……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/novakid/default/1",
+  "value" : "這個地方感覺不對勁。你一定是碰過我的東西來"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/novakid/default/2",
+  "value" : "不問自取是不好的習慣。你快把東西還給我"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "我的房子需要修理！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/0",
+  "value" : "我的房子需要修理……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/1",
+  "value" : "你能幫我修理這些損壞嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/human/default/2",
+  "value" : "我需要一些修理！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/0",
+  "value" : "請修好葉族的牆壁"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/1",
+  "value" : "葉族的房子壞了。你能修好它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/floran/default/2",
+  "value" : "葉族喜歡沒有洞的牆壁。你能幫葉族修房子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/0",
+  "value" : "沮喪。我可憐的屋子啊——牆壁損壞了。你能修好它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/1",
+  "value" : "關心。這裡需要些修理"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/glitch/default/2",
+  "value" : "期待。你能修好我的房子嗎？我肯定它還能修補的"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/0",
+  "value" : "你可以幫我修理牆壁嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/1",
+  "value" : "如果你能修好我的屋子，我會很感激你"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/avian/default/2",
+  "value" : "嗯，這損壞太大了。你能修好它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/0",
+  "value" : "我房子穿洞了……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/1",
+  "value" : "我需要你幫我修好牆壁以免屋頂倒塌下來"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/apex/default/2",
+  "value" : "請修好這些牆壁，這樣的房子無法住啊"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/0",
+  "value" : "我的家暴露在元素的接觸下，希望你能修復損壞"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/1",
+  "value" : "要是你能修理我的牆壁，我會非常感激"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/hylotl/default/2",
+  "value" : "我發現這道牆壁破損了，也許你能幫忙修復它？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/novakid/default/0",
+  "value" : "不是隻有我感覺到這裡很通風吧？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/novakid/default/1",
+  "value" : "這個地方像個戰場，到處都是洞洞"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/novakid/default/2",
+  "value" : "這裡像是經歷了一場戰鬥！你能修好這些牆壁嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "我還以為這是我的家！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/0",
+  "value" : "我還以為這是給我一個人住的！？我不能接受同居！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/1",
+  "value" : "你是打算讓人搬進來住嗎？!"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/human/default/2",
+  "value" : "你為什麼在這裡放多一張牀？！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/0",
+  "value" : "葉族需要空間，無法跟陌生人同住"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/1",
+  "value" : "你要是讓別的人搬進來，葉族就吃了他們"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/floran/default/2",
+  "value" : "葉族不共享房子！不接受"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/0",
+  "value" : "震驚。你是打算讓陌生人搬進我的家？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/1",
+  "value" : "困惑。但這是我的家，我不能共享……"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/glitch/default/2",
+  "value" : "傷心。我還以為這是我一個人的家呢，你卻要我去共享出來"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/0",
+  "value" : "為什麼有人往我家裡搬行李？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/1",
+  "value" : "你是把我的房子出租了嗎？這一定是個誤會……"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/avian/default/2",
+  "value" : "有人搬進我的屋子住了——這一定是有什麼誤會"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/0",
+  "value" : "為什麼有別的人住進來了？你是怎麼想的？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/1",
+  "value" : "這是我的家。是我跟你租的。你不能讓別的人搬進來"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/apex/default/2",
+  "value" : "這樣很不清真。我不會共享我的房子"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/0",
+  "value" : "我不打算跟陌生人共享房子"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/1",
+  "value" : "雖然愛好和平，但我不能容忍你把我的屋子租給其他人"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/hylotl/default/2",
+  "value" : "我的家有其他房客？這一定是哪裡出錯了吧？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/novakid/default/0",
+  "value" : "這是我的土地，別發神經讓別人搬進來"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/novakid/default/1",
+  "value" : "我不喜歡分享。你最好別讓他人搬過來"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/novakid/default/2",
+  "value" : "這是我的家，尼瑪。我不打算分享"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "這種環境無法住人了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/0",
+  "value" : "這種環境無法住人了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/1",
+  "value" : "在這裡居住真是很可怕……"
+}, {
+  "op" : "replace",
+  "path" : "/severe/human/default/2",
+  "value" : "這樣住不下去了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/0",
+  "value" : "葉族無法這樣居住下去！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/1",
+  "value" : "葉族很生氣，弄好葉族的房子"
+}, {
+  "op" : "replace",
+  "path" : "/severe/floran/default/2",
+  "value" : "你還是沒有修理好葉族的屋子"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/0",
+  "value" : "生氣。我需要你修理我的房子"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/1",
+  "value" : "泄氣。希望你能聽從我的請求"
+}, {
+  "op" : "replace",
+  "path" : "/severe/glitch/default/2",
+  "value" : "不開心。我的房子依然沒有被修理"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/0",
+  "value" : "這太過分了，你需要修好它！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/1",
+  "value" : "我忍無可忍了——你看看我的屋子是什麼情況"
+}, {
+  "op" : "replace",
+  "path" : "/severe/avian/default/2",
+  "value" : "我的一貫耐心快要被消耗光了。修好我的屋子"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/0",
+  "value" : "你看看這個地方！你要麼修好它，要我麼離開"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/1",
+  "value" : "我無法再容忍你的毫無作為了……"
+}, {
+  "op" : "replace",
+  "path" : "/severe/apex/default/2",
+  "value" : "無視一位憤怒的翼族是很愚蠢的。我建議你馬上修理我的屋子"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/0",
+  "value" : "我的請求被無視了……真可惜"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/1",
+  "value" : "這種居住環境很惡劣，你的態度很惱人"
+}, {
+  "op" : "replace",
+  "path" : "/severe/hylotl/default/2",
+  "value" : "這太過分了，我要求你修理好我的家"
+}, {
+  "op" : "replace",
+  "path" : "/severe/novakid/default/0",
+  "value" : "如果你不修理它，我就得搬走了"
+}, {
+  "op" : "replace",
+  "path" : "/severe/novakid/default/1",
+  "value" : "這個地方真讓人失望……你準備修好它還是怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/severe/novakid/default/2",
+  "value" : "這個棚屋一日不如一日了。你需要修好它"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/0",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/1",
+  "value" : "就這樣吧，我放棄。該離開了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/human/default/2",
+  "value" : "我放棄了，我走人了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/0",
+  "value" : "不能忍了，葉族離開！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/1",
+  "value" : "葉族放棄了！葉族無法再住下去！"
+}, {
+  "op" : "replace",
+  "path" : "/final/floran/default/2",
+  "value" : "葉族走人了，不能再住了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/0",
+  "value" : "無力。我忍受不下去了。我離開"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/1",
+  "value" : "狂怒。我不該住在這麼破爛的地方"
+}, {
+  "op" : "replace",
+  "path" : "/final/glitch/default/2",
+  "value" : "生氣。我也不想的，但是這裡真的住不下去了"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/0",
+  "value" : "受夠了。我該有個好的家"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/1",
+  "value" : "就這樣。我離開了。不能忍"
+}, {
+  "op" : "replace",
+  "path" : "/final/avian/default/2",
+  "value" : "我對人很尊敬，可惜你不尊敬我"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/0",
+  "value" : "我搬來是為了更好的生活……真是讓人失望"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/1",
+  "value" : "我應該擁有更好的居住環境！"
+}, {
+  "op" : "replace",
+  "path" : "/final/apex/default/2",
+  "value" : "夠了。我走人。你是個惡劣的房東"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/0",
+  "value" : "我人不可人了。拜拜"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/1",
+  "value" : "我對你失去了所有的尊敬。希望有一天你會反省"
+}, {
+  "op" : "replace",
+  "path" : "/final/hylotl/default/2",
+  "value" : "這個環境不適合我。我必須離開"
+}, {
+  "op" : "replace",
+  "path" : "/final/novakid/default/0",
+  "value" : "我寧願以地為牀天為被也不想繼續待在這裡了"
+}, {
+  "op" : "replace",
+  "path" : "/final/novakid/default/1",
+  "value" : "我寧願睡在仙人掌上也不想在這裡多待一晚"
+}, {
+  "op" : "replace",
+  "path" : "/final/novakid/default/2",
+  "value" : "這是虐待！這個地方不能忍！是時候收拾行李了"
+} ]

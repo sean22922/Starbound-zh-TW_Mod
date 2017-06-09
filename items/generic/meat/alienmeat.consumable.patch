@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊生的燻肉。我應該先煮一下就好了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生培根"
+} ]

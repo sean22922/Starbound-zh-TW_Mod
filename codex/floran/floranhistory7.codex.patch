@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "葉族肉料理食譜"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "勉強也算得上是食譜了吧"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "葉族肉料理食譜\n\n需要的東西：\n1 x 火焰，燒肉用\n1 x 肉\n\n第一步：把肉放在火上\n第二步：把肉拿下來（別用手拿，會燙）\n第三步：吃肉\n\n小貼士：不要把其他葉族人當配菜吃掉。死了的葉族人除外。\n如果肉還活著，燒烤起來會比較麻煩"
+} ]

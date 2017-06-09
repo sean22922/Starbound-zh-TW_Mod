@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道掛著鮮豔花環的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨型花門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇木門，上面裝飾著表示歡迎的花環"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "放置花環的人是想表示歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族的花環代、代表著祕、祕密狩獵俱樂部"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。上面掛著一個花圈的門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇令人高興的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門用以表示歡迎"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "溫馨的家所使用的漂亮的門。就像是一個溫暖的微笑"
+} ]

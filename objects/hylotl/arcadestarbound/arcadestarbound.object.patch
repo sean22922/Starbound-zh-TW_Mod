@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "商場有個機器在執行叫\"星界邊境\"的遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "星界邊境拱形機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個探索太空的星界邊境的遊戲。好熟悉的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "從沒聽說過這個叫做星界邊境的遊戲。現在…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "星界邊境太空遊戲。葉族人在摧毀第四個牆的時候獲得了成就"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "堅持。我要在這個遊戲裡獲得最高分"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "星界邊境？我沒聽說過啊，一定很老了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個遊戲跟我在精神層面有交流"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個叫星界邊境的太空探索遊戲。我在現實裡就是幹這個的！"
+} ]

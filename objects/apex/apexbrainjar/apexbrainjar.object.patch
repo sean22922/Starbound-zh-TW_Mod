@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "瓶子裡裝著一個大腦，太可怕了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瓶子裡的大腦"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個猿人的大腦"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個腦子太大了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "多汁的醃製大腦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嫉妒。一個真正的大腦"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是一個…腦子嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "愚蠢，竟然相信思想可以裝在罐子裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "腦子裝在罈子裡？這讓我很不好受"
+} ]

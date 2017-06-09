@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的電子人村民！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電子人召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我能建造一支機器人大軍拿下大猩猩"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許能把這些電子人當作工人用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人召——喚鋼鐵兄弟！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "受到鼓舞。這種科技能讓我們種族呈指數級別增長"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個機器人管家，就要來了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我估計電子人能幹一些粗活"
+} ]

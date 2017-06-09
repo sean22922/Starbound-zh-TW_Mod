@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "浪漫電影海報"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "備受爭議的愛情電影\"葉族人的10個缺點\"的帶框海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "\"葉族人的10個缺點\"。這標題總覺得……有些種族歧視吧？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "\"葉族人的10個缺點\"。葉族人的缺點何止10個呢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這電影竟然叫做\"葉族人的10個缺點\"……真想一把火燒掉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。\"葉族人的10個缺點\"。缺點有10個嗎？我只能想到3個"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這部電影看起來……無聊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個關於關於葉族人和鮫人之間的禁忌關係餓非常有爭議的浪漫電影"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "愛情喜劇電影的海報。\"葉族人的10個缺點\""
+} ]

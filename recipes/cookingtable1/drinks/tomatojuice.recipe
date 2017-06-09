@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "tomato", "count" : 1 }
-  ],
-  "output" : { "item" : "tomatojuice", "count" : 1 },
-  "groups" : [ "craftingfood", "drinks" ],
-  "collectables" : { "cooking" : "tomatojuice" }
-}

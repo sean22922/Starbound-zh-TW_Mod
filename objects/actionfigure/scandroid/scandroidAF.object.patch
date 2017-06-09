@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"掃描機器人一直在無止盡的搜尋。沒人知道為了什麼。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "掃描機器人小雕像"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "棒子形狀的可口的炸魚。奶油凍在哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魚指頭"
+} ]

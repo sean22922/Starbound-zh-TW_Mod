@@ -1,9 +1,0 @@
-{
-  "name" : "smallrhinotail",
-  "category" : "smallquadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallrhinotail.png"
-  }
-}

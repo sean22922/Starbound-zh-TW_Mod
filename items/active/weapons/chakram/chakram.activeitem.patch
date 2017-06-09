@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只有真正的大師才能在不被割掉手指的情況下接住它"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輪刃"
+} ]

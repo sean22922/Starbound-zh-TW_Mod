@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它看起來像一顆大韭菜。你切它的時候它會流血。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石豆蘭小雕像"
+} ]

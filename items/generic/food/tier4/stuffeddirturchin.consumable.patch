@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在泥刺膽裡面塞滿了珍珠豆。嚐起來有點乏味……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥刺膽包子"
+} ]

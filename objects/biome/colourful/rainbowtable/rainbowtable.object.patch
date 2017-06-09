@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "彩虹桌讓每一頓飯都樂趣無窮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩虹桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "坐在這裡吃東西會讓人印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "驚人的彩虹桌，如孔雀般炫目！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人即使是在流著血也不會弄髒漂亮桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嚮往：坐在這裡吃東西會大幅度提高我的情緒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "等不及在這桌子上吃飯了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個色彩斑斕的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些顏色會讓你炫目"
+} ]

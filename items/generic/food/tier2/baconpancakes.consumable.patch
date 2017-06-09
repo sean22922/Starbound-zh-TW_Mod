@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "煎餅、燻肉、煎餅、燻肉、煎餅、牛油，吃吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燻肉煎餅"
+} ]

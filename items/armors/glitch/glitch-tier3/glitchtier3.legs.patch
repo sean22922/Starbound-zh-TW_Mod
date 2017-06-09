@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "騎士腿甲，用於保護戰士的大腿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "騎士腿甲 "
+} ]

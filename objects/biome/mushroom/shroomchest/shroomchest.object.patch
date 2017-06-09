@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張蘑菇塑造成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "你可以輕鬆撿起這個箱子然後將它帶走"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個蘑菇箱子。很輕鬆就能打開"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族查看箱子。葉族發現物品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析：打開這個箱子時會釋放出不可見的孢子。長期影響未知"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個可愛的軟蘑菇箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個荒謬的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻箱子看起來就像是個小蘑菇"
+} ]

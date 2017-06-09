@@ -1,9 +1,0 @@
-{
-  "name" : "eyepodcritter",
-  "category" : "eyepodcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

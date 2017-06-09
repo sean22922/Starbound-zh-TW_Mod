@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非常適合外星禪意花園的石頭建築"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "禪石"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "只是塊石頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很優雅的一塊石頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。是塊很乾淨的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "挺好看的一粒石塊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "沒有威脅的一塊石頭。讓人感覺很安詳"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這就是塊石頭"
+} ]

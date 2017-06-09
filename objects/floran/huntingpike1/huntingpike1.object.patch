@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個長矛上插著一些骨頭。真變態"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長矛上的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些頭骨碎片被插在長矛上當擺設"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族向來將骨頭當戰利品。真是野蠻的種族"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "骸骨是很好的裝飾品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚駭。這些葉族這麼不尊敬死者"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "無論這傢夥是誰，都不應該落得如此下場"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些骨頭是代表警告嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看到這些我就毛骨悚然"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你的臉的愛護者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "友好的人面水蛭"
+} ]

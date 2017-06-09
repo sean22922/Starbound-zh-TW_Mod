@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有什麼東西在往這綠色的玩意裡面鑽……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "觸手卵"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裡面有什麼東西在移動……？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個綠色的……東西。等等，我看見裡面有東西在移動？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有趣……但味道很奇怪！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。我最好遠離這個綠色的粘性物！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我發誓看見有什麼東西在裡面移動"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個綠色的物質簡直惡臭難忍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種綠色的凝膠。不大確定"
+} ]

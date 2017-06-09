@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一堆收拾好的灰塵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灰堆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "好奇。一堆收拾好的灰"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "大量灰"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一大堆灰"
+} ]

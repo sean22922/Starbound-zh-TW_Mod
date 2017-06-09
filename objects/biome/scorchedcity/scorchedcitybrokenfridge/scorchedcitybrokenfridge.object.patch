@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個壞掉的冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的時尚冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "破損生鏽，無法挽回"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這冰箱現在已經沒用了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "破損而且空空如也"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。這個冰箱曾經是如此有用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "再也派不上用場了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台年久失修的冰箱"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "現在只是個大垃圾"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "astrofae",
-  "category" : "astrofae",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "astrofae.png"
-  }
-}

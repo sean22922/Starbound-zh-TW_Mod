@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "電流玉米裡面全都是酸液。對血肉生物沒什麼好處"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電流玉米種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我聽說人們被電流玉米酸液灼傷的事情，我得小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "酸性的玉米。令人不舒服並且非常危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好吃，酸性的玉米，對肉體生物會造成傷害"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驕傲。機器人知道怎麼把這些蔬菜當做電池用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像玉米…但真的真的不是"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個邪惡的、酸性的玉米變種，不能吃"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這根玉米棒與其說是食物，不如說是電池"
+} ]

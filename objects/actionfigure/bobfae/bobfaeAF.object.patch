@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"不算很會飛的蒼蠅，波波飛是如何存活下來的仍是未解之謎。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波波飛小雕像"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "陪我坐一會，賞賞花"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "有些時候你得加快腳步，但不要因此忽略生活中微小又美好的細節"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "這棵樹歷經數百年風雨，象徵著保護者組織的強盛和榮耀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "神聖巨木欣然共鳴。\n清風唱誦著變化將至。\n落紅飄零，轉瞬即逝"
+} ]

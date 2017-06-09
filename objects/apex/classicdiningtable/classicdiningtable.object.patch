@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你想扶著桌子說話的時候可以用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "按猿人標準生產的奢華桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從來沒有看到過這麼大的桌子。翼族人一般都是獨自就餐的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大餐！這大桌子能放好多食物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "想家。電子人會在這種桌子上開盛大宴會。會有歌舞表演，還有小醜們的幽默表演"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是一張漂亮的餐桌。看上去像是全新的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人相信在大餐開始之前桌子應該是滿的。可能在這裡大餐永遠都不會開始了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這桌子真大！不過太大了玩牌不方便"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個提醒著落石的古老標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老的落石標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "要麼是三個腳趾的腳印，要麼是落下的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個關於什麼東西會落下的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "標誌著不穩定的天花板"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。也許這意味著這區域不安全？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "落石。為什麼洞穴就不能安全一次？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許這藝術家打算警告別人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就要注意前面的落石"
+} ]

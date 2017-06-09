@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發條帽子，讓你的敵人知道時間是無情的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發條帽子"
+} ]

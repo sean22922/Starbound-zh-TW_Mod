@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/maxHealth/label",
+  "value" : "最大生命"
+}, {
+  "op" : "replace",
+  "path" : "/maxHealth/description",
+  "value" : "-待辦-"
+}, {
+  "op" : "replace",
+  "path" : "/healthRegen/label",
+  "value" : "最大回復率"
+}, {
+  "op" : "replace",
+  "path" : "/healthRegen/description",
+  "value" : "-待辦-"
+}, {
+  "op" : "replace",
+  "path" : "/maxEnergy/label",
+  "value" : "最大能量"
+}, {
+  "op" : "replace",
+  "path" : "/maxEnergy/description",
+  "value" : "-待辦-"
+}, {
+  "op" : "replace",
+  "path" : "/energyRegen/label",
+  "value" : "能量回復率"
+}, {
+  "op" : "replace",
+  "path" : "/energyRegen/description",
+  "value" : "-待辦-"
+}, {
+  "op" : "replace",
+  "path" : "/protection/label",
+  "value" : "護甲"
+}, {
+  "op" : "replace",
+  "path" : "/protection/description",
+  "value" : "-待辦-"
+}, {
+  "op" : "replace",
+  "path" : "/powerMultiplier/label",
+  "value" : "武器傷害"
+}, {
+  "op" : "replace",
+  "path" : "/powerMultiplier/description",
+  "value" : "-待辦-"
+} ]

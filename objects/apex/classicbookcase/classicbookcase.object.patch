@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用來裝經典文學的書箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典書箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格限制了我們讀書的權力，我們相信那些書都被燒掉了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "啊，一座光輝圖書館是怎樣建成的。翼族人討厭書本，即使它們都不識字"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用血和骨頭分享知識。味道比所有書本都直觀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。也許這有我能用上的知識"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個書箱是用金來裝飾的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些書應該被分享，知識應該是免費的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是一個漂亮書架裡的一堆書"
+} ]

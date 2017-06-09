@@ -1,0 +1,69 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/0",
+  "value" : "這裡曾經有些比現在血肉鮮活得多的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/tagCriteria/default/default/1",
+  "value" : "我鮮活的傢俱怎麼了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/0",
+  "value" : "我想這裡有面牆壞了！你能幫個忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/enclosedArea/default/default/1",
+  "value" : "感覺這裡有點風，我的牆是壞了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/0",
+  "value" : "嘿，沒其他人應該搬進這裡好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/otherDeed/default/default/1",
+  "value" : "這地方難道不是給我準備的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/severe/default/default/0",
+  "value" : "我家都成這樣了我可沒法僅需找些鮮活的東西了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/severe/default/default/1",
+  "value" : "在這種情況下我該怎麼找些鮮活的貨？！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/final/default/default/0",
+  "value" : "嗯，是時候到別處找找我鮮活的傢俱了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/grumbles/final/default/default/1",
+  "value" : "我不能像這樣生活，是時候該向前進了，到充滿血肉的未知世界！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
+  "value" : "嘿，你需要我做什麼嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/1",
+  "value" : "嘿，情況如何啊？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
+  "value" : "我做生意的時候碰巧撞見了這個！這是給你的禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/1",
+  "value" : "我做生意的時候，碰巧遇見了這個給你！希望你喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我是進行稀有的鮮活的血肉貨物生意的生意人！如果可以我會幫你搞到點好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我在找些稀有的血肉珍寶！如果可能我會幫你搞到點好東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "我在追尋一些血肉珍寶！如果有給你的東西我會告訴你！"
+} ]

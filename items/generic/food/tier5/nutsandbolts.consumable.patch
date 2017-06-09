@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "混雜銅味的食物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "堅果螺母"
+} ]

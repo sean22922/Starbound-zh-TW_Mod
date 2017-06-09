@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它以在地下挖到的水為食。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Trictus 小雕像"
+} ]

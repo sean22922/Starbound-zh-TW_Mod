@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個帶著耳環的猿人畫像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "精美猿畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "大師級的作品，不過這個猿人好像在穿人類的衣服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個猿人好像在看向她的身後"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個猿人在看著身後，真嚇人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這幅畫不太符合那個時代"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這幅畫有點眼熟，不過也有點讓我感到困擾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "畫技精湛，不過我不知道畫的主題是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "畫得好，不過這個女士看起來有點奇怪"
+} ]

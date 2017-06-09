@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "塑膠槍裡的水由泵來驅動壓縮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水槍"
+} ]

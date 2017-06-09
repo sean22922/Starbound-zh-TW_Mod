@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種大手帕和棉布最適合起義的人了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "革命者頭巾"
+} ]

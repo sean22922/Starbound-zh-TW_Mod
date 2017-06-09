@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"伊格瑪不是一種攻擊性物種，但是它尾巴上的針刺可以造成巨大傷害。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伊格瑪小雕像"
+} ]

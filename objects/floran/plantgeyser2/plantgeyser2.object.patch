@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個被藤蔓覆蓋著的小型噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型叢生噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個小噴泉似乎不活躍"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個噴泉沒有散發蒸汽，所以應該是不活躍的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物是從這個小噴泉處獲取力量的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自信。沒有跡象表示這個噴泉會爆發"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "植物掩蓋住了這個小噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個小噴泉雖然不活躍，但是以防萬一我還是離遠一點好"
+}, {
+  "op" : "replace",
+  "path" : "/novaDescription",
+  "value" : "我不覺得這個小噴泉會給我帶來任何麻煩"
+} ]

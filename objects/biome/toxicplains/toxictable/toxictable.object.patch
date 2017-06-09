@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張多刺的桌子。小心看牢你的腳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子很柔軟，潮溼並且有點使人不安"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在這張桌子旁讓人很不安"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "多刺的桌子捅葉族。葉族捅回它！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。這些刺異常尖銳"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子看起來盛不起一頓晚餐的重量"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這讓我回想起了一個漂亮的茉莉花板"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不介意有機桌子。但是這些尖刺就免了"
+} ]

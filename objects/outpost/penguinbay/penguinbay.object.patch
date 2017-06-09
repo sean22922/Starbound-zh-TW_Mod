@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個地方賣加輪船執照"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝灣"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可疑的鳥，還有他們的黑市貨物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看見企鵝我就緊張"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "柔軟胖胖的企鵝買東西啦！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好笑。這些小企鵝是走私販"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我感覺在拍黑幫片"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "粗魯的犯罪小鳥"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "鬧鬨哄地賣可疑玩意的鳥。鳥版淘寶"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "企鵝灣"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "百分百合法輪船執照"
+} ]

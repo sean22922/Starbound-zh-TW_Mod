@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個長長的用樹枝做的箱子，看起來很不牢固"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型原始箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這箱子很明顯是由棍子綁起來的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這箱子更像是儲存裝置而不是安全裝置。我能將其大卸八塊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人將許多令人激動的東西藏在箱子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不怎麼樣。拆這個箱子比造它還要快"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個用樹枝製作的精美的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子會隨著時間的流逝而腐蝕，暴露出它的內容"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這看上去好像連個鎖都沒裝，太不安全了"
+} ]

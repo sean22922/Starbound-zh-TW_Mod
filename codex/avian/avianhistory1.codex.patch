@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "羽翼之星聖經：篇章 1：1：1"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翼族聖經中的一段"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "羽翼之星曾經受束縛在星際中。\n\n沒有開始，因為翼族一直都存在。\n\n在蒼穹中，他們生活在無上至尊庫魯克斯的擁抱裡。\n\n庫魯克斯賦予他們翅膀，而他們侍奉"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有疣，但不算太多"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "肉疣果"
+} ]

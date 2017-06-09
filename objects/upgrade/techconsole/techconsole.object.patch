@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝備並提升你在該站的科技。\n在被損壞後會^red;被破壞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "科技控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以用這個複雜的機器來裝備技術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個控制台可以讓我裝備技術耶！當你克服了那些古怪的事情，這小東西就有用了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用這個控制台裝備技術。新技術總能讓人激動"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻啊。這個控制台可以讓我裝備或者移除技術"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以在這兒裝備技術。真方便"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在生物工程裡技術取得了驚人的進步"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只要一點點知識，就能用這個機器裝備技術"
+} ]

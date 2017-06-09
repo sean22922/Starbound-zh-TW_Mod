@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅氣球"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠受驚時不膨脹，反而在無聊時會－－而牠一直都很無聊"
+} ]

@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "歌曲集圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "^#b9b5b2;你的所有音樂都在一個地方"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSong/value",
+  "value" : "選擇一首歌"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/group/hint",
+  "value" : "樂隊名"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblBand/value",
+  "value" : "以另一玩家的身份進入\n同一樂隊來合奏音樂"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnPlay/caption",
+  "value" : "播放"
+} ]

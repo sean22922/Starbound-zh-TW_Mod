@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "戴這個眼罩值得失去一些深度感知"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "卑鄙眼罩"
+} ]

@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "叛軍調度"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "猿族叛軍基地之間的通信"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/0",
+  "value" : "叛軍調度\n基地 8 致 基地 12, 11, 4\n\n標題：干擾迷你克諾格宣傳的散播\n從此命名為：宣言行動\n\n先決條件：所有基地。需要突擊自願者。目標（10號管理區）工廠列印機。士兵必須摧毀列印機和列印出的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/contentPages/1",
+  "value" : "要求補給：基地 4。炸藥。C級。\n\n額外信息：宣言行動將會跟突破行動同時進行"
+} ]

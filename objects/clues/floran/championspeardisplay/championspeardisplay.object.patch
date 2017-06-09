@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "展示著一柄當年贏得狩獵儀式的葉族人的長矛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冠軍長矛展示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這應該是遠古時期葉族人頂尖獵手所用的矛"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族人用這種展示來向勝利的獵手致敬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "矛一定是屬於強悍的葉族人獵手"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個矛屬於贏得了某項大型狩獵活動的葉族人戰士"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "根據矛柄上的銘文描述，這個矛曾經屬於一個獲勝的葉族人獵手"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "如果銘文所言屬實，這個矛曾經屬於一個獲勝的葉族人獵手"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個看上去很鋒利的矛應該是屬於一個獵手的"
+} ]

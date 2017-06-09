@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "值得信賴的傳送器啊，沒了你我們該怎麼辦？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是飛船傳送器，但沒有能源了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳送器！要是有能源就好了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傳送器，這個壞了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望，傳送器沒有能源了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "傳送器！就是沒能源了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "傳送器已經關掉了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個古老的傳送器好像無法運作"
+} ]

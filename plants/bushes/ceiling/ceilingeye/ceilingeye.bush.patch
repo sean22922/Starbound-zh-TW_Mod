@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個奇怪的懸空的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "懸空的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "搖搖擺的眼睛！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。懸空的眼睛"
+} ]

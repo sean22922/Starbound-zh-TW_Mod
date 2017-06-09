@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "關於一位謎一樣的女人的著名畫作"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典猿畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一幅經典的畫像。真美"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "哇，她一定還不錯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想偷畫並賣到黑市去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這幅贗品畫得很好"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "她看著有點眼熟，不過又好像不認識"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為什麼會有人想把她這麼醜陋的一面永存？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個看起來很奇怪的女士"
+} ]

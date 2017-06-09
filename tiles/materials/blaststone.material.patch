@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "高溫爆炸後產生的尖銳石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高爐石塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。高溫把礦物質融在了爆石上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒利的石頭很結實"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些硬石頭很鋒利"
+} ]

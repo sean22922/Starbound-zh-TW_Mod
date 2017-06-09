@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個圖書館標誌。圖書館這邊走！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "圖書館符號"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這建築肯定是個圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一本書？這建築可能是個圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個可以讀書的地方"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這是一個圖書館標誌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個圖書館標誌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "啊，熟悉的圖書館標誌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "書。也許是個圖書館"
+} ]

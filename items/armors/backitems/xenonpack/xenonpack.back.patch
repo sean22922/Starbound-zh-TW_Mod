@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個擁有氙氣大燈的背包。有了這個就不需要其他光源了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "氙包"
+} ]

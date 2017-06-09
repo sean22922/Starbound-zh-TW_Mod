@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個磨損的木支架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木支架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木支架。看起來不怎麼能承重啊"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個木支架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "木製的支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。我想這塊木頭被蛀蟲吃了一半了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在惡劣條件下的木製支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個支撐物看起來結構不是很牢固"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一根腐爛的木樑"
+} ]

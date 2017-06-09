@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用來關押葉族囚犯的大牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型木質牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個大牢籠似乎是用來運輸囚犯的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個牢籠剛剛好可以容納一位葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個牢籠是用來運輸葉族囚犯的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。這個牢籠的用料很普通，但是卻異常結實"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個牢籠無法同時容納超過一位囚犯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個牢籠剛剛好關押一位葉族囚犯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個牢籠無法賦予囚犯多少隱私"
+} ]

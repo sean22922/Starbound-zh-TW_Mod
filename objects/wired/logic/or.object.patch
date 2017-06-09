@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "/'OR'/開關。允許你有多個獨立輸入"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "OR開關"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "/'OR'/開關。允許你有多個獨立輸入"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。/'OR'/開關。允許你有多個獨立輸入"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非反光鏡面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏡面磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。雖然看起來像鏡子可是不會反光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "發光的表面"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這鏡子有問題。我看不到任何反光跡象"
+} ]

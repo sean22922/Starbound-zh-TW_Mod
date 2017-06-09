@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可怕的閃光燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "損壞的小泛光燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格用這些東西來強迫人們開口。這個看起來損壞很嚴重"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個惱人的閃光燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃光燈讓葉族人很緊張"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "生氣。某人應該來修理它"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個閃光燈！再來幾個我們就能開夜總會了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個損壞的泛光燈。我猜它一時半會不會被換掉"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個閃光燈源。生氣"
+} ]

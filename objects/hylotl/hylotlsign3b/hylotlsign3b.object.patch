@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色霓虹標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標誌裡有小小的海洋生物在裡面游泳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌的是在指向水族館嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個能指向了一個有趣的地方。這倒是一個不錯的改變"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵的。小魚在標誌裡游泳。我還以為鮫人會照顧好他們的族人的呢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果這個水族館裡有隻雙足鯊魚的話，我絕對要加入"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個標誌指向公共廁所。鮫人真是愛乾淨沒得說"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一定是指向了很厲害的地方吧"
+} ]

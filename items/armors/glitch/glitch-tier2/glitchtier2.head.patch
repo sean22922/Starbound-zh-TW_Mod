@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個耐用的鎢頭盔——是對\"頭盔的品質不像以前那麼好了\"這一觀點的強有力反擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "士兵的頭盔"
+} ]

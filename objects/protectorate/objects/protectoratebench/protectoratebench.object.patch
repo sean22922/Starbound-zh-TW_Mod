@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在保護者學院發現的長凳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者長凳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個好看實用的長凳"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "是個用來坐的長凳。很遺憾，我現在沒這個時間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張看起來很舒服的長凳。要是葉族人有時間坐就好了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很明顯。這是個金屬長凳"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是張能坐下幾個人的長凳。起碼三個人！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張寬長凳"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "要是我有時間歇歇腳，我就坐在這張凳子上了。單哦我沒時間"
+} ]

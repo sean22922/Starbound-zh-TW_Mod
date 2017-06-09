@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "柏油門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "柏油門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用瀝青打造的一道門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很普通的一道門，不過用瀝青製造出來其實並不簡單"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黏糊糊而且開門很慢。不好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不滿意。這個瀝青製造的門隨時會卡住"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這道瀝青門相對來說挺堅固的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一團瀝青被轉化成一道門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這道門似乎是用乾涸的瀝青製造的。但依然有點黏糊糊"
+} ]

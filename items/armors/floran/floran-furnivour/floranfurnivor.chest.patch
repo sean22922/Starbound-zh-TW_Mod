@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "自豪的動物皮毛展覽，彷彿在炫耀最近的狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毛護胸"
+} ]

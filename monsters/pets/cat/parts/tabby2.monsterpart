@@ -1,9 +1,0 @@
-{
-  "name" : "tabby2",
-  "category" : "petcat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "tabby2.png"
-  }
-}

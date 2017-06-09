@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "alienfruit", "count" : 1 }
-  ],
-  "output" : { "item" : "alienfruitjuice", "count" : 1 },
-  "groups" : [ "craftingfood", "drinks" ],
-  "collectables" : { "cooking" : "alienfruitjuice" }
-}

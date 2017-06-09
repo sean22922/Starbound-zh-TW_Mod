@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "菲洛合金製成的鎖子甲，能夠保護好軀幹，與此同時還像羽毛一樣透氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火烈鳥胸甲"
+} ]

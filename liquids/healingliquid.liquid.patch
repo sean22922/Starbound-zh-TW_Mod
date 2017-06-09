@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個散發淡淡光芒的液體好像很好喝的樣子！"
+} ]

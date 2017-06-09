@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "M型電子人，裝載有先進文明的作曲式機制"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "型號M"
+} ]

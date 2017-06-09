@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專為和平守護者所打造——堅定且無畏"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "深淵胸甲"
+} ]

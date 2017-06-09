@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "別動！如果你不動我就看不見你"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "動作感應器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這應該是個動作感應器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個動作感應器。最好小心點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人覺得這個機器想讓植物人跳舞"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析。一個比較基礎的動作感應器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個動作感應器。最好小心點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這應該是某種動作感應裝置"
+} ]

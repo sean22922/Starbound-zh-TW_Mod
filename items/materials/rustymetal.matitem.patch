@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "被鏽包裹的老金屬"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "警覺。這個金屬的腐蝕程度讓我感覺很不爽"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "鏽跡覆蓋的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "被厚厚鏽跡覆蓋的老舊金屬"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專為那些喜歡顯露財富的人打造的黃金護脛甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃金護腿甲"
+} ]

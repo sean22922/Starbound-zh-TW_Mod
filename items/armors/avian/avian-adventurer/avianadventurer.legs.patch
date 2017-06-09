@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用天然纖維和時髦的皮革製成，專為有眼光的冒險家設計"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皮質腰帶"
+} ]

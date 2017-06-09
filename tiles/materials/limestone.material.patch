@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗糙未加工過的石灰岩"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石灰岩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感覺。這個石灰岩是白堊質地的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "落滿灰塵的石灰岩塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去像白堊質地的石灰岩"
+} ]

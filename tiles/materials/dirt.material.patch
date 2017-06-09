@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來很髒的泥土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不在乎。這是鹼性土"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "骯髒的污垢！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很髒的土"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "明亮的螢光燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螢光燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這裡光不自然，沒有吸引力"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個光冰冷嚴酷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "令人厭惡的光，葉族人更喜、喜歡日光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個燈點亮後嗡嗡叫的厲害"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我平時最討厭的就是這種光了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這麼耀眼的光，肯定是人造的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個漂亮的燈發出的聲音就和嗡嗡叫的飛蟲一樣"
+} ]

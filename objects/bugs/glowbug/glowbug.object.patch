@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個蟲子的體溫越高，身上的光就越強"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光蟲"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "垂直的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老舊的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "粗略設計出來的艙口"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "艙門開……艙門關"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。垂直通過的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個用來水準移動得閥門是不夠的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "生鏽的艙門，秉承實用主義造的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在地上的艙門。我可以爬過去"
+} ]

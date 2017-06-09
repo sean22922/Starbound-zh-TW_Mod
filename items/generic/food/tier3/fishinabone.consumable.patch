@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一條完整的魚被強行塞入一個骨竹果當中"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨中之魚"
+} ]

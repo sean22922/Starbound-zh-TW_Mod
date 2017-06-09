@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用了杜克鋼絲的褲子，搭配耐用的靴子。時髦又實用——革命萬歲！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "革命者的長褲"
+} ]

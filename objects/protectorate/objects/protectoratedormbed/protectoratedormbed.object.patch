@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "制式保護者學院學生牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者學院雙層牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些牀的設計十分簡潔。不過它們舒服得令人難以置信"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "軟得像快孵化了一樣。要不是趕時間，我一定會在上面小憩一會兒的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人好想睡啊，但必須得快一點趕上儀式！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好累。我倒是不介意回去睡，但我想最好還是快點趕去儀式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我真是夜夜聽到鄰人的鼾聲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是標準的保護者組織雙層牀"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "不錯的舊保護者組織雙層牀。真希望我能回到我那張上"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "henbaby",
-  "category" : "henbaby",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

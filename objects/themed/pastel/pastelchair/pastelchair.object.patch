@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張心形背靠的粉彩色椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張椅子的背靠是心形的。非常有創意"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是可愛的一張椅子！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "椅子顏色很清真"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這張椅子的背靠是心形……上面還有一個更小的心形！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張椅子真的是用\"心\"了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張椅子有很多熱帶的顏色。我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不確定這張椅子合不合我的審美，但不容否認的是製作者花了很多心思"
+} ]

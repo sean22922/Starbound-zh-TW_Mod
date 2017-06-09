@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老符文，毀滅的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遺蹟符文"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個古老符文，代表著毀滅。很有趣一個螺旋形的東西代表著同樣的意思"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個和我們自己的相類似的古老符文。這個代表著毀滅"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "古老符文，這個代表著毀滅"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。一個表示毀滅的古老符文"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個古老符文表示毀滅。真不祥"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個古老的石頭符文代表毀滅，提醒我們時間早晚會吞噬一切"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個古老符文，代表著毀滅的遺蹟"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥漿齒鱘"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以在海底泥土中僞裝等待獵物"
+} ]

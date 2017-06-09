@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用日光礦打造的護腿。非常棒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "烏鴉之爪"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "硬而易碎的沙子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾沙"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這土乾又硬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "又乾又硬的土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很乾的土"
+} ]

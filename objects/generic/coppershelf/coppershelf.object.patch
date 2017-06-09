@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "青銅製成的壁架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青銅壁架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個青銅製成的壁架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個裝好的青銅壁架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "懸掛的金屬架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個壁架是青銅做的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是青銅做的壁架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個非常基本的青銅壁架"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個青銅壁架掛在牆上"
+} ]

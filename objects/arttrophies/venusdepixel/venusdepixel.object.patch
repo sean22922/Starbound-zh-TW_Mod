@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "古代希臘大理石像，皮克斯的維納斯。作者不詳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皮克斯的維納斯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一座非同尋常的人類雕像"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "石頭人類。她的手臂不見了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡有肉的人。石頭人？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。這是用一塊大理石刻出來的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，時光流逝啊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一座粗糙的石雕，有點像人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "她的手臂哪去了？"
+} ]

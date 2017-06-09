@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台舊時學校的遊戲機。能玩\"超級特拉法加 2\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遊戲機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個太空戰鬥模擬器，叫做超級特瓦爾加爆破 2，還好我從未遭遇過真實的船艦戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "超級特瓦爾加爆破2是關於發動行星間戰爭的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砰砰砰！葉族人打下了超級特瓦爾加爆破2中所有的船艦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪，超級特瓦爾加爆破 2中得到最高分數的玩家名字的縮寫是\"CF\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "超級特瓦爾加爆破 2！這是一個傳統的子彈射擊遊戲，還好我不需要在真實生活中去打船艦！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在超級特瓦爾加爆破 2中，你要在衆多小行星和敵軍戰艦的炮火中倖存下來，非常的刺激"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個被稱為超級特瓦爾加爆破 2的遊戲，沒有比這種傳統的太空射擊遊戲更好的了"
+} ]

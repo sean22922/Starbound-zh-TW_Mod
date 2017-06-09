@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿著有些瘙癢的鈦金屬胸甲，全宇宙的翼族人平民都穿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鵪鶉胸甲"
+} ]

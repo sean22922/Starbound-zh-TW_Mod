@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "歌迪鐵石心腸，而這個頭飾將會阻擋一切危險"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金剛鸚鵡頭飾"
+} ]

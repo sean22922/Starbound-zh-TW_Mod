@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅固的木柵欄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木柵欄"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這個木圍欄非常結實"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固的柵欄"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒什麼比結實的木圍欄更好了"
+} ]

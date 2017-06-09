@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "典型的餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "餐桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很漂亮的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個無聊的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。一個普通的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "普通的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個桌子。未顯示等級或技術"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個普通的桌子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很小的路燈。不要弄倒它哦"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小路燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一根小燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "多袖珍的燈杆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "插、插在棍、棍、棍子上的小燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。一根小燈杆"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一根小燈柱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真小，真可愛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一根小燈杆。到底有什麼用？"
+} ]

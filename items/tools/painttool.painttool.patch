@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "左鍵繪畫，右鍵換色。^green;按[Y]鍵快速切換"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "繪畫模式"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

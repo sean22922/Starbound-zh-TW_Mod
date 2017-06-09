@@ -1,9 +1,0 @@
-{
-  "name" : "smallsquatbirdhead",
-  "category" : "smallflying",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "smallsquatbirdhead.png"
-  }
-}

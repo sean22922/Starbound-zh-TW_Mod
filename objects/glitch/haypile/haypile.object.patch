@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乾草堆。躲在這裡面恐怕不是太好"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾草堆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一堆乾草"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一大堆新鮮的草料。翼族人會把乾草當做牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "新鮮的草料好好聞！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "頑皮。一大堆乾草，足夠能藏進去了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我想鑽進去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "乾草很軟，聞起來很新鮮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一堆新鮮的乾草"
+} ]

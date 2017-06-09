@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鋒利的荊棘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鋒利的荊棘"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒利帶刺的荊棘"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。鋒利的荊棘"
+} ]

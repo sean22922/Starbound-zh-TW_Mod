@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你生存所需的全部東西。幾乎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "避難架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這架子上有些有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這架子上有些醫療用品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裝物品的架子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感到釋懷。這架子上有很多有用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要是發生什麼災害的話，這會很有用"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是拿來用的，不是拿來看的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在危急時這肯定能派上用場"
+} ]

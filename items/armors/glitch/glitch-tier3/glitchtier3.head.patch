@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個鈦合金機器人自豪的參加戰鬥，一把銳利的劍……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "騎士頭盔"
+} ]

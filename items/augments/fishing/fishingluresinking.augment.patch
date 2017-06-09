@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沉甸甸的釣餌，可以更快沉下去"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "下沉釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/lureName",
+  "value" : "下沉釣餌"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這扇門很強大，並且能源很充足"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "竹門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這扇門裡有竹子，比看起來要堅固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "植物使這扇門如石頭一樣堅硬"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人的竹子就像金屬一樣堅固"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚喜：這扇門是由有機材料製成，但像鋼鐵一樣堅硬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "從這扇門上的縫隙裡我可以看到有竹子！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人很明顯能使自然屈服於他們的意志。沒有小的功績"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "竹子，天然的鋼鐵"
+} ]

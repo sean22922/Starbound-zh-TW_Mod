@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "以防不測的滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "安全第一"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "滅火器！葉族人討厭火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放i輕鬆。我挺高興這裡有安全預警的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有個滅火器。我懷疑這東西從來沒用過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是個滅火器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來滅火的"
+} ]

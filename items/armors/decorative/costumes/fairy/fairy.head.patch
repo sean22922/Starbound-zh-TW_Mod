@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鑲嵌珠寶的聚會帽。看起來跟真的一樣！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皇冠"
+} ]

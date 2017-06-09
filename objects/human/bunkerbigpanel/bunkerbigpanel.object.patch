@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個螢幕上的信息量好大……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一堆大螢幕，我期待著見到老大猿的臉"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個螢幕是用來……大概是讀數據的吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人腦子轉不過來了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。上面說這個區域不適合人類居住"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一大堆神祕的讀數在螢幕上閃爍。我敢肯定有人能理解……但是我不能"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "按這些螢幕上的說法，這個地區的水是淡水"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "數據讀取。為什麼？"
+} ]

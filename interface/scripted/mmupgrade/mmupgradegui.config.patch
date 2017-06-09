@@ -1,0 +1,85 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "物質操縱器升級"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "^#b9b5b2;強化你的物質操縱器！"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblGroup1/value",
+  "value" : "^green;物質處理單位^white;"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblGroup2/value",
+  "value" : "^green;拓展槽^white;"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblGroup3/value",
+  "value" : "^green;發動機^white;"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblGroup4/value",
+  "value" : "^green;鏡片^white;"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblUpgradeDescription/value",
+  "value" : "你還沒有物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblModuleLabel/value",
+  "value" : "^green;操縱器模組^white;"
+}, {
+  "op" : "replace",
+  "path" : "/defaultDescription",
+  "value" : "選擇一項升級，查看花費和效果"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/power1/description",
+  "value" : "提高物質解構速率100%"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/power2/description",
+  "value" : "提高物質解構速率200%"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/power3/description",
+  "value" : "提高物質解構速率300%"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/size1/description",
+  "value" : "將效果範圍提升至3x3單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/size2/description",
+  "value" : "將效果範圍提升至4x4單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/size3/description",
+  "value" : "將效果範圍提升至5x5單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/range1/description",
+  "value" : "提高操縱器有效範圍2單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/range2/description",
+  "value" : "提高操縱器有效範圍4單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/range3/description",
+  "value" : "提高操縱器有效範圍6單位格"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/liquidcollection/description",
+  "value" : "可以用挖掘模式採集液體"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/paintmode/description",
+  "value" : "啓用上色模式給單位格上色"
+}, {
+  "op" : "replace",
+  "path" : "/upgrades/wiremode/description",
+  "value" : "啓用電路模式來組成不同功能的物體"
+} ]

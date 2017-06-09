@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用黏土做的易碎薄甕"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "薄甕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小甕，裡面應該有不少東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "是甕吧，不像翼族人墓穴中的甕那麼奢華"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "打碎所有的甕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哲學上說。這個缸是半滿，還是半空？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要想知道甕裡有什麼，只要打碎它就行了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個製造精良的甕，就這麼打碎真是有點可惜了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個甕簡直像是求著被打碎一樣"
+} ]

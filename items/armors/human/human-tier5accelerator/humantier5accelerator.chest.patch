@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在戰場上以它的長處而被人們選中。先鋒防彈衣救了我很多次命"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先鋒盾防彈衣"
+} ]

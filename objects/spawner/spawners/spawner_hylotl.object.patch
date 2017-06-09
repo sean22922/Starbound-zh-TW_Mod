@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "召喚屬於你的鮫人村民！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人召喚器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "生產鮫人。呃…還是等會再說吧"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我得小心不能用這玩意用得太頻繁"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人召——喚魚人到劍——裡！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "虛偽：一群鮫人實在是太美好了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "好吧，我猜一個鮫人還是無害的…"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "多令人高興啊！終於能再次被文化所圍繞了"
+} ]

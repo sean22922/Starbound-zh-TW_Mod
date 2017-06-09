@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個生鏽的老潛水帽。最近很少看到這些了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "深潛帽"
+} ]

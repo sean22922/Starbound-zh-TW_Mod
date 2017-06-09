@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/0",
+  "value" : "瞄準練習！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/1",
+  "value" : "我來給你們開幾個洞！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/2",
+  "value" : "吃我子彈！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/3",
+  "value" : "為什麼我的槍不能裝更多子彈？"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/4",
+  "value" : "砰砰砰！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/5",
+  "value" : "我想要把大點的槍！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/6",
+  "value" : "回來這裡！我要開槍了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/7",
+  "value" : "旅行者是完美的練習靶！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/8",
+  "value" : "快點死吧，我都開始無聊了"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/9",
+  "value" : "磅 磅 磅！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/10",
+  "value" : "等我過來，你身上的洞會比漏勺還多！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/11",
+  "value" : "啊！我想要把大點的槍！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/12",
+  "value" : "我要炸了你！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/novakid/default/13",
+  "value" : "終於，有東西射了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/0",
+  "value" : "葉族人向外來者射擊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/1",
+  "value" : "你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/2",
+  "value" : "葉族人會給你開上一堆洞！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/3",
+  "value" : "陌生人不夠快，跑不過子彈！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/4",
+  "value" : "你躲不過葉族人！葉族人會找到你！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/5",
+  "value" : "外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/6",
+  "value" : "葉族人殺外來者！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/floran/default/7",
+  "value" : "你不會活下來的！葉族人不允許！"
+} ]

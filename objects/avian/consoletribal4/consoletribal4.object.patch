@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個由翼族人水晶供能的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型雕刻面板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個控制面板很老舊，但我還是不能理解裡面的技術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個面板通過晶體振動啟動其它設備"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的翼族人科技。也許葉族人可以佔為己有"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。我對這個以水晶為基礎的科技不太能搞得懂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個控制台好像由水晶供能，它是怎樣運作的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來是一個控制面板，它的設計很討喜"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來這個控制台在閃閃發光"
+} ]

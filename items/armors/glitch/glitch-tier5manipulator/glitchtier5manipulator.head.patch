@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可以很好的吸收衝擊力的頭盔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "槍騎兵頭盔"
+} ]

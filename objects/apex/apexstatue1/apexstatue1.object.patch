@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那是老大猿的半身像，榮耀的猿人領袖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿半身像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿……他的圖像無處不在，但是我從來沒有看到過他"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個便宜的石像。看起來像是機器做出來的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚蠢的石臉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "憎恨的。我的感應器探測到裡面有一個設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "老大猿。我好奇這個是否按比例的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是猿人本身，如果真的是他的話"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "他肯定美化了自己，這隻老大猿"
+} ]

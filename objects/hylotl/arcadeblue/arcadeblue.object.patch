@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種執行著叫\"幻覺競技近戰\"的遊戲的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍拱廊機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "幻覺牛仔肉搏競技讓我大開眼界。我現在對事物的看法不一樣了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "幻覺牛仔肉搏競技是個非常舒緩的遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人以為遊戲的名字叫做幻覺競技近戰，就興奮了。竟然不是"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關鍵：我在幻覺競技近戰中得到了4/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "從名字你絕對猜不到，但幻覺牛仔肉搏競技非常有深度"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我覺得，從核心上看，幻覺牛仔肉搏競技是個成熟的故事"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "幻覺牛仔肉搏競技？這不是真正的牛仔競技……"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/rotTimeDescriptions/0/1",
+  "value" : "^red;太腐爛了幾乎不能吃^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/rotTimeDescriptions/1/1",
+  "value" : "^orange;開始聞起來有點腐爛了^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/rotTimeDescriptions/2/1",
+  "value" : "^yellow;或許很快就會壞掉^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/rotTimeDescriptions/3/1",
+  "value" : "^green;應該能保鮮一陣子^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/rotTimeDescriptions/4/1",
+  "value" : "^green;保存地非常良好^reset;"
+} ]

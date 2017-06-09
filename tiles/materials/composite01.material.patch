@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鈦合金製成的光滑平板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鈦合金板"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哇。這個鈦面板好光滑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光滑閃亮鈦面板"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些光滑閃亮鈦面板"
+} ]

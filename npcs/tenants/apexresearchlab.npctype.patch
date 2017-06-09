@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "我在為迷你克諾格做田野調查。別擔心，我會搞好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "迷你克諾格把我安排在這做田野調查。不是我想這樣的，相信我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "迷你克諾格命我來做田野調查。真希望沒被安排在這……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/3",
+  "value" : "我在這代表迷你克諾格作研究。別打擾我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/4",
+  "value" : "別相信那些叛軍的謊言—迷你克諾格想要幫助這個宇宙"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/0",
+  "value" : "我在為迷你克諾格做田野調查。別擔心，我會搞好的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/1",
+  "value" : "希望你不是叛軍。你是跟迷你克諾格一夥的還是反對我們的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/2",
+  "value" : "迷你克諾格命我來做田野調查。真希望沒被安排在這……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/3",
+  "value" : "我在這代表迷你克諾格作研究。別打擾我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/4",
+  "value" : "我希望你是迷你克諾格的支持者。我們都知道叛軍是什麼下場……"
+} ]

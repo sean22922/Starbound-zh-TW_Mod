@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道猿族餐點，油炸碎玉米粒，當然是和香蕉一起"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿族炸果餅"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來抽水的黃銅水泵，已經年久失修了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境水泵"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個老舊水泵。已經不能運作了，只能當裝飾品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個水泵似乎很久以前就壞掉了。不過可以當做修飾物！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族看不出這東西有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察性。這個水泵很久以前就生鏽壞掉了。我不認為它還能夠繼續抽水"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "它曾經抽過水，但現在只是個廢物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族的水泵就永遠不會生鏽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個舊水泵。不過已經不能使用了"
+} ]

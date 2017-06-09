@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株不錯的大廳植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者大廳植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一盆堅強的室內植物。這些都是共同的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "令人愉快的植物。學院裡有一些這種盆栽"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉子朋友。葉族人喜愛你的陪伴"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "敏銳。垂葉榕。學院裡的一株普通植物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一株很好的植物。它看起來……很繁盛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "接近自然能很好地提醒我們一度來自何方"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "盆栽植物。說不上有多有趣"
+} ]

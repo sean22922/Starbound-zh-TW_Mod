@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在太陽下乾燥變硬的泥土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾泥土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "仔細觀察。這土非常乾燥"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "非常乾燥的土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只是一些很乾的土"
+} ]

@@ -1,0 +1,129 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "只是個警告——其他獵人會阻止你贏得狩獵的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "在我抽芽起我就在狩獵，在我還是花蕾時我就已經是冠軍了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "在其他人往前衝的時候我就在這吃點零食。他們會自相殘殺的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "我一直都很想看看宇宙，你們從哪裡來？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "有一天我會找到出路的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "葉族人常常都是野蠻無腦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "在你成為頂級獵手後人們對你總是有很多期待……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "除了狩獵之外那裡一定有更多事情"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "我聽流言說有比葉族人狩獵過的任何野獸都大得多的巨獸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "我參與狩獵來告訴葉族人勝利的最佳方式不是自相殘殺"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/10",
+  "value" : "我試著說話不發出噓聲，可是我、我控制不住"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/11",
+  "value" : "我都十、十七個夏天大了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/12",
+  "value" : "我喜歡狩獵，但是有、有時候這還不夠"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/13",
+  "value" : "葉族人不是邪惡的。我們部落的綠手指教導我們尊重生命。一堂很多人一生都學不會的課"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/introduction/default/default/0",
+  "value" : "哇哦！外族人！你真的是來這裡參加狩獵的嗎？真是要敬佩你的蠻勇"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/introduction/default/default/1",
+  "value" : "哦我嗎？我是 ^orange;奴魯^white;——狩獵史上最年輕的冠軍"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/introduction/default/default/2",
+  "value" : "我得說，這真是讓人印象深刻！或至少如果你不被撕成碎片的話會是這樣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/introduction/default/default/3",
+  "value" : "給，葉族人花費多年磨鍊他們的勇氣，宛如技藝高超的工匠打磨一枚矛頭……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/introduction/default/default/4",
+  "value" : "然後他們大多都死了……總之，祝你好運！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionstart/end/default/default/0",
+  "value" : "小心其他獵人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionswitch/hello/default/default/0",
+  "value" : "嘿！來這！我不能相信你撐到這麼遠。做得好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionswitch/stuck/default/default/0",
+  "value" : "但是現在你卡住了。短語\"慢慢鼓掌\"出現在腦海。這，我能打開它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/floranmissionswitch/goodbye/default/default/0",
+  "value" : "我覺得我們現在接近了——希望你的胃口不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/boss/shellbroken/default/default/0",
+  "value" : "貝殼碎了！現在是攻擊的好機會！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/boss/fleshy/default/default/0",
+  "value" : "打它！在它沒有防護的時候打它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/boss/finish/default/default/0",
+  "value" : "我們要打敗它了！結果它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/endscene/follow/default/default/0",
+  "value" : "現在這真是太令人滿意了！來吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/endscene/smalltalk/default/default/0",
+  "value" : "你知道，那實在是太猛了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/endscene/end/default/default/0",
+  "value" : "那是我這麼久最有趣的經歷了。有個臨危不亂的人在身邊真是太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/endscene/end/default/default/1",
+  "value" : "事實上……祝賀你！我剛決定用一個免費的奴魯作為你的戰利品！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/startboss/intro/default/default/0",
+  "value" : "這比去年的獵物大得多。終於！一個合適的挑戰！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/startboss/start/default/default/0",
+  "value" : "這會很有趣的"
+} ]

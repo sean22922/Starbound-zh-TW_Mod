@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艾瑟拉·諾克斯"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/intro/default/default/0",
+  "value" : "哈…你是伊瑟的傀儡嗎？她又要重新召集黨羽了"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/intro/default/default/1",
+  "value" : "你知道這是在奉上自己的人頭吧？"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/intro/default/default/2",
+  "value" : "真是有點可憐你，是那老巫婆在你背後拎著線…"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/start/default/default/0",
+  "value" : "算了；死亡時間到了！"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/death/default/default/0",
+  "value" : "看來我低估你了…"
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/death/default/default/1",
+  "value" : "這次是你贏了-\"苦難的是我\""
+}, {
+  "op" : "replace",
+  "path" : "/baseParameters/dialog/death/default/default/2",
+  "value" : "現在想阻止太遲了，讓伊瑟知道-沒希望了"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當你準備離開時，使用這個傳送器就可以回到飛船上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "離開傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這能讓我輕易地就回到飛船上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有了這個我就可以直接回到飛船上了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個傳送器讓葉族人可以直接回到飛船上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真好。這個傳送器可以讓我回到飛船上"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當我要回飛船時只要使用這個就可以回去了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "迅速快捷的回到飛船的方法"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "迅速快捷的回到飛船的方法，然後就可以開始下一場冒險了！"
+} ]

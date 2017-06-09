@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寄居舌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的身體是一條長長的粉色肌肉，寄居在化石貝殼中"
+} ]

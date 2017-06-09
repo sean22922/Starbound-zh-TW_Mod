@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鵝卵石磚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鵝卵石做的小磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "細心觀察。這些磚塊用鵝卵石做的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "光滑鵝卵石塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "鵝卵石做的磚塊"
+} ]

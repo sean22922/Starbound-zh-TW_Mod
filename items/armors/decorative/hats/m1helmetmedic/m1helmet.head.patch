@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "G.I.標準軍事頭盔。這是用來醫療了。 - 不可用-"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "M1醫療頭盔"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "優雅的裙子。是為新娘準備的，但任何自我感覺良好的人都能穿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "優雅婚禮群"
+} ]

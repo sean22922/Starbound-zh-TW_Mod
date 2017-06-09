@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃亮的黃金製作的美麗的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗的皇家大牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一牀的絲綢與金子。真適合國王"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張用珍貴金屬鍛造的牀。誰會睡在這樣的珍貴金屬上？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想試試這張華麗的大牀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "確認。皇家用的大牀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我懷疑這張牀是皇室用的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "國王需要這麼華麗嗎？這能讓他變成更好的國王嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真是張漂亮的大牀，可能是國王睡的吧！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "格雷伯爵冒著煙的杯子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "茶杯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一杯暖茶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一杯溫暖好聞的飲料"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不確定葉族人喜不喜歡茶。也、也許是因為它是長在葉族人身上的一部分吧"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣喜。茶對味覺感受器來說是一種享受"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒有什麼比得舒舒服服地坐下喝一杯熱茶了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人也用海洋植物釀造類似的飲品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "完全不明白為什麼所有人都如此喜愛茶"
+} ]

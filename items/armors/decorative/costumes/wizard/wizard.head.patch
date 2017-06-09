@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "藍色交通路標。為什麼不放在頭上呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巫師帽子"
+} ]

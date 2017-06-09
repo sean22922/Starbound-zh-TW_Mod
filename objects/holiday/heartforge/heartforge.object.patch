@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "要表達關心時送的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "心型熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "心型熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "分享愛"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個節日熔爐，帶有製作節日裝飾用的工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個節日熔爐能讓我傳播節日的歡樂"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人製作相當紅的蝴蝶結結結"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "節日。我將要製作最美味的軟糖"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我用這個能做出無數節日裝飾！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我用這個能做出最好的節日裝飾！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個熔爐能讓我做節日裝飾！"
+} ]

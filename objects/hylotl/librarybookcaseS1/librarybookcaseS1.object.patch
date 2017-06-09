@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶有華麗雕刻的書架"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小的華麗書架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一些書。我之後來讀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這有好多書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漁夫喜歡看書"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "渴望。真希望我有時間看更多的書"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我看到標題就已經想睡覺了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "充滿知識的書架"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是一堆書"
+} ]

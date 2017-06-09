@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "時髦又結實的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "時髦椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把有型而牢固的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一把好看的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好看的椅子很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。這椅子看起來足夠堅固，可以撐得住電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "精心設計的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把設計簡單的椅子，但是看起來讓人不愉快"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我在想這椅子看起來很牢固，但是坐起來舒服嗎？"
+} ]

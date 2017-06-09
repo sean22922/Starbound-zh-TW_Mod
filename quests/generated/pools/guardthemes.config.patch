@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/0/1/0/name",
+  "value" : "人族"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/1/name",
+  "value" : "葉族"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/2/name",
+  "value" : "猿族"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/3/name",
+  "value" : "電子人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/4/name",
+  "value" : "翼族"
+} ]

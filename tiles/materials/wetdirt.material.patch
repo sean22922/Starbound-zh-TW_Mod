@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "不算淤泥也不算塵土……算是溼土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "溼土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不驚訝。就是土裡面摻了水"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "溼土對於植物簡直就是好東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是一些溼土"
+} ]

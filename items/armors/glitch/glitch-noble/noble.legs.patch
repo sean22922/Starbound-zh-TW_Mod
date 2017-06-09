@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種類型的褲子一般是給機器人貴族穿的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "貴族褲子"
+} ]

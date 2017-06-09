@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗糙未處理的木頭，看起來剛剛被砍好"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "未處理的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無感。未精緻的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不穩定的木頭"
+} ]

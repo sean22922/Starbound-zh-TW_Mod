@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個帽子沒什麼保護作用，但眼鏡看起來挺酷的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無賴角面具"
+} ]

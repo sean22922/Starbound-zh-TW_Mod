@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "喜劇電影海報"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "人氣低落的鮫族電影\"死亡利爪\"的海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是服裝店的廣告嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "總覺得在哪裡見過這個標示……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻瓜魚人電影"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好笑。那電影真的很糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那鮫族電影真的很糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "十分普通，而且一點都不好笑。那電影並不好看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "似乎是某個利爪盜賊的電影，名字我也忘了"
+} ]

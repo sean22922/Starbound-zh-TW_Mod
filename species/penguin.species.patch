@@ -1,0 +1,53 @@
+[ {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/title",
+  "value" : "企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/subTitle",
+  "value" : "你是怎麼看到這裡來的？"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/description",
+  "value" : "不知道要放什麼在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/0",
+  "value" : "圖案"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/1",
+  "value" : "顏色 1"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/2",
+  "value" : "顏色 2"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/3",
+  "value" : "喙顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/4",
+  "value" : "帽子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/5",
+  "value" : "帽子顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/6",
+  "value" : "上衣"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/7",
+  "value" : "上衣色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/8",
+  "value" : "企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/9",
+  "value" : "個性"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由木頭和黃銅製成的奇怪的燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽噴泉燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這盞燈的型狀好獨特"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是一盞有趣的燈！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈好奇怪——難道是某種祕密武器？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。組裝得很奇怪的一個光源設備"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這盞燈是誰造的？很奇怪的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這盞燈的型狀讓它有種獨特的魅力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是我見過最奇怪的一盞燈"
+} ]

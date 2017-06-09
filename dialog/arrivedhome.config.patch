@@ -1,0 +1,293 @@
+[ {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "我回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/0",
+  "value" : "你叫我？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/1",
+  "value" : "有什麼你需要的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/2",
+  "value" : "你想聊聊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/3",
+  "value" : "嘿，還好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/human/default/4",
+  "value" : "你需要什麼嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/0",
+  "value" : "你需要葉族人的幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/1",
+  "value" : "你需要葉族人的幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/2",
+  "value" : "吃驚。葉族人在這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/3",
+  "value" : "你在找葉族人？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/floran/default/4",
+  "value" : "你那時在找葉族人？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/0",
+  "value" : "有趣。需要我幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/1",
+  "value" : "好奇。你有什麼特別理由要拜託我的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/2",
+  "value" : "開心。我來了"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/3",
+  "value" : "友好。你想要聊聊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/glitch/default/4",
+  "value" : "禮貌。這就是所謂的禮儀了？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/0",
+  "value" : "嘿，很高興見到你。你想要聊聊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/1",
+  "value" : "你好。有什麼我可以為您效勞的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/2",
+  "value" : "你需要我的幫助嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/3",
+  "value" : "你好，有什麼我可以幫你的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/avian/default/4",
+  "value" : "你好，過得怎樣啊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/0",
+  "value" : "你叫我所為何事？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/1",
+  "value" : "有什麼需要我幫忙的，朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/2",
+  "value" : "當你需要我的時候我就出現了。有什麼我可以幫忙的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/3",
+  "value" : "這是什麼。我的朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/apex/default/4",
+  "value" : "你想和我聊聊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/0",
+  "value" : "你想討論什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/1",
+  "value" : "你好！你需要討論什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/2",
+  "value" : "很開心被邀請參與談話"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/3",
+  "value" : "你一直想和我聊聊？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/hylotl/default/4",
+  "value" : "你有什麼特別需要我幫助的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/novakid/default/0",
+  "value" : "你有什麼心事？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/novakid/default/1",
+  "value" : "有什麼我可以幫你的？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/novakid/default/2",
+  "value" : "你需要談談？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/novakid/default/3",
+  "value" : "你想要談什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/novakid/default/4",
+  "value" : "你呼叫我，我立馬趕到"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "這是作為你幫忙的酬勞！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/0",
+  "value" : "我以為你可能會喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/1",
+  "value" : "這是你的禮物，謝謝你的幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/2",
+  "value" : "這是給你的，你收不收下自己決定"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/3",
+  "value" : "這是給你的禮物，麻煩你了！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/4",
+  "value" : "嘿！這是你的禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/human/default/5",
+  "value" : "這是為你準備的一份薄禮"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/0",
+  "value" : "這是為你準備的一份禮物！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/1",
+  "value" : "葉族人要給你東西。拿著！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/2",
+  "value" : "葉族人要給你這個，謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/3",
+  "value" : "葉族人有東西要給你！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/floran/default/4",
+  "value" : "葉族人喜歡房子。葉族人要給你禮物表示感謝"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/0",
+  "value" : "樂觀。這進展得不錯！這是給你的禮物，謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/1",
+  "value" : "感激。這是給你的，謝謝你的幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/2",
+  "value" : "尊敬。這是為了傳達我們的謝意的禮物"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/3",
+  "value" : "感激。我給你帶了禮物，感謝你為我們做的一切"
+}, {
+  "op" : "replace",
+  "path" : "/rent/glitch/default/4",
+  "value" : "友好。我希望您能喜歡這個禮物，這是您應得的！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/0",
+  "value" : "一點薄禮，以表感激"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/1",
+  "value" : "這是給您的禮物，麻煩您了"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/2",
+  "value" : "你應該會用得著這個的，拿著吧"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/3",
+  "value" : "我給你帶了一個禮物，希望你能喜歡它"
+}, {
+  "op" : "replace",
+  "path" : "/rent/avian/default/4",
+  "value" : "希望你喜歡這個禮物"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/0",
+  "value" : "請收下這個禮物吧，謝謝你的幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/1",
+  "value" : "這是安全之處。我給你帶了禮物，謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/2",
+  "value" : "這是給你的禮物，以表謝意"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/3",
+  "value" : "這是安全之處。我給你帶了禮物，謝謝你"
+}, {
+  "op" : "replace",
+  "path" : "/rent/apex/default/4",
+  "value" : "你付出了那麼多，這個你拿著"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/0",
+  "value" : "我的家鄉就像我夢想中的一樣平靜安寧。這是給你的一份薄禮，謝謝你的付出"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/1",
+  "value" : "希望這份禮物能讓你舒適點，就同你對我的付出一樣"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/2",
+  "value" : "你為了我付出那麼多，請收下我這份薄禮，以表謝意"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/3",
+  "value" : "請收下這份禮物，以表我的感激"
+}, {
+  "op" : "replace",
+  "path" : "/rent/hylotl/default/4",
+  "value" : "小小薄禮，以表感激"
+}, {
+  "op" : "replace",
+  "path" : "/rent/novakid/default/0",
+  "value" : "這是給您的一份薄禮，謝謝您"
+}, {
+  "op" : "replace",
+  "path" : "/rent/novakid/default/1",
+  "value" : "是您讓這片土地重歸安寧的。我要報答你"
+}, {
+  "op" : "replace",
+  "path" : "/rent/novakid/default/2",
+  "value" : "感謝你。這是你應得的"
+}, {
+  "op" : "replace",
+  "path" : "/rent/novakid/default/3",
+  "value" : "不知道如何感謝您，請您收下這個"
+}, {
+  "op" : "replace",
+  "path" : "/rent/novakid/default/4",
+  "value" : "這是給您的，任你喜好處置"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個舊的鍋爐。水滴到裡面有回聲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台陳舊還生鏽的熱水器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這台鍋爐已經過了它的光輝歲月了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個老舊生鏽的鍋爐水箱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "憂傷狀。這台鍋爐一旦被鏽蝕穿後一定會漏的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鍋爐裡還剩的水聞上去糟透了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "裝滿了散發著惡臭的水的老舊鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一台無用的生鏽鍋爐"
+} ]

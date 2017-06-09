@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個風格病態的櫃子，用於存儲書籍和其他東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "哥特式書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這書架的開放本質意味著它不十分安全"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不能說我喜歡這書架悽慘的模樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "書太無聊了，還浪費樹木嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇狀。我想知道這些佈滿塵埃的書籍裡都寫了些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看上去全都是吸血鬼小說……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "書是知識的源泉！不過可能不是這些吸血鬼書籍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "感覺這東西不是黑色的話更好看"
+} ]

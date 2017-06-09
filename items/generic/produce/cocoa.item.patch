@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "飽滿的豆莢中滿是可可豆，磨碎後可以做巧克力！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "可可豆莢"
+} ]

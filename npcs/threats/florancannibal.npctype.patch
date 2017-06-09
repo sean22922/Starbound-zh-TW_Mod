@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "入侵者！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/0",
+  "value" : "我看見你了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/1",
+  "value" : "葉族飢渴了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/2",
+  "value" : "葉族發現晚餐！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/3",
+  "value" : "葉族看到食物了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/4",
+  "value" : "葉族飢渴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/5",
+  "value" : "你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/6",
+  "value" : "狩獵開始！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/7",
+  "value" : "食物到了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/8",
+  "value" : "葉族知道晚餐該吃誰！"
+} ]

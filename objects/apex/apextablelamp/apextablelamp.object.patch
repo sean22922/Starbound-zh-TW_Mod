@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個奇怪的燈吐出了微弱的綠光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠燈莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些燈都是在我年輕的時候由迷你克諾格上交的。在很多猿人家庭裡都能找到它們"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個裝備冒出了不自然的綠光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "綠光、光讓葉族人想起了村裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。這個物體似乎能獲得附近有機生命形式的生物學信息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個裝置對於一盞燈來說有點太沉了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我相信這個裝置的真正目的不是用來照明的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "怪怪的綠燈"
+} ]

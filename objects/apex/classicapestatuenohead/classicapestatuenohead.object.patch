@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "無頭的猿人雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無頭的老大猿雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我們偉大的無頭領袖啊……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個激發自豪感的雕像？看起來被毀壞了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人還是喜歡無頭猴子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。毀壞這個雕像肯定不容易"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那個雕像好像少點什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "不必要的權利展示。別人也認為這雕像確實被毀壞了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個表情嚴肅的無頭猿人雕像"
+} ]

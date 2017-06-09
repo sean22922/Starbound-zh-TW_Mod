@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個保全控制台。用來保護東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "直立保全控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個保全控制台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個保全控制台……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個保全控制台……但是一個控制台怎麼保護葉族人安全？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。不確定該不該碰這個保全控制台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個保全控制台。可以開啓和關閉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個控制台是保全系統的一部分"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果我按下足夠多的按鈕，應該會有反應"
+} ]

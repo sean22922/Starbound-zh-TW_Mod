@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個充滿卡片的傳統目錄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "卡片目錄"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一直幹這個一定很艱苦"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看來有些人真的很喜歡書啊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好多小紙片啊。都是拿來幹嘛的呢？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歡樂。機器人可不用在小卡片上面弄什麼索引"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我真同情一直幹這個的人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "組織的光榮時刻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這到底是拿來幹嘛的？"
+} ]

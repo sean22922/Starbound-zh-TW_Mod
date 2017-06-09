@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小防水燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個小壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個牆燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "牆燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通：一個燈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一個燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個燈光設備"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "小燈泡"
+} ]

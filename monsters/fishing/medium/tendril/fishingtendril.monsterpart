@@ -1,9 +1,0 @@
-{
-  "name" : "fishingtendril",
-  "category" : "fishingtendril",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingtendril.png"
-  }
-}

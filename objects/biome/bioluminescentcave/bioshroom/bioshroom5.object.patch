@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一叢發光的小蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光的蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "小小的發光蘑菇"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些發光蘑菇太可愛了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "能幫助葉族在黑暗中看到東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意，發光的蘑菇提供了大量自然光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些蘑菇散發出綠色的光線，我大概是不會吃"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些蘑菇模糊的光暈，在地下很清晰"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "你好，發光的小東西"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "紅色的閃光燈……通常不是好事"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警告燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來這是警告或警報信號"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我觸發了警報？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃光燈讓葉族人覺得好玩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。紅色的閃光燈在無數文化中代表警告或報警"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "噢，那是什麼意思？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個警報是個不祥的徵兆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那東西造成了多麼大的災難啊！"
+} ]

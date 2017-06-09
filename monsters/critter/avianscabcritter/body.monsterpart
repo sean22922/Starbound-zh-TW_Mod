@@ -1,9 +1,0 @@
-{
-  "name" : "avianscabcritter",
-  "category" : "avianscabcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

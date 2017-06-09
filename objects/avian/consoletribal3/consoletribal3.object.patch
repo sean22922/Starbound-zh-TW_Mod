@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個基座上刻有火焰圖案的控制面板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻火焰圖案的控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "控制台裡的水晶看起來很重要，但我不太理解裡面的科技"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個控制台能通過晶體振動和其它設備進行交互"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人控制台上有火焰圖案。葉族人討厭火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷住。這個晶體供能的控制台能和其它設備連接"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個控制面板上的標誌我不太懂"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "控制台發出的光很漂亮，也讓人昏昏欲睡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我真的很像按下這些精緻的按鈕"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "gulperhead",
-  "category" : "fish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "gulperhead.png"
-  }
-}

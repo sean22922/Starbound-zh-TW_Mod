@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一根木頭，適合坐下"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "就坐木頭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這條木頭高度剛剛好適合坐下"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一條舊木頭，可以當凳子坐"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "誰需要華而不實的椅子？坐在木頭上就行了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這個簡單的木頭竟然可以當凳子坐"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是根木頭。我很喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我坐過的大部分木頭都會漂浮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很適合圍繞著營火坐下來"
+} ]

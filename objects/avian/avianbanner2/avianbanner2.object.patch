@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "展現出一輪新月的厚旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人月亮旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "色彩明亮的旗幟。我很好奇那個月亮是什麼意思"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對於陸生生物來說，月亮就是自由的象徵"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在月下打獵，月亮是葉族人的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪。月亮對翼族人為什麼重要？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "精心織好的月亮旗幟"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一輪月亮……很多鮫人都沒有看到過這樣的景象"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這面旗上面有個月亮"
+} ]

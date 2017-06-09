@@ -1,9 +1,0 @@
-{
-  "name" : "grey",
-  "category" : "petsnake",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "grey.png"
-  }
-}

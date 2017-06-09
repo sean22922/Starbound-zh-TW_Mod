@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是種執行著叫\"酷酷的法師之島\"的遊戲的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅色之拱機器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "它的名字是帥巫師島。我覺得我要統治這個住著帥巫師的島。有趣……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "在帥巫師島裡，統治一個住著帥巫師島的夢想終於實現了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "帥巫師島裡的巫師用手就能放火！葉族人什麼時候能學會這個呢？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這個遊戲稍不注意就能玩一天。9/10"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "在帥巫師島裡，你負責管理一個住著帥巫師的島。它在地球非常流行"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "帥巫師島是我身為鮫族最喜歡的街機遊戲之一。我要裝飾這個島"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "管理一個島確實很費時間。我已經迫不及待了"
+} ]

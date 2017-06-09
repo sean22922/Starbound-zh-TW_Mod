@@ -1,9 +1,0 @@
-{
-  "name" : "slugbluecritter",
-  "category" : "slugbluecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

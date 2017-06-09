@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這肉塊看上去曾屬於某種生物的胃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "胃粘膜"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "不適。這黏糊糊的東西看著聞著都很糟糕"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "黏糊糊的肉"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些看上去黏糊糊的肉"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "十分活躍的蟲子，常見它啜飲晨露"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "露水蟋蟲"
+} ]

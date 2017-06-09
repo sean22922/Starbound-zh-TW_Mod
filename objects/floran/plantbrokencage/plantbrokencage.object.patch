@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個損壞的牢籠。是什麼東西逃走了？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "損壞的木質牢籠"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可能一個害怕的生物從這裡逃走"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許是一位葉族囚犯逃脫了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個牢籠被破壞了，似乎有東西逃出來了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。一定是很強大的生物被關押在此"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "即使是我都能從這個脆弱的牢籠中逃走"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我希望有人成功從這個損壞的牢籠中逃脫"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個牢籠一定是很不結實"
+} ]

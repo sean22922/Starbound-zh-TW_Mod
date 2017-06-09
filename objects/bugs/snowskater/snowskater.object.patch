@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它的腿部末端覆蓋著雪"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滑雪蟲"
+} ]

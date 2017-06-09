@@ -1,9 +1,0 @@
-{
-  "name" : "bigwormcritter",
-  "category" : "bigwormcritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

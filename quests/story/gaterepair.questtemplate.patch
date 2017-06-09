@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "開始"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我們目前正環繞在一個未知世界的軌道上。飛船已經嚴重受損，所以我們無法逃脫軌道。我建議你^green;使用^orange;傳送器^white;降落在行星表面，然後搜尋補給，並想辦法修理飛船"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "謝謝你加入我。有了你的幫助，我相信我們一定能取得勝利"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/explore",
+  "value" : "探索^orange;下方的星球^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGate",
+  "value" : "找到^orange;古老的能量來源^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/collectRepairItem",
+  "value" : "收集^orange;核融核心碎片^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/repairGate",
+  "value" : "使用^orange;核融核心碎片^reset; 啟動大門"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findEsther",
+  "value" : "找到^orange;神祕信息^reset;的來源"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/outpostBookmark/name",
+  "value" : "前哨站－方舟"
+} ]

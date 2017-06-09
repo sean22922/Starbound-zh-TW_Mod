@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當星球將你拒之門外時，選它就對了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雪之步兵胸襯"
+} ]

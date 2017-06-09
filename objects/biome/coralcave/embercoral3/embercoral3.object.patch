@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一簇脆弱的珊瑚叢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "珊瑚餘燼"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "發出金光的珊瑚"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊可愛閃亮的珊瑚"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "脆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "貪婪，金色珊瑚叢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "發出這樣的光，這珊瑚是不是熱的啊"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "衆多美麗珊瑚中的一種"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "海中的珊瑚中有黃金"
+} ]

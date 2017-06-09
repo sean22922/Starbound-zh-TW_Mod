@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "沒有月亮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月亮鏢"
+} ]

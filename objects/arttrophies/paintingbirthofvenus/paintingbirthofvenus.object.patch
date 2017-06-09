@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅金髮美女站在蛤裡的畫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "美麗的畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷你克諾格不會生產這樣的藝術"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我很奇怪，為什麼這個女人站在一隻蛤殼上？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "人類看起來嚇著了。也許被葉族人追殺了吧"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真奇怪。這蛤殼是浮在海上的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "她看起來有點冷，不是嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我最喜歡裡面的海洋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一幅在貝殼裡的女人的畫"
+} ]

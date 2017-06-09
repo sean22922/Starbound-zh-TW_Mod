@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標誌是從櫃子裡出來的，也許我該放一個進去？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "EASEL櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個掃描器和列印機。很有用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個機器掃描和列印標誌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "列印標誌，掃描標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。列印的標誌出現在這，同樣也能在這掃描"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "掃描機和列印機"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "列印的標誌在這散布，並且也能在這掃描"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡的這個東西是列印標誌的。你也能在這掃描"
+} ]

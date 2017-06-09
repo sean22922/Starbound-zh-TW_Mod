@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/npcname",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "無論何時你需要我我都在這裡，親愛的。尤其是當你想要一顆薄荷硬糖的時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/arkOpened/default/default/0",
+  "value" : "方舟打開了！你知道什麼在等待，親愛的"
+} ]

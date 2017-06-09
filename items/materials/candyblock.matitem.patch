@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "甜滋滋的岩石糖！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "糖塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "開心。這似乎是一大塊硬糖"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "有花紋的糖"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一大塊硬糖"
+} ]

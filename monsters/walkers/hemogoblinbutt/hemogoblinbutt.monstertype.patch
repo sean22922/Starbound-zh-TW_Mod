@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血哥布林後部"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "血哥布林的後半部分，純粹靠本能行動，沒有高級的大腦活動"
+} ]

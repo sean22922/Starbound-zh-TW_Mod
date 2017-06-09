@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "擴展隊伍"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "某人想加入你的冒險"
+}, {
+  "op" : "replace",
+  "path" : "/message",
+  "value" : "<name>想要加入你的隊員當<role>。邀請<name>上船嗎？\n\n^white;職業：^gray; <role>\n^white;等級：^gray; <rank>\n^white;狀態：^gray; <status>"
+}, {
+  "op" : "replace",
+  "path" : "/okCaption",
+  "value" : "僱用"
+}, {
+  "op" : "replace",
+  "path" : "/cancelCaption",
+  "value" : "等一會兒"
+} ]

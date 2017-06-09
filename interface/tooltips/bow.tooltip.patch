@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/maxDamageTitleLabel/value",
+  "value" : "基礎最大傷害："
+}, {
+  "op" : "replace",
+  "path" : "/energyPerShotTitleLabel/value",
+  "value" : "每擊耗能："
+}, {
+  "op" : "replace",
+  "path" : "/descriptionLabel/value",
+  "value" : "從怪物身上收獲肉和其他東西"
+} ]

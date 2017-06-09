@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "制式保護者學院宿舍廁所"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者學院宿舍廁所"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個馬桶有自動沖洗裝置"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "馬桶！坐在這上面我妙計不斷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡和其他學生共用馬桶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真高興。這個馬桶很乾淨！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你聽過那個馬桶的笑話嗎？算了。太污了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我不需要用這個。我應該快點趕去儀式！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "對了。這是個馬桶"
+} ]

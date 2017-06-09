@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些褲子非常耐久，可以穿著它們跨過1000個外星人的世界"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "宇宙者褲子"
+} ]

@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/2/text",
+  "value" : "10%像素丟失"
+} ]

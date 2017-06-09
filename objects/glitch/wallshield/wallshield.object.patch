@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "只是一個禮儀性的盾牌。它在戰鬥中可不大好用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電子人盾牌展示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "迷人的盾牌，不過只能用來裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個色彩繽紛的盾牌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "血紅護盾！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哈哈。純裝飾用的護盾。一下重擊就能打碎它"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "迷人但看起來就很弱的盾牌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "奇淫巧計卻純粹使用裝飾性材料的玩意兒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盾牌很好看，不過肯定沒什麼用"
+} ]

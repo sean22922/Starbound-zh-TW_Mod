@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"事實上它的身上覆蓋著紅色的皮膚，但它還是很髒。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血哥布林小雕像"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張簡陋的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋金屬桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張桌子。似乎還能用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "好看的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張桌子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無動於衷。這是張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張桌子，看起來不錯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張基本的桌子。不是我的品味"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張桌子。適合坐下來寫點東西"
+} ]

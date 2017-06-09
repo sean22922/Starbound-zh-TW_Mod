@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個防毒面具甚至可以過濾微觀毒物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "有毒面具"
+} ]

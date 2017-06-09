@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "空間加熱器散發出一陣低沉而讓人厭煩的嗡嗡聲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "舊暖氣片"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "溫暖舒適的便攜式加熱器"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "用來加熱羽毛再好不過了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "適當的溫度，沒有火。適合葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。一個小暖氣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "小型加熱器，聽起來好有未來感，炫酷！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種很聰明的產熱方式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個加熱器。我從來就不需要"
+} ]

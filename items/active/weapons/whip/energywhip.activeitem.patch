@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由純能量構成的鞭子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "魯坎的能量鞭。試試吧！"
+} ]

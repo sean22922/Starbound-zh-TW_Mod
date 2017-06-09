@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "投擲匕首"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "投擲用匕首，用來打架或者馬戲表演"
+} ]

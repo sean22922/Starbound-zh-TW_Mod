@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熔岩飛鏢"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠狹窄的箭型身體可以輕易穿過熔岩中的裂縫"
+} ]

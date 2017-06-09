@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個蘆葦架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘆葦架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個書架。上面沒什麼東西，只有幾本勵志書"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "是個書架。有本關於在壓力下保持冷靜的書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "關於照顧\"自我\"的書，葉族人已經能照顧好自己了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很好奇。這裡有幾本關於照顧自己的書，其中一本滿是小動物的圖片"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這裡有本書叫做\"危機下的沉思\"，就放在這吧，別人或許需要"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這裡有本冥想書。保持有規律的冥想很有用——可以放空思維"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不愛看書，更喜歡自己體驗"
+} ]

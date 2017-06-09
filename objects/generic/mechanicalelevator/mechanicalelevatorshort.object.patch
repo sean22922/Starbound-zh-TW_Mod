@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這台電梯基於一套精細的發條裝置系統來運轉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "短機械電梯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台可靠的電梯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一台擁有精妙雄榫和齒輪系統的電梯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "雄榫和齒輪帶動整個平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。一台發條電梯，真是可靠的機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台發條電梯，令人滿意的平穩體驗"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "發條電梯是我遇到過的最平穩的電梯了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "雄榫和齒輪讓整個平台動起來"
+} ]

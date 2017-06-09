@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這玩意兒看起來是分析倉庫外環境用的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "環境數據儀表"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "根據這裡的數據，外部環境是宜居的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "並不是十分科學。上面說，環境*我猜很好*"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對這個信息不滿意"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "渣渣：不管數據是什麼，這環境可能只適合電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "外部環境對人類是安全的。太好了，雖然我已經被困在這裡了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "周圍環境的信息。像鮫族一樣，人類對於環境也需要很小心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我肯定這個信息對於那裡的一些人很有用。但對我沒用"
+} ]

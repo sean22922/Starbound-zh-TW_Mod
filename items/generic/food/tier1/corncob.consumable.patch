@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "玉米上金黃色的穗子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "玉米棒子"
+} ]

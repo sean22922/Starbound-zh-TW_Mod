@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種用特殊處理過的皮革製造成的胸甲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "皮製胸甲"
+} ]

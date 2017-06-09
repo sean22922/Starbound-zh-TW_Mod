@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種用犀利眼睛封印起來的箱子。值得探究一下"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼球寶箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "你幾乎不敢往這個箱子裡面看"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許這個眼睛是用來防範盜賊的措施之一。它已經對我起到了作用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族踢了下廚、箱子上的眼睛，然後箱子打開了。偷、偷走了東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這隻眼睛其實是一個非常精美的鎖。謝天謝地，它是壞掉的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來這個眼睛正看著我偷東西。對不住了，老兄"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種非常不完善的防盜措施。只有非常迷信的人才會不敢往裡面看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果戳一戳這隻眼睛，也許會打開"
+} ]

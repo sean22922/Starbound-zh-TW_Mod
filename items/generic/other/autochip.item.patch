@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "載具修理的關鍵零件"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "自動晶片"
+} ]

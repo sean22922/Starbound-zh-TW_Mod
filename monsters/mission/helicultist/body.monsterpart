@@ -1,9 +1,0 @@
-{
-  "name" : "helicultist",
-  "category" : "helicultist",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "helicultist.png"
-  }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/dragDrop/value",
+  "value" : "輸出"
+}, {
+  "op" : "replace",
+  "path" : "/gui/count/value",
+  "value" : "輸入"
+} ]

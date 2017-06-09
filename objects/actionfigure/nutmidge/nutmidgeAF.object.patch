@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"只有堅果蠓蟲王頭上的那叢草不會被蹂躪致死。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "堅果蠓蟲小雕像"
+} ]

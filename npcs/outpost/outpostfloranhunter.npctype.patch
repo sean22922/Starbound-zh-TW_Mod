@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "葉族人只會尊敬強者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "每一個葉族人都該狩獵並追尋榮耀。這就是你來這裡要做的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/floran/0",
+  "value" : "另一名葉族人。你必須明白狩獵的榮耀"
+} ]

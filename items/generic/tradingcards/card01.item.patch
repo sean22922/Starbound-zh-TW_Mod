@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "半乳麵包的增值標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "交易卡 #01"
+} ]

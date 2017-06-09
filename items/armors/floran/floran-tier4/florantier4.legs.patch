@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "皮革製的短裙，裡面用硬鋼絲固定"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獵人上衣"
+} ]

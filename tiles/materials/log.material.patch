@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原木"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "原木。搭建簡單結構的不二之選"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。這些原木緊密的組裝在一塊，並且可以用於建築"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡原木牆"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個小屋的原木鋪設方式很罕見"
+} ]

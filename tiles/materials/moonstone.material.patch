@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "美麗、光滑的月石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這個獨特的石頭來自月球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "平滑的月石"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去就是月石"
+} ]

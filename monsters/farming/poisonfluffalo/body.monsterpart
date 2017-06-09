@@ -1,9 +1,0 @@
-{
-  "name" : "poisonfluffalo",
-  "category" : "poisonfluffalo",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

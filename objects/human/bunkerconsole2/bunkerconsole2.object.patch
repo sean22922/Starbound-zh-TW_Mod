@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "兩套鍵盤一塊螢幕？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型控制台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套指揮控制台。不知道是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來瞎搞它會很危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電腦這麼多按鈕完全沒必要。葉族人很困惑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。控制台的鍵盤越多，就越……哦不。語塞"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，臭名昭著的雙鍵盤設計。它從來沒流行過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "誰他媽會需要兩個鍵盤啊？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這電腦不只有一個鍵盤。我感覺沒必要"
+} ]

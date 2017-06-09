@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "物質機械臂的複製品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者物質機械臂"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個物質操縱器的複製品相當精確"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "物質操縱器。一個強大的工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "物質操縱器。葉族人真想要一個啊！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不錯。物質操縱器是個強大的工具。這只是一個複製品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "很快我會有我自己的物質操縱器了！我很興奮"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "物質操縱器是保護者的標誌性工具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在今天的儀式上，我有了我自己的物質操縱器。這是個大日子"
+} ]

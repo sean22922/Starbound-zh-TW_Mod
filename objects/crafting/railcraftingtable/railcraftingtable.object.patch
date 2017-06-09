@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "生產軌道，軌道載具設備和相關物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;軌道工作台^white;"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "軌道工作台"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "在軌道上飛馳！"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以在這個站點建造櫃檯方便交通！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個工作台可以讓我們建造方便我們旅行的軌道"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個工作台讓我們可以快速旅行"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真開心。這裡建造的軌道可以讓我們更有效率的移動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以在這裡建造軌道！我們就可以更完美的四處旅行了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我在這裡建造的軌道可能很原始，但效率確是毋庸置疑的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在軌道上飛馳——仍然跟以往一樣好使"
+} ]

@@ -1,0 +1,249 @@
+[ {
+  "op" : "replace",
+  "path" : "/accuse/default/default/0",
+  "value" : "嘿，那可不屬於你！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/apex/default/0",
+  "value" : "你要知道，盜竊的後果是很嚴重的"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/apex/default/1",
+  "value" : "這是盜竊，你想找什麼藉口？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/apex/default/2",
+  "value" : "為什麼你要拿不屬於自己的東西？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/apex/default/3",
+  "value" : "停下！為什麼你要偷這些東西！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/apex/default/4",
+  "value" : "這些東西不屬於你！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/avian/default/0",
+  "value" : "嘿，那可不屬於你！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/avian/default/1",
+  "value" : "難道你真的可以享受自己偷來的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/avian/default/2",
+  "value" : "請不要拿走我們的東西"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/avian/default/3",
+  "value" : "那不是你的！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/avian/default/4",
+  "value" : "盜竊是犯罪，會有受害者的，你知道嗎"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/floran/default/0",
+  "value" : "別偷葉族人的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/floran/default/1",
+  "value" : "那不是你的！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/floran/default/2",
+  "value" : "葉族人無法忍耐盜竊！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/floran/default/3",
+  "value" : "葉族人不高興！停止偷竊！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/floran/default/4",
+  "value" : "壞人！盜劫將被懲罰！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/human/default/0",
+  "value" : "喂！那東西不屬於你！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/human/default/1",
+  "value" : "你在幹嘛？你可不能偷東西！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/human/default/2",
+  "value" : "什麼？！你在做什麼？！那是盜竊！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/human/default/3",
+  "value" : "喔啊喔啊，誰允許你拿那個的？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/human/default/4",
+  "value" : "那可不好！停止偷竊！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/hylotl/default/0",
+  "value" : "請立刻停止偷竊行為！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/hylotl/default/1",
+  "value" : "拿走不屬於自己的東西是不對的！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/hylotl/default/2",
+  "value" : "你真可恥，這些東西不是你的！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/hylotl/default/3",
+  "value" : "盜竊是對你人品的控訴"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/hylotl/default/4",
+  "value" : "我懇求你停止，請不要偷我們的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/glitch/default/0",
+  "value" : "驚呆了。你在偷竊！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/glitch/default/1",
+  "value" : "憤怒。你在拿走不屬於自己的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/glitch/default/2",
+  "value" : "失望。我以為你是個好人，不是個小偷"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/glitch/default/3",
+  "value" : "迷惑。那些不是你的東西，為什麼你要拿？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/glitch/default/4",
+  "value" : "震驚。小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/0",
+  "value" : "守衛！這裡有個罪犯！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/avian/default/0",
+  "value" : "守衛！阻止犯罪！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/avian/default/1",
+  "value" : "你是個小偷！守衛，快來！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/avian/default/2",
+  "value" : "守衛會阻止你的偷竊行為！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/avian/default/3",
+  "value" : "守衛！抓住這個小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/avian/default/4",
+  "value" : "停止偷竊！守衛，這裡需要幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/apex/default/0",
+  "value" : "守衛！這裡有個罪犯！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/apex/default/1",
+  "value" : "盜竊！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/apex/default/2",
+  "value" : "我無法忍受壞人！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/apex/default/3",
+  "value" : "有東西被偷了！守衛，快點來！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/apex/default/4",
+  "value" : "你必須停止偷竊！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/human/default/0",
+  "value" : "你必須停止偷竊！守衛，來幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/human/default/1",
+  "value" : "守衛！抓住這個可怕的強盜！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/human/default/2",
+  "value" : "啊！守衛！抓住那個小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/human/default/3",
+  "value" : "哦不，哦不！一個強盜！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/human/default/4",
+  "value" : "守衛，抓住這個罪犯！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/hylotl/default/0",
+  "value" : "守衛！這裡有個罪犯！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/hylotl/default/1",
+  "value" : "小偷！盜賊！犯罪者！守衛，我需要你！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/hylotl/default/2",
+  "value" : "盜竊！守衛，快來幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/hylotl/default/3",
+  "value" : "這無法忍受！守衛，抓住這個小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/hylotl/default/4",
+  "value" : "守衛，抓住這個歹徒！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/floran/default/0",
+  "value" : "守衛！葉族人發現了一個小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/floran/default/1",
+  "value" : "守衛們會抓住你的！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/floran/default/2",
+  "value" : "你是罪犯！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/floran/default/3",
+  "value" : "葉族人不會讓你逃掉的！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/floran/default/4",
+  "value" : "你完蛋了——葉族人要向守衛舉報你！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/glitch/default/0",
+  "value" : "勃然大怒。守衛，捉住這個罪犯！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/glitch/default/1",
+  "value" : "驚慌。守衛，守衛！有小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/glitch/default/2",
+  "value" : "義憤填膺。你怎麼能這麼做？！守衛，來幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/glitch/default/3",
+  "value" : "憤怒。你個混蛋小偷！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/glitch/default/4",
+  "value" : "大怒。停止偷竊！守衛，幫幫我！"
+} ]

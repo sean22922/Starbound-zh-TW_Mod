@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿冒泡的熔化液體的容器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型鋼水包"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個容器中裝滿了冒著泡的炙熱液體"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個大容器中裝著發著光的融液"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "容器中裝著燃燒著的融液"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警覺。這裡的融液如果不妥善保管，可能會造成難以估量的損失"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我也看不出來這是金屬融液還是岩漿。反正看起來挺熱的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個機械容器能夠隔絕裡面液體的熱量"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個大池子，裡面裝著冒泡的融液"
+} ]

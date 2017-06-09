@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/0",
+  "value" : "別擔心。讓我來處理"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/attack/default/default/1",
+  "value" : "這是什麼鬼東西！？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/0",
+  "value" : "冒險者你好，介意我加入嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/join/default/default/1",
+  "value" : "你看起來很很健壯。我們是好基友了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/0",
+  "value" : "這才叫戰鬥嘛！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromCombat/default/default/1",
+  "value" : "呼！你很不錯……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/wait/default/default/0",
+  "value" : "我在這裡等著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/follower/returnFromWait/default/default/0",
+  "value" : "你回來了！"
+} ]

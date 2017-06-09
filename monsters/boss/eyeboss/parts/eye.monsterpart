@@ -1,9 +1,0 @@
-{
-  "name" : "eyebosseye",
-  "category" : "eyeboss",
-  "type" : "eye",
-
-  "frames" : {
-    "eye" : "eye.png"
-  }
-}

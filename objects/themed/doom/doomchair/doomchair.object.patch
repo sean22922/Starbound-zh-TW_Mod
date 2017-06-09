@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒適的厄運椅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "厄運椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張十分舒適的椅子。即使它看起來有些可怕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在上面很舒服，如果你能忽略那些長釘的話"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人坐在椅子上，輕撫尖刺然後思考關於狩獵的嘶……事"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放鬆：對電子人來說這張椅子異常地舒適"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張椅子令人釋然地柔軟。讓我想起家，再加上長釘"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "幾乎比得上鮫人的奢華了，如果它的設計不是如此的話"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這把椅子地獄什麼尖尖的玩意來說應該挺舒服"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有些根莖從天花板那突了出來"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "根莖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "小根尖有小光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "根莖似繁星閃亮裝飾了天花板"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "就算根莖的光…葉族渴望黑暗"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "質疑，這些植物的根莖在上方還是一個分開的器官？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我喜歡發光的小東西，就算是根莖也喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "小小發光的根莖，讓人想起我在深海溝看見的稀有管蟲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "發光的的根莖很純粹"
+} ]

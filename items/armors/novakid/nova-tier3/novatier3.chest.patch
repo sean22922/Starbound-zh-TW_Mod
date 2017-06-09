@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶有髒兮兮的披肩斗篷的黑夾克"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "逃犯胸甲"
+} ]

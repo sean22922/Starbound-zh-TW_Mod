@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "出售人氣飲品的自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裡面是各種飲品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些飲料對我來說太甜了…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭甜味飲料"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吸引：我不介意嘗一嘗這些異國飲品"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "機器在賣軟飲料。我在想礁可樂嚐起來什麼味道？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "個人來說，我偏愛礁可樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一直不太喜歡帶氣的飲料呢"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "自動販賣機"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "好吃的零食"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張大字報，要貼在人人都能看見的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "迷你克諾格報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "報紙就是給那些傳遞它的人讀的，是關於老大猿和迷你克諾格的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這報紙太大了，傳的時候都能讀了。大概這才是重點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想知道得砍多少樹才能讓紙顯示符號"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "膽怯。這報紙上大大的標題和令人驚異的圖像，這是想用它來恐嚇人然後控制人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這報紙不是你想的那樣來提供信息的。它是用來宣揚老大猿和迷你克諾格的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這報紙開始的時候看起來像是散播信息的，但是馬上就會發現它顯然是用來恐嚇人的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "如果這是個賞金海報的話我會更有興趣，但是這不是"
+} ]

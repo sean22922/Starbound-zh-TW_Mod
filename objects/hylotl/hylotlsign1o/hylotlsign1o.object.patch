@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "橙色猿族標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "刻畫著老大猿的橙色霓虹燈標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "甚至深海之下的種族都知道老大猿長什麼樣。太恐怖了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張臉有點像猿族人。奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑：這是給老大猿哥設計的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這上面……是猿族？為什麼會在這裡？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "\"大猩猩喜歡魚\"？翻譯錯了吧？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是猿人嗎？"
+} ]

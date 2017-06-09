@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一條樣式誘人的腰帶，用鎢加以強化"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "麻雀腰帶"
+} ]

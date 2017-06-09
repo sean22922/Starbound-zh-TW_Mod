@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我是來檢查這個地方的。直起腰來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "我是來確認這個地方的安全的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我是來確保這個地方符合標準的。不用在意我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "我原來在軍中服役，現在我是物業主管。但是別以為我變軟弱了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/4",
+  "value" : "我是來做持久檢查的，你最好別讓著的標準下降！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/0",
+  "value" : "我是來檢查這個地方的。直起腰來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/1",
+  "value" : "我是來確保這個地方的安全的。地球上發生了那樣的事，你再小心也不為過"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/2",
+  "value" : "我是來確保這個地方符合標準的。不用在意我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/3",
+  "value" : "我原來在軍中服役，現在我是物業主管。但是別以為我變軟弱了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/4",
+  "value" : "我是來做持久檢查的，你最好別讓著的標準下降！"
+} ]

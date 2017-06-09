@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把木椅子，上面鋪著摩施獸皮坐墊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把椅子真舒服，獸皮坐墊更增添了一些個性"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "獸皮坐墊讓人覺得有些癢癢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "椅子還殘留著一點獵物的味道，好椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這把椅子雖然看似低劣，但獸皮坐墊大大提升了舒適性"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張沙發感覺坐上去會很癢"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我有點不太敢坐在這張椅子上面。獸皮坐墊看起來不太舒服"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "真是把完美的椅子。我隨時都願意在這種椅子上休息"
+} ]

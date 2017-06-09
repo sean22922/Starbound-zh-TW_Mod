@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金屬盒子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬盒子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬盒子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個用金屬做的盒子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬盒子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無感。金屬盒子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個金屬做的大盒子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個金屬盒子，看起來很重"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個普通金屬箱子"
+} ]

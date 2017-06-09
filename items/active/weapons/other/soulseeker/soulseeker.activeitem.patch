@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把蘊含著絕對黑暗力量的劍。曾經為一個強者所擁有"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "靈魂追尋者"
+} ]

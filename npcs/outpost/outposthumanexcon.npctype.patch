@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我過去做了一些不光彩的事，但是這裡的人們對我很寬厚。我虧欠他們很多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我過去做了一些不光彩的事，但是這裡的人們對我很寬厚。我虧欠他們很多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/human/0",
+  "value" : "我很久沒在地球了，但是我還是被新聞所打擊。宇宙太亂了……"
+} ]

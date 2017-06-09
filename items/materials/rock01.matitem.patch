@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗糙未精煉的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粗糙石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "觀察。這些就是常見的粗糙石頭"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "堅硬的粗糙石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "就是一堆石頭"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乏味，循環空氣從風扇葉片間徐徐流出"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "倉庫出風口"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個通風口"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "循環空氣的出風口"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人能感到這裡有微風"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。空氣循環系統沒有完全運轉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒什麼特別的出風口"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有個風扇的出風口"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "是個通風口。但是空氣還是很渾濁"
+} ]

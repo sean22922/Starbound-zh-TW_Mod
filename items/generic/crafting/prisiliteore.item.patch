@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是棱晶碎片！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱晶碎片"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來只是用來輸入數據的，沒什麼有趣的地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型電腦"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台電腦，這個鍵盤對猿人的手指來說太小了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這玩意兒執行什麼呢，我很好奇？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來打字和發呆的電腦"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好聰明！我對這些人類的電腦很有好感"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台電腦。它執行一套需要你不斷輸入密碼的程式"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台人類電腦，技術上來說非常令我著迷"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : " 這是個電腦。不確定是不是有關"
+} ]

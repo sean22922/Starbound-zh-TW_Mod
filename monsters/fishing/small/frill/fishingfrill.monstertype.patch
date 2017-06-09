@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "百褶孔雀魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的巨大尾巴可以製造出有節奏的脈衝來擾亂敵人"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熔岩鰹"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種近乎傳奇的魚，聽說是由熔岩賦予生命。抓捕相當有挑戰性"
+} ]

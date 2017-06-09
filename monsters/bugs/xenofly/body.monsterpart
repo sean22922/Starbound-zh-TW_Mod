@@ -1,9 +1,0 @@
-{
-  "name" : "xenofly",
-  "category" : "xenofly",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "xenofly.png"
-  }
-}

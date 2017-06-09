@@ -1,9 +1,0 @@
-{
-  "name" : "swimmertail",
-  "category" : "fish",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "swimmertail.png"
-  }
-}

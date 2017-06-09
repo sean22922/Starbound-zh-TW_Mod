@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "似乎是翼族的頭骨。完美的帽子！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族頭骨面具"
+} ]

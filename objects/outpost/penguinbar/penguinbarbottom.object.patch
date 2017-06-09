@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個適合企鵝的酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個酒吧肯定一度繁華"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個酒吧也許曾經很好看"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個酒吧使用便宜木材做的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不起眼。這個酒吧是倉促建成的，還很髒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個酒吧和他們一樣廉價，很符合他們的特徵"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個酒吧形狀好糟糕，還能立著真是令人驚訝"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個酒吧沒有停業，還深受歡迎"
+} ]

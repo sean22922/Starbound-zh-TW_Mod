@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "製作它的材料都來自一場狩獵，保護效果不明顯，但是穿著真驕傲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "求生者護胸"
+} ]

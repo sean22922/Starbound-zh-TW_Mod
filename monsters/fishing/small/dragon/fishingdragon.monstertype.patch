@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "炎海龍"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這隻稀有的生物用背上小翅膀般的魚鰭來在岩漿裡悠遊"
+} ]

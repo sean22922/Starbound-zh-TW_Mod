@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊木質屏風，適合遮住換衣服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製梳妝台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來遮擋隱私的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊用來換衣服的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "剝皮的時候葉族人用屏風收集飛濺的血液"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無感。一塊簡單的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "遮擋視線讓人換衣服的屏風"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "簡單的一塊屏風"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來遮掩某種交易的一塊屏風"
+} ]

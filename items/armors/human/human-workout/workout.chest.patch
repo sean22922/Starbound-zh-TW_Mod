@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件輕盈的透氣上衣，非常適合運動時穿。沒有付出就沒有收穫，對吧？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無袖上衣"
+} ]

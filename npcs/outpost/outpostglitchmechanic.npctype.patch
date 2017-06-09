@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "洋洋得意狀。我們機器人慣於修理的機械遠比你在這看見的要複雜得多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "洋洋得意狀。我們機器人慣於修理的機械遠比你在這看見的要複雜得多"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/0",
+  "value" : "友好狀。你修東西怎麼樣？"
+} ]

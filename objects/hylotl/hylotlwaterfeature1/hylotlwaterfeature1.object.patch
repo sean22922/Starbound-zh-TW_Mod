@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個水景很適合放在家裡，花園裡或者是星際道場裡面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統的水景"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個漂亮的小噴泉"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個水景十分平和"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在噴泉裡洗澡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這水景的聲音令人心神寧靜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個庭院水景。酷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "流水的叮咚聲對我來說就像音樂一般"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這噴泉不錯啊"
+} ]

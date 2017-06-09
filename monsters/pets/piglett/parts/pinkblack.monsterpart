@@ -1,9 +1,0 @@
-{
-  "name" : "pinkblack",
-  "category" : "piglett",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pinkblack.png"
-  }
-}

@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "有什麼可以為您效勞的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "夥伴，有空再來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/follow/default/default/0",
+  "value" : "如果你想喝一杯，就跟我來吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "那麼，你想要點什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/0",
+  "value" : "你們都想喝一杯？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/tout/default/default/1",
+  "value" : "你好啊！想來一杯嗎？"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "red",
-  "category" : "petsnake",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "red.png"
-  }
-}

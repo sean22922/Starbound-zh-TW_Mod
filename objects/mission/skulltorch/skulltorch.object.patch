@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "火炬之外都是陰影"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "頭骨火炬站台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個恐怖的火炬像光一樣溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "要我說的話，這火炬很恐怖……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燃燒的臉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不適。我相信這個是個真的頭顱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個頭頂冒火的頭骨！真酷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "誰會用屍體來幹這個？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "你好啊，兄弟"
+} ]

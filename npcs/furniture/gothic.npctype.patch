@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "昏昏欲睡。感覺身體虛弱，疲倦乏力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "鬱悶。宇宙就是一個黑暗織就的巨網"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "好奇。你覺得我戴上面具很奇怪嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "害怕。如果你不懼怕陰影，那麼你就不會知道陰影裡藏著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "擔憂。宇宙中居然存在遠比我更嚇人的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "想太多。如果你覺得我可怕，那你不妨看看黑暗裡還藏著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "低調。不要太引人注目。避開那裡的某些勢力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "擔心。長久以來我注視著黑暗，也疑惑著…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "害怕。如果你注視著深淵，那隻眼睛也會肆無忌憚地注視著你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "悲哀。我們無法真正瞭解黑夜的恐怖，這或許是一件幸事"
+} ]

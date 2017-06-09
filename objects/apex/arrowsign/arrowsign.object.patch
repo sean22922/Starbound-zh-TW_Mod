@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我應該往那條路走"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "箭頭標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我被調整為不相信箭頭標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個箭頭。我很好奇它通向哪裡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "箭頭不能控制葉族人，葉族人想去哪就、就去哪"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可分析。這個標誌指向正確方向的機率是百分之二十五"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果它不能告訴我它指向哪裡的話那又有什麼意義呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有時候，在往前走之前你得先往後退一步"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "無用的標誌"
+} ]

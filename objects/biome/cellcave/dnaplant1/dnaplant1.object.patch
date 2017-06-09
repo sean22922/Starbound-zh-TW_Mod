@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株捲曲的植物，長得像DNA一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "DNA植物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個植物看起來像蛇一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "長臂穿透土壤"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物按樣式成長"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：這種植物生長時它的DNA全部斷裂"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我好奇這些是不是人為種植的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "植物按DNA決定的樣子成長，自然真是不可思議"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不知道要看什麼？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵花的雕像，對葉族人很重要"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大花雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "莊嚴的花雕像"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這花真大"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "美麗的花雕像"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "幸福。我想要坐在雕像旁邊"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這雕像是罌粟花還是月季花？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用石頭做的大花"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "漂亮的花雕像。做這個難度肯定不小"
+} ]

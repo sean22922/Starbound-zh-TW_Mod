@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個不吉利的警告"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製警示標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌是警告我這附近有危險的。我應該小心點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一個警告標誌。也許附近有危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人無視附近的危險！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "關心。這是給別人的警告標誌，我應該小心點"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個標誌是警示附近的危險的，也許我應該謹慎點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個粗製濫造的標誌是為了警示附近有危險的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個交叉骷髏頭表示肯定是警示這片地區有危險的"
+} ]

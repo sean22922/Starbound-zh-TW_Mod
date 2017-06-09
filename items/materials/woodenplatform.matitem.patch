@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "精細的裝飾，木質平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "華麗的平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "高興。這些華麗的平台精緻的鋪上了沙子"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "用木頭製成的華麗平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些看著華麗的木質平台"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個監獄拷問架。這東西肯定很痛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "拷問架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿拷問囚犯時也使用類似的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個酷刑架。折磨太野蠻了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族折磨囚犯直到他們招供為止"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反對。葉族還在對囚犯使用折磨手段"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我總是幻想長得高一點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我見過太多葉族的殘忍，所以對此不感驚訝"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可不希望自己被綁在這玩意上面"
+} ]

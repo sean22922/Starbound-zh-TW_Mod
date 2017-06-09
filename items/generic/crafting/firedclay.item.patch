@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "烤成磚塊的黏土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "烤黏土"
+} ]

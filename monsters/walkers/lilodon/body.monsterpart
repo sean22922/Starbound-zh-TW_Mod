@@ -1,9 +1,0 @@
-{
-  "name" : "lilodon",
-  "category" : "lilodon",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "lilodon.png"
-  }
-}

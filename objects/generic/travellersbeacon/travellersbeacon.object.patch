@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台業餘旅行者用來記錄地質數據的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "旅行者儀表"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一台能夠記錄地質數據的粗糙設備"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這台設備能夠把庫魯克斯的話傳出去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光和移動的點，無聊！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。這台設備正在測量本地的大氣數據"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "顯然這台粗糙的機器正在記錄這個星球的數據"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台構造簡單的機器。鮫族人向大自然收集這些信息"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些小玩意是做什麼的？"
+} ]

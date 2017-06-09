@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我想知道這東西煮熟一個漢堡要多久"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高壓火焰"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個助推器。已經爆炸失效了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個助推器，裝在一艘船上"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可怕的火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析報告。溫度太高無法測量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個東西要用燃料"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "推進力"
+} ]

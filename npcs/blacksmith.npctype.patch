@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "憂鬱。看來我又搞砸了我的珍貴新武器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/0",
+  "value" : "小氣：你這年輕的小子總是惹麻煩！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/1",
+  "value" : "疲倦。又來了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/2",
+  "value" : "痛苦。你不要嘲諷我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/3",
+  "value" : "陰沉。沒有人告訴過你，不要威脅工匠嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/4",
+  "value" : "憂鬱。看來我又搞砸了我的珍貴新武器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/5",
+  "value" : "放棄。唉，又有人來打擾我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/6",
+  "value" : "急切。這是測試我武器的好時機！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/default/7",
+  "value" : "暴躁。看來我得好好教訓你一頓"
+} ]

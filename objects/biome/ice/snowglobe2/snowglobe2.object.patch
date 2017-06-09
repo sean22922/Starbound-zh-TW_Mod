@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裡有企鵝的雪花玻璃球。那隻鳥看起來很生氣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝雪花玻璃球"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "水晶球裡面有一隻可愛的企鵝"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "哇，企鵝。我喜歡你，因為咱們都不會飛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡把零、零食放進玻璃球裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警報：這個水晶球裡發出了微弱的生命信號"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇，一隻可愛的小企鵝。我好想抱一抱它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一隻小企鵝被裝入一個玻璃牢籠中。真是殘忍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "企鵝的確很萌，但我不會被矇蔽的。它們全都是流氓，無一例外！"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "聞起來香噴噴的黑暗花瓣和花朵"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "花瓣物質塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。這些花瓣有著土地和花朵的味道"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡花類植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡長著一些很不錯的花朵"
+} ]

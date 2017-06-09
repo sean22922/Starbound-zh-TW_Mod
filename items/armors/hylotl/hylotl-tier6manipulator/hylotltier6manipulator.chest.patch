@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來抵禦深海水壓的胸甲，還能防禦敵人的子彈和重擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無光胸甲"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "打破這個晶洞，看看裡面有什麼。地質學真讚！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞"
+} ]

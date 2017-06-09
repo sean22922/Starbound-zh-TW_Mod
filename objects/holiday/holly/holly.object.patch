@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一點也不想讓你感到高興的冬青！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾用的冬青"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "相當綠的冬青。儘管像釘子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個尖尖的植物讓我感覺像節日了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人喜歡針針葉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。節日歡樂之枝"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "歡樂之枝，都讓我想家了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "尖銳的釘子似的植物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "顏色真是不錯，但是為什麼這麼尖？"
+} ]

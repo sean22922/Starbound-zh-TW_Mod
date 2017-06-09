@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "<在一組延遲後發出繼電器信號的電路。>"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造延遲門"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "frontArm",
-  "category" : "penguintrooper",
-  "type" : "frontArm",
-
-  "frames" : {
-    "frontArm" : "frontArm.png"
-  }
-}

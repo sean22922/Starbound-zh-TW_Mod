@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"科學實驗出錯而導致。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伏特貔小雕像"
+} ]

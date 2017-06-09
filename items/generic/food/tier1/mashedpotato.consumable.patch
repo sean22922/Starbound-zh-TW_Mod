@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "搗碎的馬鈴薯被證明口感更佳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "馬鈴薯泥"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種擺有各種各樣鮫人商品的架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人商店架子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很多好吃的好看的食物展示在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "哦，這有些食物看起來相當有趣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "肉……在哪裡……？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：這些食物看起來很是美味"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有些鮫人食物看起來相當不錯的！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "嗯，他們賣了一些我非常喜愛的食物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很多奇怪的食物呢"
+} ]

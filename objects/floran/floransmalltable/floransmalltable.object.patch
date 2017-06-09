@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從一棵小樹打造出來的一張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型的遠古桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用小樹打造的一張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族人似乎用生物和植物的殘留物製作傢俱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用樹製作桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷心。這張桌子的基座是一棵死去的小樹"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子的成分看上去像是一棵小樹苗"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人似乎用一棵樹製造一張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一棵樹被創意性的改造成一張桌子"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"雖然它看起來很友好，但很少見到它和其他同類互動。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Pipkin 小雕像"
+} ]

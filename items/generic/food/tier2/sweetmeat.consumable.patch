@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "葉族中少見的甜系菜品，蜜汁培根"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "甜肉"
+} ]

@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "我在採集。你有事找我？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/1",
+  "value" : "我正在外面拾荒——你需要我？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/2",
+  "value" : "你需要我？我在採集補給"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "我在採集補給時發現了這東西！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/1",
+  "value" : "我在外面狩獵和採集時找到這東西！"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/2",
+  "value" : "這個給你，是我最近出去拾荒時找到的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "我是個獵人兼採集者。我會把找到的東西帶給你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/0",
+  "value" : "我是個獵人兼採集者。我會把找到的東西帶給你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/1",
+  "value" : "迷你克諾格統治下的生活非常拘束，我喜歡更多自由的生活！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/2",
+  "value" : "既然可以自然地生活，又何必跟我的族人一起過著奴隸的生活？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/0",
+  "value" : "我是個獵人兼採集者。我會把找到的東西帶給你！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/1",
+  "value" : "我在計劃下一次採集行動！我會給你找些好東西回來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/2",
+  "value" : "高科技不適合我，獵人兼採集者的生活才是我想要的！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "像一匹狼般逃跑！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/1",
+  "value" : "我會逃出生天的！"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/0",
+  "value" : "糟糕！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/0",
+  "value" : "抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/1",
+  "value" : "為我報仇！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/2",
+  "value" : "為我抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/3",
+  "value" : "別讓它們跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "呼，應該是安全了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/1",
+  "value" : "我成功逃脫了！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/2",
+  "value" : "我安全了嗎？"
+} ]

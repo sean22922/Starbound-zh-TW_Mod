@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "炎霧麟"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "腹內化學反應會產生灼熱的毒氣"
+} ]

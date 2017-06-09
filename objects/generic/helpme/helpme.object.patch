@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幫我署名"
+} ]

@@ -1,0 +1,113 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "<questGiver>的安全保證"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "<questGiver>想要安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人一直覺得，如果鎮上有個新的守衛，大家都會更有安全感"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族人覺得招募新的守衛能讓小鎮受益。這是葉族人的計劃……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;無助。如果這裡有個守衛我會更有安全感。你能幫我招募一名嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;脆弱。這裡的保護不夠，招募一名守衛也許會有用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;如果這裡有人守護的話我會更有安全感。你能幫忙招募一名守衛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我們希望這裡有人守護。我有個計劃……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "最後，請你為了<tag>守衛在新房子裡放^orange;3個<tag>物品^white;和^orange;<guardObject>^white;！另外，別忘了把這個^orange;殖民地房契^white;、^orange;照明和門^white;放進去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "最後一部分會比較麻煩。你需要^green;建造一間房子^white;讓守衛搬進去。^green;把^orange;殖民地房契^white;以及^orange;<guardObject>^white;，還有^orange;3個<tag>主題物品^white;放在房子裡。別忘了^orange;光源和門^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "期待。最後，^green;建造一棟^orange;放入<guardObject>^white;的房子，還有^orange;3件<tag>喜歡的傢俱^white;。再加上這個^orange;殖民地房契^white;、^orange;光源和門^white;就大功告成了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "激動。現在你只需要^green;建造一間房子^white;，把^orange;<guardObject>^white;放在裡面。然後加上^orange;<tag>喜歡的3件傢俱^white;、^orange;殖民地房契^white;和^orange;照明及門^white;，別忘了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "最後，^green;建造一間房子^white;，裡面除了有^orange;<guardObject>^white;和^orange;<tag>喜歡的3件傢俱^white;之外，希望^orange;殖民地房契^white;、^orange;照明和門^white;都一應俱全！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "剩下的就是為了<tag>守衛^green;建造一棟房子^white;，把^orange;殖民地房契^white;、^orange;<guardObject>^white;放在裡面，再加上^orange;<tag>喜歡的3件傢俱^white;、^orange;光源和門^white;就大功告成！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "葉族人從來沒有對你失望過！現在感覺更安全了！謝謝"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "自從有了新的守衛，葉族人覺得整個小鎮都變得輕鬆了。謝謝你的努力！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "高興。得知我們新的守衛上任以後，我的內心很平靜。我不會忘記你所作出的努力"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "自主。我現在充滿信心，因為我們的新守衛就在附近"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "空缺被填補了！沒花多長時間！感謝你保障了我的安全！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "我們有了一名新的守衛！我感覺更安全了。謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "對於提高<questGiver>的安全我幫不上忙。也許<questGiver.pronoun.capitalSubject>還是會過得很好吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我決定不幫忙提高<questGiver>的安全。如果<questGiver>不能保護<questGiver.pronoun.reflexive>，也許<questGiver.pronoun.subject>一開始就不應該搬到這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "和他一起建造守衛的家："
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "一份殖民地房契"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "3個<tag>物品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/3/text",
+  "value" : "1份<guardObject>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/4/text",
+  "value" : "任何光源"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/5/text",
+  "value" : "任何門"
+} ]

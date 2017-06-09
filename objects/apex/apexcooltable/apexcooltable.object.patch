@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那真是一個很酷的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張基礎的實驗桌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個鍊金術師的混合站"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張做實驗的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真諷刺。很有趣的收穫"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像實驗桌"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "實驗使用的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "金屬桌子"
+} ]

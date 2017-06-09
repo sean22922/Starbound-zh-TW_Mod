@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這就是人們常常在聊天中談起的飲料機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水冷卻器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "清涼的水。讓人精神振奮！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以來一杯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大水瓶粘在機器上……太遺憾了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。一個飲水機。裡面有很多冷水"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我太渴了，我可以喝乾一匹馬，如果這匹馬是水做的的話"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一小容器水。看到這樣的供水方式讓我想到了家"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個飲水機。渴的話很有用"
+} ]

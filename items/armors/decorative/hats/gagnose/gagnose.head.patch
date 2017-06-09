@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "滑稽的圓鼻子，本意是為了娛樂，但其實並沒這種效果"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滑稽鼻子"
+} ]

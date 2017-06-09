@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "milk", "count" : 1 }
-  ],
-  "output" : { "item" : "cheese", "count" : 1 },
-  "groups" : [ "craftingfood", "sides" ],
-  "collectables" : { "cooking" : "cheese" }
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這道猿族最愛的菜，成功的祕訣是配方裡有鳳梨！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "香蕉聖代"
+} ]

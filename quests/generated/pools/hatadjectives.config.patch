@@ -1,0 +1,229 @@
+[ {
+  "op" : "replace",
+  "path" : "/0/1/0/0",
+  "value" : "友善"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/1/0",
+  "value" : "酷"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/2/0",
+  "value" : "博學"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/3/0",
+  "value" : "迷人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/4/0",
+  "value" : "身手矯健"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/5/0",
+  "value" : "可愛"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/6/0",
+  "value" : "外向"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/7/0",
+  "value" : "有型"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/8/0",
+  "value" : "明智"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/9/0",
+  "value" : "有冒險精神"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/10/0",
+  "value" : "有冒險精神"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/11/0",
+  "value" : "風趣"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/12/0",
+  "value" : "權威"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/13/0",
+  "value" : "明理"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/14/0",
+  "value" : "有趣"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/15/0",
+  "value" : "胸有成竹"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/16/0",
+  "value" : "清新"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/17/0",
+  "value" : "吸引人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/18/0",
+  "value" : "興奮"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/19/0",
+  "value" : "有趣"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/20/0",
+  "value" : "莫測高深"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/21/0",
+  "value" : "穩重"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/22/0",
+  "value" : "花俏"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/23/0",
+  "value" : "勇敢"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/24/0",
+  "value" : "柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/25/0",
+  "value" : "文雅"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/26/0",
+  "value" : "睿智"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/27/0",
+  "value" : "搶眼"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/28/0",
+  "value" : "激進"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/29/0",
+  "value" : "機警"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/30/0",
+  "value" : "專業"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/31/0",
+  "value" : "專業"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/32/0",
+  "value" : "戲劇化"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/33/0",
+  "value" : "興奮"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/34/0",
+  "value" : "兇猛"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/35/0",
+  "value" : "神秘"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/36/0",
+  "value" : "英勇"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/37/0",
+  "value" : "正義"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/38/0",
+  "value" : "古老"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/39/0",
+  "value" : "英勇"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/40/0",
+  "value" : "兇悍"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/41/0",
+  "value" : "英勇"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/42/0",
+  "value" : "風趣"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/43/0",
+  "value" : "強壯"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/44/0",
+  "value" : "唬人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/45/0",
+  "value" : "詭異"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/46/0",
+  "value" : "詭異"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/47/0",
+  "value" : "嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/48/0",
+  "value" : "惡毒"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/49/0",
+  "value" : "可靠"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/50/0",
+  "value" : "可怕"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/51/0",
+  "value" : "強大"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/52/0",
+  "value" : "聰明"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/53/0",
+  "value" : "有趣"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/54/0",
+  "value" : "有備而來"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/55/0",
+  "value" : "不錯"
+}, {
+  "op" : "replace",
+  "path" : "/0/1/56/0",
+  "value" : "有趣"
+} ]

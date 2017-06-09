@@ -1,8 +1,0 @@
-{
-  "input" : [
-    { "item" : "reed", "count" : 1 }
-  ],
-  "output" : { "item" : "reedblock", "count" : 30 },
-  "duration" : 0.25,
-  "groups"  : [ "craftingfurniture", "materials", "all" ]
-}

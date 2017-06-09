@@ -1,9 +1,0 @@
-{
-  "name" : "fishingmega",
-  "category" : "fishingmega",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingmega.png"
-  }
-}

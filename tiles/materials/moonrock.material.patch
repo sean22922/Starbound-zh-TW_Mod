@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅硬、砂質的月岩"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "月岩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "推斷。這個岩石本質上屬於月球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡月岩"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去十分乾燥覆灰的月岩"
+} ]

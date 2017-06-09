@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個未知世界的地圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀地圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張古老的地圖。我的船掃描後認為它並不完全精準"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張不太準確的舊地圖，並沒有指向任何地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "舊地圖！去尋寶吧！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這張地圖完全不對"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "飛船的偵測器顯示這張地圖完全不對"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人關注海洋的繪製而不是陸地"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張地圖。有希望能找到寶藏！"
+} ]

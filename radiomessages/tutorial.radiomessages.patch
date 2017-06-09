@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/full/text",
+  "value" : "看來你吃飽喝足了！吃飽了身體就會慢慢的恢復和痊癒"
+}, {
+  "op" : "replace",
+  "path" : "/hungry/text",
+  "value" : "你感到的虛弱也許是因為你餓了。你需要吃東西才能維持身體的基本功能"
+}, {
+  "op" : "replace",
+  "path" : "/starving/text",
+  "value" : "你在捱餓！你必須馬上進食才能活下去"
+}, {
+  "op" : "replace",
+  "path" : "/pickuplogblock/text",
+  "value" : "你發現了一些木材。我的數據庫顯示木材是有很多用處的一種材料。我建議你殺害更多的樹木然後瀏覽你的合成菜單"
+}, {
+  "op" : "replace",
+  "path" : "/pickupinventorstable/text",
+  "value" : "你剛合成了一個發明家桌子？我評估你的存活率提升了7.2%"
+}, {
+  "op" : "replace",
+  "path" : "/pickupseed/text",
+  "value" : "看來你發現了一些種子。我建議把它們種植在已耕地，然後澆水直到它們成長為止。你需要的工具可以在覓食桌子找到"
+}, {
+  "op" : "replace",
+  "path" : "/pickupcampfire/text",
+  "value" : "看來你發現了火。我的數據庫顯示你是第7140億個發現火的人。太棒了！你可以用火煮食物！"
+}, {
+  "op" : "replace",
+  "path" : "/pickupflag/text",
+  "value" : "我重新配置了這艘船的傳送陣，現在可以直接傳送到此旗幟所標記的地點。置放旗幟然後跟它互動以建立一個名字"
+}, {
+  "op" : "replace",
+  "path" : "/pickupcoal/text",
+  "value" : "你發現了煤炭！你可以將煤炭轉化成火把以點亮世界。黑暗會大幅提升發生意外的機率。請瀏覽合成菜單"
+}, {
+  "op" : "replace",
+  "path" : "/pickupore/text",
+  "value" : "你發現了一些礦石。礦石可以通過熔爐轉化成金屬條，後者可以用來合成一系列的裝備，大幅提升你的生存機率"
+}, {
+  "op" : "replace",
+  "path" : "/pickupcorefrag/text",
+  "value" : "你發現了一個熔核碎片！這是好東西。我估計你需要至少20個"
+}, {
+  "op" : "replace",
+  "path" : "/pickupplantfibre/text",
+  "value" : "你發現了一些植物纖維。這東西可以通過紡車編織成有用的布料"
+}, {
+  "op" : "replace",
+  "path" : "/pickupdye/text",
+  "value" : "你發現了染料。你可以用它們來染色。右鍵任何衣物或裝甲以染色"
+}, {
+  "op" : "replace",
+  "path" : "/pickupepp/text",
+  "value" : "你獲得了一個環境維生系統（EPP）。這種特製的設備可以讓使用者存活於極度險惡的環境。你也可以使用補充物來強化EPP"
+}, {
+  "op" : "replace",
+  "path" : "/pickupaugment/text",
+  "value" : "你獲得了一個補充物。這些模組可以提供多種好處。右鍵以安裝它們到環境維生系統（EPP）中"
+}, {
+  "op" : "replace",
+  "path" : "/pickupcollar/text",
+  "value" : "你發現了一個頸圈。戴在被馴服的動物身上時，這些頸圈可以提供多種好處。你可以右鍵添加它們到有動物的寶貝球中"
+}, {
+  "op" : "replace",
+  "path" : "/pickupcapturepod/text",
+  "value" : "你獲得了一個寶貝球。生命值很低的動物可以被此設備捕獲。只要對著動物拋擲寶貝球就可以了。被捕獲的動物會被馴服"
+}, {
+  "op" : "replace",
+  "path" : "/pickupbow/text",
+  "value" : "你獲得了一把弓。使用它來征服動物可以大大提升你獲得肉塊和稀有合成材料的機會"
+}, {
+  "op" : "replace",
+  "path" : "/pickupmanipulatormodule/text",
+  "value" : "你獲得了一個操縱器模組。只要數量充足你就可以點擊右手邊的工具欄以使用它們來升級你的物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/naturalcave1/text",
+  "value" : "我檢測到這個礦場中有各種生命跡象。如果你打算進去搜尋熔核碎片，那麼我建議你先裝備充分 "
+}, {
+  "op" : "replace",
+  "path" : "/naturalcave2/text",
+  "value" : "你如果對自己的戰鬥能力不大有信心，那麼可以挖掘到地核中心尋找熔核碎片"
+}, {
+  "op" : "replace",
+  "path" : "/challengedoor/text",
+  "value" : "此門會傳送你到一個挑戰室，你需要試圖通過該房間。我很欣賞你的無畏精神"
+}, {
+  "op" : "replace",
+  "path" : "/fuel/text",
+  "value" : "FTL引擎所使用的爾切斯燃料可以從衛星上採掘。不過自從地球毀滅後，所有掃描到的衛星都顯示了奇怪的、讓人不安的、無法解析的讀數"
+} ]

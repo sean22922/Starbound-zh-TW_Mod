@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台收音機"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者收音機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我的收音機！我喜歡聽當地新聞"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是台收音機"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "用來嘶……收聽新聞和音樂的嘶……收音機盒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立狀。這是部室內收音機"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，我的收音機！這個用來做背景噪音真不錯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台簡單的收音機"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "就是台收音機"
+} ]

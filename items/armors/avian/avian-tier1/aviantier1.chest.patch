@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件有鋼製肩甲的護胸。胸部為紅色"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "新生胸甲"
+} ]

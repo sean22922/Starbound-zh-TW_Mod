@@ -1,9 +1,0 @@
-{
-  "name" : "kluexbossstatuebodylit",
-  "category" : "kluexbossstatue",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodyfullbright" : "kluexbossstatuelit.png"
-  }
-}

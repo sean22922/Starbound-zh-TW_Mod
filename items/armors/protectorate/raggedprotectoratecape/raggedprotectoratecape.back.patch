@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件破碎的用保護地旗幟所製成的斗篷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "撕碎的保護地斗篷"
+} ]

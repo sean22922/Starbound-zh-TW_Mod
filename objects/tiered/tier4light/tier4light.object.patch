@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一盞耀眼的杜拉鋼燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "杜拉鋼燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很棒的光源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈能照亮最黑暗的房間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈對葉族人來說是安——全的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欽佩。一盞強大的燈籠"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞安全好用的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一處有用的光源"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這燈把屋子照得通明"
+} ]

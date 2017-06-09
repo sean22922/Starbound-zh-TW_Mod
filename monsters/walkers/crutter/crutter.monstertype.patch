@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "苦毒兔"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它的毒，只要微量都是致命的"
+} ]

@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個微波爐。餓了的時候可以加熱食物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "  微波爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "  微波爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "  烹調便利"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一種烤爐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來很怪的烹調裝置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡生肉，有時候熟肉也很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "生氣。上面都有層滴濺下來的食物形成的硬殼了，誰幹的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個微波爐。可以幫我烤點馬鈴薯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個奇怪的旋轉烤箱"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個小的旋轉烤箱可以很快做好食物"
+} ]

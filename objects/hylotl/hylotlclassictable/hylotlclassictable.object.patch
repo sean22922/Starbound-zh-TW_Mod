@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "傳統樣式的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古式桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "可以當做研究台用的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來沒用過幾次的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "不帶骨頭的桌子不會讓葉族人分心"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "太過簡單。要塞城堡之中怎能有這種桌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我爺爺家也有這麼一張桌子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "裝飾性與實用性兼具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "奇怪的桌子"
+} ]

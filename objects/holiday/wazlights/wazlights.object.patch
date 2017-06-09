@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "拼成了\"waz\"的小彩燈，不管是什麼意思吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "waz燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我不知道怎麼把這些等弄成……\"waz\"？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "\"waz\"是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Waaazzzz？是啥啊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。什麼是\"waz\"？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Waaaaaz"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "\"waz\"是不是有什麼更深層的含義？"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這道門一點保溫功能都沒有"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古的門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一道薄的木門。在微風中搖晃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一道無用的門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不鎖門。葉族人不會從其他的葉族人那裡偷、偷、偷東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。這扇門完全沒有存在的必要"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不確定這是否是一道起作用的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一道難看的門，沒經過處理的木頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這扇門有什麼用？"
+} ]

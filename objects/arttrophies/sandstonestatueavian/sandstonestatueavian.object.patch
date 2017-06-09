@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座翼族人的雕像。不可能飛走"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳥人沙岩雕塑"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個看起來很好奇的翼族。他看起來有種皇家之氣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這位翼族因為合併領地和鼓勵我們張開翅膀而聞名於世"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "到處都是洞的愚蠢翼族人砂岩像"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "長見識。這裡翼族人描繪的東西很有歷史價值"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個翼族人看起來很酷。我猜沒人敢惹他"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個翼族可笑的翅膀被完好的保存在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像是翼族人的雕像"
+} ]

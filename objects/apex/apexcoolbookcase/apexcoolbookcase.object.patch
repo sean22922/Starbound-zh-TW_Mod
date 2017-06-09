@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這上面應該擺滿科學期刊和實驗報告"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "很酷的書架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個猿人的書櫃，我想知道有沒有東西…"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我巢穴裡的鳥很很少能讀書"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人圍著篝火講故事"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。或許能從猿族那學點什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個書櫃。我的翻譯器不工作了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在神人海地下有很多大型圖書館"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來它包含了有關文學的主要科學"
+} ]

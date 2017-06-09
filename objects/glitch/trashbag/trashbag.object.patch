@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個垃圾袋。這裝了多少垃圾啊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "垃圾袋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一袋垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一袋子垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "垃圾日！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。一袋子垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "又一袋子垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一袋子垃圾被扔在這"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一袋子垃圾，沒用"
+} ]

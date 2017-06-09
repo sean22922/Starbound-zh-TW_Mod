@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/title",
+  "value" : "葉族"
+}, {
+  "op" : "replace",
+  "path" : "/charCreationTooltip/description",
+  "value" : "別被他們偽善的外表所欺騙！整個宇宙都知道葉族是殘暴的肉食種族。他們本身不事生產，喜歡盜取和使用被他們攻擊的種族的科技"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/0",
+  "value" : "膚色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/1",
+  "value" : "葉子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/2",
+  "value" : "襯衫"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/3",
+  "value" : "褲子"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/4",
+  "value" : "葉子顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/5",
+  "value" : "花朵顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/6",
+  "value" : "襯衫顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/7",
+  "value" : "褲子顏色"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/8",
+  "value" : "葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/charGenTextLabels/9",
+  "value" : "性格"
+} ]

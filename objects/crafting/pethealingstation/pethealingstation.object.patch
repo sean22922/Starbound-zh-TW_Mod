@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "寵物治療站用來給捕捉的生物治療"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;寵物治療站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "為了那些可憐的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些機器是用於治療捕獲的寵物的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真有用，我可以用這個治癒任何被我捕獲的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人通過這些機器治癒寵物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "原來如此。這個裝置可以治療任何捕獲的寵物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用這個去治療任何我捕獲的寵物。很棒！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這東西對於保持寵物健康至關重要"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可以用這個去治療任何我捕獲的寵物"
+} ]

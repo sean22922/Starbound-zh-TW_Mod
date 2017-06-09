@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個比騎士頭盔防禦力更強的頭盔，保護純潔的思想"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "聖騎士頭盔"
+} ]

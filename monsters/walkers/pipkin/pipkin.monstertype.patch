@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小瓦罐"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看上去很友好，但從未見過小瓦罐和同類有互動"
+} ]

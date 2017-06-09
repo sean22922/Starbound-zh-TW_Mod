@@ -1,9 +1,0 @@
-{
-  "name" : "cell3critter",
-  "category" : "cell3critter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

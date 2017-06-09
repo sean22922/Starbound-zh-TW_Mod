@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "暫存最多三隻友善的生物，好安全地移動牠們"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生物移置槍"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個工藝嫺熟的翼族人石棺。不知道裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族石棺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一具石棺。不知道什麼人在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "最富有、最受人尊敬的翼族人把自己的屍體保存在這些棺材當中"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面的肉不怎麼新鮮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀。這裡面的翼族人一定很老"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個滿是灰塵的石棺"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人把他們的亡者獻給海洋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡都是屍體"
+} ]

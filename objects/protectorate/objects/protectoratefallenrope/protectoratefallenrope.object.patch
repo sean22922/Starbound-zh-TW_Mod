@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "掉落的緞帶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者破損緞帶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一條絲帶。掉下來了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這條紅絲帶掉下來了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "紅絲帶壞了……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "難過。地上到處都是壞掉的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "絲帶掉下來了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真悲傷啊。這條絲帶一定是在湍流中墜落的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這條繩子已經掉了"
+} ]

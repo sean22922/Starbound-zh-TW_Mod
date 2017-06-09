@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用有機材料製成的全自動突擊步槍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC葉族突擊步槍"
+} ]

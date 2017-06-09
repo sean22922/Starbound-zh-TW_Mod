@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "許多人被這個甜甜圈的外表欺騙了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瓦蓼果醬甜甜圈"
+} ]

@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "USCM到底是什麼？——哦，是合衆星系殖民地陸戰隊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "USCM標記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "宣傳人類軍隊USCM的標記"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個區域顯然有過人類軍隊的存在"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚蠢，顯眼的標誌。葉族人更喜歡低調一點"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣：人類軍隊的戰術包括很大程度上的虛張聲勢"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "合衆星系！殖民地陸戰隊！我們最大！我們最強！而且我們的槍不長眼！哦也……再也別唱第二次了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "人類軍隊顯然希望他們的存在被人知悉"
+} ]

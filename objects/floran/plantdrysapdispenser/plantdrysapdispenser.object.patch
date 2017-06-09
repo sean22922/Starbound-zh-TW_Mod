@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個乾樹液分配者。這是對葉族來說代表生死存亡的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "乾樹液分配者"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我聽說過這種乾樹液的危害"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "葉族人的乾樹液與翼族人用於懲罰的焦油不太一樣"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "乾、乾樹液。綠手指說、說它是出口"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "猶豫：意識到樹液對葉族人有作用，準備臨時毀了它"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是不是跟植物的冰沙機器一樣的東西？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人把這個惡臭的混合灌入他們身體。太骯髒了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種葉族植物裝置"
+} ]

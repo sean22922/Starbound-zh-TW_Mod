@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座絕妙的獨角獸雕像。小心它的角！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "彩虹獨角獸雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻非常巨大的野獸"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一匹健壯的白馬，頭上長有一隻漂亮的珍珠角"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "就連葉族都沒有戳、戳過這種馬"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "讓人吃驚。一個犀牛雕塑。我想看看真的是怎樣的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一隻獨角獸。我一直想養一隻做寵物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種神奇的生物讓我想到了在海洋下面見到的獨角鯨"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "除了它的角，它其它部分看起來像一匹馬"
+} ]

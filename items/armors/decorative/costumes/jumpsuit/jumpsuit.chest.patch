@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "希望有人能記住這頂降落傘"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傘兵夾克"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "支撐建築的大樑，可以抵抗深海壓力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "抗壓支柱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "深海建築所用的支柱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "深海建築用的棟樑支柱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "支撐海底的建築"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊。抗高壓用的建築支柱而已"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "深海建築中常用的支柱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "結構支撐樑是美麗的鮫人建築的主要構成部分"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "深海建築用的支柱"
+} ]

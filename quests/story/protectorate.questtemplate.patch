@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "保護者組織"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "挺過畢業日"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "長年累月的訓練終於獲得了回報——你挺過了畢業日！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/graduate",
+  "value" : "參加你的畢業典禮"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/matterManipulator",
+  "value" : "拿走物質操縱器"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/escape",
+  "value" : "逃離地球"
+} ]

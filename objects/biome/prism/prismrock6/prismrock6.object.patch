@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一枚高折射棱鏡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡水晶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "光線通過這個棱柱體時發生折射"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個水晶將光線折射地很美"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "色彩從這個石頭裡爆發出來，讓葉族人很好奇"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不知所措。這些棱柱體石頭真是迷人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那令人目眩神迷的光線應該和這些石頭有關"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "棱柱體真是大自然的奇蹟"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我很喜歡光污染！"
+} ]

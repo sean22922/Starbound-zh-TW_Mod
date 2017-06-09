@@ -1,0 +1,81 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/0",
+  "value" : "……！"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/end/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/follow/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "……"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "……"
+} ]

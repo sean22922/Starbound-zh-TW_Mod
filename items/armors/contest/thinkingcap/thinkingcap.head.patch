@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你戴得越久，智商就越高！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "智慧斗篷"
+} ]

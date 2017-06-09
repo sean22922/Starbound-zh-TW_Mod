@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棕色泡包魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的胃經常溢出毒液。幾乎快抱不住了"
+} ]

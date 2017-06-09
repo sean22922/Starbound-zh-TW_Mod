@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用這個界面來購買技術控制器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "技術控制器分發器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我可以在這兒買技術控制板"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我可以在這兒買個技術控制板"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個機器賣很有用的技術控制台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。可以從這個機器買技術控制器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個賣技術控制器的技術控制器"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雜貨店。賣技術控制器。很有用的玩意"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這我可以給自己買個技術控制器"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "技術控制器分發器"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;出售技術控制器"
+} ]

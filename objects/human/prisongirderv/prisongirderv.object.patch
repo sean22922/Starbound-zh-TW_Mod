@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鏽蝕的舊鋼樑——肯定不會很安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏽蝕的豎直鋼樑"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "生鏽的鋼樑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一看就不是很安全的鋼樑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大金屬！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心：這個鋼樑很有可能坍塌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "貌似爬上去非常安全"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "生鏽的鋼樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個生鏽的大樑"
+} ]

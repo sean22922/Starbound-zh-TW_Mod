@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用板甲和繫帶兩種方式強化過後，既舒適又新潮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "麻雀胸甲"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "恐懼，守衛！來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/0",
+  "value" : "恐懼，守衛！來這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/1",
+  "value" : "害怕：有強盜！守衛！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/2",
+  "value" : "驚嚇，我還年輕不想死！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/3",
+  "value" : "害怕，守衛！守衛，救我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/4",
+  "value" : "大膽：守衛，把這個流氓砍成碎片！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/5",
+  "value" : "輕蔑，我自己也能搞定你，但還是交給守衛吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/6",
+  "value" : "憤怒，你會後悔闖入這裡，混蛋！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/glitch/7",
+  "value" : "好鬥，你會離開這裡…只剩下屍骨！"
+} ]

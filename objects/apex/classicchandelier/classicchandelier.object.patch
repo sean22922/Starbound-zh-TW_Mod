@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個吊燈是用鍛造的鐵製成的。看上去很貴"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一盞漂亮的經典吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一套非常漂亮的經典吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "就算是葉族人也能看出來階級不同"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "崇敬：這個和電子人的吊燈很相似，但是先進多了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞電吊燈。非常漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "也許其他的比我想像的更優雅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我喜歡這個燈。看著像是掛在沙龍裡那種"
+} ]

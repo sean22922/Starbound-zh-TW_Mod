@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "將水下呼吸能力和菲洛合金的保護能力結合起來，這件夾克在任何地方都可以穿"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "暗礁胸甲"
+} ]

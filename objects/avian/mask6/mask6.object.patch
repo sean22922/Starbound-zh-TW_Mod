@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個面具看起來像是我前妻"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾用的祭司面具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看上去是個翼族人面具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "占星師很喜歡這種面具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人讓他們自己看起來很憤怒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "我保留意見。我覺得這個面具可能是翼族人的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為那是個翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個翼族人面具顯然並不十分準確"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是翼族人的臉嗎？我從沒見過一個翼族人長這樣"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "地牢的門，即使是最強大的囚犯也能關住"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀牢門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇難以置信的堅固的牢房大門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇堅固的大門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "結實的金屬門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "苦惱。機器人將囚犯關在這樣的門裡。通常，犯人都是獲得了自我意識的機器人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "有這樣的門，沒有人能逃脫"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人對待罪犯就像是光榮的客人一樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "適合關押不法分子的門"
+} ]

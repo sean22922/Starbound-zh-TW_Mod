@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "似乎是個鳥巢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "似乎是個鳥巢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "動物的房子！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一個小動物的巢"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個警告標誌，但是警告的是什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "警告標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個簡單的警示標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這標誌試圖告訴我什麼，但是到底是什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃光的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。我無法判斷這個標誌想要警告我什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個標誌，但它是想警告我什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "某種警示標誌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我從沒怎麼關注過標誌，現在更不會了"
+} ]

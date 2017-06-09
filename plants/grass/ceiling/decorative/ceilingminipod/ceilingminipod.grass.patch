@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個類似植物的豆莢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一個類似植物的豆莢"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物豆莢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。一株像豆莢的植物"
+} ]

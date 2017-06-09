@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個金屬大樑，通常用來支撐天花板"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造支撐物"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "結實的頂棚支撐"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可以承受住很重的載荷"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "結實的金屬支撐"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。一根大樑"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一根沉重的大樑"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個結實的金屬支架"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來支撐天花板的樑"
+} ]

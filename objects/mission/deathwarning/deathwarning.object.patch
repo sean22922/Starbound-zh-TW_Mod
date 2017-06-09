@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個意味著死亡危險的古老標誌牌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古老的警告牌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個標誌牌讓我覺得我接下來得小心一點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個危險的標誌。它在警告什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這標誌著樂趣！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這似乎是個警告"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "非常可以！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個頭骨上面沒有三個眼窩。也許鯨族人並不用擔心這種危險"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個標記著什麼東西的頭骨"
+} ]

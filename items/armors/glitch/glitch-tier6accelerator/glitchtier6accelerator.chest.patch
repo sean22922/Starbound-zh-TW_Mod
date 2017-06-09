@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非常堅硬的胸甲，由磨光的日耀石板做成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "軍團士兵胸甲"
+} ]

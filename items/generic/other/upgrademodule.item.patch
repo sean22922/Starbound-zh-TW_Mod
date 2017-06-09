@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些模組可以用於升級飛船和其他有用的設備"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "升級模組"
+} ]

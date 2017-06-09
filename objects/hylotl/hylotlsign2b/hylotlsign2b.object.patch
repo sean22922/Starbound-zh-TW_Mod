@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色霓虹燈標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "上面寫著\"泡泡\"的標牌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "寫著\"泡泡\"的標牌。又怎樣呢"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我一點都不想沿著標誌指示的方向走"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭嗡嗡響的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不以為然。標牌上除了\"泡泡\"什麼都沒寫。根本沒用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我覺得這些標誌更像是裝飾用的。我不知道為什麼這個有什麼可宣傳的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "泡泡：很漂亮的生命之球，可以飛翔到天空之上"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一定是有人特別喜歡泡泡吧"
+} ]

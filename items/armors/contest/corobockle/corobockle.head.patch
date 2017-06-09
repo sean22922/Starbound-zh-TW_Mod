@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個小人，可以讓你的頭一直暖和"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "克羅波克"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "flameroach",
-  "category" : "flameroach",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "flameroach.png"
-  }
-}

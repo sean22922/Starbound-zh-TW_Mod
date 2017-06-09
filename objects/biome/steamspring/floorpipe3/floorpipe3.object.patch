@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "地板上的管子"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從地板上出來的管子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個金屬管很結實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不知道是誰建造的這個金屬管"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的管狀建築"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。真是個好看的金屬管"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些煙霧的味道好奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看上去像雲朵逃出圍困"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個金屬管像煙囪一樣噴煙"
+} ]

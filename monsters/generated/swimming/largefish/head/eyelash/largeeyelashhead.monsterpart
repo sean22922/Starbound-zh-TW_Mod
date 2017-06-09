@@ -1,9 +1,0 @@
-{
-  "name" : "largeeyelashhead",
-  "category" : "largefish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "largeeyelashhead.png"
-  }
-}

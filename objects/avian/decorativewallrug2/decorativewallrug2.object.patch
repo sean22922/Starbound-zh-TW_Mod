@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小型部落掛毯。一看就覺得很軟！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型色彩鮮豔的掛飾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個掛毯。異常的柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人掛毯中使用的織物要經過處理，一直到極度柔軟為止"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "軟得跟花瓣一樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有觸覺。這種織物進行過無數次的軟化處理"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "感覺好像有人很努力地對它進行過軟化一樣"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "舒適，溫暖"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這條掛毯真軟"
+} ]

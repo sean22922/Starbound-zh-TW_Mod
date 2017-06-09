@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "簡單的木竿配上鈦製導線環"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "漁竿"
+}, {
+  "op" : "replace",
+  "path" : "/lureName",
+  "value" : "基礎釣餌"
+}, {
+  "op" : "replace",
+  "path" : "/reelName",
+  "value" : "基礎捲線器"
+} ]

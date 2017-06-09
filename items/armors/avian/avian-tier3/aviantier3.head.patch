@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "普通的翼族人頭盔，裝飾有炫酷的鈦金屬羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鵪鶉頭飾"
+} ]

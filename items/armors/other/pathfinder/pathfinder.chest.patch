@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件裝甲是探索危險環境的偵察兵穿的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "尋路者胸甲"
+} ]

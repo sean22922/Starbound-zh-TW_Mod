@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "把城鎮變紅吧！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅噴漆槍"
+} ]

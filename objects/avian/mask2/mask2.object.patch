@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個傢夥貌似很餓。他的看得我很不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾性骷髏面具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看上去像是個葉族人面具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個面具對於葉族人來說是個警告"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人做的面具讓葉族人看起來很可怕"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個面具應該是葉族人的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為那是個葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個葉族人面具做得並不準確"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這很有可能是葉族人的"
+} ]

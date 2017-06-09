@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "篝火竄出火苗，能供暖。還能用來做菜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;篝火^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "燒的很旺的篝火。我可以它用來做飯了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "營火。可以簡單做點飯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人討厭火焰，但卻喜歡做飯。做飯才有得吃"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "瞭解了。用火烤肉是做飯最基本的形式"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我總是很喜歡看著營火中火花飛舞"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "營火啊。我喜歡簡簡單單用火做一道飯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有了這個可以用來好好烤東西的營火，你還需要什麼？"
+} ]

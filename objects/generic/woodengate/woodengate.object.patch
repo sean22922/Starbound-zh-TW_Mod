@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇粗糙的木質大門。不夠安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質大門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇木質門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇大門。很輕易就翻過去了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "細小的樹枝製作的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。這是一扇門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個大門很適合花園護欄"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇木質門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇交織的木門"
+} ]

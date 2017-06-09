@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "直升怪客"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它們的飛行機制是有史以來最大的謎題"
+} ]

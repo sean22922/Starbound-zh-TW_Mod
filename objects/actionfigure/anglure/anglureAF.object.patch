@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"在夜晚，你只能看見昂格魯爾的光線。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "昂格魯爾小雕像"
+} ]

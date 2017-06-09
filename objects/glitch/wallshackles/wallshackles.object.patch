@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些鐵製鐐銬可以阻止越獄"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牆上的枷鎖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套鐐銬，讓我想家"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一套鐵製束縛器具。占星師用這種東西來束縛他們獻給庫魯克斯神的祭品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在吃掉獵物之前會用鐵鐐銬銬住獵物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不舒服。一幅地牢裡用的鐐銬。它們看著很不舒適，但是很安全"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一套鐐銬。還好沒被進去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個監獄系統看起來很暴力"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我打賭這玩意銬住過不少惡人"
+} ]

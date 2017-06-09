@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它輕盈的身體會隨風而動。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Skimbus 小雕像"
+} ]

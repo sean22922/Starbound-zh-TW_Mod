@@ -1,9 +1,0 @@
-{
-  "name" : "mount",
-  "category" : "glitchknight",
-  "type" : "mount",
-
-  "frames" : {
-    "mount" : "mount.png"
-  }
-}

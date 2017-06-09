@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "啪啪啪，哎呀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特斯拉長槍"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人的陷阱。我最好還是別碰"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我能飛過這些陷阱就好了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡發光的機械"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可怕：看起來那有足夠讓我電路燒燬的強大電流"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦不，看起來很危險"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "海底有差不多的設備用於防禦。鮫族用電流把城市圍起來，以抵禦入侵"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不喜歡被電到。還是離遠點把"
+} ]

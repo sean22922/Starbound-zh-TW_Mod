@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用明亮的純維奧合金打造而成的戰鬥頭盔"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鳳凰頭盔"
+} ]

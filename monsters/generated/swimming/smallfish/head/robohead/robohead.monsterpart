@@ -1,9 +1,0 @@
-{
-  "name" : "robohead",
-  "category" : "fish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "robohead.png"
-  }
-}

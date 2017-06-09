@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "保護腦袋的頭盔，葉族人也是要用腦袋的，只不過他們腦袋裡想的事情和其他人不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "智者帽"
+} ]

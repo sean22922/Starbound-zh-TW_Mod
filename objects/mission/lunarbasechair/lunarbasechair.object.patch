@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒服得難以執行的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地椅子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "真不錯的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "令人放鬆的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "柔軟的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意。舒服的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是柔軟的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這椅子湊合"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是個放鬆的好地方"
+} ]

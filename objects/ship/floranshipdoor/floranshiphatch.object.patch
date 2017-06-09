@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是一個適合太空船的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葉族飛船艙門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我們所有的飛船上都安置了這些艙門"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇太空飛船艙門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太空飛船艙門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真自豪。一扇太空飛船艙門"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "酷斃的艙門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇基本的太空艙門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一扇艙門"
+} ]

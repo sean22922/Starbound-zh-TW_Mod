@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "技術實驗室科學家商店"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "技術實驗室商店"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "艾略特的補給"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;販賣安裝站點"
+} ]

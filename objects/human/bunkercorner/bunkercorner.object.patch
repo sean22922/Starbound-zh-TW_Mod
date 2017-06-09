@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶有警示條紋的支撐樑。小心頭！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一條承重樑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一條金屬承重樑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "承重……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊：支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一條金屬樑"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "金屬支撐樑"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一條承重樑"
+} ]

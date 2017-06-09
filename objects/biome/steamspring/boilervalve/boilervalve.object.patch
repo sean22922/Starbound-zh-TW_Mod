@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黃銅閥門，使用多年後已經生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鍋爐給水閥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個嘰嘰嘎嘎的黃銅閥輪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不知道轉動它會有什麼情況？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想要向敵人投擲輪子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個閥門有很多層漆"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "沒有閥門就沒有蒸汽！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個舊輪子一般用來控制液體流動"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "轉動這個閥門需要有強大的臂力"
+} ]

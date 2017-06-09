@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "陳舊的廢物堆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "廢物堆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "觀察。在這堆東西裡面我看到許多扭曲的殘骸"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "好多廢物"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "陳舊的廢物堆"
+} ]

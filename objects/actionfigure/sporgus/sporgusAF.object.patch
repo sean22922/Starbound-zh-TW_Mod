@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它喜歡溫暖潮溼的氣候，在那裡它生長得更快。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蘑菇怪小雕像"
+} ]

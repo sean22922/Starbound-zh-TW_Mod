@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;便攜像素列印機^white;"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "解鎖隨時製造小型高科技物品的能力"
+}, {
+  "op" : "replace",
+  "path" : "/unlockMessage",
+  "value" : "你現在不需要製作台就可以列印小型高科技物品了"
+} ]

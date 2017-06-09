@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蟹卡諾"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它一直在邊緣，總是走偏鋒，就算再小的交鋒，都會爆發而出"
+} ]

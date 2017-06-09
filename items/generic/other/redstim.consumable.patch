@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿紅色液體的針劑，幫你短暫但強力地恢復！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅色興奮劑"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "某種化石，上面覆蓋著泥土和岩石碎片。如果要將其完好無損的取出，則需要仔細的清理周邊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "化石"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "裹著泥土的化石，需要仔細清理才能安全的取出"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個化石應該挺有趣的，不知能否在不損壞它的前提下把它取出？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "壓在泥土中的化石，這化石以前是什麼東西呢？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣，我想好好看看這個化石完整的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一塊化石！不知我能否把它從土裡取出？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個成為了化石的生物，古老而又精巧，陷在岩石中"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些過去的骨頭，不對，是石頭骨頭！到底叫什麼來著？對，化石！"
+} ]

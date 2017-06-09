@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/trackLabel",
+  "value" : "追蹤任務"
+}, {
+  "op" : "replace",
+  "path" : "/untrackLabel",
+  "value" : "停止追蹤"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "任務日誌"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "^#b9b5b2;繼續追蹤任務^green;[J]"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnToggleTracking/caption",
+  "value" : "點擊追蹤"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/btnAbandon/caption",
+  "value" : "放棄"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblRewards/value",
+  "value" : "獎勵："
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblQuestTitle/value",
+  "value" : "翼族巨魔領主的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/scrollArea/children/verticalLayout/children/mainQuestHeader/value",
+  "value" : "主線任務"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/scrollArea/children/verticalLayout/children/sideQuestHeader/value",
+  "value" : "支線任務"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/filter/buttons/0/text",
+  "value" : "進行中"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/filter/buttons/1/text",
+  "value" : "已完成"
+} ]

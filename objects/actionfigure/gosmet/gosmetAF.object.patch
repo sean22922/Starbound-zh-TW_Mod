@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"這種生物的身體形態不定，受到威脅時可以變成盔甲。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古思蒙小雕像"
+} ]

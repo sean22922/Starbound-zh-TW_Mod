@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是蒸汽驅動的帽子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "管帽"
+} ]

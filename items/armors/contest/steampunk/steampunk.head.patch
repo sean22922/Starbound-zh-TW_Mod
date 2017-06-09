@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一頂華麗的頭盔，不光可以保護你的頭，還能照亮前路。要什麼自行車"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽朋克頭盔"
+} ]

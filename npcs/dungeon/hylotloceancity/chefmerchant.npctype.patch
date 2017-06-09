@@ -1,0 +1,237 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "  廚師"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "  出售美味食物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "餓了？我這裡有很多新鮮產品！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/0",
+  "value" : "想要食物，來這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/1",
+  "value" : "我的供給來源很安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/2",
+  "value" : "我的東西很美味，你再找不到更好的了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/3",
+  "value" : "希望你喜歡香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/apex/default/4",
+  "value" : "希望你餓了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/0",
+  "value" : "你一定會喜歡我的食物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/1",
+  "value" : "要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/2",
+  "value" : "請試試我的產品，你會喜歡的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/3",
+  "value" : "可以試一試一些上品材料嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/avian/default/4",
+  "value" : "新鮮的產品滿足你所有烹飪需求！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/0",
+  "value" : "葉族販賣食物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/1",
+  "value" : "葉族的食物是最棒的！全買了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/2",
+  "value" : "綠手指說了，葉族是 \"廚房良心\"，也是很好的產品商"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/3",
+  "value" : "你似乎不善打獵，所以葉族提供餐點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/floran/default/4",
+  "value" : "葉族為你服務"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/0",
+  "value" : "可靠，你所有的烹飪需求，就在這裡滿足"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/1",
+  "value" : "自信，我的產品出類拔萃！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/2",
+  "value" : "友好，如果你餓了，就要找對人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/3",
+  "value" : "親切，最好的產品！需要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/glitch/default/4",
+  "value" : "驕傲，機器人也有好產品"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/human/default/0",
+  "value" : "你想要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/human/default/1",
+  "value" : "需要什麼？看看供貨單"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/human/default/2",
+  "value" : "需要新鮮物資？不用看了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/human/default/3",
+  "value" : "你再找不到比這裡更好的食物了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/human/default/4",
+  "value" : "這東西真是太好吃了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/0",
+  "value" : "我的產品就是美味"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/1",
+  "value" : "我的產品不僅僅是好吃，是佳餚！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/2",
+  "value" : "你找不到比我這裡更美味的食物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/3",
+  "value" : "我賣的所有東西都是靠愛澆灌，還有肥料"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/hylotl/default/4",
+  "value" : "來吧，試一試我美味的食物！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/novakid/default/0",
+  "value" : "你是想填飽肚子？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/novakid/default/1",
+  "value" : "我這的食物是太陽系最棒的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/novakid/default/2",
+  "value" : "我的食物是A級的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/novakid/default/3",
+  "value" : "我的超美味食物能讓你好吃到升天！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "隨時歡迎回來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/apex/default/0",
+  "value" : "餓了就回來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/apex/default/1",
+  "value" : "別見外"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/apex/default/2",
+  "value" : "每天都有新鮮產品！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/0",
+  "value" : "再見！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/1",
+  "value" : "很榮幸，吃得開心！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/avian/default/2",
+  "value" : "你會再來吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/0",
+  "value" : "快點再來吃！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/1",
+  "value" : "葉族下次再見！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/floran/default/2",
+  "value" : "葉族迫不及待想要賣給你更多食物了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/0",
+  "value" : "開心，隨時回來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/1",
+  "value" : "鼓舞：去變餓吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/glitch/default/2",
+  "value" : "滿意，你一定很享受"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/human/default/0",
+  "value" : "好好享用，找不到更好的了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/human/default/1",
+  "value" : "歡迎隨時回來填飽肚子！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/human/default/2",
+  "value" : "很樂意效勞！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/0",
+  "value" : "期待你的再次光臨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/1",
+  "value" : "能看出你是行家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/hylotl/default/2",
+  "value" : "希望你喜歡吃"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/novakid/default/0",
+  "value" : "期待你的再次光臨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/novakid/default/1",
+  "value" : "能看出你是行家"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/novakid/default/2",
+  "value" : "希望你喜歡吃"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "largefrilledkissinghead",
-  "category" : "largefish",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "largefrilledkissinghead.png"
-  }
-}

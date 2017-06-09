@@ -1,0 +1,273 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "流亡者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "犯罪"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/0",
+  "value" : "我需要隱姓埋名，請不要告發我。我可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/1",
+  "value" : "我是個好人，真的！請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/2",
+  "value" : "有人在……找我……只要你讓我躲在你的船上，我就可以為你工作！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/3",
+  "value" : "我不想傷害你，我只是在躲藏。請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/4",
+  "value" : "我需要隱姓埋名，只要你讓我加入你，我可以為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/5",
+  "value" : "請讓我躲在你的船上，作為交換，我會為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/default/default/6",
+  "value" : "我真的需要一個藏身之處。比如說……你的船？我們做個交易吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/0",
+  "value" : "我需要隱姓埋名，請不要告發我。我可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/1",
+  "value" : "我是個好人，真的！請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/2",
+  "value" : "有人在……找我……只要你讓我躲在你的船上，我就可以為你工作！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/3",
+  "value" : "我不想傷害你，我只是在躲藏。請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/4",
+  "value" : "我需要隱姓埋名，只要你讓我加入你，我可以為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/5",
+  "value" : "請讓我躲在你的船上，作為交換，我會為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/avian/default/6",
+  "value" : "我真的需要一個藏身之處。比如說……你的船？我們做個交易吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/0",
+  "value" : "我需要隱姓埋名，請不要告發我。我可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/1",
+  "value" : "我是個好人，真的！請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/2",
+  "value" : "有人在……找我……只要你讓我躲在你的船上，我就可以為你工作！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/3",
+  "value" : "我不想傷害你，我只是在躲藏。請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/4",
+  "value" : "我需要隱姓埋名，只要你讓我加入你，我可以為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/5",
+  "value" : "請讓我躲在你的船上，作為交換，我會為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/apex/default/6",
+  "value" : "我真的需要一個藏身之處。比如說……你的船？我們做個交易吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/0",
+  "value" : "我需要隱姓埋名，請不要告發我。我可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/1",
+  "value" : "我是個好人，真的！請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/2",
+  "value" : "有人在……找我……只要你讓我躲在你的船上，我就可以為你工作！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/3",
+  "value" : "我不想傷害你，我只是在躲藏。請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/4",
+  "value" : "我需要隱姓埋名，只要你讓我加入你，我可以為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/5",
+  "value" : "請讓我躲在你的船上，作為交換，我會為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/hylotl/default/6",
+  "value" : "我真的需要一個藏身之處。比如說……你的船？我們做個交易吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/0",
+  "value" : "葉族人是個好人，真的！請讓我加入你的船隊吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/1",
+  "value" : "你有船嗎？葉族人需要躲避一些人，你能幫助葉族人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/2",
+  "value" : "葉族人需要躲避一些人，請你幫一下葉族人。我可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/3",
+  "value" : "葉族人需要隱姓埋名，請不要告發葉族人。葉族人可以加入你的船隊嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/4",
+  "value" : "請讓葉族人躲在你的船上，作為交換，葉族人會為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/5",
+  "value" : "葉族人真的需要一個藏身之處。比如說……你的船？我們做個交易吧……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/floran/default/6",
+  "value" : "葉族人得藏起來！行行好，別告發葉族人……葉族人會為你效勞的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/0",
+  "value" : "絕望。我得藏起來！行行好，別告發我，要不我也在飛船上工作吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/1",
+  "value" : "絕望。我真的不是壞人！行行好，讓我搭你的飛船混出去吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/2",
+  "value" : "擔憂。有人…在找我…讓我藏在你的飛船上吧，我可以保護你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/3",
+  "value" : "絕望。我不想傷害你，我只是得躲起來！能讓我和你一起混出去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/4",
+  "value" : "絕望。我得躲起來！如果你同意我待在飛船上，我可以和你並肩作戰"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/5",
+  "value" : "絕望。行行好，讓我藏在你的飛船上吧！我可以保護你！我需要躲過那些人的追捕…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/offer/glitch/default/6",
+  "value" : "絕望。我真得躲起來！你有飛船嗎？我可以保護你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
+  "value" : "謝謝你提供的藏身之所！如果你在旅行中需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/1",
+  "value" : "我可以藏在這裡。真是萬分感謝。無論何時你需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/2",
+  "value" : "我保證我沒有那麼壞……這艘飛船用來藏身是再好不過了。如果你在旅行中需要幫忙，過來找我就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/3",
+  "value" : "在高溫降下去之前我可以一直藏在這裡！你是我的大恩人，無論何時你需要我幫忙或者戰鬥，打聲招呼就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/0",
+  "value" : "謝謝你提供的藏身之所！如果你在旅行中需要幫忙，我保證隨叫隨到"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/1",
+  "value" : "我可以藏在這裡。無論何時你需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/2",
+  "value" : "我真沒有那麼壞。這艘飛船用來藏身是再好不過了。如果你需要幫忙，可以過來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/apex/default/3",
+  "value" : "在高溫降下去之前我可以一直藏在這裡。你是我的大恩人，無論何時你需要戰力支援，可以過來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/0",
+  "value" : "謝謝你提供的藏身之所！如果你在旅行中需要幫忙，可以過來找我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/1",
+  "value" : "我可以藏在這裡。非常感謝！無論何時你需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/2",
+  "value" : "我保證我沒有那麼壞…這艘飛船用來藏身是再好不過了。如果你在旅行中需要幫忙，可以過來找我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/avian/default/3",
+  "value" : "在高溫降下去之前我可以一直藏在這裡！你是我的大恩人，無論何時你需要我幫忙或者戰鬥，過來找我就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/0",
+  "value" : "謝謝你提供的藏身之所！如果你在旅行中需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/1",
+  "value" : "我可以藏在這裡。真是萬分感謝。無論何時你需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/2",
+  "value" : "我保證我沒有那麼壞……這艘飛船用來藏身是再好不過了。如果你在旅行中需要幫忙，過來找我就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/hylotl/default/3",
+  "value" : "在高溫降下去之前我可以一直藏在這裡！你是我的大恩人，無論何時你需要我幫忙或者戰鬥，打聲招呼就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/0",
+  "value" : "這艘飛船給葉族藏身是再好不過了！葉族隨時為你效勞！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/1",
+  "value" : "葉族感謝你的幫助。葉族隨時可以為你戰鬥！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/2",
+  "value" : "葉族真的沒有那麼壞，真的…這艘飛船是再好不過的藏身之所。無論何時你需要戰力支援，過來找葉族就行！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/floran/default/3",
+  "value" : "葉族可以一直藏在這裡，直到淡出人們視線…謝謝！如果你需要幫忙，可以過來找葉族"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/0",
+  "value" : "感激不盡。謝謝你讓我待在這裡。如果你需要的話，我可以加入你的戰鬥，我不會忘記我們的約定"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/1",
+  "value" : "非常感謝。這艘飛船是很好的藏身之所。如果你需要幫忙，我會馬上過來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/2",
+  "value" : "感激不盡。謝謝你提供的藏身之所！我會待在這裡，如果你需要的話，我可以為你戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/crewmember/roleDescription/glitch/default/3",
+  "value" : "非常感謝。在高溫降下去之前我可以一直藏在這裡！無論何時你需要幫忙，我會馬上過來！"
+} ]

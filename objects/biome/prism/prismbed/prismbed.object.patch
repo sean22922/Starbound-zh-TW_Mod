@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由折射玻璃製成的最低度的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這材料順滑地令人驚訝"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裡面的彩虹光真是美妙"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人搞不懂，光是被困在裡面了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚呆了。我的視線被這牀裡舞動著的光線牢牢捕捉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是啊它看起來很酷，但是舒適度如何呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這玻璃真乾淨，看起來像是一潭平靜的湖水"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "喜歡看著雨後晴空"
+} ]

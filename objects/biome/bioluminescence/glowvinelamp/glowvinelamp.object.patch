@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "散發出美麗光芒的葡萄藤"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光藤燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "高高的藤蔓，掛著發光的果實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "藤蔓的鱗莖能照亮任何房間"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡這些藤蔓的自然光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意，藤蔓的鱗莖發出令人愉悅的光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是我見過最美的自然光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "室內有一個自然光源很幸福"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去是不錯的燈"
+} ]

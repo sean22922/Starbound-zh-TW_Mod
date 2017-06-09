@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個汽車形狀的牀，為那些童心未泯的人打造"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "車牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張很舒適的牀，外表就像過去地球的汽車一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張外形和人類汽車十分相似的牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不知道這到底是什麼……牀還是車？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這張牀從外表來看像是出自於機械設計，但分析表明它是木頭做的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張汽車模樣的牀！自從我是小寶寶的時候就很想要了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個孩童樣式裝飾的牀，上面有五彩繽紛的顏色"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "牀上有彩色的圖畫，但燈光和喇叭不能用了"
+} ]

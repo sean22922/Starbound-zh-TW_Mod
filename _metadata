@@ -1,6 +1,7 @@
 {
-  "author" : "Chucklefish",
-  "name" : "base",
-  "priority" : -9999,
-  "friendlyName" : "Base Game Assets"
+  "version" : "1.3",
+  "author" : "SCHsu01",
+  "description" : "Traditional Chinese Language Pack",
+  "name" : "Taiwan_NO.1",
+  "friendlyName" : "正體中文(台灣)語言包"
 }

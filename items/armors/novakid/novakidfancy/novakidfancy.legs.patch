@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "舒適且休閒，用來混入人群再合適不過"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "槍手褲子"
+} ]

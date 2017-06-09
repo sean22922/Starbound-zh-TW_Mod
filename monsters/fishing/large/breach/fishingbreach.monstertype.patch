@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "斑斕角鯨"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以使用堅固頭角來破開冰層的一種強大的魚"
+} ]

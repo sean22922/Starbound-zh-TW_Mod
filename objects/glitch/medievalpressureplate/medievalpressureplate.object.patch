@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個壓力板，請妥善使用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壓板"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "某種壓板"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我站來上面不知道會發生什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "地上有一個按鈕。葉族人要跳上去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。我想有人是出於某種目的才建造了這個吧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一塊巨大的壓板"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這怎麼啟動？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在知道是什麼東西之前，我不會貿然上去的"
+} ]

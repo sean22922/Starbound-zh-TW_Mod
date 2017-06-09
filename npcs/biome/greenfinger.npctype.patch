@@ -1,0 +1,97 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "你好，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "您好，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "歡迎來到我們的部落，我是綠手指<selfname>，讓我們相敬如賓吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/apex/0",
+  "value" : "你好，人類，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/apex/1",
+  "value" : "您好，人類，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/apex/2",
+  "value" : "你好，人類，我是這個部落的綠手指<selfname>，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/avian/0",
+  "value" : "你好，人類，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/avian/1",
+  "value" : "您好，人類，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/avian/2",
+  "value" : "你好，人類，我是這個部落的綠手指<selfname>，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/floran/0",
+  "value" : "葉族同胞！我是這個部落的綠手指，你似乎是從你的部落長途跋涉而來的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/floran/1",
+  "value" : "歡迎！我是綠手指<selfname>，我們的部落歡迎葉族人的光臨，當然是友好的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/floran/2",
+  "value" : "歡迎來到我們的部落，葉族同胞，我是綠手指<selfname>，讓我們相敬如賓吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/glitch/0",
+  "value" : "你好，機器人，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/glitch/1",
+  "value" : "您好，機器人，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/glitch/2",
+  "value" : "歡迎來到我們的部落，機器人，我是綠手指<selfname>，讓我們相敬如賓吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/human/0",
+  "value" : "你好，人類，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/human/1",
+  "value" : "您好，人類，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/human/2",
+  "value" : "你好，人類，我是這個部落的綠手指<selfname>，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/hylotl/0",
+  "value" : "你好，鮫族人，我是這個部落的綠手指，我能理解你們族人對我們的畏懼，但是在這裡請不要擔心"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/hylotl/1",
+  "value" : "您好，鮫族人，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/hylotl/2",
+  "value" : "歡迎來到我們的部落，鮫族人，我是綠手指<selfname>，讓我們相敬如賓吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/novakid/0",
+  "value" : "你好，我是這個部落的綠手指，請原諒我的族人的失禮，他們只是太激動了，這就是葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/novakid/1",
+  "value" : "您好，我是綠手指<selfname>。我的職責是引導這個部落的葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/novakid/2",
+  "value" : "歡迎來到我們的部落，我是綠手指<selfname>，讓我們相敬如賓吧"
+} ]

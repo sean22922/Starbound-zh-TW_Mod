@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個美麗的花牀。小心蜜蜂！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "花牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個整齊的花牀。猿人為數不多的休閒之一"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "甜味有點太大了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人曾經藏在花叢中，然後跳出來嚇人！被嚇的人很不爽"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "仰慕。一個做工很好的花牀"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個花牀。最好讓專業花匠來處理"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "幼稚的花卉裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個花牀。數量達到最大"
+} ]

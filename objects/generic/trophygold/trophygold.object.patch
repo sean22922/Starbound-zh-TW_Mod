@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牌子上寫著\"獎勵給能夠撐過戰鬥的火焰並且不被燒盡的人。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冠軍的獎品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個閃亮的獎品是金子做的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣喜。這個獎品的尺寸和製作工藝讓人印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很不錯的獎品。可不是能夠隨便獲得的"
+} ]

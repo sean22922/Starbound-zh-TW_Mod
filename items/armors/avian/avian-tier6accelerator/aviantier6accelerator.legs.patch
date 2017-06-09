@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種經過簡單裁剪的裹腿是用純日光礦編織而成，十分牢固"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金剛鸚鵡脛甲"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶有彈簧花閂的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "春之箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個美麗的箱子，裡面一定藏著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個美麗的花朵箱子！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族最喜歡的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "譏諷。這個箱子看起來好清純。太過清純"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個花朵箱子，好可愛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個普普通通的箱子，點綴了大自然的美麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個帶有花朵的箱子。很香"
+} ]

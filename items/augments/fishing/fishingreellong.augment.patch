@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "擁有大型線輪，適合放長線釣大魚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長線捲線器"
+}, {
+  "op" : "replace",
+  "path" : "/reelName",
+  "value" : "長線捲線器"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把用細木頭和銅管製成的椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蒸汽噴泉椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張椅子似乎是由管子打造的。好生奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張椅子有股新砍伐木材的味道。好親切"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為什麼這張椅子會發出嘻嘻聲？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。為什麼要用管子製造椅子？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果能無視這些管子的存在，那麼這不失為一張好椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張椅子上的管子是有什麼特殊用途的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "有人會認為這張椅子上的管子很不自然，但我卻很喜歡"
+} ]

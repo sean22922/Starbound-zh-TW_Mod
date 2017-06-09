@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個掛滿笨重鐵劍的架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀武器架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "劍的刀片隨時間慢慢變鈍"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對劍來說是很遲鈍的選擇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些劍不鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。這些劍都鈍了。看來已經被遺忘了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "足夠鋒利了，可以切奶酪了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "很鈍的劍。可憐的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "誰都不會感覺到很好"
+} ]

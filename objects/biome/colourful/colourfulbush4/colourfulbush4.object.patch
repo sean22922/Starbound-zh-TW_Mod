@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種鮮豔的灌木叢，具有很高的美學價值"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮮豔的灌木叢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這葉子我不看好"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這灌木很迷人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這、這、這是一株植物還是一個葉族？戳一下它看看是否為葉族"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "鼓舞，好美的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "裝在盆裡會很好看"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然是最純粹的藝術家"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "想來灌木對自己評價一定很高"
+} ]

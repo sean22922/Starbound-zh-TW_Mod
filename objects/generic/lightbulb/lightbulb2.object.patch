@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裸露的燈泡掛在天花板上的一根金屬棒上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個燈泡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "燈！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "好亮！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "同情。我真想給這個燈泡裝個燈罩"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台抑鬱的設備"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一盞未經修飾的燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個孤獨的燈泡"
+} ]

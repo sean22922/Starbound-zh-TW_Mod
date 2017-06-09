@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "如果你戴上這個帽子，你所有的朋友都會認為你是個有意思的傢夥！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "野生真菌帽子"
+} ]

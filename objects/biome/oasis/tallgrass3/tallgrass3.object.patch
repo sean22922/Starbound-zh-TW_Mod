@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一叢茂草。小心裡面的小動物！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長玻璃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "高高的草叢。在清風中沙沙作響"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "又高又柔軟的草"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人藏在草叢裡，然後跳出來嚇獵物一跳！從沒失敗過"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悄悄地。葉族人通常藏身在高高的草叢裡，來狩獵獵物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我只想赤腳跑過這片草地"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "青草在微風中搖曳，還有什麼比這更安詳的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這草高得恐怖，沒時間除草"
+} ]

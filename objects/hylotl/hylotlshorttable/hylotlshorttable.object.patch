@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "膝蓋高的小桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統矮桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "小桌子。貌似不是很堅固"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這桌子真的太矮了，很奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "桌子太脆弱，不能用來剁肉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警戒。這麼矮的桌子感覺很不適應"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這桌子這麼矮，估計連椅子都不需要了。或許他們不用椅子的吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在這樣的桌子上吃飯一定很歡樂"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我見過最矮的桌子"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "綠色霓虹豆莢標誌"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "畫著海礁果的招牌，是當地的美食"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我覺得這個標誌是某種飯店的意思。我要是特別餓的話會想去拜訪一下的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "海礁果。真噁心。還好我自己帶了吃的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想吃魚人，不想吃魚人的海礁果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。竟然有人認為海礁果是美食"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果他們有肉賣，或許我會更開心一些"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人菜餚在其他種族間享有銀河最佳食物的美譽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我也不知道自己到底喜不喜歡海礁果"
+} ]

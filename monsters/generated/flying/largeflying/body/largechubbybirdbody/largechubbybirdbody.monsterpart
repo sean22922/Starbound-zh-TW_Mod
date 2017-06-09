@@ -1,9 +1,0 @@
-{
-  "name" : "largechubbybirdbody",
-  "category" : "largeflying",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "largechubbybirdbody.png"
-  }
-}

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一些氣味糟糕又噁心的肉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "肉塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "噁心。這是用黏黏的肉做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黏肉"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是某種肉"
+} ]

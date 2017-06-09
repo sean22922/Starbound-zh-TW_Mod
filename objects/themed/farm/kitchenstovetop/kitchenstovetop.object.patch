@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶著爐灶的堅固廚房餐櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "廚房灶頭"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 廚房灶頭"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " 撫慰人心的家庭式烹飪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個爐台不太符合標準規格，但是我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個簡單但是工藝精細的灶頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "為小房子量身打造的小爐台嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅狀。鄉下廚房的一片細緻規劃的烹飪區域"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個舒適小屋裡的可愛小灶台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這壺輕哼著安撫的音律，邀請我回家"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "對於一個舒服的家來說相當好的規劃"
+} ]

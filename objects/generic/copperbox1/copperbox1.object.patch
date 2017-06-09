@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個銅製的儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個結實的銅製儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個銅製的儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "金屬造的結實箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "設計很傳統，但這箱子是銅做的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個銅箱子，就算裡面什麼也沒有，這玩意也一定很重"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個由銅所製的結實箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個結實的箱子裡面無論裝什麼都可以"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅非常恢弘的畫，上面有兩個伸出手指的猿人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "恢弘的猿畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "老大猿，猿人的救世主？別逗我笑"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "如果有庫魯克斯在裡面就好點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可以獵殺的猿人！他的腦袋都可以當凳子坐"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這幅畫莫名很有靈性"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這幅畫很冷酷，我都不敢把手指放上去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "猿人對知識的起源有自己的解釋"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一對猿人在這裡做著什麼。我看不懂"
+} ]

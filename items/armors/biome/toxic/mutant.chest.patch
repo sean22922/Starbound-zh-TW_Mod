@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "如果你想模擬自己胸部基因突變的話，可以穿上試試"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "突變胸部"
+} ]

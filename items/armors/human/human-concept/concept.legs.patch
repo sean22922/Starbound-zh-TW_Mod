@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "比一般的短褲長一些"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通短褲"
+} ]

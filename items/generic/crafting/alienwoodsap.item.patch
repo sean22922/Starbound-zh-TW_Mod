@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種樹液來自於外星木，看起來很危險"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外星木樹液"
+} ]

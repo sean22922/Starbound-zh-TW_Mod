@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座翼族人墳墓，上面雕刻有描繪太空的圖案"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "帶雕刻的翼族墳墓"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這座墳墓上的裝飾可能代表翼族人的來世"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "像這樣的墳墓都由死去的翼族人的後裔裝飾的。上面雕刻的圖案描繪著太空的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人肯定不喜歡爛死在這樣一座墳墓裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。這個墳墓由不止一批人裝飾過"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "他們想要給這座墳墓增加點亮光。好像沒什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "好像有人想用雕刻圖案來紀念死者"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是某人的休息區域。看裝飾的樣子，他們一定很受寵"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊動物毛皮，掛在兩顆尖牙上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長長的黑色毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這塊毛皮看上去還不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這塊毛皮拿來做簾子不錯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用殺戮得來的骨頭懸掛毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這些骨頭和毛皮似乎是一個生物上拿出來的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "守獵的目的是為了得到戰勝品。我不能認同"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儘管舊了一些，但是還是能聞到動物的味道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一塊不錯的毛皮"
+} ]

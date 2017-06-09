@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我想要的就是飛船上的生活！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我更喜歡遠離科技的日子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "科技讓你更幸福了嗎？對我而言，沒有科技的日子那才叫自由自在！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "在爐火旁蜷著身子看書…這才叫生活"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "沒有什麼巨型怪獸想要吃我，我才能過得幸福"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "很多人都和我一樣，更想過簡簡單單的日子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "新奇科技什麼的都華而不實。我寧願我的生活平凡無奇"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "我一直想有塊屬於自己的地方，就像這裡！簡直完美"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "人類向來都有自己的家。我也保持了這項傳統"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "新鮮的木製傢俱的氣味…沒有什麼比這更好聞！"
+} ]

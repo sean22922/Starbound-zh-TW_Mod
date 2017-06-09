@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/healthTitleLabel/value",
+  "value" : "護甲值："
+}, {
+  "op" : "replace",
+  "path" : "/cooldownTitleLabel/value",
+  "value" : "冷卻時間："
+} ]

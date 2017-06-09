@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這些柔軟的牀可以堆疊在一起"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地牀鋪"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "基本的雙層牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個雙層牀看上去就是基本的雙層牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人願意睡到雙層牀上面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感情化。和保護者學院的差不多"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "雙層牀。不算寬敞但是卻很舒服"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "睡在這上面讓我想起了保護者學院的日子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "普通的雙層牀"
+} ]

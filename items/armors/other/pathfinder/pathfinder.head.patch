@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "尋路者的頭盔是用來聯絡的，但不巧的是，這件頭盔壞了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "尋路者頭盔"
+} ]

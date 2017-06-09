@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個通用的電腦組件。可用作打造材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "記憶體"
+} ]

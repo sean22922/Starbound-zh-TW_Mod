@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "家庭事務。為了手藝出售精煉礦石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ursa 礦工"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "那是隻熊再賣礦石嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這家商店似乎提供用來挖掘至關重要材料的替代工具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想和毛茸茸的商店野獸來一架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇，這家商店會提供開採材料的替代工具嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "熊！熊開的商店！好厲害"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我從沒見過這麼毛髮濃密的店員"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這艘船有著和駕駛他的人一樣多的特點"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/0",
+  "value" : "這段時間生意不太好…"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/1",
+  "value" : "你是來解決我的問題的，對吧？"
+} ]

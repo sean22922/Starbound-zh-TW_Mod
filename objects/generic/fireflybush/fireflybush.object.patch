@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "草叢中貌似生長著很多小蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螢火從草"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "漂亮的螢火蟲在旋轉跳舞"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些小生物讓我有點頭暈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人吃發光飛蟲與水果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真奇妙，這些螢火蟲以一種催眠的模式飛舞"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些螢火蟲會被吸引到這個灌木叢來，一定有什麼原因"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "自然之美真是炫目"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些亮晶晶的蟲子就像點燃的小蠟燭"
+} ]

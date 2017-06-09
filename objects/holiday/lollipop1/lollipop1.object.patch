@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "巨大的漩渦棒棒糖！甜滋滋！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨大的棒棒糖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "異常美味的棒棒糖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "巨大的棒棒糖。很美味"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人吃大糖果！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "著迷。一個大棒棒糖"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是時候進攻糖果了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真是相當甜的棒棒糖。只有這一回，我要放縱自己"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "從沒見過這麼大的"
+} ]

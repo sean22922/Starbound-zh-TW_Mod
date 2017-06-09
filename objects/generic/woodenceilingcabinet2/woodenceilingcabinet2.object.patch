@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個堅固的懸掛櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "單壁掛櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "為房間騰出更多的空間放東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個壁掛櫥櫃，可以把物品存放在高處"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "將牆壁改為儲藏空間。聰明"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。懸掛式儲存空間，實用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個壁櫥。節省空間"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "充分利用空餘的空間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "方便的壁掛式櫥櫃"
+} ]

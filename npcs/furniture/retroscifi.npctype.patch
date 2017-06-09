@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我是太空的開拓者！看我閃亮亮的傢俱就知道了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "太空旅行應該充滿希望。記住這點"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "探索未知的宇宙，對我這樣的開拓者意義非凡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "嘿！裝滿白閃閃傢俱的家才是最好的，你不這樣認為嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "總有一天我會買一艘自己的飛船，開著周遊各個星球"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "我正在為地球尋找合適的替代品。不過我還沒有找到"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "我是太空的開拓者！我探索新奇有趣的世界"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "我喜歡探索太空，非常喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "我只是喜歡把自己看作太空開拓者，並不是說我做了很多探險…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "白閃閃的傢俱：同時集現代和復古於一身"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/0",
+  "value" : "我這樣的盜賊你絕沒見過！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/1",
+  "value" : "以前或許你跟盜賊戰鬥過，但是你絕沒跟我這般厲害的戰鬥過！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/2",
+  "value" : "你離開的時候必是滿身傷痕！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/human/default/3",
+  "value" : "你是來挑戰我的嗎？你知道我是誰嗎？"
+} ]

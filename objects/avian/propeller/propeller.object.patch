@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個製作精美的螺旋槳"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螺旋槳"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個巨大的螺旋槳"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這可能不是翅膀，可能是翼族人飛船的推進器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "旋轉的機器讓飛船飛起來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，這些推進器一定是高速運轉才能讓飛船在空中飛"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "螺旋槳發出很大聲響"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "吵鬧和討厭的東西，不過很實用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是主推進器。這是讓飛船一直運作的"
+} ]

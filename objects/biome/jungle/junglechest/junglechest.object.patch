@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個由葡萄藤製成的箱子，並不是很安全"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葡萄藤箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "箱子本身看起來很有機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這箱子是製造出來的還是自己長出來的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "從土壤裡種出箱子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼：看起來這個植物是出於特殊目的而種植的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是這個箱子生長出來的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看起來葉族人已經學會了治理大自然以生長出所需要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻箱子就好像是從土裡長出來的！"
+} ]

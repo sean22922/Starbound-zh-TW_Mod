@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "便利的烘乾機。請勿動手"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洗手間烘乾機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "烘手機。我在想對濃密的毛有沒有用"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個肯定會弄皺羽毛的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人吹乾手"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "高興。烘手機-有效防止生鏽"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "挺普通的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鯨族人不需要烘乾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來把溼手弄乾的機器"
+} ]

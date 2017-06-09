@@ -1,0 +1,57 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/title",
+  "value" : "無賴商人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "售賣致命的圈套！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/0",
+  "value" : "我有你想要的東西……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/1",
+  "value" : "你想要……保護……你的財產？那就別看了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/start/default/default/2",
+  "value" : "想看看這些有趣的裝飾嗎?"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/0",
+  "value" : "就是這些……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/1",
+  "value" : "歡迎來到敝店……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/welcome/default/default/2",
+  "value" : "就是這了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/0",
+  "value" : "如果你還需要些……保護……的話，歡迎隨時光臨"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/1",
+  "value" : "如果你還想保護更多的區域的話，你知道該找誰……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/merchant/end/default/default/2",
+  "value" : "希望你能喜歡我的……供應"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/0",
+  "value" : "這有些小物件能保證我的……我們就說……安全吧"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/1",
+  "value" : "這有些小物件來表達我的感激……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/end/default/default/2",
+  "value" : "我住過更糟糕的地方。這點東西來表達我的……感激"
+} ]

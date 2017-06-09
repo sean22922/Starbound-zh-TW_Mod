@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "要麼上線要麼離線的標示"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電源標示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "發著紅光的標示"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "簡單的電子設備"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一些標示"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個電力不足的標示有兩種狀態"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "非常通俗的標示"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "發出柔光的標示"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很不錯，這標示直切主題"
+} ]

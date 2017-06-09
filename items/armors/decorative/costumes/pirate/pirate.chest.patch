@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個海盜背心不是防水的。這些海盜出過海嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海盜夾克"
+} ]

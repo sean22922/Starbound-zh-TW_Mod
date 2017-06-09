@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "有三個角鬥士在互相戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "毆打者是角鬥士中體型最大、最強壯的人，但是碩大的體型也削弱了他的速度，可以利用這一點輕鬆逃跑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "神射手會與你保持距離，但如果你夠接近她的話，你可以很輕易地解決她"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "狂戰士的電動劍將會減緩你的移動速度，使你暴露在毆打者的攻擊範圍內。注意與他保持距離"
+} ]

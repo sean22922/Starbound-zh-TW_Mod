@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "像素是宇宙通用貨幣。他們也能用來進行3D列印"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "像素"
+} ]

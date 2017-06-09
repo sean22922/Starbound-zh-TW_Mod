@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專供打發時間"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者遊戲機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "時不時的我會將它放下，和我的室友玩些遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "啊，我的舊遊戲手柄。我一直都專心學習，這個看上去有些蒙塵了……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "射擊遊戲是葉族人的最愛！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。我的遊戲手柄！考試季我總得控制住誘惑才行"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哦天啊……我真希望我現在能玩點遊戲"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我現在不能被遊戲分心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "好好工作，好好玩。這就是我們該做的事"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個聖盃！也許是神聖的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "聖盃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金色杯子。用來喝水不錯"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個杯子的氣場強大"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡用發亮的杯子喝水"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。一種杯子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來是個高級杯子。有什麼特別的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個基礎的功能性杯子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺這個有點特別，但是不知道為什麼？"
+} ]

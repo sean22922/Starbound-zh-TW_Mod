@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "</'OR'/開關。允許你有多個獨立輸入>"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造OR開關"
+} ]

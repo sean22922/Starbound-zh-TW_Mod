@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這地方開店很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "關閉了的比吉的信譽優良武器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這看起來是某種貿易站點"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "某種貿易點。現在關閉了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不太確定這是什麼商店"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。這個貿易點關門了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "似乎是個貿易點，還沒有被佔領"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來販賣貨物或者服務的攤子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一家空的商店真令人難過"
+} ]

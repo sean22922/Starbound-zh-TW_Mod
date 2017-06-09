@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種外形像鮫人的櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人櫃檯"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "鮫人當然會想製造跟他們很像的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些櫃台上被裝飾著和鮫人眼睛很像的寶石"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "魚人做出的傢俱也像魚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣：這件鮫人傢俱看上去就像鮫人一樣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鮫人好像很熱衷於製造和他們自己很像的傢俱嘛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們鮫人對我們的美學極度自豪，因此喜愛創造和我們自己很相似的藝術品"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這傢俱上的難道是一張鮫族人的面孔嗎？還真是不可思議呢"
+} ]

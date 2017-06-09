@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件襯衫讓穿戴者周身圍繞黑暗虛空"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黑暗襯衫"
+} ]

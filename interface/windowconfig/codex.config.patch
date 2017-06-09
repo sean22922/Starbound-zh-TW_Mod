@@ -1,0 +1,29 @@
+[ {
+  "op" : "replace",
+  "path" : "/selectText",
+  "value" : "<species> 的情報"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "文檔室"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "^#b9b5b2;旅途中找到的書^green;[L]"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/pageNum/value",
+  "value" : "0 之 0"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/pageLabel/value",
+  "value" : "頁碼"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/prevButton/caption",
+  "value" : "< 上一頁"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/nextButton/caption",
+  "value" : "下一頁 >"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為前哨站特製的黑色混凝土"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "前哨站混凝土"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "獲知。這種特製的混凝土乾的很快"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡又冷又硬的混凝土"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個混凝土看上去足夠堅硬"
+} ]

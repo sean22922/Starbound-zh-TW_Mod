@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "海盜馬褲，腿上有洞（釘子之類的）"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海盜馬褲"
+} ]

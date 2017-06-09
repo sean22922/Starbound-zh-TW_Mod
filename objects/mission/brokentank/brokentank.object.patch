@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一輛壞了的坦克"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞了的坦克"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一輛壞了的軍用坦克"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "奇怪的車子。看上去似乎壞了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鐵盒子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "警惕。壞了的坦克"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一輛坦克，壞了的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種軍用載具。我不相信還能動起來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一種載具。不過看上去哪也去不了了！"
+} ]

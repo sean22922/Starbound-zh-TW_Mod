@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個用骨頭做成的箱子。希望裡面裝的不是骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "骨頭箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個箱子似乎全是由骨頭製成的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "骨頭製成的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族對這個箱子印象深刻，打破一定很有意思"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "反對，這個箱子是骨頭造的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我可以用它來儲存我所有的五角星珠寶和黑色蠟燭！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "無論什麼死了這個箱子也應該有個更好的下場"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "骨頭箱，可能是用肋骨做的"
+} ]

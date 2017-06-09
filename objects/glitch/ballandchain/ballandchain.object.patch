@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我在想這有多重？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵球和鏈條"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個球和一根鏈子，是對迷你克諾格很好的隱喻"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來是一個防止囚犯逃跑的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用差不多的東西防止食物逃跑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。許多擁有自我意識的機器人都嚐到了鐵球和鏈子的味道"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "鐵球和鏈條。防止犯人逃跑的最原始的辦法"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫人對待俘虜更加仁慈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我最不需要的就是這個"
+} ]

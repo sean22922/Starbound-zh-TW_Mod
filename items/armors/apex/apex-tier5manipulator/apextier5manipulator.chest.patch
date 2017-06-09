@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種材質的多層結構摺疊在一起組成了這個盔甲，讓穿戴者無懈可擊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特工的夾克"
+} ]

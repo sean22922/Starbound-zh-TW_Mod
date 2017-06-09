@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個霓磷鹽頭盔輕盈且耐用，此外，戴上綠帽子也很好看的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先鋒盾頭盔"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "orenibblercritter",
-  "category" : "orenibblercritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

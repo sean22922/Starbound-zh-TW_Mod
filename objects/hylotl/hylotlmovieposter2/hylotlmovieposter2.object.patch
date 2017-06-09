@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "戰士電影海報"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "電影\"火刃戰士\"的帶框海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這看起來像那些\"追求血腥復仇\"的電影之一"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "它看起來像有一個悲傷的結局的那種故事……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看起來像是葉族人喜歡的電影"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇：我想知道十字軍改革了什麼來對抗他火熱的刀刃？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這很容易讓人想起一個古老的武士電影，我曾經看過的……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "雖然\"火刃戰士\"這個名字有些爛大街，但電影其實很好看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像是個獨自與世界為敵的戰士……有空去找這電影看看吧"
+} ]

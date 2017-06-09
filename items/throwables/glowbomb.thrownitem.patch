@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "夜燈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當你繼續光源的時候用這個"
+} ]

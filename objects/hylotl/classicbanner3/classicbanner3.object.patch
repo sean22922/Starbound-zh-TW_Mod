@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最經典的窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典窗簾底"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "昂貴，沉重的窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "觸感柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鮫族人用天鵝絨做窗簾，葉族人用皮"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞。很少有東西和這一樣舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些窗簾應該放在大廈裡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些窗簾幾乎貼在鮫人的皮膚上了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "非常華麗"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我真的非常、非常遲了！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者鐘錶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我真的應該趕快到會議廳去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我真的睡得像根木頭似的。我最好是快點！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "時間緊迫。葉族人應該趕快了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張。我應該快點行動了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇哦，已經這個時間了嗎？我該趕快了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "真不敢相信已經這個時間了！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儀式可不等人。我最好是快點"
+} ]

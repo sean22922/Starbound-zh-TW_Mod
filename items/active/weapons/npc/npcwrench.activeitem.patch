@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以用來發出強有力的一擊，最佳的用途是用來教訓工作不正常的機器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC扳手"
+} ]

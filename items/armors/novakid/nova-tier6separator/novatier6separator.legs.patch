@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牧馬人帽子，為強壯的牧馬人所佩戴"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "牧馬人褲子"
+} ]

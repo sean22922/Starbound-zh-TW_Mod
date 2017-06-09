@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "曾經被用來廣播畫面訊號"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電視站"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我以前知道怎麼用這玩意來廣播畫面直播"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "控制器螢幕上還顯示著文字"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不確定怎麼用這個"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。似乎這個站曾被用來廣播電視直播"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是個電視廣播站。在地球上曾風靡一時"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些面板似乎曾經成功發送了畫面訊號"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這太機器看起來曾經情況更好"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "硬殼"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個尖釘可以穿透所有太空靴"
+} ]

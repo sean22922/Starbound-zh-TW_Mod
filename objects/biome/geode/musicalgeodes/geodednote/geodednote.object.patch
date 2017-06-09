@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個綠色的音樂晶洞中雕刻的音符"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶洞D"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我靠近時發出響聲的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個發光的石頭。會響"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "石頭髮光，還發出響聲。葉族人在聽"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這個地質構造體在發出聲波"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個發出響聲的石頭，好厲害"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個閃光，發出響聲的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "像教堂的鐘一樣響的綠色大石頭。非常令人討厭"
+} ]

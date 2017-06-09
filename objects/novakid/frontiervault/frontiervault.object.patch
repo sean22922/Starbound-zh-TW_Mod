@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個巨大華麗的保險箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境保險庫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個巨大的鐵保險庫"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個宏偉的鐵保險庫，可以用來儲存貴重物品"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想躲在大箱子中"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厲害。連我都沒有信心打破這個堅固的保險庫"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "難道需要開鎖專家才能進入這個保險庫？哦，不對，它一直就打開著的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個保險庫似乎很堅固的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用來存放閃閃發亮的金子的好地方"
+} ]

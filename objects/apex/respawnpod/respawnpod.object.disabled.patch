@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可以生產最新城市機器人的工廠"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "猿族重生艙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這麼沒有效率的設計；只有這麼一條單獨的裝配線"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "溫暖的熱氣流從通風管中跑出去了。溫暖，但是很髒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "有什麼出來了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "敬畏：我的兄弟們就是這樣出生的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "新的機器人連續不斷地從輸送機傳送帶上滾動下來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看上去並非是十全十美的"
+} ]

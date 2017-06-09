@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "別擔心，我的研究是私人的—不是為迷你克諾格"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "我正在進行一些田野調查，這個地方就是理想環境的代表"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "我在進行一些實驗，這正是個理想的地方"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我正在記錄我們所有的社交互動的數據。希望你不介意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "這裡有太多需要我記錄的數據。真是太迷人了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我正在寫一個生物多樣性的研究論文。論文非常重要"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "現在要找一個適合鮫族用的眼鏡真是太困難了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/1",
+  "value" : "希望這眼鏡我能用得合適"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/2",
+  "value" : "我感覺沒有合適的眼鏡的話，做研究真是太傻了。這就是鮫族的生活"
+} ]

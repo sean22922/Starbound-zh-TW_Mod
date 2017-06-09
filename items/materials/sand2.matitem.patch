@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "閃閃發光的上等沙。可能能做成玻璃呢！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙子"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "好奇。這沙地真不錯看上去摸上去一定會很流暢"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "揚塵沙地"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "看上去非常軟的沙地"
+} ]

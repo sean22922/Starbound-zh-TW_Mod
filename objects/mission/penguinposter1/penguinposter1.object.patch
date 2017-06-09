@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我感覺這並不歡迎我……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "僅限企鵝的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我感覺這並不歡迎我……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有些鳥以為自己比別人高一等級！我恨這種態度"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這些個搖來晃去的小鳥可攔不住葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失落。我感覺這不歡迎我"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我感覺這並不歡迎我……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我感覺這並不歡迎我……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "小傢夥，試試看你擋不擋得住我"
+} ]

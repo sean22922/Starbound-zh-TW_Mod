@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "經學家使用的木桌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "抄寫員的辦公桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來做書面工作的桌子。上面都是墨水印"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "學術工作用的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "學者們在這張桌子上寫作"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "快樂。這張桌子很適合給學者用"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "寫字桌。桌面上都是墨水印"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "神人會在這樣的桌子上練習書法"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張古老的寫字桌"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "largegatorchest",
-  "category" : "largequadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "largegatorchest.png"
-  }
-}

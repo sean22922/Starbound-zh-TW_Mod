@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張冰做的牀。夏天，它就會變成一張水牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "猿人在我們睡覺的時候變得很激動：這張牀似乎在等待著一場災難來臨"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不認為這張牀很適合休息"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族舔了一下這張牀。它嘗、嚐起來很冰冷。葉族感到頭疼了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "衝突：這張堅硬的牀很適合電子人，但是將它融化之後呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張牀似乎要拒你於千裡之外。哈哈……哈……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這樣運用水來製作東西真是聰明"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我感覺，我太熱了，不適合這張牀"
+} ]

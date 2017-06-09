@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "高領子可以在你進行下三濫勾當時遮住你的臉"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發條夾克"
+} ]

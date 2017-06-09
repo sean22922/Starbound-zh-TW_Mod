@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿寶藏的木桶！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寶藏木桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個木桶。裡面有寶藏！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個裝滿寶藏的木桶不錯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人喜歡發光的東西！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "哈哈。這些寶藏似乎只是展覽用的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "裝滿寶藏的木桶。幾乎是一桶金子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "和寶藏比起來，容器真是不起眼"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "感謝群星，今天是我的幸運日！"
+} ]

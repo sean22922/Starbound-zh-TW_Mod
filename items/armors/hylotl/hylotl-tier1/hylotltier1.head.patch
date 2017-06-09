@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件鐵盔可讓人不在烈日下中暑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泥潭頭盔"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "能把你的頭皮剝下來的鐵蠍子……一隻蠍子！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鐵蠍子"
+} ]

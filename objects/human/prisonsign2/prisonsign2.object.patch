@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牌子寫著\"食堂\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "食堂標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "食堂：或許裡面有食物"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個指向某種餐廳的標記"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "食堂？葉族人不明白"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "中立。食堂的牌子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "進入一個食堂這個概念讓我有了一種存在感的恐懼。我不知道為什麼，無法解釋"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "為什麼人們用混亂而不是乾淨來標記一個房屋呢？或許我誤解了？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個食堂？我猜犯人也要吃飯"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一束刺眼的光線形成的平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古光線平台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "普通的全息技術平台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來承受不了我的重量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對刺目光線生疑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張。看起來我會從平台中間掉下去"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個平台是由某種力場科技製成"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個能量屏能夠製成其所能承載的重量"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "穩定能源，就像我們星之子"
+} ]

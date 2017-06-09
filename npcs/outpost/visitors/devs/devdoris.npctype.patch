@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "好，我是桃瑞斯，我飛船飛出了懸崖，我來買個新的"
+} ]

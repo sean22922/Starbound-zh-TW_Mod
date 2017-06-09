@@ -1,0 +1,93 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個很好的信息來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "信息亭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果我迷路了，我總是可以向信息亭女士尋求幫助"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "信息亭的女士媽咪，真的超級有用"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "雖然她是個黏糊糊的鮫族人，但信息亭的女士真的很有幫助"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不錯。在信息亭的媽咪真的又可愛又肯幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "信息亭的女士總會給人有用的提示"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "在我還是個困惑的新生時，信息台的媽咪總是無休止地幫我"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "每當我需要幫助的時候，我都會來這裡"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/0",
+  "value" : "歡迎來到地球保護組織！有什麼需要儘管叫我！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/1",
+  "value" : "按 ^#71f2f6;[I]^white; 開啓人物狀態、物品清單"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/2",
+  "value" : "按 ^#71f2f6;[Q]^white; 會讓你丟掉拿著的物品！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/3",
+  "value" : "按 ^#71f2f6;[N]^white; 切換掃描模式並檢查物品"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/4",
+  "value" : "按住 ^#71f2f6;[Ctrl]^white; 移動你的攝影機，再次按下重置！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/5",
+  "value" : "永遠聆聽SAIL的話，你的個人人工智慧！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/6",
+  "value" : "按^#71f2f6;[Enter]^white; 閱讀飛船人工智慧的信息並與你的派對夥伴交談"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/7",
+  "value" : "如果卡關，使用 ^#71f2f6;[J]^white; 打開任務日誌"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/8",
+  "value" : "按 ^#71f2f6;[空白鍵]^white; 跳躍，或長按跳得更高！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/9",
+  "value" : "我的見識寬廣遠近聞名！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/10",
+  "value" : "按住 ^#71f2f6;[S]^white; 下蹲！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/11",
+  "value" : "按 ^#71f2f6;[Q]^white; 放下當前物品"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/12",
+  "value" : "使用 ^#71f2f6;[方向鍵]^white; 表達你的情緒"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/13",
+  "value" : "記住按 ^#71f2f6;[Esc]^white; 並檢查更多控制項的選單！"
+} ]

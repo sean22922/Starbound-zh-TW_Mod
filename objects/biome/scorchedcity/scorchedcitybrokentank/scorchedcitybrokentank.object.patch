@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個生鏽的接收器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "生鏽的接收器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "生鏽的水箱，曾經或許用來裝水"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "生鏽的水箱，我不敢往裡面看"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "水箱生鏽了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。一個生鏽的水箱"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個舊水箱因為生鏽和黴變而發臭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個生鏽的水箱。我可不想看裡面"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來生鏽了的水箱"
+} ]

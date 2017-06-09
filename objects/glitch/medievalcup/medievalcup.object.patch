@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻很髒的木杯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀杯子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小的木製杯子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "木製的杯子，很難保持清潔"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人用這種杯子喝新鮮的果汁"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "灰心。一隻普通的木製高腳杯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "用木頭做的高腳杯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "染色的木製腳杯"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一隻平凡的木製小杯子"
+} ]

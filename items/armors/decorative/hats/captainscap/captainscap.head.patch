@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "隊長是誰？誰穿這個就是誰！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "隊長之帽"
+} ]

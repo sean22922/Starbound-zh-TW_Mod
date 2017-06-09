@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個巨大的油漆鍋爐，可以將冰冷的水變成蒸汽"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型蒸汽鍋爐"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個巨大的東西似乎隨時會翻倒"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個聳立的燒水器似乎有點陳舊"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族想要推倒它！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "佩服。雖然使用多年，但是這個建築依然屹立不倒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個陳舊燒水器毫無疑問也曾經輝煌過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "鮫族是不會製造這麼難看的東西的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個東西是工程學的美麗成果"
+} ]

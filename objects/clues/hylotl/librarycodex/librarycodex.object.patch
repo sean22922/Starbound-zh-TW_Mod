@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "記錄著鮫族星際中所有書籍書目的古籍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古代圖書館索引"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個古老的書卷的列表中記載著銀河系中所有鮫族人的書冊，這應該是很重要的信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個塵埃滿滿的舊書冊中記錄著銀河系中每本鮫族人的書！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可沒時間去看這些髒兮兮的書"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這本書裡包含著銀河系中鮫族人所寫的每一本書的信息，這對於某些人來說一定是重要信息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這本書裡包含著銀河系中每本鮫族人所撰寫的書的信息，要記錄這麼多信息一定是很艱難的事情"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們鮫族人是天生的組織者——這本書冊中記載著銀河系中我們一族的所有書籍信息，多麼的敬業！"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個塵埃滿滿的書冊記錄著很多書的信息，應該對某些人很重要吧"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "專門剪出了褲兜，鬼鬼祟祟者的最愛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "賭徒褲子"
+} ]

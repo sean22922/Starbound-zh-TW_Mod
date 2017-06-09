@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這是個躲藏的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "奢侈的窗簾，我們猿人可沒有隱私"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "閃亮的窗簾，就像風中的羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "窗簾絲般順滑，但是葉族人更喜歡皮革"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "思鄉：這些窗簾和電子人的牀單似曾相識"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "窗簾，真不賴"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "精美製作的窗簾，奢華的手感"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個軟窗簾"
+} ]

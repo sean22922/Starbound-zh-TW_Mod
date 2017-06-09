@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個小噴泉的熔岩熾熱又明亮"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造光源"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "岩漿散發著光芒，在固定裝置裡循環著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "起碼有了自然光源"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燃燒的岩漿散發著光芒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個岩漿噴泉到底有什麼用？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "岩漿散發著耀眼的光芒，一定非常燙"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "岩漿讓人們畏懼自然的力量。鮮有機會能夠近距離觀看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "最好小心點，岩漿可比燒著的靴子要熱得多"
+} ]

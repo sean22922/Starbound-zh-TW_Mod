@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "太陽系的紅色星球——火星的詳細模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火星模型"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "火星是太陽系中的第四顆行星。在地球被毀後它被改造成\n類地行星了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "火星瑪爾斯是根據地球古代戰神命名的。它同樣被稱為\"紅星\""
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火星在地球被毀之前有很多不適居的地方嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷狀。火星曾是成千人類的家園。真想知道他們怎麼過活"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "火星有幾處殖民地和千餘人。由於地球毀滅它也被\n撤空了……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "火星在地球被毀後便處在主要地球化行星的中心……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "火星有一個星之子的殖民地。不知道現在還存不存在……"
+} ]

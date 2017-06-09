@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"這些蟲子飄浮在上升的有毒氣體中。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巨毒蟲"
+} ]

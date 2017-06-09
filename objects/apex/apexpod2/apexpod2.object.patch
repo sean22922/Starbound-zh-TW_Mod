@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "艙是空的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "空生命維持艙"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "謝天謝地這個艙是空的。這就是他們讓我們回到我們的原始狀態的方法？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是黑暗科學…"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這樣的機器不是自然的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "注意。機器似乎嘗試修改猿人的DNA"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來不好。我忍不住想像有東西跳出來撲我"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個機器試圖用一種不是可以長遠持續的方法改變猿人的DNA"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不會靠近那玩意的"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿上這個訓練兵襯衫，在戰鬥練習時手臂可以活動自如"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "訓練兵襯衫"
+} ]

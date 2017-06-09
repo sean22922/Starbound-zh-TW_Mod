@@ -1,9 +1,0 @@
-{
-  "input" : [
-    { "item" : "glass", "count" : 1 },
-    { "item" : "smallbattery", "count" : 1 }
-  ],
-  "output" : { "item" : "neonblock", "count" : 20 },
-  "duration" : 0.25,
-  "groups"  : [ "craftingfurniture2", "materials", "all" ]
-}

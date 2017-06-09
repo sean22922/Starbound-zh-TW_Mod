@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/gaterepair-findGate/text",
+  "value" : "我的掃描顯示這個行星上有某種^orange;廢棄的能源來源^reset;。我預估有^green;32%機率值得去查看下^reset;，而另外有98%機率你恰好無事可做"
+}, {
+  "op" : "replace",
+  "path" : "/gaterepair-gateFound1/text",
+  "value" : "我的掃描接收到某個未知無線電信號在這個^orange;廢棄的能源來源^reset;附近。我馬上傳送給你"
+}, {
+  "op" : "replace",
+  "path" : "/gaterepair-gateFound1b/text",
+  "value" : "如果你聽到這段話，那麼你一定是發現了一個^orange;遠古傳送陣^reset;——請使用它來找我。^green;你可以使用^orange;熔核碎片^reset;來啓動它"
+}, {
+  "op" : "replace",
+  "path" : "/gaterepair-gateFound2/text",
+  "value" : "我掃描了附近以探測^orange;熔核碎片^reset;。它們似乎就存在於這個行星上；讀數顯示接近行星核心的地底深處擁有無數個礦石貯藏"
+}, {
+  "op" : "replace",
+  "path" : "/gaterepair-gateOpened1/text",
+  "value" : "你成功啟動了傳送陣。似乎又有一道^orange;信息^reset;出現了"
+}, {
+  "op" : "replace",
+  "path" : "/gaterepair-gateOpened2/text",
+  "value" : "^green;快過來^reset;。我急切需要幫忙；維護宇宙和平全靠你了。^orange;使用這個遠古傳送陣到方舟廢墟跟我會面，就在哨站附近^reset;"
+} ]

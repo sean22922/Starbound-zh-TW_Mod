@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇光滑的直立門。用來做祕密實驗室的門再好不過"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "實驗室艙口"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個艙口看上去像是迷你克諾格設計的。它讓我感到害怕"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個建設的很不錯的艙口"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡閃亮的門"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "鑑定。這個艙口用一種白色的平滑金屬打造"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "門打開的時候會分成三部分。真是厲害"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這門打開的時候會分成三部分，這門真漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個艙門。我打賭實驗室用這個肯定很不錯！"
+} ]

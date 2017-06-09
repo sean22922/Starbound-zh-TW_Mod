@@ -1,9 +1,0 @@
-{
-  "name" : "punchy",
-  "category" : "punchy",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "punchy.png"
-  }
-}

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於發掘化石，其他工具都會破壞掉它們，這個工具耐久度很低"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "化石提取器"
+} ]

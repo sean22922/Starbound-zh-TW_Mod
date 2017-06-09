@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "獎勵給勝者\"Mazebound64\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獎券"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "靈活的腿部盔甲，還有鈦製踝帶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鵪鶉長褲"
+} ]

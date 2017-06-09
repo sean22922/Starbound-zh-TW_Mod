@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種很可愛的獨角獸。有誰能不喜歡？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "獨角獸毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個獨角獸，是吧？這實在是太可愛了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個生物看上去很強大。它的外表具有迷惑性"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "動物頭上有角用來刺穿東西 "
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷舊：古老傳說的獨角獸"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是獨角獸！多麼可愛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個美麗的神話動物。然而，這種毛絨玩具只是平常的可愛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個可愛的玩具獨角獸。和真的一點也不像！"
+} ]

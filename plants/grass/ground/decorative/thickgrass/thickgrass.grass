@@ -1,8 +1,0 @@
-{
-  "name" : "thickgrass",
-  "description" : "Thick grass.",
-  "shortdescription" : "Thick grass.",
-  "floranDescription" : "Grassy.",
-  "glitchDescription" : "Statement. Thick grass.",
-  "images" : [ "thickgrass1.png", "thickgrass2.png", "thickgrass3.png", "thickgrass4.png", "thickgrass5.png" ]
-}

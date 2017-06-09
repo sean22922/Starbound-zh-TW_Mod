@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝有水槽的木製櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質水槽"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個適合廚房或浴室的水槽"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個水池"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "轉動把手，有水流出來！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞。冷水熱水，隨心所欲"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個普通的水槽"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "想知道水是不是乾淨的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個廚房水槽"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在空中製造電離束來控制強力的閃電箭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "特斯拉之杖"
+}, {
+  "op" : "replace",
+  "path" : "/altAbility/name",
+  "value" : "閃電球"
+} ]

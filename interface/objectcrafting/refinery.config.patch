@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/toggleCrafting/caption",
+  "value" : "精煉"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblText/value",
+  "value" : "^#b9b5b2;將球放入左槽來精煉出像素"
+} ]

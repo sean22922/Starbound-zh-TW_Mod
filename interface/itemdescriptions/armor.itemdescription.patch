@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/armorLabelTitle/value",
+  "value" : "盔甲"
+} ]

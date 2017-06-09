@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一架手風琴。雙手動起來！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "手風琴"
+} ]

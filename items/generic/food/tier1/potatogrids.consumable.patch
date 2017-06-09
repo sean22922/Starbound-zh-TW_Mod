@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "外表華麗香脆，內部是柔軟的馬鈴薯"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "薯格格"
+} ]

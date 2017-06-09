@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "調配材料用的容器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "調配莢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個豆莢可以用來做手工藝品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "免費的手工藝材料。好棒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機器能在葉族人那裡生產出工藝品"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "偉大：一台免費給予材料的機器"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "像是一台扭蛋機器，但是很有用！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個豆莢能供應基本材料"
+} ]

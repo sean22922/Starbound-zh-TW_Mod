@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝滿礦石的大型料車"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "礦業料車"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個上漆的大型料車，裝滿了礦石與灰塵"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個醜陋的金屬容量，裝滿了礦石並漆為紅色"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人想睡、睡在紅盒子裡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。容量似乎裝著不想要的礦石"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個坑，到處都是碎石和土"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個醜陋的金屬容器，裝滿了廢棄的原料"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "到處都是討厭的小東西的地方"
+} ]

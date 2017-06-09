@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶上激情、榮耀和時尚的霓磷鹽護腿參加戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "先鋒褲子"
+} ]

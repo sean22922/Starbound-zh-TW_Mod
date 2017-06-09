@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "有大遮風鏡的安全帽"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造硬帽"
+} ]

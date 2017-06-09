@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "孵化成一隻常見的浮盧法羅幼崽——長大之後將成為纖維的良好來源"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "浮盧法羅蛋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "普通的浮盧法羅蛋，成年後可以製造植物纖維"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個浮盧法羅蛋——這是最普遍的品種"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "最大的蛋中藏有最大的傢夥——一個大大的友好的浮盧法羅！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "浮盧法羅是機器人農夫普遍選擇的家畜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個浮盧法羅蛋！裡面有個小小的可愛的浮盧法羅"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個普通的浮盧法羅蛋，一個和善可親的生物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一個普通的浮盧法羅蛋"
+} ]

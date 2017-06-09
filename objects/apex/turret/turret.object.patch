@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最好的自動炮台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高科技炮台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "隨時準備開火"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "想不被他發現，我必須像風一樣移動"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這麼亮的雷射。可不想被他們發現"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "決定了。我不能成為目標"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個自動炮台。噁心的玩意"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "提醒你別越界"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "自動炮台可不長眼"
+} ]

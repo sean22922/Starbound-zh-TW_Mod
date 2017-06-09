@@ -1,9 +1,0 @@
-{
-  "name" : "snowymolecritter",
-  "category" : "snowymolecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

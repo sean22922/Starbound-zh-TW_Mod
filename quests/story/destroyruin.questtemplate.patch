@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "開啓方舟"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我有件事要告訴你，而且還有些東西要^orange;給你看^reset;。^green;現在我要提出比以前更苛刻的要求^reset;……我相信你已經做好了準備，是吧？"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "即便經歷了這麼多，我相信還有很多冒險在等著你。這次就是新的冒險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/destroyRuin",
+  "value" : "穿過^orange;方舟^reset; 並^green;封印^orange;\"毀滅\"^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "想辦法回到 ^orange;哨站^reset;"
+} ]

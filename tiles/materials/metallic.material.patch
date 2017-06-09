@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來好高科技啊！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "高科技塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣。這些磚塊所使用的技術我從未見過"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "未來電腦磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去很閃亮的高科技磚塊"
+} ]

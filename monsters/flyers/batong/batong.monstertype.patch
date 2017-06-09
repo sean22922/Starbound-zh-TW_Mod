@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "八通"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "吞噬空氣中的微粒，它們能感知前方的情況"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "引人注目的粉彩牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "真是美麗動人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張牀的顏色很豔麗！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牀上有花。葉族很喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這張牀做工細密，比如說牀頭有心形，牀單上印有花朵"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "真是美麗的一張牀！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張牀七彩繽紛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張牀對我來說太花俏了……"
+} ]

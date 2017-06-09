@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "足夠厚，能走在上面的雲"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雲"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "哇。這片雲能支撐我的體重"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "雲太柔軟啦！"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這兒的雲是由很鬆軟的東西做的"
+} ]

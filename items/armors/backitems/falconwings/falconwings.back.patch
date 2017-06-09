@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那樣的羽翼只有高階觀星信徒可以使用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "觀星信徒預言之翼"
+} ]

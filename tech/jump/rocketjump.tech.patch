@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "為你提供任意方向上的延遲空氣推進！"
+}, {
+  "op" : "replace",
+  "path" : "/shortDescription",
+  "value" : "火箭背包"
+} ]

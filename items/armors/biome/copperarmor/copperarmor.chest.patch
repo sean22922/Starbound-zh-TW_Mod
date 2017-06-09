@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用銅製成的護胸"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅合金胸甲"
+} ]

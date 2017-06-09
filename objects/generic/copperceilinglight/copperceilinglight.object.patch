@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個銅製的吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青銅吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬吊燈裝置"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個掛著的吊燈是銅製的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的金屬燈摸上去並沒那麼熱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個電燈能讓纏繞著它的銅保持較低的溫度"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "把這東西靠近耳朵，然後……噢，不，只是燈而已"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "銅製的工業吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "亮晶晶的銅製燈"
+} ]

@@ -1,0 +1,153 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/default/default/0",
+  "value" : "我回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/0",
+  "value" : "你叫我？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/1",
+  "value" : "有什麼事能幫到你嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/beacon/human/default/2",
+  "value" : "你找我？是需要什麼建議嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/default/default/0",
+  "value" : "這是作為你幫忙的酬勞！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/0",
+  "value" : "這是我在探險時發現的，給你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/1",
+  "value" : "我去散步時無意找到這東西！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/tenant/arrivedHome/rent/human/default/2",
+  "value" : "送你的，謝謝你的幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/helpme/default/default/0",
+  "value" : "風緊扯呼！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/helpme/default/default/1",
+  "value" : "別殺我！我對你有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/helpme/default/default/2",
+  "value" : "我不該命絕於此！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/helpthem/default/default/0",
+  "value" : "你幹了什麼？！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/encourage/default/default/0",
+  "value" : "抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/encourage/default/default/1",
+  "value" : "為我報仇！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/encourage/default/default/2",
+  "value" : "為我抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/encourage/default/default/3",
+  "value" : "別讓它們跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/safe/default/default/0",
+  "value" : "又一次死裡逃生！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/safe/default/default/1",
+  "value" : "以後要小心點了。好險"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/flee/safe/default/default/2",
+  "value" : "我需要休息！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我只是在探險，做著自己的事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "喂，陌生人！如果你是在找熔核碎片，那麼你可以去查看下這個舊礦場！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "熔核碎片擁有良好的化學反應，所以昔日的礦工都使用它製造炸彈"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "礦工們似乎多年前就遺棄了這裡，現在礦場已經被各種動物佔據了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/3",
+  "value" : "我好久沒見到新臉孔了！想要聽聽存活的提示嗎？我經驗很豐富的哦！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/4",
+  "value" : "見到藤蔓就砍下來！它們可以用來製作繃帶和攀爬的纜繩——非常有用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/5",
+  "value" : "小心摔倒！在山地建造道路比較安全"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/6",
+  "value" : "天色暗了就一定要帶個手電筒。晚上到處都是飢餓的猛獸！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/7",
+  "value" : "如果打算到地底探險，那就帶點木材作火把！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/8",
+  "value" : "小心野生動物——即使是溫馴的動物被惹惱了也會戰鬥的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/9",
+  "value" : "壞天氣會影響你的移動。記住這一點！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/10",
+  "value" : "我寧願活在野外也不想活在城市裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/11",
+  "value" : "這裡的氣候比大部分行星都好。很多行星可不是那麼友好的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/12",
+  "value" : "擊碎那些隨處可見的白色補給膠囊，裡面可能有好東西哦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/13",
+  "value" : "如果遇到村莊什麼的，記得不要觸怒當地的守衛哦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/14",
+  "value" : "一天的時間長短在不同行星都不一樣。厲害吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/15",
+  "value" : "聽說很多行星的地底下都有奇怪的廢墟。不知道是不是真的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/16",
+  "value" : "你能想像如果只能活在一個行星上的生活嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/17",
+  "value" : "我好多年沒去過地球了！那裡現在什麼情況？"
+} ]

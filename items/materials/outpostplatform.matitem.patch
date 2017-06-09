@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "常見於偏遠前哨站的簡易輕型平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "前哨站平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "陶醉。這些平台十分輕便而且可移動性很強"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "又是一個金屬平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "擁有奇特外觀的金屬平台"
+} ]

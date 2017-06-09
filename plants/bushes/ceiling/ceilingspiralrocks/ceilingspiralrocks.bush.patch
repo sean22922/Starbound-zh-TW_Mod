@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "螺旋形的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螺旋形的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "旋旋轉的石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。螺旋石"
+} ]

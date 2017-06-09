@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於展示物品的藍色架子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "藍色牆架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個壁架"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個簡易的壁架"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "無聊的貨架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊：牆架"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是一個壁架"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "藍色牆面擱架用於展示古玩"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "藍色的牆架"
+} ]

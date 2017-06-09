@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "已經升起的平台。不要站在它下面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "斜面平台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個木質平台似乎很堅固的樣子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個寬闊的平台，不知道幹嘛用的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個讓人站上去的葉族大型平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。雖然材料簡單，但是這個平台的做工很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個平台像個舞台般從地面拔起"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個豎立的木質平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去像個舞台"
+} ]

@@ -1,0 +1,321 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "設施被封鎖了。在那些怪物離開之前我就先藏在這裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "照這樣下去，不知道我們是否還能離開這顆衛星"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "如果我讓開道路，那些怪物也許根本不會理我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "為什麼你會來這？趁還來得及，趕緊走！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/4",
+  "value" : "我們必須離開這裡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/5",
+  "value" : "有人發出了求救信號，不過設備已經鎖住了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/6",
+  "value" : "我是個礦工，這種事我處理不來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/7",
+  "value" : "你是來救我們的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/8",
+  "value" : "這麼說你是來幫忙的？希望你知道自己在做些什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/9",
+  "value" : "你聽到了我們的求救信號？設備鎖住以後，我們的通訊也斷了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/10",
+  "value" : "那些粉色的傢夥，看著挺像人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/11",
+  "value" : "想要阻止那些傢夥，只靠這把槍是不夠的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/12",
+  "value" : "這有武器，真不賴！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/13",
+  "value" : "我們有幾個人出去幫忙了，但是沒有回來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/14",
+  "value" : "萊西亞從未告訴我們如何應對這種事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/15",
+  "value" : "以前這裡沒有那些傢夥。誰造出他們來的？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/16",
+  "value" : "這些生物從何而來？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/17",
+  "value" : "我們似乎只能自力更生了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/18",
+  "value" : "看樣子我們得自己處理此事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/19",
+  "value" : "我們一觸發警報，整個設備都被封鎖了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/20",
+  "value" : "這就是你挖得太深的結果！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/21",
+  "value" : "那些蠢貨把它叫醒了，現在我們遭到報應了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/22",
+  "value" : "我們在這裡的地下深處發現了些東西。我保證不是我幹的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/23",
+  "value" : "真後悔接下了這活！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/24",
+  "value" : "為清潔工點蠟…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/25",
+  "value" : "幫手最好快點到…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/26",
+  "value" : "我不確定我們剩下了多少人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/27",
+  "value" : "這些生物突然間就出現了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/28",
+  "value" : "我聽到一些聲響，好像地底下有什麼東西…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/29",
+  "value" : "我在這裡堅持不了太久！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/30",
+  "value" : "你是怎麼過來的？設備已經被鎖了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/31",
+  "value" : "嘿，你知道怎麼從這出去嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/32",
+  "value" : "我感覺這些晶體不太安全！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/33",
+  "value" : "別讓大胖怪獸把你也抓了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/34",
+  "value" : "我有種詭異的感覺，好像什麼東西正在盯著我看…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/35",
+  "value" : "那些黏黏的生物差點抓到我！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/36",
+  "value" : "我們必須離開這顆衛星！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/37",
+  "value" : "出去以後，我會馬上辭職…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/38",
+  "value" : "岩石？我可以對付。變異大胖怪獸？那真沒法"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "回來，大胖怪獸！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/1",
+  "value" : "拿著這個！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/2",
+  "value" : "離我遠點！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/3",
+  "value" : "他們發現我們了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/4",
+  "value" : "他們來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/5",
+  "value" : "回來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/6",
+  "value" : "退後！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/7",
+  "value" : "把它推回去！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/8",
+  "value" : "別讓他們靠近你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/9",
+  "value" : "保持距離！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/10",
+  "value" : "別讓他們靠近！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/0",
+  "value" : "他們不會罷休的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/1",
+  "value" : "他們回來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/2",
+  "value" : "他們又來了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/reattack/default/default/3",
+  "value" : "更多了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/0",
+  "value" : "直覺告訴我他們後頭還有援兵…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/1",
+  "value" : "我們應該暫時安全了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/2",
+  "value" : "哇！他們幾乎潰不成軍了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/3",
+  "value" : "簡直一團糟…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/4",
+  "value" : "我才不清理呢…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/5",
+  "value" : "我也不能保證一定成功"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/6",
+  "value" : "呃！整個房間瀰漫著惡臭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/killedTarget/default/default/7",
+  "value" : "這事沒那麼可怕…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/0",
+  "value" : "你看見它去哪了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/1",
+  "value" : "它應該走了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/2",
+  "value" : "它逃走了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/lostTarget/default/default/3",
+  "value" : "我們安全了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/0",
+  "value" : "你看見它去哪了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/1",
+  "value" : "它會去哪裡？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/2",
+  "value" : "我找不到它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/3",
+  "value" : "我把它追丟了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/4",
+  "value" : "你看見它了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/outOfSight/default/default/5",
+  "value" : "它不可能就這麼人間蒸發了…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/0",
+  "value" : "拿出來！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/1",
+  "value" : "幹得漂亮！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/2",
+  "value" : "你以前練過嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cheerOn/default/default/3",
+  "value" : "棒呆！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/0",
+  "value" : "我沒試過！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/1",
+  "value" : "我打不到它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/2",
+  "value" : "太遠了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/cantReach/default/default/3",
+  "value" : "我沒法從這裡瞄準！"
+} ]

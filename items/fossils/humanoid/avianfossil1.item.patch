@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石翼族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "翼族化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"翼族人化石上中空的骨頭和短小而又柔韌的喙是值得關注的特徵。\""
+} ]

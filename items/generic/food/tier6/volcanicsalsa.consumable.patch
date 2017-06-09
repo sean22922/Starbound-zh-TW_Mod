@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "火熱沙拉，包含各種能帶來熱度的水果和蔬菜！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火山沙拉"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種地磚看起來不同於其他"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "灰色隱藏開關"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這片瓷磚好像鬆了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這片瓷磚不太合"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "牢固的地磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "可疑。一塊位置很奇怪的地磚"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一塊鬆動的地磚"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "奇怪的瓷片"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一塊咔噠響的地磚"
+} ]

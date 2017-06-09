@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅固的石板，完美的城堡建築材料"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "重石磚"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "明白。這樣的石塊常用於建造城堡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "巨大石磚"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不想當放這些大石磚的人"
+} ]

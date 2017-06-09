@@ -1,9 +1,0 @@
-{
-  "name" : "statusimmunity",
-  "effectConfig" : {},
-  "defaultDuration" : 1,
-
-  "scripts" : [
-    "statusimmunity.lua"
-  ]
-}

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "濃厚像奶昔一般的飲料，由肉串加貓李做成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "血腥貓咪"
+} ]

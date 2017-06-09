@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一隻黑暗花瓶。看上去十分易碎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中型影甕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我感覺裡面有聲音…"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些罈子看起來受詛咒了……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "打碎它，把裡面的黑暗之物扯出來！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "毀滅。我覺得裡面可能有很黑暗的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我已經快要嚇得打碎這個罈子了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "據說，如果你打碎了罈子，厄運就會找上你。我不禁想，如果你打碎這隻罈子，你會怎麼樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "最好別亂動那種罈子"
+} ]

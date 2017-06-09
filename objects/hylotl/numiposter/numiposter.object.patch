@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "努米海報"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個展示了鮫人兒童動漫中吉祥物努米的海報"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "什麼是努米 ？某種卡通人物呢？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "努米？它看起來有點像鮫人和熊之間的交集。令人不寒而慄……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漁夫卡通片"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀：這是一個兒童動畫片的廣告"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "努米似乎是一個鮫人兒童卡通的吉祥物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "啊，我承認看膩了隨處可見的努米"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些兒童卡通角色"
+} ]

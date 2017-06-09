@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "強大的火焰領主的斗篷。線是用超熱的火焰連在一起的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "火焰領主的斗篷"
+} ]

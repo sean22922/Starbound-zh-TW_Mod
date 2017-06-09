@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個懸掛在營火上的非常簡單的鍋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古火爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "遠古火爐"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "為了那股正宗的質樸味道"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個火爐。一個罐子掛在被火焰燻黑的骨頭上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "火爐本身似乎是用骨頭做的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人烹飪食物，享受甜汁"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。這個火爐好像不太乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "天知道這個鍋煮過什麼東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我寧願不吃它煮出來的食物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "煮食所需要的器具"
+} ]

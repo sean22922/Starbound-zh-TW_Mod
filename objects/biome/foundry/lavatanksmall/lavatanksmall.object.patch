@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝滿熔化液體的小型水箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小型熔岩箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個容器散發著煙雲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個容器裝滿了炙熱的液體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "容器盛放著燃燒的岩漿"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。容器裡的液體散發著溫暖的熱量"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個容器能夠約束裡面熔岩的力量"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "容器裡散發著有毒的煙雲"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個容器吐著煙雲"
+} ]

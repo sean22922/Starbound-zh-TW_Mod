@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "穿上這個沉重的鈦製胸甲，自信的踏入戰場"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "騎士胸甲"
+} ]

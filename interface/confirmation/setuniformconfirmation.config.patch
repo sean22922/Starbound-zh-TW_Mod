@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "更新隊伍服裝？"
+}, {
+  "op" : "replace",
+  "path" : "/subtitle",
+  "value" : "<name>，<rank>"
+}, {
+  "op" : "replace",
+  "path" : "/message",
+  "value" : "\n\n我愛死那套服裝了！你想讓它成為隊員的新制服嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/okCaption",
+  "value" : "當然"
+}, {
+  "op" : "replace",
+  "path" : "/cancelCaption",
+  "value" : "等一會兒"
+} ]

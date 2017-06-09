@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "手工製作並且美麗，這個書架經過極其精妙的雕刻"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型書櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個書架能夠顯露出某人的品味"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "地底人從世界各處收集書籍"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "看書真是浪費時間"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "客觀點，這個書櫃看起來像自己做的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來是因為有趣才做出這個書架的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "儘管技術很業餘，但是書架非常迷人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些書好像是從宇宙各處搜刮來的"
+} ]

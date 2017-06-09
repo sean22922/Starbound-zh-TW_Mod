@@ -1,9 +1,0 @@
-{
-  "name" : "agrobat",
-  "category" : "agrobat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "agrobat.png"
-  }
-}

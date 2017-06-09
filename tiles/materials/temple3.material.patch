@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小寺塊"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很髒但是製作精良的磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。這些小磚塊展現了高超的工藝技巧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "覆滿灰塵的小磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去覆滿灰塵的小磚塊"
+} ]

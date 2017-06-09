@@ -1,0 +1,205 @@
+[ {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "糟糕！救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/1",
+  "value" : "救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/2",
+  "value" : "額哦"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/3",
+  "value" : "我沒有武裝！救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/4",
+  "value" : "我需要幫忙！我無法保護自己！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/5",
+  "value" : "啊！住手！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/6",
+  "value" : "什麼！？我都做了什麼！？"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/0",
+  "value" : "我需要幫忙！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/1",
+  "value" : "住手！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/2",
+  "value" : "我受到攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/3",
+  "value" : "拉響警報！拉響所有警報！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/4",
+  "value" : "誰來救救我啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/apex/default/5",
+  "value" : "拉響警報！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/0",
+  "value" : "我沒有武器！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/1",
+  "value" : "救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/2",
+  "value" : "我被追殺！誰來救我！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/3",
+  "value" : "我的羽毛呀，我受到了攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/4",
+  "value" : "誰來救救我啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/avian/default/5",
+  "value" : "啊！救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/0",
+  "value" : "害怕。啊！救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/1",
+  "value" : "發抖。別傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/2",
+  "value" : "懵逼。為什麼會發生這種事！？"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/3",
+  "value" : "恐懼。放開我！救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/4",
+  "value" : "嚇壞。救我啊！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/glitch/default/5",
+  "value" : "震驚。發生什麼事了！？住手！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/0",
+  "value" : "嗷！住手！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/1",
+  "value" : "不要傷害葉族！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/2",
+  "value" : "葉族需要長矛！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/3",
+  "value" : "葉族沒有做好狩獵準備！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/4",
+  "value" : "葉族會投訴你！"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/floran/default/5",
+  "value" : "葉族沒有長矛！葉族無法捅人！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "呼，應該是安全了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/1",
+  "value" : "謝天謝地終於結束了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/2",
+  "value" : "結束了？"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/3",
+  "value" : "現在安全了？"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/4",
+  "value" : "我沒死！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/avian/default/0",
+  "value" : "嚇得我羽毛掉了一地"
+}, {
+  "op" : "replace",
+  "path" : "/safe/avian/default/1",
+  "value" : "真是個嚴酷的考驗"
+}, {
+  "op" : "replace",
+  "path" : "/safe/avian/default/2",
+  "value" : "至少現在安全了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/avian/default/3",
+  "value" : "好險"
+}, {
+  "op" : "replace",
+  "path" : "/safe/avian/default/4",
+  "value" : "我沒事！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/glitch/default/0",
+  "value" : "鬆一口氣。我躲過一劫！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/glitch/default/1",
+  "value" : "開心。我還活著！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/glitch/default/2",
+  "value" : "疲倦。真是累死寶寶了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/glitch/default/3",
+  "value" : "希望。我安全了？"
+}, {
+  "op" : "replace",
+  "path" : "/safe/glitch/default/4",
+  "value" : "尷尬。嚇得我泄油了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/floran/default/0",
+  "value" : "葉族安全了！"
+}, {
+  "op" : "replace",
+  "path" : "/safe/floran/default/1",
+  "value" : "葉族活下來了"
+}, {
+  "op" : "replace",
+  "path" : "/safe/floran/default/2",
+  "value" : "算他們走運，葉族手上沒有武器……"
+}, {
+  "op" : "replace",
+  "path" : "/safe/floran/default/3",
+  "value" : "葉族馬上去找一把長矛"
+}, {
+  "op" : "replace",
+  "path" : "/safe/floran/default/4",
+  "value" : "葉族活著！"
+} ]

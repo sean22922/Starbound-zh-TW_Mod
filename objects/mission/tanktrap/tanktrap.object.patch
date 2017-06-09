@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來困住坦克"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "坦克陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用來困住坦克的鋸齒狀金屬"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些釘子可以攔住坦克！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "坦克陷阱！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。用來困住地上載具的參差不齊的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這可以攔住一輛坦克！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "用來困住坦克的鋸齒狀金屬"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些釘子可以攔住一切載具。真是經典"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個祭壇覆蓋有一個帶有翅膀的神明的雕刻"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族祈禱祭壇"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一座祭壇。上面覆蓋著一個帶有翅膀的翼族人的複雜雕刻圖案"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這座祭壇覆蓋有庫魯克斯雕刻。占星師利用它來與庫魯克斯交流，乞求他接受亡者進入太空。通常在這裡進行獻祭儀式"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "刻在石桌上的石頭翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這座神壇好像有些宗教用途。而且它在躲著我"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一座覆蓋有翼族雕刻的祭壇。也許這是他們的神明？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種虔誠並非前進發展的方式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像是神壇。上面有一些雕刻品"
+} ]

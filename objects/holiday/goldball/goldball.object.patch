@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "金色的秋。這些是假日裝飾物的流行物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金色的假日裝飾球"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "閃亮的金色球。真漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是壯麗的金色球"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人踢亮閃閃的球！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歡快。可愛的裝飾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "要小心不要打碎這小玩意"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這種閃亮的球友什麼催眠的作用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不覺得這個金球是金子做的……"
+} ]

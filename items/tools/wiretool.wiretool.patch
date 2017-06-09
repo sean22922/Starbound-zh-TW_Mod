@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "在輸入點之間放置可見的電路。^green;按[T]鍵快速選擇"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電路模式"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

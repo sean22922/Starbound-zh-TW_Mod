@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓我們看看這塊化石是什麼形成的吧！把它放下然後砸開！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "化石莢"
+} ]

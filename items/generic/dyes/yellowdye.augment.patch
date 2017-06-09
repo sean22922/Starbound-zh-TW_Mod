@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "點擊右鍵，可將這種有色染料用於裝甲或衣物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "黃色染料"
+} ]

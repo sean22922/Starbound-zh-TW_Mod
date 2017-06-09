@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "最經典的窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "密碼鎖道具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是個臨時物品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "觸感柔軟"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "猿人用重天鵝絨做窗簾，葉族人用皮、皮囊做窗簾"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觸摸：很少有東西能摸上去這麼舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這些窗簾應該放在大廈裡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些窗簾幾乎貼在鮫人的皮膚上了"
+} ]

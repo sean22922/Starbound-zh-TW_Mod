@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個奢華的鳥型罐子。也許我打以砸爛它……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大鳥罐子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個大型的鳥型罐子。不知道裡面有什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些罐子是用來把翼族財產運送到來世的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "傻裡傻氣的翼族人罐子，可以輕鬆砸爛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。罐子裡是有珠寶嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個可以砸爛的大型鳥罐"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我真的可以避免砸爛這個嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個大鳥罐很適合用來當射擊練習的目標"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熔岩氣球"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "就像水氣球一樣，不過有一個很明顯的區別"
+} ]

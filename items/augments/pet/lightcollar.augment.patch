@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發光的項圈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光項圈"
+}, {
+  "op" : "replace",
+  "path" : "/collar/displayName",
+  "value" : "照明"
+} ]

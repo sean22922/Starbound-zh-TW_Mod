@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "看起來全是危險的內容"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個金屬櫥櫃。裡面散發出奇怪的味道"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "裡面的東西似乎很危險，可能是有毒或是爆炸物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "危險的金屬盒子？肯定不會比葉族人更危險！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "笑尿了。除了警告標示外，裡面裝的竟然是一堆奇怪的襪子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "蓋子下面散發出惡臭，讓我想起少年時光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "危險的容器。顯然人類經常把這種東西丟進海裡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "帶有警示標誌的容器。我可不打開"
+} ]

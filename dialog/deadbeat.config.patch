@@ -1,0 +1,117 @@
+[ {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "出來玩耍吧！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "你們站在了宇宙錯誤的那邊！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/2",
+  "value" : "這是我們的領地！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/3",
+  "value" : "你別想輕易離開！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/4",
+  "value" : "幻影來到狂暴之屋！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/5",
+  "value" : "瞧瞧我找到了誰！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/6",
+  "value" : "我看得到你！這次你逃不掉了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/7",
+  "value" : "你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "出來玩耍吧！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "你們站在了宇宙錯誤的那邊！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "這是我們的領地！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "歡迎來到狂暴之屋！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "哈哈哈哈哈！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/5",
+  "value" : "瞧瞧我找到了誰！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/6",
+  "value" : "我看到你！你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/7",
+  "value" : "你逃不掉的！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "另一個收藏獎盃！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "你今天可不走運！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "滾回來，我可以再殺你一次！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/3",
+  "value" : "平庸！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "夾著尾巴灰溜溜逃吧！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "他們去了哪？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "回來，膽小鬼！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "回來！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "過來決鬥吧！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "和我面對面，你這個懦夫！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "將他們撕裂！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "給他們看看我們怎麼處置擅闖者！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "戰鬥！戰鬥！"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一道冰的門。不要握住把手太長時間"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一扇冰做的門。我能看見自己印在上面"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "站在這扇門旁邊太久了讓我一直打寒顫"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族沒有看、看到門，直接撞、撞了上去"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "分析：這裡的冰塊是多層的，難以打碎"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個冰凍的門。摸起來很冷"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇冰門做工非常精細"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "到底是誰想出來的\"可融傢俱\"這個主意的？一定花費了不菲的代價吧"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "brown",
-  "category" : "piglett",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brown.png"
-  }
-}

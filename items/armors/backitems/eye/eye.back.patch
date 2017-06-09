@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用神祕的微光材料製成的古代披風"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "顯示斗篷"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "muddancer",
-  "category" : "muddancer",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "muddancer.png"
-  }
-}

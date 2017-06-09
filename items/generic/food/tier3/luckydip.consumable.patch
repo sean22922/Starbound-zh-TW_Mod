@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "香蕉與胡蘿蔔攪拌到一起，是猿族的最愛點心"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幸運沾醬"
+} ]

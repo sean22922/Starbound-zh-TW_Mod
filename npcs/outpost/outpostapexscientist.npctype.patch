@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我對於目睹著我的猿族兄弟姐妹在迷你克諾格手中備受凌辱而深感無力，所以我離開了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "我對於目睹著我的猿族兄弟姐妹在迷你克諾格手中備受凌辱而深感無力，所以我離開了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/apex/0",
+  "value" : "能見到另一個逃離迷你克諾格殘暴的猿族真讓我開心！"
+} ]

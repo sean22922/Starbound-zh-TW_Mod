@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這扇門的做工很精美"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古典橫閂門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一種很沉的橫閂門。把手貌似是純金的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這扇門是帶著大愛……或者恐懼做成的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固的門。但是沒什麼能擋住葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。這種強度的門只有專業工匠才能造出來"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是一扇很大，很經典的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "講究的工藝"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "大號加固門，還有個亮閃閃的把手"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這塊毛皮是葉族獵人的戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "小塊黑色毛皮"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一小塊毛皮，可能是裝飾品，也可能是戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "可能是紀念某次獵殺的吧"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人給其他葉族人看戰利品，獲得尊重"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "注意。這塊毛皮很軟，葉族人剝皮的時候一定很小心"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可憐的動物"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "葉族人的殘忍"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一小塊動物毛皮"
+} ]

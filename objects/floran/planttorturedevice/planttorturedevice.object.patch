@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "神祕的刑具。最好不要問這東西怎麼用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "刑具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是一個拷問裝置或是一個噴泉？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一些殘忍且不一般的懲罰形式"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物看、看到這個就會害怕得發抖"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不滿：一種特別討厭的拷問方法，尤其針對電子人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "太棒了，一個令人放鬆的水景"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一個不會簡單地對鮫人起作用的拷問裝置。一場小小的勝利"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是什麼，噴泉嗎？"
+} ]

@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "光滑的金屬，摸上去很冷"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "光滑的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "佩服。金屬打磨的就像脈衝機體一樣光滑"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "光滑的金屬"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "這些金屬面板感覺非常光滑"
+} ]

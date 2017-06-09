@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鮫族人的腿甲，由於多年不用已經生鏽但仍能看出其做工的精良"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "勇猛護脛甲"
+} ]

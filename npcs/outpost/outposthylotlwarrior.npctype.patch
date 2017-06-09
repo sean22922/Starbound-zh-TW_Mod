@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我們鮫族不被廣泛認可為偉大的戰士，但事實上我們的戰士是數一數二的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "我們鮫族不被廣泛認可為偉大的戰士，但事實上我們的戰士是數一數二的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/floran/0",
+  "value" : "我的很多同胞都厭惡你們的種族，但我認為葉族人百折不撓的品質是值得讚許的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/hylotl/0",
+  "value" : "幸會"
+} ]

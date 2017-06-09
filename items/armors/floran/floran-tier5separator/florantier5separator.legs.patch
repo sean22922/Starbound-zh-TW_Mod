@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "追蹤獵物時所穿的裙子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "採集者短裙"
+} ]

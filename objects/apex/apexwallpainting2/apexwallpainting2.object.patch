@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它是什麼意思？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "立式現代畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個在很多年前就已經過時了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這麼有趣的雕飾"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這、這樣的形狀讓很多葉族人都感到困惑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感激：精確的幾何圖形藝術"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "天啊，這幅畫太過時了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "他們都說藝術能夠滋養靈魂，但是藝術也有高低之分"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "畫布上有落日色的形狀"
+} ]

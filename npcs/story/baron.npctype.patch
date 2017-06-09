@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/start/default/default/0",
+  "value" : "友善狀。你好啊，陌生人！歡迎來到我的城堡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/start/default/default/1",
+  "value" : "我一直在期待到來……從你進門之後！哈哈哈！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/start/default/default/2",
+  "value" : "留意狀。那是什麼？你有個請求？我身後的東西？哦那個啊……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/showRelic/default/default/0",
+  "value" : "是的，我幾年前找到它。你不能拿走它，它挺好看的我還挺喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/showRelic/default/default/1",
+  "value" : "傲慢狀。很好！那就再見吧，陌生人！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/alerted/default/default/0",
+  "value" : "震驚狀。你聽到那個了嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/alerted/default/default/1",
+  "value" : "那些披斗篷的流浪漢！又回來了！第四次了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/alerted/default/default/2",
+  "value" : "堅定狀。好了，我提出一場交易：你替我趕走這群討厭的教徒，我給你那個閃光的玩意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/finalWaveComplete/default/default/0",
+  "value" : "滿意狀。做的太棒了！我覺得我不用再受他們捲土重來的苦了……嗯，你讓我想到我年輕的時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/finalWaveComplete/default/default/1",
+  "value" : "這個玩意是你應得的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/finalWaveComplete/default/default/2",
+  "value" : "震驚狀。天上那是什麼？！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/finalWaveComplete/default/default/3",
+  "value" : "無語狀。……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/missionComplete/default/default/0",
+  "value" : "激勵狀。帶上那個工藝品，也帶上我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/missionComplete/default/default/1",
+  "value" : "我有一個傳送點可以讓你用。我和你一起走，我覺得這筆生意需要好好理一理"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/missionComplete/default/default/2",
+  "value" : "沉思狀。還有，這裡真的好無聊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/baron/beamOut/default/default/0",
+  "value" : "鼓舞狀。前往偉大的未知！"
+} ]

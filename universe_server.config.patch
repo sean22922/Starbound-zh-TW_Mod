@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/serverAssetsMismatchMessage",
+  "value" : "這台伺服器不允許客戶端之間資源檔不一致"
+}, {
+  "op" : "replace",
+  "path" : "/clientAssetsMismatchMessage",
+  "value" : "本地資源檔和伺服器不一致，且未設定可覆寫"
+} ]

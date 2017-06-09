@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "自動驅動器。以後我可以用這個發動載具"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "自動驅動器"
+} ]

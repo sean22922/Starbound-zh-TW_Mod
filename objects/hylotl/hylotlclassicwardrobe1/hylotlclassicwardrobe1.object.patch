@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "旋轉荷葉來鎖上它的門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統衣櫥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個衣櫥太棒了！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個衣櫥很不錯，不過荷葉是個敗筆"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人躲在衣櫃裡，等朋友來了嚇他們一跳！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。蓮葉的圖樣看起來是用心挑選過的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個衣櫥上的鎖子太精細了，不好轉動"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "完美的衣櫥再加上天才般的鎖閉機制"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這片蓮葉似乎是把鎖呢"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "由岩石製成的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "岩石牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張牀一看就知道不舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很冷很堅硬的一張牀"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張以石塊打造的牀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自信。這張堅固的牀可以用好幾代"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我只能說至少比睡在地面上強吧……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "據說，睡在硬邦邦的表面對背部有益"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我突然感覺沒那麼疲倦了"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "木矛。正等待著插入敵人的腦袋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木質釘子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套灰白的釘子，"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來很鋒利"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "鋒利尖銳的矛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張：電子人把這些釘子放到深深的防禦用坑裡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看上去很危險的釘子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "野蠻的防禦工事"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "磨得很鋒利的矛！哎呀！"
+} ]

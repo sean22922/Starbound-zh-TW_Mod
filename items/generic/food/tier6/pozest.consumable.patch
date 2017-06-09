@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "流行的機器人能量飲料，或者只是安慰劑？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "柏查斯特"
+} ]

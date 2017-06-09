@@ -1,0 +1,109 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/monster/example/name",
+  "value" : "堅果蠓蟲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "首先，我們需要葉族人的^orange;<items>^white;。那不難找，一隻靠近^orange;<spawnPoint.direction>的<spawnPoint>^white;的落單<monster>吃了他們。^green;找到那隻^orange;<monster>^white;然後^green;帶回葉族人的東西^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "第一步，葉族人需要你做個小狩獵。葉族人看見^orange;<spawnPoint.direction>的<spawnPoint>附近^white;有隻^orange;<monster>^white;吞了^orange;<items>^white;。貪婪的<monster>！^green;殺了它然後從體內找到^white;葉族人的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "困惑。我剛收集完^orange;<items>^white;，^orange;<spawnPoint.direction>的<spawnPoint>附近^white;一隻^orange;<monster>^white;就把他們都吞了！^white;你能去^green;找到那隻野獸並拿回我的東西^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "緊張。在^orange;<spawnPoint.direction>的<spawnPoint>^white;有一隻^orange;<monster>^white;偷襲了我，還拿走了我的^orange;<items>^white;！你能^green;找到它並拿回我的東西^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "第一步是^green;找到給我添不少麻煩的^orange;<monster>^white;。它帶著^orange;<items>^white;跑了，在^orange;<spawnPoint.direction>的<spawnPoint>^white;。^green;你去找到它沒問題吧？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "首先我們需要^orange;<items>。^white;不幸的是，一隻超大號<monster>吃了我的補給。它應該在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近活動。你能^green;殺了<monster>並把它們帶回來^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "下一步不難。一隻靠近^orange;<spawnPoint.direction>的<spawnPoint>^white;的^orange;<monster>^white;吞了葉族人的^orange;<items>。^green;追蹤^orange;<monster>^white;並^green;把東西拿回來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "好，不久之前，葉族人看到靠近^orange;<spawnPoint.direction>的<spawnPoint>^white;有隻^orange;<monster>^white;吃掉了我們需要的<items>！^green;找出^orange;<monster>^white;並^green;把拿回東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "震驚。最近我受到兇猛的^orange;<monster>襲擊，^white;失去了^orange;<items>^white。它往^orange;<spawnPoint.direction>的<spawnPoint>^white;走了，應該還沒走遠。你能^green;幫我追蹤它嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "羞愧。我在^orange;<spawnPoint.direction>的<spawnPoint>^white;被一隻兇猛的^orange;<monster>攻擊，而且它吞了我的^orange;<items>^white;，你能^green;追蹤它並拿回我的東西^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "下一步，^green;我需要你追蹤^orange;<monster>^white;。他吃了我的^orange;<items>^white;然後跑掉了－我需要拿回我的東西。那隻^orange;<monster>^white;應該在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "接下來，你需要追蹤一隻^orange;<monster>^white;。當我在^orange;<spawnPoint.direction>的<spawnPoint>^white;散步時，它偷襲了我並拿走了^orange;<items>^white;。你能^green;找到它並拿回我的東西^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "厲害－你是個優秀的獵人。<monster>吃掉的的東西有一點黏，但是還能用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "葉族人知道你能行！<player>－<monster>獵人！聽著不錯吧？現在葉族人滿意了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "勝利。你拿回了我的東西！下回懦弱的<monster>想要偷襲我可沒這麼簡單了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "厲害。你擊敗了<monster>！？你一定是位偉大的勇士！感謝你的協助"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "幹得漂亮！那隻<monster>再也不會麻煩任何人了！我們也有了之後需要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "呸，這是從那隻<monster>胃裡拿出來的？我沒啥好抱怨的，謝謝你完成這件苦差事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "做得好！<monster>肯定後悔吃了葉族人的東西。好了，我們可以好好利用<items>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "漂亮！葉族人還擔心你辦不到，看來你沒對<monster>客氣，葉族人會在使用前好好清理這玩意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "放心了。謝謝你拿回我的東西－它們對我的計劃很重要。希望附近出沒的野獸們記住這次教訓，別再打擾我們了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "滿意。你拿回了我的東西－不過它們聞起來像<monster>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "那隻<monster>終於死了？謝謝你！拿到<items>之後，可以繼續前進了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "謝謝你！那隻<monster>在搶了別人的東西跑掉之前應該好好考慮的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "狩獵<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "把<items>帶給<questGiver>"
+} ]

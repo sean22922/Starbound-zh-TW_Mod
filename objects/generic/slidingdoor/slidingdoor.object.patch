@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "門往上……門往下……門再往上……門再往下……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滑動門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "沒有把手的門。看起來能上下滑動"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這門能向上打開"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "愚、愚、愚蠢的門，把葉族人都搞糊塗了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "欣賞：這扇門之後的裝置非常複雜"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這扇門移動得真快，甚至能發出一陣疾風"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "像這樣的門是用來控制鮫人城市的水流量的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是一扇滑動門"
+} ]

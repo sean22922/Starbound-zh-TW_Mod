@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "豔麗粉彩色的小櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉彩櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個挺好看的小櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個櫥櫃有一個星星型狀的把手。不錯！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡這個櫥櫃的七彩繽紛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厲害。這個把手被雕刻成小星星的型狀——非常體貼"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "嗷嗚，這個櫥櫃的側面有著很多心形！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個櫥櫃挺好看的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些顏色過於豔麗，不適合我口味"
+} ]

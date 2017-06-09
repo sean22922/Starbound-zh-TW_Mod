@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伏特貔"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "科學實驗出錯而導致"
+} ]

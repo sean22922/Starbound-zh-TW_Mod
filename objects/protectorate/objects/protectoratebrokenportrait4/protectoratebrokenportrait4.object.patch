@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "伊瑟·布萊特，前任大保護者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大保護者肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "伊瑟·布萊特，以前的大保護者"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "以前的大保護者，名叫伊瑟·布萊特"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "\"伊瑟·布萊特——前大保護者\"。也只是戴眼鏡的有血有肉的人！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。牌匾上寫著\"伊瑟·布萊特——前大保護者\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "牌匾上寫著\"伊瑟·布萊特——前大保護者\""
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "伊瑟·布萊特，以前的大保護者"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "伊瑟·布萊特，以前的大保護者"
+} ]

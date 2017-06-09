@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個上鎖的小櫃子。存著一些東西。你怎麼不來試試看？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "船櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "儲存櫃子。輕而易舉就打開了！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "鮫人沒有認真的設置儲存櫃的安全系統"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人想要打開儲存櫃子，最後卻失敗了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "就連葉族人都可以打開這種簡單的儲存櫃子"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不知道為什麼鮫人設置了這種大家都可以輕而易舉破解打開的櫃子幹嘛"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "安全鎖櫃，只有最狡猾的盜賊才能打開"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "儲存櫃子，用於存放東西"
+} ]

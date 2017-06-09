@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "帶反射器的顯眼夾克-安全第一！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "引人注目的夾克"
+} ]

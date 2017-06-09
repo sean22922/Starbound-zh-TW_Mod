@@ -1,9 +1,0 @@
-{
-  "name" : "thornbee",
-  "category" : "thornbee",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "thornbee.png"
-  }
-}

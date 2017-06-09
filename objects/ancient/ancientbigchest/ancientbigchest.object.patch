@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的駭人箱子，上面有一隻大眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "遠古巨箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個箱子看起來又舊又嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個箱子看起來又舊又嚇人"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "恐怖的箱子讓葉族人心裡發毛"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不安。箱子上的眼鏡似乎在審視我"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個讓人心裡發毛的舊箱子。我敢打開嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我被教導要對神祕箱子保持警惕之心"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不在乎這箱子怎麼盯著我看"
+} ]

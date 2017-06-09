@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用遠古翼族藝術裝飾著的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "裝飾精緻的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "有人花時間來裝飾這個箱子，裡面一定裝著什麼好東西吧"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "像這樣裝飾好的翼族人箱子裡面一定有寶物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個箱子太棒了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "興奮。這樣的箱子應該裝著一些珍貴的東西"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個箱子！我想看看裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個箱子是個藝術品。裡面會是什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個箱子真的很不錯"
+} ]

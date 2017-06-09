@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人\"青蛙\"筆跡"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用\"呱呱\"命名的字體"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "貌似鮫人族有點太珍惜自己的語言了，都已經上升到藝術的高度了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "除了鮫人族，其它種族都沒覺得好"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很像殺人的模式"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：或許鮫人族應該將之稱為\"自大體\""
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這就像那些現代藝術品一樣。我一點都不喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個樸實而美麗的東西讓我熱淚盈眶"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "似乎車隊出了什麼事"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "smoglin",
-  "category" : "smoglin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "smoglin.png"
-  }
-}

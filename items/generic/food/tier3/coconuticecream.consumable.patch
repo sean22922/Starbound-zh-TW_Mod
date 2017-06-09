@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "若擱淺在熱帶島嶼，這是最好的餐點"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "椰肉冰淇淋"
+} ]

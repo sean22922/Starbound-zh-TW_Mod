@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "濃厚，腐臭的瀝青。看上去就感覺黏糊糊的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。這個瀝青又濃厚又黏"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人不喜歡黏糊糊的瀝青"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一大塊看著黏糊糊的瀝青"
+} ]

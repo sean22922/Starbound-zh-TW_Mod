@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個實用的儲物箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "豆莢箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個豆莢箱，裡面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些箱子被造得很堅固，來保護裡面的東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "來打開這個箱子！裡面可能有食物呢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好急：時間寶貴，打開它看看！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "豆莢箱總是看起來很不錯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "沒有拆開的禮物總是最激動人心的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個豆莢箱，想知道裡面有什麼……"
+} ]

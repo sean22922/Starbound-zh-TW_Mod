@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "噁心的屍體"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "噁心的屍體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "讓這屍屍體打到地板上！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不穩定。溶化的屍體"
+} ]

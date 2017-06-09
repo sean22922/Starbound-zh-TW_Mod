@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把葡萄藤製成的椅子。那些尖峯看上去有毒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把椅子坐上去又溼又軟不太舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "坐在這裡讓我的羽毛感到很痛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這把椅子讓葉族想起來家鄉。葉族坐下來"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔憂。這張椅子上的刺對至少四十三種種族有毒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我們可以用其他名稱來命名椅子。哇，上面的刺可真多"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個大自然的神奇產物。上面有很多刺"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "佈滿荊棘的一張椅子。我絕對不會坐下去"
+} ]

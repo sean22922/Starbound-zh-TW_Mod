@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "粉紅日光"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種無頜魚，因為其魚鱗會在陽光照射下閃閃發亮而備受追捧"
+} ]

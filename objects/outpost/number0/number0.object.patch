@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "無標識"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "零"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "零"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "零"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "圓圈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "平淡。零"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "零"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "什麼也沒有"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個零"
+} ]

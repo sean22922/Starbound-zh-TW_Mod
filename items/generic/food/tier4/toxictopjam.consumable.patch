@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "百毒果做成的果醬，但真的有毒嗎？只有試過才知道！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "百毒果醬"
+} ]

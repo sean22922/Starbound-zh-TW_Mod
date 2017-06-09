@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個飲料櫃，上有玻璃器皿和異形瓶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個漂亮的飲料壁櫥。但我連一瓶香蕉果汁都沒見著"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個裝滿了奇形怪狀的玻璃瓶和五顏六色的液體"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "噁心的果汁"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。瓶子裡面的液體可能是果汁"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來像是個釀酒的飲料櫃子。但我不知道瓶子裡面裝的都是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個飲料櫃子。瓶子裡面的液體聞起來好棒……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "對釀酒師和他的技工很有用！雖然我沒看到任何酒精飲料……"
+} ]

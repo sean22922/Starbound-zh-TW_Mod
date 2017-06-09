@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "現在是最糟糕的部分了！葉族討厭烹飪！^green;你需要用^orange;<ingredients>為葉族烹製^orange;<cookedItems> ^white;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "下一個<player> 需要用^orange;<ingredients>來^green;烹製葉族^orange;<cookedItems>^green;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "困惑。既然你已經有了全部的^orange;<ingredients>^white;，^green;只需將它們通過某種方法改造成^orange;<cookedItems>^white; 。我會讓你來負責這部分！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "鎮定的。^green;現在你只需要用^orange;<ingredients>^white;來準備^orange;<cookedItems>^white;。這很簡單！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "現在是最棘手的部分了——烹飪。你應該能夠^green;用^orange;<ingredients>^white;調配成^orange;<cookedItems>^white;。配方很容易，但我對烹飪實在提不起興趣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "^orange;<ingredients>^white; 需要一些準備。你應該能夠 ^green;完成^orange;<cookedItems>^white;。為什麼不試一試呢？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "嗯！葉族不擅長烹飪，所以這是一個非常好的計劃！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "謝謝你<player>，比起葉族你是一個更好的廚師！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "羨慕。你出色的烹飪技術讓我收益良多。謝謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "高興。<cookedItems>看上去好極了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "哇哦！看起來就很美味！我現在就想吃了，但我們接下來還得用它……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "你不費吹灰之力就完成了烹飪！謝謝你——這正是我們完成計劃所需要的"
+} ]

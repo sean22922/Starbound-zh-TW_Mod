@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "小心！閃電球！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "電警示標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我很好奇迷你克諾格在他們的實驗上花了多少力量"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看起來是一個警示。天氣不好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃電能生火。葉族人害怕火"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。強大電流甚至可以傷到電子人的電路"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "高壓！小心點"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "當鮫人首先走進海裡的時候，電流引發了不少事故"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "觸電警告。最好小心點"
+} ]

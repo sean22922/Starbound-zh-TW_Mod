@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "電動壁燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "酒吧燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種燈的光芒非常溫暖並且舒服"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這種鐵製品比翼族人製槍匠的作品好多了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "裡面沒有火焰在燃燒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪。雖然這盞燈被設計為使用可燃氣體作為燃料的，但是光源卻來自電力"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一盞電燈。看起來是為了火焰建造的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這些燈看上去是為了包裹住火焰而設計的，但是是它確實完全電動的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個古典的燭台，雖然已經沒有點上火了"
+} ]

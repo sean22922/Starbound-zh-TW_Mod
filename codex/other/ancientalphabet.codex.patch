@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "古老的字母表"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "翻譯古代文字的指南"
+} ]

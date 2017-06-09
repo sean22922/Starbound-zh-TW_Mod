@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它懶洋洋的生活習慣使它得以在地下發展壯大。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "曼德拉草精小雕像"
+} ]

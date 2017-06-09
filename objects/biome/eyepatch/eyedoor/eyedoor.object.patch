@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一種被眼鏡覆蓋著的門。不要眨眼"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "眼球之門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這扇門緊緊地盯住我，讓我不敢進去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這隻眼睛散發著惡意。其中究竟隱藏著怎樣的恐怖呢？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族認為這扇門看起來讓葉族感到很有趣。葉族認為這是他們的領地"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沉思。既然只有一隻眼睛的話，這扇門眼中的世界一定是一維的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這扇門看起來並不歡迎我們。我想這是一種暗示吧"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個裝飾有一隻大眼睛的門，外表非常誇張。相比於功能，鮫族人更重視閃亮的外表"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這扇門一直在盯著我"
+} ]

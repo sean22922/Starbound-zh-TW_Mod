@@ -1,9 +1,0 @@
-{
-  "name" : "dustmoth",
-  "category" : "dustmoth",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "dustmoth.png"
-  }
-}

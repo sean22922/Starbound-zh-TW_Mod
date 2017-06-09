@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當你使用護手時，你需要能自由行動"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "哨兵長褲"
+} ]

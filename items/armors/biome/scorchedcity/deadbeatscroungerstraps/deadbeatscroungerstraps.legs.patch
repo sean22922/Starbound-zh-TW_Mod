@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "乞丐經常穿壞的破舊髒褲子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "髒褲子"
+} ]

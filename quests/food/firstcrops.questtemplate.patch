@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;首次收穫"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我現在有鋤頭和噴水壺，那我可以種田了！我應該 ^green;犁一下地，澆灌些土壤^white;來^orange;收穫5個小麥和5個珍珠豆^white;"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "終於，種田開始有收穫了！我應該看看還有什麼別的能種的"
+} ]

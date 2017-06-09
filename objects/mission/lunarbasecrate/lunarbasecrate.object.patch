@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "儲存箱，專門用來放裝備那些"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "衛星基地儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用堅硬的金屬製成的儲存箱"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個儲存箱用來放置不同的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "閃亮的儲存箱可以用來好多東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "羨慕。這個箱子一直有專人保養"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個箱子看上去能夠經受住一切考驗"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來放置同時還能保證東西安全的大箱子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個相當不錯的大箱子，我在想裡面有什麼？"
+} ]

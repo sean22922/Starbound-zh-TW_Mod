@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "新鮮乾淨的水。令人安心愉悅"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "瓶裝水"
+} ]

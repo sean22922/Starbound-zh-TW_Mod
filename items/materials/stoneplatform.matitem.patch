@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用石頭雕刻的平台"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石質平台"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "佩服。這平台用石頭塊雕刻而成"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "將石頭雕刻為平台"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "肯定用了很久很久才把石頭雕刻成平台"
+} ]

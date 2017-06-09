@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個徽章是用來紀念翼族人首次飛向太空的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族衛星徽章"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻鳥兒和一隻新月型衛星"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個是用來紀念我們首次飛向太空的。翼族人相信在來世他們可以藉助巨型的羽翼自由地在星辰之間飛行"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "翼族人也會享受月光？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "奇怪，這是一個標識。或許代表了一些翼族歷史上的事情"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是在表示翼族在處於太空中嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我們都夢想著這種自由。展開翅膀自由飛翔"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這是月亮的標記。我很享受在月光下的悠閒時光"
+} ]

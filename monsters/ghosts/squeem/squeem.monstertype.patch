@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "斯奎姆"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "它的移動受環境中的溫度等級影響"
+} ]

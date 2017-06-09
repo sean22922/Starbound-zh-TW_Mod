@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "基因改良香蕉樹。小小的樹都有很大的果實！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "香蕉種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一直有種偏見說猿族人喜歡香蕉，這多虧了迷你克諾格。\n雖然香蕉真的很好吃"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些香蕉很好吃，但我說不上為什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "聞起來像猴人"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "冷嘲：猿人喜歡這些，但是電子人認為這很普通"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這像個香蕉，但不僅僅是個香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "基因改良過的香蕉。我都可以嚐出那種不自然的味道"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "基因改良的香蕉是最好的香蕉"
+} ]

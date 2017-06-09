@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "復古風格的牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "復古牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "啊，這是我睡過的最好的覺之一了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "你得在牀上站著睡覺"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "機械牀是用於睡覺的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這張牀可以站立著，讓人們舒服的休息"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張牀真復古"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "牀不應該只是簡簡單單恢復精氣神的工具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "誰在這牀上感覺像被人解剖"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;自由自在"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "我現在可以前往這個太陽系中的任何行星了^green;我需要開始檢查如何修復我的FTL引擎^orange;SAIL應該會知道"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "成功了！我現在可以前往其他星系了！"
+} ]

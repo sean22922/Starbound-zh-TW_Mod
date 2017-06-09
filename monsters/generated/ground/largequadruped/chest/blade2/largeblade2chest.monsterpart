@@ -1,9 +1,0 @@
-{
-  "name" : "largeblade2chest",
-  "category" : "largequadruped",
-  "type" : "chest",
-
-  "frames" : {
-    "chest" : "largeblade2chest.png"
-  }
-}

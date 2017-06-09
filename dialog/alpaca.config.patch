@@ -1,0 +1,253 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "我沒怎麼見過像你這樣的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "我在撓小動物癢癢"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "你是個勇士呢，還是一個懦夫？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "從我是一個駝族人開始，我就是一個勇士了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "有一些旅行者問我這是不是戲服……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/5",
+  "value" : "勇氣比什麼耐鋼之類的更重要"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/6",
+  "value" : "能睡就睡！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/7",
+  "value" : "冷靜！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/8",
+  "value" : "要開心啊，朋友！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/9",
+  "value" : "你要是想戰鬥的話就吃好點！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/10",
+  "value" : "我不管你長什麼樣，我只在乎你內心是否強大！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/11",
+  "value" : "我看起來穿著戲服嗎？這不能說明什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/12",
+  "value" : "你得跟我一樣沒有外套都不會覺得冷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/13",
+  "value" : "我的拳頭癢癢了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/14",
+  "value" : "你還認識跟你長得一樣的人嘛?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/15",
+  "value" : "只要你不惹麻煩我們就會把你當國王一樣對待的！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/16",
+  "value" : "一些耐寒的石頭家族會讓駝族人開心的哦！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/17",
+  "value" : "你看上去不像是一個懦夫。我尊敬你"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/0",
+  "value" : "你想要從我這偷東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/1",
+  "value" : "你以為我看不見你在偷東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/2",
+  "value" : "你個小偷給我停下！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/3",
+  "value" : "我們這裡不歡迎小偷，懦夫！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/4",
+  "value" : "這裡不歡迎懦夫，小偷！"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/5",
+  "value" : "我們這裡對小偷可不怎麼友好！"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "這裡是不是有東西被移走了？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/1",
+  "value" : "你是不是把什麼東西挪走了？"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/2",
+  "value" : "這裡本應該有東西在的"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "這裡應當有一張草圖……"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/1",
+  "value" : "那邊牆那裡你收拾過了？"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/2",
+  "value" : "我家裡有個破洞。你可以修好嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "這裡應該還有一個！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "我在這裡住不下了！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/1",
+  "value" : "這不是適合駝族住的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/2",
+  "value" : "我受夠了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "我和你完了！我要搬出去！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/1",
+  "value" : "我再也不想和你住下去了！"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/2",
+  "value" : "我要走！"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "需要我幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/1",
+  "value" : "你需要我幫忙嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "這是給你的禮物，謝謝你的幫忙"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/1",
+  "value" : "拿著，謝謝你幫我！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "我很驚訝你又出現了！"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "你回來了？看到你了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "看到你了！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "看招！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "去死！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "你個懦夫！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "懦夫！"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/5",
+  "value" : "別以為你跑得了！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "快滾！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "又一次戰鬥勝利！"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "這就你的本事了嗎！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/0",
+  "value" : "你這個懦夫竟然跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/lostTarget/default/default/1",
+  "value" : "別回來！"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/0",
+  "value" : "你去哪了？"
+}, {
+  "op" : "replace",
+  "path" : "/outOfSight/default/default/1",
+  "value" : "你個小人！回來！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/0",
+  "value" : "回來！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/1",
+  "value" : "懦夫！我夠不著你！"
+}, {
+  "op" : "replace",
+  "path" : "/cantReach/default/default/2",
+  "value" : "你怎麼去那的？"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/0",
+  "value" : "你個無賴！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/1",
+  "value" : "去洞穴狩獵吧！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/2",
+  "value" : "抓到他們了！"
+}, {
+  "op" : "replace",
+  "path" : "/cheerOn/default/default/3",
+  "value" : "把他們砍碎！"
+} ]

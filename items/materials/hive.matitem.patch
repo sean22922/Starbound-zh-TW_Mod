@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用死去生物的遺骨製成的粘性蜂巢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢磚塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "抗議。這個蜂巢的材料是用被壓碎的的生物做成的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "用被壓碎的動物製成的蜂巢"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "用壓碎的生物做成的貌似蜂巢的東西"
+} ]

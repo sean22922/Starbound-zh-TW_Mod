@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "日耀石被編織成鎖子甲，安置在胸甲的下方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "巫師胸甲"
+} ]

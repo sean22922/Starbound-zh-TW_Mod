@@ -1,0 +1,41 @@
+[ {
+  "op" : "replace",
+  "path" : "/panels/44/text",
+  "value" : "……怎麼會這樣……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/46/text",
+  "value" : "保護者……不要跟隨那些在你之前到來的靈魂"
+}, {
+  "op" : "replace",
+  "path" : "/panels/47/text",
+  "value" : "即使我向毀滅屈服……我們戰鬥的時候，我被粉碎了；碎成了無數片……"
+}, {
+  "op" : "replace",
+  "path" : "/panels/48/text",
+  "value" : "很多都丟失了，但是我古老而狂野的那些碎片，掙脫了然後變成了新的東西……只有我的一小部分留下了，來看我遺留下來的東西"
+}, {
+  "op" : "replace",
+  "path" : "/panels/49/text",
+  "value" : "你聚齊了我的神器，保護者。我恩賜過的6個種族現在合二為一"
+}, {
+  "op" : "replace",
+  "path" : "/panels/50/text",
+  "value" : "你種下了和平的種子，它會成長，在廣袤的宇宙中廣為散播"
+}, {
+  "op" : "replace",
+  "path" : "/panels/51/text",
+  "value" : "毀滅被完全消滅了，宇宙得救了，但是還有很多事情要做"
+}, {
+  "op" : "replace",
+  "path" : "/panels/52/text",
+  "value" : "現在，我把最後的禮物給你－－我最後的一部分。迴歸保護者。再次甦醒"
+}, {
+  "op" : "replace",
+  "path" : "/panels/64/text",
+  "value" : "星界邊境團隊"
+}, {
+  "op" : "replace",
+  "path" : "/panels/65/text",
+  "value" : "特別鳴謝"
+} ]

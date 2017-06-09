@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "紀念本傑明 \"Meuterion\" 杜斯特 的雕塑"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "本傑明杜斯特雕塑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人覺得他能有雕塑肯定是因為幹了什麼大事"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "機警。這個紀念碑是為了紀念偉大的本傑明\"Meuterion\" 杜斯特"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "據說，偉人紀念碑所用的材料，都是他們生前別人砸向他們的石頭"
+} ]

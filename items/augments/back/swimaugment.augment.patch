@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "可插的EPP模組，提高你游泳時的機動性"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "泳技增強"
+}, {
+  "op" : "replace",
+  "path" : "/augment/displayName",
+  "value" : "泳技"
+} ]

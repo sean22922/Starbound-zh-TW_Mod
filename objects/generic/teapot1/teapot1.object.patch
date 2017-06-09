@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來開茶會的完美茶壺"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "茶壺"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個茶壺"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個帶鼻子的杯"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇、奇怪的長鼻子怪物雕塑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察：這是種罕見的粉色"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個漂亮的茶壺。真治癒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "招待人用的器具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "所以說你把一些茶葉塞進一壺水中然後……喝？"
+} ]

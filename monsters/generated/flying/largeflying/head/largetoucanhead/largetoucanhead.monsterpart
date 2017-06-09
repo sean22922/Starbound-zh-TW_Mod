@@ -1,9 +1,0 @@
-{
-  "name" : "largetoucanhead",
-  "category" : "largeflying",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "largetoucanhead.png"
-  }
-}

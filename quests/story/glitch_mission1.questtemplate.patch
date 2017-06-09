@@ -1,0 +1,165 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "尋找機器人神器的線索"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "現在我們要尋找^orange;機器人神器^reset;。機器人通常定居在有很多^orange;火山活動^reset;（他們似乎覺得這樣莫名地舒服）的星球。火山星球一般出現在^orange;火熱恆星^reset;周圍。^green;最好前往這樣的星球搜尋^orange;線索^white;。雖然機器人有些標新立異，但別小看了他們：一定要小心"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "上一條線索已經確認了機器人神器的位置！很好，恭喜你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findClues",
+  "value" : "^green;掃描物品^reset; 以找到 ^orange;機器人線索^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "回到 ^orange;伊瑟^reset; 所在的 ^orange;方舟^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchbaronfigure/text",
+  "value" : "這個小雕像……我以前見過這個人！是某本書裡的嗎？我得調查一下……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchchess/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchchess/text",
+  "value" : "這張象棋桌很神奇……棋子是全手工雕刻的，可以看出手藝相當精湛。從設計上看，風格非常獨特。不知道它是從哪裡來的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchdecree/text",
+  "value" : "你剛剛看到的文字提到了一個寶藏庫——那裡存放著大量的珍品。神器會不會也在那裡呢？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchhorndisplay/text",
+  "value" : "機器人很重視紋章。這面旗子上的標誌很獨特，我相信它可能間接與神器有關。我想搜查一下它的來源"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/uniqueProgress/glitchscribe/text",
+  "value" : "這張桌子上的信提到了一位在機器人中臭名昭著的人物。他也是衆多富人的主人……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/0/text",
+  "value" : "嗯，有意思……我得深入挖掘一番"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/1/text",
+  "value" : "有趣，這肯定跟我的研究有關"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/2/text",
+  "value" : "繼續找，這非常有用！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/3/text",
+  "value" : "找到一條雖然隱晦但是很有價值的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/4/text",
+  "value" : "太好了，你找到的每條線索都能夠幫我形成完整的理論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/5/text",
+  "value" : "唔，到底……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/6/text",
+  "value" : "這樣一來，我之前的猜測就被證實了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/7/text",
+  "value" : "真是奇怪！但驚人的信息比意料之中的信息更加珍貴……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/8/text",
+  "value" : "即使是最不起眼的證據也能揭露出宇宙中最宏大的祕密"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/genericProgress/9/text",
+  "value" : "這條線索暗示了隱藏的信息"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startWithProgress/text",
+  "value" : "看來你找到的一些物品已經指向了神器的下落所在。我會儘快開始進行分析，你可以去搜尋更多的線索！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/startAlreadyComplete/text",
+  "value" : "你還真是會收集機器人的文物啊！你似乎已經掌握了足夠的線索，這樣我就可以找到神器的具體地點了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/senderName",
+  "value" : "伊瑟"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/radioMessages/complete/text",
+  "value" : "我的理論是正確的！^#71f2f6;等你準備就緒就回來方舟找我^white;，我會告訴你神器在哪"
+} ]

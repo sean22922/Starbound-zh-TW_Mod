@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株奇形怪狀的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一株奇形怪狀的植物"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "奇怪的植物。植物人與此有關聯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "厭惡。一株醜陋的植物"
+} ]

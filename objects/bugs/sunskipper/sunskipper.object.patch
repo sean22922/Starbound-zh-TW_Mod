@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種美麗的蟲子喜歡陽光"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "嗜陽蟲"
+} ]

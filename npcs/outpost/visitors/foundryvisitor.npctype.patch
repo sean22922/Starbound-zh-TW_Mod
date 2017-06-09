@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我是從鍛造廠出來的，那裡的熱度會熔化最硬的鋼！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我來這裡買點東西，通常我都在鑄造廠呆著"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "午餐休息時間來轉轉，通常我都在鑄造廠裡拼死拼活！"
+} ]

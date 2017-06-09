@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "紅手"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種奇怪的生物不是一個個體，而是一群共生有機體"
+} ]

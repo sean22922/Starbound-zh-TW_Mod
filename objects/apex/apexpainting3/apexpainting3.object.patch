@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那是一個老大猿主打專輯的框架複製品，\"叢林之愛\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿唱片"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是猿人允許擁有的唯一一張唱片。有人說那包含了一些潛在意識的信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張奇怪的唱片"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "黑色發光圓圈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "混亂：一個未知的媒體類型"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "那是…乙烯基嗎？憂鬱"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "唱片商友凹槽"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個碟片的花紋很微妙"
+} ]

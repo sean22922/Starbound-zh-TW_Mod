@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "過濾空中的毒素的古老呼吸機。可惜不再管用了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毒氣面具"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個帽子像一個老虎！這是真毛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "虎帽"
+} ]

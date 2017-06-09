@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "無賴褲子上的大部分鐵都在皮帶扣中"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "無賴褲子"
+} ]

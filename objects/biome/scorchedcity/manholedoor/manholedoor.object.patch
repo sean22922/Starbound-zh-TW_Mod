@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個窨井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "窨井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個井蓋，用來防止蠢貨掉進洞裡"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個窨井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "井蓋，下面是不是藏了什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。一個井蓋"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個井蓋，等著人像漫畫一樣掉進去"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個井蓋，下面有什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "某種井蓋，底下藏著什麼？"
+} ]

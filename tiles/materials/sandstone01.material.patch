@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "堅硬的天然沙石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "沙石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這個沙石由岩石的微粒製成"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "沙地沙石"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很沙地的石頭"
+} ]

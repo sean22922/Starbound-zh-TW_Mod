@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座葉族人雕像。不會刺傷你……可能"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "葉族人砂石雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個看起來很溫和的葉族。咄咄逼人"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "儘管是用石頭製成的，這個葉族看上去要更加的親切一點"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "綠手指。特殊葉族。聞起來很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "假設。我猜這座雕像的形象是葉族人的領袖"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個令人敬佩的葉族。想不到我也會說出這番話來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "空缺的石頭正好代表了這個葉族冰冷凋零的眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "雕刻這些葉子一定是很麻煩的吧"
+} ]

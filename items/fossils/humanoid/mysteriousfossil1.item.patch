@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "化石未知生物頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "未知頭骨"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/shortdescription",
+  "value" : "未知化石"
+}, {
+  "op" : "replace",
+  "path" : "/completeSetDescriptions/description",
+  "value" : "標籤寫道：\"許多科學家對這種生物感到困惑，它的起源以及年代尚無定論。\""
+} ]

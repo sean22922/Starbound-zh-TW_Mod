@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個水箱循環攪動這裡面的熔岩防止它凝結"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "階梯式熔岩水箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個容器保存著裡面融液的能量"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "燃燒的液體從容器中傾倒出來"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "可怕的岩漿瀑布"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。維護這樣大型的設備，工作量肯定很可怕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "岩漿流似乎能把我吞沒"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "岩漿非常安靜，可千萬別濺到我身上"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個巨大的容器倒出了大量的岩漿"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個耀眼的電子徵兵海報"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "LED徵兵廣告牌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "徵兵站？看起來部隊是可以徵兵的。猿人就沒有這個條件了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個徵兵廣告。地上的一般會選擇成為勇士"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "徵兵廣告牌葉族人不選擇當勇士。葉族人生來就是"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心。徵兵廣告牌沒有自我意識的電子人一般會選擇成為勇士"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "啊，一個徵兵廣告。他們的徵兵方法還行"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個徵兵廣告。真是討厭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這廣告真心晃眼"
+} ]

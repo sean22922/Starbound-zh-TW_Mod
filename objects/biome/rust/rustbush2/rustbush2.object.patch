@@ -1,0 +1,33 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一處生鏽的灌木。小心它鋒利的邊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鏽色灌叢"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這叢灌木已經被壓碎，上面鋪滿的鐵鏽"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一叢被腐蝕，鏽跡斑駁的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不喜歡生、生鏽的灌木"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張：看見鏽跡讓我感到眩暈"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一叢生鏽的灌木。我已經徹底檢查過了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "灌木叢已經生鏽了，看起來不太讓人舒服"
+} ]

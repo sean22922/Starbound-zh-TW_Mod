@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用於製作日耀石星的礦石主要能在烈焰恆星周圍的行星上找到"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "日耀石星"
+} ]

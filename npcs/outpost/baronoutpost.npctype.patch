@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我很激動。伊瑟向我展示瞭如何^orange;修理保護地武器^white;。要是我能修好我自己生鏽的身體就好了。哈哈哈！"
+} ]

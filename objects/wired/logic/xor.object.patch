@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "/'XOR'/開關。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "XOR開關"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "/'XOR'/開關嘶。當兩個輸入不同時才開啟"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。/'XOR'/開關。當兩個輸入不同時才開啟"
+} ]

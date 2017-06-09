@@ -1,9 +1,0 @@
-{
-  "name" : "smallspiketail",
-  "category" : "smallquadruped",
-  "type" : "tail",
-
-  "frames" : {
-    "tail" : "smallspiketail.png"
-  }
-}

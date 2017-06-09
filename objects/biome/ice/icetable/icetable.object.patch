@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張用冰雕成的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冰桌子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "用一大塊冰雕成的桌子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張用冰製成的大桌子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族切、切割冰塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "考慮：將熱菜放在這張桌子上一定很有趣"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你肯定不想把手肘擱在這張桌子上"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張冰桌。雖然不夠實用，但是卻非常漂亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一般而言，我應該遠離冰製傢俱"
+} ]

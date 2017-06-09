@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "青蛙商人"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "一個奇怪的兩棲動物小販"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個青蛙商人。誰也不知道它的真身，或者它想要什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青蛙商人"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個沉默的青蛙商人。奇怪"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個奇怪的商人是誰？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "植物人被沉默的青蛙小小地嚇著了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有點擔心。這隻青蛙似乎不願意與人交流"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果我親它一下，你覺得它會變成王子商人嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個沉默的生物不是我們的人"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在這一帶很少看到青蛙販子！"
+} ]

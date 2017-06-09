@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "微光自然晶球水晶"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "晶球水晶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "驚訝。這些自然水晶似乎是從晶球裡長出來的"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "閃亮晶球水晶"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "一些很亮的岩石水晶"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個可以打破的大型容器，裡面有什麼呢"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型膠囊"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個膠囊小容量。這些經常用來保存物資"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個膠囊容量。裡面有東西，我想知道是什麼……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "砸開它！裡面有好吃、吃的！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這容器讓人有想打破它的衝動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我認為有東西在裡面。我能打開它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有時候力量能夠得到獎勵"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這容易很適合作為射擊練習目標"
+} ]

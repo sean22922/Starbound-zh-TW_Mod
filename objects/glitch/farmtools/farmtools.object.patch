@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個鏟子，一個釘耙，一把掃帚，完全能應對使人筋疲力盡的農活了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "農活工具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "對於有些人來說這些工具是來照顧土地的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "各種各樣的工具，我只認識鏟子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "管控植物的工具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "傷感。許多機器人都是農民。這些就是他們貿易的工具"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "農活工具。地球上的農活大部分都是自動化了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "住在水下的鮫族人用不到這些工具"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "務農工具。雙手沾滿泥土，你將戰無不勝！"
+} ]

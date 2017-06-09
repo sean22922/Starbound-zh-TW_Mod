@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個起重機。用來舉起或者懸掛東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型機械起重機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "看起來很牛逼的起重機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一隻鶴，並不屬於鳥類"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人懸掛金屬手臂"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。這個可以舉起多少個機器人？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "你說這個起重機是不是用另一個更大的起重機建成的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個粗糙的起重機。但我覺得它有其用途"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很強大的起重機"
+} ]

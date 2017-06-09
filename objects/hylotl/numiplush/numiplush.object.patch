@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個絨毛努米玩具，一個同名鮫人兒童動漫裡的吉祥物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "努米絨毛玩具"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個鮫人絨毛玩具。這是可愛的，但我我還是不要了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我不確定我要不要弄個鯨族人毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漁夫毛絨玩具"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "動心：這是非常可愛……"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這是努米絨毛玩具，兒童卡通中的角色。我覺得我還是算了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一個可愛的毛絨玩具，但我承認看膩了隨處可見的努米"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "對我來說可愛過頭了"
+} ]

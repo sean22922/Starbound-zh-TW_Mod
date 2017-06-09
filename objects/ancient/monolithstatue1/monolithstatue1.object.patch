@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "神祕的古代雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "石柱雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這座雕像看起來是用來傳遞一則很久以前的信息"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "對某種存在的宏達描述。也許是古代的偽神"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人打算在雕像上畫鬼臉！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這座雕像是用來傳遞信息的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望我的遠古遺蹟裡有遠古巨像"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "風格古樸但是卻有辨別度，一座鮫族人的雕像更有歷史"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一座古老的雕像，像往昔的幽靈，擾動塵封的記憶"
+} ]

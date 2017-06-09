@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很容易培育的水果"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "肉疣果種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "肉疣果是很容易持續種植的裝甲"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "肉疣果很難啄穿"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "肉疣果是葉族人喜歡的食物或打發時間的玩物"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "肉疣果的外皮和我的一樣堅硬"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我不應該盯著肉疣果發呆的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "肉疣果很頑強，可以在各種情況下生長"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "肉疣果這種植物一點用處都沒有"
+} ]

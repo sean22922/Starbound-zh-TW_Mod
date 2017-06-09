@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊全是鑽石的破碎岩石"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑽石岩"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個脆弱的石頭似乎內含鑽石"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "打破這塊石頭應該就能獲取其中的鑽石礦石"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "亮晶晶的石頭。敲碎它！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。這顆石頭內含鑽石礦，表面有裂痕"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一整塊鑽石礦石頭！也許我可以敲碎它"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "對著這個石頭一個猛擊就能釋放裡面的鑽石礦"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一塊富含鑽石的石頭。我可以打碎它"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個裝滿了熔化液體的密封水箱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大型熔岩箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "濃煙從岩漿容器中翻滾而出"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個容器盛放著熔岩"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "容器盛放著熔岩"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "崩潰。這個容器真是太大了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "巨大的容器裡面盛放著融液"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個容器裡的煙霧是有毒的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "濃煙從容器中翻滾而出"
+} ]

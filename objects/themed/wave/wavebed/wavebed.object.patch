@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張舒服得令人難以置信的波浪牀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "波浪牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一張非常棒、非常舒適的牀"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張牀十分舒適，能讓我歇歇羽毛"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在好牀上休息——"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "開心。這牀看上去非常舒服"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一張好牀。能輕易地在上面得到休息"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "建造水準十分棒。我喜歡"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我一定能在這裡好好休息的"
+} ]

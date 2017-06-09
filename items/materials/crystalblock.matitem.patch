@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "發亮的水晶塊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "水晶塊"
+}, {
+  "op" : "replace",
+  "path" : "/glitchdescription",
+  "value" : "冷靜。這個水晶塊有舒適的外觀"
+}, {
+  "op" : "replace",
+  "path" : "/florandescription",
+  "value" : "水晶做的水晶塊"
+}, {
+  "op" : "replace",
+  "path" : "/novakiddescription",
+  "value" : "裡面的水晶好美"
+} ]

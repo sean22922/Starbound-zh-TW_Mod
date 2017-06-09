@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個標誌代表了平和與生命之源的元素——水"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人的水的標記"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這是翼族人的水的標記"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "水的標記，那前頭一定有水"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一些符號，葉族人認為這是水的意思"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有點猶豫，這個符號是水還是火的意思？一定是水的意思"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "看起來有點像鮫人的臉。這就是為什麼我記得這是水的意思！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個描繪了水元素的人物，並預示著他的出現"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不知道這想傳達什麼意思，但我知道這讓我很渴"
+} ]

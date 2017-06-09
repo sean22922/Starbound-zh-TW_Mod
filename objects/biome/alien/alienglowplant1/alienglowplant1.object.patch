@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一株發光的外星植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "發光的外來植物"
+} ]

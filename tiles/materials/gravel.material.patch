@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "粗糙的沙礫"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "碎石"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "粗糙，堆在一起的沙礫"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "礫石"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "壓碎岩和礫石"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個標誌象徵著風和毀滅性的火元素"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人火標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個用來警示火災的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳統的火標誌"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "火焰！葉族人最不喜歡這種東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "小心。一個警示前方有火的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個標誌一定象徵著火"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "旋渦狀的火焰標誌，通常指示前面有火"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像火，我得留心腳下"
+} ]

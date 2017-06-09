@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個戰利品是來自某個巨大的織網生物的絲囊"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "絲囊戰利品"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個戰利品是巨型纏網生物的噴絲頭"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個打獵獲得的戰利品是某種未知野獸的噴絲頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "在成為狩獵戰利品之前，這玩意是野獸用來射網的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "這個戰利品是某大型未知生物的噴絲頭"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個戰利品是某種噴網生物的噴絲頭，應該是歷盡千辛萬苦才得到的"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個狩獵戰利品，是某大型噴網生物的噴絲頭"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "非常有趣的戰利品，應該是某大型纏網式生物的"
+} ]

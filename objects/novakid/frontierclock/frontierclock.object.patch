@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "很古典的座鐘，鐘擺是拋光的黃銅製成的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境祖父座鐘"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個座鐘比那種迷你克諾格制式生產的鐘高級多了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個座鐘是手工打造的。這木工真是讓人驚歎！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "擺動的金屬部件就像是一把小斧子。這個是武器嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "被吸引。這個鐘在製作的時候一定花費了很多心血"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個鐘一直在這裡等待著我。但時不我待？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "我得承認，製作這個鐘一定花費了大量的時間。真讓我印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這裡的這個鐘滴滴答答，象徵著時間的流逝"
+} ]

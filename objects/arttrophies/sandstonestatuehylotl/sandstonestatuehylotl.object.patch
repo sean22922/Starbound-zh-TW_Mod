@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一座鮫人雕像。有著怪異的表情"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鮫人砂岩雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個鮫人雕塑。雕塑家很好的表現出嘲笑的感覺"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個石頭鮫人。她看起來正失望的盯著我"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "滑溜溜的大魚雕、雕塑"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "嚴肅：看起來鮫人的時尚意識一直就很差"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個脾氣不太好的鮫人。表現的非常精確"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "麗麗夏恩的雕塑，傳說中的鮫人公主"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些鮫族人的沙雕"
+} ]

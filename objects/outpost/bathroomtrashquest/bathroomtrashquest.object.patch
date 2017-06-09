@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "垃圾。就是垃圾。要不然？答案：就是"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "洗手間垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "垃圾日！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "垃圾桶"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "漂亮的垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "不佩服。垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "是時候丟垃圾了！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "骯髒的垃圾"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "除了垃圾還是垃圾"
+} ]

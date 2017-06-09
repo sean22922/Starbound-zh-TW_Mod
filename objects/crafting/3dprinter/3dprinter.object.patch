@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這台機器能把像素點重新組織成幾乎任何形狀"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;像素列印機^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "像素列印機……很少有人會有這個"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "像素列印機……這是改變宇宙的黑科技"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "像素列印機為葉族人列印好東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "很喜歡。如此科技就是一種藝術"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "像素列印機……接近弒神的能力"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "像素列印機……在我手中像素的力量……簡直跟神一樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "像素列印機實在是太棒了"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一部分是裝甲一部分是面具，專門為潛入敵方陣地的戰士所打造"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "河水頭盔"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個閃亮的安全帽能提供適當的保護"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "安全帽"
+} ]

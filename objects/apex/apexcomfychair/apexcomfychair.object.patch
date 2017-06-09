@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個非常舒適的椅子，看起來它被釘在了地板上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式座椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個椅子很舒適。就你的鄰居作報告的獎勵"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這全是羽毛嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "太舒服啦！！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "震撼。一把配得上國王的寶座"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇哦，這是個十分舒適的椅子。看起來很昂貴"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "就像海邊的沙子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "坐上去肯定很舒服"
+} ]

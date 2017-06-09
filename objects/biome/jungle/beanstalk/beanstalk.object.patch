@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "豆莖，生長到了天上"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "豆莖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一支真正的豆莖！"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "傳說中的豆莖"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "豆莖長得好大。葉族人能上天了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。豆莖的最上面到底是什麼呢？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這支豆莖讓我想起了一個童話故事"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "從上面看，風景一定很好"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一支豆莖，都已經長到天上去了"
+} ]

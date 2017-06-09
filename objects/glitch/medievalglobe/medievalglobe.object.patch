@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一架不明飛機的模型"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀星球儀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一隻星球儀。跟飛船讀取的此星球的地形不一樣"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "看來好像標出了大陸"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很小的星球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。一隻星球儀，繪製員的水準很差"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "地球儀上的世界和著一個不像"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "從我的船來看，這個地球儀完全是不準確的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一張地圖。天知道這是哪個星球的！"
+} ]

@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "我很抱歉。如果我身著黑衣的夥伴不和你說話請不要感到惱怒。\n他不善言辭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "我很抱歉。如果我身著黑衣的夥伴不和你說話請不要感到惱怒。\n他不善言辭"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/glitch/0",
+  "value" : "沉思狀。在我們瞭解這……一切之前的時光不是簡單得多嗎？"
+} ]

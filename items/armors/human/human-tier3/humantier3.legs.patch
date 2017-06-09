@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鈦制褲子，背後有個便捷的口袋"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "開拓者褲子"
+} ]

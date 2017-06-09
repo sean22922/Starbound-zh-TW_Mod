@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"它生活在焦油中並以此為食。有跡象表明，它的排泄物也是焦油。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Taroni 小雕像"
+} ]

@@ -1,0 +1,73 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/0",
+  "value" : "我來是要保證這些電路不老化"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/1",
+  "value" : "這些電路做工十分儘量。我想這些東西不會那麼快老化"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/apex/default/2",
+  "value" : "哪裡有電路我就得去哪裡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/0",
+  "value" : "我是電器技師！我是要來保證所有電路都正常工作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/1",
+  "value" : "這些電路可是不會自我養護的！所以我才在這"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/human/default/2",
+  "value" : "我來是要保證這些電路一直處在最佳狀態！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/0",
+  "value" : "葉族是電氣技師，但是葉族不知道電力的工作原理"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/1",
+  "value" : "葉族拿到這個電氣技師的職位，有點……還不如被刺一刀"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/floran/default/2",
+  "value" : "葉族想知道電氣技師的帽子是不是適合戰鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/0",
+  "value" : "我電氣技師的頭盔有點讓我的羽毛癢癢的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/1",
+  "value" : "連身衣穿在我身上不太好看。翼族人不應該穿那麼多！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/avian/default/2",
+  "value" : "我來是要修理電路的，但是一切看起來都還好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/0",
+  "value" : "修理電路是個十分複雜的工作，但對我來說還好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/1",
+  "value" : "電路真是太吸引人了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/hylotl/default/2",
+  "value" : "電氣技師很高貴，就像藝術家和音樂家一樣。我沒開玩笑！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/0",
+  "value" : "驚異。我來修理電路，但電路看起來還好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/1",
+  "value" : "渴望。我熱愛電路維護和電氣！這是我的職業也是我的愛好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/glitch/default/2",
+  "value" : "高興。學會電路工作原理真是太好了—電路真是吸引人"
+} ]

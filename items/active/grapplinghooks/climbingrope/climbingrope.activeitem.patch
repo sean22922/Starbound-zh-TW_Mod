@@ -1,0 +1,13 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一段繩索。可以用來爬山或者綁東西！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "繩子"
+}, {
+  "op" : "replace",
+  "path" : "/category",
+  "value" : "tool"
+} ]

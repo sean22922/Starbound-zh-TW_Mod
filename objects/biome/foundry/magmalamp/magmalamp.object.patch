@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "藉助熔岩液滴發光的燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "岩漿燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這盞燈裡的中空區盛放著發著紅光的岩漿"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些岩漿非常炙熱，並且散發著耀眼的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "燈裡裝著發光的岩漿"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "催眠。燈裡的岩漿的讓子讓人挪不開眼睛"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我聽說過岩漿燈，但從沒真正見過用岩漿發光的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燈裡的岩漿散發著柔和的光芒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這盞燈裡面密封著發光的岩漿"
+} ]

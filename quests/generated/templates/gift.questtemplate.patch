@@ -1,0 +1,149 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "友善的朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "送禮人<questGiver>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "幫<questGiver>送禮物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族喜歡<target>的氣息。葉族想要<target.pronoun.object>更多地出現在附近"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族需要一位狩獵夥伴。葉族覺得<target>是一個不錯的選擇！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;滿懷希望。我想贏得<target>的好感，而且我也知道怎麼做。你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;滿懷希望。我希望<target>能更喜歡我一點——你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我需要感動我的朋友。我已經有想法了，但我需要你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我想要留個好印象。請幫我做一些事來打動<target>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/0",
+  "value" : "接下來，葉族覺得^orange;<target> ^white;會喜歡這個^orange;<gift>^white;禮物的。棒極了！雖然葉族無所畏懼！但……也許你可以^green;幫我送給<target.pronoun.object>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/1",
+  "value" : "好，下一步讓我們^green;把一座狩獵獎盃帶給^orange;<target>^green;！^white; 葉族吃掉了葉族的上一座狩獵獎盃，所以這個^orange;<gift> ^white;一定要起作用。葉族還是認為<target.pronoun.subject>會被打動的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/0",
+  "value" : "熱心。接下來^green;我要贏得^orange;<target>^white;的友誼。你能^green;把這個^orange;<gift>^white;當作禮物送給<target.pronoun.object>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/1",
+  "value" : "專注。接下來我需要^green;贏得^orange;<target>^white;的好感。我知道<target.pronoun.subject>喜歡^orange;<gift>，^white;你能替我^green;把它送給<target.pronoun.object> ^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/0",
+  "value" : "我覺得這個^orange;<gift>是完美的禮物。^green;你能把它帶給^orange;<target>^white;嗎？一定要讓<target.pronoun.subject>知道是我送的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/1",
+  "value" : "誰不喜歡一個全新的^orange;<gift>？^white;我希望^orange;<target>^white; 能夠喜歡！^green;你能把它送給<target.pronoun.object>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族覺得^orange;<target>^white;會喜歡這個的！這個^orange;<gift> ^white;非常完美，它讓葉族回憶起了<target.pronoun.object>。葉族並不是害羞……但也許你能^green;幫我送給<target.pronoun.object>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "總之，雖然狩獵獎盃是最能打動^orange;<target>^white;的東西，但葉族現在沒有這個……所以只能用這個^orange;<gift>^white;作禮物。你能^green;幫我送給給<target.pronoun.object>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "緊張。最後，^green;你能把^orange;<gift>^green;送給 ^orange;<target>^white;嗎？我希望<target.pronoun.subject>會喜歡！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "渴求。我們快完成了！你現在要做的就是^green;把^orange;<gift>^green;送給^orange;<target> ^white;，然後就大功告成了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "我們現在唯一要做的就是^green;帶著這個^orange;<gift>^white;送給<target>。你能幫我嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "現在我們只需要^green;把^orange;<gift>^green;送給^orange;<target>。^white; 你能幫忙讓<target.pronoun.object>收下嗎？但願<target.pronoun.subject>不要已經有一個了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/0",
+  "value" : "葉族很高興！看起來<gift>是<target>的最愛之一！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/1",
+  "value" : "幹得漂亮！也許<gift>作為獎盃來說奇怪了點，但我很高興<target.pronoun.subject>能喜歡它！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/0",
+  "value" : "高興。<target>看上去很喜歡那個禮物！謝謝你的幫助，我真是感激不盡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/1",
+  "value" : "興高采烈。我現在和<target>建立了深厚的友誼，這歸功於你能將禮物帶給<target.pronoun.object>。我會記住你有多可靠！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/0",
+  "value" : "看上去<target>很喜歡<gift>。我真是一個優秀的送禮人！當然離不開你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/1",
+  "value" : "萬歲！現在<target>和我是好朋友了！是時候想想接下來該給<target.pronoun.object>什麼了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "<target>真的很喜歡這個禮物！<target.pronoun.subject>會和葉族一起度過很多時間，葉族整天都可以聞到<target.pronoun.possessiveDet> 令人愉快的氣息了！謝謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "謝謝！葉族知道<target>會喜歡狩獵獎盃的，現在葉族有一個狩獵夥伴了！葉族明天就要去打獵！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "滿足。<target>很喜歡我的禮物！謝謝你為我追尋友誼所做出的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "興高采烈。禮物運送大成功！謝謝你對計劃的幫助，我真是感激不盡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "明顯<target>已經等候一個全新的<gift>多時了！ <target.pronoun.capitalSubject>很喜歡它，對我的感謝之情難以言表。謝謝你的幫助！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "<target>很喜歡這個禮物？我不需要什麼回報，能送給朋友他們喜歡的東西我已經很高興了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我沒能幫助<questGiver>贏得<target>的好感。<questGiver.pronoun.capitalSubject>該學會在沒有我幫助的情況下交朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我沒能幫助<questGiver>把禮物送給<target>。也許<questGiver.pronoun.subject>應該學會在不送禮物的情況下交朋友？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "將<gift>送給<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/addToHouseObjective/text",
+  "value" : "將<gift>放在<target>家裡"
+} ]

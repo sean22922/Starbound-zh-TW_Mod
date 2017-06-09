@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把木質椅子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "木製坐墊椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一把做工一般的木質椅子"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "帶有紅色坐墊的木質椅子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "坐墊讓椅子坐的更舒服"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "沒興趣。沒什麼意思的木椅"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一把簡陋的小椅子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把平淡無奇的木質椅子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "用木頭製成的椅子"
+} ]

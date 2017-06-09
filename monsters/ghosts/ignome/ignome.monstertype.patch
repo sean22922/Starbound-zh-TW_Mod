@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "伊穀米"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "焦黑的表面碰上去挺舒服的，就是要避開火焰！"
+} ]

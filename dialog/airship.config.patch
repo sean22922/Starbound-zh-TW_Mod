@@ -1,0 +1,189 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "歡迎！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "你怎麼來這裡的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "把你的手從補給品那裡拿開，我們就不會產生不愉快了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "你要是想要補給品，你需要和我們的軍需官說"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "之前沒見過你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/5",
+  "value" : "你是新的船員？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/6",
+  "value" : "在甲板上注意腳下。大風情況下會有點艱難"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/7",
+  "value" : "一定要確保安分守己"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/8",
+  "value" : "你想要來一發交易嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/9",
+  "value" : "成為一名氣球駕駛員是一項挑戰，但也是非常棒的人生！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/10",
+  "value" : "你要是找打的話我可不會猶豫"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/11",
+  "value" : "不要惹麻煩你就不會受傷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/12",
+  "value" : "手要乾淨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/13",
+  "value" : "啊，今天輪到我打掃乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/14",
+  "value" : "這一望無垠的天空，就是屬於我的地方！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/15",
+  "value" : "你最好不要窺視我們的材料！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/16",
+  "value" : "你有沒有考慮帶眼罩？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/17",
+  "value" : "從主甲板看景色實在是太美了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/18",
+  "value" : "要是敢做出格的事你就等著被關吧！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/19",
+  "value" : "想要補給品？去找軍需官"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/20",
+  "value" : "你認為我們的船怎麼樣？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/21",
+  "value" : "當我跟別人說我在船上生活時候，他們都覺得我有壞血病"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/22",
+  "value" : "這些螺旋槳需要好好保養！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/23",
+  "value" : "我在想我的家人會怎樣做"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/24",
+  "value" : "我是新來的。但是我已經翱翔在天際了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/25",
+  "value" : "你看起來是個人才，還想要航行的生活嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/26",
+  "value" : "在飛船上的生活並不總是像人們說得那麼好"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/27",
+  "value" : "每天都是一成不變"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/28",
+  "value" : "這艘船什麼都好，就是夥食太差。知道怎麼做飯嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/29",
+  "value" : "這艘船今不如昔了，但它依舊是我的家"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/30",
+  "value" : "你迷路了？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/31",
+  "value" : "在上次停靠中我們獲得一些不錯的補給！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/32",
+  "value" : "對於一些人來說，這是為了錢。對於我來說，我是為了冒險！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/33",
+  "value" : "在這份工作上我們見到了很多令人興奮不已的材料，但那些同時也很危險！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/34",
+  "value" : "你最好不要讓我抓到偷東西！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/35",
+  "value" : "手要乾淨！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/36",
+  "value" : "補給品要是有你想要的，去找軍需官"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/37",
+  "value" : "你要是有一丁點的不敬我就把你宰了！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/38",
+  "value" : "我們是貿易船隻，但別因為我們是好惹的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/39",
+  "value" : "你看起來簡直像在廢品站呆了幾年"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/0",
+  "value" : "手要乾淨！"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/1",
+  "value" : "我會一直觀察你的"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/2",
+  "value" : "不要耍什麼花樣"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/3",
+  "value" : "我盯著你"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/4",
+  "value" : "不要被我抓到你偷東西"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/5",
+  "value" : "補給品要是有你想要的，去找軍需官"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/6",
+  "value" : "在飛船上你最好安分一點"
+} ]

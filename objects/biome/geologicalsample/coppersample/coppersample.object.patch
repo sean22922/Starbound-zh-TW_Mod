@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "\"一個完美的銅礦石。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "銅樣本"
+} ]

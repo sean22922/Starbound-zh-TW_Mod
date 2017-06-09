@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "當你去吃其他人並惹怒對方的時候，胸甲可以保護你"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "食人者胸甲"
+} ]

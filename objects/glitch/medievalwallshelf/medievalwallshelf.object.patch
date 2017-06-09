@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個木製壁架用於展示小飾品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀牆上火炬"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "簡單的木質架子。看起來很穩"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個穩固的木質架子"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "非常結實的木架"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "愉悅。這個木架子非常結實"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "相當好的一個木頭架子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "緊緊固定住的木頭架子"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個用處很大的牆架，上面什麼都可以放"
+} ]

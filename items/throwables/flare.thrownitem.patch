@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "照明彈"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "進入黑暗洞穴前能用它點亮環境"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個破碎的展示櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "保護者展示櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這顯示器已粉碎了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個顯示器完全毀了。真是太慘了！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "破碎的桌子……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "心疼。哦不！這些珍貴顯示器已經沒辦法修了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個破碎的展示桌……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這太慘了。我會做惡夢的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不願相信我的眼睛……"
+} ]

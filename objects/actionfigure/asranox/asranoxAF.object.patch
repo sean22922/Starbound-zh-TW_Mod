@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"無情的歐卡薩斯邪教人類領袖。她使用一把日光礦鍛造的武士刀。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "艾瑟拉·諾克斯小雕像"
+} ]

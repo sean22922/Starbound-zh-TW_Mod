@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "維硫礦使得這些胸甲異常的堅韌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "冒險者胸甲"
+} ]

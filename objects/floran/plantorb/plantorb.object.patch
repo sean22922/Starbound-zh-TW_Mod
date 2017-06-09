@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一粒閃光之球。裡面似乎有空間存放東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "閃光之球"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種植物發出一個蒼白的綠光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個發光的植物，裡面的光球是空的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "光球很適合當容器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "神奇。這個光球是個天然的光源"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這粒小光球可以存放一點東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這粒光球散發的光亮好美麗"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "外表看起來不怎麼樣，但誰知道裡面有什麼東西"
+} ]

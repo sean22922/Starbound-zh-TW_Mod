@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件普通的夾克衫，防寒用的"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "普通的開襟毛衣"
+} ]

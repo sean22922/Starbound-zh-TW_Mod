@@ -1,0 +1,181 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鐵砧用來將布料和礦物製成鎧甲和武器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;鐵砧^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個鐵砧。猿人已經有很長很長一段時間沒有用它來製作金屬製品了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一塊又大又平的厚鐵板"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "真重，適、適合用來做陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "真自豪，機器人用這些鐵砧鍛造了各種各樣的武器，然後用鐵砧又鍛造了這些鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個鐵砧，這是人類歷史早期使用的東西"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "可能是用在金屬製作方面的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "鐵砧。對我來說一點都不陌生"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "鐵砧用來將布料和礦物製成鎧甲和武器"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;鐵砧^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "一個鐵砧。猿人已經有很長很長一段時間沒有用它來製作金屬製品了"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "一塊又大又平的厚鐵板"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "真重，適、適合用來做陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "真自豪，機器人用這些鐵砧鍛造了各種各樣的武器，然後用鐵砧又鍛造了這些鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "一個鐵砧。人類在他們的歷史初期就已經不適用這個東西了"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "可能是用在金屬製作方面的"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "鐵砧。對我來說一點都不陌生"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "鐵砧"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;武器和彈藥"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "這個熔爐是用來製造裝甲和武器的，原料是布料和礦石"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;熔爐^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "一個熔爐，我可以在這裡使用鈦和其他材料"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "一個用來把金屬打造為裝備的熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人用這個打造強力的武器"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "我可以在這裡造出很多鈦製裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "用這個熔爐就可以將金屬打造成裝備了！"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "用於將金屬打造為裝備的鍛造站"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "這個熔爐用於將金屬打造為裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "熔爐"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;武器和彈藥"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/description",
+  "value" : "3D列印機可以用布料和礦石製造裝甲和武器"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/shortdescription",
+  "value" : "^orange;3D列印機^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/apexDescription",
+  "value" : "一個3D列印機，我可以用它打造高品質裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/avianDescription",
+  "value" : "我可以在這裡把礦石打造為高品質裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/floranDescription",
+  "value" : "葉族人在這裡製造強力武器"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/glitchDescription",
+  "value" : "我可以用這個製造更多的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/humanDescription",
+  "value" : "用這個3D列印機可以造出超級強力的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/hylotlDescription",
+  "value" : "這個3D列印機可以讓我用高品質材料打造高品質裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/itemSpawnParameters/novakidDescription",
+  "value" : "有了這個3D列印機，我就可以給自己做一些非常棒的裝備"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 3D列印機"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;武器和彈藥"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/addonConfig/usesAddons/0/addonData/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "加速器桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/addonConfig/usesAddons/1/addonData/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "分離器桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/2/addonConfig/usesAddons/2/addonData/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "操縱器桌子"
+} ]

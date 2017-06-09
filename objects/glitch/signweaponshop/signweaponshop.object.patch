@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標識上有把劍。一般出現在武器店外面"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "武器店標誌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "武器店的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "也許能在這家店買武器"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "武器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚訝。我見過許多倒閉的武器店"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "標識上有把劍。也許是武器店？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一把劍，很可能是武器店"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這標誌是一把劍。我猜也許是武器店"
+} ]

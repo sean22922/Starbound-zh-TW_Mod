@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "矛齒冰魚"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "牠的身體覆蓋著一層堅硬的冰殼"
+} ]

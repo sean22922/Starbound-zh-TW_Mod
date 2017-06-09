@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "黑暗、朦朧的箱子"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "影之箱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "詭異黑暗的寶箱，裡面可能有不好的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "陰暗的箱子，感覺不可能有好東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一個黑色的寶箱，打賭一定有好東西"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張，黑暗的箱子很詭異，猶豫要不要打開"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "可能是我見過最不吉利的箱子了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這箱子吸收了附近的光亮"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個如夜般漆黑的箱子"
+} ]

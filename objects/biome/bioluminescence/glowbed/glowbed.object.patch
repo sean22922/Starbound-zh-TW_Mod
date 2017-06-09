@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張牀，生長著發光的植物"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "輝光牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這些燈讓人在夜裡找牀更容易"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這牀會成長？好神奇"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族喜歡植物牀，但不喜歡奇怪的光"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "放鬆，這牀發出昏暗舒緩的光亮"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這牀裡是裝了夜燈嗎？整潔"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這有機牀上的舒緩的燈光令人愉悅"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "會生長的牀很適合我"
+} ]

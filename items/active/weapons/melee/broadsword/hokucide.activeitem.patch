@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "偶然間海底的一次粒子加速爆炸所生成的一把劍"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "崩潰波"
+} ]

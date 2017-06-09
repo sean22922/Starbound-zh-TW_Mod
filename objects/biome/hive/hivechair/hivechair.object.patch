@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一把奇怪的椅子，由有趣的六角莢所組成"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "蜂巢椅"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這把看起來像是有機物的椅子黏糊糊的。我在猶豫要不要坐上去"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這把椅子感覺像是在蠕動……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "椅子聞起來好奇怪啊……葉族人真的不願意坐在這上面……"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。這真的是椅子嗎？還是什麼生物的巢穴？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這把椅子是用某種昆蟲的巢穴做的。怎麼會有人做這種東西啊？！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這把椅子看起來真的很像有機物，但它只是太噁心了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我不知道該對這張椅子的缺口說什麼好……"
+} ]

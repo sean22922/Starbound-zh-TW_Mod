@@ -1,0 +1,449 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/1",
+  "value" : "同事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/2",
+  "value" : "表親"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/3",
+  "value" : "工作夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/4",
+  "value" : "老朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/5",
+  "value" : "情人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/0",
+  "value" : "狩獵夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/1",
+  "value" : "朋友"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/2",
+  "value" : "對打夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/3",
+  "value" : "訓練夥伴"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/0",
+  "value" : "稍早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/1",
+  "value" : "不久之前"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/2",
+  "value" : "今天早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/3",
+  "value" : "昨晚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/4",
+  "value" : "昨天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/0",
+  "value" : "為作<activity2>進行腦力激盪"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/1",
+  "value" : "一起出去玩"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/2",
+  "value" : "在房裡鬥劍"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/3",
+  "value" : "蓋棉被純聊天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/4",
+  "value" : "談論我們喜歡的<activity2>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/5",
+  "value" : "談論我們的夢想"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/6",
+  "value" : "一起學習製作東西"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/7",
+  "value" : "一起玩牌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/8",
+  "value" : "練習我們的喜劇節目"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/9",
+  "value" : "談論我們的感受"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/10",
+  "value" : "討論我們對於<activity2>的熱愛"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/11",
+  "value" : "為了<activity3>的禁斷之戀而驚呆"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/12",
+  "value" : "因為對<activity3>的喜愛而結緣"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/13",
+  "value" : "討論八卦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/0",
+  "value" : "書"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/1",
+  "value" : "影片"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/2",
+  "value" : "美食"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/3",
+  "value" : "音樂劇"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/0",
+  "value" : "帕普踏普"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/1",
+  "value" : "帽子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/2",
+  "value" : "奇怪藝術"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/3",
+  "value" : "鞋子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/4",
+  "value" : "檸檬"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/5",
+  "value" : "長征"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/6",
+  "value" : "羊駝"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/7",
+  "value" : "看著像人的樹"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/8",
+  "value" : "太空旅行"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/9",
+  "value" : "脫衣舞"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/10",
+  "value" : "流行文化"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/0",
+  "value" : "赴約"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/1",
+  "value" : "出現"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/0",
+  "value" : "我確定"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/1",
+  "value" : "無庸置疑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/2",
+  "value" : "我確定"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/3",
+  "value" : "我懷疑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/0",
+  "value" : "慢跑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/1",
+  "value" : "談話"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/2",
+  "value" : "唱歌"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/3",
+  "value" : "辯論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/4",
+  "value" : "跑步"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/5",
+  "value" : "聊八卦"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/6",
+  "value" : "鍛鍊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/7",
+  "value" : "聊天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/8",
+  "value" : "捉蟲子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/9",
+  "value" : "採集"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/10",
+  "value" : "探索"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/11",
+  "value" : "尋寶"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/12",
+  "value" : "賞鳥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/13",
+  "value" : "爬山"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/14",
+  "value" : "試著蓋樹屋"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/15",
+  "value" : "找地方游泳"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/0",
+  "value" : "要練習格鬥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/1",
+  "value" : "要練習狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/2",
+  "value" : "要做傳統服裝"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/3",
+  "value" : "要練習刺槍術"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/4",
+  "value" : "私人理由"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/0",
+  "value" : "我們走散了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/1",
+  "value" : "<victimNpcType.pronoun.subject>失蹤了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/2",
+  "value" : "我突然找不到<victimNpcType.pronoun.object>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/0",
+  "value" : "被綁架了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/1",
+  "value" : "被引誘了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/2",
+  "value" : "被抓了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/3",
+  "value" : "受傷了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/0",
+  "value" : "發生事情了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/1",
+  "value" : "被捲入是非了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/0",
+  "value" : "發生壞事了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/1",
+  "value" : "被牽連了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/14/1/0",
+  "value" : "<victim.pronoun.capitalSubject> 和我都很感激！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/14/1/1",
+  "value" : "你是我的英雄！這是我的一點心意"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/14/1/2",
+  "value" : "我肯定<victim.pronoun.copulative>因為有你在身邊，覺得如釋重負！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/14/1/3",
+  "value" : "沒有你的話我就手足無措了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "救援任務"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/1",
+  "value" : "人質情況"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/2",
+  "value" : "拯救<questGiver>的 <friend>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我很擔心<friend><victimNpcType>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;我的<friend>失蹤了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族人的<friendfloran>失蹤了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;葉族人的<friendfloran>消失了……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;不安。我擔心我的<friend><victimNpcType>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;焦慮。我的找不到<friend>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "<earlier>我的<friend>^orange;<victimNpcType>^white;本想來找我，我們準備一起<activity1>，但<victimNpcType.pronoun.subject>沒有<turned>！<suspicion>是^orange;<enemy>^white;搞的鬼！我看到<victimNpcType.pronoun.object>在^orange;<spawnPoint.direction>的<spawnPoint>附近^white;<involved>。^green;你能去救 <victimNpcType>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "<earlier>我和我的<friend>^orange;<victimNpcType>^white;一起<activity>，後來<separated>。我看見幾個^orange;<enemy>^white;在附近，擔心<victimNpcType>已經<kidnapped>！我最後看見<victimNpcType.pronoun.object>是在^orange;<spawnPoint.direction>的<spawnPoint>^white;附近。^green;你能去找<victimNpcType.pronoun.object>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "<earlier>葉族人的<friendfloran>^orange;<victimNpcType>^white;本來為了<activityfloran>和葉族在這碰頭的，但葉族人沒見到他們！葉族人聽說附近有 ^orange;<enemy>^white;出沒在^orange;<spawnPoint.direction>的<spawnPoint>附近^white;－葉族人認為他們<involvedfloran>！^green;你能去調查嗎^white;？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "緊張。<earlier>我的<friend>^orange;<victimNpcType>^white;本應來拜訪，我們想一起<activity1>，但<victimNpcType.pronoun.subject>沒有<turned>！ <suspicion>^orange;<enemy>^white;有嫌疑，我看見<victimNpcType.pronoun.object>在靠近^orange;<spawnPoint.direction>的<spawnPoint>^white;<involved>。^green;你能救救 <victimNpcType>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "擔心。<earlier>我和我的<friend>^orange;<victimNpcType>^white;出去<activity>，然後<separated>。我看見幾個^orange;<enemy>^white;在附近遊蕩，擔心<victimNpcType>已經<kidnapped>！我最後看見<victimNpcType.pronoun.object>是在靠近^orange;<spawnPoint.direction>的<spawnPoint>^white;。^green;你能去找到<victimNpcType.pronoun.object>^white;嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "感謝你救了<victimNpcType>免遭<enemy>毒手。<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "你救了<victimNpcType>？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "你找到了<victimNpcType>？葉族人感謝你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "你找到了<victimNpcType>？謝謝你！不過，葉族人要是有武器，本來可以自己幹的…"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "感謝。謝謝你救了<victimNpcType>，使它免遭<enemy>毒手。<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "厲害！你救了<victimNpcType>？<appreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "別擔心－我相信<questGiver>的<friend>會在某處安全重生"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/1",
+  "value" : "我沒能幫<questGiver>找到他們的<friend>。我相信他們不用我的幫助也能重逢"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/floran/0",
+  "value" : "我沒能讓<questGiver>找到<friend>。我想他們不用我的幫助也能重逢"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "找到<spawnPoint>的位置"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "制裁<enemy>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "安全帶回<victimNpcType>"
+} ]

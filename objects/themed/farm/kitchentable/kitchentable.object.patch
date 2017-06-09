@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一張質樸的廚房桌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "廚房桌"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "不說虛的，真的是個做工精湛的廚房灶台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "當初做這個的人一定希望它能夠世代流傳"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "對於支撐沉重的肉類來說非常好的堅固桌子嘶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "觀察。一張村中家家必備的堅固廚桌"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "嗯，我能把它全吃光"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張廚桌的厚木板的拼接方式與功用都很棒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這沒什麼特別的但我有機會一定會拿走這張桌子"
+} ]

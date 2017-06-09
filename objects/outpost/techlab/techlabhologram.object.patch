@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "技術實驗室全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "技術實驗室界面"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "技術卡的一張全息圖"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一張全息技術卡"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張巨大技術卡的巨型流動圖片"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚奇。用全息圖片描繪的一張巨型技術卡"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "技術卡的一張巨大全息圖。我可以從中間穿過"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一張技術卡的全息呈現形式"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些小科技玩意的巨大全息圖"
+} ]

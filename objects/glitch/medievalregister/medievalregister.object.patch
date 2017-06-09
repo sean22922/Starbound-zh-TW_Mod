@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台機械式的收銀機。咔叮！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "現金出納機"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個小巧可愛的收銀機"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個小裝置上有些數字"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個小機器讓葉族人困惑惑了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這個收銀機接受像素嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "老式的收銀機"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個用來計算和保存什麼的機器"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一台像素分選機器"
+} ]

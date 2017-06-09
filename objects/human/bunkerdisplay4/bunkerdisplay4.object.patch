@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那才不是月亮……"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "異常螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "全息球。這可是大發現"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這些球體應該代表的是天體，但有痕跡表明這是人造的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "無聊的全息球"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好可怕。掃描顯示這是……哦不……不可能……"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "哇哦，這就是月球？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "球體閃著冷光。它讓我透心涼"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來像月亮，在一個冬日冷夜俯視著我"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "做起來很簡單又好吃，煎蛋卷總是不會錯的！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "煎蛋卷"
+} ]

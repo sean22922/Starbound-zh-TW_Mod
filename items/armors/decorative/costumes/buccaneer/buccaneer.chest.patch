@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鯨皮海盜大衣 -聞起來像鯨魚"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海盜大衣"
+} ]

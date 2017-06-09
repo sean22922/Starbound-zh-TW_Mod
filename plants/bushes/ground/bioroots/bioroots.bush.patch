@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一堆彎彎曲曲的樹根"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "一些彎曲的樹根"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "樹根"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述，那些看起來像樹根"
+} ]

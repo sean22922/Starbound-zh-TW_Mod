@@ -1,9 +1,0 @@
-{
-  "name" : "fishingshell",
-  "category" : "fishingshell",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fishingshell.png"
-  }
-}

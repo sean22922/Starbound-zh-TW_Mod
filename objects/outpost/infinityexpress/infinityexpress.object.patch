@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一家星際便利店。補給的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : " 無限特快"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個商店，肯定能買到所有我需要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一家近便的商店。希望賣我想要的東西"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用貨物來換像素"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。一個賣東西的商人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我希望他們賣起泡蘇打"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一家商店"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "悄悄給我買一瓶機械番茄果汁"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : " 無限特快"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "^#b9b5b2;燃料，點心和其他雜貨"
+} ]

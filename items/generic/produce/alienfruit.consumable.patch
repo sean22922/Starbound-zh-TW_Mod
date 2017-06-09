@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "異域水果，非常多汁"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "異域水果"
+} ]

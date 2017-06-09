@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "我可不能長時間待在這個石頭平台上面！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "神廟壓力平台"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "類似於壓敏平台"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我站來上面不知道會發生什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這平台有點意思。葉族人要站上去試試嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "疑惑。我想有人出於什麼目的造了這麼樣一個平台"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "巨大的壓敏平台"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這怎麼啟動？"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "在知道是什麼東西之前，我不會貿然上去的"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "micropo",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "micropo.png"
-  }
-}

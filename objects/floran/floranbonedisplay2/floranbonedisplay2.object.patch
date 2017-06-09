@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這根骨頭上刻著野蠻的葉族人的傳說"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "雕刻骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這根骨頭上刻著葉族人狩獵的傳說"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "骨頭上的雕刻是在描述一次英勇的獵殺"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "如果有葉族人在狩獵中犧牲的話，他們的最後一場戰役將會被記錄在獵物的骨頭上"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "慌亂。這根骨頭上記錄了一次獵殺，看樣子有個葉族人在過程中犧牲了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這根骨頭上記載了一次傳奇的獵殺，這根骨頭是從獵物身上拿出來的嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這根顧上記載了為了殺死這隻可憐的生物，至少有一個葉族人犧牲了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "誰會想留著這玩意。上面的雕刻記載了一次雷殺"
+} ]

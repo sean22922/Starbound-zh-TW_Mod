@@ -1,9 +1,0 @@
-{
-  "name" : "parasprite",
-  "category" : "parasprite",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "parasprite.png"
-  }
-}

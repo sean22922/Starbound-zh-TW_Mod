@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這張別緻的舊牀上有些令人不安的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "幽靈牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我總覺得這牀有點不對……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這張牀有點不對勁，我感覺得到"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人睡在這裡會很緊張的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "緊張。這個傢俱裡面有什麼惡毒之物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "當你在害怕中保持甦醒的時候幹嘛睡覺呢？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "要是睡在這裡我一定很絕望"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "難道下面藏了什麼？"
+} ]

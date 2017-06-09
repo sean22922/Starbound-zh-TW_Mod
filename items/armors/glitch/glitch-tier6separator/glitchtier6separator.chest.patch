@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "鍍金的胸甲，戰場老兵專用"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毀滅領主的胸甲"
+} ]

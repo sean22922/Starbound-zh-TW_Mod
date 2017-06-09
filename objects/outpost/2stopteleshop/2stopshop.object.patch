@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這艘船帶有各種各樣的傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "兩站傳送商店"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "販賣傳送器的商店。這個遲早用得上"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個賣傳送裝置的商店！真是個好消息"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以從這買傳送器"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。一個販賣傳送設備的小販！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "賣各種傳送器的商店。為完美出行做裝備……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "賣傳送器的商店。也許我該看看"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "賣傳送器的商店……要是你有一堆像素點的話"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "兩站傳送商店"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "讓你省下煩人的中轉直接從A地到B地去"
+} ]

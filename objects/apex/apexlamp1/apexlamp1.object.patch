@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "燈罩帶小圓點花樣的木製檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "制式檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個標準檯燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "有人喜歡波點嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "該死的聚光燈！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "快樂：電子人很享受燈光"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一台舊的燈"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "燈發出了陰暗的光"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一盞檯燈。沒什麼特別的"
+} ]

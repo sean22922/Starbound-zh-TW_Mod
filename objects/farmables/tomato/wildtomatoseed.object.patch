@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "番茄是多汁的水果，或者說蔬菜"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "番茄種子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我特別喜歡多汁的番茄"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "番茄種子可以增添許多菜餚"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "番茄是多汁且血紅的水果"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "惡作劇。腐壞的番茄可以砸別人"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "番茄很適合用來做沙拉……或者是披薩"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "番茄還可以"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "番茄可以做很好吃的小吃"
+} ]

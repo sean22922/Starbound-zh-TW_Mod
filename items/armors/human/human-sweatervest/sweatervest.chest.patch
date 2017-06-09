@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "你的胸部倒是暖和了，但胳膊怎麼辦呢？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "毛衣背心"
+} ]

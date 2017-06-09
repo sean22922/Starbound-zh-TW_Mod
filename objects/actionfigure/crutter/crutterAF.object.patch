@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "標籤寫道：\"小劑量的毒性也是致命的。\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "苦毒兔小雕像"
+} ]

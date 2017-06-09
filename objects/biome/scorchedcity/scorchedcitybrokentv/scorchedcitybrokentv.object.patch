@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一台壞掉的電視"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "破碎的時尚電視"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這電視的螢幕已經壞了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個損壞的電視"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "電視壞了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷，一個損壞的電視"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "螢幕壞了。不過就算是那樣，也比靜止的畫面好"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一台壞掉的電視"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "螢幕顯然被砸壞了"
+} ]

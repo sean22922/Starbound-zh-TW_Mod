@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/default/default/0",
+  "value" : "攻擊！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/0",
+  "value" : "葉族準備好狩獵更多獵物了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/1",
+  "value" : "你是來跟葉族戰鬥的嗎？葉族很興奮！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/2",
+  "value" : "準備好變成肉串吧！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/attack/floran/default/3",
+  "value" : "葉族是所有獵人中最厲害的！"
+} ]

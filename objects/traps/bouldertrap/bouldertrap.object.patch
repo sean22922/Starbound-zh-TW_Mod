@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個掉落巨石阻止入侵者的陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "古廟巨石陷阱"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "如果我時間計算得好的話，我應該不會被掉落的巨石砸到"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我最好時間算好點。我可不想被砸成肉泥"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "巨石從這個洞裡落出"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "失望。時間那麼充裕，做這個石頭陷阱有什麼鳥用？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "巨石從那個小洞裡面出來"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "時間規劃好的話，就可以輕鬆躲開巨石"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "滾動的巨石喲！"
+} ]

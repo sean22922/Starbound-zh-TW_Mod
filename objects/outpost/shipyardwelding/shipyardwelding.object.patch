@@ -1,0 +1,49 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "他看起來很忙"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝焊接工"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我分不清他是在拆除還是組裝那個東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一隻拿著噴燈的企鵝，我感覺有點危險"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "那隻企鵝就一口大小"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "迷人。我想知道這隻企鵝在幹嘛？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我肯定那隻企鵝費了好大勁爬上那個梯子"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一隻企鵝拿著噴燈站在梯子上，我感覺有點緊張"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻小企鵝正在忙著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/0",
+  "value" : "對不起，朋友，如果船長看到我說話而不工作的話，他會掐死我的！"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/1",
+  "value" : "我有點忙。如果你有問題的話，去給經銷商反映"
+}, {
+  "op" : "replace",
+  "path" : "/chatOptions/2",
+  "value" : "如果你對這些零件感興趣的話，可以去跟我們的經銷商談談"
+} ]

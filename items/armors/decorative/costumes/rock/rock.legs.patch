@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "特別適合礦工"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "岩石褲子"
+} ]

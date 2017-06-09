@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這種盔甲的脖子以及關節處十分靈活，而其他地方幾乎無法刺穿，可以保證戰鬥中的敏捷度"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "滲透者胸甲"
+} ]

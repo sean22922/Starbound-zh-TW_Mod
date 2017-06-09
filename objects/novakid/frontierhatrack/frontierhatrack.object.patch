@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "裝飾性的黃銅角"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境帽架"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一開始像是什麼動物的角，但其實是人造的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這套人造的角看起來非常光滑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人對僞造的戰利品不感興趣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "困惑。這是一對人造的角嗎？幹什麼用的？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一對掛在牆上的角……等等，這些不是真的角！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這一對是人造的角嗎？不明白有什麼用"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些不是真的角，只是仿成了角的樣子！"
+} ]

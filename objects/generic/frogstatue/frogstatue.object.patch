@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一樽安坐著的青蛙雕像"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "青蛙雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個看起來很安靜的青蛙雕像"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個生物好像有些哀傷又有些若有所思"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會刺死這個蛙人的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感興趣，這個雕像描繪了一個我不知道的蛙的種類"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "如果這些傢夥再多一點的話，我們就可以來一個合唱了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這是一座青蛙的盛大雕像"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這隻青蛙為什麼是這樣坐著的？我感覺它會弄傷它的腿"
+} ]

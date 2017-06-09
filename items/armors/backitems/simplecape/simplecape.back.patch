@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件普通的披肩。固定一種顏色，滿足各種需求！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "簡陋的斗篷"
+} ]

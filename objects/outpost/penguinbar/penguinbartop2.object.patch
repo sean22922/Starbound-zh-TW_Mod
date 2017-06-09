@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "適合一隻企鵝的酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "企鵝酒吧頂部"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個企鵝酒吧存貨不全，不確定他們現在還提供喝的"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "你看，有這麼多喝的酒吧，但是卻沒看到酒保賣出去任何……"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "酒吧不向任何人賣酒"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。酒保也許拿著一個瓶子，但是我沒見到他賣個任何人一杯酒"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個酒吧存貨很少。很明顯他們不打算買任何飲料"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "好差勁的庫存。酒保不再假裝賣東西了，尷尬癌好多了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "那破舊吧甚至都不假裝再買東西了"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "比奇茲的酒吧"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "招募企鵝傭兵！"
+} ]

@@ -1,0 +1,377 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/monster/example/name",
+  "value" : "堅果蠓蟲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "怪獸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/0",
+  "value" : "兇猛的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/1",
+  "value" : "殘忍的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/2",
+  "value" : "強大的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/3",
+  "value" : "嚇人的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/4",
+  "value" : "嗜血的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/5",
+  "value" : "詭異的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/1/1/6",
+  "value" : "致命的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/0",
+  "value" : "強壯的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/1",
+  "value" : "可怕的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/2",
+  "value" : "致命的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/2/1/3",
+  "value" : "頑強的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/0",
+  "value" : "探索"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/1",
+  "value" : "散步"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/2",
+  "value" : "慢跑"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/3",
+  "value" : "露營"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/3/1/4",
+  "value" : "健行"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/0",
+  "value" : "稍早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/1",
+  "value" : "不久之前"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/2",
+  "value" : "這周早些時候"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/3",
+  "value" : "昨晚"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/4/1/4",
+  "value" : "昨天"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/0",
+  "value" : "壞事發生了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/1",
+  "value" : "災難來襲"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/2",
+  "value" : "千鈞一髮"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/3",
+  "value" : "我剛剛好躲過了悲劇的命運"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/5/1/4",
+  "value" : "我經歷了駭人的一切"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/0",
+  "value" : "差點吃了我"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/1",
+  "value" : "想要吃我鞋子"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/2",
+  "value" : "衝著我的臉毫不客氣地尖叫"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/3",
+  "value" : "幾乎把我撕成兩半"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/6/1/4",
+  "value" : "斜睨著我白眼翻到頭頂"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/0",
+  "value" : "議論"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/7/1/1",
+  "value" : "謠傳"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/0",
+  "value" : "能嗅到恐懼"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/1",
+  "value" : "已經活了一百年"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/2",
+  "value" : "懂得武術"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/3",
+  "value" : "會讀心術"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/4",
+  "value" : "戴著老花眼鏡超級聰明"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/5",
+  "value" : "永遠都醒著不知睡眠為何物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/6",
+  "value" : "一直低語著將死之人的名字"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/7",
+  "value" : "馬上就知道你幹過的糗事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/8",
+  "value" : "知道怎麼後空翻"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/9",
+  "value" : "是實驗失敗的產物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/10",
+  "value" : "曾經起死回生"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/11",
+  "value" : "來自未來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/12",
+  "value" : "能隨意把內臟翻出來"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/13",
+  "value" : "比較偏愛吃勇敢的探險者"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/14",
+  "value" : "已經忘了如何去愛"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/8/1/15",
+  "value" : "能在你夢中殺了你"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/0",
+  "value" : "用暴力解決"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/1",
+  "value" : "除之而後快"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/2",
+  "value" : "殺掉野獸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/3",
+  "value" : "為我殺了它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/4",
+  "value" : "搞定它"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/9/1/5",
+  "value" : "把它搞走"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/0",
+  "value" : "如果你覺得自己夠強壯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/1",
+  "value" : "如果你夠勇敢"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/2",
+  "value" : "如果你覺得自己能夠打敗這強大的野獸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/3",
+  "value" : "如果你接受挑戰"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/4",
+  "value" : "如果你是一個值得尊敬的獵手"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/10/1/5",
+  "value" : "如果你是夠勇敢的獵人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/0",
+  "value" : "你打敗了<giant><monster>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/1",
+  "value" : "你幹掉<monster>了？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/11/1/2",
+  "value" : "哦，你解決了<giant><monster>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/0",
+  "value" : "你是附近最棒的怪物獵手！希望這份酬勞配得上你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/1",
+  "value" : "謝謝！我很感謝！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/2",
+  "value" : "知道你讓這裡變得更安全，我會睡得更好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/3",
+  "value" : "謝謝！你讓這裡安全多了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/12/1/4",
+  "value" : "知道那東西不會出現，我可以睡覺了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/0",
+  "value" : "葉族對此印象深刻"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/1",
+  "value" : "葉族不確定你辦不辦得到！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/2",
+  "value" : "葉族很驚訝你有這種能力！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/13/1/3",
+  "value" : "葉族未來不會懷疑你……之前也不曾懷疑你！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/0",
+  "value" : "<giant><monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/default/1",
+  "value" : "獵捕<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/floran/0",
+  "value" : "挑戰<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/floran/1",
+  "value" : "<monster>獵人"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;我需要你幫我處理一隻怪物"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;葉族為你安排了一次挑戰"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;害怕。需要打敗這隻野獸"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "有<talk>一隻<giant>^orange;<monster>^white;在^orange;<spawnPoint.direction>的<spawnPoint>^white;。有人說牠<rumour1>！你能<request>，好讓我安心嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "<earlier>我外出<exploring> ，在^orange;<spawnPoint.direction>的<spawnPoint>^white;<disaster>！一隻<giant>^orange;<monster>^white;出現，然後<fate>。你可以<request>，給牠點教訓嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "葉族聽人說<giantfloran>^orange;<monster>^white;在^orange;<spawnPoint.direction>的<spawnPoint>^white;。葉族覺得這是一次不錯的狩獵！<challengefloran>，^green;你該去刺一下^white;！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "驚嚇。有人<talk>在^orange;<spawnPoint.direction>的<spawnPoint>^white;有一隻<giant>^orange;<monster>^white;。聽說牠<rumour1>！你可以<request>，救救我們嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "痛苦。<earlier>我外出<exploring>時，在^orange;<spawnPoint.direction>的<spawnPoint>^white;，突然<disaster>！一個<giant>^orange;<monster>^white;出現<fate>。你可以<request>，給牠點教訓嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "<appreciation1><appreciation2>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "你獵殺了<monster>？<floranappreciation>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "欣喜若狂。<appreciation1><appreciation2>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/default/0",
+  "value" : "我試著幫助<questGiver>但失敗了，很遺憾"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "找到<spawnPoint>的位置"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "殺死<monster>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/2/text",
+  "value" : "回到<questGiver>那裡"
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "外形很常見的罈子。它看上去很生氣並且易碎"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "外形常見的罈子"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個罈子看上去很眼熟"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "我從來沒見過這樣的罈子，也許這是一個有幽默感的人的骨灰"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "我好奇這個生物的味道怎麼樣"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有趣。我從沒見過這樣的生物"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "嘿，那個看起來就像是……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "奇怪的生物"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種生物像什麼？"
+} ]

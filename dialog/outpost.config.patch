@@ -1,0 +1,357 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "我沒什麼好說的"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/0",
+  "value" : "你看著不像是迷你克諾格……"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/human/0",
+  "value" : "在我們中見到人類真是太好了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/0",
+  "value" : "賤民，你居然冒險回來"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/avian/0",
+  "value" : "你好，翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/floran/0",
+  "value" : "一個葉族人。哦"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/glitch/0",
+  "value" : "你好，機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/hylotl/0",
+  "value" : "你好，鮫族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/0",
+  "value" : "我不確定我是否想知道你是誰"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/human/0",
+  "value" : "你好啊，皮膚光滑的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/apex/0",
+  "value" : "別靠太近，猿人。你太臭了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/avian/0",
+  "value" : "你好，翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/floran/0",
+  "value" : "嘔！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/glitch/0",
+  "value" : "噢，一個機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/0",
+  "value" : "啊，總算遇到能賞識我的人了"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/0",
+  "value" : "祝你愉快，陌生人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/human/0",
+  "value" : "你好，人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/apex/0",
+  "value" : "你好，猿人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/0",
+  "value" : "你好，翼族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/floran/0",
+  "value" : "哦……一個葉族人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/glitch/0",
+  "value" : "你好，機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/hylotl/0",
+  "value" : "一個鮫族"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/default/0",
+  "value" : "美好的一天！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/0",
+  "value" : "喲!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/human/1",
+  "value" : "嘿，很高興見到你"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/apex/0",
+  "value" : "會說話的猴子，酷"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/avian/0",
+  "value" : "嘿，是大鳥！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/floran/0",
+  "value" : "三裂植物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/glitch/0",
+  "value" : "哇，漂亮，一個機器人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/human/hylotl/0",
+  "value" : "嘿，一條大魚"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/0",
+  "value" : "奇怪的東西"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/human/0",
+  "value" : "屠夫！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/apex/0",
+  "value" : "葉族人想要猴子的擁抱！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/avian/0",
+  "value" : "鳥人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/0",
+  "value" : "葉族人！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/glitch/0",
+  "value" : "葉族人向金屬人打招呼！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/hylotl/0",
+  "value" : "嘶嘶！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/0",
+  "value" : "疑惑。你是什麼種類？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/human/0",
+  "value" : "這就是優越性。弱小的人類"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/apex/0",
+  "value" : "震驚。多麼毛絨絨的生物！"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/avian/0",
+  "value" : "疑問。你的羽毛是自己裝上去的麼，還是讓工匠裝的？"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/floran/0",
+  "value" : "友好。你好，植物人"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/0",
+  "value" : "友好。問候朋友"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/hylotl/0",
+  "value" : "懷疑。雖與生活在水下的物種來說，你聞起來不太乾淨"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/default/default/0",
+  "value" : "幫幫我！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/default/default/1",
+  "value" : "救命啊！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/default/default/2",
+  "value" : "我被搭訕了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/0",
+  "value" : "恐懼。幫幫我！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/1",
+  "value" : "畏懼。請不要傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/2",
+  "value" : "辱罵。我被搭訕了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/3",
+  "value" : "害怕。離我遠點！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/4",
+  "value" : "嚇壞。救我啊！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/glitch/default/5",
+  "value" : "震驚。不要！離我遠點！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/floran/default/0",
+  "value" : "輪到我了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/floran/default/1",
+  "value" : "葉族人受傷了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpme/floran/default/2",
+  "value" : "葉族沒有做好狩獵準備！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/default/default/0",
+  "value" : "你幹了什麼？！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/0",
+  "value" : "恐懼。來人幫幫我！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/1",
+  "value" : "畏懼。請不要傷害我！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/2",
+  "value" : "害怕。走開！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/3",
+  "value" : "嚇壞。救我啊！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/4",
+  "value" : "震驚。你做了什麼？！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/glitch/default/5",
+  "value" : "正義。我要寫一封電子信抗議！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/floran/default/0",
+  "value" : "輪到我了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/floran/default/1",
+  "value" : "葉族人受傷了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/helpthem/floran/default/2",
+  "value" : "葉族沒有做好狩獵準備！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/default/default/0",
+  "value" : "抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/default/default/1",
+  "value" : "為我報仇！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/default/default/2",
+  "value" : "為我抓住它們！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/default/default/3",
+  "value" : "別讓它們跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/glitch/default/0",
+  "value" : "鼓勵。用劍砍他們！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/glitch/default/1",
+  "value" : "激動。替我報仇！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/glitch/default/2",
+  "value" : "好鬥。打倒他！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/glitch/default/3",
+  "value" : "報復。別讓他們跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/floran/default/0",
+  "value" : "攻擊入侵者！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/floran/default/1",
+  "value" : "葉族人報仇了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/encourage/floran/default/2",
+  "value" : "讓他們閉嘴！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/default/default/0",
+  "value" : "呼，應該是安全了"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/default/default/1",
+  "value" : "我成功逃脫了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/default/default/2",
+  "value" : "這裡是安全區嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/glitch/default/0",
+  "value" : "放鬆。咻，我覺得我逃掉了"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/glitch/default/1",
+  "value" : "感謝。我逃跑了！"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/glitch/default/2",
+  "value" : "希望。我能維持生計就好了"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/glitch/default/3",
+  "value" : "希望。我安全了？"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/glitch/default/4",
+  "value" : "尷尬。嚇得我泄油了"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/floran/default/0",
+  "value" : "葉族人現在安全了"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/floran/default/1",
+  "value" : "葉族人沒有被刺傷"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/floran/default/2",
+  "value" : "他們很幸運葉族人沒有武器"
+}, {
+  "op" : "replace",
+  "path" : "/flee/safe/floran/default/3",
+  "value" : "救贖！"
+} ]

@@ -1,0 +1,301 @@
+[ {
+  "op" : "replace",
+  "path" : "/parameters/target/example/name",
+  "value" : "罪犯McCriminalson"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/0",
+  "value" : "是個渾球"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/1",
+  "value" : "入侵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/2",
+  "value" : "盜竊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/3",
+  "value" : "危險行為"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/4",
+  "value" : "擾亂和平"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/5",
+  "value" : "蓄意攻擊"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/6",
+  "value" : "尋釁滋事"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/fluff/0/1/7",
+  "value" : "掃了大家的興"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/0",
+  "value" : "收取<target>的損害賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/title/1",
+  "value" : "制裁<target>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/0",
+  "value" : "^cyan;幫助葉族人制裁<target>！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/floran/1",
+  "value" : "^cyan;讓<target>付出破壞規則的代價！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/0",
+  "value" : "^cyan;模糊。顯然<target>破壞了規則……我認為我們應該伸張正義"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/glitch/1",
+  "value" : "^cyan;入神。你能幫助我制裁<target>嗎？我有個主意……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/0",
+  "value" : "^cyan;你看起來是個很理智的人。你能幫我制裁<target>嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/goalText/default/1",
+  "value" : "^cyan;<target>最近在這裡惹了很多麻煩——是時候要糾正一下<target.pronoun.object>了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/0",
+  "value" : "葉族人事情太多，太忙了。你能幫幫葉族人嗎？^orange;<target> ^white;犯下了可恥的罪行，法律必須得到伸張！^green;去將這張^orange;犯罪通知^green;帶給<target.pronoun.object>，並拿走一個^orange;<item>^green;當做賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/floran/1",
+  "value" : "葉族人聽說^orange;<target>^white;表現得不是很好。葉族人想讓你悄悄解決這件事——^green;拿上這張^orange;犯罪通知^green;，交給<target.pronoun.object>，並且從<target.pronoun.object>那裡拿走一個^orange;<item> ^green; ^white;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/0",
+  "value" : "心不在焉。^orange;<target>^white;犯了罪，並欠下一筆罰款。你能將^green;這張^orange;通知^green;交給<target.pronoun.object>^white;嗎？然後^green;拿走<target.pronoun.possessiveDet> ^orange;<item>^white;作為損害的賠償。這項任務很瑣碎，我沒空去做"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/glitch/1",
+  "value" : "堅決。首先，我很遺憾地告訴你，我們看起來十分清白的夥伴^orange;<target>^white;最近犯了罪。^green;送過去這張^orange;犯罪通知^white;，然後拿走<target.pronoun.possessiveDet> ^orange;<item>^white;作為補償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/0",
+  "value" : "我這裡有許多證據證明^orange;<target>^white;不太清白。^green;將這張^orange;罰款通知^green;交給<target.pronoun.object>。^white; <target.pronoun.capitalSubject>已經同意交出<target.pronoun.possessiveDet>^orange;<item>^white;作為賠償了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/first/default/1",
+  "value" : "我們的當務之急與^orange;<target>^white;有關。某些證據表明<target.pronoun.subject>非常可疑。^green;送去這張^orange;罰單^green;然後拿走<target.pronoun.possessiveDet>^orange;<item>^white;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/0",
+  "value" : "葉族人有另外一個任務要交給你。^orange;<target>^white;犯下了令人不恥的罪行，葉族人要伸張正義！^green;去將這張^orange;罰單^green;交給<target.pronoun.object>，然後拿走一個^orange;<item>^green;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/floran/1",
+  "value" : "葉族人聽說^orange;<target>^white;做了某些很糟糕的事。葉族人寫了一張^orange;犯罪通知^white;給<target.pronoun.object>。^green;把它送過去，然後拿走一個^orange;<item>^green;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/0",
+  "value" : "心不在焉。我需要你幫我做點別的事——維護法律是非常重要的，但午休也很重要。^orange;<target>^white;拖欠了份罰款——你能^green;將這張^orange;通知^green;交給<target.pronoun.object>^white;嗎？然後^green;拿走<target.pronoun.possessiveDet>^orange;<item>^white;作為損害的賠償？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/glitch/1",
+  "value" : "堅決。我聽說，^orange;<target>^white;犯罪被逮了個正著！我不會坐視不理的——^green;將這張^orange;罰單^green;交給<target.pronoun.object>^white;，然後^green;拿走<target.pronoun.possessiveDet>^orange;<item>^white;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/0",
+  "value" : "^orange;<target>^white;因違法而欠下一筆罰款。^green;帶著這張^orange;罰款通知^white;。<target.pronoun.capitalSubject>已經同意將<target.pronoun.possessiveDet> ^orange;<item>^white;當做損害的賠償了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/next/default/1",
+  "value" : "我們下一個任務是關於^orange;<target>的。^white;<target.pronoun.subject>已經證明<target.pronoun.reflexive>是一名罪犯。^green;將這張^orange;通知^green;交給<target.pronoun.object>，^white;<target.pronoun.subject>已經同意將<target.pronoun.possessiveDet>^orange;<item>當做補償了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/0",
+  "value" : "葉族人還有最後一項工作要交給你。^orange;<target>^white;犯下了無恥的罪行，因此必須得到懲罰！^green;去將這張^orange;犯罪通知^green;交給<target.pronoun.object>，然後拿走^orange;<item>^green;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/floran/1",
+  "value" : "是時候制裁^orange;<target>了！^green;帶著這張葉族人寫的^orange;犯罪通知 ^white;，然後^green;拿走一個^orange;<item>^green;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/0",
+  "value" : "惱怒。最後，^orange;<target>^white;犯了法，並欠下一筆罰款。我沒時間去收。你能^green;將這張通知交給^orange;<target>^white;然後^green;拿走<target.pronoun.possessiveDet> ^orange;<item>^white;作為損害的賠償嗎？感激不盡"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/glitch/1",
+  "value" : "那麼，是時候讓^orange;<target>^white;為<target.pronoun.possessiveDet>罪行付出代價了。^green;將這封^orange;犯罪通知^green;交給<target.pronoun.object>，^white;然後拿走<target.pronoun.possessiveDet>^orange;<item>^white;作為補償。希望<target.pronoun.subject>在今後能遵紀守法！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/0",
+  "value" : "最後，^orange;<target>^white;還拖欠這一筆罰款。^green;送達這封^orange;通知^white;然後^green;沒收<target.pronoun.possessiveDet>^orange;<item>^white;作為損害的賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/last/default/1",
+  "value" : "最後，我們要讓^orange;<target>^white;為<target.pronoun.possessiveDet>可恥行為付出代價。^green;將這封^orange;通知^green;交給<target.pronoun.object>，^white;這個是犯罪行為造成損害的憑據。^green;沒收<target.pronoun.possessiveDet>^orange;<item>^white;作為補償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/0",
+  "value" : "<target>犯下了卑鄙的罪行，必須受到制裁！葉族人認為你最適合這個工作！^green;去將這封^orange;犯罪通知^green;交給^orange;<target>^green;並拿走<target.pronoun.possessiveDet>^orange;<item> ^white;作為賠償"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/floran/1",
+  "value" : "葉族人發現^orange;<target>^white;做了一些非常惡劣的事！這是一張^orange;犯罪通知。^green;把它交給<target.pronoun.object>然後拿走一個^orange;<item>^green;作為懲罰^white;，預防<target.pronoun.possessiveDet>再犯"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/0",
+  "value" : "無精打采。你現在不忙吧？^orange;<target>^white;犯了法，欠下了一筆罰款。你能^green;把這張^orange;通知^green;交給<target.pronoun.object>^white;並^green;沒收<target.pronoun.possessiveDet>^orange;<item>^white;作為賠償嗎？我本該親自去，但我……不想去"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/glitch/1",
+  "value" : "堅決。^orange;<target>^white;做出了不道德的事，我希望給<target.pronoun.object>一個教訓。^green;將這封^orange;犯罪通知^white;交給<target.pronoun.object>，^white;並^green;拿走<target.pronoun.possessiveDet>^orange;<item>^white;作為補償，預防<target.pronoun.possessiveDet>再犯。但願<target.pronoun.subject>能知錯就改！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/0",
+  "value" : "^green;我想讓你把這張^orange;罰款通知^white;交給^orange;<target>^white;。<target.pronoun.capitalSubject>已經同意交出<target.pronoun.possessiveDet>^orange;<item>^white;作為損害的賠償了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/text/default/default/1",
+  "value" : "^green;將這封^orange;犯罪通知^green;交給^orange;<target>^white;。<target.pronoun.capitalSubject>已經同意交出<target.pronoun.possessiveDet>^orange;<item>^white;作為<target.pronoun.possessiveDet>罪行的賠償了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/0",
+  "value" : "堅定地維護法律——你做的真的很好！你能再為葉族人做點別的事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/floran/1",
+  "value" : "葉族人伸張了正義，而且我們得到了<item>。葉族人會好好利用這個東西的……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/0",
+  "value" : "愉悅。做得好，你成功從<target>那裡收到了罰款！我的待辦清單裡又可以劃掉一項了。你還可以為我做點別的事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/glitch/1",
+  "value" : "愉悅。<target>毫無疑問得到了<target.pronoun.possessiveDet>教訓……而<item>也是很有用的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/0",
+  "value" : "做得好，你成功從<target>那裡收到罰款了。這個<item>也很棒。你還可以為我做點別的事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/first/default/1",
+  "value" : "<target>毫無疑問得到了<target.pronoun.possessiveDet>教訓。而這個<item>也是很有用的！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/0",
+  "value" : "正義得到了伸張！你做得非常好！你願意再為葉族人做最後一件事嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/floran/1",
+  "value" : "謝謝！但願<target>從今以後能改邪歸正。這個<item>對葉族人而言可能也會很有用……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/0",
+  "value" : "愉悅。謝謝你收來了<target>的罰款！我當然是因為沒有時間，不過你看起來倒是有大把的時間"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/glitch/1",
+  "value" : "愉悅。謝謝你讓<target>明白了<target.pronoun.possessiveDet>行為的後果。這個<item>可能也非常有用"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/0",
+  "value" : "謝謝你收來了<target>的罰款！如果是我自己去的話，不知道<target.pronoun.subject>能不能乖乖交出賠償呢。 多虧你看起來像是<target>惹不起的傢夥"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/next/default/1",
+  "value" : "謝謝你讓<target>明白了<target.pronoun.possessiveDet>行為的後果！我已經想到好幾個<item>的用處了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/0",
+  "value" : "正義！也許你應該代替葉族人來承擔這項工作……"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/floran/1",
+  "value" : "多謝你的幫助！這個<item>就送給你了，葉族人不需要"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/0",
+  "value" : "愉悅。幹得好，你成功收來了<target>的罰款！也給我們省卻了許多麻煩"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/glitch/1",
+  "value" : "安心。謝謝你讓<target>得到了教訓。這個<item>就送給你了，這是你應得的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/0",
+  "value" : "幹得好，你成功收來了<target>的罰款。我還有點擔心<target.pronoun.subject>會耍賴呢。這個<item>就當做報酬送給你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/last/default/1",
+  "value" : "謝謝你讓<target>得到了教訓，但願<target.pronoun.subject>這次認識到了沒人能凌駕於法律之上。這個<item>就送給你了，這是你應得的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/0",
+  "value" : "法律得到了堅決的維護！你應該繼續堅持下去"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/floran/1",
+  "value" : "但願<target>得到了教訓——永遠不要再被抓到做壞事了……如果不介意的話，這個<item>就送給你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/0",
+  "value" : "狂喜。你真的從那裡<target>收來罰款了！我的待辦清單上終於又可以劃掉一項了！"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/glitch/1",
+  "value" : "感激。謝謝你讓<target>學會了遵紀守法，雖然那些規則也都很模糊，而且寫的時候也是馬馬虎虎。 如果不介意的話，這個<item>就送給你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/0",
+  "value" : "你做的非常好！收下<item>吧，這是你的報酬。我只是要讓<target>明白沒人能凌駕於法律之上"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/completionText/default/default/1",
+  "value" : "多謝你的幫助！<target>這回應該學會遵紀守法了。如果不介意的話，這個<item>就送給你了"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/0",
+  "value" : "我沒能將犯罪通告帶給<target>，也沒能收集到<item>來作抵押物。也許我沒有做討債者的才能"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/1",
+  "value" : "我沒能從<target>收到關於<target.pronoun.possessiveDet>行為的補償。但我相信出來混，遲早要還的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/2",
+  "value" : "我沒能從<target>那裡得到罰金。也許<questGiver>應該停止讓路人為<questGiver.pronoun.object>做討債的工作"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/generatedText/failureText/3",
+  "value" : "我沒能從<target>那裡得到罰金。也許<questGiver>應該靠<questGiver.pronoun.reflexive>通緝<target.pronoun.object>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crimeNotice/0",
+  "value" : "<target>，你因為<crime>被通緝，代價是一個<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crimeNotice/1",
+  "value" : "<target>通緝中，原因：<crime>。<target.pronoun.capitalSubject>需要付出一個<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crimeNotice/2",
+  "value" : "<target>交出一個<item>，出來混，遲早要還的"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crimeNotice/3",
+  "value" : "請付給<player>一個<item>來抵銷罪行：<crime>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/0/text",
+  "value" : "從<target>獲得<item>"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/objectives/1/text",
+  "value" : "回到<questGiver>那裡"
+} ]

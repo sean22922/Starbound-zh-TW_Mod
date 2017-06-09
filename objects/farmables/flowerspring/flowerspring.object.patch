@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一朵芳香的春之花"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "春之花"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一朵春之花"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一朵美麗的春之花"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人可以用這朵花做出不同顏色的衣服"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "歡樂。一朵美麗的春之花"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一朵春之花，現在一定是適合它生長的溫度"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一朵高雅的春之花"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "只要有一把這朵花的花瓣，我就可以製作染料了！"
+} ]

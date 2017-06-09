@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一個古老的符文。某人家族的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "家族符文"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個古老平常的符文，提及到家的概念"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個象徵家族的古老符文"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "符文意味著家族"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "吃驚。一個符文意味著家庭。那麼家庭意味著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個符文是用來象徵家的呢，還是用來作區分的？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "你可以質疑家庭的概念是否真的能被定義"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這個標誌象徵家庭。對我來，家是心靈的港灣"
+} ]

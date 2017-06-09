@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "那是個翼族人…還是一個小雞？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "風向標"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "我認為它指明了風的方向"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "翼族很注意風的方向"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "風雞！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "細心，這是用來測風向的裝置"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個風向標！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "就像鮫人測量水流方向一樣"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "今天不是個大風天"
+} ]

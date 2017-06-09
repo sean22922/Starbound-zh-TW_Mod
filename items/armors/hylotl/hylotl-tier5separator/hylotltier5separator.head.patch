@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這件維奧合金頭盔用來保護探索深海的人"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大洋頭盔"
+} ]

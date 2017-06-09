@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個牀會帶來污穢和鏽跡。謝天謝地，我一點也不累"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "壞掉的牀"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "在這睡覺實在太糟糕了"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "不是個睡覺的好地方"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "一張鏽跡斑斑的牀"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好噁心。鏽！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我真的不能想像這個曾經看起來那麼誘人"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這牀被腐蝕的不能修復了。咱們在浪費時間"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "你一定是特麼的困得快死了才會想要睡在這"
+} ]

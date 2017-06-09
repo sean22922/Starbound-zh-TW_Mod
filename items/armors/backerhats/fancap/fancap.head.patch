@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "真正的粉絲，才能認出我的棒球帽！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "運動帽"
+} ]

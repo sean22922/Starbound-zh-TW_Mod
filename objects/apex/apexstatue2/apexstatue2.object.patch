@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "向偉大的香蕉致敬！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大香蕉雕像"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個配得上老大猿的香蕉……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "猿人這麼崇拜他們的食物嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這、這麼大的香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好笑：一個大香蕉"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "給老大猿吃的大香蕉？"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個雕像肯定有些社會意義"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "他們喜歡水果，哈？"
+} ]

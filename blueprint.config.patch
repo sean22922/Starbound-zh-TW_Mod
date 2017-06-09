@@ -1,0 +1,5 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "解鎖<item>的製作藍圖"
+} ]

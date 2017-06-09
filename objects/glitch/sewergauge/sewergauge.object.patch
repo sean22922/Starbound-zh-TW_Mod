@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "下水道裡的指示計。沒有人知道計量器所示的啥"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "下水道指示計"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "神祕的指標"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "刻度指著\"10－汙水\""
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這東西完全沒用"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "挫敗：不知用途的指標"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這看起來很有科學依據"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "監控裝備的很普通的碎片"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這可能是很重要的東西，但我完全不知道是什麼？"
+} ]

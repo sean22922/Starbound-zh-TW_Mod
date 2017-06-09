@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個頭飾可以保護戰士的思想，戰士的思想必須像劍刃一樣銳利"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "海將軍兜帽"
+} ]

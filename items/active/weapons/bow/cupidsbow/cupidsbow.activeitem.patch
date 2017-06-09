@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從這張弓射出的劍充滿了難以抑制的激情"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "丘比特的弓"
+} ]

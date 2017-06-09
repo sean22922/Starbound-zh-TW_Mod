@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "</'NOT'/開關。開就變關，關就變開。>"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "鑄造NOT開關"
+} ]

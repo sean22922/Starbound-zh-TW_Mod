@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一扇非常堅固的寧靜之門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "寧靜門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這外型讓這門看上去十分安全"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一扇十分堅固的門"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人躲在門後。跳出來。刺——！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "滿意，這門的外型看上去十分堅固"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一扇堅固的平和的門"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一扇需要很大力氣才能打開的平和的門"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門看上去十分安全"
+} ]

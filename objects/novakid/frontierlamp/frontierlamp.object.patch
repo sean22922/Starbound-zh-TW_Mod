@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "懸掛著的瓦斯燈，外面罩著紅燈罩"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "邊境燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這種黃銅油燈散發著微暖的紅光"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這盞燈散發著淡淡的香味。可能是裡面的油燃燒散發的？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "懸掛的紅燈裡面有火在燒，葉族人好緊張"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "印象深刻。這盞黃銅燈的做工相當華麗。一定費了不少心血"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這盞燈裡面火焰溫柔的搖曳著。紅色玻璃燈罩增添了一分溫暖！"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "煤油燈裡面搖曳的火焰讓人能夠安下心來"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "沒有什麼能比房間裡的一盞煤油燈更能讓人感覺到家的輕鬆了"
+} ]

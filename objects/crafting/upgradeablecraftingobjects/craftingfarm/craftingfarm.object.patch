@@ -1,0 +1,125 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "用來製造狩獵、採礦和農耕的物品"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "^orange;覓食小桌^white;"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這張桌子上放了許多覓食工具"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這是一個展示某人覓食能力的大好機會"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人要用桌子，因為葉族人喜歡狩獵！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "農業模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張桌子可以讓我做很多農活"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "播種一顆種子就意味著有一天要收穫自然的獎賞"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張桌子很適合耕種一些植物"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/description",
+  "value" : "用來製造狩獵、採礦和農耕的物品"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/shortdescription",
+  "value" : "^orange;覓食小桌^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/apexDescription",
+  "value" : "這張桌子上放了許多覓食工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/avianDescription",
+  "value" : "這是一個展示某人覓食能力的大好機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/floranDescription",
+  "value" : "葉族人要用桌子，因為葉族人喜歡狩獵！"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/glitchDescription",
+  "value" : "農業模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/humanDescription",
+  "value" : "這張桌子可以讓我做很多農活"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/hylotlDescription",
+  "value" : "播種一顆種子就意味著有一天要收穫自然的獎賞"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/itemSpawnParameters/novakidDescription",
+  "value" : "這張桌子很適合耕種一些植物"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "覓食桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;覓食，耕種和狩獵"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/description",
+  "value" : "用來製造狩獵、挖礦和耕種所必須的高級道具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/shortdescription",
+  "value" : "^orange;農業站^white;"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/apexDescription",
+  "value" : "這張桌子上放了許多覓食工具"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/avianDescription",
+  "value" : "這是一個展示某人覓食能力的大好機會"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/floranDescription",
+  "value" : "葉族人要用桌子，因為葉族人喜歡狩獵！"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/glitchDescription",
+  "value" : "農業模組啓動"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/humanDescription",
+  "value" : "這張桌子可以讓我做很多農活"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/hylotlDescription",
+  "value" : "播種一顆種子就意味著有一天要收穫自然的獎賞"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/itemSpawnParameters/novakidDescription",
+  "value" : "這張桌子很適合耕種一些植物"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "農業桌子"
+}, {
+  "op" : "replace",
+  "path" : "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : " ^#b9b5b2;覓食，耕種和狩獵"
+} ]

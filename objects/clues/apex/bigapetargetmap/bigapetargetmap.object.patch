@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一幅尋找老大猿的混亂地圖。繪製它的人當時一定怒火中燒"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "老大猿定位地圖"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個地圖上寫滿了潦草的筆記，還提示了老大猿的可能下落"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這上面好像有很多關於老大猿所處位置的記錄和信息"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族不確定這地圖是幹嘛的"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "好奇。這地圖貌似包含了老大猿位置的信息，猿族的實際領導者"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這張地圖上貌似有很多關於老大猿下落的潦草筆記。作者肯定跟獨裁者有宿怨"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這張地圖上有很多潦草的筆記標明老大猿的位置。顯然有人想找他"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這張海報上有一些關於老大猿下落的信息—顯然是一些憤怒的人寫的"
+} ]

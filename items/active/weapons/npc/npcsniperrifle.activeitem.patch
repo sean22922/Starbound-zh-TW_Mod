@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "非常強力，射程覆蓋很長的距離"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "NPC狙擊步槍"
+} ]

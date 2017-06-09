@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "真是細緻的文件。他應該是個人類，但……有兩顆心臟？"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "醫療數據儀表"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "兩顆心髒的人類，生物學老師淚目……"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "兩顆心髒的病人，也許人類進化了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "這個人類有兩個心臟……多麼貪婪！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "羞愧。兩個心髒的人？在電子人的文明裡，有這種缺陷早就被清除了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這傢夥有兩顆心臟！我想如果我有兩顆，我就有很多跳動的愛了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個身體，兩顆心臟。難怪這傢夥得看醫生"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來，這個病人有兩個心臟。這可不對勁"
+} ]

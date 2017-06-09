@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "障子屏風門"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "傳統障子門"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "簡單的門。只有基本功能"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "很好的門，透光"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "曾經有葉族人直接從這個門中間穿過來了"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "重要：如果你放棄隱私，那這個門還不錯"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "脆弱的門。但是什麼都擋不住"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這扇門的輪廓和結構可以讓門非常平滑地開啓"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這門看起來不太安全，用手指都能戳出洞來"
+} ]

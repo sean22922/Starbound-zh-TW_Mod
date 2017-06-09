@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "讓你看起來像走路的電燈泡。但實用比好看強啊！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "螢光頭盔"
+} ]

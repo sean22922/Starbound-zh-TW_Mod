@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "碳化的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "碳化的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "被烤焦焦的骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "陳述。碳化的骨頭"
+} ]

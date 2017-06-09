@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "適合舞會的燕尾服"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "錢袋燕尾服"
+} ]

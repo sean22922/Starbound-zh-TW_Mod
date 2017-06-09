@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "從這個槽裡釋放的氣體增加你的破壞威力"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "能源助推器"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "這個機器像是用來增加暴露在氣體中物體的能源"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個氣體有刺激性味道，讓我感到異常的有能量"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "氣體讓葉族人感覺變得強壯"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "懷疑。這個裝置似乎有力量給予屬性"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一絲絲這種氣體就能讓我感到強壯"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一種難聞的氣體，可以強壯身體和頭腦"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這種氣體看起來能增加力量"
+} ]

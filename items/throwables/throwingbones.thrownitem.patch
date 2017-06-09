@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "投擲骨頭"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "朝敵人丟骨頭很原始，但很有用"
+} ]

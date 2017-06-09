@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "萊達·波西亞，現任大保護者"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "大保護者肖像畫"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "萊達·波西亞。我剛剛看見她可怕的下場"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "萊達·波西亞……前大保護者。我不願去想"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "大保護者萊達·波西亞身上剛剛發生過可怕的事"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "悲傷。我不想去想它…"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "萊達·波西亞正準備授予我學位。我不想談論這個了"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "她還給了我這個物質操縱器，就在事情發生之前……"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "最後一個大保護者，萊達·波西亞。真希望我能做點什麼？"
+} ]

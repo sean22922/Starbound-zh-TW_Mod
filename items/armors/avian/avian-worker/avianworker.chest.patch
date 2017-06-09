@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一件用舒適的透氣織物製成的襯衫。很適合在外工作！"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "工人襯衫"
+} ]

@@ -1,9 +1,0 @@
-{
-  "name" : "largegeodecritter",
-  "category" : "largegeodecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

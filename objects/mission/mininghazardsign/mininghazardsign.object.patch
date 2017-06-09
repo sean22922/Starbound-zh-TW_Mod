@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一塊金屬標識上寫著\"危險！\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "採礦危險告示"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : " 寫著\"危險\".的標誌"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "這個標牌在警告著什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人才不管上面寫的是什麼呢"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "擔心。危險？在哪？！"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個標牌關心我的安危。好體貼"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個提醒人們避免周邊危險的標牌"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "我可是一點都不怕"
+} ]

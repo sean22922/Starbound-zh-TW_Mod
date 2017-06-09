@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "骨頭打造的欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "曲骨欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "骨頭讓這個欄杆格外結實"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "真是野蠻。沒有翼族會這樣使用骨頭的"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "堅固的骨頭結實的欄杆"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "驚歎。想要用骨頭加固欄杆可不容易"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這個欄杆是用大型骨頭打造的。非常堅固"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "看到骨頭被這樣使用讓我心寒"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一些骨頭被綁起來當成欄杆用"
+} ]

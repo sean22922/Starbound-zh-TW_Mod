@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這個衣櫃上方的水晶看來已經破碎了"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "翼族人壁櫥"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "壁櫥上放置了一塊水晶，但是目的是什麼？"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "壁櫥上的水晶可以當做是一把鎖。但很明水晶已經破碎了"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "壁櫥中有任何葉族人的東西嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "有意思。水晶因為小裂痕停止工作了"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我在想翼族人有沒有納尼亞這樣的小說……"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "這個壁櫥的水晶已經損壞並失去功能了"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "一個頂部有水晶的衣櫃。水晶看來已經破了"
+} ]

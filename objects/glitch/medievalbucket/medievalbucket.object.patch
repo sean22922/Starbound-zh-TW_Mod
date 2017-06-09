@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "水桶上有個洞"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀桶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "木製的桶"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "原來是用來裝水，我很肯定"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很很有用的小水桶"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "自愧不如。這隻桶是用來從井裡或溪流裡打水的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "這樣的桶你在井裡就能找到"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "有人用這隻桶來盛水嗎？我簡直想像不出缺水的世界是什麼樣子的"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "平凡的桶"
+} ]

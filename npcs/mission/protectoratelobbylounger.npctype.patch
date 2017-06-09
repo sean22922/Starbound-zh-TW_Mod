@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/0",
+  "value" : "現在出發有些晚了，對吧，<entityname>？"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/1",
+  "value" : "我喜歡這個座位。很舒服，風景也很好"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/2",
+  "value" : "如果你好言相求，大多數人出於禮貌都會讓出座位給你。不過這個座位不一樣，太舒服了，沒人捨得讓"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/dialog/converse/default/default/3",
+  "value" : "恭喜畢業，朋友。皇天不負有心人"
+} ]

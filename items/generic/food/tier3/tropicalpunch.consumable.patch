@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "熱帶混酒，很烈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "熱帶雞尾酒"
+} ]

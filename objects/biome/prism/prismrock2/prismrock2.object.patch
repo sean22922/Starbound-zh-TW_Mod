@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一枚高折射棱鏡"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "棱鏡水晶"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一小撮棱形寶石"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一些小塊棱形石頭。非常漂亮！"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "彩色石頭"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "了不起。這些棱形是天然形成的"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我超愛彩虹石頭"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "能折射光線的寶石，色彩讓我想到熱帶珊瑚礁"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些寶石很不錯……但它們能有多值錢？"
+} ]

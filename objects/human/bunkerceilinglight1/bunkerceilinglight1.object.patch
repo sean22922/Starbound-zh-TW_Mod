@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "一套金屬吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "金屬吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一套金屬吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "天花板燈"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "無聊，燈光裝置"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "把這東西靠近耳朵，然後……噢，不，只是燈而已"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "無聊的吊燈"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看起來很普通的燈"
+} ]

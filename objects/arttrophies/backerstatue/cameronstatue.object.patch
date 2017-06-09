@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "卡梅隆 \"KyeTheShy\" 約克雕像。熱愛冒險，但是走的有點太遠了……迷失在太空中"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "卡梅隆 · 約克雕像"
+} ]

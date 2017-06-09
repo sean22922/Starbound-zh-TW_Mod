@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "長滿苔蘚的平台"
+}, {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "這平台上面都是粘滑的落葉和苔蘚。小心別滑倒了！"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "謹慎。這個被苔蘚覆蓋的平台十分粘滑"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人在長滿苔蘚的平台上面滑行"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "這些苔蘚使得這個平台十分容易打滑"
+} ]

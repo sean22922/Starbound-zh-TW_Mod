@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "貌似是個統計表之類的東西"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "原始表藝術"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "一個無標號的統計圖表。這裡有很多記號"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個似乎用來計數的圖表"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "葉族人會在紙上記錄自己殺了多少獵物，葉族人記性不好"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "普通：一種簡單的十進制系統"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "一個古老的統計圖表。我用過幾次"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個統計圖表。我希望那些標記不是殺人數"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "看上去像是記錄獵殺的表"
+} ]

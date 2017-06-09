@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "美麗且精緻的木製櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "中世紀櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "很高的一個木製櫃櫥。裝著很多東西"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "一個很寬敞的櫥櫃。不要當成是茅房哦"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "很高的木製櫃櫥。葉族人能很好的藏在裡面"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "感激。製作很精緻的木製櫥櫃"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "我很好奇這裡會不會有個入口到別的世界"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "一個木製的櫃櫥，有著很吸引人的錯綜複雜的紋路"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "很漂亮的櫥櫃"
+} ]
