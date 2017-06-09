@@ -1,0 +1,173 @@
+{
+  "kind" : "apex",
+
+  "charCreationTooltip" : {
+      "title" : "Apex",
+      "subTitle" : "U",
+      "description" : "A race of highly intelligent primates. For millennia, the Apex were close to human in appearance until a scientific breakthrough allowed them to trade physical devolution for intellectual evolution."
+  },
+
+  "nameGen" : [ "/species/apexmalenamegen.config:names", "/species/apexfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/apexhurt_male1.ogg", "/sfx/humanoid/apexhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Fur colour", "Hair style", "Shirt", "Legwear", "Skin colour", "Beard style", "Shirt colour", "Legwear colour", "APEX", "Personality" ],
+  "skull" : "/humanoid/apex/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80f4ffFF?replace=31a6ffFF=39b8e3FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flagapex" },
+
+// Anvil
+      { "item" : "apextier1head" },
+      { "item" : "apextier1chest" },
+      { "item" : "apextier1pants" },
+      { "item" : "apextier2head" },
+      { "item" : "apextier2chest" },
+      { "item" : "apextier2pants" },
+
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+
+// Anvil2
+      { "item" : "apextier3head" },
+      { "item" : "apextier3chest" },
+      { "item" : "apextier3pants" },
+      { "item" : "apextier4head" },
+      { "item" : "apextier4chest" },
+      { "item" : "apextier4pants" },
+
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+
+// Anvil3
+      { "item" : "apextier5ahead" },
+      { "item" : "apextier5achest" },
+      { "item" : "apextier5apants" },
+      { "item" : "apextier6ahead" },
+      { "item" : "apextier6achest" },
+      { "item" : "apextier6apants" },
+
+      { "item" : "apextier5mhead" },
+      { "item" : "apextier5mchest" },
+      { "item" : "apextier5mpants" },
+      { "item" : "apextier6mhead" },
+      { "item" : "apextier6mchest" },
+      { "item" : "apextier6mpants" },
+
+      { "item" : "apextier5shead" },
+      { "item" : "apextier5schest" },
+      { "item" : "apextier5spants" },
+      { "item" : "apextier6shead" },
+      { "item" : "apextier6schest" },
+      { "item" : "apextier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "apexstoragelocker" },
+      { "item" : "apexshipdoor" },
+      { "item" : "apexshiphatch" },
+
+// Spinning Wheel
+      { "item" : "apexcommanderjacket" },
+      { "item" : "apexcommanderpants" },
+      { "item" : "apexnavyjacket" },
+      { "item" : "apexnavypants" },
+      { "item" : "apexofficerjacket" },
+      { "item" : "apexofficerpants" },
+      { "item" : "apexspecialistjacket" },
+      { "item" : "apexspecialistpants" }
+    ]
+  },
+  "headOptionAsFacialhair" : true,
+  "altOptionAsUndyColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+      "characterImage" : "/interface/title/sapemale.png",
+      "hairGroup" : "hairmale",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20" ],
+      "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "apexcommanderpants", "apexnavypants", "apexofficerpants", "apexspecialistpants" ],
+      "facialHairGroup" : "beardmale",
+      "facialHair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20" ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+      "characterImage" : "/interface/title/sapefemale.png",
+      "hairGroup" : "hairfemale",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20" ],
+      "shirt" : [ "apexcommanderjacket", "apexnavyjacket", "apexofficerjacket", "apexspecialistjacket", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "apexcommanderpants", "apexnavypants", "apexofficerpants", "apexspecialistpants" ],
+      "facialHairGroup" : "beardfemale",
+      "facialHair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15" ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    //RUSTY RED
+    { "e0975c" : "BE471B", "a85636" : "8f2a0b", "6f2919" : "63230f" },
+    //PASTEL PURPLE
+    { "e0975c" : "aa97f1", "a85636" : "7e62d0", "6f2919" : "5e499c" },       
+    //LIGHT PURPLE
+    { "e0975c" : "b769e0", "a85636" : "8c3ea8", "6f2919" : "722a82" },
+    //LAVENDER
+    { "e0975c" : "f0b5fa", "a85636" : "d67ce6", "6f2919" : "ac5fb8" },
+    //LIGHT BLUE
+    { "e0975c" : "61BCDE", "a85636" : "5381CC", "6f2919" : "2C489E" },
+    //BROWN
+    { "e0975c" : "7e5938", "a85636" : "5d3e25", "6f2919" : "422a18" },
+    //BLACK
+    { "e0975c" : "595760", "a85636" : "3f3e43", "6f2919" : "212123" },
+    //GREY BLUE
+    { "e0975c" : "6f6d85", "a85636" : "525269", "6f2919" : "3e4352" },
+    //LIGHT GREY
+    { "e0975c" : "b8b8b8", "a85636" : "828282", "6f2919" : "555555" },
+    //DARK GREY
+    { "e0975c" : "525252", "a85636" : "363636", "6f2919" : "161616" },
+    // GREY
+    { "e0975c" : "74726f", "a85636" : "53504d", "6f2919" : "2a251e" },
+    //BROWN GREY
+    { "e0975c" : "50422f", "a85636" : "36261e", "6f2919" : "170f0d" },
+    //ORANGEY
+    { "e0975c" : "d98f30", "a85636" : "a4601e", "6f2919" : "794515" },
+    //REDDY BROWN
+    { "e0975c" : "8f4a24", "a85636" : "66351f", "6f2919" : "522b1d" },
+    //WHITE
+    { "e0975c" : "e4f3f3", "a85636" : "a7b9b9", "6f2919" : "7b8888" },
+    //RED
+    { "e0975c" : "c43d3d", "a85636" : "961e21", "6f2919" : "751922" },
+    //GREEN
+    { "e0975c" : "597e38", "a85636" : "415d25", "6f2919" : "2e4218" },
+    //BLONDE
+    { "e0975c" : "fbf6c4", "a85636" : "cac488", "6f2919" : "959166" }
+  ],
+  "undyColor" : [
+    { "f7e7b2" : "ffe2c5", "d9c189" : "ffc181", "a38d59" : "d39c6c", "735e3a" : "c7815b" },
+    { "f7e7b2" : "f0d6b9", "d9c189" : "e5b078", "a38d59" : "bb8c5e", "735e3a" : "a66c46" },
+    { "f7e7b2" : "ecfeff", "d9c189" : "c1e4eb", "a38d59" : "829fc6", "735e3a" : "5c6d86" },
+    { "f7e7b2" : "c8cee0", "d9c189" : "a3a7b2", "a38d59" : "7c8094", "735e3a" : "5f5f73" },
+    { "f7e7b2" : "d6cecb", "d9c189" : "b6b0ae", "a38d59" : "978d88", "735e3a" : "787069" },
+    { "f7e7b2" : "ebcfd2", "d9c189" : "dda9b0", "a38d59" : "c37e80", "735e3a" : "96635c" },
+    { "f7e7b2" : "e9c08b", "d9c189" : "d29a5f", "a38d59" : "ac7955", "735e3a" : "8c5d44" },
+    { "f7e7b2" : "c6cddf", "d9c189" : "95a0b4", "a38d59" : "727a86", "735e3a" : "5b6165" },
+    { "f7e7b2" : "fffdea", "d9c189" : "fff499", "a38d59" : "d4c574", "735e3a" : "bfa458" },
+    { "f7e7b2" : "ffd5d6", "d9c189" : "ff9596", "a38d59" : "d4787c", "735e3a" : "bd5767" }
+  ],
+  "hairColor" : [ "" ]
+}

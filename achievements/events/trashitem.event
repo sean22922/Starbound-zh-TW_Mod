@@ -1,0 +1,24 @@
+{
+  "eventName" : "trashItem",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - itemName
+  //  - count
+  //  - category
+
+  "stats" : [
+    {
+      "name" : "trashItem.itemName.<itemName>",
+      "type" : "int",
+      "op" : "sum",
+      "field" : "count"
+    },
+    {
+      "name" : "trashItem.category.<category>",
+      "type" : "int",
+      "op" : "sum",
+      "field" : "count"
+    }
+  ]
+}

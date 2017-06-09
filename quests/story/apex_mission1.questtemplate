@@ -1,0 +1,220 @@
+{
+  "id" : "apex_mission1",
+  "mainQuest" : true,
+  "prerequisites" : [ "avian_mission2" ],
+  "title" : "Find Clues to Locate the Apex Artifact",
+  "text" : "I think we should begin our hunt for the ^orange;Apex artifact^reset;. The Apex are generally found on ^orange;frozen planets^reset; around ^orange;frozen stars^reset;, so those are ^green;the best places to search for the ^orange;clues^green; we need^reset;. Wrap up warm dear, and remember: Apex society is in upheaval at the moment, so be on your guard.",
+  "completionText" : "You've found all the clues we need to locate the Apex artifact! This is brilliant, dear - we've come so far.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/clues.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "descriptions" : {
+      "findClues" : "^green;Scan objects^reset; to find ^orange;Apex clues^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;"
+    },
+    "turnInEntityUid" : "estheroutpost",
+
+    "targetValue" : 50,
+    "objectValues" : {
+      "apexbloodbank" : 1,
+      "apexconsole1" : 4,
+      "apexconsolekeyboard" : 2,
+      "apexcoolbookcase" : 4,
+      "apexcoolcomputer" : 4,
+      "apexcoolserver" : 4,
+      "apexfightlantern" : 3,
+      "apexhdtv" : 3,
+      "apexobeysign" : 3,
+      "apexpainting1" : 2,
+      "apexpod" : 3,
+      "apexpod2" : 3,
+      "apexrecordplayer" : 2,
+      "apexstatue" : 2,
+      "apexstatue1" : 3,
+      "apexstatue2" : 2,
+      "apexstatue3" : 2,
+      "apextv" : 1,
+      "classicapestatue" : 5,
+      "classicapestatuenohead" : 5,
+      "classicbookcase" : 2,
+      "paintingapegothic" : 2,
+      "paintingapescream" : 2,
+      "paintingapespeare" : 2,
+      "paintingapexpearlearring" : 2,
+      "paintingapexpixellisa" : 2,
+      "paintingapexwithermine" : 2,
+      "paintingbirthofapevenus" : 2,
+      "bigapedoll" : 20,
+      "bigapetargetmap" : 20,
+      "minidronerack" : 20,
+      "miniknogintel1" : 20,
+      "miniknognewspaper" : 20
+    },
+    "radioMessages" : {
+      "uniqueProgress" : {
+        "bigapedoll" : {
+          "messageId" : "apex_mission1_up1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This doll is actually a spy camera... The Miniknog controls every aspect of Apex lives and culture. I'm going to attempt to trace this camera's signal... Thank you for finding this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "bigapetargetmap" : {
+          "messageId" : "apex_mission1_up2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hmm, this map indicates the supposed whereabouts of Big Ape. I see the Miniknog likes to keep its most important assets close to hand. I think this will be a very useful clue, dear.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "minidronerack" : {
+          "messageId" : "apex_mission1_up3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Excellent find, dear! This drone's database is saturated with useful information.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "miniknogintel1" : {
+          "messageId" : "apex_mission1_up4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is a useful find! I'm sure some of the information here pertains to the Artifact.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "miniknognewspaper" : {
+          "messageId" : "apex_mission1_up5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This newspaper clipping is full of trickery and propaganda, but I believe there is information of use hidden beneath the lies.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      },
+      "genericProgress" : [
+        {
+          "messageId" : "apex_mission1_gp1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hmmm, how curious... I need to cross-reference this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Interesting. This will certainly have a bearing on my research.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Keep it up dear, this is all very helpful!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "A clue of small implication, but relevant nonetheless!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is excellent, everything you find contributes to the formation of a theory.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp6",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hm, I wonder...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp7",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This confirms something that I had speculated upon!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp8",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "How peculiar! But surprising information can be even more valuable than expected information...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp9",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "apex_mission1_gp10",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This clue hints at hidden information.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "startWithProgress" : {
+        "messageId" : "apex_mission1_swp",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "startAlreadyComplete" : {
+        "messageId" : "apex_mission1_sac",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "You're quite the collector of Apex antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "complete" : {
+        "messageId" : "apex_mission1_c",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "I believe I know where the Apex Artifact is! ^#71f2f6;Come back to the Ark when you're ready^white; dear, and I'll tell you more.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      }
+    },
+
+    "dialogClueValue" : 4,
+    "dialogClueSpecies" : "apex",
+    "clueDialog" : "/dialog/clues.config:apex"
+  }
+}

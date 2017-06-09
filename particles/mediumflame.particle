@@ -1,0 +1,20 @@
+{
+  "kind" : "mediumflame",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/mediumflame/mediumflame.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0.5, 0.5],
+    "timeToLive" : 1.5,
+    "size" : 1.0,
+    "variance" : {
+      "position" : [3, 3],
+      "initialVelocity" : [1, 1],
+      "timeToLive" : 0.5,
+      "rotation" : 180,
+      "size" : 0.25
+    }
+  }
+}

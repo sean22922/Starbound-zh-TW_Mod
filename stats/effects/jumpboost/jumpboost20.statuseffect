@@ -1,0 +1,12 @@
+{
+  "name" : "jumpboost20",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "jumpboost20.lua"
+  ],
+
+  "label" : "Jump Boost",
+  "icon" : "/interface/statuses/jumpboost20.png"
+}

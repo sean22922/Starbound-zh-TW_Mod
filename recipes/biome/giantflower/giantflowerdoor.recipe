@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 15 },
+    { "item" : "giantflowerpetal", "count" : 5 },
+    { "item" : "plantfibre", "count" : 5 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "giantflowerdoor", "count" : 1 },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

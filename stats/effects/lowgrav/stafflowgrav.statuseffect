@@ -1,0 +1,16 @@
+{
+  "name" : "stafflowgrav",
+  "effectConfig" : {
+    "gravityModifier" : 0.25
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "lowgrav.lua"
+  ],
+
+  "animationConfig" : "lowgrav.animation",
+
+  "label" : "Light",
+  "icon" : "/interface/statuses/lowgrav.png"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "fishtail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "fishtail.png"
+  }
+}

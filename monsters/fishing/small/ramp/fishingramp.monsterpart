@@ -1,0 +1,9 @@
+{
+  "name" : "fishingramp",
+  "category" : "fishingramp",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingramp.png"
+  }
+}

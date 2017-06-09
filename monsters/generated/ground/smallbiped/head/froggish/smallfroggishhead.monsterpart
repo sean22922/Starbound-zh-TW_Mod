@@ -1,0 +1,13 @@
+{
+  "name" : "smallfroggishhead",
+  "category" : "crazyhead_small",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallfroggishhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

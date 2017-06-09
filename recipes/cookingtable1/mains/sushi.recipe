@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "kelp", "count" : 5 },
+    { "item" : "rice", "count" : 1 },
+    { "item" : "rawfish", "count" : 1 }
+  ],
+  "output" : { "item" : "sushi", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "sushi" }
+}

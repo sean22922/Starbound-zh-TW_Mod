@@ -1,0 +1,13 @@
+{
+  "projectileName" : "chargeshotlarge",
+  "physics" : "default",
+  "image" : "chargeshotlarge.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 4,
+  "lightColor" : [0, 30, 70],
+  "actionOnReap" : [],
+  "power" : 40,
+  "knockback" : 40,
+  "speed" : 80,
+  "damageKind" : "default"
+}

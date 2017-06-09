@@ -1,0 +1,59 @@
+{
+  "projectileName" : "acidgrenade",
+  "physics" : "grenade",
+  "image" : "acidgrenade.png",
+  "damageKindImage" : "icon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "smallpoisonexplosion",
+      "inheritDamageFactor" : 1,
+      "angle" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "goocluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "goocluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "goocluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "goocluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "goocluster",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/goocluster_pop.ogg" ]
+    }
+
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "acid"
+}

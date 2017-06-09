@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "greenslime", "count" : 2 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "slimetorch",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

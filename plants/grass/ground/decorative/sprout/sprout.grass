@@ -1,0 +1,8 @@
+{
+  "name" : "sprout",
+  "description" : "A little sprout.",
+  "shortdescription" : "A little sprout.",
+  "floranDescription" : "Sssprout.",
+  "glitchDescription" : "Statement. A small sprout.",
+  "images" : [ "sprout1.png", "sprout2.png", "sprout3.png", "sprout4.png", "sprout5.png" ]
+}

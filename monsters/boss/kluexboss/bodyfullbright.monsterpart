@@ -1,0 +1,9 @@
+{
+  "name" : "kluexbossbodylit",
+  "category" : "kluexboss",
+  "type" : "bodylit",
+
+  "frames" : {
+    "bodyfullbright" : "kluexbosslit.png"
+  }
+}

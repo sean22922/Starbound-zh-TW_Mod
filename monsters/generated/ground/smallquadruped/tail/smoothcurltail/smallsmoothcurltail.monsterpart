@@ -1,0 +1,9 @@
+{
+  "name" : "smallsmoothcurltail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "smallsmoothcurltail.png"
+  }
+}

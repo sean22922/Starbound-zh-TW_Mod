@@ -1,0 +1,32 @@
+{
+  "name" : "robotPunchAttack",
+  "label" : "FIST PUNCH",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/robotboss/skills/robotPunchAttack.lua" ],
+    "robotPunchAttack" : {
+      "skillTime" : 4.0,
+
+      "distanceRange" : [4, 8],
+      "windupTime" : 0.3,
+      "winddownTime" : 0.7,
+
+      "projectile" : {
+        "type" : "swipe",
+        "config" : {
+          "power" : 20,
+          "speed" : 10,
+          "damageKind" : "hammer"
+        },
+        "offset" : [3.5, -1]
+      }
+    }
+  },
+
+  "animationParameters" : {
+    "sounds" : {
+      "punch" : [ "/sfx/projectiles/swing_fire2.ogg" ]
+    }
+  }
+}

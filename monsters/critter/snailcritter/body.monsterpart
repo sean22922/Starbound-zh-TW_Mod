@@ -1,0 +1,9 @@
+{
+  "name" : "snailcritter",
+  "category" : "snailcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

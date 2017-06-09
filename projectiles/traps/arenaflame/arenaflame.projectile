@@ -1,0 +1,22 @@
+{
+  "projectileName" : "arenaflame",
+  "image" : "arenaflame.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "animationLoops" : false,
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "frameNumber" : 12,
+  "power" : 20,
+  "speed" : 25,
+  "timeToLive" : 0.9,
+  "bounces" : 4,
+  "piercing" : true,
+  "damagePoly" : [ [-7, 0], [-5, -5], [0, -7], [5, -5], [7, 0], [5, 5], [0, 7], [-5, 5] ],
+  "lightColor" : [217, 131, 65],
+  "damageKind" : "fire",
+  "damageType" : "IgnoresDef",
+  "statusEffects" : [
+    "burning"
+  ],
+  "hydrophobic" : true
+}

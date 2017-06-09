@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+    { "item" : "shroom", "count" : 5 },
+    { "item" : "egg", "count" : 1 }
+  ],
+  "output" : { "item" : "mushroomrice", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "mushroomrice" }
+}

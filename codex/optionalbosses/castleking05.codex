@@ -1,0 +1,23 @@
+{
+  "id" : "castleking05",
+  "title" : "The Would-Be King Part 5",
+  "description" : "A Glitch folk tale.",
+  "icon" : "glitchcastlebook_05.png",
+  "contentPages" : [
+
+    "The army paraded past on floats, towed by several dozen Glitch labourers and a Floran who'd decided to join in unannounced. 
+
+Dreadwing sat atop his iron throne, brought outside into the city, and applauded each and every unit. 
+
+\"Suspicious. They stand very still.\" he remarked, to which his aides replied \"Reassuring. Yes, your highness. Your soldiers are very disciplined.\"",
+
+"As the last float made its way down the street, the entire crowd gasped - one of the soldiers leapt from its stand and charged towards Dreadwing! 
+
+Most surprised of all were the blacksmiths, who knew full well that their 'soldiers' were little more than decorative shells. Dreadwing, however, thought it was all part of the show."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

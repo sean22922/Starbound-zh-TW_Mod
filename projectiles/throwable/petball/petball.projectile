@@ -1,0 +1,36 @@
+{
+  "projectileName" : "petball",
+  "physics" : "petball",
+  "bounces" : 3,
+  "timeToLive" : 3,
+  "image" : "/monsters/pets/petball/ball.png",
+  "animationCycle" : 5,
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "spawnmonster",
+      "type" : "petball",
+      "level" : 1,
+      "offset" : [0.0, 0.0]
+    },
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/petball_bounce.ogg"
+      ]
+    }
+  ],
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/petball_bounce.ogg"
+      ]
+    }
+  ],
+  "power" : 60,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "damagePoly" : [ [4, 4], [-4, 4], [-4, -4], [4, -4] ],
+  "onlyHitTerrain" : true
+}

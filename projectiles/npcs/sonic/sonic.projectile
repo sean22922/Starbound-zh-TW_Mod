@@ -1,0 +1,16 @@
+{
+  "projectileName" : "sonic",
+  "image" : "sonic.png",
+  "physics" : "laser",
+  "animationCycle" : 0.5,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 6,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 0.5,
+  "bounces" : 4,
+  "piercing" : true,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "slash",
+  "emitters" : [ "electricplasma", "defaultblue" ]
+}

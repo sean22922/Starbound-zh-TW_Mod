@@ -1,0 +1,30 @@
+{
+  "kind" : "breathCritical",
+  "definition" : {
+    "duration" : 0.30,
+    "loops" : false,
+    "location" : "mouth",
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ "/sfx/interface/drowning2faster.ogg" ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

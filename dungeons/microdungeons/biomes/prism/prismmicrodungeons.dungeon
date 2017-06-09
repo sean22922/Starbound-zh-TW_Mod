@@ -1,0 +1,102 @@
+{
+  "metadata" : {
+    "name" : "prismmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "prismsteps1", "prismhillterrain1", "prismhillterrain2", "prismhillterrain3", "prismhillterrain4", "prismhillterrain5", "prismcavewithchest1", "prismshallowpoolwithcritter1", "prismhillterrainpool1", "prismtemple1", "prismtemple2", "prismtemple3" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "prismsteps1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismsteps1.json" ]
+    },
+    {
+      "name" : "prismhillterrain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrain1.json" ]
+    },
+    {
+      "name" : "prismhillterrain2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrain2.json" ]
+    },
+    {
+      "name" : "prismhillterrain3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrain3.json" ]
+    },
+    {
+      "name" : "prismhillterrain4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrain4.json" ]
+    },
+    {
+      "name" : "prismhillterrain5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrain5.json" ]
+    },
+    {
+      "name" : "prismcavewithchest1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismcavewithchest1.json" ]
+    },
+    {
+      "name" : "prismshallowpoolwithcritter1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismshallowpoolwithcritter1.json" ]
+    },
+    {
+      "name" : "prismhillterrainpool1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismhillterrainpool1.json" ]
+    },
+    {
+      "name" : "prismtemple1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismtemple1.json" ]
+    },
+    {
+      "name" : "prismtemple2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismtemple2.json" ]
+    },
+    {
+      "name" : "prismtemple3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "prismtemple3.json" ]
+    }
+  ]
+}

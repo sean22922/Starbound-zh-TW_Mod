@@ -1,0 +1,12 @@
+{
+  "name" : "burnspray",
+  "effectConfig" : {},
+  "defaultDuration" : 300,
+
+  "scripts" : [
+    "fireblock.lua"
+  ],
+
+  "label" : "Fire Resistance",
+  "icon" : "/interface/statuses/fireblock.png"
+}

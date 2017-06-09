@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "sharpenedclaw", "count" : 1 },
+    { "item" : "durasteelbar", "count" : 5 },
+    { "item" : "silverbar", "count" : 5 }
+  ],
+  "output" : { "item" : "railhook", "count" : 1 },
+  "duration" : 5.0,
+  "groups" : [ "rail" ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "ufoSwoopAttack",
+  "label" : "MEGA SWOOP",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/penguinUfo/skills/ufoSwoopAttack.lua" ],
+
+    "ufoSwoopAttack" : {
+      "swoopTime" : 2
+    }
+  }
+}

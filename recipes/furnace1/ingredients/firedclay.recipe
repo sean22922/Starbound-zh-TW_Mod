@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "clay", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "firedclay",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

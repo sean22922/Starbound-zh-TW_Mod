@@ -1,0 +1,22 @@
+{
+  "projectileName" : "yellowglobe",
+  "physics" : "hover",
+  "bounces" : 0,
+  "speed" : 50,
+  "timeToLive" : 8,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [255, 255, 100],
+  "image" : "yellowglobe.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 2,
+  "power" : 2,
+  "damagePoly" : [ [-5, 5], [-5, -5], [5, -5], [5, 5] ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/yellowglobeexplosion/yellowglobeexplosion.config"
+    }
+  ],
+  "damageKind" : "plasma"
+}

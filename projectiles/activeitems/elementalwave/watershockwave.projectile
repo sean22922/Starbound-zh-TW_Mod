@@ -1,0 +1,21 @@
+{
+  "projectileName" : "watershockwave",
+  "image" : "watershockwave.png",
+  "animationCycle" : 0.25,
+  "animationLoops" : false,
+  "timeToLive" : 0.25,
+  "frameNumber" : 5,
+  "power" : 0,
+  "speed" : 0,
+  "orientationLocked" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "knockback" : 30,
+  "knockbackDirectional" : true,
+  "damagePoly" : [ [-4, 11], [4, 11], [4, -11], [-4, -11] ],
+  "damageKind" : "default",
+  "statusEffects" : [
+    "wet"
+  ],
+  "emitters" : []
+}

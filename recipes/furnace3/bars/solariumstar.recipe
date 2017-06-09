@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "solariumore", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "solariumstar",
+    "count" : 1
+  },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace3", "bars", "all" ]
+}

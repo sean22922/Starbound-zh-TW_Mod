@@ -1,0 +1,358 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "blob1" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob2" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob3" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob4" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob5" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob6" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob7" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      },
+      "blob8" : {
+        "default" : "idle",
+        "priority" : 1,
+        "states" : {
+          "idle" : {},
+          "pulse" : {
+            "frames" : 6,
+            "cycle" : 0.6,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "base" : {
+        "properties" : {
+          "centered" : true,
+          "image" : "bossrightspawner.png",
+          "zLevel" : 1
+        }
+      },
+      "blob1" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-9.5, -6.25]
+        },
+        "partStates" : {
+          "blob1" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob1.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob1.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob2" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-8.625, -5.25]
+        },
+        "partStates" : {
+          "blob2" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob2.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob2.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob3" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-7.5, -6.25]
+        },
+        "partStates" : {
+          "blob3" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob3.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob3.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob4" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-5.0, -5.25]
+        },
+        "partStates" : {
+          "blob4" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob4.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob4.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob5" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-4.5, -3.175]
+        },
+        "partStates" : {
+          "blob5" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob5.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob5.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob6" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-2.0, -4.25]
+        },
+        "partStates" : {
+          "blob6" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob6.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob6.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob7" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [-1.5, -5.25]
+        },
+        "partStates" : {
+          "blob7" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob7.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob7.png:<frame>"
+              }
+            }
+          }
+        }
+      },
+      "blob8" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 2,
+          "offset" : [5.5, 4.25]
+        },
+        "partStates" : {
+          "blob8" : {
+            "idle" : {
+              "properties" : {
+                "image" : "blob8.png:1"
+              }
+            },
+            "pulse" : {
+              "properties" : {
+                "image" : "blob8.png:<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "particleEmitters" : {
+    "blob1" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-9.5, -6.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-9.5, -6.25] }
+      ]
+    },
+    "blob2" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-8.625, -5.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-8.625, -5.25] }
+      ]
+    },
+    "blob3" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-7.5, -6.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-7.5, -6.25] }
+      ]
+    },
+    "blob4" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-5.0, -5.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-5.0, -5.25] }
+      ]
+    },
+    "blob5" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-4.5, -3.15] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-4.5, -3.15] }
+      ]
+    },
+    "blob6" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-2.0, -4.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-2.0, -4.25] }
+      ]
+    },
+    "blob7" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [-1.5, -5.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [-1.5, -5.25] }
+      ]
+    },
+    "blob8" : {
+      "emissionRate" : 4.0,
+      "particles" : [
+        { "count" : 5, "particle" : "tentacleshard", "offset" : [5.5, 4.25] },
+        { "count" : 8, "particle" : "tentaclegooshard", "offset" : [5.5, 4.25] }
+      ]
+    }
+  },
+
+  "lights" : {
+    "blob4" : {
+      "active" : true,
+      "position" : [-5.0, -5.25],
+      "color" : [100, 200, 100],
+      "pointLight" : false
+    },
+    "blob8" : {
+      "active" : true,
+      "position" : [5.5, 4.25],
+      "color" : [100, 200, 100],
+      "pointLight" : false
+    }
+  },
+
+  "sounds" : {
+    "spawn" : [ "/sfx/objects/meat_break1.ogg", "/sfx/objects/meat_break2.ogg", "/sfx/objects/meat_break3.ogg" ]
+  }
+}

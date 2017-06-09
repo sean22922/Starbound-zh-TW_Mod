@@ -1,0 +1,25 @@
+{
+  "projectileName" : "ember",
+  "image" : "ember.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/fireexplosion/fireexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "firepart2",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.0,
+      "angleAdjust" : 35
+    }
+  ],
+  "power" : 0.0,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "hydrophobic" : true
+}

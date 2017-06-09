@@ -1,0 +1,9 @@
+{
+  "name" : "largebatfroghead",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largebatfroghead.png"
+  }
+}

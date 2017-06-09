@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "dubloon", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "penguincostume",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

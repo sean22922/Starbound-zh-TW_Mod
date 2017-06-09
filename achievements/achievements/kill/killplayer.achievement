@@ -1,0 +1,16 @@
+{
+  "name" : "killplayer",
+
+  "triggers" : [
+    "kill.entityType.player"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "kill.entityType.player",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "fishchilicritter",
+  "category" : "fishchilicritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

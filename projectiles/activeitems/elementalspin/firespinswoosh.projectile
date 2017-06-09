@@ -1,0 +1,24 @@
+{
+  "projectileName" : "firespinswoosh",
+  "image" : "firespinswoosh.png",
+  "animationCycle" : 0.067,
+  "timeToLive" : 0.4,
+  "frameNumber" : 4,
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "speed" : 50,
+  "orientationLocked" : true,
+  "damagePoly" : [ [-30, 14], [-14, 30], [14, 30], [30, 14], [30, -14], [14, -30], [-14, -30], [-30, -14] ],
+  "animationLoops" : true,
+  "piercing" : true,
+  "bounces" : 0,
+  "flippable" : true,
+  "emitters" : [ "largefireswoosh" ],
+  "damageKind" : "firespear",
+  "statusEffects" : [
+    "burning"
+  ],
+  "lightColor" : [191, 103, 2],
+  "pointLight" : true,
+  "knockback" : 10,
+  "knockbackDirectional" : true
+}

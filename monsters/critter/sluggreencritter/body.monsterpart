@@ -1,0 +1,9 @@
+{
+  "name" : "sluggreencritter",
+  "category" : "sluggreencritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

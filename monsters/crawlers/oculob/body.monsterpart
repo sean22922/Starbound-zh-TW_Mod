@@ -1,0 +1,9 @@
+{
+  "name" : "oculob",
+  "category" : "oculob",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "oculob.png"
+  }
+}

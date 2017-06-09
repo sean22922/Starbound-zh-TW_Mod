@@ -1,0 +1,12 @@
+{
+  "projectileName" : "penguinufobeam",
+  "image" : "penguinufobeam.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 5,
+  "damageKindImage" : "icon.png",
+  "pointLight" : true,
+  "lightColor" : [0, 0, 73],
+  "power" : 10.0,
+  "damageKind" : "default",
+  "timeToLive" : 10.0
+}

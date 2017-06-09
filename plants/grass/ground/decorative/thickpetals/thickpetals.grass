@@ -1,0 +1,8 @@
+{
+  "name" : "thickpetals",
+  "description" : "A beautiful flower.",
+  "shortdescription" : "A beautiful flower.",
+  "floranDescription" : "Pretty.",
+  "glitchDescription" : "Statement. An attractive flower.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

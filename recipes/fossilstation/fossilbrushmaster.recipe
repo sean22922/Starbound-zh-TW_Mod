@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 2 },
+    { "item" : "string", "count" : 3 }
+  ],
+  "output" : { "item" : "fossilbrushmaster", "count" : 1 },
+  "groups" : [ "craftingfossils", "consumables" ]
+}

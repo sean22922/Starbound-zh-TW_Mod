@@ -1,0 +1,109 @@
+{
+  "metadata" : {
+    "name" : "encounterdungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "merchant_apex", "merchant_avian", "merchant_floran", "merchant_glitch", "merchant_human", "merchant_hylotl", "banditcamp1", "banditcamp2", "banditcamp3", "banditcamp4", "cultistcamp1", "cultistcamp2", "cultistcamp3" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "merchant_apex",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_apex.json" ]
+    },
+    {
+      "name" : "merchant_avian",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_avian.json" ]
+    },
+    {
+      "name" : "merchant_floran",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_floran.json" ]
+    },
+    {
+      "name" : "merchant_glitch",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_glitch.json" ]
+    },
+    {
+      "name" : "merchant_human",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_human.json" ]
+    },
+    {
+      "name" : "merchant_hylotl",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "merchant_hylotl.json" ]
+    },
+    {
+      "name" : "banditcamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "banditcamp1.json" ]
+    },
+    {
+      "name" : "banditcamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "banditcamp2.json" ]
+    },
+    {
+      "name" : "banditcamp3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "banditcamp3.json" ]
+    },
+    {
+      "name" : "banditcamp4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "banditcamp4.json" ]
+    },
+    {
+      "name" : "cultistcamp1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cultistcamp1.json" ]
+    },
+    {
+      "name" : "cultistcamp2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cultistcamp2.json" ]
+    },
+    {
+      "name" : "cultistcamp3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cultistcamp3.json" ]
+    }
+  ]
+}

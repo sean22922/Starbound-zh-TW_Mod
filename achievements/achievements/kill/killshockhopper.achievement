@@ -1,0 +1,16 @@
+{
+  "name" : "killshockhopper",
+
+  "triggers" : [
+    "killMonster.monsterType.robotboss"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.robotboss",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

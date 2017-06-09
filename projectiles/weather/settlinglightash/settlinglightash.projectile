@@ -1,0 +1,23 @@
+{
+  "projectileName" : "settlinglightash",
+  "physics" : "rain",
+  "image" : "settlinglightash.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 2,
+  "damagePoly" : [ [-30, -30], [30, -30], [30, 30], [-30, 30] ],
+  "damageKind" : "hidden",
+  "actionOnReap" : [
+    {
+      "action" : "applySurfaceMod",
+      //"previousMod" : "grass",
+      "previousMod" : "metamod:none",
+      // "previousMod" : null,
+      "newMod" : "ash",
+      "radius" : 2
+    }
+  ],
+
+  "onlyHitTerrain" : true,
+  "hydrophobic" : true,
+  "masterOnly" : true
+}

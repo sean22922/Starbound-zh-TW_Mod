@@ -1,0 +1,65 @@
+{
+  "name" : "savannah",
+  "swaps" : [
+      // Savannah, Volcanic, Scorched City - SUPER TAN //
+    {
+      "6f2919" : "574b38", "a85636" : "81725b", "e0975c" : "bdae97", "ffca8a" : "dfd3c1",
+      "735e3a" : "7F6D52", "a38d59" : "BFA27A", "d9c189" : "EFD5AB", "f7e7b2" : "F9E6CC",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Desert, Savannah - Sandy Gold //
+    {
+      "6f2919" : "6f4719", "a85636" : "a87e36", "e0975c" : "e0c65c", "ffca8a" : "fff38a",
+      "735e3a" : "736e3a", "a38d59" : "a3a359", "d9c189" : "d8d989", "f7e7b2" : "f2f7b2",
+      "951500" : "1C2293", "be1b00" : "1B4EC4", "dc1f00" : "3F7CFF", "f32200" : "2BC2FF"
+    },
+      // Magma, Savannah - Dirty Orange Grey //
+    {
+      "6f2919" : "623221", "a85636" : "9f4d29", "e0975c" : "d47744", "ffca8a" : "faba86",
+      "735e3a" : "5f5b4b", "a38d59" : "939070", "d9c189" : "c2c2a0", "f7e7b2" : "e5e5d4",
+      "951500" : "171717", "be1b00" : "262626", "dc1f00" : "383838", "f32200" : "4C4C4C"
+    },
+      // Magma, Savannah - Orange Yellow //
+    {
+      "6f2919" : "68320d", "a85636" : "a56220", "e0975c" : "e48c37", "ffca8a" : "fad086",
+      "735e3a" : "5b553d", "a38d59" : "b2a025", "d9c189" : "e8e63a", "f7e7b2" : "fefebb",
+      "951500" : "95004a", "be1b00" : "be005e", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Desert, Savannah, Volcanic - Faded Ashy //
+    {
+      "6f2919" : "5F5B4B", "a85636" : "939070", "e0975c" : "C2C2A0", "ffca8a" : "E5E5D4",
+      "735e3a" : "574B38", "a38d59" : "81725B", "d9c189" : "BDAE97", "f7e7b2" : "DFD3C1",
+      "951500" : "1C2293", "be1b00" : "1B4EC4", "dc1f00" : "3F7CFF", "f32200" : "2BC2FF"
+    },
+      // Savannah, Jungle - RedditshTan Tan //
+    {
+      "6f2919" : "693832", "a85636" : "A66859", "e0975c" : "DA907E", "ffca8a" : "F7C9B2",
+      "735e3a" : "7F6D52", "a38d59" : "BFA27A", "d9c189" : "EFD5AB", "f7e7b2" : "F9E6CC",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Savannah,Magma - Orange Burgandy //
+    {
+      "6f2919" : "723522", "a85636" : "B16232", "e0975c" : "D99B4A", "ffca8a" : "DFC171",
+      "735e3a" : "6F1936", "a38d59" : "A83651", "d9c189" : "E05C64", "f7e7b2" : "FF8E8A",
+      "951500" : "891400", "be1b00" : "D52B00", "dc1f00" : "FF7400", "f32200" : "FFB632"
+    },
+      // Savannah, Toxic - Yellow Sandy //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "735E3A", "a38d59" : "A38D59", "d9c189" : "D9C189", "f7e7b2" : "F7E7B2",
+      "951500" : "3A3E73", "be1b00" : "5B59A3", "dc1f00" : "8B89D9", "f32200" : "B8B2F7"
+    },
+      // Savannah, Toxic - Yellow Orange //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "723522", "a38d59" : "B16232", "d9c189" : "D99B4A", "f7e7b2" : "DFC171",
+      "951500" : "891400", "be1b00" : "D52B00", "dc1f00" : "FF7400", "f32200" : "FFB632"
+    },
+      // Desert, Savannah, Volcanic - Pale Brown Dark //
+    {
+      "6f2919" : "66452E", "a85636" : "A47C56", "e0975c" : "D9AA7B", "ffca8a" : "F7DDB0",
+      "735e3a" : "231717", "a38d59" : "4C3C35", "d9c189" : "766559", "f7e7b2" : "8E7A6C",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    }
+  ]
+}

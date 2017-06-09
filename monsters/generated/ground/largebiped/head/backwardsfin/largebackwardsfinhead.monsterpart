@@ -1,0 +1,13 @@
+{
+  "name" : "largebackwardsfinhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largebackwardsfinhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

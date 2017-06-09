@@ -1,0 +1,11 @@
+{
+  "name" : "maxhealthboostcollar1",
+  "effectConfig" : {
+    "healthModifier" : 1.33
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "maxhealthscalingboost.lua"
+  ]
+}

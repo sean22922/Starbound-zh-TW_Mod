@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_techscientist1",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_techscientist1" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_techscientist1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_techscientist1.json" ]
+    }
+  ]
+}

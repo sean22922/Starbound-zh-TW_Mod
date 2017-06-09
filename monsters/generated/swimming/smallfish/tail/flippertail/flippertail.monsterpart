@@ -1,0 +1,9 @@
+{
+  "name" : "flippertail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "flippertail.png"
+  }
+}

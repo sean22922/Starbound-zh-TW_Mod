@@ -1,0 +1,9 @@
+{
+  "name" : "fishingdirt",
+  "category" : "fishingdirt",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingdirt.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "cyclops",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "cyclops.png",
+    "headfullbright" : "cyclopsfullbright.png"
+  }
+}

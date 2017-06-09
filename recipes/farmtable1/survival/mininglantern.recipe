@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 5 },
+    { "item" : "liquidoil", "count" : 10 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : { "item" : "mininglantern", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]
+}

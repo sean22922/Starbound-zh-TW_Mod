@@ -1,0 +1,9 @@
+{
+  "name" : "eyebossheartright",
+  "category" : "eyeboss",
+  "type" : "heartright",
+
+  "frames" : {
+    "heartright" : "heartright.png"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id" : "gaterepair",
+  "prerequisites" : [ "bootship" ],
+  "mainQuest" : true,
+  "title" : "Getting Started",
+  "text" : "We are currently in orbit around an unknown world. The ship is heavily damaged and we are unable to leave orbit. I suggest you ^green;beam down to the planet's surface using the ^orange;teleporter^white;, and search for supplies and perhaps a means of fixing the ship.",
+  "completionText" : "Thank you for joining me dear. With your help I know we can triumph.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/story/gaterepair.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "sail",
+      "questComplete" : "questReceiver"
+    },
+
+    "descriptions" : {
+      "explore" : "Explore the ^orange;orbited planet^reset;",
+      "findGate" : "Find the ^orange;archaic energy source^reset;",
+      "collectRepairItem" : "Collect ^orange;Core Fragments^reset;",
+      "repairGate" : "Use the ^orange;Core Fragments^reset; to activate the Gate",
+      "findEsther" : "Find the source of the ^orange;mysterious messages^reset;"
+    },
+
+    "compassUpdate" : 0.2,
+
+    "techstationUid" : "techstation",
+
+    // applied when quest is started
+    "shipUpgrade" : {
+      "capabilities" : ["teleport"]
+    },
+
+    "gateUid" : "ancientgate",
+    "gateRepairItem" : "corefragmentore",
+    "gateRepairCount" : 20,
+
+    "estherUid" : "estheroutpost",
+    "findRange" : 12,
+    "exploreTime" : 300,
+    "findEstherCinema" : "/cinematics/story/esther/esther.cinematic",
+
+    "outpostBookmark" : {
+      "bookmarkName" : "Outpost - The Ark",
+      "targetName" : "",
+      "icon" : "outpost",
+      "target" : ["instanceworld:outpost", "arkteleporter"]
+    }
+  }
+}

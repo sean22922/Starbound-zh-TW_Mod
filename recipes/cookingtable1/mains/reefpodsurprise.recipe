@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "reefpod", "count" : 1 },
+    { "item" : "oculemon", "count" : 1 }
+  ],
+  "output" : { "item" : "reefpodsurprise", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "reefpodsurprise" }
+}

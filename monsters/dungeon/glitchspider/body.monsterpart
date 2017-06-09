@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "glitchspider",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "glitchspider.png"
+  }
+}

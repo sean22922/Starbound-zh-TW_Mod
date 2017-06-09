@@ -1,0 +1,16 @@
+{
+  "name" : "beamoutandteleport",
+  "effectConfig" : {
+    "speciesTags" : {
+      "penguin" : "penguin"
+    },
+    "teleport": true
+  },
+  "defaultDuration" : 0.75,
+
+  "scripts" : [
+    "beamout.lua"
+  ],
+
+  "animationConfig" : "beamout.animation"
+}

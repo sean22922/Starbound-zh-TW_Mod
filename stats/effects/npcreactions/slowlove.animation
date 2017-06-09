@@ -1,0 +1,27 @@
+{
+  "particleEmitters" : {
+    "love" : {
+      "enabled" : true,
+      "emissionRate" : 0.1,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/emotes/happy.animation",
+            "position" : [0, 2.5],
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [10, 2],
+            "approach" : [2, 50],
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 9,
+            "variance" : {
+              "initialVelocity" : [0, 3.0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    }
+  }
+}

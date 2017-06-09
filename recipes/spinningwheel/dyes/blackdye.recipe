@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "coalore", "count" : 5 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "blackdye",
+    "count" : 1
+  },
+  "groups" : [ "craftingwheel", "dyes", "all" ]
+}

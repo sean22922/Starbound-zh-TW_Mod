@@ -1,0 +1,20 @@
+{
+  "projectileName" : "fireswirl",
+  "image" : "fireswirl.png",
+  "animationCycle" : 1,
+  "frameNumber" : 23,
+  "damageKindImage" : "icon.png",
+  "physics" : "laser",
+  "timeToLive" : 1,
+  "bounces" : 5,
+  "emitters" : [ "fireplasma", "smoke", "flames" ],
+  "lightColor" : [84, 47, 26],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "slash"
+}

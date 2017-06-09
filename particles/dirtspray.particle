@@ -1,0 +1,22 @@
+{
+  "kind" : "dirtspray",
+  "definition" : {
+    "type" : "ember",
+    "size" : 0.8,
+    "fullbright" : true,
+    "color" : [70, 56, 24, 255],
+    "fade" : 1,
+    "initialVelocity" : [-5, 10.0 ],
+    "finalVelocity" : [-0.5, -10.0],
+    "approach" : [1.0, 30.0],
+    "timeToLive" : 2,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.425,
+    "layer" : "back",
+    "variance" : {
+    "initialVelocity" : [3, 3],
+      "finalVelocity" : [3, 3],
+      "size" : 0.7
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type" : "questmanager",
+
+  "scripts" : [
+  	"/stagehands/questmanager.lua"
+  ],
+  "scriptDelta" : 10,
+  "quest" : {
+    "restartCooldown" : 30
+  }
+}

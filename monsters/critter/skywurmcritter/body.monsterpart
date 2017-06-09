@@ -1,0 +1,9 @@
+{
+  "name" : "skywurmcritter",
+  "category" : "skywurmcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

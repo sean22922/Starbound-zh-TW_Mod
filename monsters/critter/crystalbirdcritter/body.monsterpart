@@ -1,0 +1,9 @@
+{
+  "name" : "crystalbirdcritter",
+  "category" : "crystalbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 3 },
+    { "item" : "cobblestonematerial", "count" : 3 }
+  ],
+  "output" : { "item" : "huntingspear", "count" : 5 },
+  "groups" : [ "craftingfarm", "hunting" ]
+}

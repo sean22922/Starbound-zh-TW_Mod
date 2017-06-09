@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "glass", "count" : 1 },
+    { "item" : "wire", "count" : 1 }
+  ],
+  "output" : { "item" : "industrialdisplay", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

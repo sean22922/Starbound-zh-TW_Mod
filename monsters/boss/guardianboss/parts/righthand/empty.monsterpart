@@ -1,0 +1,10 @@
+{
+  "name" : "empty",
+  "category" : "guardianboss",
+  "type" : "righthand",
+
+  "frames" : {
+    "righthand" : "empty.png",
+    "righthandfullbright" : "emptyfullbright.png"
+  }
+}

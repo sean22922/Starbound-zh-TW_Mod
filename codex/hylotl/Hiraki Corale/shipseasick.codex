@@ -1,0 +1,19 @@
+{
+  "id" : "shipseasick",
+  "species" : "hylotl",
+  "title" : "Seasick",
+  "description" : "An excerpt from Hylotl Adventurer Hiraki Corale's journal.",
+  "icon" : "hirakicoralejournal2.png",
+  "contentPages" : [
+
+    "by Hiraki Corale, Hylotl adventurer
+
+I've spent my days on this ship feeling exceptionally queasy, on occasion I have actually succumbed to the nausea and... Well, it is not polite to speak of it.
+
+Right now, I'm looking for a sidekick. And a plan! And a cause, maybe. I hear those Apex could use a little help. Or maybe the humans. I will crusade for justice throughout the galaxy, and it will be glorious."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind" : "daggerblue",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.5,
+    "color" : [255, 255, 255, 180],
+    "fade" : 0.5,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.3,
+    "initialVelocity" : [0, 0],
+    "timeToLive" : 0.3,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [0, 1],
+      "size" : 1.25
+    }
+  }
+}

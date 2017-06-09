@@ -1,0 +1,16 @@
+{
+  "name" : "largerockgolemlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largerockgolemflegs.png",
+    "backLegs" : "largerockgolemblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.4,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

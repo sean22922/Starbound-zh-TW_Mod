@@ -1,0 +1,9 @@
+{
+  "name" : "petalcritter",
+  "category" : "petalcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

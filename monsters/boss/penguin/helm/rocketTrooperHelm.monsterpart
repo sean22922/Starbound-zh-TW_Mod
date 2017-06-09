@@ -1,0 +1,9 @@
+{
+  "name" : "soldierHelm",
+  "category" : "penguinrockettrooper",
+  "type" : "helm",
+
+  "frames" : {
+    "helm" : "soldierHelm.png"
+  }
+}

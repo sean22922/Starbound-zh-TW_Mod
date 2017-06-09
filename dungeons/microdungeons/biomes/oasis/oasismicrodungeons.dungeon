@@ -1,0 +1,159 @@
+{
+  "metadata" : {
+    "name" : "oasismicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "oasisbridge1", "oasisbridge2", "oasisbridge3", "oasisbridge4", "oasisbuilding1", "oasisbuilding2", "oasisbuilding3", "oasisbuilding4", "oasisbuilding5", "oasiscabin1", "oasiscabin2", "oasisdoublepit1", "oasisdoublepit2", "oasisparadise1", "oasisparadise2", "oasisparadise3", "oasispit1", "oasispit2", "oasispit3", "oasispuddles1" ],
+
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "oasisbridge1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbridge1.json" ]
+    },
+    {
+      "name" : "oasisbridge2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbridge2.json" ]
+    },
+    {
+      "name" : "oasisbridge3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbridge3.json" ]
+    },
+    {
+      "name" : "oasisbridge4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbridge4.json" ]
+    },
+    {
+      "name" : "oasisbuilding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbuilding1.json" ]
+    },
+    {
+      "name" : "oasisbuilding2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbuilding2.json" ]
+    },
+    {
+      "name" : "oasisbuilding3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbuilding3.json" ]
+    },
+    {
+      "name" : "oasisbuilding4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbuilding4.json" ]
+    },
+    {
+      "name" : "oasisbuilding5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisbuilding5.json" ]
+    },
+    {
+      "name" : "oasiscabin1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasiscabin1.json" ]
+    },
+    {
+      "name" : "oasiscabin2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasiscabin2.json" ]
+    },
+    {
+      "name" : "oasisdoublepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisdoublepit1.json" ]
+    },
+    {
+      "name" : "oasisdoublepit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisdoublepit2.json" ]
+    },
+    {
+      "name" : "oasisparadise1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisparadise1.json" ]
+    },
+    {
+      "name" : "oasisparadise2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisparadise2.json" ]
+    },
+    {
+      "name" : "oasisparadise3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasisparadise3.json" ]
+    },
+    {
+      "name" : "oasispit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasispit1.json" ]
+    },
+    {
+      "name" : "oasispit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasispit2.json" ]
+    },
+    {
+      "name" : "oasispit3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasispit3.json" ]
+    },
+    {
+      "name" : "oasispuddles1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oasispuddles1.json" ]
+    }
+  ]
+}

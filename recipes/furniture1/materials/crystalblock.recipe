@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "crystal", "count" : 1 }
+  ],
+  "output" : { "item" : "crystalblock", "count" : 30 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

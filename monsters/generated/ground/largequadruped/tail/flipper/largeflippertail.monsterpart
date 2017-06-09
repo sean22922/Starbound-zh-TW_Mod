@@ -1,0 +1,9 @@
+{
+  "name" : "largeflippertail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largeflippertail.png"
+  }
+}

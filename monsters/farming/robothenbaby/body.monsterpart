@@ -1,0 +1,9 @@
+{
+  "name" : "robothenbaby",
+  "category" : "robothenbaby",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

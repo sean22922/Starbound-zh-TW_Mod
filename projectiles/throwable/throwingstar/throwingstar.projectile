@@ -1,0 +1,22 @@
+{
+  "projectileName" : "throwingstar",
+  "image" : "throwingstar.png",
+  "animationCycle" : 0.05,
+  "physics" : "bullet",
+  "frameNumber" : 2,
+  "pointLight" : false,
+  "speed" : 180,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 100.0,
+  "knockback" : 10,
+  "damageKind" : "dagger",
+  "emitters" : [ "daggerblue" ],
+  "damagePoly" : [ [-5, 0], [-3.5, -3.5], [0, -5], [3.5, -3.5], [5, 0], [3.5, 3.5], [0, 5], [-3.5, 3.5] ]
+}
+
+

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "paper",
+    "count" : 5
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

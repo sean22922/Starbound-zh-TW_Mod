@@ -1,0 +1,9 @@
+{
+  "name" : "wavebird",
+  "category" : "wavebird",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "wavebird.png"
+  }
+}

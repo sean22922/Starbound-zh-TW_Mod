@@ -1,0 +1,14 @@
+{
+  "kind" : "waterdrip",
+  "definition" : {
+      "type" : "ember",
+      "size" : 1.0,
+      "color" : [73, 179, 253, 255],
+      "fade" : 0.9,
+      "initialVelocity" : [0.0, -1],
+      "finalVelocity" : [0.0, -20],
+      "approach" : [0, 5],
+      "timeToLive" : 0.75,
+      "layer" : "front"
+  }
+}

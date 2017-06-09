@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "tar", "count" : 1 }
+  ],
+  "output" : { "item" : "tarball", "count" : 3 },
+  "groups" : [ "craftinganvil", "consumables", "all" ]
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "ceilingstalactite",
+  "description" : "Rock stalactite, watch out.",
+  "shortdescription" : "Rock Stalactite.",
+  "floranDescription" : "Rock ssspikes.",
+  "glitchDescription" : "Statement. Rock spikes.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

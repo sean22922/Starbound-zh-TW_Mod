@@ -1,0 +1,16 @@
+{
+  "name" : "25tenantquests",
+
+  "triggers" : [
+    "tenantQuest"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "tenantQuest",
+      "op" : "atLeast",
+      "value" : 25
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+
+  "frameGrid" : {
+    "size" : [16, 32],
+    "dimensions" : [17, 1],
+    "names" : [
+      [ "active.1", "active.2", "active.3", "active.4", "active.5", "active.6", "expire1.1", "expire1.2", "expire1.3", "pause.1", "expire2.1", "expire2.2", "expire2.3", "expire2.4", "expire2.5", "expire2.6", "expire2.7" ]
+    ]
+  },
+
+  "aliases" : {
+    "default" : "active.1"
+  }
+}

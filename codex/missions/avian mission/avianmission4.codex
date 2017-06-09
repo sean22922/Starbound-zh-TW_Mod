@@ -1,0 +1,15 @@
+{
+  "id" : "avianmission4",
+  "species" : "avian",
+  "title" : "The Great Temples",
+  "description" : "A Grounded Avian's writings on great Avian temples.",
+  "icon" : "avianmission4.png",
+  "contentPages" : [
+    "The Sovereign is by far the most impressive of the six Great Temples. It is the largest, the oldest, and the only one not given over to ruin. While the others have crumbled, Sovereign has survived - unplundered, unpillaged, untouched by the ravages of time. It has stood, protecting its treasures, since before memory. It is said all six Great Temples held relics of Kluex. Perhaps The Sovereign holds something of genuine power and importance."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "globalTagDefaults" : {
+    "rotationFrame" : "0",
+    "ballDirectives" : ""
+  },
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "ballState" : {
+        "default" : "off",
+        "states" : {
+          "deactivate" : {
+            "frames" : 3,
+            "cycle" : 0.12,
+            "mode" : "transition",
+            "transition" : "off"
+          },
+          "off" : { },
+          "activate" : {
+            "frames" : 3,
+            "cycle" : 0.12,
+            "mode" : "transition",
+            "transition" : "on"
+          },
+          "on" : { }
+        }
+      }
+    },
+
+    "parts" : {
+      "ballGlow" : {
+        "properties" : {
+          "transformationGroups" : [ "ball" ],
+          "centered" : true
+        },
+        "partStates" : {
+          "ballState" : {
+            "on" : {
+              "properties" : {
+                "zLevel" : 1,
+                "fullbright" : true,
+                "image" : "<partImage>:<rotationFrame><ballDirectives>"
+              }
+            }
+          }
+        }
+      },
+      "ball" : {
+        "properties" : {
+          "transformationGroups" : [ "ball" ],
+          "centered" : true
+        },
+        "partStates" : {
+          "ballState" : {
+            "deactivate" : {
+              "properties" : {
+                "offset" : [0, 0],
+                "fullbright" : true,
+                "image" : "transform.png:deactivate.<frame>"
+              }
+            },
+            "activate" : {
+              "properties" : {
+                "offset" : [0, 1.5],
+                "fullbright" : true,
+                "image" : "transform.png:activate.<frame>"
+              }
+            },
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<rotationFrame><ballDirectives>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "ball" : { "interpolated" : true }
+  },
+
+  "particleEmitters" : {
+    "activateParticles" : {
+      "particles" : [ ]
+    },
+    "deactivateParticles" : {
+      "particles" : [ ]
+    },
+    "chargeLeft" : {
+      "emissionRate" : 10,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/jumpsmokehalf/jumpsmokehalf.animation",
+            "flip" : true,
+            "layer" : "middle",
+            "fade" : 0.9,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.4,
+            "position" : [0.5, -0.6],
+            "initialVelocity" : [3, 0],
+            "timeToLive" : 0.4,
+            "variance" : {
+              "initialVelocity" : [1, 1]
+            }
+          }
+        }
+      ]
+    },
+    "chargeRight" : {
+      "emissionRate" : 10,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/jumpsmokehalf/jumpsmokehalf.animation",
+            "layer" : "middle",
+            "fade" : 0.9,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.4,
+            "position" : [-0.5, -0.6],
+            "initialVelocity" : [-3, 0],
+            "timeToLive" : 0.4,
+            "variance" : {
+              "initialVelocity" : [1, 1]
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "chargeLoop" : [ "/sfx/tech/tech_sonicsphere_charge1.ogg" ],
+    "forceDeactivate" : [ "/sfx/tech/tech_sonicsphere_charge1.ogg" ],
+    "launch" : [ "/sfx/tech/tech_sonicsphere_launch.ogg" ],
+    "activate" : [ "/sfx/tech/tech_sphere_transform.ogg" ],
+    "deactivate" : [ "/sfx/tech/tech_sphere_transform.ogg" ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "pineapple", "count" : 1 },
+    { "item" : "kiwi", "count" : 1 },
+    { "item" : "coconut", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "tropicalpunch", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "tropicalpunch" }
+}

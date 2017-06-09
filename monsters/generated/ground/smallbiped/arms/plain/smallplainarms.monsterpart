@@ -1,0 +1,10 @@
+{
+  "name" : "smallplainarms",
+  "category" : "smallbiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "smallplainfarm.png",
+    "backArm" : "smallplainbarm.png"
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id" : "avian_mission1",
+  "mainQuest" : true,
+  "prerequisites" : [ "hylotl_mission2" ],
+  "title" : "Find Clues to Locate the Avian Artifact",
+  "text" : "^orange;Avians^reset; next I think! Probably best to ^green;go to planets where ^orange;jungle^white; terrain is in abundance - Avians like to inhabit such places. You'll find those kinds of planets around ^orange;radioactive stars^white;. See you soon, dear. Be careful, and happy hunting!",
+  "completionText" : "With that last clue we've got all we need to find the Avian artifact! Thank you for all that hard work.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/clues.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "descriptions" : {
+      "findClues" : "^green;Scan objects^reset; to find ^orange;Avian clues^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;"
+    },
+    "turnInEntityUid" : "estheroutpost",
+
+    "targetValue" : 50,
+    "objectValues" : {
+      "altaravian" : 3,
+      "ashjar1" : 2,
+      "ashjar2" : 1,
+      "bigjar1" : 2,
+      "birdaltar2" : 5,
+      "birdgong2" : 3,
+      "birdjar1" : 3,
+      "birdthrone" : 1,
+      "consoletribal2" : 2,
+      "consoletribal3" : 2,
+      "consoletribal4" : 5,
+      "consoletribalwall" : 1,
+      "goldenducky" : 1,
+      "goldenjar1" : 2,
+      "goldenurn" : 4,
+      "obsidianbookcase" : 3,
+      "sacrificialaltar" : 5,
+      "sarcoavian1" : 2,
+      "sarcoavian2" : 4,
+      "screen3" : 5,
+      "tombstatueavian" : 2,
+      "tombstone6" : 1,
+      "tombthing4" : 3,
+      "tribalbookcase1" : 2,
+      "tribalbookcase2" : 4,
+      "tribalserver" : 4,
+      "kluexmap1" : 20,
+      "kluexmural1" : 20,
+      "kluexmural2" : 20,
+      "kluexstatue1" : 20,
+      "kluexstatue2" : 20
+    },
+    "radioMessages" : {
+      "uniqueProgress" : {
+        "kluexmap1" : {
+          "messageId" : "avian_mission1_up1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This looks like an ancient depiction of a star map. Perhaps it plots the location of something important?",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "kluexmural1" : {
+          "messageId" : "avian_mission1_up2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This mural describes a great heavenly treasure... Descriptions of the Avian artifact could easily be couched in such terms.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "kluexmural2" : {
+          "messageId" : "avian_mission1_up3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This mural is ancient and uncovers mysteries long since lost.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "kluexstatue1" : {
+          "messageId" : "avian_mission1_up4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "What a strange statue. And the inscription on the base is even more intriguing than the imagery. The devil is in the detail, dear.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "kluexstatue2" : {
+          "messageId" : "avian_mission1_up5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "An unusual depiction of Kluex, and the accompanying description is strange and full of promise!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      },
+      "genericProgress" : [
+        {
+          "messageId" : "avian_mission1_gp1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hmmm, how curious... I need to cross-reference this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Interesting. This will certainly have a bearing on my research.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The Avian people have a fascinating relationship with their god. These small clues hint towards a bigger truth.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "A clue of small implication, but relevant nonetheless!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is excellent, everything you find contributes to the formation of a theory.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp6",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The past is full of secrets crying out to be uncovered. Well found, dear!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp7",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "You'd be surprised how much the little things help!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp8",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Where would the Avian people of the distant past keep something valuable? Sorry dear, just thinking out loud!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp9",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "avian_mission1_gp10",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This clue hints at hidden information.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "startWithProgress" : {
+        "messageId" : "avian_mission1_swp",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "startAlreadyComplete" : {
+        "messageId" : "avian_mission1_sac",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "You're quite the collector of Avian antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "complete" : {
+        "messageId" : "avian_mission1_c",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "The Great Sovereign Temple... It must be! That's all the information we need. ^#71f2f6;Come back to the Ark whenever you're ready^white;, dear.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      }
+    },
+
+    "dialogClueValue" : 4,
+    "dialogClueSpecies" : "avian",
+    "clueDialog" : "/dialog/clues.config:avian"
+  }
+}

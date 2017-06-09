@@ -1,0 +1,299 @@
+{
+  "metadata" : {
+    "name" : "scorchedcitymicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "electricpolegather1", "scorchedcityruins1", "scorchedcityruins2", "scorchedcityruins3", "scorchedcitybombshelter1", "scorchedcitybombshelter2", "scorchedcitybrokenroad1", "scorchedcitybrokenroad2", "scorchedcitybrokenroad3", "scorchedcitybrokenroad4", "scorchedcitybrokenroad5", "scorchedcitybrokenroad6", "scorchedcitybrokenroad7", "scorchedcitybrokenroad8", "scorchedcitybrokenroad9", "scorchedcityjunkpile1", "scorchedcityjunkpile2", "scorchedcityjunkpile3", "scorchedcityjunkpile4", "scorchedcityshop1", "scorchedcityshop2", "scorchedcityobservatory1", "scorchedcityobservatory2", "scorchedcitytrapshelter1", "scorchedcitytrapshelter2", "scorchedcityhidenbunker1", "scorchedcityhidenbunker2", "scorchedcitytrapflat1", "scorchedcitytrapflat2", "scorchedcitytrapflat3", "scorchedcitybuilding1", "scorchedcitybuilding2", "scorchedcitybuilding3", "scorchedcitybuilding4", "scorchedcitybuilding5", "scorchedcitybuilding6", "scorchedcitybuilding7", "scorchedcitybuilding8", "scorchedcitybuilding9", "scorchedcitybuilding10" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "electricpolegather1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "electricpolegather1.json" ]
+    },
+    {
+      "name" : "scorchedcityruins1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityruins1.json" ]
+    },
+    {
+      "name" : "scorchedcityruins2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityruins2.json" ]
+    },
+    {
+      "name" : "scorchedcityruins3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityruins3.json" ]
+    },
+    {
+      "name" : "scorchedcitybombshelter1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybombshelter1.json" ]
+    },
+    {
+      "name" : "scorchedcitybombshelter2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybombshelter2.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad1.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad2.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad3.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad4.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad5.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad6.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad7.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad8.json" ]
+    },
+    {
+      "name" : "scorchedcitybrokenroad9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybrokenroad9.json" ]
+    },
+    {
+      "name" : "scorchedcityjunkpile1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityjunkpile1.json" ]
+    },
+    {
+      "name" : "scorchedcityjunkpile2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityjunkpile2.json" ]
+    },
+    {
+      "name" : "scorchedcityjunkpile3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityjunkpile3.json" ]
+    },
+    {
+      "name" : "scorchedcityjunkpile4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityjunkpile4.json" ]
+    },
+    {
+      "name" : "scorchedcityshop1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityshop1.json" ]
+    },
+    {
+      "name" : "scorchedcityshop2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityshop2.json" ]
+    },
+    {
+      "name" : "scorchedcityobservatory1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityobservatory1.json" ]
+    },
+    {
+      "name" : "scorchedcityobservatory2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityobservatory2.json" ]
+    },
+    {
+      "name" : "scorchedcitytrapshelter1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitytrapshelter1.json" ]
+    },
+    {
+      "name" : "scorchedcitytrapshelter2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitytrapshelter2.json" ]
+    },
+    {
+      "name" : "scorchedcityhidenbunker1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityhidenbunker1.json" ]
+    },
+    {
+      "name" : "scorchedcityhidenbunker2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcityhidenbunker2.json" ]
+    },
+    {
+      "name" : "scorchedcitytrapflat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitytrapflat1.json" ]
+    },
+    {
+      "name" : "scorchedcitytrapflat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitytrapflat2.json" ]
+    },
+    {
+      "name" : "scorchedcitytrapflat3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitytrapflat3.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding1.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding2.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding3.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding4.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding5.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding6.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding7.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding8.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding9.json" ]
+    },
+    {
+      "name" : "scorchedcitybuilding10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "scorchedcitybuilding10.json" ]
+    }
+
+  ]
+}

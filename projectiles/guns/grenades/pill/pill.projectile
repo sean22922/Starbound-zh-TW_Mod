@@ -1,0 +1,59 @@
+{
+  "projectileName" : "pill",
+  "physics" : "bouncy",
+  "bounces" : -1,
+  "timeToLive" : 3,
+  "damageKindImage" : "icon.png",
+  "image" : "pill.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosionuniversal.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 135
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 225
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 270
+    },
+    {
+      "action" : "projectile",
+      "type" : "flame",
+      "angle" : 315
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

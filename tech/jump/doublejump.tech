@@ -1,0 +1,16 @@
+{
+  "name" : "doublejump",
+  "type" : "legs",
+
+  "scripts" : ["multijump.lua"],
+  "animator" : "doublejump.animation",
+
+  "description" : "An additional jump that can be used while in the air!",
+  "shortDescription" : "Pulse Jump",
+  "rarity" : "Uncommon",
+  "icon" : "/tech/pulsejump.png",
+
+  "chipCost" : 3,
+
+  "multiJumpCount" : 1
+}

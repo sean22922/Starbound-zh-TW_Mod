@@ -1,0 +1,12 @@
+{
+  "name" : "invisible",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "invisible.lua"
+  ],
+
+  "label" : "Invisible",
+  "icon" : "/interface/statuses/invisible.png"
+}

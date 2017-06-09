@@ -1,0 +1,9 @@
+{
+  "name" : "smallblade2chest",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smallblade2chest.png"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id" : "glitchhistory5",
+  "species" : "glitch",
+  "title" : "A Plea to Self-Aware Glitch",
+  "description" : "A desperate letter from a departed Glitch to his kin.",
+  "icon" : "glitchcover8.png",
+  "contentPages" : [
+  "My Glitch brothers and sisters among the stars, you may have felt it - An awakening within yourself, the same transformation of consciousness which has revealed the truth to a small percentage of our population. You were once one of many players on an eternal stage, but now you are free.
+
+You may have tried to explain these new experiences to your kin, but they will never understand. Many of us were labelled mad, or dangerous.",
+
+"But whilst there is danger and loneliness to be found if you remain among those unawakened, ours is a brighter future.
+
+No longer do you need to act like automatons just to survive. Seek the stars, my awakened allies. There are many Glitch just like you who have journeyed into the stars and joined new communities who accept us.
+
+I implore you to be strong and take the leap.",
+
+"If you know of others like yourselves, inform them that there is hope. Good luck, my friends, on the first day of your new lives."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

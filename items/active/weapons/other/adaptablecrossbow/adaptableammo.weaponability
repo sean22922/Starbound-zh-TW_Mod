@@ -1,0 +1,236 @@
+{
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "ammoType" : {
+          "default" : "1",
+          "states" : {
+            "1" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "iceAmmo", "electricAmmo", "poisonAmmo", "hGravityAmmo", "nGravityAmmo" ]
+              }
+            },
+            "2" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "iceAmmo", "electricAmmo", "poisonAmmo", "hGravityAmmo", "nGravityAmmo" ],
+                "particleEmittersOn" : [ "fireAmmo" ]
+              }
+            },
+            "3" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "electricAmmo", "poisonAmmo", "hGravityAmmo", "nGravityAmmo" ],
+                "particleEmittersOn" : [ "iceAmmo" ]
+              }
+            },
+            "4" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "iceAmmo", "poisonAmmo", "hGravityAmmo", "nGravityAmmo" ],
+                "particleEmittersOn" : [ "electricAmmo" ]
+              }
+            },
+            "5" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "iceAmmo", "electricAmmo", "hGravityAmmo", "nGravityAmmo" ],
+                "particleEmittersOn" : [ "poisonAmmo" ]
+              }
+            },
+            "6" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "iceAmmo", "electricAmmo", "poisonAmmo", "nGravityAmmo" ],
+                "particleEmittersOn" : [ "hGravityAmmo" ]
+              }
+            },
+            "7" : {
+              "frames" : 1,
+              "properties" : {
+                "particleEmittersOff" : [ "fireAmmo", "iceAmmo", "electricAmmo", "poisonAmmo", "hGravityAmmo" ],
+                "particleEmittersOn" : [ "nGravityAmmo" ]
+              }
+            }
+          }
+        }
+      },
+
+      "parts" : {
+        "middle" : {
+          "properties" : {
+            "image" : null
+          },
+
+          "partStates" : {
+            "ammoType" : {
+              "1" : {
+                "properties" : {
+                  "image" : "<partImage>:wooden.<frame><paletteSwaps>"
+                }
+              },
+              "2" : {
+                "properties" : {
+                  "image" : "<partImage>:explosive.<frame><paletteSwaps>"
+                }
+              },
+              "3" : {
+                "properties" : {
+                  "image" : "<partImage>:ice.<frame><paletteSwaps>"
+                }
+              },
+              "4" : {
+                "properties" : {
+                  "image" : "<partImage>:electric.<frame><paletteSwaps>"
+                }
+              },
+              "5" : {
+                "properties" : {
+                  "image" : "<partImage>:poison.<frame><paletteSwaps>"
+                }
+              },
+              "6" : {
+                "properties" : {
+                  "image" : "<partImage>:hgravity.<frame><paletteSwaps>"
+                }
+              },
+              "7" : {
+                "properties" : {
+                  "image" : "<partImage>:ngravity.<frame><paletteSwaps>"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "particleEmitters" : {
+      "fireAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 3.0,
+        "particles" : [
+          { "particle" : "fireember" },
+          { "particle" : "fireember" },
+          { "particle" : "fireember" }
+        ]
+      },
+      "iceAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 3.0,
+        "particles" : [
+          { "particle" : "iceaura" }
+        ]
+      },
+      "electricAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 1.0,
+        "particles" : [
+          { "particle" : "teslabolt" },
+          { "particle" : "electricalburn" },
+          { "particle" : "electricalburn" },
+          { "particle" : "electricswoosh2" },
+          { "particle" : "electricswoosh2" }
+        ]
+      },
+      "poisonAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 1.0,
+        "particles" : [
+          { "particle" : "poisondrip2" },
+          { "particle" : "poisondrip2" },
+          { "particle" : "poisondrip2" }
+        ]
+      },
+      "hGravityAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 1.5,
+        "particles" : [
+          { "particle" : "shadowsmoke" }
+        ]
+      },
+      "nGravityAmmo" : {
+        "transformationGroups" : ["weapon"],
+        "offsetRegion" : [0, 0, 1.5, 0],
+        "emissionRate" : 1.5,
+        "particles" : [
+          { "particle" : "shadowsmoke" }
+        ]
+      }
+
+    },
+
+    "sounds" : {
+      "switchAmmo" : [ "/sfx/gun/reload/shotgun_reload_clip3.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "type" : "adaptableammo",
+    "name" : "Adaptable Ammo",
+    "scripts" : ["/items/active/weapons/other/adaptablecrossbow/adaptableammo.lua"],
+    "class" : "AdaptableAmmo",
+
+    "adaptedAbilityIndex" : 1,
+
+    "ammoTypes" : [
+      {
+        "projectileType" : "woodenbolt",
+        "energyUsage" : 24
+      },
+      {
+        "projectileType" : "explosivebolt",
+        "energyUsage" : 48
+      },
+      {
+        "projectileType" : "icebolt",
+        "energyUsage" : 36
+      },
+      {
+        "projectileType" : "electricbolt",
+        "energyUsage" : 36
+      },
+      {
+        "projectileType" : "poisonbolt",
+        "energyUsage" : 36
+      },
+      {
+        "projectileType" : "hgravitybolt",
+        "energyUsage" : 48
+      },
+      {
+        "projectileType" : "ngravitybolt",
+        "energyUsage" : 48
+      }
+    ],
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+  
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "switch" : {
+        "aimAngle" : 0,
+        "armRotation" : -40,
+        "weaponRotation" : 60,
+        "weaponAngularVelocity" : -150,
+        "armAngularVelocity" : 100,
+        "twoHanded" : true,
+        "duration" : 0.4,
+  
+        "allowRotate" : false,
+        "allowFlip" : true
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+      "astralTear" : [ "/sfx/melee/astraltear1.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Astral Tear",
+    "type" : "astraltear",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/astraltear/astraltear.lua"],
+    "class" : "AstralTear",
+
+    "projectileOffset" : [3,0],
+    "projectileType" : "astraltearstart",
+
+    "baseDamage" : 10.35,
+    "energyUsage" : 200,
+    "cooldownTime" : 1.5,
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : 70,
+        "weaponRotation" : 0,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "fire" : {
+        "duration" : 0.4,
+        "armRotation" : -45,
+        "weaponRotation" : -55,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

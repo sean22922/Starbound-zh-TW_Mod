@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "crosshatch",
+    "count" : 30
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

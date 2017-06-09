@@ -1,0 +1,9 @@
+{
+  "name" : "red",
+  "category" : "petweasel",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "red.png"
+  }
+}

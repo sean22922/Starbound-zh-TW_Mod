@@ -1,0 +1,14 @@
+{
+  "projectileName" : "darkgravityball",
+  "physics" : "laser",
+  "bounces" : 0,
+  "timeToLive" : 1.8,
+  "image" : "darkgravityball.png",
+  "damageKindImage" : "icon.png",
+  "speed" : 1,
+  "animationCycle" : 1.8,
+  "lightColor" : [93, 10, 47],
+  "frameNumber" : 25,
+  "power" : 50,
+  "damageKind" : "slash"
+}

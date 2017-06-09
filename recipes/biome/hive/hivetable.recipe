@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "hive", "count" : 30 },
+    { "item" : "larva", "count" : 20 }
+  ],
+  "output" : { "item" : "hivetable", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

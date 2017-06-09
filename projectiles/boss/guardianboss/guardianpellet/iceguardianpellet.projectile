@@ -1,0 +1,17 @@
+{
+  "projectileName" : "iceguardianpellet",
+  "image" : "iceguardianpellet.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "fullbright" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "iceplasma",
+
+  "emitters" : [ "iceplasma" ],
+
+  "power" : 10,
+  "speed" : 50
+}

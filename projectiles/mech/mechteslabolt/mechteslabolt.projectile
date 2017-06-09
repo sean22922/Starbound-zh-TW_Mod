@@ -1,0 +1,14 @@
+{
+  "projectileName" : "mechteslabolt",
+  "image" : "mechteslabolt.png",
+  "animationCycle" : 0.15,
+  "timeToLive" : 0.75,
+  "frameNumber" : 4,
+  "speed" : 80,
+  "damagePoly" : [ [-6, 0], [0, 3], [6, 0], [0, -3] ],
+  "piercing" : false,
+  "flippable" : true,
+  "damageKind" : "electric",
+  "lightColor" : [80, 40, 140],
+  "statusEffects" : ["overload"]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "goldbar", "count" : 5 },
+    { "item" : "wire", "count" : 6 },
+    { "item" : "smallbattery", "count" : 4 }
+  ],
+  "output" : { "item" : "cavedetector", "count" : 1 },
+  "groups" : [ "craftingfarm2", "survival" ]
+}

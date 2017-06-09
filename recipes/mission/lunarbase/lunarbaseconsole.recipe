@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 5 }
+  ],
+  "output" : { "item" : "lunarbaseconsole", "count" : 1 },
+  "groups" : [ "craftingwiring", "switches" ]
+}

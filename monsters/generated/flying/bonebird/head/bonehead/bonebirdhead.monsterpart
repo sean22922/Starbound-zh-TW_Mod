@@ -1,0 +1,9 @@
+{
+  "name" : "bonebirdhead",
+  "category" : "bonebird_parts",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "bonebirdhead.png"
+  }
+}

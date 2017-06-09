@@ -1,0 +1,15 @@
+{
+  "name" : "shieldregen",
+  "effectConfig" : {
+    "shieldRegenPercentage" : 0.1,
+    "expireOnFull" : true
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "shieldregen.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "animationConfig" : "shieldregen.animation"
+}

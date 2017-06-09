@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "petalred", "count" : 40 },
+    { "item" : "plantfibre", "count" : 20 },
+    { "item" : "cobblestonematerial", "count" : 20 },
+    { "item" : "liquidwater", "count" : 20 }
+  ],
+  "output" : { "item" : "petalfountain", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

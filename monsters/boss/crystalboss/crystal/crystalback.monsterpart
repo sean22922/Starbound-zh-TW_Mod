@@ -1,0 +1,9 @@
+{
+  "name" : "crystalback",
+  "category" : "crystalboss",
+  "type" : "organs",
+
+  "frames" : {
+    "organs" : "crystalback.png"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "projectileName" : "guardiandamagebuff",
+  "image" : "guardiandamagebuff.png",
+  "physics" : "laser",
+  "animationCycle" : 0.8,
+  "frameNumber" : 12,
+  "windupFrames" : 3,
+  "intangibleWindup" : true,
+  "winddownFrames" : 3,
+  "intangibleWinddown" : true,
+  "renderLayer" : "Player+10",
+  "fullbright" : true,
+  "damagePoly" : [ [-32, 13], [-13, 32], [13, 32], [32, 13], [32, -13], [13, -32], [-13, -32], [-32, -13] ],
+  "piercing" : true,
+  "statusEffects" : [
+    "largedamageboost"
+  ],
+  "damageTeam" : { "type" : "enemy", "team" : 2 },
+  "damageKind" : "applystatus",
+
+  "timeToLive" : 2.8,
+  "bounces" : 1,
+  "power" : -1,
+  "speed" : 0,
+  "damageRepeatGroup" : "guardiandamagebuff",
+  "damageRepeatTimeout" : 1.4,
+
+  "periodicActions" : [
+    {
+      "time" : 0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/melee/staff_aura_activate.ogg" ]
+    },
+    {
+      "time" : 2.5,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/tech/vehicle_disappear1.ogg" ]
+    }
+  ],
+
+  "persistentAudio" : "/sfx/projectiles/zone_power_loop.ogg"
+}

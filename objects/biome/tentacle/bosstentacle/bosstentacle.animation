@@ -1,0 +1,178 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "tip2" : {
+        "default" : "invisible",
+        "priority" : 1,
+        "states" : {
+          "invisible" : {},
+          "visible" : {}
+        }
+      },
+      "full1" : {
+        "default" : "invisible",
+        "priority" : 1,
+        "states" : {
+          "invisible" : {},
+          "visible" : {}
+        }
+      },
+      "full2" : {
+        "default" : "invisible",
+        "priority" : 1,
+        "states" : {
+          "invisible" : {},
+          "visible" : {}
+        }
+      },
+      "full3" : {
+        "default" : "invisible",
+        "priority" : 1,
+        "states" : {
+          "invisible" : {},
+          "visible" : {}
+        }
+      },
+      "full4" : {
+        "default" : "invisible",
+        "priority" : 1,
+        "states" : {
+          "invisible" : {},
+          "visible" : {}
+        }
+      }
+    },
+
+    "parts" : {
+      "tip" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 10,
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle" ]
+        }
+      },
+      "tip2" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 20,
+          "transformationGroups" : [ "tentacle" ]
+        },
+        "partStates" : {
+          "tip2" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      },
+      "full1" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 30,
+          "transformationGroups" : [ "tentacle" ]
+        },
+        "partStates" : {
+          "full1" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      },
+      "full2" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 40,
+          "transformationGroups" : [ "tentacle" ]
+        },
+        "partStates" : {
+          "full2" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      },
+      "full3" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 50,
+          "transformationGroups" : [ "tentacle" ]
+        },
+        "partStates" : {
+          "full3" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      },
+      "full4" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 60,
+          "transformationGroups" : [ "tentacle" ]
+        },
+        "partStates" : {
+          "full4" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "tentacle" : { "interpolated" : true }
+  },
+
+  "particleEmitters" : {
+    "windup" : {
+      "emissionRate" : 90.0,
+      "offsetRegion" : [-19, 3, -6, 3],
+      "particles" : [
+        { "count" : 9, "particle" : "jellyshard" }
+      ]
+    },
+    "floordebris" : {
+      "emissionRate" : 90.0,
+      "offsetRegion" : [6, 3, 19, 3],
+      "particles" : [
+        { "count" : 9, "particle" : "jellyshard" }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "spawn" : [],
+    "windupstart" : {
+      "pool" : [ "/sfx/npc/boss/tentacleboss_tentacle_windup.ogg" ],
+      "rangeMultiplier" : 2.0
+    },
+    "winduploop" : {
+      "pool" : [],
+      "rangeMultiplier" : 2.0
+    },
+    "movestart" : {
+      "pool" : [ "/sfx/npc/boss/tentacleboss_tentacle_burst.ogg" ],
+      "rangeMultiplier" : 2.0
+    },
+    "moveloop" : {
+      "pool" : [],
+      "rangeMultiplier" : 2.0
+    }
+  }
+}

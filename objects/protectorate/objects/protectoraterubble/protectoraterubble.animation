@@ -1,0 +1,31 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "rubbleState" : {
+        "default" : "hidden",
+        "states" : {
+          "hidden" : {},
+          "shown" : {}
+        }
+      }
+    },
+
+    "parts" : {
+      "rubble" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "rubbleState" : {
+            "shown" : {
+              "properties" : {
+                "image" : "protectoraterubble.png"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

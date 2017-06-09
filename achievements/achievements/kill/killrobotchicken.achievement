@@ -1,0 +1,16 @@
+{
+  "name" : "killrobotchicken",
+
+  "triggers" : [
+    "killMonster.monsterType.robotchicken"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.robotchicken",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

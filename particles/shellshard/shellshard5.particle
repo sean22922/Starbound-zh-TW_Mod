@@ -1,0 +1,24 @@
+{
+  "kind" : "shellshard5",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/particles/shellshard/shellshard5.png",
+    "size" : 1.0,
+    "color" : [255, 255, 255, 255],
+    "fade" : 0,
+    "initialVelocity" : [0.0, 0.0],
+    "finalVelocity" : [0.0, 0.0],
+    "rotation" : 0,
+    "angularVelocity" : 0,
+    "timeToLive" : 0.5,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.5,
+    "layer" : "front",
+    "variance" : {
+      "initialVelocity" : [15,15],
+      "size" : 0.2,
+      "rotation" : 180,
+      "angularVelocity" : 180
+    }
+  }
+}

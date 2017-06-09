@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "currentcorn", "count" : 1 },
+    { "item" : "automato", "count" : 1 }
+  ],
+  "output" : { "item" : "automatostew", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "automatostew" }
+}

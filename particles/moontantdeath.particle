@@ -1,0 +1,21 @@
+{
+  "kind" : "moontantdeath",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/moontantdeath/moontantdeath.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0.0, 0.0],
+    "finalVelocity" : [30, 0],
+    "approach" : [5, -4],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.7,
+    "fade" : 1,
+    "size" : 1,
+    "layer" : "back",
+    "timeToLive" : 0.6,
+    "variance" : {
+      "initialVelocity" : [5.0, 3.0],
+      "finalVelocity" : [5.0, 3.0]
+    }
+  }
+}

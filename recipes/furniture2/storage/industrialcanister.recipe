@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "yellowdye", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "industrialcrate",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "storage", "all" ]
+}

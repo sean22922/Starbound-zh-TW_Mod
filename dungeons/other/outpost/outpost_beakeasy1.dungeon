@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_beakeasy1",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_beakeasy1" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_beakeasy1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_beakeasy1.json" ]
+    }
+  ]
+}

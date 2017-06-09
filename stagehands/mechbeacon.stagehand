@@ -1,0 +1,8 @@
+{
+  "type" : "mechbeacon",
+
+  "scripts" : [],
+  "scriptDelta" : 0,
+
+  "uniqueId" : "mechbeacon"
+}

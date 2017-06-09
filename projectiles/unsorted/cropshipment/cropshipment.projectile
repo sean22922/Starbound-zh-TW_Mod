@@ -1,0 +1,183 @@
+{
+  "projectileName" : "cropshipment",
+  "physics" : "rocketillusion",
+  "image" : "cropshipment.png",
+  "animationCycle" : 0.05,
+  "frameNumber" : 1,
+  "winddownFrames" : 3,
+  "timeToLive" : 2.0,
+  "lightColor" : [160, 120, 60],
+  "pointLight" : true,
+  "flippable" : false,
+  "power" : 10.0,
+  "speed" : 1.0,
+  "acceleration" : 50,
+
+  "onlyHitTerrain" : true,
+
+  "persistentAudio" : "/sfx/tech/tech_jetpack.ogg",
+
+  "periodicActions" : [
+
+    {
+      "time" : 0.0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/objects/cropshipper_launch.ogg" ]
+    },
+    {
+      "time" : 0.05,
+      "action" : "loop",
+      "count" : 1,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/smoke/smoke.animation",
+            "initialVelocity" : [0.0, -20.0],
+            "finalVelocity" : [0.0, -10.0],
+            "approach" : [0, 60],
+            "timeToLive" : 0.9,
+            "layer" : "back",
+            "size" : 0.3,
+            "collidesForeground" : false,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.9,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 0],
+              "size" : 0.2,
+              "initialVelocity" : [1, 3],
+              "rotation" : 180,
+              "angularVelocity" : 180
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/flamepuff/flamepuff.animation",
+            "initialVelocity" : [0.0, -20.0],
+            "finalVelocity" : [0.0, -10.0],
+            "approach" : [0, 60],
+            "timeToLive" : 0.1,
+            "layer" : "back",
+            "size" : 0.7,
+            "collidesForeground" : false,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.1,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 0.5],
+              "size" : 0.2,
+              "initialVelocity" : [2, 1.5],
+              "rotation" : 180,
+              "angularVelocity" : 180
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/fireshard.animation",
+            "initialVelocity" : [0, -10],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 10],
+            "fade" : 0.5,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.5,
+            "layer" : "back",
+            "size" : 0.3,
+            "timeToLive" : 0.5,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 1.0],
+              "size" : 0.2,
+              "initialVelocity" : [0, 4]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 0.08,
+      "action" : "loop",
+      "count" : 2,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/smoke/smoke.animation",
+            "initialVelocity" : [0.0, -20.0],
+            "finalVelocity" : [0.0, -10.0],
+            "approach" : [0, 60],
+            "timeToLive" : 0.9,
+            "layer" : "back",
+            "size" : 0.3,
+            "collidesForeground" : false,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.9,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 0],
+              "size" : 0.2,
+              "initialVelocity" : [1, 3],
+              "rotation" : 180,
+              "angularVelocity" : 180
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/flamepuff/flamepuff.animation",
+            "initialVelocity" : [0.0, -20.0],
+            "finalVelocity" : [0.0, -10.0],
+            "approach" : [0, 60],
+            "timeToLive" : 0.1,
+            "layer" : "back",
+            "size" : 0.7,
+            "collidesForeground" : false,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.1,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 0.5],
+              "size" : 0.2,
+              "initialVelocity" : [2, 1.5],
+              "rotation" : 180,
+              "angularVelocity" : 180
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/fireshard.animation",
+            "initialVelocity" : [0, -10],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 10],
+            "fade" : 0.5,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.5,
+            "layer" : "back",
+            "size" : 0.3,
+            "timeToLive" : 0.5,
+            "position" : [-1.5, 0],
+            "variance" : {
+              "position" : [0, 1.0],
+              "size" : 0.2,
+              "initialVelocity" : [0, 4]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

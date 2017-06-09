@@ -1,0 +1,9 @@
+{
+  "name" : "bluebutterflycritter",
+  "category" : "bluebutterflycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

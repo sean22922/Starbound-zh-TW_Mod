@@ -1,0 +1,49 @@
+{
+  "name" : "spikesphere",
+  "type" : "head",
+
+  "scripts" : ["spikesphere.lua"],
+  "animator" : "distortionsphere.animation",
+
+  "description" : "Transform into a sphere that can climb walls! ^green;[F]",
+  "shortDescription" : "Spike Sphere",
+  "rarity" : "Legendary",
+  "icon" : "/tech/spikesphere.png",
+
+  "chipCost" : 8,
+
+  "animationParts" : {
+    "ballGlow" : "spikesphereglow.png",
+    "ball" : "spikesphere.png"
+  },
+
+  "transformedMovementParameters" : {
+    "collisionPoly" : [ [-0.85, -0.35], [-0.35, -0.85], [0.35, -0.85], [0.85, -0.35], [0.85, 0.35], [0.35, 0.85], [-0.35, 0.85], [-0.85, 0.35] ],
+
+    "airForce" : 0.0,
+    "liquidForce" : 0.0,
+
+    "airJumpProfile" : {
+      "jumpSpeed" : 0.0
+    },
+
+    "liquidJumpProfile" : {
+      "jumpSpeed" : 0.0,
+      "jumpControlForce" : 0.0,
+
+      "multiJump" : false,
+      "autoJump" : false
+    }
+  },
+
+  "ignorePlatforms" : true,
+
+  "ballSpeed" : 10,
+
+  "energyCost" : 50,
+
+  "ballRadius" : 1,
+  "ballFrames" : 4,
+
+  "damageDisableTime" : 0.2
+}

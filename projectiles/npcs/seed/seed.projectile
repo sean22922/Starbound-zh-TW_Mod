@@ -1,0 +1,18 @@
+{
+  "projectileName" : "seed",
+  "physics" : "gravitybullet",
+  "image" : "seed.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "emitters" : [ "poisondrip" ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "default"
+}

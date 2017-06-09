@@ -1,0 +1,25 @@
+{
+  "id" : "humanhistory8",
+  "species" : "human",
+  "title" : "Human Census: Report",
+  "description" : "The report following a census of permanent human settlements outside of Earth.",
+  "icon" : "humancover7.png",
+  "contentPages" : [
+  	"Analysis of \"Off-Earth Human Census\"
+
+This recent census has established two facts: that the level of human inter-system colonisation is even lower than previously estimated, and that the average size of a settlement is minute.
+
+The largest single settlement is now confirmed to be on Arin Borealis VII, numbering just nineteen individuals, composing five families.",
+
+"These statistics are not especially surprising. Studies carried out during the census indicate that these settlers tend to be of an adventurous disposition, and while this is not an uncommon characteristic amongst us humans, deciding to become a settler is still atypical behaviour.
+
+Most humans of this personality type choose to travel, join inter-planetary crews, become a Protector, or live nomadically for some period of their lives.",
+
+"Few people relish the idea of living in deep isolation without infrastructure or support. While settlement life does seem to suit a particular minority well, most other humans prefer to base themselves within the variety, vitality, and peacefulness of Earth."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

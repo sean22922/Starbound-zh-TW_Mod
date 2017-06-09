@@ -1,0 +1,11 @@
+{
+  "name" : "intents",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "intents.lua"
+  ],
+
+  "animationConfig" : "intents.animation"
+}

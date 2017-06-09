@@ -1,0 +1,16 @@
+{
+  "name" : "museum",
+
+  "triggers" : [
+    "quest.templateId.museumcurator6"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.museumcurator6",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

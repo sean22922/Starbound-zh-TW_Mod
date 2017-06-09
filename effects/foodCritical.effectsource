@@ -1,0 +1,30 @@
+{
+  "kind" : "foodCritical",
+  "definition" : {
+    "duration" : 1.00,
+    "loops" : false,
+    "location" : "mouth",
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ "/sfx/interface/playerstatuscritical.ogg" ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

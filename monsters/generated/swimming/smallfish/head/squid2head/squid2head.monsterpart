@@ -1,0 +1,9 @@
+{
+  "name" : "squid2head",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "squid2head.png"
+  }
+}

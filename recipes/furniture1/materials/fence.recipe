@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 },
+    { "item" : "string", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fence",
+    "count" : 10
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

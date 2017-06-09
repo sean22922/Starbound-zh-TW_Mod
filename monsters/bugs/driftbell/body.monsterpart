@@ -1,0 +1,9 @@
+{
+  "name" : "driftbell",
+  "category" : "driftbell",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "driftbell.png"
+  }
+}

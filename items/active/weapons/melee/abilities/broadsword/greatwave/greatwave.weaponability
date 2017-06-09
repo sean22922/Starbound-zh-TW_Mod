@@ -1,0 +1,54 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+      "physicalimpact" : [ "/sfx/gun/grenadeblast_ice2.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Great Wave",
+    "type" : "greatwave",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/greatwave/greatwave.lua"],
+    "class" : "GreatWave",
+
+    "energyUsage" : 100.0,
+
+    "cooldownTime" : 2,
+
+    "projectileType" : "watershockwave",
+    "projectileParameters" : {
+      "power" : 1,
+      "knockback" : 40,
+      "knockbackMode" : "facing",
+      "onlyHitTerrain" : true
+    },
+    "shockWaveBounds" : [-0.4, -1.375, 0.4, 0.0],
+    "shockwaveHeight" : 1.375,
+    "maxDistance" : 12,
+
+    "impactLine" : [ [1.25, -1.5], [1.25, -4.5] ],
+    "impactWeaponOffset" : 0.75,
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.3,
+        "armRotation" : 90,
+        "weaponRotation" : -10,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0.15,
+        "armRotation" : -45,
+        "weaponRotation" : -55,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

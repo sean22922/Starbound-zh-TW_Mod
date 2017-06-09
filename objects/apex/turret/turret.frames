@@ -1,0 +1,11 @@
+{
+  "frameGrid" : {
+    "size" : [48, 23],
+    "dimensions" : [4, 2],
+
+    "names" : [
+      [ "idle", null, null, "bracket" ],
+      [ "attack.1", "attack.2", "attack.3", "attack.4" ]
+    ]
+  }
+}

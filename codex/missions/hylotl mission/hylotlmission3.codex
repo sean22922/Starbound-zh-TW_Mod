@@ -1,0 +1,19 @@
+{
+  "id" : "hylotlmission3",
+  "species" : "hylotl",
+  "title" : "Official Notice",
+  "description" : "A notice posted to visitors of The Grand Pagoda Library since its recovery.",
+  "icon" : "hylotlmission3.png",
+  "contentPages" : [
+    "While we welcome scholars to the newly rediscovered Grand Pagoda Library, we ask that all visitors take care within the building.
+
+We entreat you not to handle the more fragile books, and beseech you not to enter areas that are clearly unsafe.
+
+We would like to remind our learned kin that common sense is just as important as wisdom."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

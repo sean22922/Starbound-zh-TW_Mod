@@ -1,0 +1,115 @@
+{
+  "name" : "mushroomyellowtop",
+  "shape" : "mushroompatch",
+
+  "dropConfig" : {
+    "drops" : [
+      [ { "item" : "sapling" } ]
+    ],
+    
+    "particles" : {
+      "breakTree" : {
+        "density" : 3,
+        "options" : [
+          {
+            "type" : "ember",
+            "color" : [177, 166, 116],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [205, 194, 142],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [237, 227, 179],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          }
+        ]
+      },
+      "hitGround" : {
+        "density" : 3,
+        "options" : [
+          {
+            "type" : "ember",
+            "color" : [177, 166, 116],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [205, 194, 142],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [237, 227, 179],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          }
+        ]
+      }
+    }
+  },
+
+
+  "crownLeaves" : {
+    "crown1" : {
+      "image" : "crown1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "crown2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  }
+}

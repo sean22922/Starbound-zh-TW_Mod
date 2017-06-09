@@ -1,0 +1,8 @@
+{
+  "name" : "strange",
+  "description" : "A bizarre plant.",
+  "shortdescription" : "A bizarre plant.",
+  "floranDescription" : "Weird plant. Floran relate to it.",
+  "glitchDescription" : "Distaste. An ugly plant.",
+  "images" : [ "strange1.png", "strange2.png", "strange3.png", "strange4.png", "strange5.png" ]
+}

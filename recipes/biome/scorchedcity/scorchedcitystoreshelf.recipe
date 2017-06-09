@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 15 }
+  ],
+  "output" : { "item" : "scorchedcitystoreshelf", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

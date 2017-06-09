@@ -1,0 +1,9 @@
+{
+  "name" : "penguinscabcritter",
+  "category" : "penguinscabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

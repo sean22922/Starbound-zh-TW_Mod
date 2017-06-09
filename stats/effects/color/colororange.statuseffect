@@ -1,0 +1,11 @@
+{
+  "name" : "colororange",
+  "effectConfig" : {
+    "color" : "FF8C00"
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "color.lua"
+  ]
+}

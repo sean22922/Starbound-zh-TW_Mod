@@ -1,0 +1,9 @@
+{
+  "name" : "dartcritter",
+  "category" : "dartcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

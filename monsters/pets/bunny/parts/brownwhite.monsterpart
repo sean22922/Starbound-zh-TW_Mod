@@ -1,0 +1,9 @@
+{
+  "name" : "brownwhite",
+  "category" : "petbunny",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "brownwhite.png"
+  }
+}

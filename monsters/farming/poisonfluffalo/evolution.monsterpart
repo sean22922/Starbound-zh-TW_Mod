@@ -1,0 +1,9 @@
+{
+  "name" : "poisonevolution",
+  "category" : "poisonfluffalo",
+  "type" : "spawn",
+
+  "frames" : {
+    "spawn" : "evolution.png"
+  }
+}

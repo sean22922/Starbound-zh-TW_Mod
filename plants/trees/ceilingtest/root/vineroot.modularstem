@@ -1,0 +1,76 @@
+{
+  "name" : "root",
+  "shape" : "root",
+  "health" : 2,
+  "ceiling" : true,
+
+  "base" : {
+    "base1" : {
+      "image" : "vinerootbase1.png",
+      "attachment" : {
+        "bx" : -1,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    },
+    "base2" : {
+      "image" : "vinerootbase2.png",
+      "attachment" : {
+        "bx" : -2,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    }
+  },
+  "middle" : {
+    "middle1" : {
+      "image" : "vinerootmid1.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    },
+    "middle2" : {
+      "image" : "vinerootmid2.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    },
+    "middle3" : {
+      "image" : "vinerootmid3.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    }
+  },
+  "crown" : {
+    "crown1" : {
+      "image" : "vinerootend1.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 0,
+        "y" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "vinerootend2.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 0,
+        "y" : 0
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "smallplainlegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallplainflegs.png",
+    "backLegs" : "smallplainblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.3,
+    "jumpMultiplier" : 1.0
+  }
+}

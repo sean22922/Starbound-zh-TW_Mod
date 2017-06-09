@@ -1,0 +1,9 @@
+{
+  "name" : "bobfae",
+  "category" : "bobfae",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bobfae.png"
+  }
+}

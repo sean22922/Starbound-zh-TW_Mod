@@ -1,0 +1,9 @@
+{
+  "name" : "frontArm",
+  "category" : "penguingeneral",
+  "type" : "frontArm",
+
+  "frames" : {
+    "frontArm" : "frontArm.png"
+  }
+}

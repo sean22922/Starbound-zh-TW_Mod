@@ -1,0 +1,8 @@
+{
+  "name" : "thinstem",
+  "description" : "A thin shrub.",
+  "shortdescription" : "A thin shrub.",
+  "floranDescription" : "Thin shrub.",
+  "glitchDescription" : "Statement. A thin shrub.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

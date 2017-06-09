@@ -1,0 +1,17 @@
+{
+  "projectileName" : "giganticsnowball",
+  "speed" : 180,
+  "physics" : "grenade",
+  "image" : "giganticsnowball.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "damageKind" : "snowball",
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/giganticsnowballexplosion/giganticsnowballexplosion.config"
+    }
+  ],
+  "emitters" : [ "defaultwhite" ]
+}

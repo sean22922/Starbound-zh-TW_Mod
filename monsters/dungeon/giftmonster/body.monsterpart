@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "giftmonster",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "giftmonster.png"
+  }
+}

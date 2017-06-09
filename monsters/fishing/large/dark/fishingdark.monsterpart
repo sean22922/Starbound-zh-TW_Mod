@@ -1,0 +1,9 @@
+{
+  "name" : "fishingdark",
+  "category" : "fishingdark",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingdark.png"
+  }
+}

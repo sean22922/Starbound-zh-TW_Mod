@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionglitch1",
+  "icon" : "missionglitch1icon.png",
+  "missionWorld" : "glitchmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "The Baron's Keep",
+      "repeatButtonText" : "Revisit The Baron's Keep",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "It seems that the Glitch Artifact belongs to the owner of a small stone Keep on a lonely planet.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

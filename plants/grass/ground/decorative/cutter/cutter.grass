@@ -1,0 +1,8 @@
+{
+  "name" : "cutter",
+  "description" : "A sharp plant.",
+  "shortdescription" : "A sharp plant.",
+  "floranDescription" : "Ssslashy sssharp flower.",
+  "glitchDescription" : "Statement. A sharp plant.",
+  "images" : [ "cutter1.png", "cutter2.png", "cutter3.png", "cutter4.png", "cutter5.png", "cutter6.png" ]
+}

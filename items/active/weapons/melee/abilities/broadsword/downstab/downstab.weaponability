@@ -1,0 +1,52 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+      "downstab" : [ "/sfx/melee/swing_spear.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Pogo Sword",
+    "type" : "downstab",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/downstab/downstab.lua"],
+    "class" : "Downstab",
+
+    "cooldownTime" : 0.5,
+
+    "damageConfig" : {
+      "damageSourceKind" : "spear",
+      "statusEffects" : [ ],
+      "baseDamage" : 6,
+      "knockback" : [0, -35],
+      "timeout" : 0.2,
+      "timeoutGroup" : "alt"
+    },
+    "energyUsage" : 30.0,
+
+    "holdAirControl" : 60,
+    "stabVelocity" : -5,
+    "bounceYVelocity" : 35,
+
+    "stances" : {
+      "hold" : {
+        "duration" : 0.2,
+        "armRotation" : 70,
+        "weaponRotation" : 110,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "stab" : {
+        "armRotation" : -50,
+        "weaponRotation" : -130,
+        "twoHanded" : true,
+
+        "minStabTime" : 0.2,
+        "allowRotate" : false,
+        "allowFlip" : true
+      }
+    }
+  }
+}

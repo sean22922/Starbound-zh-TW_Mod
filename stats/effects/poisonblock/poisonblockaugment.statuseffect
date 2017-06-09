@@ -1,0 +1,9 @@
+{
+  "name" : "poisonblockaugment",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "poisonblock.lua"
+  ]
+}

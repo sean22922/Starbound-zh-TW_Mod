@@ -1,0 +1,23 @@
+{
+  "id" : "floranmission1",
+  "species" : "floran",
+  "title" : "The Ixodoom, an Analysis",
+  "description" : "A Greenfinger's analysis of the Ixodoom.",
+  "icon" : "floranmission3.png",
+  "contentPages" : [
+    "It's the biggest Ixodoom I've ever seen, sheathed in sheets of bone as thick as tree trunk.
+
+Kish and I were deep in the mountain by the time we found it, hidden in the darkness. It must be 200 years old if it's a day.
+
+Kish is sure it's about to reproduce. I've no reason to doubt it - it's certainly mature enough, and Kish is the authority on Ixodoom.",
+
+    "It's going to take a team of 20 to bring it in safely. I've already spoken to Maper, who thinks it's doable - though Maper is always pretty optimistic...
+
+I'll take all the Wranglers to its nest tomorrow. We've got two days to get it to the Ceremonial Hunting Caverns before it starts to spawn."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

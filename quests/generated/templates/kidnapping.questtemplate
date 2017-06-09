@@ -1,0 +1,244 @@
+{
+  "id" : "kidnapping.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "enemy" : {
+      "type" : "npcType",
+      "example" : {
+        "name" : "bandits",
+        "typeName" : "bandit"
+      }
+    },
+    "victimNpcType" : {
+      "type" : "npcType",
+      "example" : {
+        "name" : "victim",
+        "species" : "human",
+        "typeName" : "villager"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/kill.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "enemy"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["friend", [
+          "friend",
+          "colleague",
+          "cousin",
+          "co-worker",
+          "old friend",
+          "date"
+        ]],
+        ["friendfloran", [
+          "hunting partner",
+          "friend",
+          "sssparring partner",
+          "training partner"
+        ]],
+        ["earlier", [
+          "earlier",
+          "not too long ago",
+          "earlier today",
+          "last night",
+          "yesterday"
+        ]],
+        ["activity1", [
+          "brainstorm ideas for a <activity2>",
+          "hang out",
+          "swordfight",
+          "stand around awkwardly together",
+          "talk about a <activity2> we like",
+          "discuss our dreams",
+          "learn to craft things together",
+          "play cards",
+          "practice our comedy routine",
+          "talk about our feelings",
+          "discuss out love for <activity3>",
+          "nerd out over our forbidden love of <activity3>",
+          "bond over our appreciation for <activity3>",
+          "catch up"
+        ]],
+        ["activity2", [
+          "book",
+          "film",
+          "meal",
+          "musical"
+        ]],
+        ["activity3", [
+          "Poptops",
+          "hats",
+          "weird art",
+          "shoes",
+          "lemons",
+          "long walks",
+          "alpacas",
+          "trees that look like people",
+          "space travel",
+          "interpretive dance",
+          "pop culture references"
+        ]],
+        ["turned", [
+          "turned",
+          "shown"
+        ]],
+        ["suspicion", [
+          "I'm sure",
+          "I don't doubt",
+          "I have no doubt",
+          "I have suspicions"
+        ]],
+        ["activity", [
+          "jogging",
+          "talking",
+          "singing",
+          "debating",
+          "running",
+          "catching up",
+          "exercising",
+          "chatting",
+          "bug catching",
+          "foraging",
+          "exploring",
+          "treasure hunting",
+          "bird watching",
+          "climbing",
+          "trying to build a treehouse",
+          "looking for a place to swim"
+        ]],
+        ["activityfloran", [
+          "sssome combat practice",
+          "sssome hunting practice",
+          "cossstume making",
+          "some ssspear practice",
+          "private reasonsss"
+        ]],
+        ["separated", [
+          "we were separated",
+          "<victimNpcType.pronoun.subject> went missing",
+          "I suddenly couldn't find <victimNpcType.pronoun.object>"
+        ]],
+        ["kidnapped", [
+          "kidnapped",
+          "accosted",
+          "captured",
+          "hurt"
+        ]],
+        ["involved", [
+          "have something to do with it",
+          "might be involved"
+        ]],
+        ["involvedfloran", [
+          "have sssomething to do with it",
+          "might be involved"
+        ]],
+        ["appreciation", [
+          "<victim.pronoun.capitalSubject> and I are very grateful!",
+          "You're my hero! Take this as a token of my appreciation.",
+          "I'm sure <victim.pronoun.copulative> relieved to have you around!",
+          "I don't know what I would have done without you!"
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "Rescue mission",
+          "Hostage situation",
+          "Saving <questGiver>'s <friend>"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;I'm worried about my <friend> <victimNpcType>.",
+          "^cyan;My <friend> has gone missing."
+        ],
+        "floran" : [
+          "^cyan;Floran's <friendfloran> has gone misssing.",
+          "^cyan;Floran's <friendfloran> hasss disappeared..."
+        ],
+        "glitch" : [
+          "^cyan;Upset. I'm worried about my <friend> <victimNpcType>.",
+          "^cyan;Anxious. My <friend> has gone missing."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but they haven't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+            "I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?"
+          ],
+          "floran" : [
+            "Floran's <friendfloran> ^orange;<victimNpcType>^white; wasss meant to be here for <activityfloran> <earlier>, but Floran hasn't seen them! Floran heard that there are sssome ^orange;<enemy>^white; sssneaking around the ^orange;<spawnPoint>^white;<spawnPoint.direction> - Floran thinks they <involvedfloran>. ^green;Can you investigate for Floran^white;?"
+          ],
+          "glitch" : [
+            "Stressed. My <friend> ^orange;<victimNpcType>^white; was meant to visit <earlier> so we could <activity1>, but <victimNpcType.pronoun.subject> hasn't <turned> up! <suspicion> the ^orange;<enemy>^white; I saw near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <involved>. ^green;Can you please save <victimNpcType>^white;?",
+            "Worried. I was out <activity> with my <friend> ^orange;<victimNpcType>^white; <earlier>, when <separated>. I saw some ^orange;<enemy>^white; sneaking around and worry <victimNpcType> has been <kidnapped>! I last saw <victimNpcType.pronoun.object> near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Can you go and find <victimNpcType.pronoun.object>^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
+            "You rescued <victimNpcType>? <appreciation>"
+          ],
+          "floran" : [
+            "You found <victimNpcType>? Floran appreciatesss the help!",
+            "You found <victimNpcType>? Thank you! Though, Floran could have done it if Floran had weapons..."
+          ],
+          "glitch" : [
+            "Appreciative. Thanks for rescuing <victimNpcType> from those <enemy>. <appreciation>",
+            "Thankful. You were able to rescue <victimNpcType>? <appreciation>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "Not to worry - I'm sure <questGiver>'s <friend> will respawn somewhere safer.",
+          "I wasn't able to help reunite <questGiver> with their <friend>. I'm sure they'll find their way to each other without my help."
+        ],
+        "floran" : [
+          "I wasn't able to help reunite <questGiver> with their friend. I'm sure they'll find their way to each other without my help."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+    "enemiesDeadNotification" : "kidnappersDead",
+
+    "objectives" : [
+      {
+        "id" : "findPlace",
+        "text" : "Locate the <spawnPoint>"
+      },
+      {
+        "id" : "kill",
+        "text" : "Kill the <enemy>"
+      },
+      {
+        "id" : "escort",
+        "text" : "Return <victimNpcType> safely"
+      }
+    ],
+    "spawnPointObjectiveRange" : 35,
+
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    }
+  }
+}

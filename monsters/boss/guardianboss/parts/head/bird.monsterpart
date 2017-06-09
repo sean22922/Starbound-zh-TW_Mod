@@ -1,0 +1,10 @@
+{
+  "name" : "bird",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "bird.png",
+    "headfullbright" : "birdfullbright.png"
+  }
+}

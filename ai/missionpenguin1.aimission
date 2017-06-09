@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionpenguin1",
+  "icon" : "dreadwingicon.png",
+  "missionWorld" : "penguinmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Dreadwing",
+      "repeatButtonText" : "Rechallenge Dreadwing",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "The proprietor of the Beak Easy requires assistance. Defeat Dreadwing.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

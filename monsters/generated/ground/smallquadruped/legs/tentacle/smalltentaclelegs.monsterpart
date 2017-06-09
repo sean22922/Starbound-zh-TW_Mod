@@ -1,0 +1,16 @@
+{
+  "name" : "smalltentaclelegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smalltentacleflegs.png",
+    "backLegs" : "smalltentacleblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.5,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

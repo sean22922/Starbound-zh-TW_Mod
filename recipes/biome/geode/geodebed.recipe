@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "geode", "count" : 100 }
+  ],
+  "output" : {
+    "item" : "geodebed",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

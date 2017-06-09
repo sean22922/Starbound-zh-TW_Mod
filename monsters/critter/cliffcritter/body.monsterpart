@@ -1,0 +1,9 @@
+{
+  "name" : "cliffcritter",
+  "category" : "cliffcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

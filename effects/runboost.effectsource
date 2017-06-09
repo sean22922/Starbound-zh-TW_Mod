@@ -1,0 +1,29 @@
+{
+  "kind" : "runboost",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "runboostmessage" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.ogg" ]
+      ]
+    },
+    "particles" : [
+      [ "runboost" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

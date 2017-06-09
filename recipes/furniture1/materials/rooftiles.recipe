@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "firedclay", "count" : 1 }
+  ],
+  "output" : { "item" : "rooftiles", "count" : 30 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

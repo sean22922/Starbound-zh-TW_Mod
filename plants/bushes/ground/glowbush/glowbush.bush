@@ -1,0 +1,50 @@
+{
+  "name" : "glowbush",
+  "description" : "A gross, fleshy protrusion.",
+  "shortdescription" : "A gross, fleshy protrusion.",
+  "floranDescription" : "Fleshhh!",
+  "glitchDescription" : "Revulsion. A gross, fleshy protrusion.",
+  "mods" : [ "growth", "cover" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "growth" : [ "growth1.png", "" ],
+        "cover" : [ "cover1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "growth" : [ "growth2.png", "" ],
+        "cover" : [ "cover2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "growth" : [ "growth3.png", "" ],
+        "cover" : [ "cover3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "growth" : [ "growth4.png", "" ],
+        "cover" : [ "cover4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "growth" : [ "growth5.png", "" ],
+        "cover" : [ "cover5.png", "" ]
+      }
+    }
+
+  ]
+}

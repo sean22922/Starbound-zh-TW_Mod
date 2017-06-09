@@ -1,0 +1,15 @@
+{
+  "projectileName" : "crystalslide",
+  "physics" : "highgravgrenade",
+  "bounces" : 3,
+  "timeToLive" : 0.7,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [60, 0, 20],
+  "image" : "crystalslide.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.4,
+  "frameNumber" : 4,
+  "speed" : 80,
+  "power" : 1.0,
+  "damageKind" : "default"
+}

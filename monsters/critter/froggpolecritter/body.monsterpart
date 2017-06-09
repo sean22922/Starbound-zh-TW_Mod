@@ -1,0 +1,9 @@
+{
+  "name" : "frogpolecritter",
+  "category" : "frogpolecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "largetinyarms",
+  "category" : "largebiped",
+  "type" : "arms",
+
+  "frames" : {
+    "frontArm" : "largetinyfarm.png",
+    "backArm" : "largetinybarm.png"
+  }
+}

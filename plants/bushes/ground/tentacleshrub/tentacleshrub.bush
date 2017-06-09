@@ -1,0 +1,18 @@
+{
+  "name" : "tentacleshrub",
+  "description" : "A grotesque tentacle.",
+  "shortdescription" : "A grotesque tentacle.",
+  "floranDescription" : "Fishy arm.",
+  "glitchDescription" : "Horrified. A grotesque tentacle.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    }
+  ]
+}

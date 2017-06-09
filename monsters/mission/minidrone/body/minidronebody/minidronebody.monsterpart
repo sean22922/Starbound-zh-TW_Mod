@@ -1,0 +1,9 @@
+{
+  "name" : "minidronebody",
+  "category" : "minidrone_parts",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "minidronebody.png"
+  }
+}

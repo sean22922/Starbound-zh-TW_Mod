@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-shaftglass",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "shaftglass" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "shaftglass",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shaftglass.json" ]
+    }
+  ]
+}

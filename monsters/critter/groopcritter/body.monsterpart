@@ -1,0 +1,9 @@
+{
+  "name" : "groopcritter",
+  "category" : "groopcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

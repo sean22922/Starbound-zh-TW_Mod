@@ -1,0 +1,8 @@
+{
+  "type" : "cultistbeamposition",
+
+  "scripts" : [
+  ],
+
+  "broadcastArea" : [-1, -1, 1, 1]
+}

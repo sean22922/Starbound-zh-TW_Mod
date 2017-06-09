@@ -1,0 +1,18 @@
+{
+  "kind" : "swoopattack",
+  "definition" : {
+    "type" : "ember",
+    "size" : 4.0,
+    "color" : [255, 255, 255, 120],
+    "fade" : 0.2,
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 20],
+    "timeToLive" : 0.25,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.25,
+    "layer" : "back",
+    "variance" : {
+    }
+  }
+}

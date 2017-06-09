@@ -1,0 +1,228 @@
+{
+  "metadata" : {
+    "name" : "alienmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "Aliennatural", "Aliennatural2", "Aliennatural3", "alienterrain1", "alienterrain2", "alienterrain3", "alienterrain4", "alienterrain5", "alienterrain6", "alienterrain7", "alienterrain8", "alienterrain9", "alienterrain10", "alienterrain11", "alienterrain12", "alienterrain13", "alienterrain14", "alienterrain15", "alienterrain16", "alienterrain17", "alienterrain18", "chestmonitor1", "cliff1", "researchlab1", "researchlab2", "researchlab3", "researchlab4", "researchlab5", "researchpodium1", "researchcrater1" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "Aliennatural",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "Aliennatural.json" ]
+    },
+    {
+      "name" : "Aliennatural2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "Aliennatural2.json" ]
+    },
+    {
+      "name" : "Aliennatural3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "Aliennatural3.json" ]
+    },
+    {
+      "name" : "researchlab1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab1.json" ]
+    },
+    {
+      "name" : "researchlab2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab2.json" ]
+    },
+    {
+      "name" : "researchlab3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab3.json" ]
+    },
+    {
+      "name" : "researchlab4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab4.json" ]
+    },
+    {
+      "name" : "researchlab5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab5.json" ]
+    },
+    {
+      "name" : "chestmonitor1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "chestmonitor1.json" ]
+    },
+    {
+      "name" : "alienterrain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain1.json" ]
+    },
+    {
+      "name" : "alienterrain2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain2.json" ]
+    },
+    {
+      "name" : "alienterrain3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain3.json" ]
+    },
+    {
+      "name" : "alienterrain4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain4.json" ]
+    },
+    {
+      "name" : "alienterrain5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain5.json" ]
+    },
+    {
+      "name" : "alienterrain6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain6.json" ]
+    },
+    {
+      "name" : "alienterrain7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain7.json" ]
+    },
+    {
+      "name" : "alienterrain8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain8.json" ]
+    },
+    {
+      "name" : "alienterrain9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain9.json" ]
+    },
+    {
+      "name" : "alienterrain10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain10.json" ]
+    },
+    {
+      "name" : "alienterrain11",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain11.json" ]
+    },
+    {
+      "name" : "alienterrain12",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain12.json" ]
+    },
+    {
+      "name" : "alienterrain13",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain13.json" ]
+    },
+    {
+      "name" : "alienterrain14",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain14.json" ]
+    },
+    {
+      "name" : "alienterrain15",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain15.json" ]
+    },
+    {
+      "name" : "alienterrain16",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain16.json" ]
+    },
+    {
+      "name" : "alienterrain17",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain17.json" ]
+    },
+    {
+      "name" : "alienterrain18",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alienterrain18.json" ]
+    },
+    {
+      "name" : "researchpodium1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchpodium1.json" ]
+    },
+    {
+      "name" : "cliff1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliff1.json" ]
+    },
+    {
+      "name" : "researchcrater1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchcrater1.json" ]
+    }
+  ]
+}

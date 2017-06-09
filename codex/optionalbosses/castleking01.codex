@@ -1,0 +1,25 @@
+{
+  "id" : "castleking01",
+  "title" : "The Would-Be King Part 1",
+  "description" : "A Glitch folk tale.",
+  "icon" : "glitchcastlebook_01.png",
+  "contentPages" : [
+
+    "Once upon a time, though not so very long ago, a strange thing happened amongst the Glitch. 
+
+They were living peacefully enough, in the normal manner of their kind - they feasted merrily in the castles, and toiled merrily in the fields, and all went on as usual. But one day, an unfamiliar Glitch arrived amongst them. 
+
+This Glitch shoved his way into a castle, took a seat on the throne, and loudly proclaimed, 'Decisive. I am The King.'",
+
+"The other Glitch stared at this unusual sight, completely unsure of what to say. 
+
+Who in the world was this stranger? He certainly seemed to possess excessive self-confidence... 
+
+While this was not normally the way such things were determined, the Glitch decided he could be king if he really wanted to, as he really did seem so confident about his right to be there."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

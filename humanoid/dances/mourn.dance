@@ -1,0 +1,11 @@
+{
+  "name" : "mourn",
+  "states" : ["duck"],
+  "cycle" : 3,
+  "cyclic" : true,
+  "duration" : 3,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "duck.1", "idle.1", "idle.1", [0, 0], [2, -10], [-2, -10] ]
+  ]
+}

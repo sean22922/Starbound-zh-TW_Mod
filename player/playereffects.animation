@@ -1,0 +1,349 @@
+{
+  "globalTagDefaults" : {
+    "effectDirectives" : ""
+  },
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "teleport" : {
+        "default" : "none",
+        "states" : {
+          "none" : {},
+          "defaultIn" : {
+            "frames" : 13,
+            "cycle" : 1.0,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/teleport_down.ogg"
+            }
+          },
+          "defaultOut" : {
+            "frames" : 13,
+            "cycle" : 0.75,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/teleport_up.ogg"
+            }
+          },
+          "beamIn" : {
+            "frames" : 16,
+            "cycle" : 1.0,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/teleport_down.ogg"
+            }
+          },
+          "beamOut" : {
+            "frames" : 12,
+            "cycle" : 0.75,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/teleport_up.ogg"
+            }
+          },
+          "deployIn" : {
+            "frames" : 11,
+            "cycle" : 0.4,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/despatch_in.ogg"
+            }
+          },
+          "deployOut" : {
+            "frames" : 26,
+            "cycle" : 2.0,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/despatch_out.ogg"
+            }
+          },
+          "abort" : {
+            "frames" : 13,
+            "cycle" : 1.0,
+            "mode" : "transition",
+            "transition" : "none",
+            "properties" : {
+              "immediateSound" : "/sfx/tools/teleport_down.ogg"
+            }
+          }
+        }
+      },
+
+      "busy" : {
+        "default" : "none",
+
+        "states" : {
+          "none" : {},
+
+          "chatting" : {
+            "frames" : 3,
+            "cycle" : 0.75,
+            "mode" : "loop"
+          },
+
+          "menu" : {
+            "frames" : 3,
+            "cycle" : 0.25,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "base" : {
+        "properties" : {
+          "fullbright" : true,
+          "centered" : true,
+          "transformationGroups" : ["flip"]
+        },
+        "partStates" : {
+          "teleport" : {
+            "none" : { },
+            "defaultIn" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpin2.png:<frame><effectDirectives>"
+              }
+            },
+            "defaultOut" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpout2.png:<frame><effectDirectives>"
+              }
+            },
+            "beamIn" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpin.png:<frame><effectDirectives>"
+              }
+            },
+            "beamOut" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpout.png:<frame><effectDirectives>"
+              }
+            },
+            "deployIn" : {
+              "properties" : {
+                "image" : "/animations/deployment/deploypodin.png:<frame><effectDirectives>",
+                "offset" : [0, 6.5]
+              }
+            },
+            "deployOut" : {
+              "properties" : {
+                "image" : "/animations/deployment/deploypod.png:<frame><effectDirectives>",
+                "offset" : [0, 1]
+              }
+            },
+            "abort" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpabort.png:<frame><effectDirectives>"
+              }
+            }
+          }
+        }
+      },
+
+      "beam" : {
+        "properties" : {
+          "fullbright" : true,
+          "centered" : true,
+          "offset" : [0, 30],
+          "transformationGroups" : ["flip"]
+        },
+        "partStates" : {
+          "teleport" : {
+            "beamIn" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpinbeam.png:<frame>?scalenearest=1;60;<effectDirectives>"
+              }
+            },
+            "beamOut" : {
+              "properties" : {
+                "image" : "/animations/teleport/playerwarpoutbeam.png:<frame>?scalenearest=1;60;<effectDirectives>"
+              }
+            }
+          }
+        }
+      },
+
+      "busyIndicator" : {
+        "properties" : {
+          "fullbright" : true,
+          "centered" : true,
+          "offset" : [0, 3],
+          "zLevel" : -1
+        },
+
+        "partStates" : {
+          "busy" : {
+            "chatting" : {
+              "properties" : {
+                "image" : "/animations/chatting/chatting.png:<frame>"
+              }
+            },
+
+            "menu" : {
+              "properties" : {
+                "image" : "/animations/chatting/menu.png:<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "particleEmitters" : {
+    "jump" : {
+      "transformationGroups" : ["flip"],
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/jumpsmoke/jumpsmoke.animation",
+            "fade" : 0.9,
+            "position" : [0.0, -3],
+            "timeToLive" : 0.4
+          }
+        }
+      ]
+    },
+
+    "landing" : {
+      "transformationGroups" : ["flip"],
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/jumpsmoke/jumpsmoke.animation",
+            "fade" : 0.9,
+            "position" : [0.0, -2.2],
+            "timeToLive" : 0.4
+          }
+        }
+      ]
+    },
+
+    "defaultBurst" : {
+      "particles" : [
+      ]
+    },
+    "beamBurst" : {
+      "particles" : [
+      ]
+    },
+    "deployBurst" : {
+      "offsetRegion" : [0.0, -2.25, 0.0, -2.25],
+      "particles" : [
+        {
+          "count" : 20,
+          "offset" : [0, 1.5],
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/dust2/dust2.animation",
+            "position" : [0, 0],
+            "initialVelocity" : [0, -20],
+            "finalVelocity" : [0, 0],
+            "approach" : [1, 1],
+            "destructionAction" : "fade",
+            "destructionTime" : 2.0,
+            "fade" : 1,
+            "size" : 1,
+            "layer" : "front",
+            "timeToLive" : 2.0,
+            "variance" : {
+              "initialVelocity" : [10.0, 10.0],
+              "position" : [3.0, 3.0]
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "textured",
+            "image" : "/animations/deployment/deployshardleft.png",
+            "position" : [-1.75, 1.375],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [-5, -20],
+            "angularVelocity" : 25,
+            "approach" : [0, 0],
+            "timeToLive" : 3.0,
+            "destructionTime" : 1.0,
+            "destructionAction" : "fade",
+            "layer" : "front",
+            "variance" : {
+              "angularVelocity" : 0
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "textured",
+            "image" : "/animations/deployment/deployshardright.png",
+            "position" : [1.75, 1.375],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [5, -20],
+            "angularVelocity" : -25,
+            "approach" : [0, 0],
+            "timeToLive" : 3.0,
+            "destructionTime" : 1.0,
+            "destructionAction" : "fade",
+            "layer" : "front",
+            "variance" : {
+              "angularVelocity" : 0
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "textured",
+            "image" : "/animations/deployment/deployshardbottom.png",
+            "position" : [0.0, 0.0],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [0, -25],
+            "angularVelocity" : 0,
+            "approach" : [0, 0],
+            "timeToLive" : 3.0,
+            "destructionTime" : 1.0,
+            "destructionAction" : "fade",
+            "layer" : "front",
+            "variance" : {
+              "angularVelocity" : 10
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "textured",
+            "image" : "/animations/deployment/deployshardtop.png",
+            "position" : [0.0, 4.375],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [0, -15],
+            "angularVelocity" : 0,
+            "approach" : [0, 0],
+            "timeToLive" : 3.0,
+            "destructionTime" : 1.0,
+            "destructionAction" : "fade",
+            "layer" : "front",
+            "variance" : {
+              "angularVelocity" : 10
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "pickup" : {}
+  },
+
+  "transformationGroups" : {
+    "flip" : {
+      "interpolated" : false
+    }
+  }
+}

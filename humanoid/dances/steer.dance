@@ -1,0 +1,14 @@
+{
+  "name" : "steer",
+  "states" : ["idle","sit"],
+  "cycle" : 1.0,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "rotation", "idle.1", [0, 0], [0,0], [0,0] ],
+    [ null, "rotation", "idle.1", [0, -1], [0,0], [0,0] ],
+    [ null, "swim.3", "idle.1", [0, 0], [0,0], [0,0] ],
+    [ null, "swim.3", "idle.1", [0, -1], [0,0], [0,0] ]
+  ]
+}

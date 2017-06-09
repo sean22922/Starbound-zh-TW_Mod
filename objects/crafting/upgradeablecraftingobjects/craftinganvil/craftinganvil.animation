@@ -1,0 +1,192 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "craftinganvil",
+        "states" : {
+          "craftinganvil" : {},
+          "craftinganvil2" : {
+            "frames" : 12,
+            "cycle" : 1.2,
+            "mode" : "loop"
+          },
+          "craftinganvil3" : {
+            "properties" : {
+              "lightsOff" : [ "acceleratorglow", "manipulatorglow", "separatorglow" ],
+              "lightsOn" : [ "replicatorglow" ]
+            }
+          },
+          "accelerator" : {
+            "properties" : {
+              "lightsOff" : [ "replicatorglow", "manipulatorglow", "separatorglow" ],
+              "lightsOn" : [ "acceleratorglow" ]
+            }
+          },
+          "separator" : {
+            "properties" : {
+              "lightsOff" : [ "replicatorglow", "acceleratorglow", "manipulatorglow" ],
+              "lightsOn" : [ "separatorglow" ]
+            }
+          },
+          "manipulator" : {
+            "properties" : {
+              "lightsOff" : [ "replicatorglow", "acceleratorglow", "separatorglow" ],
+              "lightsOn" : [ "manipulatorglow" ]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "lights" : {
+        "properties" : {
+          "centered" : true,
+          "fullbright" : true,
+          "zLevel" : 0
+        },
+        "partStates" : {
+          "stage" : {
+            "craftinganvil" : {},
+
+            "craftinganvil2" : {},
+
+            "craftinganvil3" : {
+              "properties" : {
+                "image" : "craftinganvil3.png:<color>"
+              }
+            },
+
+            "accelerator" : {
+              "properties" : {
+                "image" : "craftinganvil3.png:<color>.accelerator"
+              }
+            },
+
+            "separator" : {
+              "properties" : {
+                "image" : "craftinganvil3.png:<color>.separator"
+              }
+            },
+
+            "manipulator" : {
+              "properties" : {
+                "image" : "craftinganvil3.png:<color>.manipulator"
+              }
+            }
+          }
+        }
+      },
+      "chassis" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 1
+        },
+        "partStates" : {
+          "stage" : {
+            "craftinganvil" : {
+              "properties" : {
+                "image" : "craftinganvil.png:<color>"
+              }
+            },
+
+            "craftinganvil2" : {
+              "properties" : {
+                "image" : "craftinganvil2.png:<color>.<frame>"
+              }
+            },
+
+            "craftinganvil3" : {
+              "properties" : {
+                "image" : "craftinganvil3lit.png:<color>"
+              }
+            },
+
+            "accelerator" : {
+              "properties" : {
+                "image" : "craftinganvil3lit.png:<color>.accelerator"
+              }
+            },
+
+            "separator" : {
+              "properties" : {
+                "image" : "craftinganvil3lit.png:<color>.separator"
+              }
+            },
+
+            "manipulator" : {
+              "properties" : {
+                "image" : "craftinganvil3lit.png:<color>.manipulator"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "fanfare" : ["/sfx/cinematics/mission_unlock_event.ogg"],
+    "fanfare2" : ["/sfx/cinematics/license_acquired_event.ogg"]
+  },
+
+  "lights" : {
+
+    "replicatorglow" : {
+      "active" : false,
+      "color" : [89, 119, 179],
+      "position" : [0, 2],
+
+      "flickerPeriod" : 0.9,
+      "flickerMinIntensity" : 0.75,
+      "flickerMaxIntensity" : 0.8,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    },
+
+    "acceleratorglow" : {
+      "active" : false,
+      "color" : [155, 186, 61],
+      "position" : [0, 2],
+
+      "flickerPeriod" : 0.9,
+      "flickerMinIntensity" : 0.75,
+      "flickerMaxIntensity" : 0.8,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    },
+
+    "separatorglow" : {
+      "active" : false,
+      "color" : [164, 81, 196],
+      "position" : [0, 2],
+
+      "flickerPeriod" : 0.9,
+      "flickerMinIntensity" : 0.75,
+      "flickerMaxIntensity" : 0.8,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    },
+
+    "manipulatorglow" : {
+      "active" : false,
+      "color" : [79, 172, 178],
+      "position" : [0, 2],
+
+      "flickerPeriod" : 0.9,
+      "flickerMinIntensity" : 0.75,
+      "flickerMaxIntensity" : 0.8,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    }
+  },
+  
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

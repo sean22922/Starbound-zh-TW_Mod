@@ -1,0 +1,10 @@
+{
+  "name" : "sun",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "sun.png",
+    "headfullbright" : "sunfullbright.png"
+  }
+}

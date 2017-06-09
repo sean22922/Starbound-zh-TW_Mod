@@ -1,0 +1,29 @@
+{
+  "kind" : "firepillar",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "fireshard", "fireshard", "fireshard", "fireshard", "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

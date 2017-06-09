@@ -1,0 +1,10 @@
+{
+  "name" : "ballistic",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "ballistic.lua"
+  ]
+}

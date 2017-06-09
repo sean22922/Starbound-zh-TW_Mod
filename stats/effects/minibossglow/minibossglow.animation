@@ -1,0 +1,9 @@
+{
+  "lights" : {
+    "minibossglow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [128, 26, 26]
+    }
+  }
+}

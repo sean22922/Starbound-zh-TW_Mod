@@ -1,0 +1,9 @@
+{
+  "name" : "lavahopper",
+  "category" : "lavahopper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lavahopper.png"
+  }
+}

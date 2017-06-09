@@ -1,0 +1,22 @@
+{
+  "projectileName" : "greenglobe",
+  "physics" : "hover",
+  "bounces" : 2,
+  "speed" : 50,
+  "timeToLive" : 6.5,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [0, 255, 125],
+  "image" : "greenglobe.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 2,
+  "power" : 1,
+  "damagePoly" : [ [-5, 5], [-5, -5], [5, -5], [5, 5] ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/greenglobeexplosion/greenglobeexplosion.config"
+    }
+  ],
+  "damageKind" : "plasma"
+}

@@ -1,0 +1,24 @@
+{
+  "name" : "coral",
+  "description" : "Coral.",
+  "shortdescription" : "Coral",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "coral1.png"
+    },
+    {
+      "base" : "coral2.png"
+    },
+    {
+      "base" : "coral3.png"
+    },
+    {
+      "base" : "coral4.png"
+    },
+    {
+      "base" : "coral5.png"
+    }
+  ]
+}

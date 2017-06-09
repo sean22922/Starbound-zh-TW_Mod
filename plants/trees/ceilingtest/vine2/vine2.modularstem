@@ -1,0 +1,67 @@
+{
+  "name" : "vine2",
+  "shape" : "vine2",
+  "health" : 2,
+  "ceiling" : true,
+
+  "base" : {
+    "base1" : {
+      "image" : "vinebase1.png",
+      "attachment" : {
+        "bx" : -7,
+        "by" : -8,
+        "x" : 5,
+        "y" : 0
+      }
+    },
+    "base2" : {
+      "image" : "vinebase2.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -8,
+        "x" : 9,
+        "y" : 0
+      }
+    }
+  },
+  "middle" : {
+    "middle1" : {
+      "image" : "vinemid1.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    },
+    "middle2" : {
+      "image" : "vinemid2.png",
+      "attachment" : {
+        "bx" : -6,
+        "by" : -16,
+        "x" : 6,
+        "y" : 0
+      }
+    }
+  },
+  "crown" : {
+    "crown1" : {
+      "image" : "vineend1.png",
+      "attachment" : {
+        "bx" : -7,
+        "by" : -8,
+        "x" : 0,
+        "y" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "vineend2.png",
+      "attachment" : {
+        "bx" : -7,
+        "by" : -8,
+        "x" : 0,
+        "y" : 0
+      }
+    }
+  }
+}

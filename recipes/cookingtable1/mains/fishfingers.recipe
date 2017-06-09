@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rawfish", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "fishfingers", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "fishfingers" }
+}

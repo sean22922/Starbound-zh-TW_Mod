@@ -1,0 +1,9 @@
+{
+  "name" : "orange",
+  "category" : "snugget",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "orange.png"
+  }
+}

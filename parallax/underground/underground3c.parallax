@@ -1,0 +1,25 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/transparentice",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/icecavernhollow",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.35,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/icecavern",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.5,
+      "repeatY" : true
+    }
+  ]
+}

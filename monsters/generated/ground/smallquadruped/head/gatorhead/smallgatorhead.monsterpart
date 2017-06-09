@@ -1,0 +1,15 @@
+{
+  "name" : "smallgatorhead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallgatorhead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.25]
+  }
+}

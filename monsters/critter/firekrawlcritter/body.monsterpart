@@ -1,0 +1,9 @@
+{
+  "name" : "firekrawlcritter",
+  "category" : "firekrawlcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

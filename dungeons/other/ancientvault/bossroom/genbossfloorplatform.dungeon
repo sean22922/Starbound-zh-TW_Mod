@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "genbossfloorplatform",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "genbossfloorplatform" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "genbossfloorplatform",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "genbossfloorplatform.json" ]
+    }
+  ]
+}

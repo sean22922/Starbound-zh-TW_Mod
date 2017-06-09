@@ -1,0 +1,9 @@
+{
+  "name" : "robotarms",
+  "category" : "robotboss_robotic",
+  "type" : "arm",
+
+  "frames" : {
+    "arm" : "robotarm.png"
+  }
+}

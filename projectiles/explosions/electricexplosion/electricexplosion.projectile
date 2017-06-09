@@ -1,0 +1,13 @@
+{
+  "projectileName" : "electricexplosion",
+  "image" : "electricexplosion.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 3,
+  "speed" : 40,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "electric",
+  "lightColor" : [25, 92, 107]
+}

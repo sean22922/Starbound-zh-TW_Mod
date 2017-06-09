@@ -1,0 +1,9 @@
+{
+  "name" : "steamspidercritter",
+  "category" : "steamspidercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

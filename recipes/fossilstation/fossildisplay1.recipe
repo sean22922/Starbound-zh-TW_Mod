@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 20 },
+    { "item" : "glass", "count" : 15 },
+    { "item" : "goldbar", "count" : 3 }
+
+  ],
+  "output" : { "item" : "fossildisplay1", "count" : 1 },
+  "groups" : [ "craftingfossils", "fossildisplays" ]
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "frostsnare",
+  "blockingStat" : "iceStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "frostsnare.lua"
+  ],
+
+  "animationConfig" : "frostslow.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/ice.png"
+}

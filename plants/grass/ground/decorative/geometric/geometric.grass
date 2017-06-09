@@ -1,0 +1,8 @@
+{
+  "name" : "geometric",
+  "description" : "A beautiful flower.",
+  "shortdescription" : "A beautiful flower.",
+  "floranDescription" : "Pretty.",
+  "glitchDescription" : "Statement. An attractive flower.",
+  "images" : [ "geometric1.png", "geometric2.png", "geometric3.png", "geometric4.png", "geometric5.png" ]
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "firebody",
+  "category" : "firerangedminion",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "firebody.png",
+    "bodyfullbright" : "firebodyfullbright.png"
+  }
+}

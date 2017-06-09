@@ -1,0 +1,131 @@
+{
+  "metadata" : {
+    "name" : "hivemicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "hivepit1", "hivepit2", "hivepit3", "hivepit4", "hivetunnel1", "hivetunnel2", "hivetunnel3", "hivecliffleft1", "hivecliffleft2", "hivecliffleft3", "hivecliffright1", "hivecliffright2", "hivecliffright3", "hiveswarm", "hiverolypoly", "hivefall1" ],
+
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "hivepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivepit1.json" ]
+    },
+    {
+      "name" : "hivepit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivepit2.json" ]
+    },
+    {
+      "name" : "hivepit3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivepit3.json" ]
+    },
+    {
+      "name" : "hivepit4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivepit4.json" ]
+    },
+    {
+      "name" : "hivefall1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivefall1.json" ]
+    },
+    {
+      "name" : "hivetunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivetunnel1.json" ]
+    },
+    {
+      "name" : "hivetunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivetunnel2.json" ]
+    },
+    {
+      "name" : "hivetunnel3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivetunnel3.json" ]
+    },
+    {
+      "name" : "hivecliffleft1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffleft1.json" ]
+    },
+    {
+      "name" : "hivecliffleft2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffleft2.json" ]
+    },
+    {
+      "name" : "hivecliffleft3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffleft3.json" ]
+    },
+    {
+      "name" : "hivecliffright1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffright1.json" ]
+    },
+    {
+      "name" : "hivecliffright2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffright2.json" ]
+    },
+    {
+      "name" : "hivecliffright3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hivecliffright3.json" ]
+    },
+    {
+      "name" : "hiveswarm",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hiveswarm.json" ]
+    },
+    {
+      "name" : "hiverolypoly",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hiverolypoly.json" ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "floatingcrystal",
+  "description" : "A mysterious floating crystal.",
+  "shortdescription" : "A mysterious floating crystal.",
+  "floranDescription" : "Floaty ssshiny.",
+  "glitchDescription" : "Puzzlement. A floating crystal.",
+  "images" : [ "floatingcrystal1.png", "floatingcrystal2.png", "floatingcrystal3.png", "floatingcrystal4.png", "floatingcrystal5.png" ]
+}

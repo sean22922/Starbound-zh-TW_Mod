@@ -1,0 +1,8 @@
+{
+  "name" : "bell",
+  "description" : "A bellflower.",
+  "shortdescription" : "A bellflower.",
+  "floranDescription" : "Red flower.",
+  "glitchDescription" : "Statement. A bellflower.",
+  "images" : [ "bell1.png", "bell2.png", "bell3.png", "bell4.png", "bell5.png" ]
+}

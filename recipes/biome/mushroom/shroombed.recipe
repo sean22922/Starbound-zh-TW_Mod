@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 25 },
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "fabric", "count" : 10 },
+    { "item" : "reddye", "count" : 1 }
+  ],
+  "output" : { "item" : "shroombed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

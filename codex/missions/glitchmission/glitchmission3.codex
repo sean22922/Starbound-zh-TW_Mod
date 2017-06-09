@@ -1,0 +1,16 @@
+{
+  "id" : "glitchmission3",
+  "species" : "glitch",
+  "title" : "Details of the Wager",
+  "description" : "Written proof of the rightful ownership of The Baron's Keep.",
+  "icon" : "glitchmission3.png",
+  "contentPages" : [
+    "I, Axelbrass Fuseamp III, hereby wager my keep and lands in a game of clunky jacks with the Baron, and herewith promise to provide the Baron with deeds to said property, in the unlikely event that he wins.
+
+Should I win, I will be showered with the Baron's riches (and I will win, because I am really good at clunky jacks)."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

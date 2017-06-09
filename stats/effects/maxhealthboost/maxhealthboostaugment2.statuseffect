@@ -1,0 +1,11 @@
+{
+  "name" : "maxhealthboostaugment2",
+  "effectConfig" : {
+    "healthAmount" : 40
+  },
+  "defaultDuration" : 180,
+
+  "scripts" : [
+    "maxhealthboost.lua"
+  ]
+}

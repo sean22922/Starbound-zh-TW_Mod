@@ -1,0 +1,9 @@
+{
+  "name" : "darkwormcritter",
+  "category" : "darkwormcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

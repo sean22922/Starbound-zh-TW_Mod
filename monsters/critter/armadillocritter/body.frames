@@ -1,0 +1,23 @@
+{
+  "frameGrid" : {
+    "size" : [24, 11],
+    "dimensions" : [6, 5],
+
+    "names" : [
+      [ "idle.1", null, "croak.1", "croak.2" ],
+      [ ],
+      [ "walk.1", "walk.2", "walk.3", "walk.4" ],
+      [ ],
+      [ ]
+    ]
+  },
+  "aliases" : {
+  	"idle.2" : "idle.1",
+  	"idle.3" : "idle.1",
+  	"idle.4" : "idle.1",
+  	"idle.5" : "idle.1",
+  	"idle.6" : "croak.1",
+  	"idle.7" : "croak.2",
+  	"idle.8" : "croak.1"
+  }
+}

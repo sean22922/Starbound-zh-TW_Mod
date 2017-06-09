@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "prisiliteore", "count" : 10 },
+    { "item" : "glass", "count" : 10 }
+  ],
+  "output" : { "item" : "prismdoor", "count" : 1 },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

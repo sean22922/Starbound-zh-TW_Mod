@@ -1,0 +1,158 @@
+{
+  "metadata" : {
+    "name" : "florancanyon",
+    "species" : "floran",
+    "rules" : [
+    ],
+    "anchor" : [ "florancanyonentrance1", "florancanyonentrance2" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 6,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "florancanyonentrance1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyonentrance1.json" ]
+    },
+    {
+      "name" : "florancanyonentrance2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyonentrance2.json" ]
+    },
+    {
+      "name" : "florancanyon1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon1.json" ]
+    },
+    {
+      "name" : "florancanyon2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon2.json" ]
+    },
+    {
+      "name" : "florancanyon3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon3.json" ]
+    },
+    {
+      "name" : "florancanyon4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon4.json" ]
+    },
+    {
+      "name" : "florancanyon5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon5.json" ]
+    },
+    {
+      "name" : "florancanyon6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon6.json" ]
+    },
+    {
+      "name" : "florancanyon7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon7.json" ]
+    },
+    {
+      "name" : "florancanyon8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "florancanyon8.json" ]
+    },
+    {
+      "name" : "florancanyonside1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonside1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonside2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonside2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonside3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonside3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonside4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonside4.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonend1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonend1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonend2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonend2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonend3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonend3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "florancanyonend4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "florancanyonend4.json" ],
+      "chance" : 0
+    }
+  ]
+}

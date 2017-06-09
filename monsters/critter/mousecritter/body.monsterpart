@@ -1,0 +1,9 @@
+{
+  "name" : "mousecritter",
+  "category" : "mousecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "projectileName" : "burningstatusprojectile",
+  "physics" : "statuspod",
+  "bounces" : -1,
+  "timeToLive" : 0,
+  "speed" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "burningstatusprojectile.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/burningexplosion/burningexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -35
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 1
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -18
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 18
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 55
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -55
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -1
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -65
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflame",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 65
+    }
+  ],
+  "power" : 0,
+  "piercing" : true,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-60, -60], [-60, 60], [60, 60], [60, -60]  ],
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" }
+}

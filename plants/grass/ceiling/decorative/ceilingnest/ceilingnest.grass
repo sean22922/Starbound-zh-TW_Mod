@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingnest",
+  "description" : "It appears to be a little nest.",
+  "shortdescription" : "It appears to be a little nest.",
+  "floranDescription" : "Creature house!",
+  "glitchDescription" : "Statement. The nest of a tiny creature.",
+  "ceiling" : true,
+  "images" : [ "ceilingnest1.png", "ceilingnest2.png", "ceilingnest3.png", "ceilingnest4.png", "ceilingnest5.png" ]
+}

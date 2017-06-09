@@ -1,0 +1,15 @@
+{
+  "name" : "largebuffalohead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largebuffalohead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1.2, -0.9]
+  }
+}

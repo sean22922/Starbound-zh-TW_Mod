@@ -1,0 +1,11 @@
+{
+  "name" : "ragecollar1",
+  "effectConfig" : {
+    "powerModifier" : 1.15
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "rageweak.lua"
+  ]
+}

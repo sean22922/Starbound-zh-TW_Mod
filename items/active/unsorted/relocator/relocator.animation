@@ -1,0 +1,50 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+    },
+
+    "parts" : {
+      "middle" : {
+        "properties" : {
+          "centered" : true,
+          "image" : "<partImage>:<absorbed>",
+          "offset" : [0, 0], // x offset is set dynamically
+          "transformationGroups" : ["weapon"]
+        }
+      },
+      "lit" : {
+        "properties" : {
+          "centered" : true,
+          "image" : "<partImage>:<absorbed>",
+          "offset" : [0, 0], // x offset is set dynamically
+          "transformationGroups" : ["weapon"],
+          "fullbright" : true
+        }
+      }
+    }
+  },
+  "globalTagDefaults" : {
+    "absorbed" : "0"
+  },
+
+  "rotationGroups" : {
+    "weapon" : {
+      "angularVelocity" : 0
+    }
+  },
+
+  "transformationGroups" : {
+    "weapon" : {},
+    "muzzle" : {}
+  },
+
+  "sounds" : {
+    "start" : [ "/sfx/gun/aegisaltpistol_start.ogg" ],
+    "loop" : [ "/sfx/gun/aegisaltpistol_loop2.ogg" ],
+    "stop" : [ "/sfx/tech/vehicle_disappear2.ogg" ],
+    "scan" : [ "/sfx/interface/sniper_mark_start2.ogg" ],
+    "scanend" : [ "/sfx/interface/sniper_mark_stop2.ogg" ],
+    "scanning" : [ "/sfx/interface/relocator_scanning.ogg" ],
+    "error" : [ "/sfx/interface/sniper_mark_stop1.ogg" ]
+  }
+}

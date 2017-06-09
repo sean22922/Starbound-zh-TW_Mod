@@ -1,0 +1,9 @@
+{
+  "name" : "tentaclebarrier",
+  "category" : "tentaclebarrier",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentaclebarrier.png"
+  }
+}

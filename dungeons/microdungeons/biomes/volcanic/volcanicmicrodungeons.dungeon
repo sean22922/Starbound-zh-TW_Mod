@@ -1,0 +1,229 @@
+{
+  "metadata" : {
+    "name" : "volcanicmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "volcano1", "volcano_arch1", "volcano_arch2", "volcano_archleft1", "volcano_archleft2", "volcano_archright1", "volcano_cave1", "volcano_flametrap1", "volcano_hidenpitchest1", "volcano_hidenpitchest2", "volcano_hidenpitchest3", "volcano_hidenpitchest4", "volcano_monsterchest1", "volcano_pitchest1", "volcano_pitchest2", "volcano_pitchest3", "volcano_pitchest4", "volcanodeep1", "volcanodeep2", "volcanodeeppass", "volcanodeepslates", "volcanodeeptreasure", "volcanopass", "volcanospindy", "volcanotall1", "volcanotallfull", "volcanotalltreasure", "volcanotop", "volcanotrees", "volcanotreestop" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "volcano1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano1.json" ]
+    },
+    {
+      "name" : "volcano_arch1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_arch1.json" ]
+    },
+    {
+      "name" : "volcano_arch2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_arch2.json" ]
+    },
+    {
+      "name" : "volcano_archleft1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_archleft1.json" ]
+    },
+    {
+      "name" : "volcano_archleft2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_archleft2.json" ]
+    },
+    {
+      "name" : "volcano_archright1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_archright1.json" ]
+    },
+    {
+      "name" : "volcano_cave1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_cave1.json" ]
+    },
+    {
+      "name" : "volcano_flametrap1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_flametrap1.json" ]
+    },
+    {
+      "name" : "volcano_hidenpitchest1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_hidenpitchest1.json" ]
+    },
+    {
+      "name" : "volcano_hidenpitchest2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_hidenpitchest2.json" ]
+    },
+    {
+      "name" : "volcano_hidenpitchest3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_hidenpitchest3.json" ]
+    },
+    {
+      "name" : "volcano_hidenpitchest4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_hidenpitchest4.json" ]
+    },
+    {
+      "name" : "volcano_monsterchest1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_monsterchest1.json" ]
+    },
+    {
+      "name" : "volcano_pitchest1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_pitchest1.json" ]
+    },
+    {
+      "name" : "volcano_pitchest2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_pitchest2.json" ]
+    },
+    {
+      "name" : "volcano_pitchest3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_pitchest3.json" ]
+    },
+    {
+      "name" : "volcano_pitchest4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcano_pitchest4.json" ]
+    },
+    {
+      "name" : "volcanodeep1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanodeep1.json" ]
+    },
+    {
+      "name" : "volcanodeep2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanodeep2.json" ]
+    },
+    {
+      "name" : "volcanodeeppass",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanodeeppass.json" ]
+    },
+    {
+      "name" : "volcanodeepslates",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanodeepslates.json" ]
+    },
+    {
+      "name" : "volcanodeeptreasure",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanodeeptreasure.json" ]
+    },
+    {
+      "name" : "volcanopass",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanopass.json" ]
+    },
+    {
+      "name" : "volcanospindy",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanospindy.json" ]
+    },
+    {
+      "name" : "volcanotall1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotall1.json" ]
+    },
+    {
+      "name" : "volcanotallfull",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotallfull.json" ]
+    },
+    {
+      "name" : "volcanotalltreasure",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotalltreasure.json" ]
+    },
+    {
+      "name" : "volcanotop",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotop.json" ]
+    },
+    {
+      "name" : "volcanotrees",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotrees.json" ]
+    },
+    {
+      "name" : "volcanotreestop",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "volcanotreestop.json" ]
+    }
+
+  ]
+}

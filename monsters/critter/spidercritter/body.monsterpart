@@ -1,0 +1,9 @@
+{
+  "name" : "spidercritter",
+  "category" : "spidercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "fleshplant",
+  "description" : "A globule of flesh.",
+  "shortdescription" : "A globule of flesh.",
+  "floranDescription" : "Flesssh!",
+  "glitchDescription" : "Repulsion. A globule of flesh.",
+  "images" : [ "fleshplant1.png", "fleshplant2.png", "fleshplant3.png", "fleshplant4.png", "fleshplant5.png" ]
+}

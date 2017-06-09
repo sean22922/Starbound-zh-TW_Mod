@@ -1,0 +1,9 @@
+{
+  "name" : "goldbuck",
+  "category" : "goldbuck",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "goldbuck.png"
+  }
+}

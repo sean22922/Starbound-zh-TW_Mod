@@ -1,0 +1,16 @@
+{
+  "name" : "protectorate",
+
+  "triggers" : [
+    "quest.templateId.protectorate"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.protectorate",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

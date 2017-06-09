@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "pressurisedplatform",
+    "count" : 10
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

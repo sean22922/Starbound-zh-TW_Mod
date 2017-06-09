@@ -1,0 +1,10 @@
+{
+  "projectileName" : "evileyeprojectile",
+  "image" : "evileyeprojectile.png",
+  "frameNumber" : 1,
+  "speed" : 0,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "animationLoops" : false,
+  "flippable" : true,
+  "damageKind" : "plasma"
+}

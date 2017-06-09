@@ -1,0 +1,41 @@
+{
+  "type" : "astrocrewmate",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/shipcrew.config:converse"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "back" : [
+              { "name" : "spacesuitback", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "chest" : [
+              { "name" : "spacesuitchest", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "legs" : [
+              { "name" : "spacesuitlegs", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

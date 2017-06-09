@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "petalblue", "count" : 20 },
+    { "item" : "darkwoodmaterial", "count" : 20 }
+  ],
+  "output" : { "item" : "flowerbox", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

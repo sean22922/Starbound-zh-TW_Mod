@@ -1,0 +1,21 @@
+{
+  "projectileName" : "plasma1",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "plasma1.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 3,
+  "power" : 50,
+  "speed" : 75,
+  "emitters" : [ "electricplasma", "defaultblue", "electricplasma", "defaultblue", "electricplasma", "defaultblue"  ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/pulsecannonexplosion/pulsecannonexplosion.config"
+    }
+  ],
+  "lightColor" : [155, 212, 255],
+  "damageKind" : "plasma"
+}

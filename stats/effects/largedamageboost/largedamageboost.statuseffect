@@ -1,0 +1,17 @@
+{
+  "name" : "largedamageboost",
+  "effectConfig" : {
+    "powerMultiplier" : 10,
+    "directives" : "?fade=a451c4;0.25?border=1;a451c480;a451c400"
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "largedamageboost.lua"
+  ],
+
+  "animationConfig" : "largedamageboost.animation",
+
+  "label" : "Damage Boost",
+  "icon" : "/interface/statuses/largedamageboost.png"
+}

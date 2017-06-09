@@ -1,0 +1,9 @@
+{
+  "name" : "fullpink",
+  "category" : "piglett",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullpink.png"
+  }
+}

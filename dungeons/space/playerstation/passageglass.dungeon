@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-passageglass",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "passageglass" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "passageglass",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "passageglass.json" ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id" : "floranhistory6",
+  "species" : "floran",
+  "title" : "Floran Family Trees",
+  "description" : "A book of advice for fledgeling Greenfingers, written by an elder Greenfinger.",
+  "icon" : "florancover5.png",
+  "contentPages" : [
+    "To be a successful Greenfinger, you must first understand the intricacies of our race's familial structure. As you will already be aware, there are no 'parent' figures in Floran culture and as such a Greenfinger must act as the tribe's authority figure.
+
+Floran will always respect a Greenfinger that protects their tribe, regardless of their age or experience, for respect among our kind is awarded to those who show strength.",
+    "For example, even a very young Floran with great hunting skills will be regarded highly by their peers.
+
+Many Greenfingers lack strength, and as such use their cunning to appear strong. Outsmarting others and paying close attention to the shifting hierarchy in your tribe will allow you to get ahead of those who are influential among your people."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

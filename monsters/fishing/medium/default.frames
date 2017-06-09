@@ -1,0 +1,14 @@
+{
+  "frameGrid" : {
+    "size" : [24, 16],
+    "dimensions" : [8, 1],
+
+    "names" : [
+      [ "swim.1", "swim.2", "swim.3", "swim.4", "panic.1", "panic.2", "panic.3", "panic.4" ]
+    ]
+  },
+
+  "aliases" : {
+    "idle" : "swim.1"
+  }
+}

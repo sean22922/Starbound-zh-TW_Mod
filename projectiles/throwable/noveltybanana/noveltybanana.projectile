@@ -1,0 +1,46 @@
+{
+  "projectileName" : "noveltybanana",
+  "speed" : 180,
+  "bounces" : 7,
+  "timeToLive" : 30,
+  "physics" : "noveltybanana",
+  "image" : "noveltybanana.png",
+  "frameNumber" : 1,
+  "animationCycle" : 0.3,
+  "windupFrames" : 1,
+  "intangibleWindup" : true,
+  "lightColor" : [60, 60, 60],
+
+  "damageKind" : "snowball",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "clientEntityMode" : "ClientSlaveOnly",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "noveltybanana"
+    },
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/toy_bounce1.ogg",
+        "/sfx/projectiles/toy_bounce2.ogg",
+        "/sfx/projectiles/toy_bounce3.ogg",
+        "/sfx/projectiles/toy_bounce4.ogg",
+        "/sfx/projectiles/toy_bounce5.ogg"
+      ]
+    }
+  ],
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/toy_bounce1.ogg",
+        "/sfx/projectiles/toy_bounce2.ogg",
+        "/sfx/projectiles/toy_bounce3.ogg",
+        "/sfx/projectiles/toy_bounce4.ogg",
+        "/sfx/projectiles/toy_bounce5.ogg"
+      ]
+    }
+  ],
+  "emitters" : [ "sparkles", "sparkles", "sparkles" ]
+}

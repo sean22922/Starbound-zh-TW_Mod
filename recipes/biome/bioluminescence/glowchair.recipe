@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "glowfibre", "count" : 20 },
+    { "item" : "fabric", "count" : 3 },
+    { "item" : "bluedye", "count" : 1 }
+  ],
+  "output" : { "item" : "glowchair", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

@@ -1,0 +1,76 @@
+{
+  "projectileName" : "throwinggnome",
+  "image" : "throwinggnomegroup.png",
+  "animationCycle" : 0.25,
+  "physics" : "grenade",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 30,
+  "power" : 5.0,
+  "damageKind" : "gnomesmack",
+  "timeToLive" : 0.01,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/throwable/throwinggnomes/gnomeexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome1",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.85,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome2",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.9,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome3",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.95,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome4",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome5",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1.05,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome6",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1.1,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwinggnome7",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1.15,
+      "angleAdjust" : 0,
+      "fuzzAngle" : 15
+    }
+  ]
+}
+
+

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "eggshoot", "count" : 1 },
+    { "item" : "oculemon", "count" : 1 }
+  ],
+  "output" : { "item" : "eyebowls", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "eyebowls" }
+}

@@ -1,0 +1,12 @@
+{
+  "projectileName" : "cactusthorns",
+  "physics" : "arrownosticky",
+  "image" : "cactusthorns.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 0.2,
+  "power" : 5.0,
+  "damageKind" : "default"
+}

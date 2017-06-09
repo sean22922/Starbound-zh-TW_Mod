@@ -1,0 +1,224 @@
+{
+  "id" : "kill_npc.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "enemy" : {
+      "type" : "npcType",
+      "example" : {
+        "name" : "bandit",
+        "typeName" : "bandit"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/kill.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "enemy"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["adjective", [
+          "Killer",
+          "Crafty",
+          "Swift",
+          "Silver",
+          "Crackshot",
+          "Bullseye",
+          "Silent",
+          "Calamity",
+          "Vile",
+          "Sly",
+          "Lightspeed",
+          "Shadowy"
+        ]],
+        ["crime", [
+          "<enemy.pronoun.subject> hijacked a <company> shipping freighter",
+          "<enemy.pronoun.subject> robbed a <company> weapon shipment",
+          "<enemy.pronoun.subject> assassinated a <individual>",
+          "<enemy.pronoun.subject> robbed a <individual> at gunpoint",
+          "<enemy.pronoun.subject> flirted with a <individual>",
+          "<enemy.pronoun.subject> let all the animals free in a zoo",
+          "<enemy.pronoun.subject> stole an entire planet's supply of <valuable>",
+          "<enemy.pronoun.subject> robbed a <individual> of their <valuable>",
+          "<enemy.pronoun.subject> got involved in illegal penguin wrestling",
+          "<enemy.pronoun.subject> carried out a daring heist and stole a cache of <valuable>",
+          "<enemy.pronoun.subject> failed a heist on a <individual>",
+          "<enemy.pronoun.subject> tried to steal an entire ocean",
+          "<enemy.pronoun.subject> stole all the furniture from a town",
+          "<enemy.pronoun.subject> kept digging holes in people's houses while they were sleeping",
+          "<enemy.pronoun.subject> flooded an entire city with lava",
+          "<enemy.pronoun.subject> wouldn't stop stealing roof tiles from a city",
+          "<enemy.pronoun.subject> was caught trying to illegally smuggle <valuable>",
+          "<enemy.pronoun.subject> botched a daring heist",
+          "<enemy.pronoun.subject> was betrayed by a member of <enemy.pronoun.possessiveDet> gang",
+          "<enemy.pronoun.possessiveDet> gang turned on <enemy.pronoun.object> after a series of poor leadership decisions"
+        ]],
+        ["company", [
+          "Manaticon",
+          "Rotik",
+          "Callox",
+          "Graxus",
+          "Xia-Li",
+          "Shade Co.",
+          "Necrolix",
+          "Teklacki",
+          "Terrene Protectorate",
+          "Miniknog"
+        ]],
+        ["individual", [
+          "Glitch royal",
+          "Glitch princess",
+          "Glitch prince",
+          "renowned Hylotl poet",
+          "bandit leader",
+          "bandit with powerful connections",
+          "group of famed travelling adventurers",
+          "powerful Avian Stargazer",
+          "well-connected banker",
+          "Floran Greenfinger",
+          "Miniknog General"
+        ]],
+        ["valuable", [
+          "gold",
+          "silverware",
+          "weapons",
+          "diamonds",
+          "chickens"
+        ]],
+        ["request", [
+          "take <enemy.pronoun.object> out",
+          "sort <enemy.pronoun.object> out",
+          "deal with <enemy.pronoun.object>",
+          "teach <enemy.pronoun.object> a lesson"
+        ]],
+        ["problem", [
+          "problem",
+          "situation"
+        ]],
+        ["appreciation", [
+          "Thanks for your help!",
+          "Great! We don't need more trouble round here.",
+          "Who needs guards with you around, huh? Thanks for your help!",
+          "I am so glad you were here to help with this!"
+        ]],
+        ["crimefloran", [
+          "Floran thinksss they might have good loot!",
+          "they will probably jussst cause trouble for Floran.",
+          "they don't sssound very trustworthy so you should probably ssstab them anyway.",
+          "they might be fun to fight!",
+          "they probably would ssstab you if they got the chance.",
+          "you might have fun hunting them!"
+        ]],
+        ["requestfloran", [
+          "hunt them",
+          "ssstab them",
+          "sssort them out for Floran"
+        ]],
+        ["appreciationfloran", [
+          "Floran isss impressed! Floran didn't think you could beat them!",
+          "Floran knows you're the bessst hunter around!",
+          "Floran knows who to go to about dangerousss outlaws in future!"
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "A <enemy> to defeat",
+          "Challenging <adjective> <enemy.name>"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;An outlaw has escaped to our planet!",
+          "^cyan;I've found out there's a dangerous outlaw nearby..."
+        ],
+        "floran" : [
+          "^cyan;Floran heard about an outlaw nearby!",
+          "^cyan;Floran has interesssting information to tell..."
+        ],
+        "glitch" : [
+          "^cyan;Panicked. An outlaw has escaped to our planet!",
+          "^cyan;Flustered. I've found out there's a dangerous outlaw nearby..."
+
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?",
+            "We have a <problem>! Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+          ],
+          "floran" : [
+            "Floran heard that ^orange;<adjective> <enemy.name> the <enemy>^white; isss at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran doesn't know what they did, but <crimefloran> ^green;Can you go and <requestfloran>^white;?",
+            "Floran was at the ^orange;<spawnPoint>^green;<spawnPoint.direction> when Floran sssaw the famous outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;. Floran can't remember why they're famous but <crimefloran>. ^green;Could you go and <requestfloran>^white;?"
+          ],
+          "glitch" : [
+            "Worried. An outlaw is on the loose! Rumour has it ^orange;<adjective> <enemy.name> the <enemy>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Apparently <enemy.pronoun.copulativePast> been on the run ever since <crime>. ^green;Can you go and <request>^white; and make things safer around here?",
+            "Concerned. Have you heard of the outlaw ^orange;<adjective> <enemy.name> the <enemy>^white;? I've heard <enemy.pronoun.copulative> laying low nearby after <crime>. We don't need that kind of trouble around here - ^green;could you go to the ^orange;<spawnPoint>^green;<spawnPoint.direction> and <request>^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "Did you put a stop to <enemy.name>'s crime spree? <appreciation>",
+            "Did you manage to defeat <enemy.name>? <appreciation>"
+          ],
+          "floran" : [
+            "Did you ssstab <enemy.name>? <appreciationfloran>",
+            "Did you hunt down that outlaw? <appreciationfloran>"
+          ],
+          "glitch" : [
+            "Relieved. Did you put a stop to <enemy.name>'s crime spree? <appreciation>",
+            "Pleased. Did you manage to defeat <enemy.name>? <appreciation>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "I guess I wasn't able to help <questGiver>. I'm sure someone else will defeat the dangerous outlaw."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+
+    "objectives" : [
+      {
+        "id" : "findPlace",
+        "text" : "Locate the <spawnPoint>"
+      },
+      {
+        "id" : "kill",
+        "text" : "Kill <adjective> <enemy.name>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "spawnPointObjectiveRange" : 35,
+
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    },
+
+    "treasureNote" : [
+      "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>",
+      "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>",
+      "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>"
+    ]
+  }
+}

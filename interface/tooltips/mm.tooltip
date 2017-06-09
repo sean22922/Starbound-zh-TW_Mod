@@ -1,0 +1,30 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "/interface/tooltips/header.png",
+    "fileBody" : "/interface/tooltips/bodyobject.png",
+    "fileFooter" : "/interface/tooltips/footerobject.png"
+  },
+  "descriptionLabel" : {
+    "type" : "label",
+    "position" : [11, 69],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "wrapWidth" : 123
+  },
+  "rarityLabel" : {
+    "type" : "label",
+    "position" : [7, 23],
+    "hAnchor" : "left",
+    "centered" : true,
+    "wrapWidth" : 126
+  },
+  "largeImage" : {
+    "type" : "image",
+    "position" : [70, 100],
+    "centered" : true,
+    "file" : "/interface/money.png",
+    "maxSize" : [100, 52],
+    "minSize" : [100, 52]
+  }
+}

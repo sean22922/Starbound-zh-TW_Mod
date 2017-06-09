@@ -1,0 +1,15 @@
+{
+  "name" : "smalltapirhead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smalltapirhead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.25]
+  }
+}

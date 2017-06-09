@@ -1,0 +1,21 @@
+{
+  "eventName" : "restoreFossil",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - fossilSetName
+  //  - displayObjectName
+
+  "stats" : [
+    {
+      "name" : "restoreFossil.fossilSetName.<fossilSetName>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "restoreFossil",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

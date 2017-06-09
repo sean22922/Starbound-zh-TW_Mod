@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "petalblue", "count" : 20 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "flowerlamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

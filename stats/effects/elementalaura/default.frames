@@ -1,0 +1,19 @@
+{
+  "frameGrid" : {
+    "size" : [60, 60],
+    "dimensions" : [3, 2],
+    "names" : [
+      [ "on.1", "on.2", "on.3"],
+      [ "on.4", "on.5", "on.6"]
+    ]
+  },
+  "aliases" : {
+  	"windup.1" : "on.3",
+    "windup.2" : "on.2",
+    "windup.3" : "on.1",
+    "on.7" : "on.5",
+    "on.8" : "on.4",
+    "on.9" : "on.3",
+    "on.10" : "on.2"
+  }
+}

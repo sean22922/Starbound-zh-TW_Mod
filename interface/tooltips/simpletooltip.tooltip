@@ -1,0 +1,22 @@
+{
+  "stretchBackground" : {
+    "type" : "imageStretch",
+    "position" : [0, 0],
+    "size" : [60, 14],
+    "zlevel" : -1,
+    "direction" : "horizontal",
+    "stretchSet" : {
+      "type" : "stretch",
+      "begin" : "/interface/tooltips/labelframe_left.png",
+      "inner" : "/interface/tooltips/labelframe_middle.png",
+      "end" : "/interface/tooltips/labelframe_right.png"
+    }
+  },
+
+  "contentLabel" : {
+    "type" : "label",
+    "position" : [4, 7],
+    "hAnchor" : "left",
+    "vAnchor" : "mid"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "projectileName" : "spinslash",
+  "image" : "spinslash.png",
+  "physics" : "bullet",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 1.5,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "slash"
+}

@@ -1,0 +1,31 @@
+{
+  "id" : "floranhistory9",
+  "species" : "floran",
+  "title" : "A Greenfinger's Diary",
+  "description" : "The diary of a Greenfinger depicting daily life in a Floran tribe.",
+  "icon" : "florancover5.png",
+  "contentPages" : [
+    "Continuing work on the new teleporter today. Hoping to get it finished by sundown, if I can avoid interruptions.
+
+Old Bell's still up in arms about Aurada's latest wall painting spree, but it's hard for me to admonish Aurada for what is essentially joyous enthusiasm.
+
+Nobody else minds the paintings... Sometimes you just have to accept that you can't please everyone.",
+
+"Anyway, at least the work on the teleporter is going well.
+
+There's threadroots throughout already, and I'm getting a lot of feedback from the root hairs.
+
+I also sent a bunch of stem tendrils up into the roof casing yesterday, and I've got that element completely figured out now.
+
+As usual it's complex but clear.",
+
+"It's such a satisfying feeling - that path from initial investigation to full comprehension; guiding a plant to inspect these seemingly inimical mechanisms; finding common ground, cultivating understanding...
+
+I enjoy helping the other Floran and offering them guidance, I'm proud that that's my purpose, but it's this work, this gift, that makes me feel whole."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "carrot", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "luckydip", "count" : 1 },
+  "groups" : [ "craftingfood", "snacks" ],
+  "collectables" : { "cooking" : "luckydip" }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "squidcritter",
+  "category" : "squidcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

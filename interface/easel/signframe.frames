@@ -1,0 +1,16 @@
+{
+  "frameGrid" : {
+    "size" : [144, 48],
+    "dimensions" : [1, 5],
+    "names" : [
+      [ "gold" ],
+  		[ "wood" ],
+  		[ "grey" ],
+  		[ "white" ],
+  		[ "black" ]
+    ]
+  },
+  "aliases" : {
+    "default" : "wood"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "catchallbugs",
+
+  "triggers" : [
+    "itemSet.category.bug"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.bug",
+      "op" : "sizeAtLeast",
+      "value" : 42
+    }
+  ]
+}

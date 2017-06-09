@@ -1,0 +1,46 @@
+{
+  "name" : "everyspeciescrew",
+
+  "triggers" : [
+    "crew"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "crew.recruitSpecies.human",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.glitch",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.floran",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.hylotl",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.novakid",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.apex",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "crew.recruitSpecies.avian",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

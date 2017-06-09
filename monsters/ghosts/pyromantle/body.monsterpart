@@ -1,0 +1,9 @@
+{
+  "name" : "pyromantle",
+  "category" : "pyromantle",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pyromantle.png"
+  }
+}

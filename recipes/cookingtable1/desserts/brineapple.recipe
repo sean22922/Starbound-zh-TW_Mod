@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pineapple", "count" : 1 },
+    { "item" : "coralcreep", "count" : 1 }
+  ],
+  "output" : { "item" : "brineapple", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "brineapple" }
+}

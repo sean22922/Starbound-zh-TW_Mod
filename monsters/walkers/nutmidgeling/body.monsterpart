@@ -1,0 +1,9 @@
+{
+  "name" : "nutmidgeling",
+  "category" : "nutmidgeling",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "nutmidgeling.png"
+  }
+}

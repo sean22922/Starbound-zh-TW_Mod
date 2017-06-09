@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator4",
+  "prerequisites" : [ "museumcurator3" ],
+  "title" : "^green;Silent Knight",
+  "text" : "The Glitch fascinate me. They're such magnificent machines, and yet the majority of them appear to be hardwired into an archaic mindset. Perhaps if you visit any Glitch castles you could ^green;bring me a set of ^orange;Armed Display Armour^white; for the museum?",
+  "completionText" : "Fantastic! My museum will be the most educational venue on this side of the galaxy. Thank you, this item is perfect.",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [
+    [ [ "manipulatormodule", 1 ], [ "damageaugment2", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "medievalarmorarmed",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

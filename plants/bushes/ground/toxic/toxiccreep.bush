@@ -1,0 +1,18 @@
+{
+  "name" : "toxiccreep",
+  "description" : "Toxic Creep.",
+  "shortdescription" : "A mutated plant.",
+  "floranDescription" : "Creepy plantsss.",
+  "glitchDescription" : "Statement. This plant looks to thrive on the surrounding radiation.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    }
+  ]
+}

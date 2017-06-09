@@ -1,0 +1,32 @@
+{
+  "frameGrid" : {
+    "size" : [147, 147],
+    "dimensions" : [9, 5],
+    "names" : [
+      [ "idle.1", "sweep.1", null, "dying.1", "dying.2", "dying.3", "dying.4", "dyingloop.1", "dyingloop.2" ],
+      [ "sweep.2", "sweep.3", "sweep.4", "sweep.5", "sweep.6", "sweep.7", "sweep.8", "sweep.9" ],
+      [ "sweep.10", "sweep.11", "sweep.12", "sweep.13", "sweep.14", "sweep.15", "sweep.16" ],
+      [ "windup.2", "windup.3", "windup.4", "windup.5", null, "fire.1", "fire.2" ],
+      [ "spawnwindup.1", "spawnwindup.2", "spawnwindup.3", "spawnwindup.4", "spawnwindup.5", "spawnwindup.6", "spawnwindup.7", "spawn.1", "spawn.2" ]
+    ]
+  },
+  "aliases" : {
+    "sweep.17" : "sweep.1",
+
+    "windup.1" : "sweep.1",
+
+    "winddown.1" : "windup.5",
+    "winddown.2" : "windup.4",
+    "winddown.3" : "windup.3",
+    "winddown.4" : "windup.2",
+    "winddown.5" : "sweep.1",
+
+    "spawnwinddown.1" : "spawnwindup.7",
+    "spawnwinddown.2" : "spawnwindup.6",
+    "spawnwinddown.3" : "spawnwindup.5",
+    "spawnwinddown.4" : "spawnwindup.4",
+    "spawnwinddown.5" : "spawnwindup.3",
+    "spawnwinddown.6" : "spawnwindup.2",
+    "spawnwinddown.7" : "spawnwindup.1"
+  }
+}

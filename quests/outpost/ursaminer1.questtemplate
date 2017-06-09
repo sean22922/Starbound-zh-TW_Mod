@@ -1,0 +1,49 @@
+{
+  "id" : "ursaminer1",
+  "title" : "^green;The Lost Teddy",
+  "text" : "My Little Dipper lost his dear ^orange;teddy bear^white;. I just can't finish setting up shop with him like this - can you help me ^green;get a new teddy bear^white; for him, please?",
+  "completionText" : "Little Dipper is happy now! Thank you, now I can finish opening up the shop.",
+  "moneyRange" : [50, 50],
+  "ephemeral" : true,
+  "rewards" : [
+    [ [ "rewardbag", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/ursaminer/ursaminerportrait.png"} ],
+        "title" : "Bernard"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/ursaminer/ursaminerportrait.png"} ],
+        "title" : "Bernard"
+      },
+      "questFailed" : {
+        "portrait" : [ {"image" : "/objects/outpost/ursaminer/ursaminerportrait.png"} ],
+        "title" : "Bernard"
+      }
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "teddybearplush",
+        "count" : 1,
+        "consume" : true
+      }
+    ],
+    "failConditions" : [
+      {
+        "type" : "proximity",
+        "entityUid" : "ursaminer",
+        "range" : -1, //In the same world
+        "failureText" : "Little Dipper already got his teddy from someone else!"
+      }
+    ],
+
+    "setUniverseFlags" : ["outpost_ursaminer"]
+  }
+}

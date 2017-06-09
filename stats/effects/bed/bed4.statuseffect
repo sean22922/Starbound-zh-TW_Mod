@@ -1,0 +1,16 @@
+{
+  "name" : "bed4",
+  "effectConfig" : {
+    "healTime" : 42
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "bed.lua"
+  ],
+
+  "animationConfig" : "bed.animation",
+
+  "label" : "Resting",
+  "icon" : "/interface/statuses/sleep.png"
+}

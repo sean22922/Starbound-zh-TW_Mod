@@ -1,0 +1,62 @@
+{
+  "background" : {
+    "type" : "background",
+    "fileHeader" : "/interface/tooltips/header.png",
+    "fileBody" : "/interface/tooltips/bodymechpart.png",
+    "fileFooter" : "/interface/tooltips/footermechpart.png"
+  },
+  "moneyIcon" : {
+    "type" : "image",
+    "position" : [97, 23],
+    "file" : "/interface/money.png"
+  },
+  "priceLabel" : {
+    "type" : "label",
+    "position" : [110, 23],
+    "hAnchor" : "left",
+    "value" : "0"
+  },
+  "descriptionLabel" : {
+    "type" : "label",
+    "position" : [12, 95],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "wrapWidth" : 123
+  },
+  "rarityLabel" : {
+    "type" : "label",
+    "position" : [7, 23],
+    "hAnchor" : "left",
+    "wrapWidth" : 126
+  },
+  "objectImage" : {
+    "type" : "image",
+    "position" : [70, 125],
+    "file" : "",
+    "centered" : true,
+    "maxSize" : [70, 45],
+    "minSize" : [70, 40]
+  },
+  "energyStatLabel" : {
+    "type" : "label",
+    "position" : [12, 54],
+    "hAnchor" : "left",
+    "wrapWidth" : 126,
+    "value" : "Max Energy"
+  },
+  "energyStatImage" : {
+    "type" : "image",
+    "position" : [87, 53]
+  },
+  "protectionStatLabel" : {
+    "type" : "label",
+    "position" : [12, 42],
+    "hAnchor" : "left",
+    "wrapWidth" : 126,
+    "value" : "Defense"
+  },
+  "protectionStatImage" : {
+    "type" : "image",
+    "position" : [87, 41]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tomato", "count" : 1 },
+    { "item" : "corn", "count" : 1 },
+    { "item" : "carrot", "count" : 1 }
+  ],
+  "output" : { "item" : "gardensalad", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "gardensalad" }
+}

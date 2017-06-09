@@ -1,0 +1,17 @@
+{
+  "kind" : "castfire",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/firecharge/firecharge.animation",
+    "position" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 0],
+    "fade" : 1,
+    "size" : 1,
+    "layer" : "back",
+    "timeToLive" : 1,
+    "variance" : {
+    }
+  }
+}
+

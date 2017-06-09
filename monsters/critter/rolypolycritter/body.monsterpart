@@ -1,0 +1,9 @@
+{
+  "name" : "rolypolycritter",
+  "category" : "rolypolycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "smalllightningchargechest",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smalllightningchargechest.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "po",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "po.png"
+  }
+}

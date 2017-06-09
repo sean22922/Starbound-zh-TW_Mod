@@ -1,0 +1,33 @@
+{
+  "name" : "chargeAttack",
+  "label" : "CHARGE",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "config" : {
+    "hostileActions" : [
+      {
+        "name" : "action-charge",
+        "cooldown" : 5.0,
+        "parameters" : {
+          "skillName" : "chargeAttack",
+
+          "maximumRange" : 10,
+          "windupTime" : 0.6,
+
+          "chargeTime" : 1.5,
+          "chargeSpeed" : 30,
+          "chargeControlForce" : 300,
+          "wallCrashEmitter" : "",
+
+          "winddownTime" : 0.5
+        }
+      }
+    ]
+  },
+
+  "animationParameters" : {
+    "sounds" : {
+      "crash" : [ "/sfx/melee/blunt_hit_organic.ogg" ]
+    }
+  }
+}

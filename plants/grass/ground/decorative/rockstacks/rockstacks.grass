@@ -1,0 +1,8 @@
+{
+  "name" : "rockstacks",
+  "description" : "A pile of rocks.",
+  "shortdescription" : "A pile of rocks.",
+  "floranDescription" : "Rocksss.",
+  "glitchDescription" : "Statement. A pile of rocks.",
+  "images" : [ "rockstacks1.png", "rockstacks2.png", "rockstacks3.png", "rockstacks4.png", "rockstacks5.png" ]
+}

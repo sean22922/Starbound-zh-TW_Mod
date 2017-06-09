@@ -1,0 +1,30 @@
+{
+  "kind" : "healthCritical",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : false,
+    "location" : "mouth",
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

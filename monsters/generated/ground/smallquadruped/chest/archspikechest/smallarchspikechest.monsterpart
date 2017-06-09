@@ -1,0 +1,9 @@
+{
+  "name" : "smallarchspikechest",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smallarchspikechest.png"
+  }
+}

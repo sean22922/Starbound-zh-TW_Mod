@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 }
+  ],
+  "output" : { "item" : "outpostplatform", "count" : 10 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

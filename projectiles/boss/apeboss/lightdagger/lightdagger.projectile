@@ -1,0 +1,18 @@
+{
+  "projectileName" : "lightdagger",
+  "image" : "lightdagger.png",
+  "animationLoops" : false,
+  "lightColor" : [100, 150, 150],
+  "frameNumber" : 1,
+  "flippable" : false,
+  "fullbright" : true,
+  "renderLayer" : "Monster+1",
+  "damageKindImage" : "icon.png",
+  "physics" : "default",
+  "emitters" : [ ],
+  "damageKind" : "slash",
+  "damagePoly" : [ [-18, 0], [-5, 5], [18,0], [-5,-5] ],
+
+  "speed" : 75,
+  "timeToLive" : 4.0
+}

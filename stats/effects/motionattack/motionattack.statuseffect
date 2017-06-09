@@ -1,0 +1,12 @@
+{
+  "name" : "motionattack",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "motionattack.lua"
+  ],
+
+  "animationConfig" : "motionattack.animation"
+}

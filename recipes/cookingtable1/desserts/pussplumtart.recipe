@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "pussplumjam", "count" : 1 }
+  ],
+  "output" : { "item" : "pussplumtart", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "pussplumtart" }
+}

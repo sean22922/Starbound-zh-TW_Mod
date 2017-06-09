@@ -1,0 +1,9 @@
+{
+  "name" : "smallnotail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "smallnotail.png"
+  }
+}

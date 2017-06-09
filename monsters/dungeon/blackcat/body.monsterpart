@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "blackcat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blackcat.png"
+  }
+}

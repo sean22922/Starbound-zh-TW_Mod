@@ -1,0 +1,21 @@
+{
+  "projectileName" : "goldslide",
+  "physics" : "vhighgravgrenade",
+  "bounces" : 2,
+  "timeToLive" : 0.8,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [60, 50, 0],
+  "image" : "goldslide.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.2,
+  "frameNumber" : 5,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/blocks/footstep_crystal.ogg" ]
+    }
+  ],
+  "speed" : 65,
+  "power" : 1.0,
+  "damageKind" : "default"
+}

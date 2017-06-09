@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+    { "item" : "coconutmilk", "count" : 1 }
+  ],
+  "output" : { "item" : "coconutrice", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "coconutrice" }
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "largecurledhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecurledhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelashdown",
+    "projectileSourcePosition" : [1, -0.5]
+  }
+}

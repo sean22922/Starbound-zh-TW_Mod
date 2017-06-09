@@ -1,0 +1,9 @@
+{
+  "name" : "dancercritter",
+  "category" : "dancercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

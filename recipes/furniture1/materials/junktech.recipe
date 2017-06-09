@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "stickofram", "count" : 1 }
+  ],
+  "output" : { "item" : "junktech", "count" : 50 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

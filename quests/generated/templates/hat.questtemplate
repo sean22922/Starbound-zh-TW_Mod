@@ -1,0 +1,142 @@
+{
+  "id" : "hat.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "friend" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Friendly Friend"
+      }
+    },
+    "clothing" : {
+      "type" : "item",
+      "example" : {
+        "item" : "bananahead"
+      }
+    },
+    "adjective" : {
+      "type" : "noDetail",
+      "example" : {
+        "name" : "suave"
+      }
+    },
+    "clothingIngredients" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "fabric", "count" : 2 },
+          { "name" : "goldore", "count" : 1 }
+        ]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/clothing.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "friend"
+    },
+    "generatedText" : {
+      "title" : {
+        "default" : [
+          "<questGiver>'s new headwear",
+          "<questGiver> wants to look <adjective>",
+          "Help <questGiver> look <adjective>"
+        ]
+      },
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran wantsss to look <adjective>. Floran has plan for this.",
+          "^cyan;Floran would be more popular if Floran looked <adjective>."
+        ],
+        "glitch" : [
+            "^cyan;^cyan;Eager. I want to look <adjective>. Could you assist me with this task?",
+            "^cyan;^cyan;Excited. It is time I had a new look. Could you help me look <adjective>?"
+        ],
+        "default" : [
+          "^cyan;I want to wear something that makes me look <adjective>. Will you help me?",
+          "^cyan;I want to look <adjective>, and I have a plan to make it happen."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Finally, Floran needs you to ^green;deliver ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; ssso <friend.pronoun.subject> can make Floran's ^orange;headwear.^white; Hurry!",
+            "Floran so close to sssuccess! Floran needs you to ^green;take the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white; so <friend.pronoun.subject> can make Floran's ^orange;headwear."
+          ],
+          "glitch" : [
+            "Pleased. All you have to do now is ask ^orange;<friend>^white; to make my new ^orange;headwear.^white; Could you ^green;deliver the ^orange;<clothingIngredients>^green; to <friend.pronoun.object>?",
+            "Patient. Finally, can you ^green;deliver the ^orange;<clothingIngredients>^green; to ^orange;<friend>^white;, so <friend.pronoun.subject> can craft me my ^orange;headwear?"
+          ],
+          "default" : [
+            "Finally, run over and have ^orange;<friend>^white; assemble us some custom ^orange;headwear.^white; Just ^green;mention my name, and give <friend.pronoun.object> our ^orange;<clothingIngredients>^white;.",
+            "Now all that's left is to ask ^orange;<friend>^white; to make my custom headwear. ^green;Give <friend.pronoun.object> our ^orange;<clothingIngredients>^white; and <friend.pronoun.subject> can craft it for me!"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Success! Don't you think Floran looksss <adjective> now? Thanks for your help!",
+            "Floran looks <adjective> now! This will help Floran make friends. Thanksss for your help!"
+          ],
+          "glitch" : [
+            "Appreciative. Thanks to you, I definitely look <adjective>!",
+            "Delighted. This new look really makes me look <adjective>, don't you think? Thank you for your help."
+          ],
+          "default" : [
+            "Thank you! What do you think? Don't I look <adjective> now?",
+            "Thanks! How do I look? Suitably <adjective>, I'm sure."
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "I was unable to help <questGiver> get something new to wear. <questGiver.pronoun.capitalSubject> looks fine as <questGiver.pronoun.subject> is anyway.",
+          "I didn't help <questGiver> find something <adjective> to wear. I prefer <questGiver.pronoun.possessiveDet> look as it is."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : [],
+
+    // Player -> Friend NPC
+    "requestClothingCraftNotification" : "requestHatCraft",
+    // Friend NPC -> Player
+    "clothingCraftedEventName" : "hatCrafted",
+
+    // Player -> Quest Giver
+    "wearClothingNotification" : "wearHat",
+    // Quest Giver -> Player
+    "clothingAcceptedEventName" : "hatWorn",
+
+    "parcelName" : ["Parcel for <questGiver>"],
+    "parcelDescription" : ["It's for <questGiver>. I shouldn't open it."],
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Give <clothingIngredients> to <friend>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return parcel to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "friend"
+    },
+    "turnInHidesIndicators" : false
+  }
+}

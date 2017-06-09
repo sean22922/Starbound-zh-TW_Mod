@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "ornatewood", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "baseboard",
+    "count" : 10
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

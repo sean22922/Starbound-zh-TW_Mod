@@ -1,0 +1,94 @@
+{
+  "metadata" : {
+    "name" : "apexbase",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "apexbaseentrance1" ],
+    "maxRadius" : 1000000,
+    "maxParts" : 4,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "apexbaseentrance1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbaseentrance1.json" ]
+    },
+    {
+      "name" : "apexbase1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbase1.json" ]
+    },
+    {
+      "name" : "apexbase2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbase2.json" ]
+    },
+    {
+      "name" : "apexbase3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbase3.json" ]
+    },
+    {
+      "name" : "apexbase4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbase4.json" ]
+    },
+    {
+      "name" : "apexbase5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "apexbase5.json" ]
+    },
+    {
+      "name" : "apexbasetop1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "apexbasetop1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "apexbasetop2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "apexbasetop2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "apexbasetop3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "apexbasetop3.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "apexbasetop4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "apexbasetop4.json" ],
+      "chance" : 0
+    }
+  ]
+}

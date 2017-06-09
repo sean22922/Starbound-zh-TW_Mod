@@ -1,0 +1,22 @@
+{
+  "kind" : "deathember",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1,
+    "color" : [255, 0, 0, 255],
+    "angularVelocity" : 20,
+    "fade" : 1.25,
+    "destructionTime" : 1,
+    "position" : [0, 0],
+    "initialVelocity" : [0, 8],
+    "finalVelocity" : [0, -8],
+    "approach" : [15, 15],
+    "timeToLive" : 1,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [4, 2],
+      "finalVelocity" : [4, 3],
+      "size" : 1
+    }
+  }
+}

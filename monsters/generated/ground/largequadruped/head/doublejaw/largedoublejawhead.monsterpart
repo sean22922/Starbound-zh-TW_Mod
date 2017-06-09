@@ -1,0 +1,15 @@
+{
+  "name" : "largedoublejawhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largedoublejawhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [0.8, -0.5]
+  }
+}

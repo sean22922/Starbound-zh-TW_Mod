@@ -1,0 +1,8 @@
+{
+  "name" : "glowmushroom",
+  "description" : "A glowing mushroom. May be toxic.",
+  "shortdescription" : "A glowing mushroom.",
+  "floranDescription" : "Pretty mushroom.",
+  "glitchDescription" : "Statement. A glowing mushroom.",
+  "images" : [ "glowmushroom1-1.png", "glowmushroom1-2.png", "glowmushroom1-3.png", "glowmushroom1-5.png", "glowmushroom1-5.png", "glowmushroom1-6.png", "glowmushroom2-1.png", "glowmushroom2-2.png", "glowmushroom2-3.png", "glowmushroom2-5.png", "glowmushroom2-5.png", "glowmushroom2-6.png" ]
+}

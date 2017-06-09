@@ -1,0 +1,21 @@
+{
+  "kind" : "eating",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.6,
+    "loops" : true,
+    "start" : {
+      "sounds" : [
+        [ "/sfx/humanoid/eat3.ogg" ]
+      ]
+    },
+    "particles" : [
+      [ "crumbs", "crumbs", "crumbs" ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "crumbs" ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name" : "runboost",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "runboost.lua"
+  ],
+
+  "animationConfig" : "runboost.animation",
+
+  "label" : "Run Boost",
+  "icon" : "/interface/statuses/haste.png"
+}

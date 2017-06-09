@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "chili", "count" : 1 },
+    { "item" : "rawribmeat", "count" : 1 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "spicyribs", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "spicyribs" }
+}

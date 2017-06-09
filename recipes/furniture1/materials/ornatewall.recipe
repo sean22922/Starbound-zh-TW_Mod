@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ornatewood", "count" : 1 },
+    { "item" : "paper", "count" : 2 }  
+  ],
+  "output" : {
+    "item" : "ornatewall",
+    "count" : 50
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

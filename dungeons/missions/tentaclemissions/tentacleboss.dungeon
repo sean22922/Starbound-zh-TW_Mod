@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "tentacleboss",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "bossroomtest" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "bossroomtest",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+
+      ],
+      "def" : [ "tmx", "bossroomtest.json" ]
+    }
+  ]
+}

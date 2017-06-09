@@ -1,0 +1,57 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "penguin" : {
+        "default" : "welding",
+        "states" : {
+          "welding" : {
+            "frames" : 75,
+            "cycle" : 6,
+            "mode" : "loop",
+            "properties" : {
+              "immediateSoundRangeMultiplier" : 0.5
+            },
+            "frameProperties" : {
+              "immediateSound" : [ "", "", "/sfx/objects/penguin_welding1.ogg", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "/sfx/objects/penguin_welding2.ogg", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "/sfx/objects/penguin_welding3.ogg", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "/sfx/objects/penguin_welding4.ogg", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "/sfx/objects/penguin_welding5.ogg", "", "", "", "", "", "", "", "", "", "", "", "" ]
+            }
+          }
+        }
+      }
+    },
+        
+    "parts" : {
+      "bg" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "penguin" : {
+            "welding" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>",
+                "fullbright" : true
+              }
+            }
+          }
+        }
+      },
+      "fg" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "penguin" : {
+            "welding" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

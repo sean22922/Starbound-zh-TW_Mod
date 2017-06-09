@@ -1,0 +1,9 @@
+{
+  "name" : "smallroughfinhead",
+  "category" : "smallflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallroughfinhead.png"
+  }
+}

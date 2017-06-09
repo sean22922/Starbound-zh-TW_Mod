@@ -1,0 +1,2033 @@
+{
+  "muteSfx" : true,
+  "muteMusic" : true,
+  "skippable" : false,
+  "letterbox" : false,
+  "backgroundFadeTime" : 0.3,
+  "backgroundColor" : [0, 0, 0, 255],
+  "panels" : [
+
+// ------------------ sky
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/sky.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 0.75,
+          "alpha" : 0,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 0.75,
+          "alpha" : 1,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 0.75,
+          "alpha" : 1,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 0.75,
+          "alpha" : 0,
+          "position" : [480, 200]
+        }
+      ]
+    },
+
+// ------------------ moon
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/moon.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [180, 380]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [180, 380]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [180, 380]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [180, 380]
+        }
+      ]
+    },
+
+
+// ------------------ sun
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/sunrays.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [450, 380]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [450, 380]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [450, 350]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [450, 350]
+        }
+      ]
+    },
+
+// ------------------ cloud2
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [900, 305]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [900, 305]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [880, 305]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [880, 305]
+        }
+      ]
+    },
+
+// ------------------ cloud3
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud3.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [750, 290]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [750, 290]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [730, 290]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [730, 290]
+        }
+      ]
+    },
+
+// ------------------ cloud4
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud4.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-70, 310]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-70, 310]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-60, 310]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-60, 310]
+        }
+      ]
+    },
+
+// ------------------ cloud5
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud5.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [20, 280]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [20, 280]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [40, 280]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [40, 280]
+        }
+      ]
+    },
+
+
+// ------------------ cloud5
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud5.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [890, 270]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [890, 270]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [870, 270]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [870, 270]
+        }
+      ]
+    },
+
+// ------------------ cloud6
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud6.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [100, 235]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [100, 235]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [90, 235]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [90, 235]
+        }
+      ]
+    },
+
+// ------------------ cloud6 2
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud6.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [930, 200]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [930, 200]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [920, 200]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [920, 200]
+        }
+      ]
+    },
+
+// ------------------ cloud7
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud7.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [630, 190]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [630, 190]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [610, 190]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [610, 190]
+        }
+      ]
+    },
+
+// ------------------ buildings2
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/buildings2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [610, 220]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [610, 220]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [610, 220]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [610, 220]
+        }
+      ]
+    },
+
+// ------------------ meteor 1
+
+ {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/meteor2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 3,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [960, 480],
+          "frame" : 0
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [960, 480],
+          "frame" : 0
+        },
+        {
+          "timecode" : 9,
+          "alpha" : 1,
+          "zoom" : 1,
+          "frame" : 75,
+          "position" : [400, 0]
+        },
+        {
+          "timecode" : 13.3,
+          "alpha" : 0,
+          "zoom" : 1,
+          "frame" : 100000
+        }
+      ]
+    },
+
+// ------------------ meteor 2
+
+ {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/meteor.png:<frame>"
+        }
+      ],
+      "animationFrames" : 3,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [660, 580],
+          "frame" : 0
+        },
+        {
+          "timecode" : 5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [660, 580],
+          "frame" : 0
+        },
+        {
+          "timecode" : 12,
+          "alpha" : 1,
+          "zoom" : 1,
+          "frame" : 75,
+          "position" : [100, 0]
+        },
+        {
+          "timecode" : 13.3,
+          "alpha" : 0,
+          "zoom" : 1,
+          "frame" : 100000
+        }
+      ]
+    },
+
+// ------------------ meteor 3
+
+ {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/meteor2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 3,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [360, 580],
+          "frame" : 0
+        },
+        {
+          "timecode" : 5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [360, 580],
+          "frame" : 0
+        },
+        {
+          "timecode" : 8,
+          "alpha" : 1,
+          "zoom" : 1,
+          "frame" : 75,
+          "position" : [-200, 0]
+        },
+        {
+          "timecode" : 13.3,
+          "alpha" : 0,
+          "zoom" : 1,
+          "frame" : 100000
+        }
+      ]
+    },
+
+// ------------------ cloud8
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud8.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [250, 207]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [250, 207]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [260, 207]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [260, 207]
+        }
+      ]
+    },
+
+// ------------------ cloud8 - 2
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud8.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [950, 207]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [950, 207]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [960, 207]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [960, 207]
+        }
+      ]
+    },
+
+// ------------------ building1
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/building1.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [725, 160]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [725, 160]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [725, 160]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [725, 160]
+        }
+      ]
+    },
+
+// ------------------ buildingcracked1a (collapsing)
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/buildingcracked1a.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [620, 160]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [620, 160]
+        },
+        {
+          "timecode" : 5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [620, 160]
+        },
+        {
+          "timecode" : 16,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [620, 35]
+        },
+        {
+          "timecode" : 16.5,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [620, 35]
+        }
+      ]
+    },
+
+// ------------------ building1b
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/building1b.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [784, 160]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [784, 160]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [784, 160]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [784, 160]
+        }
+      ]
+    },
+
+// ------------------ building1c (collapsing)
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/building1c.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [315, 190]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [315, 190]
+        },
+        {
+          "timecode" : 9.5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [316, 190]
+        },
+        {
+          "timecode" : 9.9,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [317, 180]
+        },
+        {
+          "timecode" : 10.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [317, 178]
+        },
+        {
+          "timecode" : 18,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [317, 30]
+        },
+        {
+          "timecode" : 18.5,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [317, 30]
+        }
+      ]
+    },
+
+
+
+// ------------------ far left most ship
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/othership1.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [100, 200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [100, 200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 10.5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [220, 300],
+          "frame" : 90
+        },
+        {
+          "timecode" : 10.8,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [220, 300]
+        }
+      ]
+    },
+
+// ------------------ far left most ship explodes
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/othership1explode.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 10.4,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [220, 300]
+        },
+        {
+          "timecode" : 10.5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [220, 300]
+        },
+        {
+          "timecode" : 11.5,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [220, 300]
+        }
+      ]
+    },
+
+// ------------------ tentacle back
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle4.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [100, 200]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [100, 200]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [120, 220]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [120, 220]
+        }
+      ]
+    },
+
+// ------------------ your ship
+
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/smallship/<species>ship.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-67, -171],
+          "frame" : 0
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-25, -175],
+          "frame" : 0
+        },
+        {
+          "timecode" : 13.0,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [510, 300],
+          "frame" : 90
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [510, 300]
+        }
+      ]
+    },
+
+
+// ------------------ far right most ship
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/othership2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [700, 150],
+          "frame" : 0
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [700, 150],
+          "frame" : 0
+        },
+        {
+          "timecode" : 11.5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [820, 250],
+          "frame" : 90
+        },
+        {
+          "timecode" : 11.8,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [820, 250],
+          "frame" : 0
+        }
+      ]
+    },
+
+// ------------------ far right most ship explodes
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/othership1explode.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 11.4,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [820, 250]
+        },
+        {
+          "timecode" : 11.5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [820, 250]
+        },
+        {
+          "timecode" : 12.5,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [820, 250]
+        }
+      ]
+    },
+
+// ------------------ cloud9
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud9.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [183, 183]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [183, 183]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [163, 183]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [163, 183]
+        }
+      ]
+    },
+
+// ------------------ city
+/*
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/city2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [480, 270]
+        }
+      ]
+    },
+*/
+
+// ------------------ middle tentacle
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [480, 100]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 100]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [470, 120]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [470, 120]
+        }
+      ]
+    },
+
+// ------------------ cloud10
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud10.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [95, 135]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [95, 135]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [115, 135]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [115, 135]
+        }
+      ]
+    },
+
+// ------------------ bottom right tentacle
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle3.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [850, 150]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [850, 150]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [840, 160]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [840, 160]
+        }
+      ]
+    },
+
+// ------------------ cloud11
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/cloud11.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [920, 170]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [920, 170]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [940, 170]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [940, 170]
+        }
+      ]
+    },
+
+// ------------------ front tentacle
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle1.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [20, -20]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [20, -20]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [40, 0]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [40, 0]
+        }
+      ]
+    },
+
+// ------------------ front tentacle far right
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle5.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [980, 150]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [980, 150]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [960, 160]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [960, 160]
+        }
+      ]
+    },
+
+// ------------------ front tentacle far right
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/tentacle6.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-30, 150]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-30, 150]
+        },
+        {
+          "timecode" : 13,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-10, 160]
+        },
+        {
+          "timecode" : 13.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-10, 160]
+        }
+      ]
+    },
+
+
+// ------------------ Space background
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/skyspace.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 12.5,
+          "zoom" : 0.57,
+          "alpha" : 0,
+          "position" : [450, 275]
+        },
+        {
+          "timecode" : 12.6,
+          "zoom" : 0.57,
+          "alpha" : 1,
+          "position" : [450, 275]
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 0.57,
+          "alpha" : 1,
+          "position" : [500, 275]
+        },
+        {
+          "timecode" : 20.1,
+          "zoom" : 0.57,
+          "alpha" : 0,
+          "position" : [500, 275]
+        }
+      ]
+    },
+
+// ------------------ Space stars
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/stars2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 13.5,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 14,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 14.5,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 16,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 16.5,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 17,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [450, 250]
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/stars3.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 12.5,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 12.8,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [450, 250]
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 0.5,
+          "alpha" : 1,
+          "position" : [480, 250]
+        },
+        {
+          "timecode" : 20.5,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [480, 250]
+        }
+      ]
+    },
+
+
+// ------------------ black behind logo
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/black.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 17,
+          "zoom" : 10,
+          "alpha" : 0,
+          "position" : [450, 260],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 10,
+          "alpha" : 1,
+          "position" : [450, 260]
+        },
+        {
+          "timecode" : 23,
+          "alpha" : 1
+        }
+      ]
+    },
+
+
+
+// ------------------ LOGO
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogo.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 13.5,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 21.0,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 23,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogoshine1.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 20.00,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.01,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.07,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.08,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogoshine2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 20.05,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.06,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.12,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.13,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogoshine3.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 20.10,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.11,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.17,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.18,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogoshine4.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 20.15,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.16,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.22,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.23,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/SBlogoshine5.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 20.20,
+          "zoom" : 0.34,
+          "alpha" : 0,
+          "position" : [483, 275],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.21,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.27,
+          "zoom" : 0.35,
+          "alpha" : 1,
+          "position" : [483, 275]
+        },
+        {
+          "timecode" : 20.28,
+          "zoom" : 0.35,
+          "alpha" : 0,
+          "position" : [483, 275]
+        }
+      ]
+    },
+
+
+// ------------------ your ship (in space...)
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/smallship/<species>ship4.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 11.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-67, -171],
+          "frame" : 0
+        },
+        {
+          "timecode" : 11.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-25, -175],
+          "frame" : 0
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [800, 600],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [800, 600]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/smallship/<species>ship3.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 11.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-67, -171],
+          "frame" : 0
+        },
+        {
+          "timecode" : 11.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-25, -175],
+          "frame" : 0
+        },
+        {
+          "timecode" : 14.9,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 15.5,
+          "alpha" : 0
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600]
+        }
+      ]
+    },
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/smallship/<species>ship2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 11.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-67, -171],
+          "frame" : 0
+        },
+        {
+          "timecode" : 11.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-25, -175],
+          "frame" : 0
+        },
+        {
+          "timecode" : 14.1,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 14.9,
+          "alpha" : 0
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600]
+        }
+      ]
+    },
+
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/smallship/<species>ship.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 11.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [-67, -171],
+          "frame" : 0
+        },
+        {
+          "timecode" : 11.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [-25, -175],
+          "frame" : 0
+        },
+        {
+          "timecode" : 13.1,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 14.1,
+          "alpha" : 0
+        },
+        {
+          "timecode" : 20,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600],
+          "frame" : 90
+        },
+        {
+          "timecode" : 20.3,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [800, 600]
+        }
+      ]
+    },
+
+
+// ----------------- cinematic bars
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/blackbar.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [480, 0]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 0]
+        },
+        {
+          "timecode" : 23,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 0]
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/blackbar.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 4.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [480, 540]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 540]
+        },
+        {
+          "timecode" : 23,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 540]
+        }
+      ]
+    },
+
+
+
+// ----------------- BLACK
+
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/black.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 2.0,
+          "zoom" : 10,
+          "alpha" : 0,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 2.1,
+          "zoom" : 10,
+          "alpha" : 1,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 4.3,
+          "zoom" : 10,
+          "alpha" : 1,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 5.0,
+          "zoom" : 10,
+          "alpha" : 0,
+          "position" : [480, 200]
+        },
+        {
+          "timecode" : 12.2,
+          "zoom" : 10,
+          "alpha" : 0,
+          "position" : [40, 0]
+        },
+        {
+          "timecode" : 12.5,
+          "zoom" : 10,
+          "alpha" : 1,
+          "position" : [40, 0]
+        },
+        {
+          "timecode" : 12.6,
+          "zoom" : 10,
+          "alpha" : 1,
+          "position" : [40, 0]
+        },
+        {
+          "timecode" : 12.9,
+          "zoom" : 10,
+          "alpha" : 0,
+          "position" : [40, 0]
+        }
+      ]
+    }
+  ],
+
+  "audio" : [
+    {
+      "timecode" : 0.5,
+      "resource" : "/sfx/cinematics/protectorate/ship_takeoff1.ogg"
+    },
+    {
+      "timecode" : 7.25,
+      "resource" : "/sfx/cinematics/protectorate/ship_takeoff_distant1.ogg"
+    },
+    {
+      "timecode" : 8.25,
+      "resource" : "/sfx/cinematics/protectorate/ship_takeoff_jetburst1left.ogg"
+    },
+    {
+      "timecode" : 10.4,
+      "resource" : "/sfx/cinematics/protectorate/ship_destroyed_left.ogg"
+    },
+    {
+      "timecode" : 11.4,
+      "resource" : "/sfx/cinematics/protectorate/ship_destroyed_right.ogg"
+    }
+  ]
+}

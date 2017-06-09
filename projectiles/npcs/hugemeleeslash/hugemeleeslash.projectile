@@ -1,0 +1,15 @@
+{
+  "projectileName" : "hugemeleeslash",
+  "image" : "hugemeleeslash.png",
+  "animationCycle" : 0.25,
+  "power" : 40,
+  "frameNumber" : 4,
+  "speed" : 0.0,
+  "timeToLive" : 0.25,
+  "orientationLocked" : true,
+  "damagePoly" : [ [18, 30], [-15, 30], [-15, -40], [18, -40], [30, -25], [35, -5], [35, 13], [30, 18] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "slash"
+}

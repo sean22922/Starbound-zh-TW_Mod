@@ -1,0 +1,25 @@
+{
+  "projectileName" : "icebarrier",
+  "image" : "icebarrier.png",
+  "physics" : "gas",
+  "frameNumber" : 3,
+  "animationCycle" : 0.25,
+  "lightColor" : [100, 100, 160],
+  "power" : 2,
+  "speed" : 0,
+  "timeToLive" : 2.0,
+  "bounces" : -1,
+  "knockback" : 25,
+  "knockbackDirectional" : true,
+  "orientationLocked" : true,
+  "damagePoly" : [ [2, 4],  [2, -4],  [-2, -4],  [-2, 4] ],
+  "piercing" : true,
+  "damageKind" : "icebarrier",
+  "emitters" : [ "barrierice" ],
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/ice_barrier_break1.ogg", "/sfx/projectiles/ice_barrier_break2.ogg", "/sfx/projectiles/ice_barrier_break3.ogg", "/sfx/projectiles/ice_barrier_break4.ogg", "/sfx/projectiles/ice_barrier_break5.ogg", "/sfx/projectiles/ice_barrier_break6.ogg", "/sfx/projectiles/ice_barrier_break7.ogg", "/sfx/projectiles/ice_barrier_break8.ogg", "/sfx/projectiles/ice_barrier_break9.ogg", "/sfx/projectiles/ice_barrier_break10.ogg" ]
+    }
+  ]
+}

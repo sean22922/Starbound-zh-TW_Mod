@@ -1,0 +1,15 @@
+{
+  "name" : "crash",
+  "effectConfig" : {},
+  "defaultDuration" : 0.25,
+
+  "scripts" : [
+    "crash.lua"
+  ],
+
+  "animationConfig" : "crash.animation",
+
+  "label" : "Crash",
+  "icon" : "/interface/statuses/crash.png"
+}
+

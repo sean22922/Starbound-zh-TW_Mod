@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "rawbacon", "count" : 1 }
+  ],
+  "output" : { "item" : "sweetmeat", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "sweetmeat" }
+}

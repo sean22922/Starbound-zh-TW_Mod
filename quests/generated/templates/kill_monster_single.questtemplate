@@ -1,0 +1,214 @@
+{
+  "id" : "kill_monster_single.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "monster" : {
+      "type" : "monsterType",
+      "example" : {
+        "name" : "Nutmidge",
+        "typeName" : "nutmidge"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/kill.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "monster"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["genericPluralizedMonsterTerm", [
+          "monsters"
+        ]],
+        ["giant", [
+          "ferocious",
+          "monstrous",
+          "powerful",
+          "terrifying",
+          "killer",
+          "creepy",
+          "deadly"
+        ]],
+        ["giantfloran", [
+          "ssstrong",
+          "ssscary",
+          "deadly",
+          "tough"
+        ]],
+        ["exploring", [
+          "exploring",
+          "walking",
+          "jogging",
+          "camping",
+          "trekking"
+        ]],
+        ["earlier", [
+          "earlier",
+          "not too long ago",
+          "earlier in the week",
+          "last night",
+          "yesterday"
+        ]],
+        ["disaster", [
+          "something terrible happened",
+          "disaster struck",
+          "there was a close call",
+          "I narrowly avoided a terrible fate",
+          "I had a scary encounter"
+        ]],
+        ["fate", [
+          "nearly ate me whole",
+          "tried to eat my shoes",
+          "rudely screamed in my face",
+          "nearly tore me in half",
+          "gave me a very rude look"
+        ]],
+        ["talk", [
+          "talk",
+          "rumours"
+        ]],
+        ["rumour1", [
+          "smells fear",
+          "has lived for a hundred years",
+          "knows martial arts",
+          "can read your thoughts",
+          "is super intelligent and wears reading glasses",
+          "is awake all the time and doesn't know how to sleep",
+          "is constantly whispering the names of those next fated to die",
+          "instantly knows everything embarrassing you've ever done",
+          "knows how to do backflips",
+          "is the result of an experiment gone wrong",
+          "has returned from the dead",
+          "is from the future",
+          "can turn inside out at will",
+          "has a preference for eating brave adventurers",
+          "has forgotten how to love",
+          "can kill you in your dreams"
+        ]],
+        ["request", [
+          "violently deal with it",
+          "sort it out",
+          "slay the beast",
+          "kill it for me",
+          "get rid of it",
+          "make it go away"
+        ]],
+        ["challengefloran", [
+          "If you think you're ssstrong enough",
+          "If you are brave enough",
+          "If you think you can fight sssuch a strong beast",
+          "If you are up for the challenge",
+          "If you are a worthy hunter",
+          "If you are a brave enough hunter"
+        ]],
+        ["appreciation1", [
+          "You defeated the <giant> <monster>?",
+          "You got rid of the <monster>?",
+          "Oh, you sorted out that <giant> <monster>?"
+        ]],
+        ["appreciation2", [
+          "You're the best monster hunter around! I hope this reward makes it worth your while!",
+          "Thanks! I appreciate the help!",
+          "I'll sleep better knowing you've made it a little safer around here!",
+          "Thanks! You've made it so much safer to live around here.",
+          "Now I can sleep knowing that thing won't be around!"
+        ]],
+        ["floranappreciation", [
+          "Floran is very impresssed!",
+          "Floran wasn't sssure you could do it!",
+          "Floran is surprised at your ssskills!",
+          "Floran won't doubt you in future... Not that Floran wasss doubting you!"
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "The <giant> <monster>",
+          "<monster> Hunter"
+        ],
+        "floran" : [
+          "The <monster> challenge",
+          "<monster> Hunter"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;I need some help with a monster of a problem."
+        ],
+        "floran" : [
+          "^cyan;Floran hasss a challenge for you."
+        ],
+        "glitch" : [
+          "^cyan;Scared. There is a beast that needs defeating."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, so I can feel safe again?",
+            "I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?"
+          ],
+          "floran" : [
+            "Floran has heard talk of a <giantfloran> ^orange;<monster>^white; near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran thinks thisss sounds like a good hunt! <challengefloran>, ^green;you should go and ssstab it^white;!"
+          ],
+          "glitch" : [
+            "Terrified. There's been <talk> about a <giant> ^orange;<monster>^white; over near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Some are saying that it <rumour1>! Can you <request>, and save us all?",
+            "Distressed. I was out <exploring> near the ^orange;<spawnPoint>^white;<spawnPoint.direction> <earlier> when <disaster>! A <giant> ^orange;<monster>^white; was there and <fate>.  Can you <request>, to teach it a lesson?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "<appreciation1> <appreciation2>"
+          ],
+          "floran" : [
+            "You hunted the <monster>? <floranappreciation>"
+          ],
+          "glitch" : [
+            "Overjoyed. <appreciation1> <appreciation2>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "I guess I wasn't able to help <questGiver> in time. That's a shame."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+
+    "objectives" : [
+      {
+        "id" : "findPlace",
+        "text" : "Locate the <spawnPoint>"
+      },
+      {
+        "id" : "kill",
+        "text" : "Kill the <monster>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "spawnPointObjectiveRange" : 35,
+
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    }
+  }
+}

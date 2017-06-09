@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 4 },
+    { "item" : "goldbar", "count" : 2 },
+    { "item" : "liquidpoison", "count" : 5 }
+  ],
+  "output" : { "item" : "battery", "count" : 1 },
+  "groups" : [ "craftingfurnace3", "ingredients", "all" ]
+}

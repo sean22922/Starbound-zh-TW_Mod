@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "mashedpotato", "count" : 1 },
+    { "item" : "rawpoultry", "count" : 1 },
+    { "item" : "carrot", "count" : 1 }
+  ],
+  "output" : { "item" : "roastdinner", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "roastdinner" }
+}

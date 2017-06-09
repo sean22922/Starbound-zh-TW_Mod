@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_signstore",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_signstore" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_signstore",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_signstore.json" ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [220, 147],
+    "dimensions" : [8, 5],
+    "names" : [
+      [ "garden", "forest", "snow", "ice", "arctic", "savannah", "ocean", "toxic" ],
+      [ "jungle", "desert", "alien", "midnight", "alpine", "giantflower", "geode", "prism" ],
+      [ "steamspring", "bioluminescence", "colourful", "tar", "oasis", "flesh", "mushroompatch", "bones" ],
+      [ "scorchedcity", "tundra", "volcanic", "swamp", "rust", "hive", "eyepatch", null ],
+      [ "hellscape", null, null, null, null, null, null, null ]
+    ]
+  }
+}

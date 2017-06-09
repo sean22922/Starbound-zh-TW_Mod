@@ -1,0 +1,15 @@
+{
+  "name" : "largeeyeballhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeeyeballhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelash",
+    "projectileSourcePosition" : [1, -0.5]
+  }
+}

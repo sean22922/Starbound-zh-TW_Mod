@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "autochip", "count" : 10 }
+  ],
+  "output" : { "item" : "autodrive", "count" : 1 },
+  "groups" : [ "other", "all" ]
+}

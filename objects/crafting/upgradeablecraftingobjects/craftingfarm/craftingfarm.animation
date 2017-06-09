@@ -1,0 +1,91 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "craftingfarm",
+        "states" : {
+          "craftingfarm" : {},
+          "craftingfarm2" : {
+            "frames" : 8,
+            "cycle" : 1,
+            "mode" : "loop",
+            "properties" : {
+              "lightsOn" : [ "farm2glow" ]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "lights" : {
+        "properties" : {
+          "centered" : true,
+          "fullbright" : true,
+          "zLevel" : 0
+        },
+        "partStates" : {
+          "stage" : {
+            "craftingfarm" : {},
+
+            "craftingfarm2" : {
+              "properties" : {
+                "image" : "craftingfarm2.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "chassis" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 1
+        },
+        "partStates" : {
+          "stage" : {
+            "craftingfarm" : {
+              "properties" : {
+                "image" : "craftingfarm.png:<color>.<frame>"
+              }
+            },
+
+            "craftingfarm2" : {
+              "properties" : {
+                "image" : "craftingfarm2lit.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "fanfare" : ["/sfx/cinematics/mission_unlock_event.ogg"],
+    "fanfare2" : ["/sfx/cinematics/license_acquired_event.ogg"]
+  },
+
+  "lights" : {
+    "farm2glow" : {
+      "active" : false,
+      "color" : [40, 80, 60],
+      "position" : [0, 0],
+
+      "flickerPeriod" : 1.0,
+      "flickerMinIntensity" : 0.9,
+      "flickerMaxIntensity" : 1.0,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    }
+  },
+  
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

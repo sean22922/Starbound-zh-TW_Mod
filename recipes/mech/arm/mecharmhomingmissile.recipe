@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 20 },
+    { "item" : "salvagearm", "count" : 25 },
+    { "item" : "salvagetier5", "count" : 10 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mecharmhomingmissile", "count" : 1 },
+  "groups" : [ "craftingmech", "mecharm" ]
+}

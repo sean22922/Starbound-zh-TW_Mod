@@ -1,0 +1,13 @@
+{
+  "name" : "largefloatyhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largefloatyhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

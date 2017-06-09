@@ -1,0 +1,10 @@
+{
+  "name" : "shield1",
+  "category" : "guardianboss",
+  "type" : "shield",
+
+  "frames" : {
+    "shield" : "shield1.png",
+    "shieldfullbright" : "shield1fullbright.png"
+  }
+}

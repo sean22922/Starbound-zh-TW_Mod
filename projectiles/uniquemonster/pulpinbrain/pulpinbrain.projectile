@@ -1,0 +1,48 @@
+{
+  "projectileName" : "pulpinbrain",
+  "image" : "pulpinbrain.png",
+  "physics" : "largeGrenade",
+  "animationCycle" : 2,
+  "frameNumber" : 1,
+  "renderLayer" : "Object+1",
+  "power" : 0,
+  "speed" : 20,
+  "piercing" : true,
+  "initialVelocity" : 20,
+  "timeToLive" : 30,
+  "bounces" : -1,
+  "flippable" : false,
+  "orientationLocked" : true,
+
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/blocks/footstep_mud.ogg" ]
+    }
+  ],
+
+  "actionOnReap" : [
+      {
+      "action" : "loop",
+      "count" : 4,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [73, 179, 253, 255],
+            "fade" : 0.9,
+            "initialVelocity" : [0.0, -1],
+            "finalVelocity" : [0.0, -20],
+            "approach" : [0, 5],
+            "timeToLive" : 0.75,
+            "layer" : "front"
+          }
+        }
+      ]
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

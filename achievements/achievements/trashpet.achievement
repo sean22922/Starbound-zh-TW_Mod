@@ -1,0 +1,16 @@
+{
+  "name" : "trashpet",
+
+  "triggers" : [
+    "trashItem.itemName.filledcapturepod"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "trashItem.itemName.filledcapturepod",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

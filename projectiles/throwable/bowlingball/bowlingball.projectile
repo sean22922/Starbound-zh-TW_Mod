@@ -1,0 +1,23 @@
+{
+  "projectileName" : "bowlingball",
+  "speed" : 180,
+  "bounces" : -1,
+  "timeToLive" : 3,
+  "physics" : "bowlingball",
+  "piercing" : true,
+  "image" : "bowlingball.png",
+  "frameNumber" : 4,
+  "windupFrames" : 1,
+  "animationCycle" : 0.4,
+  "intangibleWindup" : true,
+
+  "damageKind" : "snowball",
+  "clientEntityMode" : "ClientSlaveOnly",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "bowlingball"
+    }
+  ],
+  "damagePoly" : [ [-7.5, 0], [-5, -5], [0, -7.5], [5, -5], [7.5, 0], [5, 5], [0, 7.5], [-5, 5] ]
+}

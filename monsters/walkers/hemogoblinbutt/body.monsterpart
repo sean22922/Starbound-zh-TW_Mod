@@ -1,0 +1,9 @@
+{
+  "name" : "hemogoblinbutt",
+  "category" : "hemogoblinbutt",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "hemogoblinbutt.png"
+  }
+}

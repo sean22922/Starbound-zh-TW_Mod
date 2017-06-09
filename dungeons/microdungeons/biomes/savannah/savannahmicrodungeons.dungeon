@@ -1,0 +1,257 @@
+{
+  "metadata" : {
+    "name" : "savannahmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+
+    "anchor" : [ "arena", "bunkerhut1", "bunkerhut2", "campsite1", "campsite2", "campsite3", "crateplatform", "damagedhut1", "doubledeckerhut", "groundhut1", "groundhut2", "groundhut3", "groundhut4", "groundhut5", "groundhut6", "groundhutfullofpots", "houseontunnel", "largetallhut", "marketstall", "overhang1", "smalltunnel1", "smalltunnel2", "spikepit1", "tallhutwithlargebunker", "talltreasurehut", "tinybridge1", "tunnelmound1", "twotallhuts", "walltunnel1", "walltunnel2", "warriorrelaxing", "huntinghut1", "huntinghut2", "huntinghut3" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "arena",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arena.json" ]
+    },
+    {
+      "name" : "bunkerhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bunkerhut1.json" ]
+    },
+    {
+      "name" : "bunkerhut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bunkerhut2.json" ]
+    },
+    {
+      "name" : "campsite1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "campsite1.json" ]
+    },
+    {
+      "name" : "campsite2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "campsite2.json" ]
+    },
+    {
+      "name" : "campsite3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "campsite3.json" ]
+    },
+    {
+      "name" : "crateplatform",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "crateplatform.json" ]
+    },
+    {
+      "name" : "damagedhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "damagedhut1.json" ]
+    },
+    {
+      "name" : "doubledeckerhut",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "doubledeckerhut.json" ]
+    },
+    {
+      "name" : "groundhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut1.json" ]
+    },
+    {
+      "name" : "groundhut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut2.json" ]
+    },
+    {
+      "name" : "groundhut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut3.json" ]
+    },
+    {
+      "name" : "groundhut4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut4.json" ]
+    },
+    {
+      "name" : "groundhut5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut5.json" ]
+    },
+    {
+      "name" : "groundhut6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhut6.json" ]
+    },
+    {
+      "name" : "groundhutfullofpots",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "groundhutfullofpots.json" ]
+    },
+    {
+      "name" : "houseontunnel",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "houseontunnel.json" ]
+    },
+    {
+      "name" : "largetallhut",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largetallhut.json" ]
+    },
+    {
+      "name" : "marketstall",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "marketstall.json" ]
+    },
+    {
+      "name" : "overhang1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "overhang1.json" ]
+    },
+    {
+      "name" : "smalltunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "smalltunnel1.json" ]
+    },
+    {
+      "name" : "smalltunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "smalltunnel2.json" ]
+    },
+    {
+      "name" : "spikepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit1.json" ]
+    },
+    {
+      "name" : "tallhutwithlargebunker",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tallhutwithlargebunker.json" ]
+    },
+    {
+      "name" : "talltreasurehut",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "talltreasurehut.json" ]
+    },
+    {
+      "name" : "tinybridge1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tinybridge1.json" ]
+    },
+    {
+      "name" : "tunnelmound1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelmound1.json" ]
+    },
+    {
+      "name" : "twotallhuts",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "twotallhuts.json" ]
+    },
+    {
+      "name" : "walltunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "walltunnel1.json" ]
+    },
+    {
+      "name" : "walltunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "walltunnel2.json" ]
+    },
+    {
+      "name" : "warriorrelaxing",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "warriorrelaxing.json" ]
+    },
+    {
+      "name" : "huntinghut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "huntinghut1.json" ]
+    },
+    {
+      "name" : "huntinghut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "huntinghut2.json" ]
+    },
+    {
+      "name" : "huntinghut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "huntinghut3.json" ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "blinkCharge" : {
+          "default" : "idle",
+          "states" : {
+            "idle" : {
+            },
+            "charge" : {
+              "cycle" : 0.5,
+              "mode" : "transition",
+              "transition" : "idle",
+              "properties" : {
+                "immediateSound" : "/sfx/melee/charge_up15.ogg"
+              }
+            }
+          }
+        }
+      }
+    },
+    "particleEmitters" : {
+      "fireCharge" : {
+        "active" : false,
+        "emissionRate" : 30,
+        "offsetRegion" : [-0.625, 0.0, 0.375, 2.5],
+        "particles" : [
+          { "particle" : "fastrisingfire1"},
+          { "particle" : "fastrisingfire2"},
+          { "particle" : "fastrisingfire3"}
+        ]
+      }
+    }
+  },
+
+  "ability" : {
+    "name" : "Blink Explosion",
+    "type" : "blinkexplosion",
+    "scripts" : ["/items/active/weapons/melee/abilities/generic/blinkexplosion/blinkexplosion.lua"],
+    "class" : "BlinkExplosion",
+
+    "energyUsage" : 120.0,
+    "cooldownTime" : 1.5,
+
+    "maxDistance" : 12,
+    "baseDamage" : 28,
+    "elementalConfig" : {
+      "fire" : {
+        "projectileType" : "fireplasmaexplosionstatus"
+      },
+      "ice" : {
+        "projectileType" : "iceplasmaexplosionstatus"
+      },
+      "poison" : {
+        "projectileType" : "poisonplasmaexplosionstatus"
+      },
+      "electric" : {
+        "projectileType" : "electricplasmaexplosionstatus"
+      }
+    },
+
+    "stances" : {
+      "charge" : {
+        "duration" : 0.3,
+        "armRotation" : 45,
+        "weaponRotation" : -45,
+        "twoHanded" : true,
+        "weaponOffset" : [0.0, 0.0],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

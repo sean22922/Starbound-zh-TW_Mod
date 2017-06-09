@@ -1,0 +1,67 @@
+{
+  "particleEmitters" : {
+    "flames" : {
+      "enabled" : true,
+      "emissionRate" : 1,
+      "particles" : [
+        {
+          "particle" : "castfire"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "dust2"
+        },
+        {
+          "particle" : "fireswoosh3"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "fireswoosh2"
+        },
+        {
+          "particle" : "dust2"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "fireswoosh2"
+        },
+        {
+          "particle" : "fireswoosh3"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "campfireflames"
+        },
+        {
+          "particle" : "fireswoosh3"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "fireswoosh2"
+        },
+        {
+          "particle" : "fireswoosh3"
+        },
+        {
+          "particle" : "fireswoosh1"
+        },
+        {
+          "particle" : "campfireflames"
+        },
+        {
+          "particle" : "fireswoosh3"
+        }
+      ]
+    }
+  }
+}

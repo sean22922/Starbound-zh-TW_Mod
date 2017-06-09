@@ -1,0 +1,16 @@
+{
+  "name" : "floranarena",
+
+  "triggers" : [
+    "quest.templateId.floranarena3"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.floranarena3",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "silverplatform", "count" : 10 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

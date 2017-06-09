@@ -1,0 +1,16 @@
+{
+  "name" : "preparefood",
+
+  "triggers" : [
+    "item.category.preparedFood"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.preparedFood",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

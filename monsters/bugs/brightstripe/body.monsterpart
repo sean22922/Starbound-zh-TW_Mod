@@ -1,0 +1,9 @@
+{
+  "name" : "brightstripe",
+  "category" : "brightstripe",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "brightstripe.png"
+  }
+}

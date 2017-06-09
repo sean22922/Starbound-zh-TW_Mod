@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "reefpod", "count" : 1 },
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "coralcreep", "count" : 1 }
+  ],
+  "output" : { "item" : "saltsalad", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "saltsalad" }
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "tarslow",
+  "blockingStat" : "tarStatusImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "tarslow.lua"
+  ],
+
+  "animationConfig" : "tarslow.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/tar.png"
+}

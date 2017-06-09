@@ -1,0 +1,23 @@
+{
+  "kind" : "catblue",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/cat/catblue.animation",
+    "looping" : true,
+    "size" : 1.0,
+    "position" : [0, 0],
+    "length" : 20,
+    "destructionAction" : "shrink",
+    "destructionTime" : 6,
+    "initialVelocity" : [-0.25, -0.25],
+    "finalVelocity" : [-0.25, -0.25],
+    "approach" : [0.65, 0.65],
+    "timeToLive" : 6,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [50.0, 50.0],
+      "finalVelocity" : [50.0, 50.0],
+      "position" : [0, 1]
+    }
+  }
+}

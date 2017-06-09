@@ -1,0 +1,9 @@
+{
+  "name" : "largedragonbody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "largedragonbody.png"
+  }
+}

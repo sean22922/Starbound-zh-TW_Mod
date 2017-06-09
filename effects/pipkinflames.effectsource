@@ -1,0 +1,29 @@
+{
+  "kind" : "pipkinflames",
+  "definition" : {
+    "duration" : 1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "burningdust", "campfireflames", "dust2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

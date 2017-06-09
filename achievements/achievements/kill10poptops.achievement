@@ -1,0 +1,16 @@
+{
+  "name" : "kill10poptops",
+
+  "triggers" : [
+    "killMonster.monsterType.poptop"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.poptop",
+      "op" : "atLeast",
+      "value" : 10
+    }
+  ]
+}

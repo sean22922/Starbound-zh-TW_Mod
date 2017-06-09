@@ -1,0 +1,70 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "animatedParts" : {
+      "parts" : {
+        "blade" : {
+          "properties" : {
+            "groundSlamPoint" : [0, 1.5]
+          }
+        }
+      }
+    },
+    "sounds" : {
+      "groundSlamJump" : [ "/sfx/melee/hammer_hit_ground3.ogg", "/sfx/melee/hammer_hit_ground4.ogg" ],
+      "groundSlamFall" : [ "/sfx/tech/tech_dash.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Ground Slam",
+    "type" : "groundslam",
+    "scripts" : ["/items/active/weapons/melee/abilities/hammer/groundslam/groundslam.lua"],
+    "class" : "GroundSlam",
+
+    "energyUsage" : 80.0,
+    "cooldownTime" : 1.0,
+
+    "damageConfig" : {
+      "damageSourceKind" : "hammer",
+      "baseDamage" : 4,
+      "knockback" : 0,
+      "timeout" : 0.6,
+      "timeoutGroup" : "alt"
+    },
+
+    "slamSpeed" : -75,
+    "maxSlamTime" : 2.0,
+    "spaceSlamTime" : 0.2,
+    "winddownTime" : 0.2,
+
+    "projectileType" : "physicalexplosionknockback",
+    "projectileParameters" : {
+      "power" : 8,
+      "onlyHitTerrain" : true
+    },
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : 45,
+        "weaponRotation" : 135,
+        "weaponOffset" : [0, 0.75],
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "slam" : {
+        "duration" : 0.25,
+        "armRotation" : -45,
+        "weaponRotation" : -135,
+        "weaponOffset" : [0, 2.25],
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "ravencritter",
+  "category" : "ravencritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

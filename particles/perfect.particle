@@ -1,0 +1,22 @@
+{
+  "kind" : "perfect",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/sparkles/perfect.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 50],
+    "fade" : 0.5,
+    "light" : [0, 63, 10],
+    "destructionAction" : "shrink",
+    "destructionTime" : 1,
+    "size" : 0.5,
+    "timeToLive" : 0.85,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [2, 2],
+      "finalVelocity" : [0, 4]
+    }
+  }
+}

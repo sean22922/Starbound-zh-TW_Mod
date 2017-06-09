@@ -1,0 +1,24 @@
+{
+  "projectileName" : "razorleaf",
+  "image" : "razorleaf.png",
+  "flippable" : true,
+  "animationCycle" : 0.35,
+  "frameNumber" : 4,
+  "timeToLive" : 1.5,
+  "emitters" : [ "poisondrip" ],
+  "damageKindImage" : "icon.png",
+  "physics" : "gas",
+  "damagePoly" : [ [-8, 0], [-5, -5], [0, -8], [5, -5], [8, 0], [5, 5], [0, 8], [-5, 5] ],
+  "damageKind" : "dagger",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "snotbubblepop",
+      "inheritDamageFactor" : 1
+    }
+  ]
+}

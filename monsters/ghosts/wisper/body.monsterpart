@@ -1,0 +1,9 @@
+{
+  "name" : "wisper",
+  "category" : "wisper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "wisper.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "electricblock",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "electricblock.lua"
+  ],
+
+  "label" : "Electric Resistance",
+  "icon" : "/interface/statuses/electricblock.png"
+}

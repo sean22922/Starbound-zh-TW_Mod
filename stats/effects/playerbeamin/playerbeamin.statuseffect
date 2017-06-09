@@ -1,0 +1,13 @@
+{
+  "name" : "playerbeamin",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "playerbeamin.lua"
+  ],
+
+  "animationConfig" : "playerbeamin.animation"
+}

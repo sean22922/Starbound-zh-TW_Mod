@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator1",
+  "prerequisites" : [],
+  "title" : "^green;Koichi's Request",
+  "text" : "I was thinking of opening a museum. Do you think Florans like things like that? I'd really like to get to know Nuru better... Anyway, I need exhibits! Could you please ^green;bring me a ^orange;Grand Avian Sarcophagus^white;? You're most likely to find one in an Avian tomb.",
+  "completionText" : "Thank you so much! This will make the perfect centerpiece for the Avian exhibit. I'm sure Nuru will very much enjoy such a stunning piece! And everybody else too, of course...",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [
+    [ [ "manipulatormodule", 1 ], [ "lightaugment2", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "sarcoavian2",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

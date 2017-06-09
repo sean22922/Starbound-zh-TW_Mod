@@ -1,0 +1,9 @@
+{
+  "name" : "quibblecritter",
+  "category" : "quibblecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "kind" : "heat",
+  "damageCooldownGroup" : "heat",
+  "damageCooldownDuration" : 0.4,
+  "damageCooldownPreGrace" : 0.0,
+  "damageCooldownMode" : "max",
+  "effects" : {
+    "organic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/projectiles/flame_burn.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/projectiles/fireball_spit.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "robotic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/projectiles/flame_burn.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_robotic1.ogg", "/sfx/melee/kill_robotic2.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "wooden" : {
+      "hit" : {
+        "sounds" : [ "/sfx/projectiles/flame_burn.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_wood1.ogg", "/sfx/melee/kill_wood2.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "stone" : {
+      "hit" : {
+        "sounds" : [ "/sfx/projectiles/flame_burn.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_stone1.ogg", "/sfx/melee/kill_stone2.ogg", "/sfx/melee/kill_stone3.ogg", "/sfx/melee/kill_stone4.ogg", "/sfx/melee/kill_stone5.ogg" ],
+        "particles" : [
+        ]
+      }
+    }
+  }
+}

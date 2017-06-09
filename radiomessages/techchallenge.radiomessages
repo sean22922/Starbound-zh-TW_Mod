@@ -1,0 +1,41 @@
+{
+  "techchallenge_doublejump1" : {
+    "type" : "mission",
+    "text" : "To use the ^orange;Pulse Jump Tech^white; ^#71f2f6;press spacebar while in the air^white;. Doing so will give you a small upwards boost."
+  },
+
+  "techchallenge_doublejump2" : {
+    "type" : "mission",
+    "text" : "Telemetry indicates that to make that jump you should ^#71f2f6;delay using ^orange;Pulse Jump^white; until you are level with the target platform's edge."
+  },
+
+  "techchallenge_dash1" : {
+    "type" : "mission",
+    "text" : "This obstacle course requires the use of the ^orange;Dash Tech^white; you have been given. To use it ^#71f2f6;double tap A or D to quickly dash left or right^white;."
+  },
+
+  "techchallenge_dash2" : {
+    "type" : "mission",
+    "text" : "These doors only open very briefly. Perhaps you should ^#71f2f6;position yourself close to the door^white; before ^#71f2f6;operating the switch and dashing through^white;."
+  },
+
+  "techchallenge_dash3" : {
+    "type" : "mission",
+    "text" : "These doors appear to be on a ^orange;very limited timer^white;. It is laudable that you intend to persevere through such frustrations."
+  },
+
+  "techchallenge_dash4" : {
+    "type" : "mission",
+    "text" : "Readings indicate these are ^orange;cryogenic blasters^white;. They are not lethal, but any contact will significantly slow your progress."
+  },
+
+  "techchallenge_morphball1" : {
+    "type" : "mission",
+    "text" : "^#71f2f6;Press F to make use of the ^orange;Distortion Sphere Tech^white; to transform in and out of a compressed form."
+  },
+
+  "techchallenge_morphball2" : {
+    "type" : "mission",
+    "text" : "It appears you will have to ^#71f2f6;activate your ^orange;Distortion Sphere ^#71f2f6;mid-jump^white; to get into this passageway."
+  }
+}

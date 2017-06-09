@@ -1,0 +1,83 @@
+{
+  "projectileName" : "poisonbarrel",
+  "physics" : "default",
+  "bounces" : -1,
+  "timeToLive" : 0.01,
+  "speed" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "poisonbarrel.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "periodicActions" : [
+    {
+      "time" : 0.01,
+      "repeat" : false,
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/poisonexplosionknockback.config"
+   },
+    {
+      "time" : 0.01,
+      "repeat" : false,
+      "action" : "config",
+      "file" : "/projectiles/explosions/bombblockexplosion/bombblockexplosion.config"
+   }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : "poisongas"
+        }
+      ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonballoon",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonballoon",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonballoon",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonballoon",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "poisonballoon",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/goocluster_pop.ogg" ]
+    }
+  ],
+  "power" : 60,
+  "piercing" : true,
+  "damageKind" : "hidden",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-5, -5], [-5, 5], [5, 5], [5, -5]  ],
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" }
+}

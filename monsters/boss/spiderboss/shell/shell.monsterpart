@@ -1,0 +1,9 @@
+{
+  "name" : "spiderboss_shell",
+  "category" : "spiderboss",
+  "type" : "shell",
+
+  "frames" : {
+    "shell" : "shell.png"
+  }
+}

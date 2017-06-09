@@ -1,0 +1,20 @@
+{
+  "projectileName" : "omnicannonbullet",
+  "image" : "omnicannonbullet.png",
+  "animationCycle" : 0.3,
+  "animationLoops" : true,
+  "lightColor" : [150, 100, 50],
+  "frameNumber" : 5,
+  "flippable" : false,
+  "fullbright" : true,
+  "renderLayer" : "Monster+1",
+  "damageKindImage" : "icon.png",
+  "physics" : "laser",
+  "emitters" : [ ],
+  "damageKind" : "slash",
+
+  "speed" : 35,
+  "timeToLive" : 4.0,
+
+  "damageRepeatTimeout" : 0.5
+}

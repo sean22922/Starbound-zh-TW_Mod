@@ -1,0 +1,9 @@
+{
+  "name" : "mandraflora",
+  "category" : "mandraflora",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mandraflora.png"
+  }
+}

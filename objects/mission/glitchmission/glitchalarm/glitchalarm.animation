@@ -1,0 +1,48 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "alarm" : {
+        "default" : "off",
+        "states" : {
+          "off" : {},
+          "on" : {
+            "frames" : 8,
+            "cycle" : 0.77,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/objects/alarmbell_loop.ogg"
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bell" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "alarm" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "off" : [ "/sfx/objects/alarmbell_stop.ogg" ]
+  }
+}

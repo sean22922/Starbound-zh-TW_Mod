@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_treasuredtrophies",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_treasuredtrophies" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_treasuredtrophies",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_treasuredtrophies.json" ]
+    }
+  ]
+}

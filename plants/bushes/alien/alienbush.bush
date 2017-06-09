@@ -1,0 +1,57 @@
+{
+  "name" : "alienbush",
+  "description" : "An alien bush.",
+  "shortdescription" : "Alien Bush",
+  "floranDescription" : "Alien plantsss.",
+  "glitchDescription" : "Statement. Alien plant.",
+  "shapes" : [
+    {
+      "base" : "alienbush1.png"
+    },
+    {
+      "base" : "alienbush2.png"
+    },
+    {
+      "base" : "alienbush3.png"
+    }
+	,
+    {
+      "base" : "alienbush4.png"
+    }
+	,
+    {
+      "base" : "alienbush5.png"
+    }
+	,
+    {
+      "base" : "alienbush6.png"
+    },
+    {
+      "base" : "alienbush7.png"
+    },
+    {
+      "base" : "alienbush8.png"
+    },
+    {
+      "base" : "alienbush9.png"
+    },
+    {
+      "base" : "alienbush10.png"
+    },
+    {
+      "base" : "alienbush11.png"
+    },
+    {
+      "base" : "alienbush12.png"
+    },
+    {
+      "base" : "alienbush13.png"
+    },
+    {
+      "base" : "alienbush14.png"
+    },
+    {
+      "base" : "alienbush15.png"
+    }
+  ]
+}

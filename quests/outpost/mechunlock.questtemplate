@@ -1,0 +1,50 @@
+{
+  "id" : "mechunlock",
+  "prerequisites" : [ "shiprepair" ],
+  "title" : "^orange;Test Drive",
+  "text" : "Hey there, friendo! I'm ^orange;Dr. Akaggy^white;, and I deal in robots! So I have this experimental ^green;modular space mech^white; in need of a test drive and my usual pilots are... Indisposed. Could you do me a favor and ^green;fly it through my test course^white;? \n\nJust ^green;talk to me when you're ready to go^white;!",
+  "completionText" : "You made it back! That's not surprise in my voice, it's elation! As a reward, I can give you enough ^green;spare mech components^white; for you to deploy your own mech for space travel! Head over to that ^orange;mech assembly station^white; to customise it!",
+  "moneyRange" : [100, 100],
+  "rewards" : [],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange;test course^reset;",
+      "findGoal" : "Complete the ^orange;mech test course^reset;",
+      "turnIn" : "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "outpostpenguinscientist",
+    "warpAction" : ["instanceworld:mechtestbasic", "deploy", true],
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:mechunlock",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 10,
+    "goalEntityUid" : "mechtestbasicteleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "outpostpenguinscientist",
+
+    // Completion actions
+    "completionPlayerMessages" : [
+      {
+        "messageType" : "unlockMech",
+        "messageArgs" : []
+      }
+    ]
+  }
+}

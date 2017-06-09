@@ -1,0 +1,9 @@
+{
+  "name" : "bonebirdbody",
+  "category" : "bonebird_parts",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bonebirdbody.png"
+  }
+}

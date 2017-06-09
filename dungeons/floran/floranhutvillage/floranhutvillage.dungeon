@@ -1,0 +1,253 @@
+{
+  "metadata" : {
+    "name" : "floranhutvillage",
+    "species" : "floran",
+    "rules" : [
+    ],
+    "anchor" : [ "floranflat2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "floranhut2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut2" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut2.json" ]
+    },
+    {
+      "name" : "floranhut3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut3" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut3.json" ]
+    },
+    {
+      "name" : "floranhut4",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut4" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut4.json" ]
+    },
+    {
+      "name" : "floranhut5",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut5" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut5.json" ]
+    },
+    {
+      "name" : "floranhut5clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranhut5clue" ] ],
+        [ "doNotCombineWith", [ "floranhut5", "floranflat1clue", "floranhut6clue", "floranhut12clue", "floranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "floranhut5clue.json" ]
+    },
+    {
+      "name" : "floranhut6",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut6" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut6.json" ]
+    },
+    {
+      "name" : "floranhut6clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranhut6clue" ] ],
+        [ "doNotCombineWith", [ "floranhut6", "floranflat1clue", "floranhut5clue", "floranhut12clue", "floranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "floranhut6clue.json" ]
+    },
+    {
+      "name" : "floranhut7",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut7" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut7.json" ]
+    },
+    {
+      "name" : "floranhut8",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut8" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut8.json" ]
+    },
+    {
+      "name" : "floranhut9",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut9" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut9.json" ]
+    },
+    {
+      "name" : "floranhut10",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut10" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut10.json" ]
+    },
+    {
+      "name" : "floranhut11",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut11" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut11.json" ]
+    },
+    {
+      "name" : "floranhut12",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut12" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut12.json" ]
+    },
+    {
+      "name" : "floranhut12clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranhut12clue" ] ],
+        [ "doNotCombineWith", [ "floranhut12", "floranflat1clue", "floranhut5clue", "floranhut6clue", "floranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "floranhut12clue.json" ]
+    },
+    {
+      "name" : "floranhut13",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "floranhut13" ] ]
+
+      ],
+      "def" : [ "tmx", "floranhut13.json" ]
+    },
+    {
+      "name" : "floranhut13clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranhut13clue" ] ],
+        [ "doNotCombineWith", [ "floranhut13", "floranflat1clue", "floranhut5clue", "floranhut6clue", "floranhut12clue"] ]
+
+      ],
+      "def" : [ "tmx", "floranhut13clue.json" ]
+    },
+    {
+      "name" : "floranburriedhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut1" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut1.json" ]
+    },
+    {
+      "name" : "floranburriedhut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut2" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut2.json" ]
+    },
+    {
+      "name" : "floranburriedhut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranburriedhut3" ] ]
+
+      ],
+      "def" : [ "tmx", "floranburriedhut3.json" ]
+    },
+    {
+      "name" : "floranflat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranflat1" ] ]
+
+      ],
+      "def" : [ "tmx", "floranflat1.json" ]
+    },
+     {
+      "name" : "floranflat1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranflat1clue" ] ],
+        [ "doNotCombineWith", [ "floranflat1", "floranhut5clue", "floranhut6clue", "floranhut12clue", "floranhut13clue"] ]
+
+      ],
+      "def" : [ "tmx", "floranflat1clue.json" ]
+    },
+    {
+      "name" : "floranflat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "floranflat2" ] ]
+
+      ],
+      "def" : [ "tmx", "floranflat2.json" ]
+    },
+    {
+      "name" : "floranhutvillageendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "floranhutvillageendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "floranhutvillageendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "floranhutvillageendright1.json" ] ],
+      "chance" : 0
+    },
+    {
+      "name" : "floranhutvillageendhillleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "floranhutvillageendhillleft1.json" ] ],
+      "chance" : 0
+    },
+    {
+      "name" : "floranhutvillageendhillright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "floranhutvillageendhillright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

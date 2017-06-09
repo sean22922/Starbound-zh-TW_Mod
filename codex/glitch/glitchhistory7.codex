@@ -1,0 +1,21 @@
+{
+  "id" : "glitchhistory7",
+  "species" : "glitch",
+  "title" : "Filling Up the Tank",
+  "description" : "An observation on Glitch diet by Hylotl Dr. K. Sakana.",
+  "icon" : "glitchcover6.png",
+  "contentPages" : [
+  "The Glitch do eat. They eat just as we do. Though, unsurprisingly, their process of digestion differs greatly.
+
+When the Glitch eat, food  is collected in the body and broken down by bacteria. As the food ferments, methane gas is released and collected.
+
+The methane is then burnt, and the heat created used to power a gas turbine. As such, each Glitch has his or her own internal combustion engine.",
+
+"Of course, not every scrap of food breaks down, but what's left makes a very fine compost. These leftovers are... 'expelled' from the body."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

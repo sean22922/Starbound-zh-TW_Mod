@@ -1,0 +1,15 @@
+{
+  "name" : "stun",
+  "blockingStat" : "stunImmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 1.5,
+
+  "scripts" : [
+    "stun.lua"
+  ],
+
+  "animationConfig" : "stun.animation",
+
+  "label" : "Slow",
+  "icon" : "/interface/statuses/slow.png"
+}

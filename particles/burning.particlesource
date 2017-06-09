@@ -1,0 +1,16 @@
+{
+  "kind" : "burningtest",
+  "definition" : {
+    "duration" : 0.2,
+    "loops" : true,
+    "initialParticles" : [
+      [ "burnedmessage" ]
+    ],
+    "particles" : [
+      [ "burningdust" ]
+    ],
+    "finalParticles" : [
+      [ "burningdust2", "burningdust2", "burningdust2", "burningdust2" ]
+    ]
+  }
+}

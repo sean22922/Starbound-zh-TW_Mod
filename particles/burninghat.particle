@@ -1,0 +1,24 @@
+{
+  "kind" : "burninghat",
+  "definition" : {
+    "type" : "animated",
+    "looping" : true,
+    "animation" : "/animations/statuseffects/burning/burning.animation",
+    "position" : [0, 1.5],
+    "finalVelocity" : [0, 3],
+    "approach" : [0, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.85,
+    "light" : [85, 49, 8],
+    "fullbright" : true,
+    "fade" : 1,
+    "size" : 0.5,
+    "layer" : "back",
+    "timeToLive" : 0.85,
+    "collidesLiquid" : true,
+    "variance" : {
+      "initialVelocity" : [2.0, 2.0],
+      "position" : [0.1, 0.2]
+    }
+  }
+}

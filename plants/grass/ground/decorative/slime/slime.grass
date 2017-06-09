@@ -1,0 +1,8 @@
+{
+  "name" : "slime",
+  "description" : "Gross, sticky slime.",
+  "shortdescription" : "Sticky slime.",
+  "floranDescription" : "Sssticky.",
+  "glitchDescription" : "Statement. Useful slime.",
+  "images" : [ "slime1.png", "slime2.png", "slime3.png", "slime4.png", "slime5.png" ]
+}

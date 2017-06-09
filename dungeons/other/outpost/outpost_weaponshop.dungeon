@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_weaponshop",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_weaponshop" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_weaponshop",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_weaponshop.json" ]
+    }
+  ]
+}

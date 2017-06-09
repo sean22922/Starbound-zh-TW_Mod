@@ -1,0 +1,9 @@
+{
+  "name" : "kluexbosslava",
+  "category" : "kluexboss",
+  "type" : "lavaplume",
+
+  "frames" : {
+    "lavaplume" : "lavaplume.png"
+  }
+}

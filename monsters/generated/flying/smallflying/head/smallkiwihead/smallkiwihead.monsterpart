@@ -1,0 +1,9 @@
+{
+  "name" : "smallkiwihead",
+  "category" : "smallflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallkiwihead.png"
+  }
+}

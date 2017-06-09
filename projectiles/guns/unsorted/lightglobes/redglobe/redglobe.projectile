@@ -1,0 +1,22 @@
+{
+  "projectileName" : "redglobe",
+  "physics" : "hover",
+  "bounces" : -1,
+  "speed" : 25,
+  "timeToLive" : 8,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [255, 10, 10],
+  "image" : "redglobe.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 2,
+  "power" : 3,
+  "damagePoly" : [ [-5, 5], [-5, -5], [5, -5], [5, 5] ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/redglobeexplosion/redglobeexplosion.config"
+    }
+  ],
+  "damageKind" : "plasma"
+}

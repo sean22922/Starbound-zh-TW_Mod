@@ -1,0 +1,17 @@
+{
+  "id" : "hylotlhistory1",
+  "species" : "hylotl",
+  "title" : "A Culture of Beauty",
+  "description" : "A Hylotl scholar's writings on the topic of beauty.",
+  "icon" : "hylotlcover2.png",
+  "contentPages" : [
+    "When discussing beauty one must first understand how closely Hylotl biology is bound to our culture of creativity. We are three-eyed beings of acute perception. Our trinocular vision imbues us with superior sensitivity to light and shadow, as a species we are capable of perceiving artistry beyond the grasp of other sentient beings. From our very genesis we were blessed to perceive beauty other races lack the capacity to envisage, and to share this sight is our gift unto them.",
+
+	"Sadly, these creations: our glorious art, our intricate architecture, our hauntingly beautiful poetry, fall upon deaf ears and blind eyes. Only we, the Hylotl, possess the innate ability to understand true beauty, and so that which we sire is born into a barren cosmos."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

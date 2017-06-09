@@ -1,0 +1,25 @@
+{
+  "id" : "apexmission1",
+  "species" : "apex",
+  "title" : "Miniknog R&D Report",
+  "description" : "The report from research and development test performed by the Miniknog.",
+  "icon" : "apexmission1.png",
+  "contentPages" : [
+    "The newest iteration of the Big Ape Projection and Ballistic Implementation System is proving highly effective. So far all test subjects have been nullified.
+
+There is still debate amongst the Research and Development team as to the benefits of limiting lethality in the system.
+
+Previous iterations have left some subjects alive, and the experiences of these survivors has had a huge impact upon their psyche.",
+
+"Their resultant terror of \"Big Ape\" has inspired levels of loyalty to the figure that are previously unheard of. Proponents for adjustment point out that nurturing this aspect of the system could be beneficial to ongoing promotion of the Big Ape construct.
+
+This school of thought is gaining momentum, and it is likely that changes will soon be implemented to purposefully allow some limited potential for the survival of test subjects.",
+
+"Notwithstanding this, there has been much celebration within the department as a result of realising a 100% fatality rate using the current version of the system."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

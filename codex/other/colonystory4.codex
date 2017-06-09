@@ -1,0 +1,20 @@
+{
+  "id" : "colonystory4",
+  "title" : "How I Became A Landlord 4",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "For a Floran, Ambiri seems to like water a great deal. He's always opening the doors when it's raining and running outside. 
+
+Yesterday I came home to a flood in the basement where Ambiri had decided to dry off next to my furnace after getting particularly soaked. Good job I reinforced the walls with tomb stone bricks. 
+
+Maybe he would appreciate a fish tank?"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

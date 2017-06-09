@@ -1,0 +1,9 @@
+{
+  "name" : "scandroid",
+  "category" : "scandroid",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "scandroid.png"
+  }
+}

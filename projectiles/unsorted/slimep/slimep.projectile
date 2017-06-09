@@ -1,0 +1,9 @@
+{
+  "projectileName" : "slimep",
+  "physics" : "grenade",
+  "image" : "slimep.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 11,
+
+  "onlyHitTerrain" : true
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "rustflower",
+  "description" : "A sharp, metallic flower.",
+  "shortdescription" : "A metallic flower.",
+  "floranDescription" : "Sssharp hard flower.",
+  "glitchDescription" : "Statement. A metallic flower.",
+  "images" : [ "rustflower1.png", "rustflower2.png", "rustflower3.png", "rustflower4.png", "rustflower5.png" ]
+}

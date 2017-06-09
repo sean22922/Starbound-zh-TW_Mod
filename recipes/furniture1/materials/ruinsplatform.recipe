@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 1 },
+    { "item" : "plantfibre", "count" : 5 }
+  ],
+  "output" : { "item" : "ruinsplatform", "count" : 10 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

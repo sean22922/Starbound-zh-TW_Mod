@@ -1,0 +1,21 @@
+{
+  "kind" : "brand1",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/particles/brands/1.png",
+              "size" : 0.5,
+              "fade" : 0.9,
+              "light" : [ 149, 132, 37],
+              "fullbright" : true,
+              "initialVelocity" : [0, 0],
+              "finalVelocity" : [0, 0],
+              "approach" : [30, 30],
+              "timeToLive" : 6,
+              "destructionAction" : "shrink",
+              "destructionTime" : 0.5,
+              "layer" : "back",
+              "variance" : {
+                "finalVelocity" : [10, 10]
+              }
+  }
+}

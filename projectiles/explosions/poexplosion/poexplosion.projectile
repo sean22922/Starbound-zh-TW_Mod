@@ -1,0 +1,12 @@
+{
+  "projectileName" : "poexplosion",
+  "image" : "poexplosion.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 5,
+  "speed" : 0,
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageKind" : "tarball"
+}

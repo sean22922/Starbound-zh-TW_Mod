@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "diamond", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "teleportercore",
+    "count" : 1
+  },
+  "groups" : [ "teleshop" ]
+}

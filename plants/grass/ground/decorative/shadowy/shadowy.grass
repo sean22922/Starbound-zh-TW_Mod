@@ -1,0 +1,8 @@
+{
+  "name" : "shadowy",
+  "description" : "A mysterious flower.",
+  "shortdescription" : "A mysterious flower.",
+  "floranDescription" : "Weird.",
+  "glitchDescription" : "Statement. A mysterious flower.",
+  "images" : [ "shadowy1.png", "shadowy2.png", "shadowy3.png", "shadowy4.png", "shadowy5.png" ]
+}

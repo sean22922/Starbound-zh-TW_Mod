@@ -1,0 +1,115 @@
+{
+  "id" : "request_craft.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Friendly Friend"
+      }
+    },
+    "item" : {
+      "type" : "item",
+      "example" : {
+        "item" : "woodendoor"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/collect_gift.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "text" : {
+        "first" : {
+          "floran" : [
+            "To start with there's sssomething Floran needs from <target>, <target.pronoun.subject> shouldn't mind. ^green;Go ask ^orange;<target> ^green;to craft Floran one ^orange;<item>.",
+            "Floran knowsss that ^orange;<target> can make what we need. ^green;Go get one ^orange;<item> ^white;from <target.pronoun.object>."
+          ],
+          "glitch" : [
+            "Restless. ^green;I need you to pay a visit^white; to ^orange;<target>^white;. The ^orange;<item>^white; <target.pronoun.subject> promised to craft for me should be ready.",
+            "Sullen. My friend ^orange;<target>^white; said <target.pronoun.subject> would help make the ^orange;<item>^white; I need, but <target.pronoun.subject> has not shown up.  ^green;Would you go to <target.pronoun.object> and ask <target.pronoun.object> for it?"
+          ],
+          "default" : [
+            "First, I need you to grab something for me. ^orange;<target>^white; knows how to make the best ^orange;<item>^white; in the star system, ^green;head over and ask for one.^white; We'll need it later.",
+            "The first thing I'll need is one ^orange;<item>. <target>^white; is good at making them, so we'll ^green;ask <target.pronoun.object> to make one^white; specifically for us."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Floran needs your help to retrieve something sspecial from ^orange;<target>. ^green;You should go and ask for one ^orange;<item>. ^white;<target.pronoun.capitalSubject>'ll make it for us.",
+            "Now, Floran needs to asssk you to ^green;get one ^orange;<item>. ^white;Floran is ssure ^orange;<target> ^green;can make one. "
+          ],
+          "glitch" : [
+            "Hopeful.  ^green;If you speak to ^orange;<target>^white; <target.pronoun.subject> should give you the ^orange;<item>^white; <target.pronoun.subject> is making for me.",
+            "Morose. ^orange;<target>^white; knows how to make ^orange;<item>s^white; better than I do. ^green;Please ask <target.pronoun.object> to make one for me."
+          ],
+          "default" : [
+            "The next thing I need is one ^orange;<item>. <target>^white; can make just about anything, ^green;ask <target.pronoun.object> to put it together.",
+            "Next, run over and have ^orange;<target>^white; assemble us a custom ^orange;<item>.^white; Just ^green;mention my name, <target> knows how I like them made."
+          ]
+        }
+      },
+      "completionText" : {
+        "last" : {
+          "floran" : [
+            "Yes! Isn't <target> the best? This <item> will be so useful in the next ssstage of our plan.",
+            "You got the <item>! Thisss is a good day for!"
+          ],
+          "glitch" : [
+            "Pleased. Well done; <target> is generally friendly towards me, but not always so generous. Thank you for your help.",
+            "Joyous. Great, you got the <item>! Now we need to put it to use as part of my grand plan!"
+          ],
+          "default" : [
+            "Nice one, I knew <target> would come up trumps. That's one thing off the list...",
+            "I've never seen anyone make any <item> as fine as <target> does. This is going to be perfect for what I've got planned."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Excellent, thiss <item> is perfect.",
+            "Floran knew you could do it. With thisss <item> we are well prepared."
+          ],
+          "glitch" : [
+            "Disappointed. Oh, the quality of this <item> is not what I had expected. I suppose it will have to do.",
+            "Tentitive. <target.pronoun.capitalSubject> really made this for me? I can really keep this? Wow!"
+          ],
+          "default" : [
+            "Thanks! <target> makes them just right, I couldn't just get any old <item> for what I've got in mind.",
+            "No one makes them like <target>! That's one more thing sorted. Thank you!"
+          ]
+        }
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+    "requestGiftNotification" : "requestCraftedGift",
+    "giftReceivedEventName" : "craftedGiftProvided",
+
+    "objectives" : [
+      {
+        "id" : "collect",
+        "text" : "Acquire <item> from <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

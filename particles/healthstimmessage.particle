@@ -1,0 +1,19 @@
+{
+  "kind" : "healthstimmessage",
+  "definition" : {
+    "type" : "text",
+    "position" : [0, -3],
+    "size" : 0.85,
+    "text" : "^shadow;Regeneration",
+    "color" : [228, 25, 25, 255],
+    "light" : [0, 0, 0],
+    "initialVelocity" : [0.0, -10.0],
+    "finalVelocity" : [0.0, 0.0],
+    "approach" : [5, 70],
+    "timeToLive" : 1.0,
+    "layer" : "front",
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.5,
+    "flippable" : false
+  }
+}

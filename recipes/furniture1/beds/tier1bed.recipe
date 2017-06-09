@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : { "item" : "tier1bed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

@@ -1,0 +1,15 @@
+{
+  "projectileName" : "tankmuzzleflash",
+  "image" : "tankmuzzleflash.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 10,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 1.0,
+  "onlyHitTerrain" : true,
+  "renderLayer" : "Monster+11",
+  "power" : 0.0,
+  "speed" : 0,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

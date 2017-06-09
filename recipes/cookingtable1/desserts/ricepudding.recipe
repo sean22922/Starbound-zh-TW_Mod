@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "rice", "count" : 1 },
+    { "item" : "milk", "count" : 1 }
+  ],
+  "output" : { "item" : "ricepudding", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "ricepudding" }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "knight",
+  "category" : "glitchknight",
+  "type" : "knight",
+
+  "frames" : {
+    "knight" : "knight.png"
+  }
+}

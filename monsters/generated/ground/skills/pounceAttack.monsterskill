@@ -1,0 +1,31 @@
+{
+  "name" : "pounceAttack",
+  "label" : "BODY SLAM",
+  "image" : "/monsters/generated/flying/skills/default.png",
+
+  "config" : {
+    "hostileActions" : [
+      {
+        "name" : "action-leap", 
+        "cooldown" : 3.0,
+        "parameters" : {
+          "skillName" : "pounceAttack",
+
+          "minimumRange" : 5,
+          "maximumRange" : 20,
+          "windupTime" : 0.5,
+          "windupState" : "chargewindup",
+
+          "leapVelocity" : 35,
+          "collisionCheck" : true,
+          "highArc" : true,
+          "leapState" : "jump",
+          "fallState" : "",
+
+          "winddownTime" : 0.5,
+          "winddownState" : "idle"
+        }
+      }
+    ]
+  }
+}

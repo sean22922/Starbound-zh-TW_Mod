@@ -1,0 +1,23 @@
+{
+  "projectileName" : "chakram",
+  "image" : "chakram.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 8,
+  "damageKindImage" : "icon.png",
+  "flippable" : false,
+  "orientationLocked" : true,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 5.0,
+  "speed" : 40,
+  "damageKind" : "dagger",
+  "physics" : "laser",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 5,
+
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "chakramprojectile.lua" ]
+}

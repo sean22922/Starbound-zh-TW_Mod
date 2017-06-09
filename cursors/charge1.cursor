@@ -1,0 +1,10 @@
+{
+  "offset" : [10, 10],
+  "animation" : {
+    "frames" : "/cursors/chargingcursor.png:charging1.<index>",
+    "frameNumber" : 8,
+    "animationCycle" : 0.5,
+    "centered" : false,
+    "mode" : "loopforever"
+  }
+}

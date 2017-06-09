@@ -1,0 +1,9 @@
+{
+  "name" : "ignome",
+  "category" : "ignome",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ignome.png"
+  }
+}

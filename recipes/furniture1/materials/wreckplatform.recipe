@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "liquidwater", "count" : 10 }
+  ],
+  "output" : { "item" : "wreckplatform", "count" : 10 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

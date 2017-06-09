@@ -1,0 +1,37 @@
+{
+  "id" : "vaultkey",
+  "mainQuest" : true,
+  "prerequisites" : [ "destroyruin" ],
+  "title" : "^orange;The Final Frontier",
+  "text" : "The winds whisper of what you have done - you have ventured far, young one. But there are still doors you have yet to open. ^green;I can trade ^orange;keys^green; with you^white;, if you wish to ^green;open the ^orange;Ancient Gates^green; scattered among the stars^white;.",
+  "completionText" : "I've arrived at an ^orange;Ancient Vault^white;! I wonder what secrets these ruins hide? I think I should take a look around...",
+  "moneyRange" : [1000, 1000],
+  "ephemeral" : true,
+  "rewards" : [],
+
+  "updateDelta" : 20,
+  "script" : "/quests/scripts/outpost/vaultkey.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/quests/outpost/mysterioustraderportrait.png"} ],
+        "title" : "The Trader"
+      },
+      "questComplete" : {
+        "default" : "player"
+      }
+    },
+
+    "objectiveLists" : {
+      "obtainKey" : [["Acquire a ^orange;Vault Key^reset; from the mysterious trader", false]],
+      "enterVault" : [["Acquire a Vault Key from the mysterious trader", true], ["Enter a lone ^orange;Ancient Gateway^reset;", false]]
+    },
+
+    "targetWorlds" : [
+      "ancientvault_electric",
+      "ancientvault_poison",
+      "ancientvault_ice",
+      "ancientvault_fire"
+    ]
+  }
+}

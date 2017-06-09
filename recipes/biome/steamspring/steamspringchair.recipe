@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "heavypipe", "count" : 10 },
+    { "item" : "darkwoodmaterial", "count" : 15 },
+    { "item" : "leather", "count" : 2 }
+  ],
+  "output" : { "item" : "steamspringchair", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

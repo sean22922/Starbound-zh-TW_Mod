@@ -1,0 +1,19 @@
+{
+  "id" : "humanhistory5",
+  "species" : "human",
+  "title" : "Earth's Emergency Broadcast",
+  "description" : "The desperate last message sent from Earth as disaster struck.",
+  "icon" : "humancover6.png",
+  "contentPages" : [
+  "S.O.S. - SAVE OUR SPECIES  //
+EARTH IS UNDER ATTACK FROM AN UNIDENTIFIED ORGANISM. DESTRUCTION IS IMMINENT  //
+EVACUATION IS IMPOSSIBLE WITH NO MAJOR SETTLEMENTS OFF-PLANET  //
+IF YOU ARE A HUMAN RECEIVING THIS BROADCAST, WE ARE NOW AN ENDANGERED SPECIES  //
+THE FUTURE OF THE TERRENE PROTECTORATE IS IN YOUR HANDS  //"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

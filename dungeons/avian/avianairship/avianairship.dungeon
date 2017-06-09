@@ -1,0 +1,67 @@
+{
+  "metadata" : {
+    "name" : "avianairship",
+    "species" : "avian",
+    "rules" : [
+    ],
+    "anchor" : [ "avianairshipclue1", "avianairshipclue2", "avianairshipclue3", "avianairshipclue4" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "avianairship",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "avianairship" ] ],
+        [ "doNotCombineWith", [ "avianairshipclue1", "avianairshipclue2", "avianairshipclue3", "avianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "avianairship.json" ]
+    },
+    {
+      "name" : "avianairshipclue1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "avianairshipclue1" ] ],
+        [ "doNotCombineWith", [ "avianairship", "avianairshipclue2", "avianairshipclue3", "avianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "avianairshipclue1.json" ]
+    },
+    {
+      "name" : "avianairshipclue2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "avianairshipclue2" ] ],
+        [ "doNotCombineWith", [ "avianairshipclue1", "avianairship", "avianairshipclue3", "avianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "avianairshipclue2.json" ]
+    },
+    {
+      "name" : "avianairshipclue3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "avianairshipclue3" ] ],
+        [ "doNotCombineWith", [ "avianairshipclue1", "avianairshipclue2", "avianairship", "avianairshipclue4" ] ]
+
+      ],
+      "def" : [ "tmx", "avianairshipclue3.json" ]
+    },
+    {
+      "name" : "avianairshipclue4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "avianairshipclue4" ] ],
+        [ "doNotCombineWith", [ "avianairshipclue1", "avianairshipclue2", "avianairshipclue3", "avianairship" ] ]
+
+      ],
+      "def" : [ "tmx", "avianairshipclue4.json" ]
+    }
+  ]
+}

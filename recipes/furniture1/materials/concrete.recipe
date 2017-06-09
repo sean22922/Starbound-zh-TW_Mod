@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "clay", "count" : 1 },
+    { "item" : "sand2", "count" : 1 },
+    { "item" : "liquidwater", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "concretematerial",
+    "count" : 20
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

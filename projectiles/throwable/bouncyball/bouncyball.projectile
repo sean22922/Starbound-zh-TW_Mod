@@ -1,0 +1,23 @@
+{
+  "projectileName" : "bouncyball",
+  "speed" : 180,
+  "bounces" : -1,
+  "timeToLive" : 30,
+  "physics" : "bouncyball",
+  "image" : "bouncyball.png",
+  "frameNumber" : 1,
+  "windupFrames" : 1,
+  "animationCycle" : 0.2,
+  "intangibleWindup" : true,
+
+  "damageKind" : "snowball",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "clientEntityMode" : "ClientSlaveOnly",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "bouncyball"
+    }
+  ],
+  "damagePoly" : [ [-7.5, 0], [-5, -5], [0, -7.5], [5, -5], [7.5, 0], [5, 5], [0, 7.5], [-5, 5] ]
+}

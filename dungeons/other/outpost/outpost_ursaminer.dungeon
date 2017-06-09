@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_ursaminer",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_ursaminer" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_ursaminer",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_ursaminer.json" ]
+    }
+  ]
+}

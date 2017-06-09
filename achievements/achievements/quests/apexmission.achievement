@@ -1,0 +1,16 @@
+{
+  "name" : "apexmission",
+
+  "triggers" : [
+    "quest.templateId.apex_mission2"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.apex_mission2",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

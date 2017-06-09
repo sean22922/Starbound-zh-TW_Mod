@@ -1,0 +1,9 @@
+{
+  "name" : "eyefriendcritter",
+  "category" : "eyefriendcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

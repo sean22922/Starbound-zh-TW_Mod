@@ -1,0 +1,11 @@
+{
+  "name" : "head9",
+  "category" : "moontant",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "head9.png"
+  },
+
+  "parameters" : { }
+}

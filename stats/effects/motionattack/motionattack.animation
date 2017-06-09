@@ -1,0 +1,14 @@
+{
+  "particleEmitters" : {
+    "motionattack" : {
+      "enabled" : true,
+      "emissionRate" : 30,
+      "particles" : [
+        {
+          "particle" : "rocketsmoke"
+        }
+
+      ]
+    }
+  }
+}

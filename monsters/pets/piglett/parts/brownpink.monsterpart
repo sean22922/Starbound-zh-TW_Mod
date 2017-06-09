@@ -1,0 +1,9 @@
+{
+  "name" : "brownpink",
+  "category" : "piglett",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "brownpink.png"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name" : "tarbulb",
+  "description" : "A glob of tar.",
+  "shortdescription" : "A glob of tar.",
+  "floranDescription" : "Sssticky tar.",
+  "glitchDescription" : "Statement. A glob of tar.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

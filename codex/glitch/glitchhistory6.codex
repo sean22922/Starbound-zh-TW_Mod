@@ -1,0 +1,27 @@
+{
+  "id" : "glitchhistory6",
+  "species" : "glitch",
+  "title" : "Medicine Amongst the Glitch",
+  "description" : "An observation on Glitch medical practices by Hylotl Dr. K. Sakana.",
+  "icon" : "glitchcover6.png",
+  "contentPages" : [
+  "Glitch doctors function something like mechanics, although they are unable to draw this comparison themselves.
+
+If you were to go to a skilled Glitch surgeon and ask him to mend a damaged vehicle, he would look at you in complete perplexity, despite the fact that (unrecognisably to him) he would be entirely capable of doing so.",
+
+"Interestingly, some elements of their systems - computational aspects especially - are beyond their capabilities to fix, in the same way parts of our own complex biology defeat us.
+
+However, what I find most fascinating is that Glitch use bandages, salves and tinctures in their medicine!
+
+This seems to be an innate part of their programming, even self aware Glitch hold by these practices.",
+
+"Most intriguingly of all, these treatments are effective! Glitch that don't use such items when 'needed' become sickly, and even die in the same cases when similarly afflicted biological beings would.
+
+It is a profound and inescapable placebo effect, brought about by their programming."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

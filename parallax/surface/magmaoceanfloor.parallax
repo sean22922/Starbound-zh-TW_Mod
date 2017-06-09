@@ -1,0 +1,139 @@
+{
+  "layers" : [
+    {
+      "kind" : "divider/blackrock",
+      "offset" : [0, 300],
+      "nohueshift" : true,
+      "lightMapped" : true,
+      "parallax" : 1.199
+    },
+    {
+      "kind" : "tile/magmarock",
+      "nohueshift" : true,
+      "lightMapped" : true,
+      "repeatY" : true,
+      "tileLimitTop" : 225,
+      "parallax" : 1.2
+    },
+
+    {
+      "kind" : "tile/lava",
+      "parallax" : 20,
+      "repeatY" : true,
+      "nohueshift" : true
+    },
+
+    {
+      "kind" : "arcticoceanfloorbelow1",
+      "offset" : [0, 190],
+      "parallax" : [1.8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloorbelow2",
+      "offset" : [0, 190],
+      "parallax" : [1.8001, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloorbelow3",
+      "offset" : [0, 190],
+      "parallax" : [1.8002, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloorbelow3",
+      "offset" : [0, 330],
+      "parallax" : [1.8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor1",
+      "offset" : [0, 50],
+      "parallax" : [1.8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor1",
+      "offset" : [0, 50],
+      "parallax" : [1.8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor2",
+      "offset" : [0, 50],
+      "parallax" : [2, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor3",
+      "offset" : [0, 50],
+      "parallax" : [3, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor4",
+      "offset" : [0, 50],
+      "parallax" : [4, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor5",
+      "offset" : [0, 50],
+      "parallax" : [5, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor6",
+      "offset" : [0, 50],
+      "parallax" : [6, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor7",
+      "offset" : [0, 50],
+      "parallax" : [7, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor8",
+      "offset" : [0, 50],
+      "parallax" : [8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "arcticoceanfloor9",
+      "offset" : [0, 50],
+      "parallax" : [8, 2],
+      "directives" : "hueshift=-165",
+      "nohueshift" : true,
+      "unlit" : true
+    }
+  ]
+}

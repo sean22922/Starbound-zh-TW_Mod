@@ -1,0 +1,8 @@
+{
+  "name" : "savannahgrass",
+  "description" : "Dry, brittle grass.",
+  "shortdescription" : "Dry grass.",
+  "floranDescription" : "Dead grass.",
+  "glitchDescription" : "Statement. Dry grass.",
+  "images" : [ "grassmod3.png", "grassmod4.png", "grassmod5.png", "grassmod6.png", "grassmod7.png" ]
+}

@@ -1,0 +1,56 @@
+{
+  "type" : "seedmerchant",
+  "baseType" : "merchant",
+
+  "scriptConfig" : {
+    "questGenerator" : { "pools" : [], "enableParticipation" : false },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "override" : [ "giantflowermerchant" ]
+      },
+      "buyFactorRange" : [ 0.7, 0.9 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 7,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Seed Merchant",
+          "subtitle" : "  Sells seeds for farming!"
+        }
+      }
+    },
+
+    "dialog" : {
+      "merchant" : {
+        "start" : {
+          "floran" : {
+            "default" : [
+              "Floran makesss plantsss grow in ssspace. Floran not have many cussstomers."
+            ]
+          }
+        },
+        "end" : {
+          "floran" : {
+            "default" : [
+              "Have fun in ssspace!"
+            ]
+          }
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ "wildfunguschest" ],
+            "back" : [ "survivalgearback" ],
+            "legs" : [ "wildfunguspants" ]
+          }
+        ] ]
+    ]
+  }
+}

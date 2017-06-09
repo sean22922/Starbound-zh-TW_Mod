@@ -1,0 +1,30 @@
+{
+  "kind" : "poisonthrowertrail",
+  "definition" : {
+    "duration" : 0.12,
+    "durationVariance" : 0.08,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisonswoosh1", "poisondust" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

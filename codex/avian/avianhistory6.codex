@@ -1,0 +1,14 @@
+{
+  "id" : "avianhistory6",
+  "species" : "avian",
+  "title" : "Our Lost Wings",
+  "description" : "A think piece from the grounded Avian newspaper The Morning Chorus.",
+  "icon" : "aviancover8.png",
+  "contentPages" : [
+    "Avians of the Kluex faith hold a peculiar religious belief that our kind once had wings capable of flight, much like non-sentient birds. It is a curious thought, one likely born of idealism rather than historical fact. From a biological standpoint, it is not unthinkable that our arms could have evolved from the wings of our ancestors, but not without the passage of a million or more years. It is a curious thought indeed."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

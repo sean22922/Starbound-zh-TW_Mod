@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fullwood1",
+    "count" : 10
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

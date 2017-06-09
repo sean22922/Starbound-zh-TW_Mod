@@ -1,0 +1,10 @@
+{
+  "name" : "poisonbody",
+  "category" : "poisonrangedminion",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "poisonbody.png",
+    "bodyfullbright" : "poisonbodyfullbright.png"
+  }
+}

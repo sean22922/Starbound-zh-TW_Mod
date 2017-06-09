@@ -1,0 +1,10 @@
+{
+  "name" : "ballisticapplier",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "ballisticapplier.lua"
+  ]
+}

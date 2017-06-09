@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "leather", "count" : 5 },
+    { "item" : "blackdye", "count" : 1 }
+  ],
+  "output" : { "item" : "tier4chair", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

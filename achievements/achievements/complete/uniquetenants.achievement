@@ -1,0 +1,16 @@
+{
+  "name" : "uniquetenants",
+
+  "triggers" : [
+    "tenantTypes"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "tenantTypes",
+      "op" : "sizeAtLeast",
+      "value" : 10
+    }
+  ]
+}

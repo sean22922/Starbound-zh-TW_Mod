@@ -1,0 +1,9 @@
+{
+  "name" : "pteropod",
+  "category" : "pteropod",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pteropod.png"
+  }
+}

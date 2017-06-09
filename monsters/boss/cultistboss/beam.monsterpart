@@ -1,0 +1,9 @@
+{
+  "name" : "cultistboss",
+  "category" : "cultistboss",
+  "type" : "beam",
+
+  "frames" : {
+    "beam" : "beam.png"
+  }
+}

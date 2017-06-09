@@ -1,0 +1,50 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "displayedState" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "displayed" : {
+        "properties" : {
+          "centered" : false,
+		      "zLevel" : 1
+        },
+
+        "partStates" : {
+          "displayedState" : {
+            "idle" : {
+              "properties" : {
+                "image" : "signplaceholder.png"
+              }
+            }
+          }
+        }
+      },
+	  "background" : {
+        "properties" : {
+          "centered" : false,
+		      "zLevel" : 0,
+          "offset" : [-0.25, -0.25]
+        },
+
+        "partStates" : {
+          "displayedState" : {
+            "idle" : {
+              "properties" : {
+                "image" : "customsignframe.png:<partImage>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

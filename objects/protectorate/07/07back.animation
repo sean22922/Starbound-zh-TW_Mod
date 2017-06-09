@@ -1,0 +1,37 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "default",
+        "states" : {
+          "default" : {},
+          "destroyed" : {}
+        }
+      }
+    },
+
+    "parts" : {
+      "stage" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "stage" : {
+            "default" : {
+              "properties" : {
+                "image" : "07back.png:default"
+              }
+            },
+
+            "destroyed" : {
+              "properties" : {
+                "image" : "07back.png:destroyed"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "podState" : {
+        "default" : "active",
+        "states" : {
+          "active" : {
+            "frames" : 6,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          },
+          "expire" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" :"transition",
+            "transition" :"pause"
+          },
+          "pause" : {
+            "frames" : 1,
+            "mode" :"transition",
+            "transition" :"expire2"
+          },
+          "expire2" : {
+            "frames" : 7,
+            "cycle" : 0.5
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "pod" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "podState" : {
+            "active" : {
+              "properties" : {
+                "image" : "<partImage>:active.<frame>"
+              }
+            },
+            "expire" : {
+              "properties" : {
+                "image" : "<partImage>:expire1.<frame>"
+              }
+            },
+            "pause" : {
+              "properties" : {
+                "image" : "<partImage>:pause.1"
+              }
+            },
+            "expire2" : {
+              "properties" : {
+                "image" : "<partImage>:expire2.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "use" : [ "/sfx/objects/bardoor_open.ogg" ]
+  }
+}

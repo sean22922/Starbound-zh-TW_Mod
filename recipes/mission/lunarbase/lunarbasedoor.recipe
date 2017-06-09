@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 2 }
+  ],
+  "output" : { "item" : "lunarbasedoor", "count" : 1 },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

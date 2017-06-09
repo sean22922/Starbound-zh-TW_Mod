@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-tjunctlr",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "tjunctlr" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "tjunctlr",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tjunctlr.json" ]
+    }
+  ]
+}

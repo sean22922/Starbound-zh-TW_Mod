@@ -1,0 +1,27 @@
+{
+  "id" : "castleking06",
+  "title" : "The Would-Be King 6",
+  "description" : "A Glitch folk tale.",
+  "icon" : "glitchcastlebook_06.png",
+  "contentPages" : [
+
+    "King Dreadwing whooped and applauded as the armoured Glitch careened towards him. But as the soldier lowered its blade before its charge, he realised something was wrong. 
+
+This realisation, of course, came too late - the blade pierced his metal shell, splitting it in twain.
+
+All the Glitch watched as their king fell backwards, his Glitch disguise falling away, revealing a diminutive bird-like creature.",
+
+"The Glitch had been duped! All this time, their tyrannical king had been a penguin in disguise. It made perfect sense. 
+
+Realising the game was up, and badly injured, the evil space pirate Dreadwing made his escape, never to be seen again.
+
+The rogue soldier that had caused his downfall turned out to be the lone Floran, who had grown bored and decided to go on a hunting spree.",
+
+"They were made an honorary hero of the Glitch people, but then immediately exiled because killing kings is bad, even if they turn out to be penguins in disguise."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "load" : {
+        "default" : "light",
+
+        "states" : {
+          "light" : {},
+          "medium" : {},
+          "heavy" : {}
+        }
+      },
+
+      "reel" : {
+        "default" : "idle",
+
+        "states" : {
+          "idle" : {},
+          "in" : {
+            "properties" : {
+              "persistentSound" : "/sfx/tools/rod_reel_loop.ogg"
+            }
+          },
+          "out" : {
+            "properties" : {
+              "persistentSound" : "/sfx/tools/rod_unreel_loop.ogg"
+            }
+          },
+          "stretch" : {
+            "properties" : {
+              "persistentSound" : "/sfx/tools/rod_line_stretching.ogg"
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "fishingrod" : {
+        "properties" : {
+          "centered" : true,
+          "offset" : [0.875, 2.0],
+          "rotationGroup" : "fishingrod"
+        },
+
+        "partStates" : {
+          "load" : {
+            "light" : {
+              "properties" : {
+                "image" : "<partImage>:light",
+                "endpoint" : [-0.5, 2.75]
+              }
+            },
+            "medium" : {
+              "properties" : {
+                "image" : "<partImage>:medium",
+                "endpoint" : [0.125, 2.75]
+              }
+            },
+            "heavy" : {
+              "properties" : {
+                "image" : "<partImage>:heavy",
+                "endpoint" : [0.875, 2.0]
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "rotationGroups" : {
+    "fishingrod" : {}
+  },
+
+  "sounds" : {
+    "cast" : ["/sfx/tools/rod_cast1.ogg", "/sfx/tools/rod_cast2.ogg", "/sfx/tools/rod_cast3.ogg", "/sfx/tools/rod_cast4.ogg", "/sfx/tools/rod_cast5.ogg", "/sfx/tools/rod_cast6.ogg"],
+    "bite" : ["/sfx/npc/monsters/monster_surprise.ogg"],
+    "catch" : ["/sfx/projectiles/tar_hit_organic1.ogg", "/sfx/projectiles/tar_hit_organic2.ogg", "/sfx/projectiles/tar_hit_organic3.ogg", "/sfx/projectiles/tar_hit_organic4.ogg", "/sfx/projectiles/tar_hit_organic5.ogg"],
+    "linebreak" : ["/sfx/melee/whip_impact3.ogg"],
+    "corrode" : ["/sfx/projectiles/acid_hit.ogg"],
+    "burn" : ["/sfx/projectiles/fire_out_louder.ogg"]
+  }
+}

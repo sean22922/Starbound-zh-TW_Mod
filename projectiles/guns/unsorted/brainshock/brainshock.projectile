@@ -1,0 +1,14 @@
+{
+  "projectileName" : "brainshock",
+  "image" : "brainshock.png",
+  "animationCycle" : 0.2,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 70,
+  "timeToLive" : 0.2,
+  "bounces" : 1,
+  "piercing" : false,
+  "damagePoly" : [ [0, -8], [16, -8], [16, 8], [0, 8] ],
+  "damageKind" : "brain"
+}

@@ -1,0 +1,27 @@
+{
+  "projectileName" : "acidgrenadecluster",
+  "image" : "acidgrenadecluster.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "physics" : "floatystickybomb",
+  "pointLight" : false,
+  "timeToLive" : 4,
+  "bounces" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "smallpoisonexplosion",
+      "inheritDamageFactor" : 1,
+      "angle" : 5
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/goocluster_pop.ogg" ]
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 15,
+  "damageType" : "NoDamage",
+  "damageKind" : "acid"
+}

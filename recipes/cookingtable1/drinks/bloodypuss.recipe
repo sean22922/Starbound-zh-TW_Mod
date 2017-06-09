@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pussplum", "count" : 1 },
+    { "item" : "fleshstrand", "count" : 1 }
+  ],
+  "output" : { "item" : "bloodypuss", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "bloodypuss" }
+}

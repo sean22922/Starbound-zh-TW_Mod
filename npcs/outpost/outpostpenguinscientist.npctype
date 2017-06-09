@@ -1,0 +1,98 @@
+{
+  "type" : "outpostpenguinscientist",
+  "baseType" : "outpostcivilian",
+
+  "scriptConfig" : {
+    "uniqueId" : "outpostpenguinscientist",
+
+    "offeredQuests" : [ "mechunlock", "mechupgrade1", "penguin2", "mechupgrade2" ],
+    "turnInQuests" : [ "mechunlock", "mechupgrade1", "penguin2", "mechupgrade2" ],
+
+    "behavior" : "simple",
+
+    "behaviorConfig" : {
+      "alwaysRun" : false,
+      "wanderWaitTime" : [4.0, 8.0],
+      "wanderTime" : [0.25, 0.5],
+      "wanderDistance" : 3
+    },
+    "chatSounds" : {
+      "avian" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "apex" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "floran" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "glitch" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "human" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "hylotl" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "default" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      }
+    },
+
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Welcome to Dr. Akaggy's Mech Workshop! I can assure you that this is a legitimate business."
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "legs" : [ { "name" : "penguinglasses", "parameters" : { "colorIndex" : [0] } } ]
+          }
+        ] ]
+    ]
+  }
+}

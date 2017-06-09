@@ -1,0 +1,115 @@
+{
+  "id" : "collect_gift.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Friendly Friend"
+      }
+    },
+    "item" : {
+      "type" : "item",
+      "example" : {
+        "item" : "luckydip"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/collect_gift.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "text" : {
+        "first" : {
+          "floran" : [
+            "Firssst, Floran needs you to ^green;get a shiny ^orange;<item>. ^white;Floran thinksss ^orange;<target> ^green;will have one.",
+            "To sstart, Floran needs a shiny ^orange;<item> ^green;from ^orange;<target>. ^green;Go asssk <target.pronoun.object> for one."
+          ],
+          "glitch" : [
+            "Friendly. First ^green;I shall need one ^orange;<item>^white;, and I know that ^orange;<target>^white; currently owns one. ^green;Can you ask <target.pronoun.object> to give it to us?",
+            "Confident.  ^green;I am going to need one ^orange;<item>^white;, I know that ^orange;<target>^white; owns one. ^green;I am sure <target.pronoun.subject>'ll give it to me if you ask."
+          ],
+          "default" : [
+            "The first thing I'll need is one ^orange;<item>.^white; ^orange;<target>^white; has an extra one, and owes me a favor. ^green;Could you run over to <target.pronoun.object> and pick it up?",
+            "To begin we'll need one ^orange;<item>.^white; I know ^orange;<target>^white; got a new one recently, ^green;you should ask if we can use it."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Next, Floran heard that ^orange;<target> ^white;hass a nice ^orange;<item>. ^white;Could you ^green;collect it for Floran^white;, pleasse?",
+            "For the next part, Floran needss a nice ^orange;<item>. ^white;Floran heard that ^orange;<target> ^white;had one. ^green;You should ask <target.pronoun.object> for it."
+          ],
+          "glitch" : [
+            "Cheerful. Next, ^green;I have need of ^orange;<target>'s <item>^white;. I'm positive that if you asked <target.pronoun.object> nicely, <target.pronoun.subject>'d give it to us. ^green;You should speak to <target.pronoun.object>.",
+            "Expectant.  ^green;I need one ^orange;<item> and know that ^orange;<target> has one. I am sure you could ^green;procure it for me if you asked <target.pronoun.object> nicely."
+          ],
+          "default" : [
+            "Next, I need you to ^green;retreive my ^orange;<item>^white;. I loaned it to ^orange;<target>^white; last week, ^green;could you ask for it back?^white;  We're going to need it for the next phase of my plan.",
+            "Now I'll need you to get one ^orange;<item>. <target>^white; has the biggest collection around; if you ^green;ask nicely^white; I'm sure <target.pronoun.subject> wouldn't mind parting with just one."
+          ]
+        }
+      },
+      "completionText" : {
+        "last" : {
+          "floran" : [
+            "You brought Floran the <item>! <target> won't misss it.",
+            "Thanksss! Floran knew <target> wouldn't mind."
+          ],
+          "glitch" : [
+            "Happy. I knew that <target> would be willing to help me. Thank you for your assistance!",
+            "Overjoyed. This <item> is just what I need - <target> is so kind to have provided it. And you're so kind for fetching it!"
+          ],
+          "default" : [
+            "You got the <item> from <target>, excellent work! This next step would have been tough without it.",
+            "Perfect, I'll have to give <target> my thanks. This is exactly what we need."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Thanksss! Floran thinks we'll need this <item> more than <target> does.",
+            "Perfect! Floran has plansss for this <item>."
+          ],
+          "glitch" : [
+            "Pleased. <target> is always reliable, and so are you! Thank you for your assistance.",
+            "Appreciative. I am lucky to have friends like you and <target> to help me out!"
+          ],
+          "default" : [
+            "Thanks for getting what we needed from <target>. Now to move things forward.",
+            "That is one good looking <item>. Thanks for picking this up."
+          ]
+        }
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+    "requestGiftNotification" : "requestGift",
+    "giftReceivedEventName" : "giftProvided",
+
+    "objectives" : [
+      {
+        "id" : "collect",
+        "text" : "Acquire <item> from <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

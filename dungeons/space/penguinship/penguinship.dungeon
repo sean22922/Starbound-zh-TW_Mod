@@ -1,0 +1,46 @@
+{
+  "metadata" : {
+    "name" : "penguinship",
+  "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "back_1", "back_2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 2,
+    "protected" : true
+},
+
+  "parts" : [
+
+    // SAFE ZONE
+    {
+      "name" : "safe-empty",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/hazards/safe-empty.json" ],
+      "chance" : 0,
+      "markDungeonId" : false
+    },
+
+    // MERCHANT SHIP
+
+    {
+      "name" : "back_1",
+      "rules" : [
+        [ "doNotCombineWith", [ "back_1" ] ]
+      ],
+      "def" : [ "tmx", "back_1.json" ],
+      "chance" : 0.3
+    },
+    {
+      "name" : "back_2",
+      "rules" : [
+        [ "doNotCombineWith", [ "back_2" ] ]
+      ],
+      "def" : [ "tmx", "back_2.json" ],
+      "chance" : 0.3
+    }
+  ]
+}

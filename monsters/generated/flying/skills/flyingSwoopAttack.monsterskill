@@ -1,0 +1,34 @@
+{
+  "name" : "flyingSwoopAttack",
+  "label" : "SWOOP",
+  "image" : "/monsters/generated/flying/skills/default.png",
+
+  "config" : {
+    "hostileActions" : [
+      {
+        "name" : "action-swoop", 
+        "cooldown" : 3.0,
+        "parameters" : {
+          "skillName" : "flyingSwoopAttack",
+
+          "minimumRange" : 3,
+          "maximumRange" : 30,
+          "onGround" : false,
+          "windupTime" : 0.5,
+          "windupState" : "charge",
+          "windupStopForce" : 50,
+
+          "swoopState" : "charge",
+          "gravityMultiplier" : -0.5,
+          "collisionCheck" : true,
+          "highArc" : false,
+          "swoopTime" : 0.75,
+
+          "winddownTime" : 0.5,
+          "winddownState" : "fly",
+          "winddownStopForce" : 20
+        }
+      }
+    ]
+  }
+}

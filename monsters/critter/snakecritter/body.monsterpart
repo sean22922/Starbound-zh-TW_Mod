@@ -1,0 +1,9 @@
+{
+  "name" : "snakecritter",
+  "category" : "snakecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

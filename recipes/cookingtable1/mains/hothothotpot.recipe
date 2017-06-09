@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "avesmingo", "count" : 1 },
+    { "item" : "chili", "count" : 1 },
+    { "item" : "liquidlava", "count" : 1 },
+    { "item" : "alienmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "hothothotpot", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "hothothotpot" }
+}

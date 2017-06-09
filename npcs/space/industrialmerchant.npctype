@@ -1,0 +1,44 @@
+{
+  "type" : "industrialmerchant",
+  "baseType" : "merchant",
+
+  "scriptConfig" : {
+    "questGenerator" : { "pools" : [], "enableParticipation" : false },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "override" : [ "industrialmerchant" ]
+      },
+      "buyFactorRange" : [ 0.7, 1.5 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 5,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Industrial Merchant",
+          "subtitle" : "  Sells industrial furniture!"
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "industrialcrewhead" } ],
+            "back" : [
+              { "name" : "boilerback", "parameters" : { "colorIndex" : [2] } }
+            ],
+            "chest" : [
+              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [11] } }
+            ],
+            "legs" : [
+              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [11] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

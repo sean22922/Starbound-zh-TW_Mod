@@ -1,0 +1,8 @@
+{
+  "name" : "smallvillage",
+  "description" : "Little trees.",
+  "shortdescription" : "Little Trees.",
+  "floranDescription" : "Babie tree.",
+  "glitchDescription" : "Statement. Little tree.",
+  "images" : [ "tree1.png", "tree2.png", "tree3.png", "tree4.png" ]
+}

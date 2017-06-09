@@ -1,0 +1,32 @@
+{
+  "type" : "stationtenant",
+  "baseType" : "generictenant",
+
+  "scriptConfig" : {
+
+    "questGenerator" : {
+      "pools" : ["common", "tenant"]
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [
+              { "name" : "voyagerchest", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "legs" : [
+              { "name" : "voyagerlegs", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

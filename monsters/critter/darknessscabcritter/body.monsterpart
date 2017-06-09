@@ -1,0 +1,9 @@
+{
+  "name" : "darknessscabcritter",
+  "category" : "darknessscabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

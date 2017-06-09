@@ -1,0 +1,9 @@
+{
+  "name" : "snowskater",
+  "category" : "snowskater",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "snowskater.png"
+  }
+}

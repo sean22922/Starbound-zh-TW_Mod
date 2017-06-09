@@ -1,0 +1,18 @@
+{
+  "id" : "yolotlisdiary2",
+  "species" : "avian",
+  "title" : "Yolotli's Diary Entry 2",
+  "description" : "The personal diary of an Avian Ascendant.",
+  "icon" : "yolotlisdiary2.png",
+  "contentPages" : [
+    "I spend so much of my time in the temple now, I've never felt closer to Kluex. Each day we pray and chant, and I am anointed.
+
+I found myself at the altar today, and ran my hand along the blood stains on its surface, so fresh from sacrifices of the recent battle. It was wonderful, the sensation almost electric! The blood of brave warriors, our noble enemies, set aflow to satisfy our mighty and wondrous god. ",
+
+"Soon my essence will join Kluex, just like theirs. But mine, mine goes willingly - it makes my heart light to think that I can help to ensure the eternal happiness of Kluex."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "poisonpillar",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "slimeshard", "slimeshard", "slimeshard", "poisonswoosh1", "poisonswoosh1", "poisonswoosh2", "poisonswoosh1", "poisonswoosh1", "poisonswoosh2", "poisonswoosh1", "poisonswoosh1", "poisonswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisonswoosh1", "poisonswoosh1", "poisonswoosh2", "poisonswoosh1", "poisonswoosh1", "poisonswoosh2", "poisonswoosh1", "poisonswoosh1", "poisonswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "poisonswoosh4", "poisonswoosh4", "poisonswoosh4", "poisonswoosh4", "poisonswoosh4", "poisonswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

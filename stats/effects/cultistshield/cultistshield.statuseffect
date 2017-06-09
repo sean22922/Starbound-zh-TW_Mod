@@ -1,0 +1,13 @@
+{
+  "name" : "cultistshield",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "cultistshield.lua"
+  ],
+  "scriptDelta" : 1,
+
+  "animationConfig" : "cultistshield.animation"
+}

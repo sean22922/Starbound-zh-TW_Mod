@@ -1,0 +1,23 @@
+{
+  "kind" : "largeelectriccloud",
+  "definition" : {
+    "duration" : 0.03,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "largeelectriccloud1" ], [ "largeelectriccloud2" ], [ "largeelectriccloud3" ], [ "largeelectriccloud1" ], [ "largeelectriccloud1" ], [ "largeelectriccloud3" ],  [ "largeelectriccloud3" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "largeelectriccloud1" ], [ "largeelectriccloud2" ], [ "largeelectriccloud3" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "largeelectriccloud1" ], [ "largeelectriccloud2" ], [ "largeelectriccloud3" ], [ "largeelectriccloud1" ], [ "largeelectriccloud1" ], [ "largeelectriccloud3" ],  [ "largeelectriccloud3" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

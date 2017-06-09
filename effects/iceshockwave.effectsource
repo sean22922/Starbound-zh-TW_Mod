@@ -1,0 +1,30 @@
+{
+  "kind" : "iceshockwave",
+  "definition" : {
+    "duration" : 0.025,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "iceswoosh1" ],
+      [ "iceswoosh3" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

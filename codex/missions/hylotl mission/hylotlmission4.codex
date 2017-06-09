@@ -1,0 +1,17 @@
+{
+  "id" : "hylotlmission4",
+  "species" : "hylotl",
+  "title" : "Salvage Plans",
+  "description" : "Documentation of plans to restore The Grand Pagoda Library.",
+  "icon" : "hylotlmission4.png",
+  "contentPages" : [
+    "Regarding The Grand Pagoda Library:
+
+Structural integrity is broadly good; though some fail-safes have been triggered by damage, the majority of the library and its contents are intact. Our estimates suggest 60% of the Library is in 'good' condition, while 25% is 'poor', and only 15% 'severely poor'. With the modern techniques available to us, repair and reconstruction should take little time. Then we will be able to bring in the binders and restorers, and soon enough hire a new librarian."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

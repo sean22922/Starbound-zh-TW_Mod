@@ -1,0 +1,67 @@
+{
+  "eventName" : "kill",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - entityType
+  //  - damageSourceKind
+  //  - (npc/player) species
+  //  - (npc/player) gender
+  //  - (npc) npcType
+  //  - (monster) monsterType
+  //  - worldThreatLevel
+  //  - damageTeam
+  //  - damageTeamType
+  //  - aggressive
+
+  "stats" : [
+    {
+      "name" : "kill",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "kill.entityType.<entityType>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "killMonster.monsterType.<monsterType>",
+      "type" : "int",
+      "requiredValues" : { "entityType" : "monster" },
+      "op" : "increment"
+    },
+    {
+      "name" : "killMonsterWithDamageSource.monsterType.<monsterType>.damageSourceKind.<damageSourceKind>",
+      "type" : "int",
+      "requiredValues" : { "entityType" : "monster" },
+      "op" : "increment"
+    },
+    {
+      "name" : "killNpcType.npcType.<npcType>",
+      "type" : "int",
+      "requiredValues" : { "entityType" : "npc" },
+      "op" : "increment"
+    },
+    {
+      "name" : "killNpcSpecies.species.<species>",
+      "type" : "int",
+      "requiredValues" : { "entityType" : "npc" },
+      "op" : "increment"
+    },
+    {
+      "name" : "killInnocent",
+      "type" : "int",
+      "requiredValues" : {
+        "entityType" : "npc",
+        "aggressive" : false
+      },
+      "op" : "increment"
+    },
+    {
+      "name" : "killWithDamageSource.damageSourceKind.<damageSourceKind>",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "projectileName" : "snowandwaterballoon",
+  "image" : "waterballoon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 2,
+
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/grenadeexplosion/grenadeexplosion.config"
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

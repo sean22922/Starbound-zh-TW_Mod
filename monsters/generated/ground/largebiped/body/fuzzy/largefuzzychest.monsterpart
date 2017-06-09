@@ -1,0 +1,15 @@
+{
+  "name" : "largefuzzychest",
+  "category" : "largebiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largefuzzychest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.7,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

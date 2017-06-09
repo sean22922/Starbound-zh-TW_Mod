@@ -1,0 +1,9 @@
+{
+  "name" : "monopus",
+  "category" : "monopus",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "monopus.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "skellyfishcritter",
+  "category" : "skellyfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

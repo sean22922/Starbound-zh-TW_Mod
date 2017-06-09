@@ -1,0 +1,248 @@
+{
+  "id" : "kill_npcs.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "enemy" : {
+      "type" : "npcType",
+      "example" : {
+        "name" : "bandits",
+        "typeName" : "bandit"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/kill.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "enemy"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["activity", [
+          "went for a walk to <personal>",
+          "took an excursion to <personal>",
+          "took a short trip to <personal>",
+          "went jogging to <personal>"
+        ]],
+        ["personal", [
+          "expand my emotional horizons",
+          "explore the area",
+          "think about life and stuff",
+          "get away from my troubles",
+          "burn a few calories",
+          "try and remember a weird dream I had",
+          "try and solve a difficult mental math problem",
+          "get over a recent break-up",
+          "stretch my legs"
+        ]],
+        ["earlier", [
+          "earlier",
+          "not too long ago",
+          "earlier in the week",
+          "last night",
+          "yesterday"
+        ]],
+        ["crime1", [
+          "ambushed me and <crime2>",
+          "came out of nowhere and <crime2>",
+          "appeared and <crime2>"
+        ]],
+        ["crime2", [
+          "took my <crime3>",
+          "stole my <crime3>",
+          "made me hand over my <crime3>",
+          "took my <crime3> without me realising",
+          "stole my <crime3> at gunpoint",
+          "interrogated me",
+          "made me dance at gunpoint whilst laughing"
+        ]],
+        ["crime3", [
+          "socks",
+          "backpack",
+          "money",
+          "spare change",
+          "wallet",
+          "life savings",
+          "lunch"
+        ]],
+        ["reaction", [
+          "humiliated",
+          "pretty embarassed",
+          "quite upset"
+        ]],
+        ["justice1", [
+          "need <justice2>",
+          "demand <justice2>",
+          "want <justice2>"
+        ]],
+        ["justice2", [
+          "justice",
+          "blood",
+          "payback",
+          "vengeance"
+        ]],
+        ["request", [
+          "make them pay",
+          "sort them out",
+          "get rid of them"
+        ]],
+        ["appreciation", [
+          "I'm impressed! Thank you so much!",
+          "I feel so much safer now, thank you! Take this gift for all your help.",
+          "You've helped make this planet just that bit safer!",
+          "Thanks! I'm sure they weren't up to any good.",
+          "Thank you! Hopefully this gift is enough to repay you.",
+          "Thanks! I'll surely feel less nervous around here now."
+        ]],
+        ["overheard", [
+          "overheard",
+          "was spying on"
+        ]],
+        ["doubt", [
+          "I might be wrong",
+          "I'm not sure",
+          "I can't be certain"
+        ]],
+        ["discussing", [
+          "discussing",
+          "talking about"
+        ]],
+        ["discussion", [
+          "guns",
+          "science",
+          "secret plans",
+          "their feelings",
+          "future crimes they've planned",
+          "some nasty plot",
+          "future business opportunities",
+          "historical literature",
+          "their cooking techniques"
+        ]],
+        ["investigate", [
+          "investigate",
+          "check it out",
+          "look into it"
+        ]],
+        ["floranmotivation", [
+          "looking for food",
+          "looking for hiding places",
+          "trying to be sssneaky",
+          "going for a walk",
+          "out thinking about ssstuff",
+          "out for walksss"
+        ]],
+        ["floransuspicious", [
+          "thinksss they're up to no good",
+          "isss suspicious",
+          "isss nervous about them",
+          "thinkss we might be in danger",
+          "doesn't trussst them"
+        ]],
+        ["floranexcuse", [
+          "has no hunting weaponsss",
+          "thinks you might deal with thisss better",
+          "isss too nervous",
+          "isss not prepared for fighting"
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "Some <enemy> to take care of",
+          "Some <enemy> worth investigating"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;I had an encounter with some <enemy> <earlier>.",
+          "^cyan;I overheard some <enemy> <earlier>."
+        ],
+        "floran" : [
+          "^cyan;Floran had an encounter with sssome <enemy> <earlier>.",
+          "^cyan;Floran overheard sssome <enemy> <earlier>."
+        ],
+        "glitch" : [
+          "^cyan;Worried. I had an encounter with some <enemy> <earlier>.",
+          "^cyan;Tense. I overheard some <enemy> <earlier>."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+            "I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?"
+          ],
+          "floran" : [
+            "Floran sssaw ^orange;<enemy>^white; whilst Floran was <floranmotivation> <earlier>. They were at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Floran <floransuspicious> - ^green;could you investigate^white;?",
+            "Sssome ^orange;<enemy>^white; chased Floran whilst Floran was <floranmotivation> <earlier>! Floran <floransuspicious>, but Floran <floranexcuse>. It happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> -  ^green;can you <request> for Floran^white;?"
+          ],
+          "glitch" : [
+            "Distressed. I <activity> <earlier>, when ^orange;<enemy>^white; <crime1>. I'm feeling <reaction> and <justice1>. It happened near the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <request>^white;?",
+            "Concerned. I <overheard> some ^orange;<enemy>^white; who were near the ^orange;<spawnPoint>^white; <earlier>. <doubt> but I think they were <discussing> <discussion>. ^green;Could you go and <investigate>^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "You dealt with the <enemy>? <appreciation>",
+            "Did you find out what the <enemy> were up to? <appreciation>"
+          ],
+          "floran" : [
+            "You dealt with the <enemy>? Floran appreciatesss the help!",
+            "You dealt with the <enemy>? Thank you! Though, Floran could have done it if Floran had weapons..."
+          ],
+          "glitch" : [
+            "Appreciative. You dealt with the <enemy>? <appreciation>",
+            "Relieved. Did you find out what the <enemy> were up to? <appreciation>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "Oops, I wasn't much help to <questGiver>.",
+          "I guess I wasn't able to help <questGiver>."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+
+    "objectives" : [
+      {
+        "id" : "findPlace",
+        "text" : "Locate the <spawnPoint>"
+      },
+      {
+        "id" : "kill",
+        "text" : "Kill the <enemy>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "spawnPointObjectiveRange" : 35,
+
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    },
+
+    "treasureNote" : [
+      "Note to self: don't forget the loot left at <treasureLocation><treasureLocation.direction>",
+      "Boss, I hid the treasure in the <treasureLocation><treasureLocation.direction>",
+      "Transfer of the loot to take place at <treasureLocation><treasureLocation.direction>"
+    ]
+  }
+}

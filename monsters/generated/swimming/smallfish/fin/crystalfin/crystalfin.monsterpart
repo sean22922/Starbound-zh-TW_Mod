@@ -1,0 +1,9 @@
+{
+  "name" : "crystalfin",
+  "category" : "fish",
+  "type" : "fin",
+
+  "frames" : {
+    "fin" : "crystalfin.png"
+  }
+}

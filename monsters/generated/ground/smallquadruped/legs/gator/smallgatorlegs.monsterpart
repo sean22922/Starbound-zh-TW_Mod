@@ -1,0 +1,16 @@
+{
+  "name" : "smallgatorlegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallgatorflegs.png",
+    "backLegs" : "smallgatorblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 1.0,
+    "runMultiplier" : 1.2,
+    "jumpMultiplier" : 1.0
+  }
+}

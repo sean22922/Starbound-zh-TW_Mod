@@ -1,0 +1,16 @@
+{
+  "name" : "smallgorillalegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallgorillaflegs.png",
+    "backLegs" : "smallgorillablegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 1.0,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

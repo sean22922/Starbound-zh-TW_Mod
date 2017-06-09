@@ -1,0 +1,19 @@
+{
+  "id" : "glitchhistory2",
+  "species" : "glitch",
+  "title" : "Doomed Machines Discovered!",
+  "description" : "An article from a popular conspiracy magazine about strange Glitch-like ruins.",
+  "icon" : "glitchcover3.png",
+  "contentPages" : [
+    "Hello fellow explorers! Have you ever been exploring unknown territories across the stars, only to discover worlds full of lifeless ruins? I know I have!
+
+In my latest venture I was met by another familiar scene, only this time I discovered the remains of a robotic race, similar to the Glitch but amongst far more technologically advanced ruins than the familiar castles and citadels!",
+
+"Perhaps the Glitch would be similarly ill-fated, were they not cursed with the inability to progress culturally. Perhaps their greatest flaw is actually a blessing in disguise?"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

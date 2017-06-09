@@ -1,0 +1,14 @@
+{
+  "frameGrid" : {
+    "size" : [32, 20],
+    "dimensions" : [6, 5],
+
+    "names" : [
+      [ null, "idle.1", "idle.2", null, "hurt.1", null ],
+      [ null, "walk.1", "walk.2", "walk.3", "walk.4", null ],
+      [ null, "jump.1", "jump.2", null, "fall.1", "fall.2" ],
+      [ null, "leapjump.1", "leapjump.2", null, "leapfall.1", "leapfall.2" ],
+      [ null, "winddown.1", "winddown.2", null, null, null ]
+    ]
+  }
+}

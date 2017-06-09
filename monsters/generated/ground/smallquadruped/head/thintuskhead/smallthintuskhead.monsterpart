@@ -1,0 +1,15 @@
+{
+  "name" : "smallthintuskhead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallthintuskhead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.25]
+  }
+}

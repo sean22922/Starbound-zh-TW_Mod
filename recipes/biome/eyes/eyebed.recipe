@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "eyepiles", "count" : 50 },
+    { "item" : "silverbar", "count" : 1 },
+    { "item" : "fabric", "count" : 10 }
+  ],
+  "output" : { "item" : "eyebed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

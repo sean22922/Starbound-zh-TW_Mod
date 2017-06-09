@@ -1,0 +1,10 @@
+{
+  "name" : "largehummingbirdwings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "largehummingbirdbwing.png",
+    "frontWings" : "largehummingbirdfwing.png"
+  }
+}

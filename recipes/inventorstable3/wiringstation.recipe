@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "siliconboard", "count" : 5 },
+    { "item" : "stickofram", "count" : 2 },
+    { "item" : "wire", "count" : 10 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "wiringstation",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable3", "craftingstations", "all" ]
+}

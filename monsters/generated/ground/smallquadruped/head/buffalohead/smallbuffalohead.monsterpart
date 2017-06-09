@@ -1,0 +1,15 @@
+{
+  "name" : "smallbuffalohead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallbuffalohead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.25]
+  }
+}

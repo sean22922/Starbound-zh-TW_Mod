@@ -1,0 +1,12 @@
+{
+  "name" : "runboostfood",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "runboost20.lua"
+  ],
+
+  "label" : "Run Boost",
+  "icon" : "/interface/statuses/haste20.png"
+}

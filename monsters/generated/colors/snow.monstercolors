@@ -1,0 +1,89 @@
+{
+  "name" : "snow",
+  "swaps" : [
+      // Ocean, Snow, Arctic - BLUE //
+    {
+      "6f2919" : "12374E", "a85636" : "176995", "e0975c" : "1EA1C6", "ffca8a" : "54BAF5",
+      "735e3a" : "5F5B4B", "a38d59" : "A89C77", "d9c189" : "DCCE9C", "f7e7b2" : "FFF0C4",
+      "951500" : "8C7C00", "be1b00" : "C1AF00", "dc1f00" : "F2DA00", "f32200" : "FFEA4C"
+    },
+      // Snow, Ice, Scorched City - Light Grey Yellow //
+    {
+      "6f2919" : "4b4b4b", "a85636" : "828282", "e0975c" : "b6b6b6", "ffca8a" : "d9d9d9",
+      "735e3a" : "6c5d22", "a38d59" : "b0a747", "d9c189" : "e2e189", "f7e7b2" : "f0f0c2",
+      "951500" : "954d00", "be1b00" : "be6b00", "dc1f00" : "dc9600", "f32200" : "f3b700"
+    },
+      // Ice, Snow, Actic - Light Grey Blue //
+    {
+      "6f2919" : "5c5c5c", "a85636" : "a5a5a5", "e0975c" : "e6e6e6", "ffca8a" : "f8f8f8",
+      "735e3a" : "41546c", "a38d59" : "6995b7", "d9c189" : "96cbe6", "f7e7b2" : "BFE9FF",
+      "951500" : "008595", "be1b00" : "00b8be", "dc1f00" : "00dcda", "f32200" : "00f3df"
+    },
+      // Desert, Snow - Tan White //
+    {
+      "6f2919" : "66452E", "a85636" : "A47C56", "e0975c" : "D9AA7B", "ffca8a" : "F7DDB0",
+      "735e3a" : "5C5C5C", "a38d59" : "A5A5A5", "d9c189" : "E6E6E6", "f7e7b2" : "F8F8F8",
+      "951500" : "949500", "be1b00" : "BBBE00", "dc1f00" : "D9DC00", "f32200" : "EFF300"
+    },
+      // Snow, Ice, Arctic - White Durasteel //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "1C2A33", "a38d59" : "344651", "d9c189" : "52646D", "f7e7b2" : "7D8B8E",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Garden, Forest, Snow - Sky Blue Green //
+    {
+      "6f2919" : "3C4D74", "a85636" : "5F8CC4", "e0975c" : "8AC3F2", "ffca8a" : "B6E4FF",
+      "735e3a" : "0E3A2B", "a38d59" : "157F45", "d9c189" : "61BA61", "f7e7b2" : "A7E278",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Snow, Ice, Arctic - White Turq //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "156054", "a38d59" : "318275", "d9c189" : "56A49F", "f7e7b2" : "7EBBC2",
+      "951500" : "B02182", "be1b00" : "FC45C1", "dc1f00" : "FF80FF", "f32200" : "FFD6FF"
+    },
+      // Snow, Ice, Arctic - White Orange //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "723522", "a38d59" : "B16232", "d9c189" : "D99B4A", "f7e7b2" : "DFC171",
+      "951500" : "949500", "be1b00" : "BBBE00", "dc1f00" : "D9DC00", "f32200" : "EFF300"
+    },
+      // Snow, Ice, Arctic - White Orange //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "0E3A2B", "a38d59" : "157F45", "d9c189" : "61BA61", "f7e7b2" : "A7E278",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    },
+      // Desert, Snow, Ice, Arctic - White Yellow //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "8F692D", "a38d59" : "AB9E40", "d9c189" : "E3E25F", "f7e7b2" : "F2F2A9",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Snow, Ocean, Arctic, Ice - Black Faded Blue //
+    {
+      "6f2919" : "1C2A33", "a85636" : "344651", "e0975c" : "52646D", "ffca8a" : "7D8B8E",
+      "735e3a" : "41546C", "a38d59" : "6995B7", "d9c189" : "96CBE6", "f7e7b2" : "BFE9FF",
+      "951500" : "171717", "be1b00" : "262626", "dc1f00" : "383838", "f32200" : "4C4C4C"
+    },
+      // Garden, Snow - White Pink //
+    {
+      "6f2919" : "8C8C8C", "a85636" : "BFBFBF", "e0975c" : "E5E5E5", "ffca8a" : "FBFBFB",
+      "735e3a" : "974A71", "a38d59" : "C686A2", "d9c189" : "E5CEE5", "f7e7b2" : "F8F8F8",
+      "951500" : "B02182", "be1b00" : "FC45C1", "dc1f00" : "FF80FF", "f32200" : "FFD6FF"
+    },
+      // Garden, Snow - Green White //
+    {
+      "6f2919" : "1E3614", "a85636" : "3A6D30", "e0975c" : "6F9F5D", "ffca8a" : "A0C18C",
+      "735e3a" : "5C5C5C", "a38d59" : "A5A5A5", "d9c189" : "E6E6E6", "f7e7b2" : "F8F8F8",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Snow, Ice - Burgandy White //
+    {
+      "6f2919" : "6F1936", "a85636" : "A83651", "e0975c" : "E05C64", "ffca8a" : "FF8E8A",
+      "735e3a" : "5C5C5C", "a38d59" : "A5A5A5", "d9c189" : "E6E6E6", "f7e7b2" : "F8F8F8",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    }
+  ]
+}

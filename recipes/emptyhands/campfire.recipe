@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 4 },    
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "campfire",
+    "count" : 1
+  },
+  "groups" : [ "plain", "objects", "all", "tools" ]
+}

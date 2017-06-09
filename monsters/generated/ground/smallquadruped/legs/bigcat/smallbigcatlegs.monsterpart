@@ -1,0 +1,16 @@
+{
+  "name" : "smallbigcatlegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallbigcatflegs.png",
+    "backLegs" : "smallbigcatblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 1.0
+  }
+}

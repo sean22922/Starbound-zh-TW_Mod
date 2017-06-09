@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "holidaycraftingtable",
+    "count" : 1
+  },
+  "groups" : [ "disabled" ] // [ "researchstation", "objects", "all", "tools" ]
+}

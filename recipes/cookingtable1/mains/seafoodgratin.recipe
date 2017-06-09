@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rawfish", "count" : 1 },
+    { "item" : "coralcreep", "count" : 1 }
+  ],
+  "output" : { "item" : "seafoodgratin", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "seafoodgratin" }
+}

@@ -1,0 +1,22 @@
+{
+  "projectileName" : "throwingspear",
+  "image" : "throwingspear.png",
+  "animationCycle" : 0.25,
+  "physics" : "grenade",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 110,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 200.0,
+  "knockback" : 10,
+  "damageKind" : "bow",
+  "emitters" : [ "daggerblue" ],
+  "damagePoly" : [ [-12, -1], [14, -1], [14, 3], [-12, 3] ]
+}
+
+

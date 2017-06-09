@@ -1,0 +1,27 @@
+{
+  "projectileName" : "energywave",
+  "image" : "energywave.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 3,
+  "lightColor" : [150, 100, 100],
+  "fullbright" : true,
+
+  "damageKindImage" : "icon.png",
+  "physics" : "boomerang",
+  "emitters" : [ ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/pulsecannonexplosion/redpulsecannonexplosion.config"
+    }
+  ],
+  "damagePoly" : [ [28, -11], [24, 2], [2, 0], [-12, -11] ],
+  "damageKind" : "plasma",
+
+  "flippable" : true,
+  "piercing" : true,
+  "speed" : 25,
+
+  "scripts" : [ "/projectiles/tracksourcestatus.lua" ],
+  "scriptDelta" : 1
+}

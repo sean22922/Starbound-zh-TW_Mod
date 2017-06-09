@@ -1,0 +1,12 @@
+{
+  "projectileName" : "zotszot",
+  "image" : "zotszot.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "power" : 50,
+  "physics" : "laser",
+
+  "lightColor" : [255, 180, 0],
+  "emitters" : [ "fireplasma", "flames", "fireplasma", "flames" ],
+  "damageKind" : "electric"
+}

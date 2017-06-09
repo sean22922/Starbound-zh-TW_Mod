@@ -1,0 +1,13 @@
+{
+  "name" : "regenerationfood",
+  "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "healTime" : 300
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "regenerationaugment.lua"
+  ]
+}

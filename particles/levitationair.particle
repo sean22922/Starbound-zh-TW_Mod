@@ -1,0 +1,17 @@
+{
+  "kind" : "levitationair",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [200, 200, 200, 255],
+    "fade" : 1,
+    "initialVelocity" : [0.0, -5.0],
+    "timeToLive" : 0.6,
+    "destructionAction" : "shrink",
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [0, 2.0],
+      "color" : [25, 25, 0, 255]
+    }
+  }
+}

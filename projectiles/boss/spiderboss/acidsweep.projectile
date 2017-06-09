@@ -1,0 +1,17 @@
+{
+  "projectileName" : "acidsweep",
+  "image" : "acidsweep.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/acidspitexplosion/acidspitexplosion.config"
+    }
+  ],
+  "power" : 2.0,
+  "damageKind" : "acid",
+  "emitters" : [ "poisonplasma", "largepoisonswoosh" ]
+}

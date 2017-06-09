@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "tomato", "count" : 1 },
+    { "item" : "corn", "count" : 1 },
+    { "item" : "cheese", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "stuffedtomato", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "stuffedtomato" }
+}

@@ -1,0 +1,63 @@
+{
+  "frameGrid" : {
+    "size" : [112, 112],
+    "dimensions" : [23, 7],
+    "names" : [
+      [ null, "stage1.idle.1", "stage1.idle.2", "stage1.idle.3", "stage1.idle.4", null, "stage1.windup.1", "stage1.windup.2", "stage1.attack.1", "stage1.attack.2", null, "stage1.firewindup.1", "stage1.firewindup.2", "stage1.fire.1", "stage1.fire.2"],
+      [ null, "stage1.glitch.1", "stage1.glitch.2", "stage1.glitch.3", null, "stage2.windup.1", "stage2.windup.2", "stage2.attack.1", "stage2.attack.2", null, "stage2.firewindup.1", "stage2.firewindup.2", "stage2.fire.1", "stage2.fire.2"],
+      [ null, "stage3.idle.1", "stage3.idle.2", "stage3.idle.3", "stage3.idle.4", null, "stage2.glitch.1", "stage2.glitch.2", "stage2.glitch.3", null, "stage3.windup.1", "stage3.windup.2", "stage3.attack.1", "stage3.attack.2", null, "stage3.firewindup.1", "stage3.firewindup.2", "stage3.fire.1", "stage3.fire.2"],
+      [ null, "stage4.idle.1", "stage4.idle.2", "stage4.idle.3", "stage4.idle.4", "stage4.idle.5", "stage4.idle.6", "stage4.idle.7", "stage4.idle.8", null, "stage3.glitch.1", "stage3.glitch.2", "stage3.glitch.3", null, "stage4.windup.1", "stage4.windup.2", "stage4.attack.1", "stage4.attack.2", null, "stage4.firewindup.1", "stage4.firewindup.2", "stage4.fire.1", "stage4.fire.2"],
+      [ null, "death.1", "death.2", "death.3", "death.4", "death.5", "death.6", "death.7", "death.8", "death.9", "death.10", "death.11", "death.12", "death.13", "death.14", "death.15", "death.16", "death.17", "death.18", "death.19", "death.20", "death.21", "death.22"],
+      [ null, "spawnidle.1", "spawnidle.2", null , "spawn.1", "spawn.2", "spawn.3", "spawn.4", "spawn.5", "spawn.6", "spawn.7", "spawn.8", "spawn.9", "spawn.10", "spawn.11", "spawn.12", "spawn.13", "spawn.14", "spawn.15", "spawn.16", "spawn.17", "spawn.18", "spawn.19"],
+      [ "spawn.20", "spawn.21", "spawn.22", "spawn.23", "spawn.24", "spawn.25", "spawn.26", "spawn.27", "spawn.28", "spawn.29", "spawn.30", "spawn.31", "spawn.32", "spawn.33", "spawn.34", "spawn.35", "spawn.36", "spawn.37", "spawn.38", "spawn.39", "spawn.40", "spawn.41", "spawn.42"]
+    ]
+  },
+  "aliases" : {
+    "stage1.idle.5" : "stage1.idle.1",
+    "stage1.idle.6" : "stage1.idle.2",
+    "stage1.idle.7" : "stage1.idle.3",
+    "stage1.idle.8" : "stage1.idle.4",
+
+    "stage2.idle.1" : "stage1.idle.1",
+    "stage2.idle.2" : "stage1.idle.2",
+    "stage2.idle.3" : "stage1.idle.3",
+    "stage2.idle.4" : "stage1.idle.4",
+    "stage2.idle.5" : "stage1.idle.1",
+    "stage2.idle.6" : "stage1.idle.2",
+    "stage2.idle.7" : "stage1.idle.3",
+    "stage2.idle.8" : "stage1.idle.4",
+
+    "stage3.idle.5" : "stage3.idle.1",
+    "stage3.idle.6" : "stage3.idle.2",
+    "stage3.idle.7" : "stage3.idle.3",
+    "stage3.idle.8" : "stage3.idle.4",
+
+    "stage4.glitch.1" : "stage3.glitch.1",
+    "stage4.glitch.2" : "stage3.glitch.2",
+    "stage4.glitch.3" : "stage3.glitch.2",
+
+    "stage1.winddown.1" : "stage1.windup.2",
+    "stage1.winddown.2" : "stage1.windup.1",
+
+    "stage2.winddown.1" : "stage2.windup.2",
+    "stage2.winddown.2" : "stage2.windup.1",
+
+    "stage3.winddown.1" : "stage3.windup.2",
+    "stage3.winddown.2" : "stage3.windup.1",
+
+    "stage4.winddown.1" : "stage4.windup.2",
+    "stage4.winddown.2" : "stage4.windup.1",
+
+    "stage1.firewinddown.1" : "stage1.firewindup.2",
+    "stage1.firewinddown.2" : "stage1.firewindup.1",
+
+    "stage2.firewinddown.1" : "stage2.firewindup.2",
+    "stage2.firewinddown.2" : "stage2.firewindup.1",
+
+    "stage3.firewinddown.1" : "stage3.firewindup.2",
+    "stage3.firewinddown.2" : "stage3.firewindup.1",
+
+    "stage4.firewinddown.1" : "stage4.firewindup.2",
+    "stage4.firewinddown.2" : "stage4.firewindup.1"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "skimbus",
+  "category" : "skimbus",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "skimbus.png"
+  }
+}

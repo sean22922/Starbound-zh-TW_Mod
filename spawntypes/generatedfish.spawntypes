@@ -1,0 +1,67 @@
+[
+  // small fish
+
+  {
+    "name" : "smallFishOcean1",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "fish",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "smallFishOcean2",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "fish",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  // large fish
+
+  {
+    "name" : "passiveLargeFish",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.002,
+    "monsterType" : "largefish",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroLargeFish",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.002,
+    "monsterType" : "largefish",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  }
+]

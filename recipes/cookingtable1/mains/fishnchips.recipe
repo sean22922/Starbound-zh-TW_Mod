@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rawfish", "count" : 1 },
+    { "item" : "potato", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "fishnchips", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "fishnchips" }
+}

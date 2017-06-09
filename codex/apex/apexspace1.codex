@@ -1,0 +1,33 @@
+{
+  "id" : "apexspace1",
+  "species" : "apex",
+  "title" : "Internal Report #E86A",
+  "description" : "A dated Miniknog report on spacefaring dangers.",
+  "icon" : "apexcover1.png",
+  "contentPages" : [
+  "Presence ^yellow;#01^white;: Wildlife 
+
+The organic and artificial lifeforms of deep space show curious ecological behaviours that are not seen in terrestrial environments. 
+
+One captured lifeform, which can only be described as a flying cycloptic triangle, displayed the impressive ability to vaporise an entire squad of field scientists in under 000:400 metaclicks.",
+
+"Whilst these creatures are undeniably threatening, their bodies are typically structured in a way that doesn't allow them to survive in even minor gravitational conditions. 
+
+Miniknog outposts with gravity fields have been shown to be of little interest to the various space predators, with turret installations deterring the more aggressive threats.",
+
+"Presence ^yellow;#02^white;: Humans
+
+Outpost Epsilon-12 has had another encounter with a human vessel. Referring to themselves as part of a \"Corporate Military\", these humans seem somewhat more reckless than the more benign \"Terrene Protectorate\" organisation. 
+
+They display an almost reprehensible capitalistic drive, immediately pledging co-operation with Epsilon-12 in the hopes of acquiring military resources and funds.",
+
+"Unlike our own soldiers, it has been observed that this group struggles heavily with obedience among their own ranks. Many of their freighters have been lost to mutinies, with their crews instead deciding on careers in space banditry. 
+
+With the conclusion that association with this faction might cause us complications, Theta branch have proposed a method to quietly decimate them from within by exploiting their eagerness for bioweaponry."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

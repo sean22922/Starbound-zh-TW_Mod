@@ -1,0 +1,125 @@
+{
+  "metadata" : {
+    "name" : "bonesmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+
+    "anchor" : [ "bonecampsite", "bonefort", "bonegrinder", "bonehangers", "bonehousewithhiddentunnel", "bonenpcencounter", "bonestorage", "chesthangingoverspikes", "chestroom", "fallingbonepit", "largefort", "platforminghut", "platformingwithchest", "slaver", "tallstorage"  ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "bonecampsite",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonecampsite.json" ]
+    },
+    {
+      "name" : "bonefort",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonefort.json" ]
+    },
+    {
+      "name" : "bonegrinder",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonegrinder.json" ]
+    },
+    {
+      "name" : "bonehangers",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonehangers.json" ]
+    },
+    {
+      "name" : "bonehousewithhiddentunnel",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonehousewithhiddentunnel.json" ]
+    },
+    {
+      "name" : "bonenpcencounter",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonenpcencounter.json" ]
+    },
+    {
+      "name" : "bonestorage",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bonestorage.json" ]
+    },
+    {
+      "name" : "chesthangingoverspikes",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "chesthangingoverspikes.json" ]
+    },
+    {
+      "name" : "chestroom",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "chestroom.json" ]
+    },
+    {
+      "name" : "fallingbonepit",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "fallingbonepit.json" ]
+    },
+    {
+      "name" : "largefort",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largefort.json" ]
+    },
+    {
+      "name" : "platforminghut",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platforminghut.json" ]
+    },
+    {
+      "name" : "platformingwithchest",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platformingwithchest.json" ]
+    },
+    {
+      "name" : "slaver",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "slaver.json" ]
+    },
+    {
+      "name" : "tallstorage",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tallstorage.json" ]
+    }
+  ]
+}
+  

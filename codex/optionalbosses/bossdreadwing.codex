@@ -1,0 +1,17 @@
+{
+  "id" : "bossdreadwing",
+  "title" : "Dreadwing The Penguin",
+  "description" : "Writings on Dreadwing, penguin scourge of the skies.",
+  "icon" : "dreadwingcover.png",
+  "contentPages" : [
+
+    "Gather ye round and hear tell of Dreadwing, scourge of the universe, bane of all spacefarers. Seldom a day goes by without some new nefarious scheme occurring to this contemptible beast. He prowls the stars in his flying saucer, leaving naught but bitter resentment in his wake.
+
+Followers flock to him, drawn by respect or compelled by fear. At the sound of his name his enemies scatter to the four winds. He is DREADWING, the small blue penguin."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

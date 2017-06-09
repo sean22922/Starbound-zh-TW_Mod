@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "carrot", "count" : 1 }
+  ],
+  "output" : { "item" : "carrotbread", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "carrotbread" }
+}

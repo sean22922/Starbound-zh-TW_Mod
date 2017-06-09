@@ -1,0 +1,16 @@
+{
+  "name" : "largegorillalegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largegorillaflegs.png",
+    "backLegs" : "largegorillablegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 1.0,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

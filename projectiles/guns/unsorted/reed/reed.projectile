@@ -1,0 +1,19 @@
+{
+  "projectileName" : "reed",
+  "physics" : "arrownosticky",
+  "image" : "reed.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 25,
+  "damageKind" : "bow",
+  "damagePoly" : [ [-12, -1], [16, -1], [16, 3], [-12, 3] ]
+}

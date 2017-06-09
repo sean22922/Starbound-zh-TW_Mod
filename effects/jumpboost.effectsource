@@ -1,0 +1,29 @@
+{
+  "kind" : "jumpboost",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "jumpboostmessage" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.ogg" ]
+      ]
+    },
+    "particles" : [
+      [ "jumpboost" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

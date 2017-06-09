@@ -1,0 +1,27 @@
+{
+  "id" : "bossshockhopper",
+  "title" : "Shockhopper Mech Mk I",
+  "description" : "An advert for the Shockhopper Mech Mk I.",
+  "icon" : "shockhoppercover.png",
+  "contentPages" : [
+
+    "A NEW fantastic offer!
+Have you ever wanted to combine the hydraulic fist of the Pugno Punchamatic, the ball lightning production capabilities of the Stormotron5000 and the fire power of the Theta8 Ground to Air Missile Launcher? Well now you can!
+
+With Dr. Akaggy's SHOCKHOPPER MK I
+
+Other amazing features include:
+
+- Dash Thrusters capable of speed AND flight",
+"- A WideFire broad barrelled flame thrower
+- Ergonomic controls for easy flipper use
+
+GET YOURS TODAY"
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

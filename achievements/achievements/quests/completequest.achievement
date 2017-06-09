@@ -1,0 +1,16 @@
+{
+  "name" : "completequest",
+
+  "triggers" : [
+    "quest"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

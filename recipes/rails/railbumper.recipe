@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "railbumper", "count" : 1 },
+  "groups" : [ "rail" ]
+}

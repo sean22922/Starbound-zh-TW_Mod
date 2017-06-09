@@ -1,0 +1,17 @@
+{
+  "projectileName" : "hiveswarm",
+  "image" : "hiveswarm.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 18,
+  "power" : 50,
+  "speed" : 10,
+  "timeToLive" : 1,
+  "bounces" : 4,
+  "piercing" : true,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageKind" : "default"
+}
+

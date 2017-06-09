@@ -1,0 +1,61 @@
+{
+  "metadata" : {
+    "name" : "undergroundmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "openNatural1", "tunnelBackSlopeNatural1", "tunnelForwardSlopeNatural1", "tunnelNatural1", "tunnelWeakBackSlopeNatural1", "tunnelWeakForwardSlopeNatural1" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "openNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "openNatural1.json" ]
+    },
+    {
+      "name" : "tunnelBackSlopeNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelBackSlopeNatural1.json" ]
+    },
+    {
+      "name" : "tunnelForwardSlopeNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelForwardSlopeNatural1.json" ]
+    },
+    {
+      "name" : "tunnelNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelNatural1.json" ]
+    },
+    {
+      "name" : "tunnelWeakBackSlopeNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelWeakBackSlopeNatural1.json" ]
+    },
+    {
+      "name" : "tunnelWeakForwardSlopeNatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnelWeakForwardSlopeNatural1.json" ]
+    }
+  ]
+}
+  

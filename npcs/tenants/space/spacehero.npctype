@@ -1,0 +1,58 @@
+{
+  "type" : "spacehero",
+  "baseType" : "friendlyguard",
+  
+  "dropPools" : [],
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common", "tenant", "guard"],
+      "enableParticipation" : true,
+
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02,
+      "flags" : {
+        "guard" : true
+      },
+      "graduation" : {
+        "nextNpcType" : [
+          [1, "crewmember"]
+        ]
+      }
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/spacehero.config:converse",
+      "attack" : "/dialog/spacehero.config:attack",
+      "reattack" : "/dialog/spacehero.config:reattack",
+      "killedTarget" : "/dialog/spacehero.config:killedTarget"
+    }
+  },
+
+  "movementParameters" : {
+    "runSpeed" : 20.0
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "premierhead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "premierchest", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "legs" : [
+              { "name" : "premierpants", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "sheathedprimary" : [
+              "npcbroadsword"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "name" : "deadleaves",
+  "shape" : "deadtree",
+
+  "dropConfig" : {
+    "drops" : [
+      [ { "item" : "sapling" } ]
+    ],
+    
+    "particles" : {
+      "breakTree" : {
+        "density" : 3,
+        "options" : [
+          {
+            "type" : "ember",
+            "color" : [67, 86, 0],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [131, 162, 22],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [174, 209, 52],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          }
+        ]
+      },
+      "hitGround" : {
+        "density" : 3,
+        "options" : [
+          {
+            "type" : "ember",
+            "color" : [67, 86, 0],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [131, 162, 22],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          },
+          {
+            "type" : "ember",
+            "color" : [174, 209, 52],
+            "timeToLive" : 10,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0, -20],
+            "approach" : [0, 5],
+            "variance" : {
+              "timeToLive" : 3.0,
+              "initialVelocity" : [1.0, 1.0]
+            }
+          }
+        ]
+      }
+    }
+  },
+
+  "crownLeaves" : {
+    "crown1" : {
+      "image" : "",
+      "backimage" : "crown1.png",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "",
+      "backimage" : "crown2.png",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+
+      }
+    },
+    "crown3" : {
+      "image" : "",
+      "backimage" : "crown3.png",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  },
+  "branchLeaves" : {
+  }
+}

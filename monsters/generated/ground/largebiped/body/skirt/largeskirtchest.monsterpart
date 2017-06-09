@@ -1,0 +1,15 @@
+{
+  "name" : "largeskirtchest",
+  "category" : "largebiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largeskirtchest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.6,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

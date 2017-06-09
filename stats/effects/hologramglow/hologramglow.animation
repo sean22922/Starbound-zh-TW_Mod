@@ -1,0 +1,9 @@
+{
+  "lights" : {
+    "glow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [177, 240, 236]
+    }
+  }
+}

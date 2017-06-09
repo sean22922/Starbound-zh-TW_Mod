@@ -1,0 +1,9 @@
+{
+  "name" : "jellocritter",
+  "category" : "jellocritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

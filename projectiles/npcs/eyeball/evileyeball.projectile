@@ -1,0 +1,88 @@
+{
+  "projectileName" : "evileyeball",
+  "image" : "evileyeball.png",
+  "physics" : "grenade",
+  "animationCycle" : 1,
+  "frameNumber" : 8,
+  "power" : 30,
+  "speed" : 50,
+  "timeToLive" : 2.5,
+  "bounces" : 2,
+  "piercing" : false,
+  "damagePoly" : [ [-4, 0], [-3, -3], [0, -4], [3, -3], [4, 0], [3, 3], [0, 4], [-3, 3] ],
+  "damageKind" : "lash",
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/gnome_impact1.ogg",
+        "/sfx/projectiles/gnome_impact2.ogg",
+        "/sfx/projectiles/gnome_impact3.ogg",
+        "/sfx/projectiles/gnome_impact4.ogg",
+        "/sfx/projectiles/gnome_impact5.ogg",
+        "/sfx/projectiles/gnome_impact6.ogg"
+      ]
+    }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/gnome_impact1.ogg",
+        "/sfx/projectiles/gnome_impact2.ogg",
+        "/sfx/projectiles/gnome_impact3.ogg",
+        "/sfx/projectiles/gnome_impact4.ogg",
+        "/sfx/projectiles/gnome_impact5.ogg",
+        "/sfx/projectiles/gnome_impact6.ogg"
+      ]
+    },
+    {
+      "action" : "loop",
+      "count" : 4,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1,
+            "color" : [226, 195, 68, 255],
+            "approach" : [5, 30],
+            "initialVelocity" : [0.0, 0.0],
+            "finalVelocity" : [0, -30],
+            "timeToLive" : 5.5,
+            "fade" : 0.8,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.25,
+            "layer" : "middle",
+            "variance" : {
+              "initialVelocity" : [20, 15],
+              "finalVelocity" : [0, 5],
+              "timeToLive" : 0.25
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1,
+            "color" : [255, 255, 167, 255],
+            "approach" : [5, 30],
+            "initialVelocity" : [0.0, 0.0],
+            "finalVelocity" : [0, -30],
+            "timeToLive" : 5.5,
+            "fade" : 0.8,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.25,
+            "layer" : "middle",
+            "variance" : {
+              "initialVelocity" : [20, 15],
+              "finalVelocity" : [0, 5],
+              "timeToLive" : 0.25
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

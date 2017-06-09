@@ -1,0 +1,28 @@
+{
+  "type" : "questlocation",
+
+  "scripts" : [
+    "/stagehands/questlocation.lua"
+  ],
+  "scriptDelta" : 10,
+
+  "integrityCheckCooldown" : 5,
+
+  "treasureChests" : [
+    "medievalchest",
+    "woodenchest",
+    "barrellarge",
+    "woodencrate1",
+    "woodencrate2",
+    "ironchest",
+    "box1",
+    "box2",
+    "trashbag",
+    "barrel",
+    "copperbox1",
+    "smallwoodencrate",
+    "bunkercrate",
+    "largewoodencrate",
+    "treasurechest"
+  ]
+}

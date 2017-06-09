@@ -1,0 +1,11 @@
+{
+  "name" : "xenonglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "xenonglow.lua"
+  ],
+
+  "animationConfig" : "xenonglow.animation"
+}

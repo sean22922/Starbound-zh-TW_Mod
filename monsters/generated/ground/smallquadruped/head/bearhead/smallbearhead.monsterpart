@@ -1,0 +1,15 @@
+{
+  "name" : "smallbearhead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallbearhead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.25]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "frameGrid" : {
+    "size" : [64, 144],
+    "dimensions" : [4, 4],
+    "names" : [
+      [ "idle.1", "idle.2", "idle.3", "idle.4" ],
+      [ "fist.1", "fist.2", "rocket.1", "rocket.2" ],
+      [ "sweep.1", "sweep.2", "pellet.1", "pellet.2" ],
+      [ "needle.1", "needle.2", "blue.1", "blue.2" ]
+    ]
+  }
+}

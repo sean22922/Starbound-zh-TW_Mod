@@ -1,0 +1,13 @@
+{
+  "particleEmitters" : {
+    "flames" : {
+      "enabled" : true,
+      "emissionRate" : 1,
+      "particles" : [
+        {
+          "particle" : "castphysical"
+        }
+      ]
+    }
+  }
+}

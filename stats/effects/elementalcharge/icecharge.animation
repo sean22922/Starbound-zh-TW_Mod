@@ -1,0 +1,17 @@
+{
+  "particleEmitters" : {
+    "charge" : {
+      "active" : false,
+      "emissionRate" : 30,
+      "particles" : [
+        { "particle" : "iceswoosh1"},
+        { "particle" : "iceswoosh2"},
+        { "particle" : "iceswoosh3"},
+        { "particle" : "iceswoosh1"},
+        { "particle" : "iceswoosh2"},
+        { "particle" : "iceswoosh3"},
+        { "particle" : "iceaura"}       
+      ]
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "limestone", "count" : 20 }
+  ],
+  "output" : { "item" : "cavechest", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

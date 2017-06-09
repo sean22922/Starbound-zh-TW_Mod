@@ -1,0 +1,95 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "spike" : {
+        "default" : "retracted",
+        "states" : {
+          "retracted" : {},
+          "extend" : {
+            "frames" : 2,
+            "cycle" : 0.075,
+            "mode" : "transition",
+            "transition" : "extended",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/cultistboss_recharge.ogg"
+            }
+          },
+          "extended" : {},
+          "retract" : {
+            "frames" : 2,
+            "cycle" : 0.075,
+            "mode" : "transition",
+            "transition" : "retracted",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/cultistboss_recharge.ogg"
+            }
+          }
+        }
+      }
+    },
+    "parts" : {
+      "spike" : {
+        "properties" : {
+          "zLevel" : 2,
+          "centered" : true
+        },
+        "partStates" : {
+          "spike" : {
+            "retracted" : {
+              "properties" : {
+                "image" : "<partImage>:retracted"
+              }
+            },
+            "extend" : {
+              "properties" : {
+                "image" : "<partImage>:extend.<frame>"
+              }
+            },
+            "extended" : {
+              "properties" : {
+                "image" : "<partImage>:extended"
+              }
+            },
+            "retract" : {
+              "properties" : {
+                "image" : "<partImage>:retract.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "spikefullbright" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "anchorPart" : "spike",
+          "fullbright" : true
+        },
+        "partStates" : {
+          "spike" : {
+            "retracted" : {
+              "properties" : {
+                "image" : "<partImage>:retracted"
+              }
+            },
+            "extend" : {
+              "properties" : {
+                "image" : "<partImage>:extend.<frame>"
+              }
+            },
+            "extended" : {
+              "properties" : {
+                "image" : "<partImage>:extended"
+              }
+            },
+            "retract" : {
+              "properties" : {
+                "image" : "<partImage>:retract.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

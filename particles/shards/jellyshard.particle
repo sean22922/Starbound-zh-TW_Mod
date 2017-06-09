@@ -1,0 +1,20 @@
+{
+  "kind" : "jellyshard",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/shards/jellyshard.animation",
+    "initialVelocity" : [0.0, 7.0],
+    "finalVelocity" : [0.0, 3.0],
+    "approach" : [0.3, 60],
+    "timeToLive" : 0.5,
+    "layer" : "middle",
+    "collidesForeground" : false,
+    "variance" : {
+      "position" : [0.5, 0.5],
+      "initialVelocity" : [5, 3],
+      "finalVelocity" : [0, 0],
+      "rotation" : 180,
+      "angularVelocity" : 180
+    }
+  }
+}

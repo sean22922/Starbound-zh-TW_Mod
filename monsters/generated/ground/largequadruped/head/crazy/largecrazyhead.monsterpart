@@ -1,0 +1,15 @@
+{
+  "name" : "largecrazyhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecrazyhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelash",
+    "projectileSourcePosition" : [1, -0.7]
+  }
+}

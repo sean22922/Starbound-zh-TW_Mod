@@ -1,0 +1,16 @@
+{
+  "id" : "colonystory1",
+  "title" : "How I Became A Landlord 1",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "Last summer was one of the wettest I'd seen in the Rana Esker VI forest region. I only came out there for coffee (gotta have them fresh forest beans), and after one too many snaunts in the pouring rain I was ready to go back to bed. I could see a small dilapidated shack on the hilltop, so I began to trudge up there. It wasn't so bad when I reached it, there was even a sleeping bag and the remnants of an old campfire, obviously a popular spot for soggy, exhausted adventurers such as myself."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

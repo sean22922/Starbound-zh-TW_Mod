@@ -1,0 +1,227 @@
+{
+  "id" : "hylotl_mission1",
+  "mainQuest" : true,
+  "prerequisites" : [ "floran_mission2" ],
+  "title" : "Find Clues to Locate the Hylotl Artifact",
+  "text" : "We should start work on finding the ^orange;Hylotl artifact^reset; now. Search around ^orange;temperate stars^reset;, ^green;and hunt for ^orange;clues^white; on planets with vast tracts of ^orange;ocean^reset;, where the Hylotl reside both above and below the waves. ^green;Come back here when your search is complete^reset;; and look after yourself.",
+  "completionText" : "That was the last clue we needed to find the Hylotl artifact. Wonderful work, dear.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/clues.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "descriptions" : {
+      "findClues" : "^green;Scan objects^reset; to find ^orange;Hylotl clues^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;"
+    },
+    "turnInEntityUid" : "estheroutpost",
+
+    "targetValue" : 50,
+    "objectValues" : {
+      "giantglobe" : 5,
+      "hylotlcityposter" : 2,
+      "hylotlclassicbookcase" : 4,
+      "hylotlclassiccabinet1" : 2,
+      "hylotlclassicgong" : 4,
+      "hylotlclassicpainting1" : 2,
+      "hylotlconsole" : 4,
+      "hylotlemblem" : 3,
+      "hylotlkatanarack" : 3,
+      "hylotlmailbox" : 3,
+      "hylotlpainting1" : 2,
+      "hylotlpainting2" : 2,
+      "hylotlpainting3" : 2,
+      "hylotlpost" : 2,
+      "hylotlshojiscreen" : 2,
+      "hylotlsign1b" : 2,
+      "hylotlsign1g" : 2,
+      "hylotlradio" : 2,
+      "hylotlstyleposter" : 1,
+      "hylotlsymbolb" : 1,
+      "hylotlsymbolg" : 1,
+      "hylotluniformstand" : 3,
+      "hylotlwarningposter" : 2,
+      "hylotlwaterfeature1" : 2,
+      "index" : 2,
+      "librarybookcaseS1" : 2,
+      "librarybookcaseL2" : 5,
+      "librarybookcaseN2" : 5,
+      "librarybookcaseN2empty" : 2,
+      "molemanposter" : 1,
+      "numiposter" : 1,
+      "numisign" : 1,
+      "quillandink" : 2,
+      "selfportraitofhylotlshu" : 4,
+      "tenstudiesinfemalehylotlgy" : 4,
+      "hylotllibraryposter1" : 20,
+      "librarycodex" : 20,
+      "librarymodel" : 20,
+      "pagodaaquarium" : 20,
+      "hylotlmusicbox" : 20
+    },
+    "radioMessages" : {
+      "uniqueProgress" : {
+        "hylotllibraryposter1" : {
+          "messageId" : "hylotl_mission1_up1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This image is hand made and obviously depicts a building of cultural importance...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "librarycodex" : {
+          "messageId" : "hylotl_mission1_up2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The Hylotl protect and preserve knowledge like the most precious treasure... Books are their most precious commodity, could their artifact be stored amongst a repository of tomes?",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "librarymodel" : {
+          "messageId" : "hylotl_mission1_up3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This Library is modelled in exquisite detail - a palace of knowledge! Perhaps their artifact is housed in a place such as this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "pagodaaquarium" : {
+          "messageId" : "hylotl_mission1_up4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This aquarium has a model island on top of it! How curious.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "hylotlmusicbox" : {
+          "messageId" : "hylotl_mission1_up5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This music box plays an ancient tune... It's a commemorative object, I will research what its origins are.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      },
+      "genericProgress" : [
+        {
+          "messageId" : "hylotl_mission1_gp1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hmmm, how curious... I need to cross-reference this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Interesting. This will certainly have a bearing on my research.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "I can't help but respect how much traditional Hylotl culture values knowledge.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hm, I wonder...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is excellent, everything you find contributes to the formation of a theory.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp6",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This clue hints at hidden information.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp7",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This confirms something that I had speculated upon!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp8",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "How peculiar! But surprising information can be even more valuable than expected information...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp9",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "hylotl_mission1_gp10",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is all useful, dear. Keep looking!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "startWithProgress" : {
+        "messageId" : "hylotl_mission1_swp",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "startAlreadyComplete" : {
+        "messageId" : "hylotl_mission1_sac",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "You're quite the collector of Hylotl antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "complete" : {
+        "messageId" : "hylotl_mission1_c",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "Interesting - I'd never heard of the Grand Pagoda Library. I don't need any more information now - ^#71f2f6;come back to the Ark when you're ready^white;, dear.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      }
+    },
+
+    "dialogClueValue" : 4,
+    "dialogClueSpecies" : "hylotl",
+    "clueDialog" : "/dialog/clues.config:hylotl"
+  }
+}

@@ -1,0 +1,856 @@
+{
+  "metadata" : {
+    "name" : "spacestation_medical",
+    "displayName" : "Medical Research Station",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [
+      "trade_medical_bottom1a", "trade_medical_bottom1b", "trade_medical_top1a", "trade_medical_top1b"
+    ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 4,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // MECH BAYS
+    {
+      "name" : "mechbay_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "mechbay_left", "mechbay_right" ] ]
+      ],
+      "def" : [ "tmx", "mechbay_left.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "mechbay_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "mechbay_left", "mechbay_right" ] ]
+      ],
+      "def" : [ "tmx", "mechbay_right.json" ],
+      "chance" : 2
+    },
+
+    // CORES
+    {
+      "name" : "core_horizontal_short",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+        // [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "core_horizontal_short1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short1a", "core_horizontal_short1b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short1a.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_short1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short1a", "core_horizontal_short1b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short1b.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_short2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short2a", "core_horizontal_short2b", "core_horizontal_short2c", "core_horizontal_short2d" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short2a.json" ],
+      "chance" : 0.25
+  },
+
+    {
+      "name" : "core_horizontal_short2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short2a", "core_horizontal_short2b", "core_horizontal_short2c", "core_horizontal_short2d" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short2b.json" ],
+      "chance" : 0.25
+    },
+
+    {
+      "name" : "core_horizontal_short2c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short2a", "core_horizontal_short2b", "core_horizontal_short2c", "core_horizontal_short2d" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short2c.json" ],
+      "chance" : 0.25
+    },
+
+    {
+      "name" : "core_horizontal_short2d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short2a", "core_horizontal_short2b", "core_horizontal_short2c", "core_horizontal_short2d" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short2d.json" ],
+      "chance" : 0.25
+    },
+
+    {
+      "name" : "core_horizontal_short3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short3a", "core_horizontal_short3b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short3a.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_short3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short3a", "core_horizontal_short3b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short3b.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_short4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short4a", "core_horizontal_short4b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short4a.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_short4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_short4a", "core_horizontal_short4b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_short4a.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "core_horizontal_long1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_long1a", "core_horizontal_long1b", "core_horizontal_long2a", "core_horizontal_long2b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_long1a.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "core_horizontal_long1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_long1a", "core_horizontal_long1b", "core_horizontal_long2a", "core_horizontal_long2b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_long1b.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "core_horizontal_long2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_long1a", "core_horizontal_long1b", "core_horizontal_long2a", "core_horizontal_long2b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_long2a.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "core_horizontal_long2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "core_horizontal_long1a", "core_horizontal_long1b", "core_horizontal_long2a", "core_horizontal_long2b" ] ]
+      ],
+      "def" : [ "tmx", "core_horizontal_long2b.json" ],
+      "chance" : 1
+    },
+
+    // CORE CONNECTORS
+    {
+      "name" : "tunnel_horizontal1a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal1a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal1b",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal1b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal2a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal2a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal2b",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal2b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal3a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal3a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal3b",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal3b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal4a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal4a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "tunnel_horizontal4b",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "tunnel_horizontal5a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal5a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal5b",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "tunnel_horizontal5c",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal5c.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "tunnel_horizontal6a",
+      "rules" : [
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel_horizontal6a.json" ],
+      "chance" : 1
+    },
+
+    // VERTICAL ROOMS
+    {
+      "name" : "trade_medical_bottom1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [
+          "trade_medical_bottom1a", "trade_medical_bottom1b", "trade_medical_top1a", "trade_medical_top1b"
+        ] ]
+      ],
+      "def" : [ "tmx", "trade_medical_bottom1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "trade_medical_bottom1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [
+          "trade_medical_bottom1a", "trade_medical_bottom1b", "trade_medical_top1a", "trade_medical_top1b"
+        ] ]
+      ],
+      "def" : [ "tmx", "trade_medical_bottom1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "trade_medical_top1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [
+          "trade_medical_bottom1a", "trade_medical_bottom1b", "trade_medical_top1a", "trade_medical_top1b"
+        ] ]
+      ],
+      "def" : [ "tmx", "trade_medical_top1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "trade_medical_top1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [
+          "trade_medical_bottom1a", "trade_medical_bottom1b", "trade_medical_top1a", "trade_medical_top1b"
+        ] ]
+      ],
+      "def" : [ "tmx", "trade_medical_top1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_bottom1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_bottom2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_bottom_long1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom_long1a.json" ],
+      "chance" : 10
+    },
+    {
+      "name" : "quarters_bottom_long1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom_long1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_bottom_long1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom_long1c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_bottom_long1d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_bottom_long1d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quarters_top1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        // [ "doNotCombineWith", [ "horizontal" ] ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quarters_top2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top_long1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_top_long1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top_long1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_top_long1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top_long1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_top_long1c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_top_long1d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_bottom_long1a", "quarters_bottom_long1b", "quarters_bottom_long1c", "quarters_bottom_long1d", "quarters_top_long1a", "quarters_top_long1b", "quarters_top_long1c", "quarters_top_long1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_top_long1d.json" ],
+      "chance" : 0
+    },
+
+    // LIVING QUARTERS ROOMS
+    {
+      "name" : "quarters_row1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row1a", "quarters_row1b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row1a", "quarters_row1b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row1c", "quarters_row1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row1c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row1d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row1c", "quarters_row1d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row1d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row2a", "quarters_row2b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row2a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row2a", "quarters_row2b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row2b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row2c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row2c", "quarters_row2d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row2c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row2d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row2c", "quarters_row2d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row2d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row3a", "quarters_row3b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row3a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row3a", "quarters_row3b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row3b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row3c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row3c", "quarters_row3d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row3c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row3d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row3c", "quarters_row3d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row3d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row4a", "quarters_row4b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row4a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row4a", "quarters_row4b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row4c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row4c", "quarters_row4d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row4c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row4d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row4c", "quarters_row4d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row4d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row5a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row5a", "quarters_row5b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row5a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row5b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row5a", "quarters_row5b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row5c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row5c", "quarters_row5d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row5c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row5d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row5c", "quarters_row5d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row5d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row6a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row6a", "quarters_row6b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row6a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row6b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row6a", "quarters_row6b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row6b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row6c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row6c", "quarters_row6d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row6c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row6d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row6a", "quarters_row6d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row6d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row7a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row7a", "quarters_row7b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row7a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row7b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row7a", "quarters_row7b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row7b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row7c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row7c", "quarters_row7d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row7c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row7d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row7c", "quarters_row7d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row7d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row8a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row8a", "quarters_row8b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row8a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row8b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row8a", "quarters_row8b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row8b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row8c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row8c", "quarters_row8d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row8c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row8d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row8c", "quarters_row8d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row8d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row9a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row9a", "quarters_row9b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row9a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row9b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row9a", "quarters_row9b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row9b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row9c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row9c", "quarters_row9d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row9c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row9d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row9c", "quarters_row9d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row9d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row10a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row10a", "quarters_row10b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row10a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row10b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row10a", "quarters_row10b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row10b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row10c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row10c", "quarters_row10d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row10c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row10d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row10c", "quarters_row10d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row10d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row11a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row11a", "quarters_row11b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row11a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row11b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row11a", "quarters_row11b" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row11b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row11c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row11c", "quarters_row11d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row11c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "quarters_row11d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "quarters_row11c", "quarters_row11d" ] ]
+      ],
+      "def" : [ "tmx", "quarters_row11d.json" ],
+      "chance" : 0
+    }
+  ]
+}

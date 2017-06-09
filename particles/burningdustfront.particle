@@ -1,0 +1,20 @@
+{
+  "kind" : "burningdustfront",
+  "definition" : {
+    "type" : "animated",
+    "looping" : true,
+    "animation" : "/animations/statuseffects/burning/burning.animation",
+    "position" : [0, 0],
+    "finalVelocity" : [0, 3],
+    "approach" : [0, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.4,
+    "fade" : 1,
+    "size" : 1.0,
+    "layer" : "front",
+    "timeToLive" : 0.4,
+    "variance" : {
+      "initialVelocity" : [2.0, 2.0]
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "smallleaftailbody",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "smallleaftailbody.png"
+  }
+}

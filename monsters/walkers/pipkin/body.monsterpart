@@ -1,0 +1,9 @@
+{
+  "name" : "pipkin",
+  "category" : "pipkin",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pipkin.png"
+  }
+}

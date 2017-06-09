@@ -1,0 +1,21 @@
+{
+  "kind" : "deathfizz1left",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/fizz1/fizz1.animation",
+    "size" : 1,
+    "angularVelocity" : 20,
+    "fade" : 1,
+    "destructionTime" : 1,
+    "position" : [0, 0],
+    "initialVelocity" : [-8, 8],
+    "finalVelocity" : [-3, -4],
+    "approach" : [15, 15],
+    "timeToLive" : 1,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [-4, 2],
+      "finalVelocity" : [-3, -4]
+    }
+  }
+}

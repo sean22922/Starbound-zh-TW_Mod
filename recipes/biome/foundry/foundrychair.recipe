@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "metallic", "count" : 20 }
+  ],
+  "output" : { "item" : "foundrychair", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

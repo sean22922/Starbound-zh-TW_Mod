@@ -1,0 +1,25 @@
+{
+  "name" : "ceilinggrub",
+  "description" : "Some kind of vile grub.",
+  "shortdescription" : "Some kind of vile grub.",
+  "floranDescription" : "Wiggly worm.",
+  "glitchDescription" : "Statement. An unknown form of grub.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

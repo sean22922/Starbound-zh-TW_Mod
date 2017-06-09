@@ -1,0 +1,51 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.25,
+      "repeatY" : true,
+      "directives" : "?brightness=-10"
+    },
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.3,
+      "repeatY" : true,
+      "directives" : "?brightness=-20"
+    },
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.35,
+      "repeatY" : true,
+      "directives" : "?brightness=-30"
+    },
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.4,
+      "repeatY" : true,
+      "directives" : "?brightness=-40"
+    },
+    {
+      "kind" : "tile/cavern",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.5,
+      "repeatY" : true,
+      "directives" : "?brightness=-90"
+    }
+  ]
+}

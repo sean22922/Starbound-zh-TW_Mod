@@ -1,0 +1,165 @@
+{
+  "metadata" : {
+    "name" : "hylotlcity",
+    "species" : "hylotl",
+    "rules" : [
+    ],
+    "anchor" : [ "hylotlendleft1", "hylotlendright1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "hylotlcitygarden1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcitygarden1" ] ]
+
+      ],
+      "def" : [ "tmx", "hylotlcitygarden1.json" ]
+    },
+    {
+      "name" : "hylotlcitygarden2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcitygarden2" ] ]
+
+      ],
+      "def" : [ "tmx", "hylotlcitygarden2.json" ]
+    },
+    {
+      "name" : "hylotlcitygardenbunny1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcitygardenbunny1" ] ]
+
+      ],
+      "def" : [ "tmx", "hylotlcitygardenbunny1.json" ]
+    },
+     {
+      "name" : "hylotlcitygardenbunny1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcitygardenbunny1clue" ] ],
+        [ "doNotCombineWith", [ "hylotlcitygardenbunny1", "hylotlcityhousesmall3clue", "hylotlcityhouse2clue", "hylotlcityhousesmall2clue", "hylotlcityhouse1clue" ] ]
+
+      ],
+      "def" : [ "tmx", "hylotlcitygardenbunny1clue.json" ]
+    },
+    {
+      "name" : "hylotlcityhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "hylotlcityhouse1" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhouse1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhouse1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcityhouse1clue" ] ],
+        [ "doNotCombineWith", [ "hylotlcityhouse1", "hylotlcityhousesmall3clue", "hylotlcityhouse2clue", "hylotlcityhousesmall2clue", "hylotlcitygardenbunny1clue" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhouse1clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "hylotlcityhouse2" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhouse2.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhouse2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcityhouse2clue" ] ],
+        [ "doNotCombineWith", [ "hylotlcityhouse2", "hylotlcityhousesmall3clue", "hylotlcitygardenbunny1clue", "hylotlcityhousesmall2clue", "hylotlcityhouse1clue" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhouse2clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhousesmall1",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "hylotlcityhousesmall1" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhousesmall1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhousesmall2",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "hylotlcityhousesmall2" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhousesmall2.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhousesmall2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcityhousesmall2clue" ] ],
+        [ "doNotCombineWith", [ "hylotlcityhousesmall2", "hylotlcityhousesmall3clue", "hylotlcitygardenbunny1clue", "hylotlcityhouse2clue", "hylotlcityhouse1clue" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhousesmall2clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhousesmall3",
+      "rules" : [
+        [ "maxSpawnCount", [4] ],
+        [ "doNotConnectToPart", [ "hylotlcityhousesmall3" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhousesmall3.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityhousesmall3clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcityhousesmall3clue" ] ],
+        [ "doNotCombineWith", [ "hylotlcityhousesmall3", "hylotlcityhousesmall2clue", "hylotlcitygardenbunny1clue", "hylotlcityhouse2clue", "hylotlcityhouse1clue" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityhousesmall3clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlcityshop1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "hylotlcityshop1" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcityshop1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "hylotlendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "hylotlendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "hylotlendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "hylotlendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

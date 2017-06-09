@@ -1,0 +1,19 @@
+{
+  "projectileName" : "snuffishspit",
+  "image" : "snuffishspit.png",
+  "physics" : "grenade",
+  "animationCycle" : 0.25,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/acidspitexplosion/acidspitexplosion.config"
+    }
+  ],
+  "power" : 6.0,
+  "speed" : 30,
+  "damageKind" : "ice",
+  "emitters" : [ "iceplasmarocket", "icetrail" ]
+}

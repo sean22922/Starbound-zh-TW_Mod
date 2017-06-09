@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 20 }
+  ],
+  "output" : { "item" : "stonetiles", "count" : 10 },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

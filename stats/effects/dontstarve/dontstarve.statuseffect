@@ -1,0 +1,11 @@
+{
+  "name" : "dontstarve",
+  "effectConfig" : {
+
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "dontstarve.lua"
+  ]
+}

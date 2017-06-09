@@ -1,0 +1,73 @@
+{
+  "projectileName" : "clusterstatusprojectile",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 0.001,
+  "damageKindImage" : "icon.png",
+  "image" : "clusterstatusprojectile.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 20
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 40
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 60
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 80
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 100
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 120
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 140
+    },
+    {
+      "action" : "projectile",
+      "type" : "bouncycluster",
+      "fuzzAngle" : 10,
+      "angleAdjust" : 180
+    }
+  ],
+  "power" : 0,
+  "piercing" : true,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-36, 0], [-24, -24], [0, -36], [24, -24], [36, 0], [24, 24], [0, 36], [-24, 24] ],
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" }
+}

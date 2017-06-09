@@ -1,0 +1,15 @@
+{
+  "name" : "largeeyestalkhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeeyestalkhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelash",
+    "projectileSourcePosition" : [1, -0.5]
+  }
+}

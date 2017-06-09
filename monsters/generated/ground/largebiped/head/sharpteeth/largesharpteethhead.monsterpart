@@ -1,0 +1,13 @@
+{
+  "name" : "largesharpteethhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largesharpteethhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

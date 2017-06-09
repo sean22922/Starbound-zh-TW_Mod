@@ -1,0 +1,33 @@
+{
+  "projectileName" : "iceboomerang",
+  "image" : "iceboomerang.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 8,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : false,
+  "orientationLocked" : true,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "periodicActions" : [
+    {
+      "time" : 0.05,
+      "loop" : true,
+      "action" : "projectile",
+      "type" : "icetrail",
+      "fuzzAngle" : 360
+   }
+  ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 5.0,
+  "speed" : 60,
+  "damageKind" : "ice",
+  "physics" : "laser",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 5,
+  "emitters" : [ "iceplasmarocket" ],
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "/scripts/projectiles/boomerangprojectile.lua" ]
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "smallbellychest",
+  "category" : "smallbiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smallbellychest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.3,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

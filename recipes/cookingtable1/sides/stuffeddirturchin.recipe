@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "dirturchin", "count" : 1 },
+    { "item" : "cheese", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "stuffeddirturchin", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "stuffeddirturchin" }
+}

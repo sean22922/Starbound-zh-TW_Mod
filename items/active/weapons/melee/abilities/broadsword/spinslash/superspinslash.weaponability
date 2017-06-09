@@ -1,0 +1,98 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "spinSwoosh" : {
+          "default" : "idle",
+          "states" : {
+            "idle" : {
+            },
+            "fire" : {
+              "frames" : 3,
+              "cycle" : 0.075,
+              "mode" : "transition",
+              "transition" : "idle",
+              "properties" : {
+                "persistentSound" : "/sfx/melee/sword_superspinslash.ogg"
+              }
+            }
+          }
+        }
+      },
+      "parts" : {
+        "spinSwoosh" : {
+          "properties" : {
+            "zLevel" : -1,
+            "centered" : true,
+            "offset" : [0, 0.75],
+            "transformationGroups" : ["swoosh"],
+            "rotationCenter" : [0, 0]
+          },
+          "partStates" : {
+            "spinSwoosh" : {
+              "idle" : {
+                "properties" : {
+                  "image" : ""
+                }
+              },
+              "fire" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/broadsword/spinslash/spinswoosh.png:<frame><swooshDirectives>",
+                  "damageArea" : [ [-1.5, 0.875], [2.75, 0.875], [4.125, 0.5], [5.0, 0], [5.0, -0.5], [4.625, -0.875], [3.5, -1.375], [-1.5, -1.375] ]
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "ability" : {
+    "name" : "Super Spin Slash",
+    "type" : "superspinslash",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/spinslash/superspinslash.lua"],
+    "class" : "SuperSpinSlash",
+
+    "energyUsage" : 120.0,
+    "cooldownTime" : 0.5,
+
+    "damageConfig" : {
+      "damageSourceKind" : "broadsword",
+      "statusEffects" : [ ],
+      "baseDamage" : 3,
+      "knockback" : 20,
+      "knockbackMode" : "facing",
+      "timeout" : 0.10,
+      "timeoutGroup" : "alt"
+    },
+
+    "armRotationOffsets" : [20, -20, 0, 0, -20, 20, 0, 0],
+
+    "hover" : true,
+    "hoverYSpeed" : 5,
+    "hoverForce" : 200,
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.025,
+        "armRotation" : 0,
+        "weaponRotation" : -80,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "slash" : {
+        "duration" : 0.025,
+        "armRotation" : -45,
+        "weaponRotation" : -45,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

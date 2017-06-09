@@ -1,0 +1,65 @@
+{
+  "name" : "volcanic",
+  "swaps" : [
+      // Savannah, Volcanic, Scorched City - SUPER TAN //
+    {
+      "6f2919" : "574b38", "a85636" : "81725b", "e0975c" : "bdae97", "ffca8a" : "dfd3c1",
+      "735e3a" : "7F6D52", "a38d59" : "BFA27A", "d9c189" : "EFD5AB", "f7e7b2" : "F9E6CC",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Volcanic, Alien - Burgandy Purple //
+    {
+      "6f2919" : "6f1936", "a85636" : "a83651", "e0975c" : "e05c64", "ffca8a" : "ff8e8a",
+      "735e3a" : "3a3e73", "a38d59" : "5b59a3", "d9c189" : "8b89d9", "f7e7b2" : "b8b2f7",
+      "951500" : "949500", "be1b00" : "bbbe00", "dc1f00" : "d9dc00", "f32200" : "eff300"
+    },
+      // Volcanic, Magma, Scorched City - DarkGrey Red //
+    {
+      "6f2919" : "171717", "a85636" : "515151", "e0975c" : "767676", "ffca8a" : "9f9f9f",
+      "735e3a" : "503224", "a38d59" : "965751", "d9c189" : "E07F7F", "f7e7b2" : "EFA4AE",
+      "951500" : "953800", "be1b00" : "be5000", "dc1f00" : "DC7C00", "f32200" : "F39B00"
+    },
+      // Volcanic, Ice - Black Grey //
+    {
+      "6f2919" : "11111E", "a85636" : "33333A", "e0975c" : "5C5C5E", "ffca8a" : "898989",
+      "735e3a" : "4b4b4b", "a38d59" : "828282", "d9c189" : "b6b6b6", "f7e7b2" : "d9d9d9",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Volcanic, Scorched City - Light Grey RedTan //
+    {
+      "6f2919" : "4b4b4b", "a85636" : "828282", "e0975c" : "b6b6b6", "ffca8a" : "d9d9d9",
+      "735e3a" : "66452e", "a38d59" : "a47c56", "d9c189" : "d9aa7b", "f7e7b2" : "f7ddb0",
+      "951500" : "95004a", "be1b00" : "be005e", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Desert, Savannah, Volcanic - Faded Ashy //
+    {
+      "6f2919" : "5F5B4B", "a85636" : "939070", "e0975c" : "C2C2A0", "ffca8a" : "E5E5D4",
+      "735e3a" : "574B38", "a38d59" : "81725B", "d9c189" : "BDAE97", "f7e7b2" : "DFD3C1",
+      "951500" : "1C2293", "be1b00" : "1B4EC4", "dc1f00" : "3F7CFF", "f32200" : "2BC2FF"
+    },
+      // Magma, Volcanic - Crimson Salmon //
+    {
+      "6f2919" : "351819", "a85636" : "69292B", "e0975c" : "A4353A", "ffca8a" : "DB6169",
+      "735e3a" : "503224", "a38d59" : "965751", "d9c189" : "E07F7F", "f7e7b2" : "EFA4AE",
+      "951500" : "891400", "be1b00" : "D52B00", "dc1f00" : "FF7400", "f32200" : "FFB632"
+    },
+      // Scorched City, Volcanic - Grey Burgandy //
+    {
+      "6f2919" : "4B4B4B", "a85636" : "828282", "e0975c" : "B6B6B6", "ffca8a" : "D9D9D9",
+      "735e3a" : "6F1936", "a38d59" : "A83651", "d9c189" : "E05C64", "f7e7b2" : "FF8E8A",
+      "951500" : "95004A", "be1b00" : "BE005E", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Desert, Alien, Volcanic, Scorched City - Dark Dark Black Brown //
+    {
+      "6f2919" : "171717", "a85636" : "262626", "e0975c" : "383838", "ffca8a" : "4C4C4C",
+      "735e3a" : "231717", "a38d59" : "4C3C35", "d9c189" : "766559", "f7e7b2" : "8E7A6C",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    },
+      // Desert, Savannah, Volcanic - Pale Brown Dark //
+    {
+      "6f2919" : "66452E", "a85636" : "A47C56", "e0975c" : "D9AA7B", "ffca8a" : "F7DDB0",
+      "735e3a" : "231717", "a38d59" : "4C3C35", "d9c189" : "766559", "f7e7b2" : "8E7A6C",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    }
+  ]
+}

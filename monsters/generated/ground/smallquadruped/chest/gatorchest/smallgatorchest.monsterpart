@@ -1,0 +1,9 @@
+{
+  "name" : "smallgatorchest",
+  "category" : "smallquadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smallgatorchest.png"
+  }
+}

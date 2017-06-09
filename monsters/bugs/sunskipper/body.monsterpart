@@ -1,0 +1,9 @@
+{
+  "name" : "sunskipper",
+  "category" : "sunskipper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "sunskipper.png"
+  }
+}

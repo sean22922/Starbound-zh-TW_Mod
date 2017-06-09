@@ -1,0 +1,18 @@
+{
+  "projectileName" : "hadouken",
+  "physics" : "bullet",
+  "bounces" : 0,
+  "timeToLive" : 20,
+  "image" : "hadouken.png",
+  "animationCycle" : 1.5,
+  "lightColor" : [0, 0, 50],
+  "frameNumber" : 8,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "power" : 15,
+  "damageKind" : "default"
+}

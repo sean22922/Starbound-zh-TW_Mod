@@ -1,0 +1,141 @@
+{
+  "id" : "new_stock2.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Some Person"
+      }
+    },
+    "newItem" : {
+      "type" : "item",
+      "example" : {
+        "item" : "bananahead"
+      }
+    },
+    "tradedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "fabric", "count" : 2 },
+          { "name" : "goldore", "count" : 1 }
+        ]
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location",
+      "example" : {
+        "name" : "dark, scary cave"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/new_stock.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "title" : {
+        "default" : [
+          "<questGiver>'s second trade",
+          "<questGiver>'s booming business"
+        ]
+      },
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran is pleased about success from new ssstock. Now Floran wants even better items to sell!",
+          "^cyan;More items resssulted in more customers. Now Floran wants even more itemss!"
+        ],
+        "glitch" : [
+          "^cyan;Eager. Things are going well! Help me reach my full potential as a merchant.",
+          "^cyan;Resourceful. An opportunity has arisen for me to expand my store. I have to take it!"
+        ],
+        "default" : [
+          "^cyan;My store is getting popular! Now is a good time to stock some high quality merchandise....",
+          "^cyan;Getting new things to sell helped my store last time! Can you help me do it again?"
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Now isss our time. Travelling merchant ^orange;<target> ^white;is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>, and <target.pronoun.subject> has promisssed that  ^green;<target.pronoun.subject> will trade <target.pronoun.possessiveDet> special goods for ^orange;<tradedItems>. ^white;Please do Floran a favour and ^green;make the deal!",
+            "Floran is excited to hear that travelling merchant ^orange;<target>^white; is currently visssiting the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Please ^green;bring <target.pronoun.object> these <tradedItems> ^white;so that <target.pronoun.subject> will help Floran sssstock a new product, it is all the rage!"
+          ],
+          "glitch" : [
+            "Jealous. The merchant known as ^orange;<target>^white; is a popular fellow... Maybe you could ^green;deliver ^orange;<tradedItems>^green; to <target.pronoun.object> at the ^orange;<spawnPoint>^white;<spawnPoint.direction> in exchange for the supplies I need?",
+            "Hopeful. If you speak to ^orange;<target>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> <target.pronoun.subject> might have the materials I need to create a new item of stock. Please ^green;see if <target.pronoun.subject> will accept ^orange;<tradedItems> ^white;in exchange"
+          ],
+          "default" : [
+            "Just in time! Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for my ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+            "Now to finish the task! <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> to trade. Can you ^green;find ^orange;<target>^green; and give <target.pronoun.object> our ^orange;<tradedItems>^green; in return for the goods we need?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "When the town hearsss that Floran's shop has a new <newItem>, Floran is sure they will be queue out the door!",
+            "Floran can't wait for business to pick up as people hear about the new sstock in Floran's shop. <newItem> is very popular right now!"
+          ],
+          "glitch" : [
+            "Overjoyed. I am happy to announce that I will now stock a <newItem> as part of my regular inventory. Thank you for your help!",
+            "Thrilled. You did it! Now I will always have a <newItem> in stock alongside my exisiting range of products."
+          ],
+          "default" : [
+            "Success! If you need a brand new <newItem>, my store is the place to come from now on! Thanks for your help.",
+            "Thanks to your delivery, I'm now able to sell this new <newItem>! If you want one, you know where to find me!"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "I was unable to help <questGiver> acquire new stock for <target.pronoun.possessiveDet> store. <target.pronoun.capitalSubject> probably has enough as it is.",
+          "I didn't help <questGiver> succeed in acquiring new stock. "
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : [],
+
+    // Player -> Target NPC
+    "requestTradeNotification" : "requestTrade",
+    // Target NPC -> Player
+    "tradeAcceptedEventName" : "tradeAccepted",
+
+    // Player -> Quest Giver
+    "stockDeliveredNotification" : "stockDelivered",
+    // Quest Giver -> Player
+    "stockAcceptedEventName" : "stockAccepted",
+
+    "parcelName" : ["Parcel for <questGiver>"],
+    "parcelDescription" : ["It's for <questGiver>. I shouldn't open it."],
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Give <tradedItems> to <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return parcel to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    },
+    "turnInHidesIndicators" : false
+  }
+}

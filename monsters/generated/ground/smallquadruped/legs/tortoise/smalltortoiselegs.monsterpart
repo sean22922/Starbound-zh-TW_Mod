@@ -1,0 +1,16 @@
+{
+  "name" : "smalltortoiselegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smalltortoiseflegs.png",
+    "backLegs" : "smalltortoiseblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.4,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "fishingspot",
+  "category" : "fishingspot",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingspot.png"
+  }
+}

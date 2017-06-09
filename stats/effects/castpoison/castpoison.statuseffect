@@ -1,0 +1,12 @@
+{
+  "name" : "castpoison",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "castpoison.lua"
+  ],
+
+  "animationConfig" : "castpoison.animation"
+}

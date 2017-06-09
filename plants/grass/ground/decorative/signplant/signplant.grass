@@ -1,0 +1,8 @@
+{
+  "name" : "signplant",
+  "description" : "A strange plant with a marking on it.",
+  "shortdescription" : "A strange plant.",
+  "floranDescription" : "Floran use this plant for sssigns.",
+  "glitchDescription" : "Confusion. This plant appears to carry a message.",
+  "images" : [ "signplant1.png", "signplant2.png", "signplant3.png", "signplant4.png", "signplant5.png" ]
+}

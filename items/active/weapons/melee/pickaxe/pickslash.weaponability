@@ -1,0 +1,49 @@
+{
+  "animationParts" : { },
+  "animationCustom" : { },
+
+  "ability" : {
+    "type" : "pickslash",
+    "scripts" : ["/items/active/weapons/melee/pickaxe/pickslash.lua"],
+    "class" : "PickSlash",
+    
+    "energyUsage" : 0,
+
+    "fireTime" : 0.3,
+    "baseDps" : 0.0,
+
+    "toolRange" : 5.5,
+    "blockRadius" : 3,
+    "altBlockRadius" : 1,
+    "tileDamage" : 4.8,
+    "tileDamageType" : "beamish",
+    "harvestLevel" : 99,
+
+    "stances" : {
+      "idle" : {
+        "armRotation" : -90,
+        "weaponRotation" : -10,
+        "allowRotate" : false,
+        "allowFlip" : true,
+        "aimAngle" : 0
+      },
+      "windup" : {
+        "duration" : 0.0,
+        "armRotation" : -90,
+        "weaponRotation" : -10,
+        "allowRotate" : false,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0.3,
+        "armRotation" : -45,
+        "weaponRotation" : -10,
+        "armAngularVelocity" : 360,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  }
+}

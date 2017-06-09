@@ -1,0 +1,35 @@
+{
+  "type" : "astrotenant",
+  "baseType" : "generictenant",
+
+  "scriptConfig" : {
+
+    "questGenerator" : {
+      "pools" : ["common", "tenant"]
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "industrialcrewhead", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "chest" : [
+              { "name" : "spacesuitchest", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "legs" : [
+              { "name" : "spacesuitlegs", "parameters" : { "colorIndex" : [5] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

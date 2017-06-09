@@ -1,0 +1,19 @@
+{
+  "id" : "apexhistory9",
+  "species" : "apex",
+  "title" : "Miniknog Crisis Aversion",
+  "description" : "A transcript of a Miniknog PSA.",
+  "icon" : "apexcover4.png",
+  "contentPages" : [
+    "THIS IS A MINIKNOG PUBLIC SERVICE ANNOUNCEMENT
+
+All water sources have been discovered to contain a deadly pathogen //
+The hard-working doctors of the Miniknog have already discovered a cure //
+Vaccination includes free enrolment into the Vestigi-Evo Process. This is not optional //
+Citizens must report to their local town hall immediately for vaccination //"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

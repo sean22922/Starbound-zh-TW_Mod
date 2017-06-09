@@ -1,0 +1,194 @@
+{
+  "metadata" : {
+    "name" : "desertmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "arch1", "arch2", "arch3", "arch4", "column1", "desert1", "desert2", "desertcabin1", "desertcabin2", "desertcabin3", "desertcabin4", "desertcabin5", "deserthouse1", "desertpillar1", "desertpillar2", "desertpyramid1", "desertwell1", "desertwell2", "desertwell3", "oldhouse1", "oldhouse2", "oldhouse3", "spikepit1", "spikepit2", "spikepit3" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "arch1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arch1.json" ]
+    },
+    {
+      "name" : "arch2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arch2.json" ]
+    },
+    {
+      "name" : "arch3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arch3.json" ]
+    },
+    {
+      "name" : "arch4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arch4.json" ]
+    },
+    {
+      "name" : "column1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "column1.json" ]
+    },
+    {
+      "name" : "desert1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desert1.json" ]
+    },
+    {
+      "name" : "desert2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desert2.json" ]
+    },
+    {
+      "name" : "desertcabin1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertcabin1.json" ]
+    },
+    {
+      "name" : "desertcabin2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertcabin2.json" ]
+    },
+    {
+      "name" : "desertcabin3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertcabin3.json" ]
+    },
+    {
+      "name" : "desertcabin4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertcabin4.json" ]
+    },
+    {
+      "name" : "desertcabin5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertcabin5.json" ]
+    },
+    {
+      "name" : "deserthouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "deserthouse1.json" ]
+    },
+    {
+      "name" : "desertpillar1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertpillar1.json" ]
+    },
+    {
+      "name" : "desertpillar2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertpillar2.json" ]
+    },
+    {
+      "name" : "desertpyramid1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertpyramid1.json" ]
+    },
+    {
+      "name" : "desertwell1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertwell1.json" ]
+    },
+    {
+      "name" : "desertwell2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertwell2.json" ]
+    },
+    {
+      "name" : "desertwell3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "desertwell3.json" ]
+    },
+    {
+      "name" : "oldhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oldhouse1.json" ]
+    },
+    {
+      "name" : "oldhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oldhouse2.json" ]
+    },
+    {
+      "name" : "oldhouse3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "oldhouse3.json" ]
+    },
+    {
+      "name" : "spikepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit1.json" ]
+    },
+    {
+      "name" : "spikepit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit2.json" ]
+    },
+    {
+      "name" : "spikepit3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit3.json" ]
+    }
+
+  ]
+}

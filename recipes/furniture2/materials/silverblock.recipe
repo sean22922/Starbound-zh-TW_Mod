@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "silverblock",
+    "count" : 30
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

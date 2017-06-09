@@ -1,0 +1,55 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "sounds" : {
+      "fireOrb" : [ "/sfx/melee/travelingslash_electric1.ogg", "/sfx/melee/travelingslash_electric3.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Lucaine's Orb",
+    "type" : "energyorb",
+    "scripts" : ["/items/active/weapons/whip/abilities/energyorb.lua"],
+    "class" : "EnergyOrb",
+
+    "projectileOffset" : [4, 0],
+    "projectileType" : "whipshock",
+
+    "baseDamage" : 2.5,
+    "energyUsage" : 120,
+    "cooldownTime" : 1.5,
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : 100,
+        "weaponRotation" : 0,
+        "weaponRotationCenter" : [0.0, 0.0],
+        "weaponOffset" : [-1.3, 0.625],
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "extend" : {
+        "duration" : 0.1,
+        "armRotation" : 0,
+        "weaponRotation" : -90,
+        "weaponRotationCenter" : [0.0, 0.0],
+        "weaponOffset" : [-1.3, 0.875],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "fire" : {
+        "duration" : 0.1,
+        "armRotation" : 0,
+        "weaponRotation" : -90,
+        "weaponRotationCenter" : [0.0, 0.0],
+        "weaponOffset" : [-1.3, 0.875],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

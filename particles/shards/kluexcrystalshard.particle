@@ -1,0 +1,21 @@
+{
+  "kind" : "kluexcrystalshard",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/shards/kluexcrystalshard.animation",
+    "size" : 1.0,
+    "initialVelocity" : [0.0, 30.0],
+    "finalVelocity" : [0.0, -50.0],
+    "approach" : [0.3, 40],
+    "timeToLive" : 0.5,
+    "layer" : "middle",
+    "collidesForeground" : true,
+    "variance" : {
+      "position" : [1, 1],
+      "initialVelocity" : [5, 3],
+      "finalVelocity" : [0, 20],
+      "rotation" : 180,
+      "angularVelocity" : 180
+    }
+  }
+}

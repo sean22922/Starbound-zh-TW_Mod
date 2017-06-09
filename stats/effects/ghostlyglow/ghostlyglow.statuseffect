@@ -1,0 +1,11 @@
+{
+  "name" : "ghostlyglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "ghostlyglow.lua"
+  ],
+
+  "animationConfig" : "ghostlyglow.animation"
+}

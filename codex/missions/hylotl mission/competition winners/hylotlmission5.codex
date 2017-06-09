@@ -1,0 +1,45 @@
+{
+  "id" : "hylotlmission5",
+  "species" : "hylotl",
+  "title" : "Ironbeak's Journal",
+  "description" : "An excerpt entitled \"Day 23 of my escape\" by Ironbeak.",
+  "icon" : "ironbeakcover.png",
+  "contentPages" : [
+    "I only wanted to use the microwave.
+
+For the past three days I'd been heating my food over the barrel fires smouldering in the cargo hold (though, truthfully, I have yet to encounter a part of this leviathan ship that I would not qualify as part of the cargo hold), but this made everything taste of gasoline.
+
+Or maybe the gasoline taste was psychological.",
+
+"The only way to know was to find the microwave, to which the captain had given me very particular directions (through the galley's ventilation shaft, past the third broken television, left at the skeleton). But all I saw when I arrived at that derelict crawl space was an arcade cabinet that appeared to have been dragged through a greasefire.
+
+Upon inspection, however, I noticed the word \"popcorn\" crudely etched over a button previously labelled \"insert coin.\"",
+
+"You get what you pay for, I guess.
+
+It's not a raw deal, considering I had nothing with which to pay passage out of this star system except a promise to earn my keep. Better than the alternative (imprisonment, execution, or worse on Avos). It's just that I hadn't expected to need a handgun to protect myself from crocodiles on my way to the lavatory. I'd expected to be working among a crew of fellow travellers, given this ship is large enough to house a hydroelectric dam.",
+
+"But I soon discovered its only occupants were the captain and myself, and our journey through the Horsebutt Nebula would take weeks as we made hundreds of inexplicable pit-stops to excavate asteroids and expand the complex garbage ecosystem of the ship's interior.
+
+Maybe there had been a crew, once, I thought, before the crocodiles. I opened the cabinet's coin door and placed my bowl of uncooked pearlpeas inside.",
+
+"When I pressed the button that once read \"insert coin,\" a fan whirred and a maze appeared on the ancient cathode ray screen. I waited, but nothing seemed to happen. Experimenting with what remained of the joystick revealed it worked to navigate my invisible avatar through the labyrinth.
+
+At first, I was entertained by what seemed like a pleasant distraction, then the game took a sinister turn when I noticed a menacing shadow following me through its hallways.",
+
+"The maze provided no weapons, and when I attempted to flee, the shadow appeared on the opposite wall, growing ever larger.
+
+Only when I felt the sound in my belly-a low, stuttering creak like a buckling girder-did I realize the shadow was not digital.
+
+The crocodile's growl preceded its charge from the ventilation shaft and gave me just enough time to unload my pistol down its throat.",
+
+"Perhaps turning myself in to the Stargazer militia would have been easier, I reflected. Not as rewarding, though.
+
+The arcade machine chimed. When I pried open the coin door, waves of popcorn erupted from it and cascaded across the sticky floor. All things considered, it didn't taste half bad."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "sounds" : {
+    "shipUpgrade" : [ "/sfx/interface/ship_powerup.ogg" ]
+  }
+}

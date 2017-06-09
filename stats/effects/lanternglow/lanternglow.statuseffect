@@ -1,0 +1,11 @@
+{
+  "name" : "lanternglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "lanternglow.lua"
+  ],
+
+  "animationConfig" : "lanternglow.animation"
+}

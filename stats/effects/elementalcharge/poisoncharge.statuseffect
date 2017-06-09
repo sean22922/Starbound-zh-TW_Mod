@@ -1,0 +1,12 @@
+{
+  "name" : "poisoncharge",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "elementalcharge.lua"
+  ],
+
+  "animationConfig" : "poisoncharge.animation"
+}

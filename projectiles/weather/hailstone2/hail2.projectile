@@ -1,0 +1,17 @@
+{
+  "projectileName" : "hail2",
+  "image" : "hail2.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/weatheringexplosion/weatheringexplosion.config"
+    }
+  ],
+  "power" : 1.0,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef"
+}

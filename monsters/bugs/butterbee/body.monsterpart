@@ -1,0 +1,9 @@
+{
+  "name" : "butterbee",
+  "category" : "butterbee",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "butterbee.png"
+  }
+}

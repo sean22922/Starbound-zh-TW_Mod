@@ -1,0 +1,18 @@
+{
+  "frameGrid" : {
+    "size" : [27, 28],
+    "dimensions" : [8, 2],
+    "names" : [
+      ["activating.1", "activating.2", "activating.3", "activating.4", "activating.5", "inactive.1", null, null],
+      ["active.1", "active.2", "active.3", "active.4", "active.5", "active.6", "active.7", "active.8"]
+    ]
+  },
+
+  "aliases" : {
+    "deactivating.1" : "activating.5",
+    "deactivating.2" : "activating.4",
+    "deactivating.3" : "activating.3",
+    "deactivating.4" : "activating.2",
+    "deactivating.5" : "activating.1"
+  }
+}

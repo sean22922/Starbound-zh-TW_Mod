@@ -1,0 +1,20 @@
+{
+  "id" : "lunarmission4",
+  "species" : "human",
+  "title" : "Emergency Lockdown",
+  "description" : "A message sent by Letheia Corporation in the event of an incident.",
+  "icon" : "lunarmission4.png",
+  "contentPages" : [
+    "This facility has been put into full lockdown in accordance with procedure Alpha1a: Awakening.
+
+An erchius lifeform has been awakened in your facility. We ask that employees remain calm. Letters will be sent to your families, thanking them for your services.
+
+We hope you have a nice day,
+The Letheia Corporation"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

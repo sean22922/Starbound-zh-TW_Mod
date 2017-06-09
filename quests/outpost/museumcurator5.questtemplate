@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator5",
+  "prerequisites" : [ "museumcurator4" ],
+  "title" : "^green;Fresh Tunes",
+  "text" : "My museum's almost complete! And I think Nuru might actually be coming round to the idea. I've heard about an interesting object called an \"^orange;Old Television^white;\" that would fit well in the human exhibit. ^green;Could you bring me one^white;? They're common in human camps, but not atypical in other areas too.",
+  "completionText" : "Wonderful! It's so kind of you to be collecting these things for me. Just one more exhibit left now!",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [
+    [ [ "manipulatormodule", 1 ], [ "healingaugment2", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "basictv",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

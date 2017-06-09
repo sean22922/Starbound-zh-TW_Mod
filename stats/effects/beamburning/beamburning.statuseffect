@@ -1,0 +1,16 @@
+{
+  "name" : "beamburning",
+  "blockingStat" : "fireStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "beamburning.lua"
+  ],
+
+  "animationConfig" : "beamburning.animation",
+
+  "label" : "Burning",
+  "icon" : "/interface/statuses/fire.png"
+}

@@ -1,0 +1,228 @@
+{
+  "metadata" : {
+    "name" : "junglemicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "cliffhouse1", "cliffhouse2", "cliffsidecave1", "cliffsidecave2", "cliffsidecave3", "cliffsidecave4", "cliffsidecave5", "cliffsidecave6", "cliffsidecave7", "cliffsidecave8", "cliffsidecave9", "cliffsidecave10", "cliffsidecave11", "cliffsidecave12", "cliffsidecave13", "pond1", "tunnel1", "spikepit1", "spikepit2", "spikepit3", "curvy1", "watchtower1", "mound1", "jungleterrain1", "jungleterrain2", "jungleterrain3", "jungleterrain4", "jungleterrain5", "jungleterrain6", "jungleterrain7" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "cliffhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffhouse1.json" ]
+    },
+    {
+      "name" : "cliffhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffhouse2.json" ]
+    },
+    {
+      "name" : "cliffsidecave1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave1.json" ]
+    },
+    {
+      "name" : "cliffsidecave2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave2.json" ]
+    },
+    {
+      "name" : "cliffsidecave3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave3.json" ]
+    },
+    {
+      "name" : "cliffsidecave4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave4.json" ]
+    },
+    {
+      "name" : "cliffsidecave5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave5.json" ]
+    },
+    {
+      "name" : "cliffsidecave6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave6.json" ]
+    },
+    {
+      "name" : "cliffsidecave7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave7.json" ]
+    },
+    {
+      "name" : "cliffsidecave8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave8.json" ]
+    },
+    {
+      "name" : "cliffsidecave9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave9.json" ]
+    },
+    {
+      "name" : "cliffsidecave10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave10.json" ]
+    },
+    {
+      "name" : "cliffsidecave11",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave11.json" ]
+    },
+    {
+      "name" : "cliffsidecave12",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave12.json" ]
+    },
+    {
+      "name" : "cliffsidecave13",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffsidecave13.json" ]
+    },
+    {
+      "name" : "pond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pond1.json" ]
+    },
+    {
+      "name" : "tunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel1.json" ]
+    },
+    {
+      "name" : "spikepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit1.json" ]
+    },
+    {
+      "name" : "spikepit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit2.json" ]
+    },
+    {
+      "name" : "spikepit3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spikepit3.json" ]
+    },
+    {
+      "name" : "watchtower1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "watchtower1.json" ]
+    },
+    {
+      "name" : "curvy1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "curvy1.json" ]
+    },
+    {
+      "name" : "mound1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mound1.json" ]
+    },
+    {
+      "name" : "jungleterrain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain1.json" ]
+    },
+    {
+      "name" : "jungleterrain2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain2.json" ]
+    },
+    {
+      "name" : "jungleterrain3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain3.json" ]
+    },
+    {
+      "name" : "jungleterrain4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain4.json" ]
+    },
+    {
+      "name" : "jungleterrain5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain5.json" ]
+    },
+    {
+      "name" : "jungleterrain6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain6.json" ]
+    },
+    {
+      "name" : "jungleterrain7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "jungleterrain7.json" ]
+    }
+  ]
+}

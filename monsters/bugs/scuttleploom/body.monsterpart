@@ -1,0 +1,9 @@
+{
+  "name" : "scuttleploom",
+  "category" : "scuttleploom",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "scuttleploom.png"
+  }
+}

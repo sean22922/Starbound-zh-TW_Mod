@@ -1,0 +1,9 @@
+{
+  "name" : "arcticfishcritter",
+  "category" : "arcticfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

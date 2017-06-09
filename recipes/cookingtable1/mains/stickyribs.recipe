@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "rawribmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "stickyribs", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "stickyribs" }
+}

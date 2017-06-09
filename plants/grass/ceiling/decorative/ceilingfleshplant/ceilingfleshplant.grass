@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingfleshplant",
+  "description" : "A globule of flesh.",
+  "shortdescription" : "A globule of flesh.",
+  "floranDescription" : "Flesssh!",
+  "glitchDescription" : "Repulsion. A globule of flesh.",
+  "ceiling" : true,
+  "images" : [ "ceilingfleshplant1.png", "ceilingfleshplant2.png", "ceilingfleshplant3.png", "ceilingfleshplant4.png", "ceilingfleshplant5.png" ]
+}

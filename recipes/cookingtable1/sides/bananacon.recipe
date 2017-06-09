@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rawbacon", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "bananacon", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "bananacon" }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "head",
+  "category" : "sewerfly",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "head.png"
+  }
+}

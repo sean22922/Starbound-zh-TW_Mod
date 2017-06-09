@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "titaniumore", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "titaniumbar",
+    "count" : 1
+  },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace2", "bars", "all" ]
+}

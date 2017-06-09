@@ -1,0 +1,9 @@
+{
+  "name" : "largeleaftailbody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "largeleaftailbody.png"
+  }
+}

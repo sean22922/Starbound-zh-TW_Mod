@@ -1,0 +1,558 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "blink" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "blink" : {
+            "frames" : 3,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "open" : {
+            "frames" : 1,
+            "cycle" : 0.1,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_wakeup2.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          },
+          "close" : {
+            "frames" : 1,
+            "cycle" : 0.1,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "closed" : {
+            "frames" : 1
+          }
+        }
+      },
+      "eye" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "dying" : {
+            "frames" : 4,
+            "cycle" : 0.6,
+            "mode" : "transition",
+            "transition" : "dyingloop",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_death.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          },
+          "dyingloop" : {
+            "frames" : 2,
+            "cycle" : 0.15,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/boss_dying.ogg",
+              "persistentSoundRangeMultiplier" : 5.0
+            }
+          },
+          "sweep" : {
+            "frames" : 17,
+            "cycle" : 1.5,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "windup" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "fire",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_beam_charge.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          },
+          "fire" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "winddown" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "spawnwindup" : {
+            "frames" : 7,
+            "cycle" : 0.7,
+            "mode" : "transition",
+            "transition" : "spawn",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_portal_open.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          },
+          "spawn" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/tentacleboss_portal_loop.ogg",
+              "persistentSoundRangeMultiplier" : 5.0
+            }
+          },
+          "spawnwinddown" : {
+            "frames" : 7,
+            "cycle" : 0.7,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_portal_close.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          }
+        }
+      },
+      "beam" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "idle" : {},
+          "windup" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "transition",
+            "transition" : "fire",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/tentacleboss_beam_blast.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          },
+          "fire" : {
+            "frames" : 4,
+            "cycle" : 0.3,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/crystalboss_beam.ogg",
+              "persistentSoundRangeMultiplier" : 5.0,
+              "persistentSoundStopTime" : 0.15
+            }
+          },
+          "winddown" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/boss/crystalboss_beamout.ogg",
+              "immediateSoundRangeMultiplier" : 5.0
+            }
+          }
+        }
+      },
+      "damage" : {
+        "priority" : 2,
+        "default" : "none",
+        "states" : {
+          "none" : {
+            "frames" : 1
+          },
+          "stunned" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "back" : {
+        "properties" : {
+          "zLevel" : 10,
+          "offset" : [0.0, 25.0],
+          "image" : "<partImage>"
+        }
+      },
+      "biome" : {
+        "properties" : {
+          "zLevel" : 15,
+          "offset" : [-0.3125, -8.375],
+          "image" : "<partImage>:<biome>",
+          "fullbright" : true,
+          "transformationGroups" : [ "biome" ]
+        }
+      },
+      "eye" : {
+        "properties" : {
+          "zLevel" : 20,
+          "offset" : [-0.3125, -8.375],
+          "transformationGroups" : [ "eye" ],
+          "rotationCenter" : [0, 0]
+        },
+        "partStates" : {
+          "eye" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "dying" : {
+              "properties" : {
+                "image" : "<partImage>:dying.<frame>"
+              }
+            },
+            "dyingloop" : {
+              "properties" : {
+                "image" : "<partImage>:dyingloop.<frame>"
+              }
+            },
+            "sweep" : {
+              "properties" : {
+                "image" : "<partImage>:sweep.<frame>"
+              }
+            },
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:windup.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>"
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:winddown.<frame>"
+              }
+            },
+            "spawnwindup" : {
+              "properties" : {
+                "image" : "<partImage>:spawnwindup.<frame>"
+              }
+            },
+            "spawn" : {
+              "properties" : {
+                "image" : "<partImage>:spawn.<frame>"
+              }
+            },
+            "spawnwinddown" : {
+              "properties" : {
+                "image" : "<partImage>:spawnwinddown.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "eyelit" : {
+        "properties" : {
+          "zLevel" : 21,
+          "offset" : [-0.3125, -8.3125],
+          "transformationGroups" : [ "eye" ],
+          "rotationCenter" : [0, 0],
+          "fullbright" : true
+        },
+        "partStates" : {
+          "eye" : {
+            "dying" : {
+              "properties" : {
+                "image" : "<partImage>:dying.<frame>"
+              }
+            },
+            "dyingloop" : {
+              "properties" : {
+                "image" : "<partImage>:dyingloop.<frame>"
+              }
+            },
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:windup.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>"
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:winddown.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "heartleft" : {
+        "properties" : {
+          "zLevel" : 30,
+          "offset" : [-14.125, 20.6875],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "heartleft" ]
+        }
+      },
+      "heartmiddle" : {
+        "properties" : {
+          "zLevel" : 40,
+          "offset" : [-0.0625, 24.375],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "heartmiddle" ]
+        }
+      },
+      "heartright" : {
+        "properties" : {
+          "zLevel" : 50,
+          "offset" : [14.5, 20.625],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "heartright" ]
+        }
+      },
+      "eyelid" : {
+        "properties" : {
+          "zLevel" : 60,
+          "offset" : [-0.3125, 3.75]
+        },
+        "partStates" : {
+          "blink" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "blink" : {
+              "properties" : {
+                "image" : "<partImage>:blink.<frame>"
+              }
+            },
+            "open" : {
+              "properties" : {
+                "image" : "<partImage>:open.<frame>"
+              }
+            },
+            "close" : {
+              "properties" : {
+                "image" : "<partImage>:close.<frame>"
+              }
+            },
+            "closed" : {
+              "properties" : {
+                "image" : "<partImage>:closed.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "backleft" : {
+        "properties" : {
+          "zLevel" : 70,
+          "offset" : [-23.5625, 3.25],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle1" ]
+        }
+      },
+      "backright" : {
+        "properties" : {
+          "zLevel" : 80,
+          "offset" : [23.5625, 2.875],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle6" ]
+        }
+      },
+      "middleleft" : {
+        "properties" : {
+          "zLevel" : 90,
+          "offset" : [-17.4375, 1.0625],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle2" ]
+        }
+      },
+      "middleright" : {
+        "properties" : {
+          "zLevel" : 100,
+          "offset" : [18.625, -1.5],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle5" ]
+        }
+      },
+      "tentaclespacing" : {
+        "properties" : {
+          "zLevel" : 110,
+          "offset" : [-8.9375, 12.25],
+          "image" : "<partImage>"
+        }
+      },
+      "frontright" : {
+        "properties" : {
+          "zLevel" : 120,
+          "offset" : [10.25, -3.625],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle4" ]
+        }
+      },
+      "frontleft" : {
+        "properties" : {
+          "zLevel" : 130,
+          "offset" : [-8.4375, -2.5],
+          "image" : "<partImage>",
+          "transformationGroups" : [ "tentacle3" ]
+        }
+      },
+      "beam" : {
+        "properties" : {
+          "zLevel" : 140,
+          "offset" : [-0.1875, -16.0],
+          "fullbright" : true
+        },
+        "partStates" : {
+          "beam" : {
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:windup.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>",
+                "damageArea" : [ [0, 10.8125], [-25, -14.0625], [25, -14.0625] ]
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:winddown.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "globalTagDefaults" : {
+    "biome" : "garden"
+  },
+
+  "transformationGroups" : {
+    "tentacle1" : { "interpolated" : true },
+    "tentacle2" : { "interpolated" : true },
+    "tentacle3" : { "interpolated" : true },
+    "tentacle4" : { "interpolated" : true },
+    "tentacle5" : { "interpolated" : true },
+    "tentacle6" : { "interpolated" : true },
+
+    "heartleft" : { "interpolated" : true },
+    "heartmiddle" : { "interpolated" : true },
+    "heartright" : { "interpolated" : true },
+
+    "biome" : { "interpolated" : true },
+
+    "eye" : { "interpolated" : true },
+
+    "shaftemitter" : { "interpolated" : false }
+  },
+
+  "particleEmitters" : {
+    "damage" : {
+      "emissionRate" : 0.7,
+      "particles" : [
+      ]
+    },
+    "deathPoof" : {
+      "emissionRate" : 1.0,
+      "offsetRegion" : [-6, -7, 6, 0],
+      "particles" : [
+      ]
+    },
+    "beamtelegraph" : {
+      "offsetRegion" : [-25, -28.5625, 25, -28.5625],
+      "emissionRate" : 30,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/eyebeam/eyebeamtele.animation",
+            "position" : [0, 0],
+            "initialVelocity" : [0.0, 0.0],
+            "layer" : "back",
+            "timeToLive" : 0.4,
+            "fullbright" : true
+          }
+        }
+      ]
+    },
+    "beamflames" : {
+      "offsetRegion" : [-27, -30.0625, 27, -30.0625],
+      "emissionRate" : 100,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/eyebeam/eyebeamflame.animation",
+            "position" : [0, 0],
+            "initialVelocity" : [0.0, 2.0],
+            "layer" : "front",
+            "timeToLive" : 0.8,
+            "fullbright" : true
+          }
+        }
+      ]
+    },
+    "deathparticles1" : {
+      "offsetRegion" : [-16, -16, 16, 7],
+      "emissionRate" : 3,
+      "particles" : [
+        { "count" : 3, "particle" : "monstersplosion" },
+        { "count" : 15, "particle" : "greenblood" },
+        { "count" : 3, "particle" : "dust4" }
+      ]
+    },
+    "shaftemitter" : {
+      "offsetRegion" : [0, 0, 0, 0],
+      "emissionRate" : 2,
+      "transformationGroups" : [ "shaftemitter" ],
+      "particles" : [
+        { "count" : 1, "offset" : [35.4375, 0], "particle" : "shaft" }
+      ]
+    }
+  },
+
+  "lights" : {
+    "glow" : {
+      "active" : false,
+      "position" : [0, -10],
+      "color" : [255, 255, 255],
+      "pointLight" : false
+    }
+  },
+
+  "sounds" : {
+    "deathPuff" : [],
+    "spawn" : [],
+    "deathexplosion" : {
+      "pool" : [ "/sfx/gun/grenadeblast_small_fire2.ogg", "/sfx/gun/grenadeblast_fire2.ogg" ],
+      "rangeMultiplier" : 5.0
+    },
+    "heartin" : {
+      "pool" : [ "/sfx/npc/boss/tentacleboss_heart_in.ogg" ],
+      "rangeMultiplier" : 5.0
+    },
+    "heartout" : {
+      "pool" : [ "/sfx/npc/boss/tentacleboss_heart_out.ogg" ],
+      "rangeMultiplier" : 5.0
+    },
+    "shaft" : {
+      "pool" : [ "/sfx/projectiles/astraltear_stop2.ogg" ],
+      "rangeMultiplier" : 5.0
+    }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0.25,
+      "directives" : "fade=ffffff;0.5"
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "particleEmitters" : {
+    "dripright" : {
+      "enabled" : true,
+      "emissionRate" : 2.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [0, 255, 0, 255],
+            "position" : [0.25, 0.25],
+            "initialVelocity" : [0.1, -5],
+            "finalVelocity" : [0, 0],
+            "approach" : [0, -20],
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [0, 3.0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    },
+    "spurtright" : {
+      "enabled" : true,
+      "emissionRate" : 200.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [0, 255, 0, 255],
+            "position" : [0.25, 0.25],
+            "initialVelocity" : [3, 0],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 50],
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [3.0, 0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    },
+    "chunkright" : {
+      "enabled" : true,
+      "emissionRate" : 5.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [255, 255, 0, 255],
+            "position" : [0.25, 0.25],
+            "initialVelocity" : [3, 0],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 50],
+            "size" : 2,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [3.0, 0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    },
+    "dripleft" : {
+      "enabled" : true,
+      "emissionRate" : 2.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [0, 255, 0, 255],
+            "position" : [-0.25, 0.25],
+            "initialVelocity" : [-0.1, -5],
+            "finalVelocity" : [0, 0],
+            "approach" : [0, -20],
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [0, 3.0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    },
+    "spurtleft" : {
+      "enabled" : true,
+      "emissionRate" : 200.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [0, 255, 0, 255],
+            "position" : [-0.25, 0.25],
+            "initialVelocity" : [-3, 0],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 50],
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [3.0, 3.0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    },
+    "chunkleft" : {
+      "enabled" : true,
+      "emissionRate" : 5.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "color" : [255, 255, 0, 255],
+            "position" : [-0.25, 0.25],
+            "initialVelocity" : [-3, 0],
+            "finalVelocity" : [0, -50],
+            "approach" : [0, 50],
+            "size" : 2,
+            "layer" : "middle",
+            "timeToLive" : 1,
+            "variance" : {
+              "position" : [0, 0],
+              "initialVelocity" : [3.0, 3.0]
+            },
+            "flippable" : false
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "ceilingroots",
+  "description" : "A root.",
+  "shortdescription" : "A root.",
+  "scannable" : false,
+  "floranDescription" : "Rootsss!",
+  "glitchDescription" : "Statement. A root.",
+  "ceiling" : true,
+  "images" : [ "ceilingroots1.png", "ceilingroots2.png", "ceilingroots3.png", "ceilingroots4.png", "ceilingroots5.png", "ceilingroots6.png" ]
+}

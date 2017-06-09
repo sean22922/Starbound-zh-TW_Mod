@@ -1,0 +1,27 @@
+{
+  "projectileName" : "coconut",
+  "speed" : 180,
+  "physics" : "grenade",
+  "image" : "coconut.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "damageKind" : "hammer",
+  "actionOnReap" : [
+
+    {
+      "action" : "liquid",
+      "liquid" : "milk",
+      "quantity" : 2
+    },
+
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/coconutexplosion/coconutbreak.config"
+    }
+  ],
+
+  "emitters" : [ "defaultbrown" ]
+
+
+
+}

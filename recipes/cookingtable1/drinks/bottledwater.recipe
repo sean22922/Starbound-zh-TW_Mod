@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "liquidwater", "count" : 10 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : { "item" : "bottledwater", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "bottledwater" }
+}

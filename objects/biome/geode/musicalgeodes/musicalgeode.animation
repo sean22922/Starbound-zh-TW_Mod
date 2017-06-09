@@ -1,0 +1,93 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "geode" : {
+        "default" : "silent",
+        "states" : {
+          "silent" : { },
+          "loopchime" : { },
+          "chime" : {
+            "frames" : 1,  
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "silent"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "crystal" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 0
+        },
+
+        "partStates" : {
+          "geode" : {
+            "silent" : {
+              "properties" : {
+                "image" : "<partImage>:default"
+              }
+            },
+
+            "chime" : {
+              "properties" : {
+                "image" : "<partImage>:default",
+                "fullbright" : true
+              }
+            },
+
+            "loopchime" : {
+              "properties" : {
+                "image" : "<partImage>:default",
+                "fullbright" : true
+              }
+            }
+          }        
+        }
+      },
+
+      "rock" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "geode" : {
+            "silent" : {
+              "properties" : {
+                "image" : "<partImage>:default"
+              }
+            },
+
+            "chime" : {
+              "properties" : {
+                "image" : "<partImage>:default"
+              }
+            },
+
+            "loopchime" : {
+              "properties" : {
+                "image" : "<partImage>:default"
+              }
+            }
+          }        
+        }
+      }
+    }
+  },
+
+ "lights" : {
+   "glow" : {
+      "active" : false,
+      "position" : [0.0, 0.0],
+      "color" : [40, 80, 40]
+    }
+  },
+
+  "sounds" : {
+    "chime" : ["/sfx/instruments/geode/geodehum.ogg"]
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind" : "agrobatwing",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/monsters/flyers/agrobat/agrobatwing.png",
+    "size" : 1,
+    "initialVelocity" : [-6, 10],
+    "finalVelocity" : [0, -30],
+    "approach" : [0, 20],
+    "timeToLive" : 1,
+    "destructionAction" : "shrink",
+    "destructionTime" : 5,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [3, 2]
+    }
+  }
+}

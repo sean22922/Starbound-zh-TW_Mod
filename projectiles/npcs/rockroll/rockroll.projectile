@@ -1,0 +1,24 @@
+{
+  "projectileName" : "rockroll",
+  "image" : "rockroll.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 8,
+  "power" : 30,
+  "damageKind" : "default",
+  "physics" : "bowlder",
+  "bounces" : -1,
+  "timeToLive" : 2.5,
+  "emitters" : [ "defaultbrown" ],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "bouldersmashexplosion",
+      "inheritSpeedFactor" : 0,
+      "inheritDamageFactor" : 1,
+      "config" : {
+        "animationCycle" : 0.3,
+        "timeToLive" : 0.3
+      }
+    }
+  ]
+}

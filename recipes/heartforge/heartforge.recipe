@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "campfire", "count" : 1 },
+    { "item" : "goldbar", "count" : 10 },
+    { "item" : "money", "count" : 150 }
+  ],
+  "output" : { "item" : "heartforge", "count" : 1 },
+  "groups" : [ "disabled" ] // [ "researchstation", "objects", "all", "tools" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "robotbody",
+  "category" : "robotboss_robotic",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "robotbody.png"
+  }
+}

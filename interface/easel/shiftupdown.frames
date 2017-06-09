@@ -1,0 +1,14 @@
+{
+  "frameGrid" : {
+    "size" : [11, 10],
+    "dimensions" : [2, 3],
+    "names" : [
+        [ "upnormal", "downgrayed" ],
+		[ "uphighlight", "downhighlight" ],
+		[ "upgrayed", "downnormal" ]
+    ]
+  },
+  "aliases" : {
+    "default" : "upnormal"
+  }
+}

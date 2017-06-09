@@ -1,0 +1,9 @@
+{
+  "name" : "floatinggeodecritter",
+  "category" : "floatinggeodecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

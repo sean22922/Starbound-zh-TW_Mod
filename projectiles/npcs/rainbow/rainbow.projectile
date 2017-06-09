@@ -1,0 +1,29 @@
+{
+  "projectileName" : "rainbow",
+  "image" : "rainbow.png",
+  "physics" : "simplearc",
+  "animationCycle" : 1.0,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 2.0,
+  "piercing" : false,
+  "damagePoly" : [ [-5, 3], [5, 3], [5, -3], [-5, -3] ],
+  "damageKind" : "default",
+  "lightColor" : [75, 75, 75],
+  "actionOnReap" : [
+    {
+      "action" : "particle",
+      "specification" : {
+        "type" : "animated",
+        "animation" : "/animations/lightsmoke/lightsmoke.animation",
+        "size" : 1.0,
+        "timeToLive" : 0.5,
+        "variance" : {
+          "position" : [0.5, 0]
+        }
+      }
+    }
+  ]
+}

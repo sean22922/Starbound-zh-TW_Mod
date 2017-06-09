@@ -1,0 +1,79 @@
+{
+  "id" : "craft.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "craftedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "torch", "count" : 1}]
+      }
+    },
+    "ingredients" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          {"name" : "darkwoodmaterial", "count" : 2},
+          {"name" : "coalore", "count" : 1}
+        ]
+      }
+    },
+    "recipes" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : []
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/fetch.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Now you have the crafting ingredientsss we need. ^green;Make Floran ^orange;<craftedItems>.",
+            "Floran needsss ^orange;<craftedItems>.^green; They can be crafted from ^orange;<ingredients>. ^white;Can you help?"
+          ],
+          "glitch" : [
+            "Focussed. Now for the real task at hand,  ^green;you must craft ^orange;<craftedItems>^white; for me. You already have all the materials you need, and my gratitude.",
+            "Concerned. Here is the point at which I falter. My creative ability is below average,  ^green;would you be so kind as to craft ^orange;<craftedItems>^white; on my behalf? You can use the ^orange;<ingredients>^white; we obtained earlier."
+          ],
+          "default" : [
+            "Next you'll need to ^green;assemble ^orange;<craftedItems>^white;. You should be able to ^green;use the ^orange;<ingredients>^white; that you gathered earlier.",
+            "The next step requires ^green;putting together ^orange;<craftedItems>^white;. I would do it myself, but my crafting skills are terrible! If you want to take a shot, you should have everything you need."
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Ssskillfully crafted, <player>! Now Floran has another request.",
+            "<craftedItems> will be very ussseful. Floran thanks you for making these."
+          ],
+          "glitch" : [
+            "Delighted. Your craftsmanship is truly splendid! I'll be sure to call on you again in future. ",
+            "Relieved. The wait has been agonising but at last my plans can go ahead, all thanks to you! "
+          ],
+          "default" : [
+            "Wow, very well constructed. Thank you, this is going to work nicely for what I have planned.",
+            "You made that look easy! I suspect you've done some crafting before. With this we can finally move forward. Thanks!"
+          ]
+        }
+      }
+    },
+    "fetchList" : "craftedItems",
+    "portraitParameter" : "questGiver",
+    "requireTurnIn" : true
+  }
+}

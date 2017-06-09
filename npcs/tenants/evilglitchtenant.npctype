@@ -1,0 +1,44 @@
+{
+  "type" : "evilglitchtenant",
+  "baseType" : "generictenant",
+  
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common", "tenant", "guard", "shady"]
+    },
+
+    "dialog" : {
+      "converse" : {
+        "glitch" : {
+          "default" : [
+            "Impatient. I haven't disconnected some heads for some time.",
+            "Excited. I have a lot of inner rage, that I am eager to express with my axe."
+
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "executionershead", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "chest" : [
+              { "name" : "executionerschest", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "legs" : [
+              { "name" : "workoutlegs", "parameters" : { "colorIndex" : 1 } }
+            ],
+            "primary" : [
+              "npcaxe"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

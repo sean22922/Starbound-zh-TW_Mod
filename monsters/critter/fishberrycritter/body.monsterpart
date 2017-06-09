@@ -1,0 +1,9 @@
+{
+  "name" : "fishberrycritter",
+  "category" : "fishberrycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

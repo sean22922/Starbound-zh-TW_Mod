@@ -1,0 +1,20 @@
+{
+  "id" : "yolotlisdiary3",
+  "species" : "avian",
+  "title" : "Yolotli's Diary Entry 3",
+  "description" : "The personal diary of an Avian Ascendant.",
+  "icon" : "yolotlisdiary3.png",
+  "contentPages" : [
+    "After nine days have elapsed, we feast. Every nine days! I've never eaten so well in my life.
+
+The preparation is even more gratifying than the food: the attendants come and help me bathe, and then, once I'm dried, my crest feathers are leafed with gold.
+
+My beak is buffed and polished too, so that it shines brightly in the firelight.",
+
+"While all this is being done, pine oil is applied to my feathers, so thickly that they feel almost lacquered by the end of it. Pine oil is such a heady scent! It makes me smell like the purest air, high above the mountains."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

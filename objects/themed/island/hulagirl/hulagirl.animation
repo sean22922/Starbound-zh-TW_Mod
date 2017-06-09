@@ -1,0 +1,76 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "sway" : {
+        "default" : "stop",
+        "states" : {
+          "stop" : {
+            "frames" : 1
+          },
+          "sway1" : {
+            "frames" : 6,
+            "cycle" : 0.9,
+            "mode" : "transition",
+            "transition" : "sway2"
+          },
+          "sway2" : {
+            "frames" : 6,
+            "cycle" : 0.9,
+            "mode" : "transition",
+            "transition" : "sway3"
+          },
+          "sway3" : {
+            "frames" : 6,
+            "cycle" : 0.9,
+            "mode" : "transition",
+            "transition" : "sway4"
+          },
+          "sway4" : {
+            "frames" : 6,
+            "cycle" : 0.9,
+            "mode" : "transition",
+            "transition" : "stop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "doll" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "sway" : {
+            "stop" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.1"
+              }
+            },
+            "sway1" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            },
+            "sway2" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            },
+            "sway3" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            },
+            "sway4" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

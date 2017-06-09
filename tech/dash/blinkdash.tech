@@ -1,0 +1,21 @@
+{
+  "name" : "blinkdash",
+  "type" : "body",
+
+  "scripts" : ["blinkdash.lua"],
+  "animator" : "blinkdash.animation",
+
+  "description" : "A dash that blinks past traps and enemies! Cooldown: 2.5s",
+  "shortDescription" : "Blink Dash",
+  "rarity" : "Legendary",
+  "icon" : "/tech/blinkdash.png",
+
+  "chipCost" : 8,
+
+  "maximumDoubleTapTime" : 0.25,
+  "dashDistance" : 13,
+  "blinkOutTime" : 0.15,
+  "blinkInTime" : 0.15,
+  "dashCooldown" : 2.0,
+  "groundOnly" : true
+}

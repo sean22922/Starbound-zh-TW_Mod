@@ -1,0 +1,97 @@
+{
+  "metadata" : {
+    "name" : "humancamp",
+    "species" : "human",
+    "rules" : [
+    ],
+    "anchor" : [ "humancampendleft1", "humancampendright1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 12,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "humancamp2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "humancamp2" ] ]
+
+      ],
+      "def" : [ "tmx", "humancamp2.json" ]
+    },
+    {
+      "name" : "humancamp3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "humancamp3" ] ]
+
+      ],
+      "def" : [ "tmx", "humancamp3.json" ]
+    },
+    {
+      "name" : "humancamp4",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "humancamp4" ] ]
+
+      ],
+      "def" : [ "tmx", "humancamp4.json" ]
+    },
+    {
+      "name" : "humancamp5",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "humancamp5" ] ]
+      ],
+      "def" : [ "tmx", "humancamp5.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "humancamptoilet1",
+      "rules" : [
+        [ "maxSpawnCount", [2] ],
+        [ "doNotConnectToPart", [ "humancamptoilet1" ] ]
+      ],
+      "def" : [ "tmx", "humancamptoilet1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "humancamphill1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "humancamphill1" ] ]
+      ],
+      "def" : [ "tmx", "humancamphill1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "humancamplake1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "humancamplake1" ] ]
+      ],
+      "def" : [ "tmx", "humancamplake1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "humancampendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "humancampendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "humancampendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "humancampendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "projectileName" : "dragonfiresmall",
+  "physics" : "default",
+  "image" : "dragonfiresmall.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "lightColor" : [153, 82, 2],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "power" : 7,
+  "knockback" : 5,
+  "speed" : 80,
+  "damageKind" : "fireplasma",
+  "emitters" : [ "fireplasma" ]
+}

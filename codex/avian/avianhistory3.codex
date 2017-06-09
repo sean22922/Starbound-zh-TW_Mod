@@ -1,0 +1,17 @@
+{
+  "id" : "avianhistory3",
+  "species" : "avian",
+  "title" : "The Eyes of Kluex",
+  "description" : "An Avian scholar's writings on technology.",
+  "icon" : "aviancover1.png",
+  "contentPages" : [
+    "The understanding of machinery has not come easily to Avian-kind. We were not born a race of engineers, more a race of warriors and priests. This is the natural way of things, but that changed forever once the Avolite crystals were bestowed upon us.
+
+Bridging the gap between spiritualism and science, the crystals have enabled our civilisation to flourish in this modern age."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

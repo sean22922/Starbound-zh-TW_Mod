@@ -1,0 +1,26 @@
+{
+  "projectileName" : "windstorm4",
+  "image" : "windstorm4.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+
+      "action" : "option",
+      "options" : [
+        {
+          "action" : "tile",
+          "materials" : [ { "quantity" : 1, "kind" : "gravel" } ]
+        }
+      ]
+
+
+    }
+
+  ],
+
+  "power" : 0.0,
+  "damageKind" : "default"
+}

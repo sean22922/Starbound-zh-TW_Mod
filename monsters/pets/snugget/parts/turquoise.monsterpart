@@ -1,0 +1,9 @@
+{
+  "name" : "turquoise",
+  "category" : "snugget",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "turquoise.png"
+  }
+}

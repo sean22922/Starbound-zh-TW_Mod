@@ -1,0 +1,21 @@
+{
+  "projectileName" : "heavybullet",
+  "image" : "heavybullet.png",
+  "physics" : "bullet",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKind" : "standardbullet",
+  "pointLight" : false,
+  "fullbright" : true,
+  "flippable" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/heavybulletexplosion/heavybulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "power" : 5.0,
+  "speed" : 100,
+  "knockback" : 5
+}

@@ -1,0 +1,27 @@
+{
+  "type" : "spacemerchant",
+  "baseType" : "merchant",
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common"]
+    },
+
+    "merchant" : {
+      "categories" : {
+        "override": [ "spacemerchant" ]
+      },
+      "buyFactorRange" : [ 1.0, 2.0 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 5,
+      "storeRadius" : -1,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Space Merchant",
+          "subtitle" : "  Sells items... from SPAAAAAACE!"
+        }
+      }
+    }
+  }
+}
+

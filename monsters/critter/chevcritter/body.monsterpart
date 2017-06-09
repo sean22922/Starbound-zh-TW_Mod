@@ -1,0 +1,9 @@
+{
+  "name" : "chevcritter",
+  "category" : "chevcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

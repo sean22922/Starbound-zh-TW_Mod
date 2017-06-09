@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 25 },
+    { "item" : "copperbar", "count" : 4 },
+    { "item" : "string", "count" : 1 } 
+  ],
+  "output" : {
+    "item" : "hoe",
+    "count" : 1
+  },
+  "groups" : [ "craftingfarm", "farming" ]
+}

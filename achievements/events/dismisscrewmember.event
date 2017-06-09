@@ -1,0 +1,36 @@
+{
+  "eventName" : "dismissCrewMember",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - recruitSpecies
+  //  - recruitType
+  //  - recruitRole
+  //  - crewSize
+
+  "stats" : [
+    {
+      "name" : "crew",
+      "type" : "int",
+      "op" : "set",
+      "field" : "crewSize"
+    },
+    {
+      "name" : "crewDismissed",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "crew.recruitSpecies.<recruitSpecies>",
+      "type" : "int",
+      "op" : "decrement",
+      "minimum" : 0
+    },
+    {
+      "name" : "crew.recruitRole.<recruitRole>",
+      "type" : "int",
+      "op" : "decrement",
+      "minimum" : 0
+    }
+  ]
+}

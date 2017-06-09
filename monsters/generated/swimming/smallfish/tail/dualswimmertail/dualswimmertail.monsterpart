@@ -1,0 +1,9 @@
+{
+  "name" : "dualswimmertail",
+  "category" : "fish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "dualswimmertail.png"
+  }
+}

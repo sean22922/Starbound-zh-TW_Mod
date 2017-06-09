@@ -1,0 +1,250 @@
+{
+  "metadata" : {
+    "name" : "forestmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "clearing2", "clearing3", "clearing4", "cottage1", "forestwell1", "forestwell1", "forestwell2", "hut1", "hut2", "hut3", "lake1", "lake2", "lake3", "largepond1", "largepond2", "medpond1", "medpond2", "medpond3", "playerforest1", "playerforest2", "playerforest3", "playerforest4", "pondcamp", "ruinlarge1", "ruinmedium1", "ruinmedium2", "ruinssmall1", "ruinssmall3", "ruinssmall4", "ruinssmall5", "ruinssmall6", "smallpond1", "smallpond2", "smallpond3" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "clearing2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "clearing2.json" ]
+    },
+    {
+      "name" : "clearing3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "clearing3.json" ]
+    },
+    {
+      "name" : "clearing4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "clearing4.json" ]
+    },
+    {
+      "name" : "cottage1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cottage1.json" ]
+    },
+    {
+      "name" : "forestwell1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "forestwell1.json" ]
+    },
+    {
+      "name" : "forestwell2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "forestwell2.json" ]
+    },
+    {
+      "name" : "hut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut1.json" ]
+    },
+    {
+      "name" : "hut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut2.json" ]
+    },
+    {
+      "name" : "hut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut3.json" ]
+    },
+    {
+      "name" : "lake1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "lake1.json" ]
+    },
+    {
+      "name" : "lake2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "lake2.json" ]
+    },
+    {
+      "name" : "lake3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "lake3.json" ]
+    },
+    {
+      "name" : "largepond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largepond1.json" ]
+    },
+    {
+      "name" : "largepond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largepond2.json" ]
+    },
+    {
+      "name" : "medpond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "medpond1.json" ]
+    },
+    {
+      "name" : "medpond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "medpond2.json" ]
+    },
+    {
+      "name" : "medpond3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "medpond3.json" ]
+    },
+    {
+      "name" : "playerforest1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "playerforest1.json" ]
+    },
+    {
+      "name" : "playerforest2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "playerforest2.json" ]
+    },
+    {
+      "name" : "playerforest3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "playerforest3.json" ]
+    },
+    {
+      "name" : "playerforest4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "playerforest4.json" ]
+    },
+    {
+      "name" : "pondcamp",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pondcamp.json" ]
+    },
+    {
+      "name" : "ruinlarge1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinlarge1.json" ]
+    },
+    {
+      "name" : "ruinmedium1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinmedium1.json" ]
+    },
+    {
+      "name" : "ruinmedium2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinmedium2.json" ]
+    },
+    {
+      "name" : "ruinssmall1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinssmall1.json" ]
+    },
+    {
+      "name" : "ruinssmall3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinssmall3.json" ]
+    },
+    {
+      "name" : "ruinssmall4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinssmall4.json" ]
+    },
+    {
+      "name" : "ruinssmall5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinssmall5.json" ]
+    },
+    {
+      "name" : "ruinssmall6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ruinssmall6.json" ]
+    },
+    {
+      "name" : "smallpond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "smallpond1.json" ]
+    },
+    {
+      "name" : "smallpond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "smallpond2.json" ]
+    },
+    {
+      "name" : "smallpond3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "smallpond3.json" ]
+    }
+
+  ]
+}

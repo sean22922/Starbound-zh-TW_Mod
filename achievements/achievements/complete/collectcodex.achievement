@@ -1,0 +1,16 @@
+{
+  "name" : "collectcodex",
+
+  "triggers" : [
+    "itemSet.category.codex"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.codex",
+      "op" : "sizeAtLeast",
+      "value" : 100
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type" : "industrialcrewmate",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/shipcrew.config:converse"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "industrialcrewhead" } ],
+            "chest" : [
+              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [11] } }
+            ],
+            "legs" : [
+              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [11] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

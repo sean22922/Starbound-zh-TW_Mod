@@ -1,0 +1,8 @@
+{
+  "name" : "fleshbone",
+  "description" : "A bone of some unknown creature.",
+  "shortdescription" : "A bone.",
+  "floranDescription" : "Floran likely kill this.",
+  "glitchDescription" : "Statement. A long-dead bone.",
+  "images" : [ "fleshbone1.png", "fleshbone2.png", "fleshbone3.png", "fleshbone4.png", "fleshbone5.png" ]
+}

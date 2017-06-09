@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 30 },
+    { "item" : "fabric", "count" : 20 },
+    { "item" : "plantfibre", "count" : 40 }
+  ],
+  "output" : {
+    "item" : "scarecrow",
+    "count" : 1
+  },
+  "groups" : [ "craftingfarm", "farming" ]
+}

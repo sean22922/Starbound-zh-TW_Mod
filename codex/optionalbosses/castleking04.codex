@@ -1,0 +1,18 @@
+{
+  "id" : "castleking04",
+  "title" : "The Would-Be King Part 4",
+  "description" : "A Glitch folk tale.",
+  "icon" : "glitchcastlebook_04.png",
+  "contentPages" : [
+
+    "The Glitch blacksmiths toiled day and night to create an army suitable for their lord Dreadwing. Of course, this army didn't fight, or even move, but they looked really great at certain angles. 
+
+Eventually, though, the blacksmiths ran out of room, and realised it had therefore come time to unveil their spurious army. This posed a problem in itself. Of course the army was not capable of marching to Dreadwing's castle, nor indeed, of marching anywhere else.", 
+
+"A plan was required. A plan that the king would not question. Finally a solution was found; the Glitch would host a parade."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

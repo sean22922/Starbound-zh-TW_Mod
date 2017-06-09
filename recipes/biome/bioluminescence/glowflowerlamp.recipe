@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "glowfibre", "count" : 12 }
+  ],
+  "output" : { "item" : "glowflowerlamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

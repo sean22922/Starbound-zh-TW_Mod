@@ -1,0 +1,5 @@
+{
+  "sounds" : {
+    "beep" : ["/sfx/interface/starving2.ogg"]
+  }
+}

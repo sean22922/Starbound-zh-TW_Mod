@@ -1,0 +1,21 @@
+{
+  "id" : "glitchhistory1",
+  "species" : "glitch",
+  "title" : "Built for Purpose? I",
+  "description" : "An excerpt from a book investigating the origin of the Glitch.",
+  "icon" : "glitchcover1.png",
+  "contentPages" : [
+    "Are we not a fascinating race? Having long since attained self-awareness, the origin of the Glitch race fascinates me.
+
+The most curious thing is that we were deliberately built with the compulsion to fulfil desires outside of those that are biologically necessary. The need to fulfil carefully crafted base instincts became imperative and shaped the entire oil spattered time-line of Glitch history.",
+
+ "The question is why? Why limit our potential to that of beings governed by emotion so easily replicated?
+
+I have run every analysis, constructed every model and the answer continues to allude. Are we but an experiment? And if so, is instinct the variable or the control? Perhaps only our creator will know."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

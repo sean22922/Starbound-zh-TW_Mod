@@ -1,0 +1,15 @@
+{
+  "name" : "largedinochest",
+  "category" : "largebiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largedinochest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.6,
+    "runMultiplier" : 1.4,
+    "jumpMultiplier" : 1.0
+  }
+}

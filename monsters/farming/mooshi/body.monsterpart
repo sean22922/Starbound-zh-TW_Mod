@@ -1,0 +1,9 @@
+{
+  "name" : "mooshi",
+  "category" : "mooshi",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

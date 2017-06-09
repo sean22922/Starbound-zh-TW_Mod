@@ -1,0 +1,18 @@
+{
+  "id" : "apexmission2",
+  "species" : "apex",
+  "title" : "Defensive Systems",
+  "description" : "A fax from the Miniknog Headquarters to Miniknog Stronghold #1.",
+  "icon" : "apexmission3.png",
+  "contentPages" : [
+    "DISPATCH TODAY
+From: Miniknog Stronghold #1
+To: Miniknog Headquarters
+Informing HQ of effectiveness of new defensive systems installed at #1. Also of success of weapons system currently in development. All expectations surpassed. #1 offers HQ assistance in instituting said systems on HQ site. Technicians dispatched immediately upon request."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

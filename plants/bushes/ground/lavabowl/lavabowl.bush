@@ -1,0 +1,29 @@
+{
+  "name" : "lavabowl",
+  "description" : "A natural lava bowl.",
+  "shortdescription" : "A natural lava bowl.",
+  "floranDescription" : "Burny hot liquidsss.",
+  "glitchDescription" : "Statement. A natural lava bowl.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+
+    {
+      "base" : "base2.png"
+    },
+
+    {
+      "base" : "base3.png"
+    },
+
+    {
+      "base" : "base4.png"
+    },
+
+    {
+      "base" : "base5.png"
+    }
+
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "projectileName" : "paintballyellow",
+  "image" : "paintballyellow.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/paintexplosionyellow/paintexplosionyellow.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 60,
+  "damageKind" : "default",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "statusEffects" : [
+    "coloryellow"
+  ]
+}

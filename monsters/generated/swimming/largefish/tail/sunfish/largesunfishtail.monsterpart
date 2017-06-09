@@ -1,0 +1,9 @@
+{
+  "name" : "largesunfishtail",
+  "category" : "largefish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largesunfishtail.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "hazard", "count" : 1 }
+  ],
+  "output" : { "item" : "industrialdoor", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "doors", "all" ]
+}

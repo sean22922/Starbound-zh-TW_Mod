@@ -1,0 +1,11 @@
+{
+  "name" : "skullheadlamp",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "skullheadlamp.lua"
+  ],
+
+  "animationConfig" : "skullheadlamp.animation"
+}

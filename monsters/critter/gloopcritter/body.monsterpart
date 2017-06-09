@@ -1,0 +1,9 @@
+{
+  "name" : "gloopcritter",
+  "category" : "gloopcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

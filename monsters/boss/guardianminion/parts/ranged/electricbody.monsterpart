@@ -1,0 +1,10 @@
+{
+  "name" : "electricbody",
+  "category" : "electricrangedminion",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "electricbody.png",
+    "bodyfullbright" : "electricbodyfullbright.png"
+  }
+}

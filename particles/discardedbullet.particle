@@ -1,0 +1,19 @@
+{
+  "kind" : "discardedbullet",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [255, 206, 9, 160],
+    "fade" : 0.9,
+    "initialVelocity" : [-4, 2.0],
+    "finalVelocity" : [-4, -6.0],
+    "approach" : [0, 20],
+    "position" : [-7, 0],
+    "timeToLive" : 0.5,
+    "layer" : "front",
+    "collidesForeground" : true,
+    "variance" : {
+      "initialVelocity" : [2, 4.0]
+    }
+  }
+}

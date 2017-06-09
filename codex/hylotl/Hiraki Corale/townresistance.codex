@@ -1,0 +1,22 @@
+{
+  "id" : "townresistance",
+  "species" : "hylotl",
+  "title" : "La Resistance",
+  "description" : "An excerpt from Hylotl Adventurer Hiraki Corale's journal.",
+  "icon" : "hirakicoralejournal2.png",
+  "contentPages" : [
+
+    "by Hiraki Corale, Hylotl adventurer
+
+Turns out the Apex resistance fellows are rather nice! They've given me a room of my own, and even locked the door in case the Miniknog storm in and endanger me. So thoughtful!
+
+Earlier, I pulled out my rocket launcher to show them the type of weaponry they should be considering, and it caused such a ruckus!",
+
+"I've never seen Apex get so excited. One of them was so eager he tried to grab it from me, and we had a little accident involving an RPG and the front of the HQ."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

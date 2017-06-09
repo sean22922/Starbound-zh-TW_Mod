@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "volatilepowder", "count" : 1 },
+    { "item" : "paper", "count" : 1 },
+    { "item" : "bluedye", "count" : 1 }
+  ],
+  "output" : { "item" : "fireworkblue", "count" : 2 },
+  "groups" : [ "holidaycraftingtable" ]
+}

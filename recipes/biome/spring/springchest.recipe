@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "petalred", "count" : 4 },
+    { "item" : "petalyellow", "count" : 4 },
+    { "item" : "darkwoodmaterial", "count" : 15 }
+  ],
+  "output" : { "item" : "springchest", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

@@ -1,0 +1,57 @@
+{
+  "kind" : "falling",
+  "damageCooldownGroup" : "falling",
+  "damageCooldownDuration" : 1.0,
+  "damageCooldownPreGrace" : 0.0,
+  "damageCooldownMode" : "max",
+  "effects" : {
+    "organic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/blunt_hit_organic.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/blunt_kill_organic1.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "robotic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/blunt_hit_metal1.ogg", "/sfx/melee/blunt_hit_metal2.ogg", "/sfx/melee/blunt_hit_metal3.ogg", "/sfx/melee/blunt_hit_metal4.ogg", "/sfx/melee/blunt_hit_metal5.ogg", "/sfx/melee/blunt_hit_metal6.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_robotic3.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "wooden" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/sword_hit_wood1.ogg", "/sfx/melee/sword_hit_wood2.ogg", "/sfx/melee/sword_hit_wood3.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_wood1.ogg", "/sfx/melee/kill_wood2.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "stone" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/blunt_hit_stone1.ogg", "/sfx/melee/blunt_hit_stone2.ogg", "/sfx/melee/blunt_hit_stone3.ogg", "/sfx/melee/blunt_hit_stone4.ogg" ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_stone1.ogg", "/sfx/melee/kill_stone2.ogg", "/sfx/melee/kill_stone3.ogg", "/sfx/melee/kill_stone4.ogg", "/sfx/melee/kill_stone5.ogg" ],
+        "particles" : [
+        ]
+      }
+    }
+  }
+}

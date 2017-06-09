@@ -1,0 +1,17 @@
+{
+  "name" : "shipregeneration2",
+  "effectConfig" : {
+    "healTime" : 50,
+    "particles" : false
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "regeneration.lua"
+  ],
+
+  "animationConfig" : "regeneration.animation",
+
+  "label" : "Regeneration",
+  "icon" : "/interface/statuses/heal.png"
+}

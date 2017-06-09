@@ -1,0 +1,23 @@
+{
+  "ability" : {
+    "type" : "plasmabarrage",
+    "name" : "Plasma Barrage",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/plasmabarrage.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 80,
+
+    "maxCastRange" : 25,
+
+    "projectileCount" : 7,
+    "projectileDistance" : 3,
+    "projectileType" : "plasmaball",
+    "projectileParameters" : {
+      "baseDamage" : 40
+    },
+    "triggerSound" : ["/sfx/gun/plasma_mp2.ogg"],
+
+    "projectileDelayFirst" : 1.0,
+    "projectileDelayEach" : 0.15
+  }
+}

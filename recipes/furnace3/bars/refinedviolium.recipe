@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "violiumore", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "refinedviolium",
+    "count" : 1
+  },
+  "duration" : 0.15,
+  "groups" : [ "craftingfurnace3", "bars", "all" ]
+}

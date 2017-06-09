@@ -1,0 +1,8 @@
+{
+  "name" : "sticky",
+  "description" : "A beautiful flower.",
+  "shortdescription" : "A beautiful flower.",
+  "floranDescription" : "Pretty.",
+  "glitchDescription" : "Statement. An attractive flower.",
+  "images" : [ "sticky1.png", "sticky2.png", "sticky3.png", "sticky4.png", "sticky5.png" ]
+}

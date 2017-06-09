@@ -1,0 +1,19 @@
+{
+  "projectileName" : "fireguardianbullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "fireguardianbullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "fullbright" : true,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "fireplasma",
+
+  "emitters" : [ "fireplasma" ],
+
+  "power" : 10,
+  "speed" : 35
+}

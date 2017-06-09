@@ -1,0 +1,18 @@
+{
+  "frameGrid" : {
+    "size" : [48, 16],
+    "dimensions" : [4, 2],
+
+    "names" : [
+      [ "front.1", "front.2", "front.3", "front.4" ],
+      [ "back.1", "back.2", "back.3", "back.4" ]
+    ]
+  },
+
+  "aliases" : {
+    "front.5" : "front.3",
+    "front.6" : "front.2",
+    "back.5" : "back.3",
+    "back.6" : "back.2"
+  }
+}

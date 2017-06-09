@@ -1,0 +1,13 @@
+{
+  "name" : "vomitleft",
+  "effectConfig" : {
+    "particleEmitters" : ["dripleft", "spurtleft", "chunkleft"]
+  },
+  "defaultDuration" : 2,
+
+  "scripts" : [
+    "particlereaction.lua"
+  ],
+  
+  "animationConfig": "vomit.animation"
+}

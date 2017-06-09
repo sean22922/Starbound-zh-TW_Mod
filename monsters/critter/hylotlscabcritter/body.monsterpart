@@ -1,0 +1,9 @@
+{
+  "name" : "hylotlscabcritter",
+  "category" : "hylotlscabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

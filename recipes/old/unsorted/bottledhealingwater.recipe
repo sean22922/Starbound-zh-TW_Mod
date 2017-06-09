@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "liquidhealing", "count" : 10 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : { "item" : "bottledhealingwater", "count" : 1 },
+  "groups" : [ "consumables", "side" ]
+}

@@ -1,0 +1,49 @@
+{
+  "id" : "transponder",
+  "title" : "^orange;Your Very Own Space Station",
+  "text" : "Would you like to deploy your very own space station? I can craft for you your very own ^orange;Station Transponder^white;, and all it will take is some resources! \nSimply ^green;bring 50 ^orange;Titanium Bars^white;, ^green;50 ^orange;Gold Bars^white;, ^green;50 ^orange;Silver Bars^white; and ^green;1000^orange; pixels ^green;to me or any other Transponder vendor^white;!",
+  "completionText" : "Here is your very own ^orange;Station Transponder^white;! ^green;Use it on your ship^white; to deploy a space station in your local solar system!",
+  "moneyRange" : [0,0],
+  "ephemeral" : true,
+  "rewards" : [
+    [ [ "stationtransponder", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+
+    "requireTurnIn" : true,
+
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "titaniumbar",
+        "count" : 50,
+        "consume" : true
+      },
+      {
+        "type" : "gatherItem",
+        "itemName" : "goldbar",
+        "count" : 50,
+        "consume" : true
+      },
+      {
+        "type" : "gatherItem",
+        "itemName" : "silverbar",
+        "count" : 50,
+        "consume" : true
+      },
+      {
+        "type" : "gatherItem",
+        "itemName" : "money",
+        "count" : 1000,
+        "consume" : true
+      }
+    ]
+  }
+}

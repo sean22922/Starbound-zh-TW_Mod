@@ -1,0 +1,9 @@
+{
+  "name" : "largeporpoisehead",
+  "category" : "largefish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeporpoisehead.png"
+  }
+}

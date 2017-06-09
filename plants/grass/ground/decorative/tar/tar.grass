@@ -1,0 +1,8 @@
+{
+  "name" : "tar",
+  "description" : "Gross, sticky tar.",
+  "shortdescription" : "Sticky tar.",
+  "floranDescription" : "Sssticky.",
+  "glitchDescription" : "Statement. Useful tar.",
+  "images" : [ "tar1.png", "tar2.png", "tar3.png", "tar4.png", "tar5.png" ]
+}

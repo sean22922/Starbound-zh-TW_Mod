@@ -1,0 +1,8 @@
+{
+  "type" : "cultistsphereposition",
+
+  "scripts" : [
+  ],
+
+  "broadcastArea" : [-1, -1, 1, 1]
+}

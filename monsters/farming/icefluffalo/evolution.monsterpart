@@ -1,0 +1,9 @@
+{
+  "name" : "iceevolution",
+  "category" : "icefluffalo",
+  "type" : "spawn",
+
+  "frames" : {
+    "spawn" : "evolution.png"
+  }
+}

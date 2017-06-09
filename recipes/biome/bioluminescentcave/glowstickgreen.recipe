@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "glowfibre", "count" : 1 },
+    { "item" : "glass", "count" : 1 }
+  ],
+  "output" : { "item" : "glowstickgreen", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]
+}

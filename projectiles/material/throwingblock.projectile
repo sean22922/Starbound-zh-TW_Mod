@@ -1,0 +1,20 @@
+{
+  "projectileName" : "throwingblock",
+  "physics" : "grenade",
+  "image" : "throwingblock.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "power" : 0,
+
+  "speed" : 0,
+
+  "actionOnReap" : [
+    {
+      "action" : "tile",
+      "materials" : [
+        {"kind" : "throwingblock"}
+      ]
+    }
+  ],
+  "damageKind" : "default"
+}

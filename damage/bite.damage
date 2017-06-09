@@ -1,0 +1,73 @@
+{
+  "kind" : "bite",
+  "effects" : {
+    "organic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/bite.ogg" ],
+        "particles" : [
+        ]
+      },
+      "stronghit" : {
+        "sounds" : [ [ "/sfx/melee/bite.ogg", "/sfx/melee/critical_hit.ogg" ] ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/bite_kill.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "robotic" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/bite_robotic1.ogg", "/sfx/melee/bite_robotic2.ogg", "/sfx/melee/bite_robotic3.ogg" ],
+        "particles" : [
+        ]
+      },
+      "stronghit" : {
+        "sounds" : [ [ "/sfx/melee/bite_robotic1.ogg", "/sfx/melee/critical_hit_heavy.ogg" ], [ "/sfx/melee/bite_robotic2.ogg", "/sfx/melee/critical_hit_heavy.ogg" ], [ "/sfx/melee/bite_robotic3.ogg", "/sfx/melee/critical_hit_heavy.ogg" ] ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_robotic1.ogg", "/sfx/melee/kill_robotic2.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "wooden" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/sword_hit_wood1.ogg", "/sfx/melee/sword_hit_wood2.ogg", "/sfx/melee/sword_hit_wood3.ogg" ],
+        "particles" : [
+        ]
+      },
+      "stronghit" : {
+        "sounds" : [ [ "/sfx/melee/sword_hit_wood1.ogg", "/sfx/melee/critical_hit_heavy.ogg" ], [ "/sfx/melee/sword_hit_wood2.ogg", "/sfx/melee/critical_hit_heavy.ogg" ], [ "/sfx/melee/sword_hit_wood3.ogg", "/sfx/melee/critical_hit_heavy.ogg" ] ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_wood1.ogg", "/sfx/melee/kill_wood2.ogg" ],
+        "particles" : [
+        ]
+      }
+    },
+    "stone" : {
+      "hit" : {
+        "sounds" : [ "/sfx/melee/bite.ogg" ],
+        "particles" : [
+        ]
+      },
+      "stronghit" : {
+        "sounds" : [ [ "/sfx/melee/bite.ogg", "/sfx/melee/critical_hit.ogg" ] ],
+        "particles" : [
+        ]
+      },
+      "kill" : {
+        "sounds" : [ "/sfx/melee/kill_stone1.ogg", "/sfx/melee/kill_stone2.ogg", "/sfx/melee/kill_stone3.ogg", "/sfx/melee/kill_stone4.ogg", "/sfx/melee/kill_stone5.ogg" ],
+        "particles" : [
+        ]
+      }
+    }
+  }
+}

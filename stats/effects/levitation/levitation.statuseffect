@@ -1,0 +1,22 @@
+{
+  "name" : "levitation",
+  "effectConfig" : {
+    "maxHoverHeight" : 4,
+    "hoverSpeedMultiplier" : 10,
+    "hoverAcceleration" : 10,
+    "bobInterval" : 2,
+    "bobAmount" : 0.3,
+    "fallSpeedLimit" : -10,
+    "protectionBonus" : 5
+  },
+  "defaultDuration" : 20,
+
+  "scripts" : [
+    "levitation.lua"
+  ],
+
+  "animationConfig" : "levitation.animation",
+
+  "label" : "Levitation",
+  "icon" : "/interface/statuses/levitate.png"
+}

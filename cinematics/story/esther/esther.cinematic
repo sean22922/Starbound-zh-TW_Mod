@@ -1,0 +1,1362 @@
+{
+  "muteSfx" : true,
+  "muteMusic" : true,
+  "skippable" : false,
+  "letterbox" : false,
+  "backgroundColor" : [0, 0, 0, 255],
+  "backgroundFadeTime" : 0.5,
+
+  "panels" : [
+// --------------------- statue 2
+    {
+      "startTime" : 54,
+      "endTime" : 110,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/statue2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [600, -200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 1,
+          "alpha" : 0,
+          "zoom" : 1.5,
+          "position" : [600, -200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 55.49,
+          "alpha" : 1,
+          "position" : [600, 200]
+        },
+        {
+          "timecode" : 55.5,
+          "position" : [600, 200],
+          "alpha" : 1
+        },
+        {
+          "timecode" : 56,
+          "frame" : 140,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------------- statue 1
+    {
+      "startTime" : 40,
+      "endTime" : 110,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/statue1.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [200, -200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 1,
+          "alpha" : 0,
+          "zoom" : 1.5,
+          "position" : [200, -200],
+          "frame" : 0
+        },
+        {
+          "timecode" : 69.49,
+          "alpha" : 1,
+          "position" : [200, 120]
+        },
+        {
+          "timecode" : 69.5,
+          "position" : [200, 120],
+          "alpha" : 1
+        },
+        {
+          "timecode" : 70,
+          "frame" : 140,
+          "alpha" : 0
+        }
+      ]
+    },
+
+
+// -------------------------------- spotlight
+    {
+      "startTime" : 1,
+      "endTime" : 46,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/esthershadow.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [485, 230]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 44,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 44.5,
+          "alpha" : 0,
+          "frame" : 118
+        }
+      ]
+    },
+
+// -------------------------------- Esther
+    {
+      "startTime" : 1,
+      "endTime" : 46,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/esther.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [480, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 44,
+          "alpha" : 1,
+          "frame" : 110
+        },
+        {
+          "timecode" : 44.5,
+          "alpha" : 0,
+          "frame" : 110
+        }
+      ]
+    },
+
+// ------------------ radio message popup background
+    {
+      "startTime" : 1.5,
+      "endTime" : 148.5,
+      "drawables" : [
+        {
+          "image" : "/cinematics/radiomessagebg.png:<frame>"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [480, 100],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 146.5,
+          "frame" : 6
+        },
+        {
+          "timecode" : 147,
+          "frame" : 12
+        }
+      ]
+    },
+
+
+
+// ----------------- first radio message
+    {
+      "startTime" : 2.0,
+      "endTime" : 10.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Hello, dear! Is that a Matter Manipulator you're carrying? Excellent, so you're a Protector.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+
+      ]
+    },
+
+// -------------------- second radio message
+    {
+      "startTime" : 10.0,
+      "endTime" : 18.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthersad.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "I'm sorry to say, perhaps the last, after the... The terrible destruction of Earth...",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+//------------------------------- third radio message
+    {
+      "startTime" : 18.0,
+      "endTime" : 24.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthersad.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "It's sadly inevitable that we should meet now...",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- fourth radio message
+    {
+      "startTime" : 24.0,
+      "endTime" : 30.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "My name is ^orange;Esther Bright^white;, retired Grand Protector.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- fifth radio message
+    {
+      "startTime" : 30.0,
+      "endTime" : 38.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "I left some years ago, an impossible decision; but my research could not be neglected.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- sixth radio message
+    {
+      "startTime" : 38.0,
+      "endTime" : 46.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/estherthoughtful.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "I discovered things long forgotten that weigh heavy on the present.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+
+// --------------------- background circle
+    {
+      "startTime" : 46,
+      "endTime" : 110,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/backgroundcircle.png:"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 63.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 64,
+          "frame" : 140,
+          "alpha" : 0
+        }
+      ]
+    },
+
+
+// --------------------- Hologram 1
+    {
+      "startTime" : 46,
+      "endTime" : 62,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/hologram1.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.35,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.025,
+          "zoom" : 1.4
+        },
+        {
+          "timecode" : 0.25,
+          "alpha" : 0.5
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 3,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 13,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 14,
+          "frame" : 140,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- eigth radio message
+    {
+      "startTime" : 46.0,
+      "endTime" : 54.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Long ago, there was a force known as the Cultivator, it maintained balance in the universe.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- ninth radio message
+    {
+      "startTime" : 54.0,
+      "endTime" : 62.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Under its influence, harmony reigned. So it was for aeons.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------------- Hologram 2
+    {
+      "startTime" : 62,
+      "endTime" : 86,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/hologram2.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.35,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.025,
+          "zoom" : 1.4
+        },
+        {
+          "timecode" : 0.25,
+          "alpha" : 0.5
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 3,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 23,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 24,
+          "frame" : 240,
+          "alpha" : 0
+        }
+      ]
+    },
+
+
+
+// --------------- tenth radio message
+    {
+      "startTime" : 62.0,
+      "endTime" : 70.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/estherthoughtful.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "But this tranquility proved finite.  A being arose, one of hate and destruction. It was the Ruin.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- eleventh radio message
+    {
+      "startTime" : 70.0,
+      "endTime" : 78.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthersad.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The Ruin could not abide life in any form, and reaped destruction upon the universe.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- twelth radio message
+    {
+      "startTime" : 78.0,
+      "endTime" : 86.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthersad.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "It fought to blot out all life, and would have succeeded, but for the sacrifice of the Cultivator.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------------- Hologram 3
+    {
+      "startTime" : 86,
+      "endTime" : 102,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/hologram3.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.35,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.025,
+          "zoom" : 1.4
+        },
+        {
+          "timecode" : 0.25,
+          "alpha" : 0.5
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 3,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 15,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 16,
+          "frame" : 160,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- thirteenth radio message
+    {
+      "startTime" : 86.0,
+      "endTime" : 94.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The Cultivator rose against the Ruin, and succeeded in sealing it away.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- fourteenth radio message
+    {
+      "startTime" : 94.0,
+      "endTime" : 102.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthersad.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "But in doing so, the Cultivator exhausted its power completely.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------------- Hologram 4
+    {
+      "startTime" : 102,
+      "endTime" : 110,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/hologram4.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.35,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.025,
+          "zoom" : 1.4
+        },
+        {
+          "timecode" : 0.25,
+          "alpha" : 0.5
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 3,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 7,
+          "alpha" : 1.0
+        },
+        {
+          "timecode" : 8,
+          "frame" : 80,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- fifteenth radio message
+    {
+      "startTime" : 102.0,
+      "endTime" : 110.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/estherthoughtful.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "Before its last energies dissipated, the Cultivator gifted six chosen races with precious artifacts.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------------- artifacts
+    {
+      "startTime" : 110,
+      "endTime" : 126,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/floatingartifacts.png:<frame>"
+        }
+      ],
+      "animationFrames" : 29,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [479, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 15,
+          "frame" : 170,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 16,
+          "frame" : 170,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- sixteenth radio message
+    {
+      "startTime" : 110.0,
+      "endTime" : 118.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "These six artifacts, when united, form the key that opens the gate to the Ruin.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- seventeenth radio message
+    {
+      "startTime" : 118.0,
+      "endTime" : 126.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The defenses are crumbling. We must unite the artifacts, reach the Ruin, and truly destroy it.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// -------------------------------- spotlight 2
+    {
+      "startTime" : 126,
+      "endTime" : 149,
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/spotlight.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [480, 240]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 22,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 22.5,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// -------------------------------- Esther 2
+    {
+      "startTime" : 126,
+      "endTime" : 149,
+      "drawables" : [
+        {
+          "image" : "/cinematics/story/esther/esther.png:<frame>"
+        }
+      ],
+      "animationFrames" : 6,
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 0.0,
+          "zoom" : 1.5,
+          "position" : [480, 280],
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1.0,
+          "zoom" : 1.5
+        },
+        {
+          "timecode" : 22,
+          "frame" : 50,
+          "alpha" : 1
+        },
+        {
+          "timecode" : 22.5,
+          "frame" : 50,
+          "alpha" : 0
+        }
+      ]
+    },
+
+// --------------- eighteenth radio message
+    {
+      "startTime" : 126.0,
+      "endTime" : 134.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "This is a lot to take in dear, and a huge request to make of you... But I would like your help.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- nineteenth radio message
+    {
+      "startTime" : 134.0,
+      "endTime" : 140.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "The artifacts are scattered across the stars, I can't find them alone.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    },
+
+// --------------- twentieth radio message
+    {
+      "startTime" : 140.0,
+      "endTime" : 148.0,
+      "drawables" : [
+        {
+          "image" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "animationFrames" : 2,
+      "text" : "We must find them and eradicate the Ruin, before other planets go the way of the Earth.",
+      "textPosition" : {
+        "position" : [34, 21],
+        "vAnchor" : "top",
+        "wrapWidth" : 218
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "alpha" : 1.0,
+          "zoom" : 1.0,
+          "position" : [366.5, 100],
+          "frame" : 0,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 0.3,
+          "textPercentage" : 0
+        },
+        {
+          "timecode" : 2.5,
+          "frame" : 12,
+          "textPercentage" : 1
+        }
+      ]
+    }
+
+  ],
+
+
+
+  "audio" : [
+    {
+      "timecode" : 2.25,
+      "endTimecode" : 4.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 10.25,
+      "endTimecode" : 12.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 18.25,
+      "endTimecode" : 20.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 24.25,
+      "endTimecode" : 26.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 30.25,
+      "endTimecode" : 32.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 38.25,
+      "endTimecode" : 40.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 46.25,
+      "endTimecode" : 48.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 54.25,
+      "endTimecode" : 56.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 62.25,
+      "endTimecode" : 64.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 70.25,
+      "endTimecode" : 72.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 78.25,
+      "endTimecode" : 80.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 86.25,
+      "endTimecode" : 88.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 94.25,
+      "endTimecode" : 96.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 102.25,
+      "endTimecode" : 104.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 110.25,
+      "endTimecode" : 112.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 118.25,
+      "endTimecode" : 120.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 126.25,
+      "endTimecode" : 128.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 134.25,
+      "endTimecode" : 136.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    {
+      "timecode" : 140.25,
+      "endTimecode" : 142.5,
+      "loops" : -1,
+      "resource" : "/sfx/interface/aichatter1_loop.ogg"
+    },
+    /*
+    {
+      "timecode" : 0,
+      "resource" : "/sfx/cinematics/esther_start.ogg"
+    },
+    */
+    {
+      "timecode" : 42,
+      "endTimeCode" : 156,
+      "resource" : "/sfx/cinematics/esther_story.ogg"
+    }
+  ]
+}

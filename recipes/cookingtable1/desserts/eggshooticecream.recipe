@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "eggshoot", "count" : 1 },
+    { "item" : "milk", "count" : 1 },
+    { "item" : "snowball", "count" : 1 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "eggshooticecream", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "eggshooticecream" }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "eyebossback",
+  "category" : "eyeboss",
+  "type" : "back",
+
+  "frames" : {
+    "back" : "back.png"
+  }
+}

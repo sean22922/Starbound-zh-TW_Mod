@@ -1,0 +1,16 @@
+{
+  "name" : "largethintuskhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largethintuskhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1, -0.8]
+  }
+}
+

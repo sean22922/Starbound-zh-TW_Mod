@@ -1,0 +1,48 @@
+{
+  "id" : "esthersjournal",
+  "species" : "human",
+  "title" : "Esther's Journal",
+  "description" : "The private journal of Esther Bright, former Grand Protector.",
+  "icon" : "esthersjournal.png",
+  "contentPages" : [
+    "^cyan;Protector's Journal: Entry 6901^white;
+
+The devastation we found at the settlement was truly distressing - barely a structure was left standing, and only one survivor. A scared young girl, alone among the wreckage.
+
+Judging by the girl's account the outlaws were a diverse group - Florans, Apex and Avians, amongst others. Desperate people doing terrible things. This girl has lost her home and her family all in one blow, but I'll protect her. Her name is Asra Nox.",
+
+	"^cyan;Grand Protector's Journal: Entry 443^white;
+
+Asra is doing so well - she's a lifetime away from being the frightened girl I found in those far off ruins. Over time she's grown in confidence, and her natural intelligence has flourished - she really keeps me on my toes!
+
+Sometimes though, when she's still and quiet, when she thinks no one sees, I catch glimpses of a deep sadness in her. How can I protect her from the pain that lingers within her?",
+
+  "^cyan;Grand Protector's Journal: Entry 3537^white;
+
+The Protectorate has become too stressful for Asra of late, so I've brought her with me to aid me in my research. Perhaps a little space and time will settle her.
+
+My exploration has taken us to a small planet orbiting a remote star - far away from any civilisation, but perhaps closer to the answers I seek. Asra has been a huge help - I hope one day her wits will grow into wisdom.",
+
+  "^cyan;Grand Protector's Journal: Entry 3592^white;
+
+I have discovered a terrible secret, deciphered it from the ancient writings carved into these walls - they tell of an archaic force of unspeakable might, tethered but unresting: a powerful being driven to destroy all life! 
+
+Something must be done, but what hope do we have against 'the Ruin'?",
+
+  "^cyan;Grand Protector's Journal: Entry 3593^white;
+
+I have made a deplorable mistake - last night I shared my findings with Asra. As I explained my discovery she became agitated - I wanted to stop, but she wouldn't let me finish speaking until I'd clarified every last point. 
+
+I worried I was upsetting her, but as I concluded she boiled over into tremendous excitement! She told me I was wrong, that I was misinterpreting my findings, that at last we'd found proof of what she'd always known...",
+
+"She began raving, saying terrible things. She believes the Ruin to be a 'cleansing force' that will destroy all 'inferior life' in the universe - that it will leave 'only the worthy intact'. She was talking about humans! She wants to release the Ruin, to aid it!
+
+I tried to reason with her, but she WOULD NOT see sense. Her excitement became rage, incensed by my 'ignorance'. I reached out to her but she pushed me away. I pleaded with her but to no avail. She left. 
+My Asra, my little girl, is gone."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

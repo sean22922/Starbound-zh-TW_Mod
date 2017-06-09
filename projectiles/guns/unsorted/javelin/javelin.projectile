@@ -1,0 +1,21 @@
+{
+  "projectileName" : "javelin",
+  "physics" : "arrownosticky",
+  "image" : "javelin.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 25,
+  "knockback" : 20,
+  "damageKind" : "bow",
+  "emitters" : [ "daggerblue" ],
+  "damagePoly" : [ [-12, -1], [14, -1], [14, 3], [-12, 3] ]
+}

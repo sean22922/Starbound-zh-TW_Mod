@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "alienstripedwood", "count" : 20 }
+  ],
+  "output" : {
+    "item" : "alienchest",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

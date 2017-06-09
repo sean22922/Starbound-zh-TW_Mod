@@ -1,0 +1,10 @@
+{
+  "name" : "rustick",
+  "category" : "rustick",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "rustick.png",
+    "bodyfullbright" : "rustickfullbright.png"
+  }
+}

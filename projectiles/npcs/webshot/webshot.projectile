@@ -1,0 +1,17 @@
+{
+  "projectileName" : "webshot",
+  "image" : "webshot.png",
+  "physics" : "grenade",
+  "animationCycle" : 0.2,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "power" : 5,
+  "speed" : 30,
+  "timeToLive" : 0.95,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [0, 2.5], [5, 2.5], [5, -2.5], [0, -2.5]],
+  "damageKind" : "default",
+
+  "renderLayer" : "Monster+10"
+}

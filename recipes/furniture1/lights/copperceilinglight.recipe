@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "copperceilinglight",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

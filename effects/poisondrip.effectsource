@@ -1,0 +1,29 @@
+{
+  "kind" : "poisondrip",
+  "definition" : {
+    "duration" : 0.0175,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisondrip1" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+      [ "poisondrip1" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

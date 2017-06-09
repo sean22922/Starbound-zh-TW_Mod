@@ -1,0 +1,31 @@
+{
+  "projectileName" : "beetle",
+  "image" : "beetle.png",
+  "physics" : "slider",
+  "animationCycle" : 0.2,
+  "frameNumber" : 2,
+  "flippable" : true,
+  "damageKindImage" : "icon.png",
+  "power" : 50,
+  "speed" : 35,
+  "timeToLive" : 3,
+  "bounces" : -1,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "inheritDamageFactor" : 1,
+      "type" : "acidexplosion"
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/melee/blunt_kill_organic1.ogg" ]
+    },
+    {
+      "action" : "light",
+      "color" : "green"
+    }
+  ],
+
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "orangemagenta",
+  "category" : "crasberry",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "orangemagenta.png"
+  }
+}

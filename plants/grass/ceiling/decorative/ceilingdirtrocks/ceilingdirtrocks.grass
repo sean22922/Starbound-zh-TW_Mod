@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingdirtrocks",
+  "description" : "Dirt rocks.",
+  "shortdescription" : "Dirt rocks.",
+  "floranDescription" : "Dirt rocksss!",
+  "glitchDescription" : "Statement. Rocks made of dirt.",
+  "ceiling" : true,
+  "images" : [ "ceilingdirtrocks1.png", "ceilingdirtrocks2.png", "ceilingdirtrocks3.png", "ceilingdirtrocks4.png", "ceilingdirtrocks5.png" ]
+}

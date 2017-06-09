@@ -1,0 +1,9 @@
+{
+  "name" : "owlcritter",
+  "category" : "owlcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

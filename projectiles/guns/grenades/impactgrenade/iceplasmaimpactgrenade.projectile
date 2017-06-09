@@ -1,0 +1,21 @@
+{
+  "projectileName" : "iceplasmaimpactgrenade",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive" : 3,
+  "damageKindImage" : "iceicon.png",
+  "pointLight" : true,
+  "lightColor" : [40, 60, 80],
+  "image" : "iceplasmaimpactgrenade.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/iceexplosionknockback.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "iceplasma"
+}

@@ -1,0 +1,28 @@
+{
+  "name" : "craftarmor",
+
+  "triggers" : [
+    "item.category.headarmour",
+    "item.category.chestarmour",
+    "item.category.legarmour"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.headarmour",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "item.category.chestarmour",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "item.category.legarmour",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

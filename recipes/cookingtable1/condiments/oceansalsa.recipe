@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "reefpod", "count" : 1 },
+    { "item" : "pineapple", "count" : 1 },
+    { "item" : "coralcreep", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "oceansalsa", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ],
+  "collectables" : { "cooking" : "oceansalsa" }
+}

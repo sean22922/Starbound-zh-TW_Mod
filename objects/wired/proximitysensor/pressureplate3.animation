@@ -1,0 +1,54 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "switchState" : {
+        "default" : "off",
+        "states" : {
+          "on" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "properties" : {
+              "immediateSound" : "/sfx/objects/hiddenswitch1.ogg"
+            }
+          },
+          "off" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "frameProperties" : {
+              "immediateSound" : [ "/sfx/objects/tinywallswitch.ogg", "", "" ]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "switch" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "switchState" : {
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:turningOn.<frame>"
+              }
+            },
+
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:turningOff.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "on" : [],
+    "off" : []
+  }
+}

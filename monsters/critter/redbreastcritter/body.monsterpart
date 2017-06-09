@@ -1,0 +1,9 @@
+{
+  "name" : "redbreastcritter",
+  "category" : "redbreastcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

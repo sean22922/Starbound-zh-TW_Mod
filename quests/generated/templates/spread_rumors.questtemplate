@@ -1,0 +1,254 @@
+{
+  "id" : "spread_rumors.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Notafriendyet Jones"
+      }
+    },
+    "other" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Rival Person"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/secret_note.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["verb2", [
+          // Second-person verbs
+          "admires",
+          "adores",
+          "stares at",
+          "dreams about",
+          "wants to draw",
+          "draws pictures of",
+          "likes poking",
+          "smells",
+          "daydreams about",
+          "sings to",
+          "writes stories about",
+          "loves",
+          "forgets about"
+        ]],
+        ["object", [
+          "their own face",
+          "themselves",
+          "poptops",
+          "snails",
+          "gleaps",
+          "pearlpeas",
+          "vegetables",
+          "computers",
+          "crasberries",
+          "their toes",
+          "sleeping people",
+          "spaceships",
+          "rocks"
+        ]],
+        ["adjective", [
+          "stupid",
+          "mean",
+          "a bad friend",
+          "bad friend material",
+          "a bit weird",
+          "creepy",
+          "close-minded",
+          "a gossip",
+          "making fun of you",
+          "covered in bugs",
+          "afraid of space"
+        ]]
+      ],
+      "title" : [
+        "Help <questGiver> spread rumours",
+        "<questGiver>'s rumour mill"
+      ],
+      "goalText" : {
+        "floran" : [
+          "^cyan;<target> ssseems like fun company, and Floran has crafty plan to make friendsss with <target.pronoun.object>.",
+          "^cyan;Floran wantss to befriend <target>. Let's get rid of <target.pronoun.possessiveDet> current horrible friend!"
+        ],
+        "glitch" : [
+            "^cyan;Jealous. <target> should be friends with me, not <other>.",
+            "^cyan;Resentful. I heard that <other>'s been spreading rumours about me. I'd like to return the favour."
+        ],
+        "default" : [
+            "^cyan;I'd like to befriend <target>. If only <target.pronoun.possessiveDet> friend <other> wasn't in the way....",
+            "^cyan;I'd like <target> to become my friend instead of <other>'s. I have a plan to make this happen..."
+        ]
+      },
+      "text" : {
+        "first" : {
+          "floran" : [
+            "First Floran needs to befriend <target>. Floran knows how friendship works, there's only so much room in people's hearts! We need to make sure <target> stops being friends with that pesssky ^orange;<other>^white;! ^green;Deliver this ^orange;note^white; to ^orange;<target>^white;. It describes the ugly truth about <target.pronoun.possessiveDet> so called friend.",
+            "To start, Floran needss to befriend lovely <target>. Too bad <target.pronoun.subject> always spends time with ssstupid ^orange;<other>^white;. Please ^green;deliver this ^orange;note^green; to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> terrible friend."
+          ],
+          "glitch" : [
+            "Envious. I want to be friends with <target>, but <target.pronoun.subject> spends all <target.pronoun.possessiveDet> time with <other>. But what if ^orange;<other> had a horrible secret? ^green;Give this ^orange;note^green; to ^orange;<target>^white;... <target.pronoun.capitalSubject>'ll surely reconsider their friendship after reading this...",
+            "Spiteful. First, let's find a blabbermouth. ^orange;<target> ^white;will do nicely. Once <target.pronoun.subject> ^green;receives this ^orange;note ^green;from you ^white;I can guarantee ^orange;<other> won't be so popular around here anymore."
+          ],
+          "default" : [
+            "I think <target> and I would make good friends, but <target.pronoun.subject>'s always hanging out with horrible ^orange;<other>^white;. Let's put a stop to it! ^green;Here's a ^orange;note^green; I want you to deliver to ^orange;<target>^white; that will put <target.pronoun.object> off seeing <target.pronoun.possessiveDet> horrible friend again.",
+            "Let's start by befriending <target>. First we have to make <target.pronoun.object> stop seeing <target.pronoun.possessiveDet> lame friend. ^green;I've prepared this ^orange;note^green; that I want you to deliver to ^orange;<target>^white; that outlines the worser points of <target.pronoun.possessiveDet> boring friend. Please deliver it for me!"
+          ]
+        },
+        "next" : {
+          "floran" : [
+            "Now Floran needs <target> to become Floran's friend, but Floran has seen <target.pronoun.object> being friendly with ^orange;<other>^white;! Put a stop to this ssso <target.pronoun.subject>'s only friendly with Floran! ^green;Deliver thiss ^orange;letter^green; to ^orange;<target>^white; - it illustrates how terrible <other> is.",
+            "It's time for Floran to befriend <target>. We need to ssstop <target.pronoun.object> from seeing ^orange;<other>^white;, who is awful. This ^orange;note^white; Floran wrote containsss information that will make ^orange;<target>^white; realise Floran is a better option! ^green;Please deliver it."
+          ],
+          "glitch" : [
+            "Manipulative. Now I need you to ^green;give this ^orange;note^green; to ^orange;<target>^white; to persuade <target.pronoun.object> to stop talking to ^orange;<other>^white;. What? No, everything it says is definitely completely true.",
+            "Callous. Once you ^green;give ^orange;<target> ^green;this rumour I've written about ^orange;<other>, ^white;<target.pronoun.subject> won't be able to resist telling everyone!"
+          ],
+          "default" : [
+            "I've seen ^orange;<target>^white; hang out with that stupid <other> a lot recently. I want <target.pronoun.object> to hang out with me! ^green;Deliver this ^orange;note^green; to <target.pronoun.object>^white; and <target.pronoun.subject> will realise what a waste of time <other> is. ",
+            "I want <target> to stop being friendly with ^orange;<other>^white; and become my friend instead. Here's a ^orange;note^white; I wrote with the truth about <other> in it. ^green;Please, deliver it to ^orange;<target>^white; for me!"
+          ]
+        },
+        "last" : {
+          "floran" : [
+            "<target> and ^orange;<other>^white; have been friends for a long time. Now <target> will finally become Floran's friend inssstead! Floran's plan is for you to ^green;tell ^orange;<target>^green; how terrible <target.pronoun.possessiveDet> friend isss.^white; Floran already prepared this ^orange;note^white; for^green; you to deliver.",
+            "Now for the finale! Floran wantss to befriend <target>. We need to stop <target.pronoun.object> from conssstantly seeing ^orange;<other>^white;. If you ^green;deliver this ^orange;letter^green; to ^orange;<target>^white; <target.pronoun.subject>'ll become Floran's friend insstead. Floran is sure."
+          ],
+          "glitch" : [
+            "Devious. Lastly, I will need you to ^green;give this ^orange;note^green; to ^orange;<target>. ^white;<target.pronoun.capitalSubject> definitely won't want to speak to ^orange;<other> ^white;anymore after reading this...",
+            "Vindictive. Finally, ^green;hand this rumour about ^orange;<other> ^green;to ^orange;<target>. ^white;It's a little far fetched, but there's no smoke without fire."
+          ],
+          "default" : [
+            "Finally, let's make ^orange;<target> ^white;realise that I'm better friend material than ^orange;<other>. ^green;Show <target.pronoun.object> this ^orange;note^green; that I've written^white; about <other> and <target.pronoun.subject>'ll see the light!",
+            "Here's a ^orange;note^white; I wrote about ^orange;<other>^white;. Everyone knows <other.pronoun.subject>'s terrible, but still ^orange;<target>^white; hangs out with <other.pronoun.object> every day. It's my time to be ^green;<target>'s friend! ^green;Please deliver this note to <target.pronoun.object>."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Floran hass great plan to befriend <target>. However, Floran's future friend is alwayss seen with ^orange;<other>^white;. You need to tell ^orange;<target>^white; how nasssty <other> is! Please ^green;deliver this ^orange;note^white; that Floran prepared.",
+            "Here is a ^orange;note ^green;Floran needss you to deliver to ^orange;<target>^white;. It contains the truth about <target.pronoun.possessiveDet> friend ^orange;<other>.^white; As sssoon as <target.pronoun.subject> reads it <target> will realise that Floran is a better friend!"
+          ],
+          "glitch" : [
+            "Devious. I want to get closer to <target>, but <target.pronoun.subject> only has eyes for <other>. I bet that will change once you ^green;give ^orange;<target>^green; this ^orange;note^white; ^green;about ^orange;<other>^white;... Then <target> will have time for me!",
+            "Malicious. I'll teach ^orange;<other>^white; a lesson <other.pronoun.subject> won't soon forget. ^green;Give this rumour I've written to ^orange;<target>^white;, then we can sit back and watch the fireworks."
+          ],
+          "default" : [
+            "I wish ^orange;<target>^white; would become my friend instead of ^orange;<other>'s^white;. I've prepared this ^orange;note^white; for <target.pronoun.object> that will explain the truth about <other>. It will make <target.pronoun.object> realise that I'm much better friend material! ^green;Please deliver it to <target.pronoun.object> for me.",
+            "I've wanted to be <target>'s friend for ages, but <target.pronoun.subject> only hangs out with ^orange;<other>^white;. ^green;I've prepared this ^orange;note^green; for you to deliver to ^orange;<target>^white;. It will tell <target.pronoun.object> the truth about <other>."
+          ]
+        }
+      },
+      "completionText" : {
+        "first" : {
+          "floran" : [
+            "Good job! Now Floran'sss and <target>'s friendship will truly blossom. ",
+            "We did it! Floran iss happy about this friendship. Thank you!"
+          ],
+          "glitch" : [
+            "Impressed. <target> looked horrified when <target.pronoun.subject> read the message! Not that I was hiding and watching <target.pronoun.object> or anything. Anyway, there's work to do yet!",
+            "Satisfied. That was great! <target> bought it immediately. The rumour about <other> is spreading already."
+          ],
+          "default" : [
+            "Wonderful news! <other>'s out an I'm in! This is going to be great.",
+            "You did it. Friends are great assets and I'm sure <target> will prove useful to me in the future. "
+          ]
+        },
+        "next" : {
+          "floran" : [
+            "That went well! With Floran's new found friend the next ssstep will be much easier.",
+            "Thank you! Floran will have a lot of fun with <target> now."
+          ],
+          "glitch" : [
+            "Pleased. I bet <target> will be spending much less time around <other> now, which definitely means <target.pronoun.subject>'ll have more time for me. There's something else I need you to do...",
+            "Amused. I think it's safe to say <other>'s social life is in tatters!"
+          ],
+          "default" : [
+            "<target> abandoned <other> and accepted my friendship! A new friend will certainly come in handy. ",
+            "Thank you for delivering the note! <target> and I are now officially friends. "
+          ]
+        },
+        "last" : {
+          "floran" : [
+            "Floran is pleasssed that the plan was successful! Floran's sure that <target> is grateful we told <target.pronoun.object> the truth about <other>.",
+            "Floran hass acquired a new friend! Thiss is a lovely day for Floran!"
+          ],
+          "glitch" : [
+            "Satisfied. I've no doubt that <target> and I will become good friends now that <other> is out of the picture.",
+            "Delighted. That rumour fanned the flames magnificently! <other> isn't going to have many friends left after this."
+          ],
+          "default" : [
+            "I'm excited about my new friend! Everyone knows <other> is bad company anyway! Thanks for your hard work.",
+            "<other> is out of the picture, and now me and <target> are friends! This friendship will no doubt be useful - thanks for making it happen."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Success! We certainly made an impression on <target>! Thank you!",
+            "Thiss turned out just like Floran wanted! Floran is so happy."
+          ],
+          "glitch" : [
+            "Elated. I have no doubt that with <other> out of the way, <target> and I will become great friends!",
+            "Pleased. That worked better than I expected. <other> will think twice before spreading rumours again! <target> was horrified!"
+          ],
+          "default" : [
+            "<target.pronoun.capitalSubject> accepted my friendship! And who wouldn't? Thank you for helping me out!",
+            "The plan worked! <target> is now my friend - and <other> is out of the picture. Thanks for helping to make this happen!"
+          ]
+        }
+      },
+      "failureText" : [
+        "I didn't help <questGiver> in <questGiver.pronoun.possessiveDet> attempt to sabotage <target>'s friendship. It wasn't a very nice plan, anyway.",
+        "I failed to spread rumours about <other> to <target>. Maybe <questGiver> should learn to make friends by being kind?",
+        "I was unable to assist in <questGiver>'s plot to ruin <target>'s friendship. It was a mean plan, so I won't lose sleep over abandoning it."
+      ]
+    },
+    "portraitParameter" : "target",
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+
+    "secretNote" : [
+      "<target>, just to let you know, <other> secretly <verb2> <object>. Sorry.",
+      "Hey <target>, I hate to give you bad news but <other> is <adjective>.",
+      "You should know that <other> <verb2> <object>.",
+      "<other> is <adjective>. Love, <questGiver>"
+    ],
+
+    "responseNote" : [
+      "That's disappointing... Let's hang out sometime!",
+      "<other> is a loser! Let's be friends!",
+      "I guess I never really knew them after all. Let's hang out!",
+      "I'm disappointed in <other>. Can you and I be friends?",
+      "That's terrible! :O"
+    ],
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Deliver message to <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Bring reply to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

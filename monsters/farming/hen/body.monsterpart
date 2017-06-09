@@ -1,0 +1,9 @@
+{
+  "name" : "hen",
+  "category" : "hen",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

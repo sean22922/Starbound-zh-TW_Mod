@@ -1,0 +1,17 @@
+{
+  "name" : "bubbleshield",
+  "effectConfig" : {
+    "shieldHealthMultiplier" : 0.5,
+    "initialPercentage" : 1,
+    "expirationTime" : 0.5,
+    "hideBorder" : true
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "shieldeffect.lua"
+  ],
+  "scriptDelta" : 10,
+
+  "animationConfig" : "bubbleshield.animation"
+}

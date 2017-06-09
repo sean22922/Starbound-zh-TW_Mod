@@ -1,0 +1,9 @@
+{
+  "name" : "phoenixfly",
+  "category" : "phoenixfly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "phoenixfly.png"
+  }
+}

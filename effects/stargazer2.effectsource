@@ -1,0 +1,29 @@
+{
+  "kind" : "stargazer2",
+  "definition" : {
+    "duration" : 0.6,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        []
+      ],
+      "sounds" : [
+        []
+      ]
+    },
+    "particles" : [
+      [ "stargazer" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

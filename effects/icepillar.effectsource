@@ -1,0 +1,29 @@
+{
+  "kind" : "icepillar",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "iceshard", "iceshard", "iceshard", "iceswoosh1", "iceswoosh3", "iceswoosh2", "iceswoosh1", "iceswoosh3", "iceswoosh2", "iceswoosh1", "iceswoosh3", "iceswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "iceswoosh1", "iceswoosh3", "iceswoosh2", "iceswoosh1", "iceswoosh3", "iceswoosh2", "iceswoosh1", "iceswoosh3", "iceswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "iceswoosh4", "iceswoosh4", "iceswoosh4", "iceswoosh4", "iceswoosh4", "iceswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

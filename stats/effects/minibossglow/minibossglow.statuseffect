@@ -1,0 +1,11 @@
+{
+  "name" : "minibossglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "minibossglow.lua"
+  ],
+
+  "animationConfig" : "minibossglow.animation"
+}

@@ -1,0 +1,26 @@
+{
+  "eventName" : "completeQuest",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - templateId
+  //  - generated
+
+  "stats" : [
+    {
+      "name" : "quest",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "quest.templateId.<templateId>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "quest.generated.<generated>",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

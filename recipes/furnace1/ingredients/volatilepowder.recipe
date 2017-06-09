@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "corefragmentore", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "volatilepowder",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurnace", "ingredients", "all" ]
+}

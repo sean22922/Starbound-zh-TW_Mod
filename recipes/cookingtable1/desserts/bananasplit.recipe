@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "avesmingoicecream", "count" : 1 },
+    { "item" : "banana", "count" : 1 },
+    { "item" : "chocolate", "count" : 1 },
+    { "item" : "pineapple", "count" : 1 }
+  ],
+  "output" : { "item" : "bananasplit", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "bananasplit" }
+}

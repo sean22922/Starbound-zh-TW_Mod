@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 5 }
+  ],
+  "output" : { "item" : "thatch", "count" : 50 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

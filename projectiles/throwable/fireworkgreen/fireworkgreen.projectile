@@ -1,0 +1,30 @@
+{
+  "projectileName" : "fireworkgreen",
+  "bounces" : -1,
+  "timeToLive" : 6,
+  "physics" : "grenadenobounce",
+  "image" : "fireworkgreen.png",
+  "lightColor" : [179, 149, 107],
+  "frameNumber" : 1,
+  "damageKind" : "snowball",
+  "onlyHitTerrain" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/firework_launch1.ogg" ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen2",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 0
+    }
+
+  ],
+  "emitters" : [ "defaultorange" ]
+}

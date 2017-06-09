@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "cellmatter", "count" : 15 },
+    { "item" : "silverbar", "count" : 1 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 3 }
+  ],
+  "output" : { "item" : "celllamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

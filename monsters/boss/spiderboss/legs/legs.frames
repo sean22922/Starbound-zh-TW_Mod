@@ -1,0 +1,33 @@
+{
+  "frameGrid" : {
+    "size" : [255, 255],
+    "dimensions" : [13, 9],
+
+    "names" : [
+      [ null, "cocoon.1" ],
+      [ null, "idle.1", "idle.2", "idle.3", "idle.4", "idle.5", "idle.6", "idle.7", "idle.8", "idle.9", "idle.10", "idle.11", "idle.12" ],
+      [ null, "walk.1", "walk.2", "walk.3", "walk.4", "walk.5", "walk.6", "walk.7", "walk.8", "walk.9", "walk.10", "walk.11", "walk.12"],
+      [ null, "die.1", "die.2", "die.3", "die.4", "die.5", "die.6", "die.7", "die.8", "die.9", "die.10", "die.11", "die.12"],
+      [ null, "slam.1", "slam.2", "slam.3", "slam.4", "slam.5", "slam.6", "slam.7", "slam.8", "slam.9", "slam.10", "slam.11", "slam.12"],
+      [ null, "hurt.1", "hurt.2", "hurt.3", "hurt.4", "hurt.5", "hurt.6", "hurt.7", "hurt.8", "hurt.9", "hurt.10", "hurt.11", "hurt.12"],
+      [ null, "rotate.1", "rotate.2", "rotate.3", "rotate.4", "rotate.5", "rotate.6", "rotate.7", "rotate.8", "rotate.9", "rotate.10", "rotate.11", "rotate.12"],
+      [ null, "strafeleft.1", "strafeleft.2", "strafeleft.3", "strafeleft.4", "strafeleft.5", "strafeleft.6", "strafeleft.7", "strafeleft.8", "strafeleft.9", "strafeleft.10", "strafeleft.11", "strafeleft.12"],
+      [ null, "straferight.1", "straferight.2", "straferight.3", "straferight.4", "straferight.5", "straferight.6", "straferight.7", "straferight.8", "straferight.9", "straferight.10", "straferight.11", "straferight.12"]
+    ]
+  },
+
+  "aliases" : {
+    "walkback.1" : "walk.12",
+    "walkback.2" : "walk.11",
+    "walkback.3" : "walk.10",
+    "walkback.4" : "walk.9",
+    "walkback.5" : "walk.8",
+    "walkback.6" : "walk.7",
+    "walkback.7" : "walk.6",
+    "walkback.8" : "walk.5",
+    "walkback.9" : "walk.4",
+    "walkback.10" : "walk.3",
+    "walkback.11" : "walk.2",
+    "walkback.12" : "walk.1"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "type" : "coordinator",
+  
+  "scripts" : [
+  	"/stagehands/coordinator.lua",
+  	"/scripts/behavior.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "npcCombat" : {
+    "rangedWeaponRanges" : {
+      "default" : {
+        "minRange" : 10,
+        "maxRange" : 25,
+        "forceMoveRange" : 40
+      },
+      "npcassaultrifle" : {
+        "minRange" : 10,
+        "maxRange" : 25,
+        "forceMoveRange" : 40
+      },
+      "npcpistol" : {
+        "minRange" : 8,
+        "maxRange" : 20,
+        "forceMoveRange" : 25
+      },
+      "npcmachinepistol" : {
+        "minRange" : 8,
+        "maxRange" : 15,
+        "forceMoveRange" : 30
+      },
+      "npcshotgun" : {
+        "minRange" : 8,
+        "maxRange" : 15,
+        "forceMoveRange" : 30
+      },
+      "npcsniperrifle" : {
+        "minRange" : 15,
+        "maxRange" : 35,
+        "forceMoveRange" : 50
+      },
+      "npcbow" : {
+        "minRange" : 10,
+        "maxRange" : 45,
+        "forceMoveRange" : 40
+      }
+    },
+
+    "meleeWeaponRanges" : {
+      "default" : {
+        "minRange" : 1.5,
+        "maxRange" : 3.0
+      },
+      "npcdagger" : {
+        "minRange" : 1.5,
+        "maxRange" : 3.0
+      },
+      "npcshortsword" : {
+        "minRange" : 1.5,
+        "maxRange" : 3.0
+      },
+      "npcaxe" : {
+        "minRange" : 1.5,
+        "maxRange" : 3.0
+      },
+      "npchammer" : {
+        "minRange" : 2.0,
+        "maxRange" : 4.0
+      },
+      "npcbroadsword" : {
+        "minRange" : 2.5,
+        "maxRange" : 4.0
+      },
+      "npcspear" :  {
+        "minRange" : 3.0,
+        "maxRange" : 5.0
+      }
+    }
+  }
+}

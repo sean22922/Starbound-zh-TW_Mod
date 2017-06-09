@@ -1,0 +1,9 @@
+{
+  "name" : "smallsnakebody",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "smallsnakebody.png"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "metadata" : {
+    "name" : "colourfulmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+
+    "anchor" : [ "largetunnel1", "largetunnel2", "largetunnel3", "mound1", "mound2", "overhang1", "overhang2", "pit1", "pond1", "pond2", "rockpond1", "rockpond2", "hill1", "hill2", "hill3", "hill4", "hill5" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "largetunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largetunnel1.json" ]
+    },
+    {
+      "name" : "largetunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largetunnel2.json" ]
+    },
+    {
+      "name" : "largetunnel3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "largetunnel3.json" ]
+    },
+    {
+      "name" : "mound1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mound1.json" ]
+    },
+    {
+      "name" : "mound2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mound1.json" ]
+    },
+    {
+      "name" : "overhang1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "overhang1.json" ]
+    },
+    {
+      "name" : "overhang2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "overhang2.json" ]
+    },
+    {
+      "name" : "pit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pit1.json" ]
+    },
+    {
+      "name" : "pond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pond1.json" ]
+    },
+    {
+      "name" : "pond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pond2.json" ]
+    },
+    {
+      "name" : "rockpond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockpond1.json" ]
+    },
+    {
+      "name" : "rockpond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockpond2.json" ]
+    },
+    {
+      "name" : "hill1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hill1.json" ]
+    },
+    {
+      "name" : "hill2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hill2.json" ]
+    },
+    {
+      "name" : "hill3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hill3.json" ]
+    },
+    {
+      "name" : "hill4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hill4.json" ]
+    },
+    {
+      "name" : "hill5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hill5.json" ]
+    }
+  ]
+}

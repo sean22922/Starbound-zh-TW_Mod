@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "alienstripedwood", "count" : 25 },
+    { "item" : "silk", "count" : 3 },
+    { "item" : "plantfibre", "count" : 25},
+    { "item" : "pinkdye", "count" : 1}
+  ],
+  "output" : {
+    "item" : "alienbed",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

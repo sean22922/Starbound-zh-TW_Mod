@@ -1,0 +1,15 @@
+{
+  "name" : "monstercapture",
+  "effectConfig" : {
+    "colorFadeDuration" : 0.3,
+    "alphaFadeDuration" : 0.2,
+    "fadeMax" : 0.8
+  },
+  "defaultDuration" : 5,
+
+  "animationConfig" : "monstercapture.animation",
+
+  "scripts" : [
+    "monstercapture.lua"
+  ]
+}

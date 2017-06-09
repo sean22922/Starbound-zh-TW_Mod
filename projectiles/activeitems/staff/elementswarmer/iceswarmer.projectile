@@ -1,0 +1,33 @@
+{
+  "projectileName" : "iceswarmer",
+  "physics" : "laser",
+  "timeToLive" : 3,
+  "image" : "iceswarmer.png",
+  "animationCycle" : 0.3,
+  "lightColor" : [34, 190, 220],
+  "frameNumber" : 4,
+  "periodicActions" : [ ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/iceimpact.config"
+    }
+  ],
+  "speed" : 10,
+  "power" : 30,
+  "damageKind" : "ice",
+  "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
+  "statusEffects" : [ "frostslow" ],
+
+  "fullbright" : true,
+  "emitters" : [ "iceplasma" ],
+
+  "bounces" : 0,
+
+  "scripts" : [ "/projectiles/activeitems/staff/staffprojectile.lua" ],
+
+  "controlMovement" : {
+    "maxSpeed" : 60,
+    "controlForce" : 40
+  }
+}

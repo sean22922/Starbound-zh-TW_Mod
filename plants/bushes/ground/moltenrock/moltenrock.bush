@@ -1,0 +1,45 @@
+{
+  "name" : "moltenrock",
+  "description" : "Molten rock.",
+  "shortdescription" : "Molten rock.",
+  "floranDescription" : "Burny rocksss.",
+  "glitchDescription" : "Statement. Molten rock.",
+  "mods" : [ "magma" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "magma" : [ "magma1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "magma" : [ "magma2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "magma" : [ "magma3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "magma" : [ "magma4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "magma" : [ "magma5.png", "" ]
+      }
+    }
+
+  ]
+}

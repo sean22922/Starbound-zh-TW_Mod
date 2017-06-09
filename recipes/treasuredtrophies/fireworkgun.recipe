@@ -1,0 +1,14 @@
+{
+  "input" : [
+    { "item" : "firework", "count" : 5 },
+    { "item" : "fireworkgreen", "count" : 5 },
+    { "item" : "fireworkblue", "count" : 5 },
+    { "item" : "silverbar", "count" : 10 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fireworkgun",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

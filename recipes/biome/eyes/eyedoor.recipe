@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "eyepiles", "count" : 30 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "eyedoor", "count" : 1 },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

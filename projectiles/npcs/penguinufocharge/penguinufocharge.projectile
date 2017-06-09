@@ -1,0 +1,23 @@
+{
+  "projectileName" : "penguinufocharge",
+  "image" : "penguinufocharge.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 3,
+  "damageKindImage" : "icon.png",
+  "pointLight" : true,
+  "lightColor" : [0, 0, 73],
+  "power" : 10.0,
+  "speed" : 0.0,
+  "timeToLive" : 0.2,
+  "damageKind" : "default",
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/pulsecannon2.ogg" ]
+    },
+    {
+      "action" : "light",
+      "color" : "blue"
+    }
+  ]
+}

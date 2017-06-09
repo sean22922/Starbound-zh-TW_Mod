@@ -1,0 +1,9 @@
+{
+  "name" : "steambirdcritter",
+  "category" : "steambirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

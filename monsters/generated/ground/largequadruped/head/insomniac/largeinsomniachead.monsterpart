@@ -1,0 +1,15 @@
+{
+  "name" : "largeinsomniachead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeinsomniachead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1, -0.8]
+  }
+}

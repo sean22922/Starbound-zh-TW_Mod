@@ -1,0 +1,19 @@
+{
+  "kind" : "redtargetshard",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/shards/generatorredshard.animation",
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [2.0, 2.0],
+    "timeToLive" : 0.5,
+    "layer" : "middle",
+    "collidesForeground" : false,
+    "variance" : {
+      "position" : [1, 1],
+      "initialVelocity" : [5, 5],
+      "rotation" : 180,
+      "angularVelocity" : 180
+    }
+  }
+}

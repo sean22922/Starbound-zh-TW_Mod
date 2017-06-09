@@ -1,0 +1,13 @@
+{
+  "projectileName" : "bonechain3",
+  "image" : "bonechain3.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 6,
+  "speed" : 50,
+  "damagePoly" : [ [-18, 0], [-24, -24], [0, -36], [24, -24], [18, 0] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default"
+
+}

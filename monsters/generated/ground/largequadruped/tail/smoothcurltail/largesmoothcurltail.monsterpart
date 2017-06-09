@@ -1,0 +1,9 @@
+{
+  "name" : "largesmoothcurltail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largesmoothcurltail.png"
+  }
+}

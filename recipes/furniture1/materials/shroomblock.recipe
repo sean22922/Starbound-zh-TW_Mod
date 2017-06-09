@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 1 }
+  ],
+  "output" : { "item" : "shroomblock", "count" : 10 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

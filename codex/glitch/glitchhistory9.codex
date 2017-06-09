@@ -1,0 +1,33 @@
+{
+  "id" : "glitchhistory9",
+  "species" : "glitch",
+  "title" : "Mechanical Machinations",
+  "description" : "A history of Glitch dynastic intrigue.",
+  "icon" : "glitchcover4.png",
+  "contentPages" : [
+  "Throughout history the flow and eddy of shifting factions has held sway over the keeps and castles of the Glitch.
+
+The first Glitch family to rule in this province were the noble Wirebits, who lasted several generations.
+
+Then, in a bid to extend their influence, they married their then-heir, Pluglock Wirebit, to the renowned and beautiful Valvepin Leadkey.",
+
+"Sadly, Leadkey proved a thorny rose, and marital dispute soon devolved into out and out warfare between the two houses. After much strife, the Leadkeys were victorious.
+
+However, the rule of the Leadkeys didn't last long; a notorious northern lord, Hexkey Cliphinge, had been watching and plotting.
+
+While the Leadkeys were still depleted from the Wirebit turmoil, Cliphinge pounced, and easily pushed them out.",
+
+"Unfortunately for Cliphinge he died soon after, leaving no heirs.
+
+So the land passed to the family Washerplate... Who promptly lost it to house Locknut. Who quickly fell to the Flyheads. Soon brought down by the Fanclips. And so on and so forth, ad infinitum.
+
+It should be noted that despite the upheaval plaguing their upper echelons, the proletariat remains steadfastly unfazed (to the point of indifference).",
+
+"They simply go about their business, as is the intention of their programming."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

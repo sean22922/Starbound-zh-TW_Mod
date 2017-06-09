@@ -1,0 +1,9 @@
+{
+  "name" : "fireygiant",
+  "category" : "fireygiant",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fireygiant.png"
+  }
+}

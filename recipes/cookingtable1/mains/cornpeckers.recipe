@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "corn", "count" : 1 },
+    { "item" : "beakseed", "count" : 1 }
+  ],
+  "output" : { "item" : "cornpeckers", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "cornpeckers" }
+}

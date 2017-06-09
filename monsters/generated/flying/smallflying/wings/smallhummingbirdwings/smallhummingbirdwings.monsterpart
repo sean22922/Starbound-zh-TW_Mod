@@ -1,0 +1,10 @@
+{
+  "name" : "smallhummingbirdwings",
+  "category" : "smallflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "smallhummingbirdbwing.png",
+    "frontWings" : "smallhummingbirdfwing.png"
+  }
+}

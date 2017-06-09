@@ -1,0 +1,16 @@
+{
+  "name" : "killdreadwing",
+
+  "triggers" : [
+    "killMonster.monsterType.penguinUfo"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.penguinUfo",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "miasmop",
+  "category" : "miasmop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "miasmop.png"
+  }
+}

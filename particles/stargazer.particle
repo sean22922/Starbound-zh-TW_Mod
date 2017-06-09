@@ -1,0 +1,25 @@
+{
+  "kind" : "stargazer",
+  "definition" : {
+    "type" : "ember",
+    "size" : 0.9,
+    "color" : [242, 243, 146, 255],
+    "fade" : 0.7,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.25,
+    "position" : [-0.1, 0.25],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, -0.0],
+    "approach" : [-5, 0],
+    "timeToLive" : 0.1,
+    "light" : [63, 63, 38],
+    "layer" : "front",
+    "variance" : {
+      "initialVelocity" : [0.0, 0.0],
+      "finalVelocity" : [0, 0],
+      "position" : [0.6, 0.6],
+      "size" : 0.1,
+      "destructionTime" : 0.1
+    }
+  }
+}

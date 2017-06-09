@@ -1,0 +1,9 @@
+{
+  "name" : "birdcritter",
+  "category" : "birdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

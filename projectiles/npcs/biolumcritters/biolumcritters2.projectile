@@ -1,0 +1,18 @@
+{
+  "projectileName" : "biolumcritters2",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive" : 2,
+  "image" : "biolumcritters2.png",
+  "damageKindImage" : "icon.png",
+  "damagePoly" : [ [-6, 3], [-3, 6], [3, 6], [6, 3], [6, -3], [3, -6], [-3, -6], [-6, -3] ],
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "lightColor" : [217, 215, 119],
+  "speed" : 10,
+  "power" : 50,
+  "damageKind" : "default",
+  "emitters" : [ "defaultlightblue" ],
+
+  "renderLayer" : "Monster+10"
+}

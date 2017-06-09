@@ -1,0 +1,10 @@
+{
+  "name" : "trifangle",
+  "category" : "trifangle",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "trifangle.png",
+    "bodyfullbright" : "trifanglefullbright.png"
+  }
+}

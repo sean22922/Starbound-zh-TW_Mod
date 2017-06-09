@@ -1,0 +1,8 @@
+{
+  "name" : "breathprotectionvehicle",
+  "effectConfig" : {"protection" : 1},
+
+  "scripts" : [
+    "breathprotectionvehicle.lua"
+  ]
+}

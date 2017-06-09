@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_lana",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_lana" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_lana",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_lana.json" ]
+    }
+  ]
+}

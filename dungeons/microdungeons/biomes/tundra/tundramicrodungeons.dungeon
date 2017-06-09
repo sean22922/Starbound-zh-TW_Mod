@@ -1,0 +1,228 @@
+{
+  "metadata" : {
+    "name" : "tundramicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "cliffstation", "cliffstation1", "landingpadtall", "abandonedshippingcontainer", "icehouse1", "landingpad", "icegraveyard", "hiddenstash1", "hiddenstash2", "icebunker1", "icebunker2", "researchstationscouttreasure", "researchstationscouttower", "researchstationbunkerruins", "poofingathering", "researchstationruins", "hollowgathering", "snoregathering", "icecave1", "icecaveruin1", "icecaveruin2", "icecavethrone", "researchstation3", "researchstation2", "researchstation4", "researchstation5", "researchstation1", "researchstationbunker1", "meetingroombunker1", "nativehouse1" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "cliffstation",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffstation.json" ]
+    }, 
+    {
+      "name" : "cliffstation1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffstation1.json" ]
+    }, 
+    {
+      "name" : "landingpadtall",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "landingpadtall.json" ]
+    }, 
+    {
+      "name" : "hiddenstash1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hiddenstash1.json" ]
+    },  
+    {
+      "name" : "hiddenstash2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hiddenstash2.json" ]
+    },    
+    {
+      "name" : "icebunker1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icebunker1.json" ]
+    },    
+    {
+      "name" : "icebunker2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icebunker2.json" ]
+    },  
+    {
+      "name" : "researchstationscouttreasure",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstationscouttreasure.json" ]
+    },
+    {
+      "name" : "researchstationscouttower",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstationscouttower.json" ]
+    },
+    {
+      "name" : "researchstationbunkerruins",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstationbunkerruins.json" ]
+    },
+    {
+      "name" : "researchstation2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstation2.json" ]
+    },
+    {
+      "name" : "researchstationruins",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstationruins.json" ]
+    },
+    {
+      "name" : "snoregathering",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snoregathering.json" ]
+    },
+    {
+      "name" : "poofingathering",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "poofingathering.json" ]
+    },
+    {
+      "name" : "hollowgathering",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hollowgathering.json" ]
+    },
+    {
+      "name" : "icecave1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icecave1.json" ]
+    },
+    {
+      "name" : "icecaveruin1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icecaveruin1.json" ]
+    },
+    {
+      "name" : "icecaveruin2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icecaveruin2.json" ]
+    },
+    {
+      "name" : "researchstation1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstation1.json" ]
+    },
+    {
+      "name" : "researchstation3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstation3.json" ]
+    },
+    {
+      "name" : "researchstation4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstation4.json" ]
+    },
+    {
+      "name" : "researchstation5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstation5.json" ]
+    },
+    {
+      "name" : "researchstationbunker1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchstationbunker1.json" ]
+    },
+    {
+      "name" : "meetingroombunker1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "meetingroombunker1.json" ]
+    },
+    {
+      "name" : "icecavethrone",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icecavethrone.json" ]
+    },
+    {
+      "name" : "abandonedshippingcontainer",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "abandonedshippingcontainer.json" ]
+    },  
+    {
+      "name" : "icehouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icehouse1.json" ]
+    },       
+    {
+      "name" : "landingpad",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "landingpad.json" ]
+    },    
+    {
+      "name" : "icegraveyard",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icegraveyard.json" ]
+    },    
+    {
+      "name" : "nativehouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "nativehouse1.json" ]
+    }
+  ]
+}

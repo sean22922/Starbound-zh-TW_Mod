@@ -1,0 +1,9 @@
+{
+  "name" : "appofloatcritter",
+  "category" : "appofloatcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

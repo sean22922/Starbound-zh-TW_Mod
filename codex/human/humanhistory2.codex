@@ -1,0 +1,21 @@
+{
+  "id" : "humanhistory2",
+  "species" : "human",
+  "title" : "Our Duty to the Stars",
+  "description" : "A human news article from before the Terrene Protectorate was formed.",
+  "icon" : "humancover4.png",
+  "contentPages" : [
+  "MANKIND'S TRUE CALLING
+
+In recent years, mankind's devotion to uniting the people of the universe has shone a spotlight on Earth.
+
+As more and more alien races visit our homeworld, bringing with them tales of their own rich histories, it is easy to see how mankind is slowly becoming the \"tenders\" of all life. Earth is now a place of solace, a bright flame in what was once darkness.",
+
+"And we call for an organisation - one of peace and enlightenment - to shield that flame, and to feed its warmth."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "largeiceswoosh",
+  "definition" : {
+    "duration" : 0.01,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "largeiceswoosh1", "largeiceswoosh3", "largeiceswoosh2", "largeiceswoosh1", "largeiceswoosh3", "largeiceswoosh2", "largeiceswoosh1", "largeiceswoosh3", "largeiceswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "largeiceswoosh1", "largeiceswoosh3", "largeiceswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "largeiceswoosh4", "largeiceswoosh4", "largeiceswoosh4", "largeiceswoosh4", "largeiceswoosh4", "largeiceswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

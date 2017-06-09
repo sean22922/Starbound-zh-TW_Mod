@@ -1,0 +1,9 @@
+{
+  "name" : "squeem",
+  "category" : "squeem",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "squeem.png"
+  }
+}

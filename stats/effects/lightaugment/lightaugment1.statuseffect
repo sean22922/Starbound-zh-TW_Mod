@@ -1,0 +1,11 @@
+{
+  "name" : "lightaugment1",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "lightaugment.lua"
+  ],
+
+  "animationConfig" : "lightaugment1.animation"
+}

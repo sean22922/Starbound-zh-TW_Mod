@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "giantflowerpetal", "count" : 15 },
+    { "item" : "plantfibre", "count" : 5 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 1 }
+  ],
+  "output" : { "item" : "giantflowerlamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

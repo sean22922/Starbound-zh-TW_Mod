@@ -1,0 +1,12 @@
+{
+  "type" : "bossdooropener",
+
+  "broadcastArea" : [-5, -5, 5, 5],
+
+  "scripts" : [ "/stagehands/bossdooropener/bossdooropener.lua" ],
+  "scriptDelta" : 5,
+
+  "unlockRange" : 5,
+  "openDelay" : 2.0,
+  "bossIds" : [ ]
+}

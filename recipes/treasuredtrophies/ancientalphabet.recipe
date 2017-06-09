@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "translator1", "count" : 1 },
+    { "item" : "translator2", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ancientalphabet-codex",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

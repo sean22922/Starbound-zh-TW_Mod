@@ -1,0 +1,17 @@
+{
+  "projectileName" : "snotblock",
+  "physics" : "grenade",
+  "image" : "snotblock.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "tile",
+      "materials" : [
+        {"kind" : "slime"}
+      ]
+    }
+  ],
+  "damageKind" : "slash",
+  "emitters" : [ "poisonplasma", "largepoisonswoosh" ]
+}

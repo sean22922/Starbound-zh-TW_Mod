@@ -1,0 +1,15 @@
+{
+  "name" : "smallgorillahead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallgorillahead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1, -0.1]
+  }
+}

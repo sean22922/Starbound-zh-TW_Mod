@@ -1,0 +1,17 @@
+{
+  "id" : "hylotlhistory7",
+  "species" : "hylotl",
+  "title" : "In Defence of Our Race",
+  "description" : "A Hylotl scholar's musings on counter-culture within Hylotl society.",
+  "icon" : "hylotlcover4.png",
+  "contentPages" : [
+    "The Hylotl race has sometimes been accused of homogeny, as if in lacking a significant counter-culture we are somehow deficient. To these accusers I say, \"Observe the devout Avian and his Grounded brother; regard the rebel Apex as he encounters a Miniknog official.\"
+
+Our culture is vivid, our thinking enlightened; we lack nothing but hostility. In truth, this congenial tranquillity is our greatest strength."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

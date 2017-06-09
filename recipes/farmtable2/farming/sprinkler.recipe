@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 5 },
+    { "item" : "goldbar", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "sprinkler",
+    "count" : 1
+  },
+  "groups" : [ "craftingfarm2", "farming" ]
+}

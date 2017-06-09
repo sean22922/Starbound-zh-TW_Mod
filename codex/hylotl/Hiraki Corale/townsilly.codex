@@ -1,0 +1,21 @@
+{
+  "id" : "townsilly",
+  "species" : "hylotl",
+  "title" : "The Silly Miniknog",
+  "description" : "An excerpt from Hylotl Adventurer Hiraki Corale's journal.",
+  "icon" : "hirakicoralejournal2.png",
+  "contentPages" : [
+
+    "by Hiraki Corale, Hylotl adventurer
+
+The Miniknog certainly do treat the other Apex badly! So sad! Everyone is under constant surveillance and scrutiny, it's very tedious and stressful. Really, you can't blame me for ditching my escort, can you?
+
+I happened to find myself in what I think must be a Resistance Headquarters. So rebellious! I recognised some of the faces from wanted posters.",
+
+"The Apex stared at me as if I was some sort of intruder or something. One of them was shivering and looked cold, so I loaned her my Big Ape-branded jacket. So kind!"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "kind" : "breath",
+  "damageCooldownGroup" : "breath",
+  "damageCooldownDuration" : 0.4,
+  "damageCooldownPreGrace" : 0.0,
+  "damageCooldownMode" : "max"
+}

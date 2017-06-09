@@ -1,0 +1,19 @@
+{
+  "id" : "glitchhistory3",
+  "species" : "glitch",
+  "title" : "Built for Purpose? II",
+  "description" : "An excerpt from a book investigating the origin of the Glitch.",
+  "icon" : "glitchcover2.png",
+  "contentPages" : [
+    "If we are indeed lab rats that scurry beneath the microscope of higher beings, I must consider the parameters of such an endeavour.
+
+On inspecting other beings I have found technology and society to thrive not at the hands of the many, but of the few. Those few members to whom genius comes without provocation. I believe the Glitch are programmed to be incapable of creative genius and thus our ability to evolve as a species is stagnant.",
+
+"Perhaps our creator intended to deliver those ideas to us at a controlled rate, but our creator has long fallen silent. Glitch salvation lies outside the 1s and 0s that construct our programmers prison. We must break free of our programming."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

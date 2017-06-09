@@ -1,0 +1,57 @@
+{
+  "kind" : "penguin",
+
+    "charCreationTooltip" : {
+      "title" : "Penguin",
+      "subTitle" : "How are you even reading this ?",
+      "description" : "No idea what to put here"
+    },
+
+
+  "humanoidConfig" : "/species/penguinoid.config",
+  "nameGen" : [ "/species/penguinnamegen.config:names", "/species/penguinnamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/humanhurt_male1.ogg", "/sfx/humanoid/humanhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "PATTERN", "COLOR 1", "COLOR 2", "BEAK COLOR", "HAT", "HAT COLOR", "SHIRT", "SHIRT COLOR", "PENGUIN", "PERSONALITY" ],
+  "skull" : "/humanoid/penguin/dead.png",
+  "defaultBlueprints" : {
+    "tier1" : [ ]
+  },
+  "altOptionAsUndyColor" : false,
+  "headOptionAsHairColor" : false,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+      "characterImage" : "/interface/title/penguinmale.png",
+      "hair" : [ "male0" ],
+      "shirt" : [ "emptychest" ],
+      "pants" : [ "emptylegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+      "characterImage" : "/interface/title/penguinfemale.png",
+      "hair" : [ "fem0" ],
+      "shirt" : [ "emptychest" ],
+      "pants" : [ "emptylegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  // monument to removed felin fur colors RIP
+  "bodyColor" : [
+    { "d9c189" : "CD1C38", "a38d59" : "982441", "735e3a" : "69243F" }
+  ],
+  "undyColor" : [
+    { "d9c189" : "CD1C38", "a38d59" : "982441", "735e3a" : "69243F" }
+  ],
+  "hairColor" : [
+    { "d9c189" : "CD1C38", "a38d59" : "982441", "735e3a" : "69243F" }
+  ]
+}

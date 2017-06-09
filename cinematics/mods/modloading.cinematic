@@ -1,0 +1,186 @@
+{
+  "skippable" : false,
+  "backgroundColor" : [0, 0, 0, 255],
+  "panels" : [
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/loadinglogo.png:<frame>"
+        }
+      ],
+      "animationFrames" : 30,
+      "startTime" : 0.0,
+      "keyframes" : [
+        {
+          "timecode" : 0,
+          "alpha" : 0,
+          "position" : [910, 50],
+          "zoom" : 1.5,
+          "frame" : 0
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1,
+          "zoom" : 1.5,
+          "frame" : 0
+        },
+        {
+          "timecode" : 10000,
+          "alpha" : 1,
+          "zoom" : 1.5,
+          "frame" : 110000
+        }
+      ]
+    },
+   {
+      "drawables" : [
+        {
+          "image" : "/cinematics/mods/bunny.png:<frame>"
+        }
+      ],
+      "animationFrames" : 8,
+      "startTime" : 0.0,
+      "keyframes" : [
+        {
+          "timecode" : 0,
+          "alpha" : 0,
+          "zoom" : 2,
+          "frame" : 0,
+          "position" : [473, 260]
+        },
+        {
+          "timecode" : 0.5,
+          "alpha" : 1,
+          "zoom" : 3,
+          "frame" : 0
+        },
+        {
+          "timecode" : 10000,
+          "alpha" : 1,
+          "frame" : 110000
+        }
+      ]
+    },
+    {
+      "text" : "UPDATING MODS",
+      "fontSize" : 24,
+      "textPosition" : {
+        "position" : [0, 0],
+        "hAnchor" : "mid",
+        "vAnchor" : "mid",
+        "wrapWidth" : 400
+      },
+      "keyframes" : [
+        {
+          "timecode" : 0.0,
+          "zoom" : 500,
+          "alpha" : 0,
+          "textPercentage" : 0,
+          "position" : [395, 170]
+        },
+        {
+          "timecode" : 1,
+          "alpha" : 1,
+          "textPercentage" : 1
+        }
+      ]
+    },
+    {
+      "text" : "Wow, you sure do have a lot of mods to update, huh?",
+      "fontSize" : 14,
+      "textPosition" : {
+        "position" : [0, 0],
+        "hAnchor" : "mid",
+        "vAnchor" : "mid",
+        "wrapWidth" : 500
+      },
+      "keyframes" : [
+        {
+          "timecode" : 30,
+          "zoom" : 500,
+          "alpha" : 0,
+          "textPercentage" : 0,
+          "position" : [300, 130]
+        },
+        {
+          "timecode" : 31,
+          "alpha" : 1,
+          "textPercentage" : 1
+        }
+      ]
+    },
+    {
+      "text" : "This is taking a while. Maybe you should have a cup of tea?",
+      "fontSize" : 14,
+      "textPosition" : {
+        "position" : [0, 0],
+        "hAnchor" : "mid",
+        "vAnchor" : "mid",
+        "wrapWidth" : 500
+      },
+      "keyframes" : [
+        {
+          "timecode" : 90,
+          "zoom" : 500,
+          "alpha" : 0,
+          "textPercentage" : 0,
+          "position" : [280, 100]
+        },
+        {
+          "timecode" : 91,
+          "alpha" : 1,
+          "textPercentage" : 1
+        }
+      ]
+    },
+    {
+      "text" : "Maybe go for a walk?",
+      "fontSize" : 14,
+      "textPosition" : {
+        "position" : [0, 0],
+        "hAnchor" : "mid",
+        "vAnchor" : "mid",
+        "wrapWidth" : 500
+      },
+      "keyframes" : [
+        {
+          "timecode" : 200,
+          "zoom" : 500,
+          "alpha" : 0,
+          "textPercentage" : 0,
+          "position" : [400, 70]
+        },
+        {
+          "timecode" : 201,
+          "alpha" : 1,
+          "textPercentage" : 1
+        }
+      ]
+    },
+    {
+      "text" : "Don't ask me, I'm just a bunny.",
+      "fontSize" : 14,
+      "textPosition" : {
+        "position" : [0, 0],
+        "hAnchor" : "mid",
+        "vAnchor" : "mid",
+        "wrapWidth" : 500
+      },
+      "keyframes" : [
+        {
+          "timecode" : 300,
+          "zoom" : 500,
+          "alpha" : 0,
+          "textPercentage" : 0,
+          "position" : [365, 40]
+        },
+        {
+          "timecode" : 301,
+          "alpha" : 1,
+          "textPercentage" : 1
+        }
+      ]
+    }
+  ],
+  "audio" : [ ]
+}

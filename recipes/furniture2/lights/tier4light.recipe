@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "glass", "count" : 2 },
+    { "item" : "smallbattery", "count" : 1 }  
+  ],
+  "output" : { "item" : "tier4light", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "lights", "all" ]
+}

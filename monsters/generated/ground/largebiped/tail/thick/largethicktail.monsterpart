@@ -1,0 +1,9 @@
+{
+  "name" : "largethicktail",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largethicktail.png"
+  }
+}

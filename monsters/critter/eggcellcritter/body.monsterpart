@@ -1,0 +1,9 @@
+{
+  "name" : "eggcellcritter",
+  "category" : "eggcellcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "heckflower",
+  "description" : "A vile, fleshy flower.",
+  "shortdescription" : "Heck Flower",
+  "floranDescription" : "Tasssty flower.",
+  "glitchDescription" : "Disgust. A flower made of flesh.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

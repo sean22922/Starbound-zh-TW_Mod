@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "limestone", "count" : 50 }
+  ],
+  "output" : { "item" : "cavebed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

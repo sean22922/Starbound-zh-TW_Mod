@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 1 },
+    { "item" : "wire", "count" : 5 }
+  ],
+  "output" : { "item" : "tier1switch", "count" : 1 },
+  "groups" : [ "craftingwiring", "switches" ]
+}

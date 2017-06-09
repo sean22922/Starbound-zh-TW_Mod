@@ -1,0 +1,16 @@
+{
+  "projectileName" : "gas",
+  "image" : "gas.png",
+  "physics" : "gas",
+  "animationCycle" : 1.5,
+  "animationLoops" : false,
+  "frameNumber" : 8,
+  "power" : 50,
+  "speed" : 0,
+  "timeToLive" : 1.4,
+  "bounces" : 1,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "piercing" : true,
+  "emitters" : [ "largepoisonswoosh" ],
+  "damageKind" : "default"
+}

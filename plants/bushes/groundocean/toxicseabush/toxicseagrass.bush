@@ -1,0 +1,24 @@
+{
+  "name" : "toxicseagrass",
+  "description" : "Toxic seagrass.",
+  "shortdescription" : "Toxic Seagrass",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "toxicseagrass1.png"
+    },
+    {
+      "base" : "toxicseagrass2.png"
+    },
+    {
+      "base" : "toxicseagrass3.png"
+    },
+    {
+      "base" : "toxicseagrass4.png"
+    },
+    {
+      "base" : "toxicseagrass5.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "spookit",
+  "category" : "spookit",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "spookit.png"
+  }
+}

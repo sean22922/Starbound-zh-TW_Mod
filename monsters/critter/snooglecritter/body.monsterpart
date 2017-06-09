@@ -1,0 +1,9 @@
+{
+  "name" : "snooglecritter",
+  "category" : "snooglecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

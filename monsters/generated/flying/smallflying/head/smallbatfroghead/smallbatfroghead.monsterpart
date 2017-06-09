@@ -1,0 +1,9 @@
+{
+  "name" : "smallbatfroghead",
+  "category" : "smallflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallbatfroghead.png"
+  }
+}

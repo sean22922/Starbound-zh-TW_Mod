@@ -1,0 +1,9 @@
+{
+  "name" : "cinderfly",
+  "category" : "cinderfly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "cinderfly.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "metadata" : {
+    "name" : "foundrymicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "cliffleftscaffolding1", "cliffleftsupplies1", "cliffrightscaffolding1", "cliffrightscaffolding2", "cliffrightscaffolding3", "cliffrightscaffolding4", "flatcritters", "flatfoundry1", "flatfoundry2", "flatfoundry3", "flatfoundry4", "flatresources", "flatshippingcontainer", "cliffleftbuilding1", "cliffleftbuilding2", "cliffleftelevator1" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "flat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flat1.json" ]
+    },
+    {
+      "name" : "cliffleft1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleft1.json" ]
+    },
+    {
+      "name" : "cliffright1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffright1.json" ]
+    },
+    {
+      "name" : "cliffrightbuilding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffrightbuilding1.json" ]
+    },
+    {
+      "name" : "cliffleftscaffolding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleftscaffolding1.json" ]
+    },
+    {
+      "name" : "cliffrightscaffolding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffrightscaffolding1.json" ]
+    },
+    {
+      "name" : "cliffleftsupplies1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleftsupplies1.json" ]
+    },
+    {
+      "name" : "cliffrightscaffolding2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffrightscaffolding2.json" ]
+    },
+    {
+      "name" : "cliffrightscaffolding3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffrightscaffolding3.json" ]
+    },
+    {
+      "name" : "cliffrightscaffolding4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffrightscaffolding4.json" ]
+    },
+    {
+      "name" : "flatcritters",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatcritters.json" ]
+    },
+    {
+      "name" : "flatfoundry1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatfoundry1.json" ]
+    },
+    {
+      "name" : "flatfoundry2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatfoundry2.json" ]
+    },
+    {
+      "name" : "flatfoundry3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatfoundry3.json" ]
+    },
+    {
+      "name" : "flatfoundry4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatfoundry4.json" ]
+    },
+    {
+      "name" : "flatresources",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatresources.json" ]
+    },
+    {
+      "name" : "flatshippingcontainer",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "flatshippingcontainer.json" ]
+    },
+    {
+      "name" : "cliffleftbuilding1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleftbuilding1.json" ]
+    },
+    {
+      "name" : "cliffleftbuilding2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleftbuilding2.json" ]
+    },
+    {
+      "name" : "cliffleftelevator1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleftelevator1.json" ]
+    }
+  ]
+}

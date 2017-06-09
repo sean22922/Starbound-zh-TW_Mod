@@ -1,0 +1,9 @@
+{
+  "name" : "aurorabee",
+  "category" : "aurorabee",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "aurorabee.png"
+  }
+}

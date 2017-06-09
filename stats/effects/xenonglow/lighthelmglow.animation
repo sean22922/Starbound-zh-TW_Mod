@@ -1,0 +1,10 @@
+{
+  "lights" : {
+    "lantern" : {
+      "active" : true,
+      "position" : [0.0, 0.0],
+      "color" : [122, 153, 153],
+      "pointLight" : true
+    }
+  }
+}

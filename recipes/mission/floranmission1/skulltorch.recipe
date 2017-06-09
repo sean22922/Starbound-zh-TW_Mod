@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "bone", "count" : 10 },
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : { "item" : "skulltorch", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

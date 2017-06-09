@@ -1,0 +1,64 @@
+{
+  "name" : "sonicsphere",
+  "type" : "head",
+
+  "scripts" : ["sonicsphere.lua"],
+  "animator" : "sonicsphere.animation",
+
+  "description" : "Perform a sphere dash by holding ^green;[F] ^white;to transform!",
+  "shortDescription" : "Sonic Sphere",
+  "rarity" : "Legendary",
+  "icon" : "/tech/sonicsphere.png",
+
+  "chipCost" : 8,
+
+  "animationParts" : {
+    "ballGlow" : "sonicsphereglow.png",
+    "ball" : "sonicsphere.png"
+  },
+
+  "transformedMovementParameters" : {
+    "collisionPoly" : [ [-0.85, -0.45], [-0.45, -0.85], [0.45, -0.85], [0.85, -0.45], [0.85, 0.45], [0.45, 0.85], [-0.45, 0.85], [-0.85, 0.45] ],
+
+    "groundForce" : 450.0,
+    "normalGroundFriction" : 1.5,
+    "ambulatingGroundFriction" : 0.2,
+    "slopeSlidingFactor" : 3.0,
+
+    "airJumpProfile" : {
+      "jumpSpeed" : 16.0,
+      "jumpControlForce" : 800.0,
+      "jumpInitialPercentage" : 1.0,
+      "jumpHoldTime" : 0.1
+    },
+
+    "liquidJumpProfile" : {
+      "jumpSpeed" : 0.0,
+      "jumpControlForce" : 0.0,
+
+      "multiJump" : false,
+      "autoJump" : false
+    }
+  },
+
+  "ballSpeed" : 10,
+
+  "energyCost" : 50,
+
+  "ballRadius" : 1,
+  "ballFrames" : 8,
+
+  "chargePitchAdjust" : 2.0,
+
+  "chargeEnergy" : 30,
+  "chargeTime" : [0.5, 1.5],
+  "launchVelocity" : [80, 10],
+
+  "boostTime" : 0.5,
+  "boostMovementParameters" : {
+    "bounceFactor" : 0.5,
+    "groundForce" : 0,
+    "normalGroundFriction" : 0,
+    "ambulatingGroundFriction" : 0
+  }
+}

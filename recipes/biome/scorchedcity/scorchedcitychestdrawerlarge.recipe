@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "metallic", "count" : 6 },
+    { "item" : "darkwoodmaterial", "count" : 8 }
+  ],
+  "output" : { "item" : "scorchedcitychestdrawerlarge", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

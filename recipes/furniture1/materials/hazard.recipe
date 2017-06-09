@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "yellowdye", "count" : 1 },
+    { "item" : "blackdye", "count" : 1 }
+
+  ],
+  "output" : { "item" : "hazard", "count" : 50 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

@@ -1,0 +1,51 @@
+{
+  "type" : "crewmembermechanic",
+  "baseType" : "crewmember",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "emptyHands" : false
+    },
+
+    "crew" : {
+      "role" : {
+        "type" : "mechanic",
+        "name" : "Mechanic",
+        "field" : "Technical",
+        "uniformColorIndex" : 8,
+
+        "benefits" : [
+          {
+            "type" : "ShipUpgradeBenefit",
+            "property" : "fuelEfficiency",
+            "value" : 0.1
+          }
+        ]
+      }
+    },
+
+    "dialog" : {
+      "crewmember" : {
+        "roleDescription" : {
+          "default" : {
+            "default" : [
+              "I'll keep clearing out the carborator while I'm here. Fuel efficiency is up 10%!"
+            ]
+          }
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "default" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "protectoratechest" } ],
+            "legs" : [ { "name" : "protectoratepants" } ],
+            "primary" : [ "npcwrench" ]
+          }
+        ] ]
+    ]
+  }
+}

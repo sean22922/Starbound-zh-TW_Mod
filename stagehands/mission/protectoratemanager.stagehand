@@ -1,0 +1,14 @@
+{
+  "type" : "protectoratemanager",
+  "keepAlive" : true,
+
+  "scripts" : ["/stagehands/mission/protectoratemanager.lua"],
+  "scriptDelta" : 20,
+
+  "broadcastArea" : [-5, -5, 5, 5],
+
+  "signalRegion" : [-200, -200, 1200, 200],
+
+  "goodTime" : 5000,
+  "badTime" : 80000
+}

@@ -1,0 +1,39 @@
+{
+  "projectileName" : "throwingbones",
+  "image" : "throwingbone.png",
+  "animationCycle" : 0.25,
+  "physics" : "grenade",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "onlyHitTerrain" : true,
+  "speed" : 30,
+  "power" : 5,
+  "knockback" : 10,
+  "damageKind" : "hammer",
+  "timeToLive" : 0.01,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "throwingbone",
+      "inheritDamageFactor" : 0.333,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwingbone",
+      "inheritDamageFactor" : 0.333,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "throwingbone",
+      "inheritDamageFactor" : 0.333,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -15
+    }
+  ]
+}
+
+

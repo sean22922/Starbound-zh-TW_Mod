@@ -1,0 +1,37 @@
+{
+  "layers" : [
+    {
+      "kind" : "asteroidfront",
+      "baseCount" : 4,
+      "parallax" : [10, 9999]
+    },
+    {
+      "kind" : "asteroidfront",
+      "baseCount" : 4,
+      "offset" : [133, 0],
+      "parallax" : [10, 9999]
+    },
+    {
+      "kind" : "asteroidback",
+      "baseCount" : 4,
+      "parallax" : [20, 9999]
+    },
+    {
+      "kind" : "asteroidback",
+      "baseCount" : 4,
+      "offset" : [133, 0],
+      "parallax" : [20, 9999]
+    },
+    {
+      "kind" : "asteroidback2",
+      "baseCount" : 4,
+      "parallax" : [9999, 9999]
+    },
+    {
+      "kind" : "asteroidback2",
+      "baseCount" : 4,
+      "offset" : [133, 0],
+      "parallax" : [9999, 9999]
+    }
+  ]
+}

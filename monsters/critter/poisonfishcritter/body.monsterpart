@@ -1,0 +1,9 @@
+{
+  "name" : "poisonfishcritter",
+  "category" : "poisonfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

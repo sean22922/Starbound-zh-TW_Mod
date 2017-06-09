@@ -1,0 +1,29 @@
+{
+  "kind" : "poisonsickness",
+  "definition" : {
+    "duration" : 0.6,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "poisonedmessage" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisonsicknessdust" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "poisonsicknessdust", "poisonsicknessdust2", "poisonsicknessdust", "poisonsicknessdust2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "projectileName" : "sandstorm",
+  "physics" : "rain",
+  "image" : "sandstorm.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 2,
+  "damagePoly" : [ [-30, -30], [30, -30], [30, 30], [-30, 30] ],
+  "damageKind" : "hidden",
+  "actionOnReap" : [
+    {
+      "action" : "tile",
+      "materials" : [
+        {"kind" : "sand"}
+      ]
+    }
+  ],
+
+  "onlyHitTerrain" : true,
+  "hydrophobic" : false,
+  "masterOnly" : true
+}

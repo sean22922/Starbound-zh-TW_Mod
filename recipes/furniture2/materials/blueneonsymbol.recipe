@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 1 }
+  ],
+  "output" : { "item" : "chain", "count" : 20 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

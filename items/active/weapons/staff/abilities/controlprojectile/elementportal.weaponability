@@ -1,0 +1,17 @@
+{
+  "ability" : {
+    "type" : "elementportal",
+    "name" : "<elementalName> Portal",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/controlprojectile.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 100,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "<elementalType>portal",
+    "projectileParameters" : {
+      "baseDamage" : 6
+    }
+  }
+}

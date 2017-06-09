@@ -1,0 +1,9 @@
+{
+  "name" : "paratail",
+  "category" : "paratail",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "paratail.png"
+  }
+}

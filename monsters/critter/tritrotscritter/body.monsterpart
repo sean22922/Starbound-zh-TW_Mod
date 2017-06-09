@@ -1,0 +1,9 @@
+{
+  "name" : "tritrotscritter",
+  "category" : "tritrotscritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

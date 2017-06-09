@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "firedclay", "count" : 1 }
+  ],
+  "output" : { "item" : "brickmaterial", "count" : 50 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

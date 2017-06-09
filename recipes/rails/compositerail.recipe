@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "compositerail", "count" : 20 },
+  "duration" : 1.0,
+  "groups" : [ "rail" ]
+}

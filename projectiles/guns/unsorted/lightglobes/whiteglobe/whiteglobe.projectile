@@ -1,0 +1,25 @@
+{
+  "projectileName" : "whiteglobe",
+  "physics" : "hover",
+  "bounces" : 0,
+  "speed" : 30,
+  "timeToLive" : 5,
+  "damageKindImage" : "/interface/statuses/glow.png",
+  "lightColor" : [150, 150, 150],
+  "image" : "whiteglobe.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 2,
+  "power" : 1,
+  "damagePoly" : [ [-5, 5], [-5, -5], [5, -5], [5, 5] ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/whiteglobeexplosion/whiteglobeexplosion.config"
+    }
+  ],
+  "damageKind" : "plasma",
+  "statusEffects" : [
+    "glow"
+  ]
+}

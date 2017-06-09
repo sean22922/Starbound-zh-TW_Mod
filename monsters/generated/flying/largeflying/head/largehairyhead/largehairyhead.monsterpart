@@ -1,0 +1,9 @@
+{
+  "name" : "largehairyhead",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largehairyhead.png"
+  }
+}

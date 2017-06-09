@@ -1,0 +1,17 @@
+{
+  "frameGrid" : {
+    "size" : [24, 8],
+    "dimensions" : [1, 6],
+    "names" : [
+        [ "none" ],
+		[ "blank" ],
+		[ "parchment" ],
+		[ "blackboard" ],
+		[ "glass" ],
+		[ "hazard" ]
+    ]
+  },
+  "aliases" : {
+    "default" : "blank"
+  }
+}

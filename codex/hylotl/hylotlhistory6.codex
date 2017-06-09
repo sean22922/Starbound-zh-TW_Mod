@@ -1,0 +1,25 @@
+{
+  "id" : "hylotlhistory6",
+  "species" : "hylotl",
+  "title" : "A Treatise on the Floran",
+  "description" : "A Hylotl history book recounting the race's turbulent relationship with the Floran.",
+  "icon" : "hylotlcover5.png",
+  "contentPages" : [
+    "Generations ago, Hylotl civilisation was almost undone: a race of philosophers and artists almost brought to extinction by the barbarous attacks of a savage horde.
+
+The Floran, simplistic, violent, and uncivilised, ravaged our lands, and savaged our people. Their ferocious violence threatened our very existence.
+
+In modern times, this old enmity has faded into nonexistence.",
+
+"While the Floran have simply forgotten about this episode in our shared past, we Hylotl have managed to forgive. We do so magnanimously, and with lightness in our hearts. We forgive them.
+
+Even though they destroyed centuries worth of literature, artistry and achievement... Even though they drove us, terrified, beneath the ocean waves... Even though they tried to eat us.
+
+Yes. We definitely forgive them."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

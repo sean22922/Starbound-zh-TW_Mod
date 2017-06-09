@@ -1,0 +1,25 @@
+{
+  "name" : "ceilingspiralrocks",
+  "description" : "Spiral rocks.",
+  "shortdescription" : "Spiral rocks.",
+  "floranDescription" : "Ssspinny rocks.",
+  "glitchDescription" : "Statement. Spiral rocks.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

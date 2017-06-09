@@ -1,0 +1,29 @@
+{
+  "name" : "tendonlight",
+  "description" : "A glowing piece of flesh.",
+  "shortdescription" : "A glowing piece of flesh.",
+  "floranDescription" : "Fleshhh.",
+  "glitchDescription" : "Horrified. A glowing piece of flesh.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+
+    {
+      "base" : "base2.png"
+    },
+
+    {
+      "base" : "base3.png"
+    },
+
+    {
+      "base" : "base4.png"
+    },
+
+    {
+      "base" : "base5.png"
+    }
+
+  ]
+}

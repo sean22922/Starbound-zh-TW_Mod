@@ -1,0 +1,34 @@
+{
+  "eventName" : "newCrewMember",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - recruitSpecies
+  //  - recruitType
+  //  - recruitRole
+  //  - crewSize
+
+  "stats" : [
+    {
+      "name" : "crew",
+      "type" : "int",
+      "op" : "set",
+      "field" : "crewSize"
+    },
+    {
+      "name" : "crewRecruited",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "crew.recruitSpecies.<recruitSpecies>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "crew.recruitRole.<recruitRole>",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

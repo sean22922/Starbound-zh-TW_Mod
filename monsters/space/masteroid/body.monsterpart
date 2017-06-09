@@ -1,0 +1,12 @@
+{
+  "name" : "masteroid",
+  "category" : "masteroid",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "masteroid.png",
+    "bodyfullbright" : "masteroidfullbright.png",
+    "orbiter1" : "orbiter1.png",
+    "orbiter2" : "orbiter2.png"
+  }
+}

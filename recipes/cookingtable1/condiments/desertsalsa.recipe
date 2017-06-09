@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "kiwi", "count" : 1 },
+    { "item" : "feathercrown", "count" : 1 },
+    { "item" : "currentcorn", "count" : 1 },
+    { "item" : "cacti", "count" : 1 },
+    { "item" : "beakseed", "count" : 1 },
+    { "item" : "automato", "count" : 1 }
+  ],
+  "output" : { "item" : "desertsalsa", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ],
+  "collectables" : { "cooking" : "desertsalsa" }
+}

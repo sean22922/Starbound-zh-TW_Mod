@@ -1,0 +1,16 @@
+{
+  "name" : "wiggledance",
+  "states" : ["idle"],
+  "cycle" : 1.0,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "idle.5", "idle.5", "idle.5", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.5", "idle.5", [-1, 0], [0, 0], [0, 0] ],
+    [ "idle.4", "idle.3", "idle.3", [-1, 0], [1, 0], [1, 0] ],
+    [ "idle.5", "idle.2", "idle.2", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.4", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "idle.3", "idle.3", [0, 0], [2, 0], [2, 0] ]
+  ]
+}

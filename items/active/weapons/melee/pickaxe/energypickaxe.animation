@@ -1,0 +1,133 @@
+{
+  "globalTagDefaults" : {
+    "paletteSwaps" : ""
+  },
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "blade" : {
+        "default" : "inactive",
+        "states" : {
+          "inactive" : {
+            "properties" : {
+              "lightsOff" : ["blade"]
+            }
+          },
+          "activating" : {
+            "frames" : 5,
+            "cycle" : 0.4,
+            "mode" : "transition",
+            "transition" : "active",
+            "properties" : {
+              "lightsOn" : ["blade"],
+              "immediateSound" : "/sfx/tools/energypickaxe_start.ogg",
+              "particleEmittersOn" : ["activeparticles"]
+            }
+          },
+          "active" : {
+            "frames" : 8,
+            "cycle" : 0.4,
+            "mode" : "loop",
+            "properties" : {
+              "lightsOn" : ["blade"],
+              "persistentSound" : "/sfx/tools/energypickaxe_idle.ogg",
+              "particleEmittersOn" : ["activeparticles"]
+            }
+          },
+          "deactivating" : {
+            "frames" : 5,
+            "cycle" : 0.4,
+            "mode" : "transition",
+            "transition" : "inactive",
+            "properties" : {
+              "lightsOn" : ["blade"],
+              "immediateSound" : "/sfx/tools/energypickaxe_stop2.ogg",
+              "particleEmittersOff" : ["activeparticles"]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "blade" : {
+        "properties" : {
+          "zLevel" : 0,
+          "centered" : true,
+          "offset" : [0, 1],
+          "transformationGroups" : ["weapon"],
+          "rotationCenter" : [0, 0],
+          "damageArea" : [ [-0.7, -1.0], [-0.7, 2.5], [0.5, 2.5], [0.5, -1.0] ],
+          "fullbright" : true
+        },
+        "partStates" : {
+          "blade" : {
+            "inactive" : {
+              "properties" : {
+                "image" : "<partImage>:inactive.<frame><paletteSwaps>?<directives>?<bladeDirectives>"
+              }
+            },
+            "activating" : {
+              "properties" : {
+                "image" : "<partImage>:activating.<frame><paletteSwaps>?<directives>?<bladeDirectives>"
+              }
+            },
+            "active" : {
+              "properties" : {
+                "image" : "<partImage>:active.<frame><paletteSwaps>?<directives>?<bladeDirectives>"
+              }
+            },
+            "deactivating" : {
+              "properties" : {
+                "image" : "<partImage>:deactivating.<frame><paletteSwaps>?<directives>?<bladeDirectives>"
+              }
+            }
+          }
+        }
+      },
+      "handle" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "image" : "<partImage><paletteSwaps>?<directives>",
+          "offset" : [0, 1],
+          "transformationGroups" : ["weapon"],
+          "rotationCenter" : [0, 0]
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "weapon" : {},
+    "swoosh" : {}
+  },
+
+   "particleEmitters" : {
+    "activeparticles" : {
+      "active" : false,
+      "transformationGroups" : ["weapon"],
+      "emissionRate" : 3,
+      "offsetRegion" : [0.25, 3.5, 0.40, 0],
+      "particles" : [
+        { "particle" : "energyblade"},
+        { "particle" : "energyblade"},
+        { "particle" : "energyblade2"},
+        { "particle" : "energyblade2"}
+      ]
+    }    
+  }, 
+
+  "lights" : {
+    "blade" : {
+      "active" : false,
+      "position" : [0, 0],
+      "color" : [164, 81, 196]
+    }
+  },
+
+  "sounds" : {
+    "fire" : [ "/sfx/tools/energypickaxe_hit2.ogg", "/sfx/tools/energypickaxe_hit3.ogg", "/sfx/tools/energypickaxe_hit4.ogg", "/sfx/tools/energypickaxe_hit5.ogg", "/sfx/tools/energypickaxe_hit6.ogg", "/sfx/tools/energypickaxe_hit7.ogg", "/sfx/tools/energypickaxe_hit8.ogg" ],
+    "blockSound" : [ ]
+  }
+}

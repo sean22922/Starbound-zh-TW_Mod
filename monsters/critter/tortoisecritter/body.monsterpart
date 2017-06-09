@@ -1,0 +1,9 @@
+{
+  "name" : "tortoisecritter",
+  "category" : "tortoisecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

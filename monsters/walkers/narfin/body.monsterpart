@@ -1,0 +1,9 @@
+{
+  "name" : "narfin",
+  "category" : "narfin",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "narfin.png"
+  }
+}

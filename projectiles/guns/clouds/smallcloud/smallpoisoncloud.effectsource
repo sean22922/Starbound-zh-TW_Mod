@@ -1,0 +1,29 @@
+{
+  "kind" : "smallpoisoncloud",
+  "definition" : {
+    "duration" : 0.3,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "smallpoisoncloud1", "smallpoisoncloud2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [  ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

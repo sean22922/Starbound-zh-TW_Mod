@@ -1,0 +1,9 @@
+{
+  "name" : "fullwhite",
+  "category" : "piglett",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullwhite.png"
+  }
+}

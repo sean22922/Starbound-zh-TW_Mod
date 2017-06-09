@@ -1,0 +1,29 @@
+{
+  "id" : "colonymanual",
+  "title" : "A Guide To Colony Construction",
+  "description" : "The manual for the Colony Deed, produced by the Colony Company.",
+  "icon" : "colonymanual.png",
+  "contentPages" : [
+
+    "Are you a budding property developer? Do you have a vacant property that could be earning you extra pixels? 
+
+Don't delay, become an intergalactic landlord today!
+
+To start a colony, renovate an old, disused dwelling or start from scratch with a new construction. Ensure all walls and ceilings are tightly sealed from outside elements, with no gaps whatsoever. Install at least one light source and a fully operable door.",
+
+"Help your colonists to feel at home! It may sound materialistic, but tenants choose their home based on its contents. Stock up on objects that will appeal to your target audience. Stick to a coherent theme and you may be able to attract more favourable clientele. 
+
+Once the home is furnished throughout, it's time to place that all important Colony Deed somewhere inside, available now from your local furniture store.", 
+
+"For easy troubleshooting, every colony deed is fitted with a full colour display that will keep you informed of your tenants every need, and remind you to collect your rent as soon as it becomes available.
+
+Happy tenants can become friends for life! It's your responsibility as a landlord to protect your tenants from harm. If you choose to assist them with errands you may be handsomely rewarded.
+
+Happy colonising!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

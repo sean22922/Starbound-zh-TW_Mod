@@ -1,0 +1,30 @@
+{
+  "kind" : "fireplasma",
+  "definition" : {
+    "duration" : 0.06,
+    "durationVariance" : 0.04,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "fireswoosh3" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

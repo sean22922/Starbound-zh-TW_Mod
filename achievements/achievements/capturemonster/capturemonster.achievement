@@ -1,0 +1,16 @@
+{
+  "name" : "capturemonster",
+
+  "triggers" : [
+    "captureMonster"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "captureMonster",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

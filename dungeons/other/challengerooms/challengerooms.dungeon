@@ -1,0 +1,203 @@
+{
+  "metadata" : {
+    "name" : "challengerooms",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ 
+        "challengeroom1", "choices1", "gauntlet", "grid", "laserdash",
+        "platform1", "platform2", "platform3", "platform4", "platform5", "platform6", "puzzle1",
+        "quiqksilver1", "quiqksilver2", "quiqksilver3", "rush", "spacejump", "trespasser",
+        "ambush", "collapse", "collision", "shortcircuit", "trenches", "heatwave", "avast"
+      ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "ambush",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "ambush.json" ]
+    },
+    {
+      "name" : "avast",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "avast.json" ]
+    },
+    {
+      "name" : "challengeroom1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "challengeroom1.json" ]
+    },
+    {
+      "name" : "choices1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "choices1.json" ]
+    },
+    {
+      "name" : "collapse",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "collapse.json" ]
+    },
+    {
+      "name" : "collision",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "collision.json" ]
+    },
+    {
+      "name" : "firebat",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "firebat.json" ]
+    },
+    {
+      "name" : "gauntlet",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "gauntlet.json" ]
+    },
+    {
+      "name" : "grid",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "grid.json" ]
+    },
+    {
+      "name" : "heatwave",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "heatwave.json" ]
+    },
+    {
+      "name" : "laserdash",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "heatwave.json" ]
+    },
+    {
+      "name" : "platform1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform1.json" ]
+    },
+    {
+      "name" : "platform2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform2.json" ]
+    },
+    {
+      "name" : "platform3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform3.json" ]
+    },
+    {
+      "name" : "platform4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform4.json" ]
+    },
+    {
+      "name" : "platform5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform5.json" ]
+    },
+    {
+      "name" : "platform6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "platform6.json" ]
+    },
+    {
+      "name" : "puzzle1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "puzzle1.json" ]
+    },
+    {
+      "name" : "quiqksilver1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quiqksilver1.json" ]
+    },
+    {
+      "name" : "quiqksilver2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quiqksilver2.json" ]
+    },
+    {
+      "name" : "quiqksilver3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "quiqksilver3.json" ]
+    },
+    {
+      "name" : "rush",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rush.json" ]
+    },
+    {
+      "name" : "shortcircuit",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shortcircuit.json" ]
+    },
+    {
+      "name" : "spacejump",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "spacejump.json" ]
+    },
+    {
+      "name" : "trenches",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "trenches.json" ]
+    },
+    {
+      "name" : "trespasser",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "trespasser.json" ]
+    }
+  ]
+}

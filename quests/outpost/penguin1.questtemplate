@@ -1,0 +1,46 @@
+{
+  "id" : "penguin1",
+  "title" : "^green;Dreadwing the Penguin",
+  "text" : "Help me out, would ya? Business around here hasn't been so great since all my regulars are on the run from ^orange;Dreadwing^white; and his gang of crooks! Can you ^green;go and defeat Dreadwing^white; for me? Come speak when you're ready, I'll send ya right to him!",
+  "completionText" : "You sorted him out for me? Thanks, now I'm back in business! ^green;Come speak to me if you want a ^orange;Dubloon^green; to hire a penguin merc^white;.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ [ "rewardbag", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/penguinbar/penguinbarportrait.png"} ],
+        "title" : "Bartender"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/penguinbar/penguinbarportrait.png"} ],
+        "title" : "Bartender"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to the ^orange;Bartender^reset; to go to ^orange;Dreadwing^reset;",
+      "findGoal" : "Defeat ^orange;Dreadwing^reset;",
+      "turnIn" : "Return to the ^orange;Bartender^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "associatedMission" : "missionpenguin1",
+
+    "warpEntityUid" : "penguinbartop",
+    "warpAction" : "instanceworld:penguinmission1",
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:penguinmission1",
+
+    "goalTrigger" : "message",
+    "triggerMessage" : "dreadwingDeath",
+
+    "goalEntityUid" : "dreadwing",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "penguinbartop"
+  }
+}

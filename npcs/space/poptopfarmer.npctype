@@ -1,0 +1,38 @@
+{
+  "type" : "poptopfarmer",
+  "baseType" : "villager",
+  
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Hey there, pal! I'm just a humble old Poptop farmer. I could listen to their whistling all day... In fact I do!"
+          ]
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "swamphat", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "workoutchest", "parameters" : { "colorIndex" : 3 } }
+            ],
+            "legs" : [
+              { "name" : "sweatervestlegs", "parameters" : { "colorIndex" : 0 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

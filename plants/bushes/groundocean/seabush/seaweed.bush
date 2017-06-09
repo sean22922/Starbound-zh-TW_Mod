@@ -1,0 +1,24 @@
+{
+  "name" : "seaweed",
+  "description" : "Seaweed.",
+  "shortdescription" : "Seaweed",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "seaweed1.png"
+    },
+    {
+      "base" : "seaweed2.png"
+    },
+    {
+      "base" : "seaweed3.png"
+    },
+    {
+      "base" : "seaweed4.png"
+    },
+    {
+      "base" : "seaweed5.png"
+    }
+  ]
+}

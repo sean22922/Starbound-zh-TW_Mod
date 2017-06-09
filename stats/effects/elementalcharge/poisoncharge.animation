@@ -1,0 +1,13 @@
+{
+  "particleEmitters" : {
+    "charge" : {
+      "active" : false,
+      "emissionRate" : 30,
+      "particles" : [
+        { "particle" : "fastrisingpoison1"},
+        { "particle" : "fastrisingpoison2"},
+        { "particle" : "fastrisingfire2"}
+      ]
+    }
+  }
+}

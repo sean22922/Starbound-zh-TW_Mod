@@ -1,0 +1,16 @@
+{
+  "name" : "largerhinolegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largerhinoflegs.png",
+    "backLegs" : "largerhinoblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

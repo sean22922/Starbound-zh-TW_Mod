@@ -1,0 +1,15 @@
+{
+  "name" : "deathbomb",
+  "blockingStat" : "specialStatusImmunity",
+  "effectConfig" : {
+    "minMaxHealth" : 5,
+    "healthDamageFactor" : 0.5,
+    "bombProjectile" : "regularexplosionknockback",
+    "flashDirectives" : "fade=FF0000;0.5"
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "deathbomb.lua"
+  ]
+}

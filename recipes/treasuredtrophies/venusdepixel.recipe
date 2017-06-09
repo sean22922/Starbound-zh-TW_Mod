@@ -1,0 +1,15 @@
+{
+  "input" : [
+    { "item" : "sandstonestatuehuman", "count" : 1 },
+    { "item" : "sandstonestatuefloran", "count" : 1 },
+    { "item" : "sandstonestatuehylotl", "count" : 1 },
+    { "item" : "sandstonestatueavian", "count" : 1 },
+    { "item" : "sandstonestatueapex", "count" : 1 },
+    { "item" : "sandstonestatueglitch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "venusdepixel",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

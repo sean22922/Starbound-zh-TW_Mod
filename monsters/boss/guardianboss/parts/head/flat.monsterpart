@@ -1,0 +1,10 @@
+{
+  "name" : "flat",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "flat.png",
+    "headfullbright" : "flatfullbright.png"
+  }
+}

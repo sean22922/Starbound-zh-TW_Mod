@@ -1,0 +1,8 @@
+{
+  "name" : "circles",
+  "description" : "A plant with berries.",
+  "shortdescription" : "A plant with berries.",
+  "floranDescription" : "Purple berries.",
+  "glitchDescription" : "Statement. A plant with berries.",
+  "images" : [ "circles1.png", "circles2.png", "circles3.png", "circles4.png", "circles5.png" ]
+}

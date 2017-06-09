@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 10 },
+    { "item" : "snow", "count" : 10 },
+    { "item" : "glass", "count" : 10 }
+  ],
+  "output" : { "item" : "snowgun", "count" : 1 },
+  "groups" : [ "craftinganvil2", "weapons", "all" ]
+}

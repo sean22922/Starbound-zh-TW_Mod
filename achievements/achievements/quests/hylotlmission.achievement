@@ -1,0 +1,16 @@
+{
+  "name" : "hylotlmission",
+
+  "triggers" : [
+    "quest.templateId.hylotl_mission2"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.hylotl_mission2",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

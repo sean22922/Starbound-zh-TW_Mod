@@ -1,0 +1,9 @@
+{
+  "name" : "tentaclespawner",
+  "category" : "tentaclespawner",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentaclespawner.png"
+  }
+}

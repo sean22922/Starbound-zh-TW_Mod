@@ -1,0 +1,21 @@
+{
+  "kind" : "grabbed",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "particles" : [
+      [ "runboost" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

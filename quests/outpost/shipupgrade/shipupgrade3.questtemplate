@@ -1,0 +1,35 @@
+{
+  "id" : "shipupgrade3",
+  "title" : "^green;Falcon Ship Upgrade",
+  "text" : "Congratulations - with six crew members you now qualify for the Falcon License! ^green;Visit Penguin Pete^reset; with ^orange;6 Upgrade Modules^reset; to upgrade your ship.",
+  "completionText" : "One ship upgrade comin' up!",
+  "completionCinema" : "/cinematics/upgrading/shipupgrade.cinematic",
+  "moneyRange" : [0, 0],
+  "rewards" : [ ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "sail",
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+      }
+    },
+    "upgradeShip" : { "shipLevel" : 6 },
+    "requireTurnIn" : true,
+    "turnInDescription" : "Deliver ^orange;Upgrade Modules^reset; to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;.",
+    
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "upgrademodule",
+        "count" : 6,
+        "consume" : true,
+        "description" : "Find ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+      }
+    ]
+  }
+}

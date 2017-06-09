@@ -1,0 +1,11 @@
+{
+  "name" : "lavaglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "lavaglow.lua"
+  ],
+
+  "animationConfig" : "lavaglow.animation"
+}

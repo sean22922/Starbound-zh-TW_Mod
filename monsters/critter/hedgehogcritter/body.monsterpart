@@ -1,0 +1,9 @@
+{
+  "name" : "hedgehogcritter",
+  "category" : "hedgehogcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

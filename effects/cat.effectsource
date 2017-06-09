@@ -1,0 +1,29 @@
+{
+  "kind" : "cat",
+  "definition" : {
+    "duration" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "catred", "catblue", "catgreen", "catyellow", "catred", "catblue", "catgreen", "catyellow", "catred", "catblue", "catgreen", "catyellow", "catred", "catblue", "catgreen", "catyellow", "cat" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "pods",
+  "description" : "A small pod.",
+  "shortdescription" : "Small pod.",
+  "floranDescription" : "Sssmall pod.",
+  "glitchDescription" : "Statement. A small flower pod.",
+  "images" : [ "pods1.png", "pods2.png", "pods3.png", "pods4.png", "pods5.png" ]
+}

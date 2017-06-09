@@ -1,0 +1,29 @@
+{
+  "name" : "slimebush",
+  "description" : "A slimy bush.",
+  "shortdescription" : "A slimy bush.",
+  "floranDescription" : "Ssslimy bush.",
+  "glitchDescription" : "Statement. A slimy bush.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+
+    {
+      "base" : "base2.png"
+    },
+
+    {
+      "base" : "base3.png"
+    },
+
+    {
+      "base" : "base4.png"
+    },
+
+    {
+      "base" : "base5.png"
+    }
+
+  ]
+}

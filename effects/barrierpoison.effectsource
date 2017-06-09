@@ -1,0 +1,29 @@
+{
+  "kind" : "barrierpoison",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "poisonswoosh1", "poisonswoosh2", "fireswoosh2", "poisonswoosh2", "fireswoosh2", "poisonswoosh1", "poisonswoosh2", "fireswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisonswoosh1", "poisonswoosh2", "fireswoosh2", "poisonswoosh2", "fireswoosh2", "poisonswoosh2", "fireswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id" : "humanhistory10",
+  "species" : "human",
+  "title" : "It's Not a Bug, It's a Creature",
+  "description" : "A taxonomy of bugs by Esther Bright, complete first edition.",
+  "icon" : "humancover3.png",
+  "contentPages" : [
+  	"Ashsprite
+These bugs appear to rise from clouds of ash.
+
+Aurorabee
+The surface of this bug's shell shimmers like oil.
+
+Blueback
+This blue bug has sharp little teeth.
+
+Brightstripe
+Vibrant and beautiful, it has a friendly little smile on its face.",
+
+"Butterbee
+A bright yellow bug, its wings smell like butter.
+
+Cinderfly
+Thrives in desolate conditions.
+
+Dewhopper
+A lively bug, it can be seen drinking morning dew.
+
+Driftbell
+This bug makes a faint ringing sound as it flies through the air.",
+
+"Dustmoth
+The trail of a dustmoth looks like stardust.
+
+Fawnfly
+Its tawny wings make it hard to spot on trees.
+
+Fireygiant
+A large, formidable bug. Can survive extreme heat.
+
+Flameroach
+Hot to the touch, its shell flickers like flame.",
+
+"Frostfleck
+This bug is easily mistaken for a snowflake.
+
+Glowbug
+The warmer this bug gets, the more it glows.
+
+Goldbuck
+A bug with glistening gold wings, very fancy!
+
+Greentip
+This bug looks like it's wearing tiny green shoes.",
+
+"Heathugger
+Attracted to heat, this little guy needs warmth.
+
+Hivehog
+This bug never stops eating.
+
+Icetip
+This bug's wings are frozen over.
+
+Lavahopper
+This tiny creature skips across hot lakes of lava.",
+
+"Muddancer
+These bugs can be seen dancing at dusk.
+
+Mudstag
+This bug is incredibly sticky. It has two long horns on its head.
+
+Orphanfly
+The smallest and most pathetic bug I've ever seen.
+
+Phoenixfly
+This bug rubs its legs together to produce tiny sparks.",
+
+"Polarmoth
+This little bug's legs are covered in see-through hairs.
+
+Redwing
+Not to be confused with the infamous Dreadwing.
+
+Sandclown
+Who would live in the desert? This clown.
+
+Scuttleploom
+This bug's legs move so fast they're difficult to count.",
+
+"Seahornet
+This bug has a snout like a seahorse.
+
+Shadowmoth
+Hard to spot, these bugs are as black as night.
+
+Shardwing
+The wings of this bug are iridescent like ice.
+
+Shellcreep
+It looks as if it could slip out of its shell at a moments notice.",
+
+"Snowskater
+The tips of its legs are covered in snow.
+
+Stinkjack
+You'll smell one of these little guys before you see one.
+
+Sunskipper
+This pretty bug loves sunshine.
+
+Thornbee
+This prickly little fellow has razor sharp wings.",
+
+"Tidefly
+Comes out only during certain phases of the moon.
+
+Vineclimber
+Its legs look like intertwining vines.
+
+Wavebird
+A bug that can usually be found chasing the crest of a wave.
+
+Xenofly
+This guy has a creepy little face."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

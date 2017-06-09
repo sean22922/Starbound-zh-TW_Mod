@@ -1,0 +1,19 @@
+{
+  "projectileName" : "glowstickyellow",
+  "physics" : "grenadenobounce",
+  "bounces" : -1,
+  "timeToLive" : 50,
+  "image" : "glowstickyellow.png",
+  "animationCycle" : 0.25,
+  "lightColor" : [251, 255, 145],
+  "frameNumber" : 2,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "power" : 0,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

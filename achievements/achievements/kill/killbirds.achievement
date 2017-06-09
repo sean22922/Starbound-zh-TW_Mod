@@ -1,0 +1,16 @@
+{
+  "name" : "killbirds",
+
+  "triggers" : [
+    "killMonster.monsterType.smallflying"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.smallflying",
+      "op" : "atLeast",
+      "value" : 100
+    }
+  ]
+}

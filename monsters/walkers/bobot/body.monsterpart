@@ -1,0 +1,9 @@
+{
+  "name" : "bobot",
+  "category" : "bobot",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bobot.png"
+  }
+}

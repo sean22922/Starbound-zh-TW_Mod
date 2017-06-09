@@ -1,0 +1,25 @@
+{
+  "id" : "apexhistory2",
+  "species" : "apex",
+  "title" : "10 Years On",
+  "description" : "An archive news article from The Daily Peel.",
+  "icon" : "apexcover5.png",
+  "contentPages" : [
+    "It is hard to believe that ten whole years have passed since the discovery of a seemingly incurable waterborne pathogen threatened the very existence of our once fragile people.
+
+But when all hope seemed lost, the formation of the Miniknog came with more than just a cure. Their Vestigi-Evo Process, originally distributed as a cure for the disease, had the additional benefit of evolving us into our now familiar forms.",
+
+"The Miniknog announced today that it has been confirmed that every living Apex has now undergone VEP, signalling a decisive change in the future of our people!
+
+Despite this generosity, I am shocked to report that some of our people are ungrateful for the gift that is VEP! There are even talks of rebels, cowardly individuals, who claim that the disease was fabricated by the Miniknog to force us to partake in the process.",
+
+"I would consider such talk tantamount to treason, and I ask these rebels why they are only willing to spread toxic lies from the shadows.
+
+Luckily, our Miniknog have control over these would-be troublemakers. I personally hope they are weeded out and punished for such disgraceful talk."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "kind" : "sleep",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/statuseffects/sleep/sleep.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 5],
+    "finalVelocity" : [10, 2],
+    "approach" : [2, 50],
+    "size" : 1,
+    "layer" : "middle",
+    "timeToLive" : 9,
+    "variance" : {
+      "initialVelocity" : [0, 3.0]
+    },
+    "flippable" : false
+  }
+}

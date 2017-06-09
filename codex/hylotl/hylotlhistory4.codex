@@ -1,0 +1,21 @@
+{
+  "id" : "hylotlhistory4",
+  "species" : "hylotl",
+  "title" : "We Who Survive",
+  "description" : "Historical writings on how the Hylotl race rebuilt after Floran attack.",
+  "icon" : "hylotlcover5.png",
+  "contentPages" : [
+    "Our innate sense of harmony with the universe is a well from which all Hylotl draw strength and inspiration. Even in our darkest hour, Hylotl craftsmanship remained unmatched in form and function. A thriving civilisation was reborn from the depths of the ocean.
+
+Spiralling citadels now boast towering palaces with bountiful gardens, great domed emporiums of trade and entertainment, and at the heart of each an immense library.",
+
+"This time around, a thread of forethought was woven into our modern culture - to protect and defend our way of life with honour and grace.
+
+A Hylotl warrior is like the ocean, serene unless enraged when, at once, they become a tsunami."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

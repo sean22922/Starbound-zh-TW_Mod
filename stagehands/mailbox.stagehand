@@ -1,0 +1,9 @@
+{
+  "type" : "mailbox",
+
+  "scripts" : [
+    "/scripts/quest/messaging.lua",
+  	"/stagehands/mailbox.lua"
+  ],
+  "scriptDelta" : 10
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "largepoisoncloud",
+  "definition" : {
+    "duration" : 0.03,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "largepoisoncloud2", "largefirecloud2", "largepoisoncloud2", "largefirecloud2", "largepoisoncloud2", "largefirecloud2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "largepoisoncloud1", "largepoisoncloud2", "largefirecloud2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "largefirecloud4", "largefirecloud4", "largefirecloud4", "largefirecloud4", "largefirecloud4", "largefirecloud4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "findaugment",
+
+  "triggers" : [
+    "item.category.eppAugment"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.eppAugment",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

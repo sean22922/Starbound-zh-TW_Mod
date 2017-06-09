@@ -1,0 +1,75 @@
+{
+  "projectileName" : "fireworkgreen3",
+  "bounces" : -1,
+  "timeToLive" : 0.8,
+  "speed" : 80,
+  "physics" : "fireworkfall",
+  "image" : "fireworkgreen3.png",
+  "lightColor" : [110, 200, 110],
+  "frameNumber" : 1,
+  "damageKind" : "snowball",
+  "hydrophobic" : true,
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/fireworkgun_blast2.ogg" ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 135
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 225
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 270
+    },
+    {
+      "action" : "projectile",
+      "type" : "fireworkgreen4",
+      "inheritDamageFactor" : 1,
+      "fuzzAngle" : 5,
+      "angle" : 315
+    }
+  ],
+  "emitters" : [ "defaultgreen", "defaultwhite" ]
+}

@@ -1,0 +1,16 @@
+{
+  "kind" : "breath",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1000.0,
+    "color" : [161, 205, 255, 20],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 20],
+    "timeToLive" : 10,
+    "layer" : "front",
+    "variance" : {
+      "initialVelocity" : [0, 0]
+    }
+  }
+}

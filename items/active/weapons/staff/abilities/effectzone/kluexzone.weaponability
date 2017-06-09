@@ -1,0 +1,15 @@
+{
+  "ability" : {
+    "type" : "kluexzone",
+    "name" : "Rage of Kluex",
+    "scripts" : ["/items/active/weapons/staff/abilities/effectzone/effectzone.lua"],
+    "class" : "EffectZone",
+
+    "energyCost" : 120,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "kluexzone",
+    "projectileParameters" : {}
+  }
+}

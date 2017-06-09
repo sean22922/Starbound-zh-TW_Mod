@@ -1,0 +1,13 @@
+{
+  "name" : "nosebleedleft",
+  "effectConfig" : {
+    "particleEmitters" : ["dripleft", "spurtleft"]
+  },
+  "defaultDuration" : 2,
+
+  "scripts" : [
+    "particlereaction.lua"
+  ],
+  
+  "animationConfig": "nosebleed.animation"
+}

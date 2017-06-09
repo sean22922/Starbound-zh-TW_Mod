@@ -1,0 +1,17 @@
+{
+  "name" : "swimboost",
+  "effectConfig" : {
+    "movementParameters" : {
+      "liquidImpedance" : 0.1,
+      "liquidForce" : 150,
+      "liquidJumpProfile" : {
+        "jumpSpeed" : 150.0
+      }
+    }
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "swimboost.lua"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [21, 21],
+    "dimensions" : [8, 4],
+
+    "names" : [
+      [ "idle", null, null, null, null, null, null, null ],
+      [ "charging1.0", "charging1.1", "charging1.2", "charging1.3", "charging1.4", "charging1.5", "charging1.6", "charging1.7" ],
+      [ "charging2.0", "charging2.1", "charging2.2", "charging2.3", "charging2.4", "charging2.5", "charging2.6", "charging2.7" ],
+      [ "switch", null, "ready.0", "ready.1", "ready.2", "ready.3", "invalid.0", "invalid.1" ]
+    ]
+  }
+}

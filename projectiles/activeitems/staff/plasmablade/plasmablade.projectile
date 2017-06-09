@@ -1,0 +1,54 @@
+{
+  "projectileName" : "plasmablade",
+  "physics" : "default",
+  "timeToLive" : 3,
+  "image" : "plasmablade.png",
+  "animationCycle" : 0.2,
+  "lightColor" : [30, 30, 80],
+  "frameNumber" : 1,
+  "speed" : 0,
+  "power" : 30,
+  "damageKind" : "spear",
+  "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
+
+  "fullbright" : true,
+  "emitters" : ["energyweapon"],
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/gun/impact_plasma.ogg"
+      ]
+    },
+    {
+      "action" : "loop",
+      "count" : 5,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : "energyblade",
+          "time" : 0.1,
+          "repeat" : true
+        },
+        {
+          "action" : "particle",
+          "specification" : "energyblade2",
+          "time" : 0.1,
+          "repeat" : true
+        }
+      ]
+    }
+  ],
+
+  "bounces" : 0,
+
+  "scripts" : [ "/projectiles/activeitems/staff/plasmablade/plasmablade.lua" ],
+
+  "triggerSpeed" : 80,
+
+  "controlRotation" : {
+    "maxSpeed" : 16,
+    "controlForce" : 70,
+    "friction" : 10
+  }
+}

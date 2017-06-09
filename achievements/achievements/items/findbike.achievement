@@ -1,0 +1,16 @@
+{
+  "name" : "findbike",
+
+  "triggers" : [
+    "item.category.vehicleController"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.vehicleController",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

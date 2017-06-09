@@ -1,0 +1,30 @@
+{
+  "kind" : "dashing",
+  "definition" : {
+    "duration" : 0.01,
+    "loops" : true,
+    "location" : "normal",
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "dash" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id" : "techscientist1",
+  "prerequisites" : [],
+  "title" : "^orange;Let's Get Technical",
+  "text" : "I've been developing technology that will enable the user to swiftly dash from one point to another, but I'm lacking a few crucial components for my ^orange;prototype^white;. Could you help me by ^green;bringing me ^orange;10 Copper Bars^white;?",
+  "completionText" : "You brought me the parts! Wonderful! With these the ^orange;Dash Tech^white; should be ready for action, but there's only one way to be sure...",
+  "moneyRange" : [100, 100],
+  "rewards" : [
+    [ [ "manipulatormodule", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      }
+    },
+    "requireTurnIn" : true,
+
+    "turnInDescription" : "Speak to ^orange;Elliott^reset; at the ^orange;Outpost^reset;",
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "copperbar",
+        "count" : 10,
+        "consume" : true
+      }
+    ]
+  }
+}

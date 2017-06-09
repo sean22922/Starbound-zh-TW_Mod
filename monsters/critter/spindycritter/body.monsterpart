@@ -1,0 +1,9 @@
+{
+  "name" : "spindycritter",
+  "category" : "spindycritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

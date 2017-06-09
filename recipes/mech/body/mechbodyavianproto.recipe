@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 40 }
+  ],
+  "duration" : 3,
+  "output" : { "item" : "mechbodyavianproto", "count" : 1 },
+  "groups" : [ "craftingmech", "mechbody" ]
+}

@@ -1,0 +1,85 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "sensorState" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "on" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "trigger" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "sensor" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "sensorState" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:off.<frame>"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:on.<frame>"
+              }
+            },
+
+            "trigger" : {
+              "properties" : {
+                "image" : "<partImage>:trigger.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "sensorFullbright" : {
+        "properties" : {
+          "centered" : false,
+          "fullbright" : true,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "sensorState" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:off.<frame>"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:on.<frame>"
+              }
+            },
+
+            "trigger" : {
+              "properties" : {
+                "image" : "<partImage>:trigger.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

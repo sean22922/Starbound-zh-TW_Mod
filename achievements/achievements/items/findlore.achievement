@@ -1,0 +1,16 @@
+{
+  "name" : "findlore",
+
+  "triggers" : [
+    "item.category.codex"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.codex",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

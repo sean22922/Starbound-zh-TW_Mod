@@ -1,0 +1,9 @@
+{
+  "name" : "cultistbosslit",
+  "category" : "cultistboss",
+  "type" : "bodylit",
+
+  "frames" : {
+    "bodylit" : "cultistbosslit.png"
+  }
+}

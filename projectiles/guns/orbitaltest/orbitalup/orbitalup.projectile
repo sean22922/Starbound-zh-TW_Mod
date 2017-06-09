@@ -1,0 +1,25 @@
+{
+  "projectileName" : "orbitalup",
+  "image" : "orbitalup.png",
+  "physics" : "laser",
+  "bounces" : 0,
+  "timeToLive" : 2,
+  "animationCycle" : 0.5,
+  "speed" : 50,
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smallregularexplosion/smallregularexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "orbitaldown",
+      "inheritDamageFactor" : 1,
+      "angle" : -90
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

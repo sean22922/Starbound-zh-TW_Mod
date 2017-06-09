@@ -1,0 +1,91 @@
+{
+  "projectileName" : "cultistmolotov",
+  "image" : "cultistmolotov.png",
+  "animationCycle" : 0.5,
+  "physics" : "grenade",
+  "frameNumber" : 8,
+  "pointLight" : false,
+  "renderLayer" : "Monster+10",
+  "speed" : 10,
+  "damagePoly" : [ [-6, 0], [-4, -4], [0, -6], [4, -4], [6, 0], [4, 4], [0, 6], [-4, 4] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/molotovexplosion/molotovexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -35
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 1
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -18
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 18
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 55
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -55
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -1
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : -65
+    },
+    {
+      "action" : "projectile",
+      "type" : "molotovflamemonster",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.05,
+      "angleAdjust" : 65
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "fire"
+}
+
+

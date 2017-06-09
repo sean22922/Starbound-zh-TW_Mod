@@ -1,0 +1,9 @@
+{
+  "name" : "kluexsentrylit",
+  "category" : "kluexsentry",
+  "type" : "bodylit",
+
+  "frames" : {
+    "bodylit" : "kluexsentrylit.png"
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "body" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "spawnidle" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "spawn" : {
+            "frames" : 42,
+            "cycle" : 3.0,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSoundRangeMultiplier" : 1.5
+            },
+            "frameProperties" : {
+              "immediateSound" : [ "/sfx/interface/ship_confirm2.ogg", "", "", "", "", "", "", "", "", "","", "", "", "/sfx/npc/boss/apeboss_spawn.ogg", "","", "", "", "", "","", "", "", "", "","", "", "", "", "","", "", "", "", "","", "", "", "", "", "", "" ]
+            }
+          },
+          "idle" : {
+            "frames" : 8,
+            "cycle" : 1.2,
+            "mode" : "loop"
+          },
+          "glitch" : {
+            "frames" : 3,
+            "cycle" : 0.2,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "windup" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "attack"
+          },
+          "attack" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "loop"
+          },
+          "winddown" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "firewindup" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "fire"
+          },
+          "fire" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "loop"
+          },
+          "firewinddown" : {
+            "frames" : 2,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "idle"
+          },
+          "death" : {
+            "frames" : 22,
+            "cycle" : 1.5
+          }
+        }
+      },
+      "idleSound" : {
+        "priority" : 2,
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+          "stage1" : {
+            "properties" : {
+              // "persistentSound" : "/sfx/npc/boss/apeboss_stage2_loop.ogg",
+              // "persistentSoundRangeMultiplier" : 1.5
+            }
+          },
+          "stage2" : {
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/apeboss_stage2_loop.ogg",
+              "persistentSoundRangeMultiplier" : 1.5
+            }
+          },
+          "stage3" : {
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/apeboss_stage3_loop.ogg",
+              "persistentSoundRangeMultiplier" : 1.5
+            }
+          },
+          "stage4" : {
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/apeboss_stage4_loop.ogg",
+              "persistentSoundRangeMultiplier" : 1.5
+            }
+          }
+        }
+      },
+      "attackSound" : {
+        "priority" : 3,
+        "default" : "off",
+        "states" : {
+          "off" : {},
+          "fist" : {
+            "properties" : {
+              // "persistentSound" : "/sfx/npc/boss/apeboss_sweep.ogg"
+            }
+          },
+          "missile" : {
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/apeboss_missile.ogg",
+              "persistentSoundRangeMultiplier" : 1.5
+            }
+          },
+          "sweep" : {
+            "properties" : {
+              "persistentSound" : "/sfx/npc/boss/apeboss_sweep.ogg",
+              "persistentSoundRangeMultiplier" : 1.5
+            }
+          }
+        }
+      },
+      "damage" : {
+        "priority" : 4,
+        "default" : "none",
+        "states" : {
+          "none" : {
+            "frames" : 1
+          },
+          "stunned" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "zLevel" : 2,
+          "centered" : true,
+          "fullbright" : true,
+          "offset" : [0.0, 0.125],
+          "transformationGroups" : [ "body" ],
+          "image" : "<partImage>"
+        },
+        "partStates" : {
+          "body" : {
+            "spawnidle" : {
+              "properties" : {
+                "image" : "<partImage>:spawnidle.<frame>"
+              }
+            },
+            "spawn" : {
+              "properties" : {
+                "image" : "<partImage>:spawn.<frame>"
+              }
+            },
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.idle.<frame>"
+              }
+            },
+            "glitch" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.glitch.<frame>"
+              }
+            },
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.windup.<frame>"
+              }
+            },
+            "attack" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.attack.<frame>"
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.winddown.<frame>"
+              }
+            },
+            "firewindup" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.firewindup.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.fire.<frame>"
+              }
+            },
+            "firewinddown" : {
+              "properties" : {
+                "image" : "<partImage>:<stage>.firewinddown.<frame>"
+              }
+            },
+            "death" : {
+              "properties" : {
+                "image" : "<partImage>:death.<frame>"
+              }
+            }
+          },
+          "damage" : {
+            "stunned" : {
+              "properties" : {
+                "image" : "<partImage>:stage4.idle.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "globalTagDefaults" : {
+    "stage" : "stage1"
+  },
+
+  "transformationGroups" : {
+    "body" : {"interpolated" : true}
+  },
+
+  "particleEmitters" : {
+    "damage" : {
+      "emissionRate" : 0.7,
+      "particles" : [
+      ]
+    }
+  },
+
+  "sounds" : {
+    "turnHostile" : [  ],
+    "deathPuff" : [ ],
+    "stage1Glitch" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_glitch1.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage2Glitch" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_glitch1.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage3Glitch" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_glitch2.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage4Glitch" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_glitch3.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage1Attack" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_stage1_attack1.ogg", "/sfx/npc/boss/apeboss_stage1_attack2.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage2Attack" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_stage1_attack1.ogg", "/sfx/npc/boss/apeboss_stage1_attack2.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage3Attack" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_stage3_attack1.ogg", "/sfx/npc/boss/apeboss_stage3_attack2.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage4Attack" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_stage4_attack.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage2Transition" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_transition.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage3Transition" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_transition.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "stage4Transition" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_transition.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "spawn" : [],
+    "death" : {
+      "pool" : [ "/sfx/npc/boss/apeboss_death.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "fireNeedle" : {
+      "pool" : [ "/sfx/projectiles/plasma3.ogg" ],
+      "rangeMultiplier" : 1.5
+    },
+    "firePellet" : {
+      "pool" : [ "/sfx/gun/plasma_mp2.ogg" ],
+      "rangeMultiplier" : 1.5
+    }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0.25,
+      "directives" : "fade=ffffff;0.5"
+    }
+  }
+}

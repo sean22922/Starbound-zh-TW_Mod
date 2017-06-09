@@ -1,0 +1,55 @@
+{
+  "projectileName" : "multirockshard",
+  "physics" : "grenade",
+  "timeToLive" : 0.01,
+  "damageKindImage" : "icon.png",
+  "image" : "rockshard.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.6,
+  "frameNumber" : 5,
+  "speed" : 50,
+  "power" : 1.0,
+  "damageKind" : "default",
+  "actionOnReap"  :[
+    {
+      "action" : "projectile",
+      "type" : "rockshard",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.8,
+      "angleAdjust" : -10
+    },
+    {
+      "action" : "projectile",
+      "type" : "rockshard",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -5
+    },
+    {
+      "action" : "projectile",
+      "type" : "rockshard",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1.2,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "rockshard",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "rockshard",
+      "fuzzAngle" : 10,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.8,
+      "angleAdjust" : 10
+    }
+  ]
+}

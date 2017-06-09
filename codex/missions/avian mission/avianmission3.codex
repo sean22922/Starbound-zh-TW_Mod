@@ -1,0 +1,23 @@
+{
+  "id" : "avianmission3",
+  "species" : "avian",
+  "title" : "Caretaker Guidelines",
+  "description" : "Guidelines for the caretaker of the Great Sovereign Temple.",
+  "icon" : "avianmission1.png",
+  "contentPages" : [
+    "- Be forever ready and watchful
+
+- Protect the Temple above yourself
+
+- Venture not into the Temple depths
+
+- Be vigilant, and wary of strangers
+
+- Worship the indomitable Kluex"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "projectileName" : "starcleaverboom",
+  "image" : "starcleaverboom.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 6,
+  "speed" : 20,
+  "damagePoly" : [ [-24, 0], [-16, -16], [0, -24], [30, -30], [24, 0], [16, 16], [0, 24], [-30, 30] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default"
+}

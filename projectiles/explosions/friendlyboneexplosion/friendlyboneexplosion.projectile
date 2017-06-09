@@ -1,0 +1,50 @@
+{
+  "projectileName" : "friendlyboneexplosion",
+  "image" : "friendlyboneexplosion.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 6,
+  "speed" : 50,
+  "damagePoly" : [ [-22, -15], [-16, -30], [0, -38], [16, -30], [22, -15], [16, 0], [0, 8], [-16, 0] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageKind" : "default",
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "bone",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1.0,
+      "angleAdjust" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "bone",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1.0,
+      "angleAdjust" : -35
+    },
+    {
+      "action" : "projectile",
+      "type" : "bone",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1.0,
+      "angleAdjust" : 1
+    },
+    {
+      "action" : "projectile",
+      "type" : "bone",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1.0,
+      "angleAdjust" : -18
+    },
+    {
+      "action" : "projectile",
+      "type" : "bone",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1.0,
+      "angleAdjust" : 18
+    }
+
+  ]
+}

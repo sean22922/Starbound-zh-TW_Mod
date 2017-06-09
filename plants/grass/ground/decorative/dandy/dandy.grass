@@ -1,0 +1,8 @@
+{
+  "name" : "dandy",
+  "description" : "A dandelion. Make a wish.",
+  "shortdescription" : "A dandelion.",
+  "floranDescription" : "Floran wish for ssstabby times.",
+  "glitchDescription" : "Statement. A dandelion.",
+  "images" : [ "dandy1.png", "dandy2.png", "dandy3.png", "dandy4.png", "dandy5.png" ]
+}

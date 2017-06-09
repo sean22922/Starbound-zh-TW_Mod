@@ -1,0 +1,27 @@
+{
+  "projectileName" : "fishinglurecontrol",
+  "image" : "fishinglurecontrol.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "flippable" : false,
+  "lightColor" : [100, 100, 60],
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "power" : 0.0,
+  "speed" : 35,
+  "damageKind" : "nodamage",
+  "physics" : "fishinglure",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 1,
+  "orientationLocked" : true,
+  "onlyHitTerrain" : true,
+  "clientEntityMode" : "ClientPresenceMaster",
+
+  "scripts" : [ "fishinglure.lua" ],
+
+  "lureParameters" : {
+    "controlSpeed" : 8,
+    "controlForce" : 30
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "artifact" : {
+        "default" : "visible",
+        "states" : {
+          "visible" : {},
+          "invisible" : {}
+        }
+      }
+    },
+    "parts" : {
+      "altar" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "image" : "<partImage>"
+        }
+      },
+      "artifact" : {
+        "properties" : {
+          "zLevel" : 2,
+          "offset" : [0, 1.125],
+          "centered" : true
+        },
+        "partStates" : {
+          "artifact" : {
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "lights" : {
+    "glow" : {
+      "active" : true,
+      "position" : [0.0, 1.0],
+      "color" : [36, 120, 36],
+      "pointLight" : true
+    }
+  },
+
+  "particleEmitters" : {
+    "charge" : {
+      "active" : true,
+      "offsetRegion" : [ -1.5, 0.5, 1.5, 0.5 ],
+      "emissionRate" : 5.0,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.5,
+            "color" : [81, 189, 59, 230],
+            "fade" : 0.9,
+            "position" : [0.0, 0.0],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [0, 0.0],
+            "finalVelocity" : [0, 5.0],
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.1,
+            "approach" : [0, 10],
+            "timeToLive" : 0.35,
+            "light" : [150, 150, 50],
+            "variance" : {
+              "initialVelocity" : [0, 1.0]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

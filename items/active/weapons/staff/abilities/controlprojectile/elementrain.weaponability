@@ -1,0 +1,17 @@
+{
+  "ability" : {
+    "type" : "elementrain",
+    "name" : "<elementalName> Rain",
+    "scripts" : ["/items/active/weapons/staff/abilities/controlprojectile/controlprojectile.lua"],
+    "class" : "ControlProjectile",
+
+    "energyCost" : 75,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "<elementalType>elementcloud",
+    "projectileParameters" : {
+      "baseDamage" : 10
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "projectileName" : "electricguardianpellet",
+  "image" : "electricguardianpellet.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "fullbright" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "electricplasma",
+
+  "emitters" : [ "electricplasma" ],
+
+  "power" : 10,
+  "speed" : 50
+}

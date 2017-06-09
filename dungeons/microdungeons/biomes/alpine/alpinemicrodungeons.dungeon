@@ -1,0 +1,123 @@
+{
+  "metadata" : {
+    "name" : "alpinemicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "alpacahouseright1", "alpacahouseright2", "alpacahouseright3", "alpacahouseright4", "alpacahouseright5", "alpacahouseleft1", "alpacahouseleft2", "alpacahouseleft3", "alpacahouseleft4", "alpacahouseleft5", "storagehut1", "storagehut2", "tunnel1", "alpacahouseflat1", "alpacahouseflat2" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "alpacahouseright1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseright1.json" ]
+    },
+    {
+      "name" : "alpacahouseright2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseright2.json" ]
+    },
+    {
+      "name" : "alpacahouseright3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseright3.json" ]
+    },
+    {
+      "name" : "alpacahouseright4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseright4.json" ]
+    },
+    {
+      "name" : "alpacahouseright5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseright5.json" ]
+    },
+    {
+      "name" : "alpacahouseleft1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseleft1.json" ]
+    },
+    {
+      "name" : "alpacahouseleft2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseleft2.json" ]
+    },
+    {
+      "name" : "alpacahouseleft3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseleft3.json" ]
+    },
+    {
+      "name" : "alpacahouseleft4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseleft4.json" ]
+    },
+    {
+      "name" : "alpacahouseleft5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseleft5.json" ]
+    },
+    {
+      "name" : "storagehut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "storagehut1.json" ]
+    },
+    {
+      "name" : "storagehut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "storagehut2.json" ]
+    },
+    {
+      "name" : "tunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tunnel1.json" ]
+    },
+    {
+      "name" : "alpacahouseflat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseflat1.json" ]
+    },
+    {
+      "name" : "alpacahouseflat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "alpacahouseflat2.json" ]
+    }
+  ]
+}

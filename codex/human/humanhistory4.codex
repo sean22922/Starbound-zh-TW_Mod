@@ -1,0 +1,21 @@
+{
+  "id" : "humanhistory4",
+  "species" : "human",
+  "title" : "The Protectorate Code",
+  "description" : "The official code of the Terrene Protectorate.",
+  "icon" : "protectoratecover2.png",
+  "contentPages" : [
+  "We are the Terrene Protectorate. From our home on Earth, we bring our message to the people of the universe.
+
+We accept any race, class, or religion. We offer homes, guidance, education and safety.
+
+Our aim is for unity and harmony across the universe.
+
+Our arms are open to all."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

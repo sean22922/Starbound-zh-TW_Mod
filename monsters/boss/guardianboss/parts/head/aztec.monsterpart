@@ -1,0 +1,10 @@
+{
+  "name" : "aztec",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "aztec.png",
+    "headfullbright" : "aztecfullbright.png"
+  }
+}

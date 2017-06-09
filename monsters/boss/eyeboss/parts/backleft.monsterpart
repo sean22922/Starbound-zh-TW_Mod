@@ -1,0 +1,9 @@
+{
+  "name" : "eyebossbackleft",
+  "category" : "eyeboss",
+  "type" : "backleft",
+
+  "frames" : {
+    "backleft" : "backleft.png"
+  }
+}

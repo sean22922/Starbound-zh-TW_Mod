@@ -1,0 +1,119 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "screen" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 4,
+            "cycle" : 0.3,
+            "mode" : "loop"
+          },
+          "fist" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "rocket" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "sweep" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "pellet" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "needle" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "blue" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "frame" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "image" : "<partImage>"
+        }
+      },
+      "screen" : {
+        "properties" : {
+          "zLevel" : 2,
+          "centered" : true,
+          "fullbright" : true
+        },
+
+        "partStates" : {
+          "screen" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "fist" : {
+              "properties" : {
+                "image" : "<partImage>:fist.<frame>"
+              }
+            },
+            "rocket" : {
+              "properties" : {
+                "image" : "<partImage>:rocket.<frame>"
+              }
+            },
+            "sweep" : {
+              "properties" : {
+                "image" : "<partImage>:sweep.<frame>"
+              }
+            },
+            "pellet" : {
+              "properties" : {
+                "image" : "<partImage>:pellet.<frame>"
+              }
+            },
+            "needle" : {
+              "properties" : {
+                "image" : "<partImage>:needle.<frame>"
+              }
+            },
+            "blue" : {
+              "properties" : {
+                "image" : "<partImage>:blue.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "globalTagDefaults" : {
+    "directives" : ""
+  },
+
+  "lights" : {
+  },
+
+  "particleEmitters" : {
+    "fire" : {
+      "particles" : []
+    }
+  },
+
+  "sounds" : {
+    "fire" : [ ]
+  }
+}

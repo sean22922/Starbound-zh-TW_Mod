@@ -1,0 +1,30 @@
+{
+  "projectileName" : "doublethorns",
+  "image" : "doublethorns.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.15,
+  "speed" : -23,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "thorns",
+      "angleAdjust" : 185,
+      "fuzzAngle" : 3,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : -3
+    },
+    {
+      "action" : "projectile",
+      "type" : "thorns",
+      "angleAdjust" : 175,
+      "fuzzAngle" : 3,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : -3
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "default"
+}

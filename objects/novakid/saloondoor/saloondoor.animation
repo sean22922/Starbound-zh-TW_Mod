@@ -1,0 +1,58 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "doorState" : {
+        "default" : "closed",
+        "states" : {
+          "closed" : {},
+          "swingLeft" : {
+            "frames" : 12,
+            "cycle" : 1.0,
+            "mode" : "transition",
+            "transition" : "closed"
+          },
+          "swingRight" : {
+            "frames" : 12,
+            "cycle" : 1.0,
+            "mode" : "transition",
+            "transition" : "closed"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "door" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "doorState" : {
+            "closed" : {
+              "properties" : {
+                "image" : "<partImage>:closed"
+              }
+            },
+
+            "swingLeft" : {
+              "properties" : {
+                "image" : "<partImage>:left.<frame>"
+              }
+            },
+
+            "swingRight" : {
+              "properties" : {
+                "image" : "<partImage>:right.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "swing" : ["/sfx/objects/birddoor_open.ogg"]
+  }
+}

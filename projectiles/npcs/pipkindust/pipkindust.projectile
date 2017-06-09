@@ -1,0 +1,20 @@
+{
+  "projectileName" : "pipkindust",
+  "image" : "pipkindust.png",
+  "physics" : "flame",
+  "animationCycle" : 1.05,
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 0.5,
+  "bounces" : 4,
+  "piercing" : false,
+  "damagePoly" : [ [-4.5, 0], [-3, -3], [0, -4.5], [3, -3], [4.5, 0], [3, 3], [0, 4.5], [-3, 3] ],
+  "damageKind" : "fire",
+  "emitters" : [ "pipkinflames" ],
+  "statusEffects" : [
+  //  "burning"
+  ],
+  "hydrophobic" : true
+}

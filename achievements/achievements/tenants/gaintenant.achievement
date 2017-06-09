@@ -1,0 +1,16 @@
+{
+  "name" : "gaintenant",
+
+  "triggers" : [
+    "tenantsSpawned"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "tenantsSpawned",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "kind" : "bubbleboost",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/bubbleboost/bubbleboost.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0.0, 0.0],
+    "finalVelocity" : [0, 0],
+    "approach" : [5, -4],
+    "fade" : 1,
+    "size" : 0.5,
+    "layer" : "back",
+    "timeToLive" : 0.7,
+    "variance" : {
+      "initialVelocity" : [5.0, 3.0],
+      "finalVelocity" : [5.0, 3.0]
+    }
+  }
+}

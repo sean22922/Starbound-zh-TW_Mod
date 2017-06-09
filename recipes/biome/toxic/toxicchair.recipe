@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 40 },
+    { "item" : "biosample", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 5 }
+  ],
+  "output" : { "item" : "toxicchair", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

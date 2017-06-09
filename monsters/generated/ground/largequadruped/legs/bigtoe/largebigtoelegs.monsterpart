@@ -1,0 +1,16 @@
+{
+  "name" : "largebigtoelegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largebigtoeflegs.png",
+    "backLegs" : "largebigtoeblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 1.0,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

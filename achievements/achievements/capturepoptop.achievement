@@ -1,0 +1,16 @@
+{
+  "name" : "capturepoptop",
+
+  "triggers" : [
+    "captureMonster.monsterType.poptop"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "captureMonster.monsterType.poptop",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

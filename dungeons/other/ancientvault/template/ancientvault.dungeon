@@ -1,0 +1,58 @@
+{
+  "metadata" : {
+    "name" : "ancientvault",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "entrance_left", "entrance_right" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "entrance_left",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left", "entrance_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "entrance_right",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left", "entrance_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "endchamber_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endchamber_left", "endchamber_right" ] ]
+      ],
+      "def" : [ "tmx", "endchamber_left.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endchamber_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endchamber_left", "endchamber_right" ] ]
+      ],
+      "def" : [ "tmx", "endchamber_right.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "room1_waterpit",
+      "rules" : [
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "room1_waterpit.json" ],
+      "chance" : 1
+    }
+  ]
+}

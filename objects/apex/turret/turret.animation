@@ -1,0 +1,116 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "movement" : {
+        "priority" : 0,
+        "default" : "idle",
+
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "attack" : {
+            "frames" : 4,
+            "cycle" : 0.25,
+            "mode" : "loop"
+          }
+        }
+      },
+      "beam" : {
+        "default" : "invisible",
+
+        "states" : {
+          "invisible" : { "frames" : 1 },
+          "visible" : { "frames" : 1 }
+        }
+      }
+    },
+
+    "parts" : {
+      "gun" : {
+        "properties" : {
+          "offset" : [-1.375, 0],
+          "rotationGroup" : "gun",
+          "centered" : false,
+          "zLevel" : 2
+        },
+
+        "partStates" : {
+          "movement" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            },
+            "attack" : {
+              "properties" : {
+                "image" : "<partImage>:attack.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "beam" : {
+        "properties" : {
+          "scaleGroup" : "beam",
+          "rotationGroup" : "gun",
+          "offset" : [4.5, 0.675],
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "beam" : {
+            "invisible" : {
+              "properties" : {
+                "image" : ""
+              }
+            },
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            }
+          }
+        }
+      },
+
+      "bracket" : {
+        "properties" : {
+          "offset" : [-1.375, 0],
+          "centered" : false,
+          "zLevel" : 0
+        },
+
+        "partStates" : {
+          "movement" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:bracket"
+              }
+            },
+            "attack" : {
+              "properties" : {
+                "image" : "<partImage>:bracket"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "rotationGroups" : {
+    "gun" : {
+      "rotationCenter" : [1.625, 1.3125],
+      "angularVelocity" : 1.5
+    }
+  },
+
+  "scaleGroups" : {
+    "beam" : {
+      "scaleCenter" : [1.625, 1.3125]
+    }
+  }
+}

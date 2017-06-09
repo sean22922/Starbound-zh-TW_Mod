@@ -1,0 +1,16 @@
+{
+  "name" : "largebigcatlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largebigcatflegs.png",
+    "backLegs" : "largebigcatblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.1,
+    "jumpMultiplier" : 1.0
+  }
+}

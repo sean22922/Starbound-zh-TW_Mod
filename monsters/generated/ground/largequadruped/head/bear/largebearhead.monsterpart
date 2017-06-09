@@ -1,0 +1,15 @@
+{
+  "name" : "largebearhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largebearhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1.2, -0.7]
+  }
+}

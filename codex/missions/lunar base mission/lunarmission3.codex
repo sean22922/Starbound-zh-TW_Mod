@@ -1,0 +1,23 @@
+{
+  "id" : "lunarmission3",
+  "species" : "human",
+  "title" : "Letheia Corporation Guidelines",
+  "description" : "Friendly guidelines from the Letheia Corporation to all of their employees.",
+  "icon" : "lunarmission3.png",
+  "contentPages" : [
+    "We kindly ask that employees:
+
+1. Wear the appropriate safety equipment at all times
+
+2. Behave appropriately and in a professional manner
+
+3. Report unfamiliar occurrences to Letheia HQ before approaching onsite management
+
+4. Have a nice day"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

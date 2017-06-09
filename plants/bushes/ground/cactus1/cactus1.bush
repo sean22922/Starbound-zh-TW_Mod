@@ -1,0 +1,55 @@
+{
+  "name" : "cactus1",
+  "description" : "A cactus.",
+  "shortdescription" : "A cactus.",
+  "floranDescription" : "Ssspiky.",
+  "glitchDescription" : "Statement. A cactus.",
+  "mods" : [ "flower", "blip", "rose" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "flower" : [ "flower1.png", "" ],
+        "blip" : [ "blip1.png", "" ],
+        "rose" : [ "rose1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "flower" : [ "flower2.png", "" ],
+        "blip" : [ "blip2.png", "" ],
+        "rose" : [ "rose2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "flower" : [ "flower3.png", "" ],
+        "blip" : [ "blip3.png", "" ],
+        "rose" : [ "rose3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "flower" : [ "flower4.png", "" ],
+        "blip" : [ "blip4.png", "" ],
+        "rose" : [ "rose4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "flower" : [ "flower5.png", "" ],
+        "blip" : [ "blip5.png", "" ],
+        "rose" : [ "rose5.png", "" ]
+      }
+    }
+
+  ]
+}

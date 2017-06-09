@@ -1,0 +1,20 @@
+{
+  "name" : "drink",
+  "states" : ["idle","sit"],
+  "cycle" : 1.0,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "run.2", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.1", null, null, null, null ],
+    [ null, "run.3", null, null, null, null ],
+    [ null, "run.3", null, null, null, null ],
+    [ null, "run.3", null, null, null, null ]
+  ]
+}

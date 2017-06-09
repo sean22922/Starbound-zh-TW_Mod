@@ -1,0 +1,9 @@
+{
+  "name" : "smallchubbybirdbody",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "smallchubbybirdbody.png"
+  }
+}

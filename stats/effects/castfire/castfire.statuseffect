@@ -1,0 +1,12 @@
+{
+  "name" : "castfire",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "castfire.lua"
+  ],
+
+  "animationConfig" : "castfire.animation"
+}

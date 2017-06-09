@@ -1,0 +1,9 @@
+{
+  "name" : "crystaltortoisecritter",
+  "category" : "crystaltortoisecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

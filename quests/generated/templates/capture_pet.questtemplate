@@ -1,0 +1,174 @@
+{
+  "id" : "capture_pet.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "deed" : {
+      "type" : "entity"
+    },
+    "monster" : {
+      "type" : "monsterType",
+      "example" : {
+        "name" : "Nutmidge",
+        "typeName" : "nutmidge"
+      }
+    },
+    "tradedMonster" : {
+      "type" : "monsterType",
+      "example" : {
+        "name" : "Scaveran",
+        "typeName" : "scaveran"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [[
+    { "name" : "capturepod", "count" : 1 }
+  ]],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/capture_pet.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "monster"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["reason", [
+          "think it smells weird",
+          "don't know what to feed it",
+          "find it kind of gross",
+          "have a mortal fear of them",
+          "don't think it suits me very much",
+          "don't like the creepy looks it keeps giving me",
+          "am honestly pretty weirded out by it",
+          "don't think it's the pet for me"
+        ]],
+        ["earlier", [
+          "earlier",
+          "not too long ago",
+          "earlier in the week",
+          "last night",
+          "yesterday"
+        ]],
+        ["request", [
+          "look like you have better aim than me",
+          "are probably better at this than me",
+          "might be able to help me catch one",
+          "might be skilled enough to help",
+          "look like you have the skills I need"
+        ]],
+        ["guide1", [
+          "you could try looking around the",
+          "why not look around the",
+          "you should try looking near the"
+        ]],
+        ["guide2", [
+          "I saw a few over that way",
+          "I heard there was a group of them near there",
+          "someone told me there were some around there"
+        ]],
+        ["florandreams", [
+          "hunt alongssside it",
+          "teach it tricksss",
+          "have a new beassst friend",
+          "teach it to hunt"
+        ]],
+        ["appreciation1", [
+          "You brought me a <monster>?! Thank you!",
+          "You managed to catch me a <monster>? Wonderful!",
+          "Oh, you managed to find a <monster>?",
+          "You brought me my very own <monster>?! Thanks!"
+        ]],
+        ["appreciation2", [
+          "I hope this <tradedMonster> serves you well!",
+          "I'm sure this <tradedMonster> will be happier with you!",
+          "Here, you're now the proud owner of your own pet <tradedMonster>!",
+          "Here, you've earned this <tradedMonster>. Treat it well!"
+        ]],
+        ["floranappreciation", [
+          "Floran hopesss you like thiss <tradedMonster>!",
+          "Thisss <tradedMonster> can be your new hunting partner!"
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "Pet <monster>"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;I want a <monster> to keep me company.",
+          "^cyan;If I had my own <monster>, I'd be so happy!"
+        ],
+        "floran" : [
+          "^cyan;Floran wants a <monster>, and needss help getting one."
+        ],
+        "glitch" : [
+          "^cyan;Discontent. I want a <monster> to call my own."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+            "I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>."
+          ],
+          "floran" : [
+            "Floran caught a <tradedMonster> in a trap, but Floran really wanted a ^orange;<monster>^white; instead. If Floran had a <monster> Floran could <florandreams>. ^green;Could you catch Floran a <monster> with thisss ^orange;Capture Pod^white;?\nFloran saw some near the ^orange;<spawnPoint>^white;<spawnPoint.direction>."
+          ],
+          "glitch" : [
+            "Discontent. Someone gave me a <tradedMonster>, but I <reason>. I'd be happier with a pet ^orange;<monster>^white;. ^green;Could you catch me one with this ^orange;Capture Pod^white;?\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>.",
+            "Disappointed. I tried to capture myself a pet ^orange;<monster>^white; <earlier>, but missed and caught this <tradedMonster> instead. You <request> - ^green;can you take this ^orange;Capture Pod^green; and catch me a <monster>^white;? I'll give you my <tradedMonster> in return.\nIf you're not sure where to start, <guide1> ^orange;<spawnPoint>^white;<spawnPoint.direction> - <guide2>."
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "<appreciation1> <appreciation2>"
+          ],
+          "floran" : [
+            "You brought Floran a <monster>? <floranappreciation>"
+          ],
+          "glitch" : [
+            "Overjoyed. <appreciation1> <appreciation2>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "Oops, I wasn't able to help <questGiver>."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+
+    "indicators" : ["monster"],
+
+    "objectives" : [
+      {
+        "id" : "capture",
+        "text" : "Capture a <monster>"
+      },
+      {
+        "id" : "return",
+        "text" : "Give the <monster> to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    },
+    "turnInHidesIndicators" : false
+  }
+}

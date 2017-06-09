@@ -1,0 +1,15 @@
+{
+  "name" : "deathbombfire",
+  "blockingStat" : "specialStatusImmunity",
+  "effectConfig" : {
+    "minMaxHealth" : 5,
+    "healthDamageFactor" : 1.0,
+    "bombConfig" : "/projectiles/explosions/regularexplosion2/fireexplosionknockbackstatus.config",
+    "flashDirectives" : "fade=FF6600;0.5"
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "deathbomb.lua"
+  ]
+}

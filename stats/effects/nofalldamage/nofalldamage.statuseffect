@@ -1,0 +1,9 @@
+{
+  "name" : "nofalldamage",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "nofalldamage.lua"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "largesphereearshead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largesphereearshead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

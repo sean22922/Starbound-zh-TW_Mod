@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "wire", "count" : 8 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "copperbar", "count" : 5 }
+  ],
+  "output" : { "item" : "rustyrailplatform", "count" : 1 },
+  "duration" : 3.0,
+  "groups" : [ "rail" ]
+}

@@ -1,0 +1,21 @@
+{
+  "kind" : "health",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 1.5,
+    "loops" : true,
+    "start" : {
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.ogg" ]
+      ]
+    },
+    "particles" : [
+      [ "healthcross", "healthcross" ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "healthcross" ]
+      ]
+    }
+  }
+}

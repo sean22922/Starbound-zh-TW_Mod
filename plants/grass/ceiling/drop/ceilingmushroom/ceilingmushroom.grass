@@ -1,0 +1,11 @@
+{
+  "name" : "ceilingmushroom",
+  "description" : "A mushroom.",
+  "shortdescription" : "A mushroom.",
+  "floranDescription" : "Fungusss.",
+  "glitchDescription" : "Statement. A mushroom.",
+  "ceiling" : true,
+  "images" : [ "mushroom1-2.png", "mushroom1-5.png",
+    "mushroom2-2.png", "mushroom2-5.png",
+    "smallshroom1.png", "smallshroom2.png", "smallshroom3.png", "smallshroom4.png", "smallshroom5.png", "smallshroom6.png" ]
+}

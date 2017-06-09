@@ -1,0 +1,28 @@
+{
+  "name" : "findallfossils",
+
+  "triggers" : [
+    "itemSet.category.smallFossil",
+    "itemSet.category.mediumFossil",
+    "itemSet.category.largeFossil"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.smallFossil",
+      "op" : "sizeAtLeast",
+      "value" : 10
+    },
+    {
+      "name" : "itemSet.category.mediumFossil",
+      "op" : "sizeAtLeast",
+      "value" : 30
+    },
+    {
+      "name" : "itemSet.category.largeFossil",
+      "op" : "sizeAtLeast",
+      "value" : 15
+    }
+  ]
+}

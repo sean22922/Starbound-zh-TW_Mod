@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "petball",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ball.png"
+  }
+}

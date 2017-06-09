@@ -1,0 +1,16 @@
+{
+  "name" : "guardiandeath",
+  "effectConfig" : {
+    "fadeColorDuration" : 5.0,
+    "fadeColor" : [255, 255, 255],
+    "borderColor" : [164, 81, 196]
+  },
+  "scriptDelta" : 1,
+  "defaultDuration" : 10,
+
+  "animationConfig" : "guardiandeath.animation",
+
+  "scripts" : [
+    "guardiandeath.lua"
+  ]
+}

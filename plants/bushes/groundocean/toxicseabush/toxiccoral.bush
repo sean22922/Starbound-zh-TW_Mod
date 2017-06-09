@@ -1,0 +1,24 @@
+{
+  "name" : "toxiccoral",
+  "description" : "Toxic coral.",
+  "shortdescription" : "Toxic Coral",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "toxiccoral1.png"
+    },
+    {
+      "base" : "toxiccoral2.png"
+    },
+    {
+      "base" : "toxiccoral3.png"
+    },
+    {
+      "base" : "toxiccoral4.png"
+    },
+    {
+      "base" : "toxiccoral5.png"
+    }
+  ]
+}

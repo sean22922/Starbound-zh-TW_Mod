@@ -1,0 +1,9 @@
+{
+  "name" : "fawnfly",
+  "category" : "fawnfly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fawnfly.png"
+  }
+}

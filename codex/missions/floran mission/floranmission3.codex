@@ -1,0 +1,19 @@
+{
+  "id" : "floranmission3",
+  "species" : "floran",
+  "title" : "Rools",
+  "description" : "Rules of a Floran Hunt.",
+  "icon" : "floranmission2.png",
+  "contentPages" : [
+    "Rools of Hunt are:
+
+Fite other Floran
+Kill big Prey
+Win shiny trophy"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

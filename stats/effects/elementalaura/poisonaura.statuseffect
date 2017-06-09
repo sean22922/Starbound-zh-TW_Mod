@@ -1,0 +1,12 @@
+{
+  "name" : "poisonaura",
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "elementalaura.lua"
+  ],
+  "effectConfig" : {
+  },
+
+  "animationConfig" : "poisonaura.animation"
+}

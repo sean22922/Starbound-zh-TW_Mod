@@ -1,0 +1,12 @@
+{
+  "name" : "biomeairless",
+  "blockingStat" : "breathProtection",
+
+  "effectConfig" : {
+  },
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "biomeairless.lua"
+  ]
+}

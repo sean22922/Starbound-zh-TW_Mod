@@ -1,0 +1,114 @@
+{
+  "id" : "escort_trade.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Some Person"
+      }
+    },
+    "items" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "bananahead", "count" : 2 }
+        ]
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location",
+      "example" : {
+        "name" : "dark, scary cave"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/escort_trade.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["appreciation", [
+          "Thanks for accompanying me!",
+          "You've really helped me out, thanks!",
+          "Thanks for helping me out!"
+        ]],
+        ["appreciationfloran", [
+          "Thanksss for helping out Floran!",
+          "Floran appreciatesss the help!",
+          "Thanksss for escorting Floran here!"
+        ]]
+      ],
+      "text" : {
+        "first" : {
+          "default" : [
+            "First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+          ],
+          "floran" : [
+            "Firsst, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?"
+          ],
+          "glitch" : [
+            "Eager. First, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+          ]
+        },
+        "default" : {
+          "default" : [
+            "Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+          ],
+          "floran" : [
+            "Next, we're going to need ^orange;<items>^white;. They were meant to be delivered by travelling merchant ^orange;<target>^white;, but Floran thinksss <target.pronoun.subject> got lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take Floran there^white; so Floran can find <target> and ^green;retrieve the ssstuff^white;?"
+          ],
+          "glitch" : [
+            "Eager. Next, we're going to need ^orange;<items>^white;. They were due to be delivered by travelling merchant ^orange;<target>^white;, but I think <target.pronoun.subject> managed to get lost around the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Could you ^green;take me there^white; so we can find <target> and ^green;retrieve the goods^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "<appreciation> Could you hold onto these <items> for the next part of my plan?"
+          ],
+          "floran" : [
+            "<appreciationfloran> Could you hold onto these <items> for the next part of my plan?"
+          ],
+          "glitch" : [
+            "Grateful. <appreciation> Could you hold onto these <items> for the next part of my plan?"
+          ]
+        }
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+
+    // QuestGiver NPC -> Player
+    "escortCompleteEventName" : "escortComplete",
+
+    "objectives" : [
+      {
+        "id" : "escort",
+        "text" : "Bring <questGiver> to <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

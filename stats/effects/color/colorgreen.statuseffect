@@ -1,0 +1,11 @@
+{
+  "name" : "colorgreen",
+  "effectConfig" : {
+    "color" : "00B300"
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "color.lua"
+  ]
+}

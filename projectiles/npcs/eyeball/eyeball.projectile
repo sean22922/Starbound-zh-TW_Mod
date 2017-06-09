@@ -1,0 +1,37 @@
+{
+  "projectileName" : "eyeball",
+  "image" : "eyeball.png",
+  "physics" : "grenade",
+  "animationCycle" : 1,
+  "frameNumber" : 8,
+  "power" : 30,
+  "speed" : 25,
+  "timeToLive" : 1.5,
+  "bounces" : 5,
+  "piercing" : false,
+  "emitters" : [ "poisondrip" ],
+  "damagePoly" : [ [-4, 0], [-3, -3], [0, -4], [3, -3], [4, 0], [3, 3], [0, 4], [-3, 3] ],
+  "damageKind" : "default",
+  "actionOnReap" : [
+    {
+      "action" : "loop",
+      "count" : 6,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 3,
+            "color" : [240, 50, 80, 200],
+            "initialVelocity" : [0.0, -500.0],
+            "timeToLive" : 0.25,
+            "fade" : 0.8,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.25,
+            "layer" : "middle"
+          }
+        }
+      ]
+    }
+  ]
+}

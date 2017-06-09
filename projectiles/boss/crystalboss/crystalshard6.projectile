@@ -1,0 +1,16 @@
+{
+  "projectileName" : "crystalshard6",
+  "image" : "crystalshard6.png",
+  "physics" : "grenadelowbounce",
+  "bounces" : -1,
+  "timeToLive" : 5,
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "lightColor" : [150, 0, 150],
+  "power" : 0,
+  "speed" : 50,
+  "damageKind" : "default",
+  "onlyHitTerrain" : true
+}

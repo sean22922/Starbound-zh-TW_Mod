@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 6 },
+    { "item" : "solariumstar", "count" : 6 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "aegisaltbow", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "snaggler",
+  "category" : "snaggler",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "snaggler.png"
+  }
+}

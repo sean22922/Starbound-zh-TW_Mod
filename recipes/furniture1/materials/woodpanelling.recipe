@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "woodpanelling",
+    "count" : 5
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

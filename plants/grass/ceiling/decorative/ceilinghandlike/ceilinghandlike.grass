@@ -1,0 +1,9 @@
+{
+  "name" : "ceilinghandlike",
+  "description" : "A root that looks like a hand.",
+  "shortdescription" : "A root that looks like a hand.",
+  "floranDescription" : "Grabby root.",
+  "glitchDescription" : "Statement. A root that resembles a hand.",
+  "ceiling" : true,
+  "images" : [ "ceilinghandlike1.png", "ceilinghandlike2.png", "ceilinghandlike3.png", "ceilinghandlike4.png", "ceilinghandlike5.png" ]
+}

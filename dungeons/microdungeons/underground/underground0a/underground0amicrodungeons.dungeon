@@ -1,0 +1,103 @@
+{
+  "metadata" : {
+    "name" : "underground0amicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "underground0a_open1", "underground0a_open2", "underground0a_tunnelBackSlope1", "underground0a_tunnelBackSlope2", "underground0a_tunnelForwardSlope", "underground0a_tunnelForwardSlope2", "underground0a_tunnel1", "underground0a_tunnel2", "underground0a_tunnelWeakBackSlope1", "underground0a_tunnelWeakBackSlope2", "underground0a_tunnelWeakForwardSlope1", "underground0a_tunnelWeakForwardSlope2" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "underground0a_open1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_open1.json" ]
+    },
+    {
+      "name" : "underground0a_open2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_open2.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelBackSlope1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelBackSlope1.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelBackSlope2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelBackSlope2.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelForwardSlope",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelForwardSlope.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelForwardSlope2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelForwardSlope2.json" ]
+    },
+    {
+      "name" : "underground0a_tunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnel1.json" ]
+    },
+    {
+      "name" : "underground0a_tunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnel2.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelWeakBackSlope1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelWeakBackSlope1.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelWeakBackSlope2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelWeakBackSlope2.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelWeakForwardSlope1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelWeakForwardSlope1.json" ]
+    },
+    {
+      "name" : "underground0a_tunnelWeakForwardSlope2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "underground0a_tunnelWeakForwardSlope2.json" ]
+    }
+  ]
+}
+  

@@ -1,0 +1,18 @@
+{
+  "name" : "wave",
+  "states" : ["idle","sit","walk"],
+  "cycle" : 0.75,
+  "cyclic" : false,
+  "duration" : 0.75,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "fall.1", null, null, null, null ],
+    [ null, "fall.2", null, null, null, null ],
+    [ null, "fall.3", null, null, null, null ],
+    [ null, "fall.4", null, null, null, null ],
+    [ null, "fall.4", null, null, null, null ],
+    [ null, "fall.3", null, null, null, null ],
+    [ null, "fall.2", null, null, null, null ],
+    [ null, "fall.1", null, null, null, null ]
+  ]
+}

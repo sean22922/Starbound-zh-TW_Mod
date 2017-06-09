@@ -1,0 +1,18 @@
+{
+  "projectileName" : "iceburstcloud",
+  "image" : "iceburstcloud.png",
+  "physics" : "gas",
+  "bounces" : -1,
+  "animationCycle" : 1.05,
+  "speed" : 0,
+  "frameNumber" : 8,
+  "emitters" : [ "largeicecloud" ],
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 1,
+  "piercing" : true,
+  "power" : 5.0,
+  "damageKind" : "iceplasma",
+  "damagePoly" : [ [-14, 0], [-10, -10], [0, -14], [10, -10], [14, 0], [10, 10], [0, 14], [-10, 10] ],
+  "statusEffects" : ["frostslow"]
+}

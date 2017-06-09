@@ -1,0 +1,32 @@
+{
+  "name" : "magmapitcher",
+  "description" : "Cones filled with magma.",
+  "shortdescription" : "Cones filled with magma.",
+  "floranDescription" : "Burny liquidsss.",
+  "glitchDescription" : "Statement. Cones of magma.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+
+    {
+      "base" : "base2.png"
+    },
+
+    {
+      "base" : "base3.png"
+    },
+
+    {
+      "base" : "base4.png"
+    },
+
+    {
+      "base" : "base5.png"
+    },
+    {
+      "base" : "base6.png"
+    }
+
+  ]
+}

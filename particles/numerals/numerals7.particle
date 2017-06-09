@@ -1,0 +1,20 @@
+{
+  "kind" : "numerals7",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/numerals/numerals7.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 2.0],
+    "finalVelocity" : [0, 3.0],
+    "approach" : [0, 50],
+    "fade" : 0.5,
+    "destructionAction" : "shrink",
+    "destructionTime" : 1,
+    "size" : 0.6,
+    "timeToLive" : 0.85,
+    "variance" : {
+      "initialVelocity" : [2, 1.0]
+    }
+  }
+}
+

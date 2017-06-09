@@ -1,0 +1,17 @@
+{
+  "kind" : "perfectblock",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/perfectblock/perfectblock.animation",
+    "size" : 1,
+    "color" : [255, 150, 0, 255],
+    "light" : [0, 0, 0],
+    "initialVelocity" : [0.0, 0.0],
+    "finalVelocity" : [0.0, 0.0],
+    "approach" : [50, 50],
+    "position" : [0.3, 0],
+    "timeToLive" : 0.4,
+    "layer" : "front",
+    "flippable" : true
+  }
+}

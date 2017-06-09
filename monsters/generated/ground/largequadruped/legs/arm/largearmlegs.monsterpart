@@ -1,0 +1,16 @@
+{
+  "name" : "largearmlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largearmflegs.png",
+    "backLegs" : "largearmblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

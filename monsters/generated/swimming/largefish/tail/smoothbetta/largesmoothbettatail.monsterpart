@@ -1,0 +1,9 @@
+{
+  "name" : "largesmoothbettatail",
+  "category" : "largefish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largesmoothbettatail.png"
+  }
+}

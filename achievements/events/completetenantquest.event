@@ -1,0 +1,20 @@
+{
+  "eventName" : "completeTenantQuest",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - species
+  //  - gender
+  //  - npcType
+  //  - worldThreatLevel
+  //  - damageTeam
+  //  - damageTeamType
+
+  "stats" : [
+    {
+      "name" : "tenantQuest",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

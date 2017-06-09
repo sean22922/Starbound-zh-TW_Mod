@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "alienmeat", "count" : 1 }
+  ],
+  "output" : { "item" : "meatdumplings", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "meatdumplings" }
+}

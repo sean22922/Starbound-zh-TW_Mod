@@ -1,0 +1,9 @@
+{
+  "name" : "pufferfishcritter",
+  "category" : "pufferfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

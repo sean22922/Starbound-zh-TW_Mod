@@ -1,0 +1,18 @@
+{
+  "name" : "tonauacdoorlifting",
+  "states" : ["idle", "walk"],
+  "cycle" : 0.9,
+  "cyclic" : false,
+  "duration" : 0.9,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "climb.1", null, null, null, null, null ],
+    [ "climb.2", null, null, null, null, null ],
+    [ "climb.3", null, null, null, null, null ],
+    [ "climb.4", null, null, null, null, null ],
+    [ "climb.5", null, null, null, null, null ],
+    [ "climb.7", null, null, null, null, null ],
+    [ null, null, null, null, null, null ],
+    [ null, null, null, null, null, null ]
+  ]
+}

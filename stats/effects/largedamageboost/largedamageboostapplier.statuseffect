@@ -1,0 +1,10 @@
+{
+  "name" : "largedamageboostapplier",
+  "effectConfig" : {
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "largedamageboostapplier.lua"
+  ]
+}

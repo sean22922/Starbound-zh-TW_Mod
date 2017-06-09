@@ -1,0 +1,10 @@
+{
+  "name" : "minidrone",
+  "category" : "minidrone_parts",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "minidronebwing.png",
+    "frontWings" : "minidronefwing.png"
+  }
+}

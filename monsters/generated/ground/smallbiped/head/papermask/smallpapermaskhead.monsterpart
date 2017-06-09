@@ -1,0 +1,13 @@
+{
+  "name" : "smallpapermaskhead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallpapermaskhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

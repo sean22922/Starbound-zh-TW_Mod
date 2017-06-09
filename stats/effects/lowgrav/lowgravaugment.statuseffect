@@ -1,0 +1,11 @@
+{
+  "name" : "lowgravaugment",
+  "effectConfig" : {
+    "gravityModifier" : 0.5
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "lowgravaugment.lua"
+  ]
+}

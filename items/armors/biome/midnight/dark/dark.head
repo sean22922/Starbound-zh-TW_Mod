@@ -1,0 +1,44 @@
+{
+  "itemName" : "darkhead",
+  "price" : 0,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headwear",
+  "description" : "The material in this mask is expelling pure darkness.",
+  "shortdescription" : "Dark Mask",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+ "effectSources" : [ "shadowsmoke" ],
+
+  "colorOptions" : [
+    // DEFAULT
+    { "06ff00" : "06ff00"},
+    // BLACK
+    { "06ff00" : "151515" },
+    // GREY
+    { "06ff00" : "808080" },
+    // WHITE
+    { "06ff00" : "e6e6e6" },
+    // RED
+    { "06ff00" : "ff0000" },
+    // ORANGE
+    { "06ff00" : "ff9100" },
+    // YELLOW
+    { "06ff00" : "ffd400" },
+    // GREEN
+    { "06ff00" : "06ff00" },
+    // BLUE
+    { "06ff00" : "0080ff" },
+    // PURPLE
+    { "06ff00" : "b700ff" },
+    // PINK
+    { "06ff00" : "ff00ae" },
+    // BROWN
+    { "06ff00" : "995200" }
+  ]
+}

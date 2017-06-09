@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 30 },
+    { "item" : "bottle", "count" : 5 },
+    { "item" : "torch", "count" : 1}
+  ],
+  "output" : {
+    "item" : "craftingmedical",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable2", "craftingstations", "all" ]
+}

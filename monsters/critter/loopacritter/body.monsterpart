@@ -1,0 +1,9 @@
+{
+  "name" : "loopacritter",
+  "category" : "loopacritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

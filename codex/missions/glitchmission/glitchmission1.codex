@@ -1,0 +1,23 @@
+{
+  "id" : "glitchmission1",
+  "species" : "glitch",
+  "title" : "The Bone Dragon",
+  "description" : "An advert for the Bone Dragon",
+  "icon" : "glitchmission1.png",
+  "contentPages" : [
+    "Dragons aren't real. Not even the Bone Dragon. But with the Bone Dragon you get the SEMBLANCE of reality. This stainless steel robot is encased in tough and durable SimuBoneTM - the most bone-like substance in the known universe*.
+
+When you purchase the Bone Dragon, not only do you get a realistic facsimile of a dragon, you also get those classic dragon traits - the gift of flight, red-hot fiery breath, and a predilection for murder!
+BUT THERE'S MORE -",
+"The Bone Dragon is automated: with multi-function preset capabilities, and an intuitive control system!
+
+Limited stock available. Buy Now!
+
+*Excluding actual bone."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

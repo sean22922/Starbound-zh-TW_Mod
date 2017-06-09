@@ -1,0 +1,25 @@
+{
+  "eventName" : "killObject",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - entityType
+  //  - damageSourceKind
+  //  - objectName
+  //  - worldThreatLevel
+  //  - damageTeam
+  //  - damageTeamType
+
+  "stats" : [
+    {
+      "name" : "killObject",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "killObject.objectName.<objectName>",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

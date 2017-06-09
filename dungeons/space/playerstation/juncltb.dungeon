@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-tjuncltb",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "tjuncltb" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "tjuncltb",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tjuncltb.json" ]
+    }
+  ]
+}

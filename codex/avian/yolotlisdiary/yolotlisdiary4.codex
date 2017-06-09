@@ -1,0 +1,26 @@
+{
+  "id" : "yolotlisdiary4",
+  "species" : "avian",
+  "title" : "Yolotli's Diary Entry 4",
+  "description" : "The personal diary of an Avian Ascendant.",
+  "icon" : "yolotlisdiary4.png",
+  "contentPages" : [
+    "Tomorrow is the Festival, and my Ascension! I can't stop going over it in my head: I will rise before dawn, woken by Stargazer Zolin himself, and then he and I will pray together.
+
+After that the attendants join us, and I'll be anointed in oils again. Once the oil is applied, gold dust is brushed through my feathers. It's the gold dust that will make me glitter like the heavens once I get outside amongst the lanterns.",
+
+"It makes me nervous that such a large crowd will be lining the streets (so much attention), but proud too.
+
+Stargazer Zolin and the lesser priests will escort me in the Procession to the base of the Celestial Tower, and then the others will fall away and Stargazer Zolin and I will precede up the tower alone (followed by the attendants).
+
+When we reach the top of the tower the Stargazer will speak the words of Kluex, and as the sun rises I'll leap.",
+
+"I can't wait to spread my wings and greet the air! My body falling away beneath me... I give it so happily! Once it lands it will be taken, and treated, and placed in the tomb stacks, amongst the vessels of my fellow Ascendants.
+
+I can barely take an interest in it. My soul, my essence, my very self will be untethered! Free to soar; to join Kluex \"as part and whole\"! I hear the wind calling me, it is Kluex's voice."
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

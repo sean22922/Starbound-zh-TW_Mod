@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cellmatter", "count" : 25 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "celltable", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

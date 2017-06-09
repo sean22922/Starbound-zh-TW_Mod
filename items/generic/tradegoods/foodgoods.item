@@ -1,0 +1,9 @@
+{
+  "itemName" : "foodgoods",
+  "rarity" : "common",
+  "category" : "tradeGoods",
+  "inventoryIcon" : "foodgoods.png",
+  "description" : "A sealed crate of foods and ingredients, valuable for interstellar trade.",
+  "shortdescription" : "Food Rations",
+  "price" : 100
+}

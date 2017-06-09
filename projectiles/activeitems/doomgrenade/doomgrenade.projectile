@@ -1,0 +1,21 @@
+{
+  "projectileName" : "doomgrenade",
+  "image" : "doomgrenade.png",
+  "fullbright" : true,
+  "animationCycle" : 0.25,
+  "frameNumber" : 2,
+  "physics" : "grenade",
+  "timeToLive" : 4,
+  "bounces" : 0,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/doomgrenadeexplosion/doomgrenadeexplosion.config"
+    }
+  ],
+  "power" : 0.0,
+  "speed" : 45,
+  "lightColor" : [150, 20, 20],
+  "damageType" : "NoDamage",
+  "damageKind" : "plasma"
+}

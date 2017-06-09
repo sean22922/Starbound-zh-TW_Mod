@@ -1,0 +1,9 @@
+{
+  "name" : "largeroundbody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "largeroundbody.png"
+  }
+}

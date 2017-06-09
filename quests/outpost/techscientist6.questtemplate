@@ -1,0 +1,55 @@
+{
+  "id" : "techscientist6",
+  "prerequisites" : [ "techscientist5" ],
+  "title" : "^orange;Getting The Ball Rolling",
+  "text" : "My ^orange;Distortion Sphere Tech^white; is ready to roll! I'd like you to ^green;test it on the new obstacle course^white; I've set up. You should have no problems getting into any of the narrow spaces inside. ^green;Talk to me again when you're ready to go in.",
+  "completionText" : "Excellent! The ^orange;Distortion Sphere Tech^white; performed just as I'd hoped it would. Please, keep it - thanks to you I've been able to make significant strides in my research!",
+  "moneyRange" : [300, 300],
+  "rewards" : [],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Elliott^reset; to enter the ^orange;obsctacle course^reset;",
+      "findGoal" : "Complete the ^orange;Distortion Sphere Tech obstacle course^reset;",
+      "turnIn" : "Return to ^orange;Elliott^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "techlabscientist",
+    "warpAction" : "instanceworld:techchallenge_morphball",
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:techscientist_morphball",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 10,
+    "goalEntityUid" : "morphballchallengeteleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "techlabscientist",
+
+    // Completion actions
+    "showTech" : [
+      "aquasphere",
+      "sonicsphere",
+      "spikesphere"
+    ],
+
+    "equipTech" : [
+      "distortionsphere"
+    ],
+
+    "setUniverseFlags" : ["outpost_techscientist2"]
+  }
+}

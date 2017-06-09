@@ -1,0 +1,155 @@
+{
+  "name" : "toxickelpy",
+  "shape" : "toxickelp",
+
+  "dropConfig" : {
+    "drops" : [
+      [ { "item" : "sapling" } ]
+    ],
+    
+    "particles" : {
+      "breakTree" : {
+        "density" : 3,
+        "options" : [
+          {
+            "color" : [236, 127, 151],
+            "timeToLive" : 10
+          },
+          {
+            "color" : [248, 199, 209],
+            "timeToLive" : 10
+          },
+          {
+            "color" : [254, 227, 236],
+            "timeToLive" : 10
+          }
+        ]
+      },
+      "hitGround" : {
+        "density" : 3,
+        "options" : [
+          {
+            "color" : [236, 127, 151],
+            "timeToLive" : 10,
+            "initial" : "upwards"
+          },
+          {
+            "color" : [248, 199, 209],
+            "timeToLive" : 10,
+            "initial" : "upwards"
+          },
+          {
+            "color" : [254, 227, 236],
+            "timeToLive" : 10,
+            "initial" : "upwards"
+          }
+        ]
+      }
+    }
+  },
+
+  "parallaxFoliage" : true,
+  
+  "crownLeaves" : {
+    "crown1" : {
+      "image" : "crownfoliage1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown2" : {
+      "image" : "crownfoliage2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown3" : {
+      "image" : "crownfoliage3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "crown4" : {
+      "image" : "crownfoliage3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  },
+  "branchLeaves" : {
+    "branch1" : {
+      "image" : "foliage1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "branch2" : {
+      "image" : "foliage2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "branch3" : {
+      "image" : "foliage3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "branch4" : {
+      "image" : "foliage4.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  },
+  "baseLeaves" : {
+    "base1" : {
+      "image" : "basefoliage1.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "base2" : {
+      "image" : "basefoliage2.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "base3" : {
+      "image" : "basefoliage3.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    },
+    "base4" : {
+      "image" : "basefoliage4.png",
+      "backimage" : "",
+      "attachment" : {
+        "bx" : 0,
+        "by" : 0
+      }
+    }
+  }
+}

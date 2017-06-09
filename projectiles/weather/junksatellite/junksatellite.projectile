@@ -1,0 +1,20 @@
+{
+  "projectileName" : "junksatellite",
+  "physics" : "grenadezbomb",
+  "bounces" : 0,
+  "image" : "junksatellite.png",
+  "animationCycle" : 1,
+  "lightColor" : [253, 160, 57],
+  "frameNumber" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bombblockexplosion/bombblockexplosion.config"
+    }
+  ],
+  "power" : 60,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "damagePoly" : [ [-24, -24], [24, -24], [24, 24], [-24, 24] ],
+  "emitters" : [ "sparks" ]
+}

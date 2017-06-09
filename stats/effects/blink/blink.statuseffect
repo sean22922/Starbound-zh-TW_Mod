@@ -1,0 +1,14 @@
+{
+  "name" : "blink",
+  "effectConfig" : {
+    "blinkOut" : true,
+    "blinkIn" : true
+  },
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "blink.lua"
+  ],
+
+  "animationConfig" : "blink.animation"
+}

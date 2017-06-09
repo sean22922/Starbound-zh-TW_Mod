@@ -1,0 +1,9 @@
+{
+  "name" : "snowbcritter",
+  "category" : "snowbcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

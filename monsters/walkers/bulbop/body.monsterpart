@@ -1,0 +1,9 @@
+{
+  "name" : "bulbop",
+  "category" : "bulbop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "bulbop.png"
+  }
+}

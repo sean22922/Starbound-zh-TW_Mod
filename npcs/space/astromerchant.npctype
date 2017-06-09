@@ -1,0 +1,43 @@
+{
+  "type" : "astromerchant",
+  "baseType" : "merchant",
+
+  "scriptConfig" : {
+    "questGenerator" : { "pools" : [], "enableParticipation" : false },
+
+    "merchant" : {
+      "waitTime" : 10,
+      "storeRadius" : -1,
+      "categories" : {
+        "override" : [ "astromerchant" ]
+      },
+      "buyFactorRange" : [ 0.7, 1.5 ],
+      "sellFactorRange" : [ 0.2, 0.2 ],
+      "numItems" : 5,
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : "  Astro Merchant",
+          "subtitle" : "  Sells astro furniture!"
+        }
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "back" : [
+              { "name" : "foundryforemanback", "parameters" : { "colorIndex" : [2] } }
+            ],
+            "chest" : [
+              { "name" : "spacesuitchest", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "legs" : [
+              { "name" : "spacesuitlegs", "parameters" : { "colorIndex" : [0] } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

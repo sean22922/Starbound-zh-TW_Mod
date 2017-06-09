@@ -1,0 +1,9 @@
+{
+  "name" : "glowingfishcritter",
+  "category" : "glowingfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

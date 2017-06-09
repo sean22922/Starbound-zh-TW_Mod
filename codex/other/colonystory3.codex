@@ -1,0 +1,22 @@
+{
+  "id" : "colonystory3",
+  "title" : "How I Became A Landlord 3",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "I'd met a Frogg merchant who'd set up shop on the Outpost selling furniture, he'd told me to come back to him if I ever wanted to try my hand at intergalactic real estate. So I planted a flag and hopped over there in my ship to see him. 
+
+He sold me a \"Colony Deed\" and told me to place it on the wall. Provided the house was well lit, furnished and structurally sound, an ad would be sent out and a suitable tenant would immediately take up residence.",
+
+"I was sceptical at first, but sure enough after filling the shack with furniture I'd looted from a Floran village (what can I say, I'm a sucker for the sticks 'n' bones aesthetic) I placed the deed on the wall and a complete stranger beamed right to where I was standing. 
+
+And so began my long and arduous relationship with the Floran known as Ambiri."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

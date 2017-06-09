@@ -1,0 +1,47 @@
+{
+  "type" : "researchcrewmate",
+  "baseType" : "guard",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/shipcrew.config:converse"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "industrialcrewhead", "parameters" : { "colorIndex" : [0] } },
+              { "name" : "scientisthead" },
+              { "name" : "scientisthead" },
+              { "name" : "scientisthead" },
+              "",
+              "",
+              ""
+            ],
+            "chest" : [
+              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [6] } }
+            ],
+            "legs" : [
+              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [6] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

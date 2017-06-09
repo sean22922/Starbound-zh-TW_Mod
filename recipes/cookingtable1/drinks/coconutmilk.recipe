@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "coconut", "count" : 1 }
+  ],
+  "output" : { "item" : "coconutmilk", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "coconutmilk" }
+}

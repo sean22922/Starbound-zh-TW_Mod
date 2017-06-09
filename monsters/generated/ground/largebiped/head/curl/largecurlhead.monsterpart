@@ -1,0 +1,13 @@
+{
+  "name" : "largecurlhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecurlhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

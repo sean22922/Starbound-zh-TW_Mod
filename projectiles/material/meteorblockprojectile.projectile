@@ -1,0 +1,25 @@
+{
+  "projectileName" : "meteorblockprojectile",
+  "physics" : "grenade",
+  "image" : "meteorblock.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "power" : 20,
+
+  "speed" : 45,
+
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosionnospark/regularexplosionnospark.config"
+    },
+    {
+      "action" : "tile",
+      "materials" : [
+        {"kind" : "meteoriterock"}
+      ]
+    }
+  ],
+  "damageKind" : "default",
+  "emitters" : [ "javelinred" ]
+}

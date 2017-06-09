@@ -1,0 +1,8 @@
+{
+  "name" : "eyeplant",
+  "description" : "A gross eyeball flower.",
+  "shortdescription" : "A gross eyeball flower.",
+  "floranDescription" : "Floran gaze into abysssss.",
+  "glitchDescription" : "Revulsion. A vile eye.",
+  "images" : [ "eyeplant1.png", "eyeplant2.png", "eyeplant3.png", "eyeplant4.png", "eyeplant5.png", "eyeplant6.png" ]
+}

@@ -1,0 +1,22 @@
+{
+  "projectileName" : "arenaflamestatus",
+  "image" : "invisibleprojectile.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "animationLoops" : false,
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "frameNumber" : 1,
+  "power" : 0,
+  "speed" : 25,
+  "timeToLive" : 0.9,
+  "bounces" : 4,
+  "piercing" : true,
+  "damagePoly" : [ [-7, 0], [-5, -5], [0, -7], [5, -5], [7, 0], [5, 5], [0, 7], [-5, 5] ],
+  "damageKind" : "nodamage",
+  "damageType" : "IgnoresDef",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "statusEffects" : [
+    {"effect": "enemyrage", "duration" : 15}
+  ],
+  "hydrophobic" : true
+}

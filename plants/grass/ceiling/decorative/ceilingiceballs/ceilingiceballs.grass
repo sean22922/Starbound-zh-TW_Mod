@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingiceballs",
+  "description" : "An icicle.",
+  "shortdescription" : "An icicle.",
+  "floranDescription" : "Sssharp ice.",
+  "glitchDescription" : "Statement. An icicle.",
+  "ceiling" : true,
+  "images" : [ "ceilingiceballs1.png", "ceilingiceballs2.png", "ceilingiceballs3.png", "ceilingiceballs4.png", "ceilingiceballs5.png" ]
+}

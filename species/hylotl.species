@@ -1,0 +1,176 @@
+{
+  "kind" : "hylotl",
+
+  "charCreationTooltip" : {
+      "title" : "Hylotl",
+      "subTitle" : "H2O",
+      "description" : "The peaceful Hylotl place great value on ancestral tradition and take great comfort in the arts. Originally dwelling on land, their passive nature made them easy prey for the Florans and they were driven beneath the waves, where they now thrive."
+  },
+
+  "nameGen" : [ "/species/hylotlmalenamegen.config:names", "/species/hylotlfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/hylotlhurt_male1.ogg", "/sfx/humanoid/hylotlhurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Skin colour", "Fins", "Shirt", "Legwear", "Belly colour", "Fin colour", "Shirt colour", "Legwear colour", "HYLOTL", "Personality" ],
+  "skull" : "/humanoid/hylotl/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=80b3ffFF?replace=31a6ffFF=5476f0FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flaghylotl" },
+
+// Anvil
+      { "item" : "hylotltier1head" },
+      { "item" : "hylotltier1chest" },
+      { "item" : "hylotltier1pants" },
+      { "item" : "hylotltier2head" },
+      { "item" : "hylotltier2chest" },
+      { "item" : "hylotltier2pants" },
+
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+
+// Anvil2
+      { "item" : "hylotltier3head" },
+      { "item" : "hylotltier3chest" },
+      { "item" : "hylotltier3pants" },
+      { "item" : "hylotltier4head" },
+      { "item" : "hylotltier4chest" },
+      { "item" : "hylotltier4pants" },
+
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+
+// Anvil3
+      { "item" : "hylotltier5ahead" },
+      { "item" : "hylotltier5achest" },
+      { "item" : "hylotltier5apants" },
+      { "item" : "hylotltier6ahead" },
+      { "item" : "hylotltier6achest" },
+      { "item" : "hylotltier6apants" },
+
+      { "item" : "hylotltier5mhead" },
+      { "item" : "hylotltier5mchest" },
+      { "item" : "hylotltier5mpants" },
+      { "item" : "hylotltier6mhead" },
+      { "item" : "hylotltier6mchest" },
+      { "item" : "hylotltier6mpants" },
+
+      { "item" : "hylotltier5shead" },
+      { "item" : "hylotltier5schest" },
+      { "item" : "hylotltier5spants" },
+      { "item" : "hylotltier6shead" },
+      { "item" : "hylotltier6schest" },
+      { "item" : "hylotltier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "hylotlstoragelocker" },
+      { "item" : "hylotlshipdoor" },
+      { "item" : "hylotlshiphatch" },
+
+// Spinning Wheel
+      { "item" : "kimonochest" },
+      { "item" : "kimonolegs" },
+      { "item" : "monkchest" },
+      { "item" : "monklegs" },
+      { "item" : "traditionalchest" },
+      { "item" : "traditionallegs" },
+      { "item" : "traineechest" },
+      { "item" : "traineelegs" }
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+      "characterImage" : "/interface/title/aquaticmale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48" ],
+      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "kimonolegs", "monklegs", "traineelegs", "traditionallegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+      "characterImage" : "/interface/title/aquaticfemale.png",
+      "hair" : [ "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40", "41", "42", "43", "44", "45", "46", "47", "48" ],
+      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "kimonolegs", "monklegs", "traineelegs", "traditionallegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "ffca8a" : "FFB0A3", "e0975c" : "FC8469", "a85636" : "BE424D", "6f2919" : "782027" },
+    { "ffca8a" : "FFEBC2", "e0975c" : "F6B060", "a85636" : "B37F34", "6f2919" : "6D5013" },
+    { "ffca8a" : "DFCFB3", "e0975c" : "C7AE76", "a85636" : "94824F", "6f2919" : "5A512B" },
+    { "ffca8a" : "F1EABB", "e0975c" : "D8D077", "a85636" : "A09E4E", "6f2919" : "5F6229" },
+    { "ffca8a" : "DBF4B8", "e0975c" : "A4D66B", "a85636" : "6F9E47", "6f2919" : "426D26" },
+    { "ffca8a" : "B3C89E", "e0975c" : "82AB5F", "a85636" : "547A3C", "6f2919" : "2D4F1D" },
+    { "ffca8a" : "B8F4BB", "e0975c" : "72DD7E", "a85636" : "4AA559", "6f2919" : "266535" },
+    { "ffca8a" : "B8F4D9", "e0975c" : "72DDB3", "a85636" : "4AA586", "6f2919" : "266554" },
+    { "ffca8a" : "B1F1FE", "e0975c" : "5DD1EC", "a85636" : "3491AA", "6f2919" : "196072" },
+    { "ffca8a" : "B5C2FA", "e0975c" : "758BF8", "a85636" : "4A5BA5", "6f2919" : "272665" },
+    { "ffca8a" : "E2B2FF", "e0975c" : "B374D4", "a85636" : "7C4992", "6f2919" : "4B2655" },
+    { "ffca8a" : "FDD8F2", "e0975c" : "F1AFDF", "a85636" : "D67EC1", "6f2919" : "AF579A" },
+    { "ffca8a" : "F9D9DA", "e0975c" : "EAB2B5", "a85636" : "CC8288", "6f2919" : "A55B61" },
+    { "ffca8a" : "B8B0A8", "e0975c" : "967E6E", "a85636" : "654D43", "6f2919" : "372720" },
+    { "ffca8a" : "9E9B94", "e0975c" : "767162", "a85636" : "3F3C2E", "6f2919" : "1E1400" },
+    { "ffca8a" : "FFFFFF", "e0975c" : "D7D5DB", "a85636" : "8E8E9B", "6f2919" : "6D6D6D" }
+  ],
+  "undyColor" : [
+    { "f32200" : "FFDCC4", "dc1f00" : "FFB98F", "be1b00" : "C1695F", "951500" : "7E3F38" },
+    { "f32200" : "FFFFE7", "dc1f00" : "FFE48E", "be1b00" : "C1AA5C", "951500" : "7C7135" },
+    { "f32200" : "F6F0D3", "dc1f00" : "DAD39B", "be1b00" : "A7A270", "951500" : "6B6B47" },
+    { "f32200" : "FFFFE0", "dc1f00" : "E7EFA1", "be1b00" : "ABB573", "951500" : "697447" },
+    { "f32200" : "EEFFDC", "dc1f00" : "B1E994", "be1b00" : "7CAD69", "951500" : "4F7B43" },
+    { "f32200" : "C7DEBC", "dc1f00" : "90BC80", "be1b00" : "648B5A", "951500" : "3A5D35" },
+    { "f32200" : "DAFFE5", "dc1f00" : "97ECB0", "be1b00" : "6BB383", "951500" : "417356" },
+    { "f32200" : "DBFFFE", "dc1f00" : "99EEDB", "be1b00" : "6DB4A9", "951500" : "427470" },
+    { "f32200" : "D4FDFF", "dc1f00" : "85CCF5", "be1b00" : "558DB2", "951500" : "36627C" },
+    { "f32200" : "D0D0FF", "dc1f00" : "9290F8", "be1b00" : "6060A9", "951500" : "43396B" },
+    { "f32200" : "FFD1FF", "dc1f00" : "D191DE", "be1b00" : "95629C", "951500" : "603B61" },
+    { "f32200" : "FFF4FF", "dc1f00" : "FFCDEA", "be1b00" : "E19CC4", "951500" : "B8739B" },
+    { "f32200" : "FFFAF6", "dc1f00" : "FBD5CF", "be1b00" : "D9A49E", "951500" : "B07B74" },
+    { "f32200" : "CECBC2", "dc1f00" : "A89B89", "be1b00" : "74665A", "951500" : "463D34" },
+    { "f32200" : "B4B3AD", "dc1f00" : "8A897A", "be1b00" : "4E4F42", "951500" : "2C2915" },
+    { "f32200" : "FFFFFF", "dc1f00" : "F2EFF3", "be1b00" : "A6A4AE", "951500" : "818181" }
+  ],
+  "hairColor" : [
+    { "f7e7b2" : "FFB0A3", "d9c189" : "FC8469", "a38d59" : "BE424D", "735e3a" : "782027" },
+    { "f7e7b2" : "FFEBC2", "d9c189" : "F6B060", "a38d59" : "B37F34", "735e3a" : "6D5013" },
+    { "f7e7b2" : "DFCFB3", "d9c189" : "C7AE76", "a38d59" : "94824F", "735e3a" : "5A512B" },
+    { "f7e7b2" : "F1EABB", "d9c189" : "D8D077", "a38d59" : "A09E4E", "735e3a" : "5F6229" },
+    { "f7e7b2" : "DBF4B8", "d9c189" : "A4D66B", "a38d59" : "6F9E47", "735e3a" : "426D26" },
+    { "f7e7b2" : "B3C89E", "d9c189" : "82AB5F", "a38d59" : "547A3C", "735e3a" : "2D4F1D" },
+    { "f7e7b2" : "B8F4BB", "d9c189" : "72DD7E", "a38d59" : "4AA559", "735e3a" : "266535" },
+    { "f7e7b2" : "B8F4D9", "d9c189" : "72DDB3", "a38d59" : "4AA586", "735e3a" : "266554" },
+    { "f7e7b2" : "B1F1FE", "d9c189" : "5DD1EC", "a38d59" : "3491AA", "735e3a" : "196072" },
+    { "f7e7b2" : "B5C2FA", "d9c189" : "758BF8", "a38d59" : "4A5BA5", "735e3a" : "272665" },
+    { "f7e7b2" : "E2B2FF", "d9c189" : "B374D4", "a38d59" : "7C4992", "735e3a" : "4B2655" },
+    { "f7e7b2" : "FDD8F2", "d9c189" : "F1AFDF", "a38d59" : "D67EC1", "735e3a" : "AF579A" },
+    { "f7e7b2" : "F9D9DA", "d9c189" : "EAB2B5", "a38d59" : "CC8288", "735e3a" : "A55B61" },
+    { "f7e7b2" : "B8B0A8", "d9c189" : "967E6E", "a38d59" : "654D43", "735e3a" : "372720" },
+    { "f7e7b2" : "9E9B94", "d9c189" : "767162", "a38d59" : "3F3C2E", "735e3a" : "1E1400" },
+    { "f7e7b2" : "FFFFFF", "d9c189" : "D7D5DB", "a38d59" : "8E8E9B", "735e3a" : "6D6D6D" }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "projectileName" : "firepart5",
+  "physics" : "firespread",
+  "bounces" : -1,
+  "timeToLive" : 7,
+  "speed" : 30,
+  "image" : "firepart5.png",
+  "animationCycle" : 0.55,
+  "lightColor" : [235, 126, 2],
+  "frameNumber" : 4,
+  "emitters" : [ "fireflames" ],
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "hydrophobic" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/fireexplosion/fireexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "firefinish",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.0,
+      "angleAdjust" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "firefinish",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 0.0,
+      "angleAdjust" : 135
+    }
+  ],
+  "damageKind" : "fire",
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "statusEffects" : [
+    "burning"
+  ]
+}

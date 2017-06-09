@@ -1,0 +1,16 @@
+{
+  "id" : "avianhistory7",
+  "species" : "avian",
+  "title" : "A Pilgrimage to Avos",
+  "description" : "A page from the diary of a devout Avian.",
+  "icon" : "aviancover1.png",
+  "contentPages" : [
+    "Like most Avians I was not born on Avos, but grew up surrounded by tales of our homeworld. For as long as I could remember I dreamed that I would one day travel there. It took many years of hard work and discipline to afford the trip, a crucial part of an Avian's pilgrimage.
+
+Finally I made the long journey, and I was truly rewarded. The beauty of Avos is unrivalled in this universe, as Avos once dwelt in the Aether within the wings of Kluex."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

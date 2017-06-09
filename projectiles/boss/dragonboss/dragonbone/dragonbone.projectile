@@ -1,0 +1,62 @@
+{
+  "projectileName" : "dragonbone",
+  "image" : "dragonbone.png",
+  "physics" : "dragonbone",
+  "animationCycle" : 2,
+  "frameNumber" : 1,
+  "renderLayer" : "Object+1",
+  "power" : 0,
+  "speed" : 30,
+  "piercing" : true,
+  "initialVelocity" : 50,
+  "timeToLive" : 100,
+  "bounces" : -1,
+  "orientationLocked" : true,
+  "actionOnReap" : [
+      {
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+              "type" : "textured",
+              "image" : "/particles/shellshard/shellshard1.png",
+              "size" : 0.5,
+              "color" : [255, 255, 255, 255],
+              "fade" : 0,
+              "initialVelocity" : [0.0, 0.0],
+              "finalVelocity" : [0.0, 0.0],
+              "rotation" : 0,
+              "angularVelocity" : 0,
+              "timeToLive" : 0.2,
+              "destructionAction" : "shrink",
+              "destructionTime" : 0.5,
+              "layer" : "front",
+              "variance" : {
+                "initialVelocity" : [15,15],
+                "size" : 0.2,
+                "rotation" : 180,
+                "angularVelocity" : 180
+              }
+          }
+        }
+      ]
+    }
+  ],
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/melee/fist_hit_metal1_quiet.ogg",
+        "/sfx/melee/fist_hit_metal2_quiet.ogg",
+        "/sfx/melee/fist_hit_metal3_quiet.ogg",
+        "/sfx/melee/fist_hit_metal4_quiet.ogg",
+        "/sfx/melee/fist_hit_metal5_quiet.ogg",
+        "/sfx/melee/fist_hit_metal6_quiet.ogg"
+      ]
+    }
+  ]
+}

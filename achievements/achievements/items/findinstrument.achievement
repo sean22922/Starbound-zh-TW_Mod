@@ -1,0 +1,16 @@
+{
+  "name" : "findinstrument",
+
+  "triggers" : [
+    "item.category.musicalInstrument"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.musicalInstrument",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "symbiotecritter",
+  "category" : "symbiotecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

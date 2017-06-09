@@ -1,0 +1,21 @@
+{
+  "projectileName" : "paintballpurple",
+  "image" : "paintballpurple.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/paintexplosionpurple/paintexplosionpurple.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 60,
+  "damageKind" : "default",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "statusEffects" : [
+    "colorpurple"
+  ]
+}

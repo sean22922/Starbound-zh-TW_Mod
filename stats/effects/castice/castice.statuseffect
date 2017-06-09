@@ -1,0 +1,12 @@
+{
+  "name" : "castice",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "castice.lua"
+  ],
+
+  "animationConfig" : "castice.animation"
+}

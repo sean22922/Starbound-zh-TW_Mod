@@ -1,0 +1,15 @@
+{
+  "name" : "largedragonhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largedragonhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1.4, -0.2]
+  }
+}

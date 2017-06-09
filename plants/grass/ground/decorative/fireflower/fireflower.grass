@@ -1,0 +1,8 @@
+{
+  "name" : "fireflower",
+  "description" : "A vibrant fire flower.",
+  "shortdescription" : "A fire flower.",
+  "floranDescription" : "Burny flower confuse Floran.",
+  "glitchDescription" : "Statement. A fire flower.",
+  "images" : [ "fireflower1.png", "fireflower2.png", "fireflower3.png", "fireflower4.png", "fireflower5.png" ]
+}

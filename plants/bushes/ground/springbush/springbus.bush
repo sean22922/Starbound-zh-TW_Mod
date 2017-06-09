@@ -1,0 +1,18 @@
+{
+  "name" : "springbush",
+  "description" : "Flowery.",
+  "shortdescription" : "Flowery.",
+  "floranDescription" : "Flowersss.",
+  "glitchDescription" : "Statement. Flowers.",
+  "shapes" : [
+    {
+      "base" : "springbush1.png"
+    },
+    {
+      "base" : "springbush2.png"
+    },
+    {
+      "base" : "springbush3.png"
+    }
+  ]
+}

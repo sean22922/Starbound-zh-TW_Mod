@@ -1,0 +1,13 @@
+{
+  "projectileName" : "generatorexplosion",
+  "image" : "generatorexplosion.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 6,
+  "speed" : 0,
+  "damagePoly" : [ [-72, 0], [-54, -24], [0, -32], [54, -24], [72, 0], [54, 24], [0, 32], [-54, 24] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageKind" : "default"
+}

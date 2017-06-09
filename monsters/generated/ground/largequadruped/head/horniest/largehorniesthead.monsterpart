@@ -1,0 +1,15 @@
+{
+  "name" : "largehorniesthead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largehorniesthead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1.45, -1.2]
+  }
+}

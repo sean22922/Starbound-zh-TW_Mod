@@ -1,0 +1,15 @@
+{
+  "name" : "largecentaurhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecentaurhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1.5, 0.6]
+  }
+}

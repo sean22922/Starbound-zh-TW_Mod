@@ -1,0 +1,21 @@
+{
+  "projectileName" : "fireplasmaimpactgrenadestatus",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive" : 3,
+  "damageKindImage" : "fireicon.png",
+  "pointLight" : true,
+  "lightColor" : [80, 60, 40],
+  "image" : "fireplasmaimpactgrenade.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/fireexplosionknockbackstatus.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "fireplasma"
+}

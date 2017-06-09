@@ -1,0 +1,21 @@
+{
+  "name" : "sprint",
+  "type" : "body",
+
+  "scripts" : ["sprint.lua"],
+  "animator" : "sprint.animation",
+
+  "description" : "Replaces the dash with a sprint which costs energy!",
+  "shortDescription" : "Sprint",
+  "rarity" : "Legendary",
+  "icon" : "/tech/sprint.png",
+
+  "chipCost" : 8,
+
+  "energyCostPerSecond" : 15,
+  "maximumDoubleTapTime" : 0.25,
+  "dashControlForce" : 1000,
+  "dashSpeedModifier" : 1.6,
+  "stopAfterDash" : true,
+  "groundOnly" : true
+}

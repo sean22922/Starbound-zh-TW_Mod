@@ -1,0 +1,9 @@
+{
+  "name" : "trictus",
+  "category" : "trictus",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "trictus.png"
+  }
+}

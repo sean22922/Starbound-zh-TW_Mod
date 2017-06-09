@@ -1,0 +1,25 @@
+{
+  "projectileName" : "firefinish",
+  "physics" : "firespread",
+  "bounces" : -1,
+  "timeToLive" : 7,
+  "speed" : 15,
+  "image" : "firefinish.png",
+  "animationCycle" : 0.55,
+  "emitters" : [ "fireflames" ],
+  "lightColor" : [235, 126, 2],
+  "frameNumber" : 4,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "hydrophobic" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "damageKind" : "fire",
+  "damageKindImage" : "/interface/statuses/fire.png",
+  "statusEffects" : [
+    "burning"
+  ]
+}

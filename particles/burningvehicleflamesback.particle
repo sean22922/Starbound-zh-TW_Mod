@@ -1,0 +1,19 @@
+{
+  "kind" : "burningvehicleflamesback",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/mediumflame/mediumflame.animation",
+    "approach" : [0.5, 0.5],
+    "timeToLive" : 0.6,
+    "light" : [253, 143, 77],
+    "layer" : "back",
+    "destructionAction" : "fade",
+    "destructionTime" : 0.5,
+    "variance" : {
+        "position" : [1.5, 1.5],
+        "initialVelocity" : [1, 1],
+        "timeToLive" : 0.15,
+        "rotation" : 180
+    }
+  }
+}

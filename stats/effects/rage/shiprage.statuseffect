@@ -1,0 +1,17 @@
+{
+  "name" : "shiprage",
+  "effectConfig" : {
+    "powerModifier" : 1.30,
+    "particles" : false
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "rage.lua"
+  ],
+
+  "animationConfig" : "rage.animation",
+
+  "label" : "Rage",
+  "icon" : "/interface/statuses/rage.png"
+}

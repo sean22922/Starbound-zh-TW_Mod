@@ -1,0 +1,27 @@
+{
+  "animatedParts" : {
+    "parts" : {
+      "base" : {
+        "properties" : {
+          "centered" : false,
+          "image" : "<partImage>"
+        }
+      },
+      "wheel" : {
+        "properties" : {
+          "centered" : false,
+          "offset" : [0, 6.5],
+          "image" : "<partImage>",
+          "zLevel" : 1,
+          "transformationGroups" : ["wheel"]
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "wheel" : {
+      "interpolated" : true
+    }
+  }
+}

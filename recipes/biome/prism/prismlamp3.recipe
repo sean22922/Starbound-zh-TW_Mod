@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "prisiliteore", "count" : 4 },
+    { "item" : "glass", "count" : 4 },
+    { "item" : "refinedferozium", "count" : 1 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "prismlamp3", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

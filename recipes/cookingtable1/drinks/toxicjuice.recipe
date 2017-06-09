@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "toxictop", "count" : 1 },
+    { "item" : "alienfruit", "count" : 1 }
+  ],
+  "output" : { "item" : "toxicjuice", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "toxicjuice" }
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "handlike",
+  "description" : "A root that looks like a hand.",
+  "shortdescription" : "A root that looks like a hand.",
+  "floranDescription" : "Grabby root.",
+  "glitchDescription" : "Statement. A root that resembles a hand.",
+  "images" : [ "handlike1.png", "handlike2.png", "handlike3.png", "handlike4.png", "handlike5.png", "handlike6.png" ]
+}

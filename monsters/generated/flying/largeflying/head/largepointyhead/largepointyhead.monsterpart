@@ -1,0 +1,9 @@
+{
+  "name" : "largepointyhead",
+  "category" : "largeflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largepointyhead.png"
+  }
+}

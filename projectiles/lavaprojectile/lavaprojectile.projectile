@@ -1,0 +1,164 @@
+{
+  "projectileName" : "lavaprojectile",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 0.001,
+  "damageKindImage" : "icon.png",
+  "image" : "lavaballoon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "speed" : 45,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -20
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -40
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 60
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -80
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -100
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -120
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -140
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : -180
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 20
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 40
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 60
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 80
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 100
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 120
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 140
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 30
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 50
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 70
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "lavaballoon",
+      "fuzzAngle" : 0,
+      "angleAdjust" : 10
+    }
+  ],
+  "power" : 0,
+  "piercing" : true,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-36, 0], [-24, -24], [0, -36], [24, -24], [36, 0], [24, 24], [0, 36], [-24, 24] ],
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" }
+}

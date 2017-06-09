@@ -1,0 +1,25 @@
+{
+  "projectileName" : "fireplasmarocketstatus",
+  "image" : "fireplasmarocket.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "fallSpeed" : 0,
+  "lightColor" : [115, 119, 38],
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/fireexplosionknockbackstatus.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "emitters" : [ "fireplasma", "smoke", "flames" ],
+  "flippable" : true,
+  "power" : 10.0,
+  "speed" : 1.0,
+  "acceleration" : 150,
+  "physics" : "rocket",
+  "damageType" : "NoDamage",
+  "damageKind" : "fireplasma"
+}

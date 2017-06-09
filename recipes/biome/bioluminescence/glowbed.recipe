@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "glowfibre", "count" : 25 },
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "fabric", "count" : 10 },
+    { "item" : "purpledye", "count" : 1 }
+  ],
+  "output" : { "item" : "glowbed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

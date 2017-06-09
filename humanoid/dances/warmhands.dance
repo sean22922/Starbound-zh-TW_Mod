@@ -1,0 +1,12 @@
+{
+  "name" : "warmhands",
+  "states" : ["idle","sit"],
+  "cycle" : 1.0,
+  "cyclic" : true,
+  "duration" : 4.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "rotation", "rotation", [0, 0], [1, -2], [-1, -2] ],
+    [ null, "rotation", "rotation", [0, 0], [1, -3], [-1, -1] ]
+  ]
+}

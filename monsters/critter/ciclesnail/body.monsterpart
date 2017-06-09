@@ -1,0 +1,9 @@
+{
+  "name" : "ciclesnailcritter",
+  "category" : "ciclesnailcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

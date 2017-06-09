@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "brickmaterial", "count" : 1 },
+    { "item" : "browndye", "count" : 1 }    
+
+  ],
+  "output" : { "item" : "homewalls1", "count" : 50 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

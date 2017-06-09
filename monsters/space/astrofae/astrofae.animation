@@ -1,0 +1,181 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "body" : {
+        "priority" : 0,
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "loop",
+            "properties" : {
+              "particleEmittersOff" : [ "drips", "smoke" ]
+            }
+          },
+          "ground" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "loop",
+            "properties" : {
+              "particleEmittersOn" : [ "drips" ],
+              "particleEmittersOff" : [ "smoke" ]
+            }
+          },
+          "fly" : {
+            "frames" : 5,
+            "cycle" : 0.5,
+            "mode" : "loop",
+            "properties" : {
+              "particleEmittersOff" : [ "drips" ],
+              "particleEmittersOn" : [ "smoke" ],
+              "persistentSound" : "/sfx/tech/mech_jetpack_loop4.ogg",
+              "persistentSoundStopTime" : 0.15,
+              "persistentSoundRangeMultiplier" : 0.5
+            }
+          }
+        }
+      },
+      "damage" : {
+        "priority" : 3,
+        "default" : "none",
+        "states" : {
+          "none" : {
+            "frames" : 1
+          },
+          "stunned" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "transformationGroups" : [ "facing", "body" ],
+          "offset" : [0.25, 0.875]
+        },
+        "partStates" : {
+          "body" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "ground" : {
+              "properties" : {
+                "image" : "<partImage>:ground.<frame>"
+              }
+            },
+            "fly" : {
+              "properties" : {
+                "image" : "<partImage>:fly.<frame>"
+              }
+            }
+          },
+          "damage" : {
+            "stunned" : {
+              "properties" : {
+                "image" : "<partImage>:hurt.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "body" : { "interpolated" : true },
+    "facing" : { "interpolated" : false }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0,
+      "directives" : "fade=ffffff;0.5"
+    }
+  },
+
+  "particleEmitters" : {
+    "deathPoof" : {
+      "particles" : [
+        { "particle" : "monstersplosion" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathfizz1left" },
+        { "particle" : "deathfizz1right" },
+        { "particle" : "deathfizz2left" },
+        { "particle" : "deathfizz2right" },
+        { "particle" : "deathfizz3left" },
+        { "particle" : "deathfizz3right" },
+        { "particle" : "deathfizz4left" },
+        { "particle" : "deathfizz4right" }
+      ]
+    },
+    "drips" : {
+      "enabled" : true,
+      "emissionRate" : 5.0,
+      "offsetRegion" : [ -0.6875, -1.1875, 0.6875, 1.1875],
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.5,
+            "color" : [80, 221, 254, 230],
+            "fade" : 0.9,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.8,
+            "position" : [0.0, 0.0],
+            "offsetRegion" : [0, 0, 0, 0],
+            "initialVelocity" : [0, 0.0],
+            "finalVelocity" : [0, 0],
+            "approach" : [0, 0],
+            "timeToLive" : 0.6,
+            "variance" : {
+              "initialVelocity" : [2.0, 2.0],
+              "size" : 0.5
+            }
+          }
+        }
+      ]
+    },
+    "smoke" : {
+      "enabled" : false,
+      "emissionRate" : 15.0,
+      "offsetRegion" : [-1.5, -0.75, -1.5, -0.75],
+      "anchorPart" : "body",
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/dust2/dust2.animation",
+            "position" : [0, 0],
+            "initialVelocity" : [0, -15],
+            "finalVelocity" : [0, 0],
+            "approach" : [15, 15],
+            "destructionAction" : "fade",
+            "destructionTime" : 0.5,
+            "fade" : 1,
+            "size" : 1,
+            "layer" : "middle",
+            "timeToLive" : 0.5
+          }
+        }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "aggroHop" : [ "/sfx/npc/monsters/monster_surprise.ogg" ],
+    "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name" : "scorchedcity",
+  "swaps" : [
+      // Savannah, Volcanic, Scorched City - SUPER TAN //
+    {
+      "6f2919" : "574b38", "a85636" : "81725b", "e0975c" : "bdae97", "ffca8a" : "dfd3c1",
+      "735e3a" : "7F6D52", "a38d59" : "BFA27A", "d9c189" : "EFD5AB", "f7e7b2" : "F9E6CC",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Volcanic, Magma, Scorched City - DarkGrey Red //
+    {
+      "6f2919" : "171717", "a85636" : "515151", "e0975c" : "767676", "ffca8a" : "9f9f9f",
+      "735e3a" : "503224", "a38d59" : "965751", "d9c189" : "E07F7F", "f7e7b2" : "EFA4AE",
+      "951500" : "953800", "be1b00" : "be5000", "dc1f00" : "DC7C00", "f32200" : "F39B00"
+    },
+      // Volcanic, Scorched City - Light Grey RedTan //
+    {
+      "6f2919" : "4b4b4b", "a85636" : "828282", "e0975c" : "b6b6b6", "ffca8a" : "d9d9d9",
+      "735e3a" : "66452e", "a38d59" : "a47c56", "d9c189" : "d9aa7b", "f7e7b2" : "f7ddb0",
+      "951500" : "95004a", "be1b00" : "be005e", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Snow, Ice, Scorched City - Light Grey Yellow //
+    {
+      "6f2919" : "4b4b4b", "a85636" : "828282", "e0975c" : "b6b6b6", "ffca8a" : "d9d9d9",
+      "735e3a" : "6c5d22", "a38d59" : "b0a747", "d9c189" : "e2e189", "f7e7b2" : "f0f0c2",
+      "951500" : "954d00", "be1b00" : "be6b00", "dc1f00" : "dc9600", "f32200" : "f3b700"
+    },
+      // Jungle, Scorched City, Magma - Brown Grey'ish //
+    {
+      "6f2919" : "231717", "a85636" : "4C3C35", "e0975c" : "766559", "ffca8a" : "8E7A6C",
+      "735e3a" : "5F5B4B", "a38d59" : "939070", "d9c189" : "C2C2A0", "f7e7b2" : "E5E5D4",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Scorched City, Volcanic - Grey Burgandy //
+    {
+      "6f2919" : "4B4B4B", "a85636" : "828282", "e0975c" : "B6B6B6", "ffca8a" : "D9D9D9",
+      "735e3a" : "6F1936", "a38d59" : "A83651", "d9c189" : "E05C64", "f7e7b2" : "FF8E8A",
+      "951500" : "95004A", "be1b00" : "BE005E", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Desert, Alien, Volcanic, Scorched City - Dark Dark Black Brown //
+    {
+      "6f2919" : "171717", "a85636" : "262626", "e0975c" : "383838", "ffca8a" : "4C4C4C",
+      "735e3a" : "231717", "a38d59" : "4C3C35", "d9c189" : "766559", "f7e7b2" : "8E7A6C",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    }
+  ]
+}

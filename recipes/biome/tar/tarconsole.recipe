@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tar", "count" : 15 },
+    { "item" : "siliconboard", "count" : 2 },
+    { "item" : "smallbattery", "count" : 5 },
+    { "item" : "wire", "count" : 10 }
+  ],
+  "output" : { "item" : "tarconsole", "count" : 1 },
+  "groups" : [ "craftingwiring", "switches" ]
+}

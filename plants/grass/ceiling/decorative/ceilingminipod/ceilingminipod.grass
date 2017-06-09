@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingminipod",
+  "description" : "A plant-like pod.",
+  "shortdescription" : "A plant-like pod.",
+  "floranDescription" : "Plant pod.",
+  "glitchDescription" : "Statement. A plant like pod.",
+  "ceiling" : true,
+  "images" : [ "ceilingminipod1.png", "ceilingminipod2.png", "ceilingminipod3.png", "ceilingminipod4.png", "ceilingminipod5.png" ]
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "tarfast",
+  "definition" : {
+    "duration" : 0.2,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "tarfast1", "tarfast2", "tarfast1", "tarfast2", "tarfast3" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+      [ "tarfast1", "tarfast2", "tarfast1", "tarfast2", "tarfast3" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

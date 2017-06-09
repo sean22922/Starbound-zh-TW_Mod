@@ -1,0 +1,16 @@
+{
+  "projectileName" : "lightning",
+  "image" : "lightning.png",
+  "animationCycle" : 0.5,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 25,
+  "lightColor" : [2, 28, 93],
+  "timeToLive" : 0.3,
+  "bounces" : 1,
+  "piercing" : false,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "electric",
+  "emitters" : [ "electricplasma", "defaultblue" ]
+}

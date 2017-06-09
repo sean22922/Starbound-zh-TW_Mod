@@ -1,0 +1,9 @@
+{
+  "name" : "eyebossmiddleright",
+  "category" : "eyeboss",
+  "type" : "middleright",
+
+  "frames" : {
+    "middleright" : "middleright.png"
+  }
+}

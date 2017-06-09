@@ -1,0 +1,11 @@
+{
+  "name" : "rageaugment1",
+  "effectConfig" : {
+    "powerModifier" : 1.10
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "rageweak.lua"
+  ]
+}

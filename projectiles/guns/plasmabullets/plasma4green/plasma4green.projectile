@@ -1,0 +1,20 @@
+{
+  "projectileName" : "plasma4green",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "plasma4green.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 2,
+  "power" : 50,
+  "speed" : 75,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "lightColor" : [79, 128, 78],
+  "damageKind" : "plasma"
+}

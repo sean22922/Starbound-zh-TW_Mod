@@ -1,0 +1,29 @@
+{
+  "kind" : "electricpillar",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "iceshard", "iceshard", "iceshard", "electricswoosh1", "electricswoosh3", "electricswoosh2", "electricswoosh1", "electricswoosh3", "electricswoosh2", "electricswoosh1", "electricswoosh3", "electricswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "electricswoosh1", "electricswoosh3", "electricswoosh2", "electricswoosh1", "electricswoosh3", "electricswoosh2", "electricswoosh1", "electricswoosh3", "electricswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "electricswoosh4", "electricswoosh4", "electricswoosh4", "electricswoosh4", "electricswoosh4", "electricswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "projectileName" : "throwingboulder",
+  "image" : "throwingboulder.png",
+  "animationCycle" : 0.25,
+  "physics" : "grenadezbomb",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 60,
+  "damagePoly" : [ [-7, 0], [-5, -5], [0, -7], [5, -5], [7, 0], [5, 5], [0, 7], [-5, 5] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bouldersmashexplosion/bouldersmashexplosionuniversal.config"
+    }
+  ],
+  "power" : 8.0,
+  "damageKind" : "hammer",
+  "emitters" : [ "daggerblue" ]
+}
+
+

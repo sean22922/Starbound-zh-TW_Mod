@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "goldenplatform",
+    "count" : 20
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

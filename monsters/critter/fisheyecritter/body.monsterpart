@@ -1,0 +1,9 @@
+{
+  "name" : "fisheyecritter",
+  "category" : "fisheyecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

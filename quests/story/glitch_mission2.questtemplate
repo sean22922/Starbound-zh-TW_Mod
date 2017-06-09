@@ -1,0 +1,43 @@
+{
+  "id" : "glitch_mission2",
+  "mainQuest" : true,
+  "prerequisites" : [ "glitch_mission1" ],
+  "title" : "Fetch the Glitch Artifact",
+  "text" : "The ^orange;Glitch artifact^reset; is in a castle, under the care of a certain, slightly odd, Glitch. ^green;Would you go to his keep and talk to him^reset;, dear?",
+  "completionText" : "I'm so proud of you! After all you've done, I know that you're equal to the challenge we face. And as for the woman you fought again... ^orange;My old journal^white; might give you some answers.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["esthersjournal-codex", 1], [ "rewardbag", 1 ] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/artifact.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "associatedMission" : "missionglitch1",
+    "missionUnlockedCinema" : "/cinematics/coordinates.cinematic",
+    "missionRadioMessage" : {
+      "messageId" : "glitchmissionunlocked",
+      "unique" : false,
+      "text" : "I have received coordinates for ^orange;The Baron's Keep^reset;. ^green;Use the ship computer^reset; to access the location."
+    },
+
+    "descriptions"  : {
+      "artifact" : "Find the ^orange;artifact^reset; in the ^orange;old Glitch keep^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at ^orange;the Ark^reset;"
+    },
+
+    "artifactUid" : "glitchartifactaltar",
+    "artifactMessage" : "glitchArtifactTaken",
+
+    "estherUid" : "estheroutpost",
+
+    "artifactCinema" : "/cinematics/artifacts/glitchartifact.cinematic"
+  }
+}

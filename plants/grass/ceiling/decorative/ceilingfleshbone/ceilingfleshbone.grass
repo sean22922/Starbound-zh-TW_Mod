@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingfleshbone",
+  "description" : "A grotesque bone.",
+  "shortdescription" : "A grotesque bone.",
+  "floranDescription" : "Bonesss!",
+  "glitchDescription" : "Statement. A hanging bone.",
+  "ceiling" : true,
+  "images" : [ "ceilingfleshbone1.png", "ceilingfleshbone2.png", "ceilingfleshbone3.png", "ceilingfleshbone4.png", "ceilingfleshbone5.png" ]
+}

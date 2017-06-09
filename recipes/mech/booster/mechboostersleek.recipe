@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 20 },
+    { "item" : "salvagebooster", "count" : 30 },
+    { "item" : "salvagetier5", "count" : 20 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mechboostersleek", "count" : 1 },
+  "groups" : [ "craftingmech", "mechbooster" ]
+}

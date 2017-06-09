@@ -1,0 +1,8 @@
+{
+  "type" : "cultistflyingslashposition",
+
+  "scripts" : [
+  ],
+
+  "broadcastArea" : [-1, -1, 1, 1]
+}

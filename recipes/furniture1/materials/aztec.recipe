@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "sandstoneblock", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "aztecmaterial",
+    "count" : 10
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

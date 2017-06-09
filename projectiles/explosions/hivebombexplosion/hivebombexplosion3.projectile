@@ -1,0 +1,85 @@
+{
+  "projectileName" : "hivebombexplosion3",
+  "image" : "hivebombexplosion3.png",
+  "physics" : "grenade",
+  "animationCycle" : 0,
+  "frameNumber" : 1,
+  "speed" : 5,
+  "bounces" : -1,
+  "timeToLive" : 0.5,
+  "damagePoly" : [ ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageKind" : "default",
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/bugswarm3.ogg" ]
+    },
+    {
+      "action" : "projectile",
+      "type" : "hivebombexplosion4",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 135
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : -45
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : -90
+    },
+    {
+      "action" : "projectile",
+      "type" : "hiveswarm",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 1,
+      "angleAdjust" : -135
+    }
+  ]
+}

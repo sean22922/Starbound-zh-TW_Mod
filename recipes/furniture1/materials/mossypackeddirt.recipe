@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "dirtmaterial", "count" : 1 },
+    { "item" : "plantfibre", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "mossypackeddirt",
+    "count" : 50
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

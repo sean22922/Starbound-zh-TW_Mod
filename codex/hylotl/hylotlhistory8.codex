@@ -1,0 +1,15 @@
+{
+  "id" : "hylotlhistory8",
+  "species" : "hylotl",
+  "title" : "To Train the Warrior",
+  "description" : "A textbook describing the philosophy of a Hylotl warrior.",
+  "icon" : "hylotlcover1.png",
+  "contentPages" : [
+    "A Hylotl Warrior must be trained in many arts - not only those of the martial kind, that must be used in the defence of their kindred, but also those that serve to keep the fighter centred. Philosophy must be their refuge, so that they might come to understand the world, and their place within it. They must accept the notion that all living things are intertwined: should recognise themselves to be as mighty as the greatest beast, and as fragile as the smallest bug."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id" : "avianmission2",
+  "species" : "avian",
+  "title" : "The Gift",
+  "description" : "A written record of the creed of the Great Sovereign Temple.",
+  "icon" : "avianmission3.png",
+  "contentPages" : [
+    "My name is Papan, the last Stargazer of the Great Sovereign Temple. I leave tomorrow and commend the Temple to its ancient guards, and to a trustworthy caretaker.
+
+I write these words for posterity, as they will no longer be passed on beak to beak, Stargazer to Stargazer:
+
+\"This temple was built to house The Gift. An item of great wonder handed to us by Kluex; our great and heavenly god, who created the all.",
+
+"He gave us this Gift at the dawn of the universe, so that its power would make his people strong. It will remain here, it will remain safe, it will remain secret.\""
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

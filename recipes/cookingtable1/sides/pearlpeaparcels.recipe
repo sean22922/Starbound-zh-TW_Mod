@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "wartweed", "count" : 1 }
+  ],
+  "output" : { "item" : "pearlpeaparcels", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "pearlpeaparcels" }
+}

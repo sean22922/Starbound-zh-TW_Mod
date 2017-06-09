@@ -1,0 +1,102 @@
+{
+  "type" : "penguinscientist",
+  "baseType" : "outpostcivilian",
+
+  "damageTeamType" : "assistant",
+  "damageTeam" : 1,
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "Thanks for helping me test my mech, friendo! I'll see you back at my workshop!"
+          ]
+        }
+      }
+    },
+    "chatSounds" : {
+      "avian" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "apex" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "floran" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "glitch" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "human" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "hylotl" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      },
+      "default" : {
+        "male" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ],
+        "female" : [
+          "/sfx/humanoid/human_chatter_female1.ogg"
+        ]
+      }
+    }
+  },
+
+  "movementParameters" : {
+    "standingPoly" : [ [-0.75, -1.0], [-0.35, -1.5], [0.35, -1.5], [0.75, -1.0], [0.75, -0.25], [0.35, 0.25], [-0.35, 0.25], [-0.75, -0.25] ],
+    "crouchingPoly" : [ [-0.75, -1.0], [-0.35, -1.5], [0.35, -1.5], [0.75, -1.0], [0.75, -0.25], [0.35, 0.25], [-0.35, 0.25], [-0.75, -0.25] ]
+  },
+
+  "statusControllerSettings" : {
+    "stats" : {
+      "protection" : {
+        "baseValue" : 100.0
+      }
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "legs" : [ { "name" : "penguinglasses", "parameters" : { "colorIndex" : [0] } } ]
+          }
+        ] ]
+    ]
+  }
+}

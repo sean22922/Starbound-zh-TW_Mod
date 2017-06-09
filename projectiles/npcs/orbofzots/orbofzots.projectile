@@ -1,0 +1,99 @@
+{
+  "projectileName" : "orbofzots",
+  "image" : "orbofzots.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.01,
+  "physics" : "laser",
+  "flippable" : true,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "zotsorb",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.1,
+      "delaySteps" : 0,
+      "config" : {
+        "timeToLive" : 1.2
+      }
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 15
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 20
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 25
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 30
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 35
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 40
+    },
+    {
+      "action" : "projectile",
+      "type" : "zotszot",
+      "fuzzAngle" : 15,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 3,
+      "delaySteps" : 45
+    }
+  ],
+  "damagePoly" : [ ],
+  "power" : 0.0,
+  "damageKind" : "default"
+}

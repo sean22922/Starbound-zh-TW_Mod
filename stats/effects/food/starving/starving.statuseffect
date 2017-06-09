@@ -1,0 +1,20 @@
+{
+  "name" : "starving",
+  "effectConfig" : {
+    "starvationCompoundDamage" : 2,
+    "movementModifiers" : {
+      "speedModifier" : 0.85
+    },
+    "soundInterval" : 0.5
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "starving.lua"
+  ],
+
+  "animationConfig" : "starving.animation",
+
+  "label" : "Starving",
+  "icon" : "/interface/statuses/starving.png"
+}

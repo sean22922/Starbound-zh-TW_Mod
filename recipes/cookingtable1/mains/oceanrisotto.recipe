@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+    { "item" : "reefpod", "count" : 1 },
+    { "item" : "rawfish", "count" : 1 }
+  ],
+  "output" : { "item" : "oceanrisotto", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "oceanrisotto" }
+}

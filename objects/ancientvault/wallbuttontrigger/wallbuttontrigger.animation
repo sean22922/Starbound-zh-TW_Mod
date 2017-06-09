@@ -1,0 +1,17 @@
+{
+  "animatedParts" : {
+    "parts" : {
+      "button" : {
+        "properties" : {
+          "zLevel" : 2,
+          "centered" : true,
+          "image" : "<partImage>"
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "trigger" : [ "/sfx/objects/hiddenswitch1.ogg" ]
+  }
+}

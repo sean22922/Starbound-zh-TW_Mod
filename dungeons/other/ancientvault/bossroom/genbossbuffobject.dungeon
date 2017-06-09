@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "genbossbuffobject",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "genbossbuffobject" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "genbossbuffobject",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "genbossbuffobject.json" ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "kind" : "energyweapon",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.2,
+    "durationVariance" : 0.1,
+    "loops" : true,
+    "start" : {
+      "particles" : [ ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "energyblade" ], [ "energyblade2" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [ ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

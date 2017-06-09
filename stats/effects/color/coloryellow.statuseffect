@@ -1,0 +1,11 @@
+{
+  "name" : "coloryellow",
+  "effectConfig" : {
+    "color" : "CCCC00"
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "color.lua"
+  ]
+}

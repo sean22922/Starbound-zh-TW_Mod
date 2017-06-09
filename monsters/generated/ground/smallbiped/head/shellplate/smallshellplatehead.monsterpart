@@ -1,0 +1,13 @@
+{
+  "name" : "smallshellplatehead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallshellplatehead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

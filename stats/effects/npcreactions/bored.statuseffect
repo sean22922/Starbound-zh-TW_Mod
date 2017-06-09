@@ -1,0 +1,13 @@
+{
+  "name" : "bored",
+  "effectConfig" : {
+    "particleEmitters" : ["sleep"]
+  },
+  "defaultDuration" : 2,
+
+  "scripts" : [
+    "particlereaction.lua"
+  ],
+  
+  "animationConfig": "bored.animation"
+}

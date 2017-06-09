@@ -1,0 +1,16 @@
+{
+  // please don't modify this file, it's a generically configurable stagehand to be used by dungeons
+  "type" : "bossmusic",
+  "keepAlive" : true,
+
+  "scripts" : ["/stagehands/boss/bossmusic.lua"],
+  "scriptDelta" : 10,
+
+  "broadcastArea" : [-5, -5, 5, 5],
+
+  "music" : [],
+
+  "startFadeOutTime" : 2.0,
+  "fadeInTime" : 2.0,
+  "endFadeOutTime" : 2.0
+}

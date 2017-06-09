@@ -1,0 +1,15 @@
+{
+  "name" : "crystalDoubleBeamAttack",
+  "label" : "BEAMS OF HURT",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalDoubleBeamAttack.lua" ],
+    "crystalDoubleBeamAttack" : {
+      "skillTime" : 15,
+      "rotateInterval" : 15,
+        
+      "damagePerSecond" : 1000
+    }
+  }
+}

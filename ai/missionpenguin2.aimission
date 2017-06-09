@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionpenguin2",
+  "icon" : "weapontestingicon.png",
+  "missionWorld" : "penguinmission2",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Weapon Testing Site",
+      "repeatButtonText" : "Revisit Weapon Testing Site",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "The penguin scientist Dr. Akaggy requires your help testing a new weapon.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

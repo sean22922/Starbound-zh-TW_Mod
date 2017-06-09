@@ -1,0 +1,24 @@
+{
+  "id" : "apexhistory10",
+  "species" : "apex",
+  "title" : "Rebel Dispatch",
+  "description" : "A message between Apex rebel bases.",
+  "icon" : "apexcover4.png",
+  "contentPages" : [
+    "REBEL DISPATCH
+Base 8 to Bases 12, 11, 4
+
+SUBJECT: Interrupting Dissemination of Miniknog Propaganda
+Hereafter known as: Operation - PROCLAMATION
+
+Precondition: All Bases. Assault volunteers required. Target (Precinct 10) factory presses. Soldiers to destroy presses and printed stockpile.",
+
+"Request for provisions: Base 4. Charges, explosive materials. Grade C.
+
+Additional information: Operation - PROCLAMATION to be enacted in conjunction with Operation - BREACH."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

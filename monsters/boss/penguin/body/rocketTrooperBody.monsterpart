@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "penguinrockettrooper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

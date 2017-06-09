@@ -1,0 +1,12 @@
+{
+  "projectileName" : "crystallaser",
+  "image" : "crystallaser.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "lightColor" : [255, 0, 0],
+  "power" : 5.0,
+  "speed" : 50,
+  "damageKind" : "default"
+}

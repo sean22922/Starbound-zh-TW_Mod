@@ -1,0 +1,10 @@
+{
+  "name" : "largedragonwings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "largedragonbwing.png",
+    "frontWings" : "largedragonfwing.png"
+  }
+}

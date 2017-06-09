@@ -1,0 +1,15 @@
+{
+  "frameGrid" : {
+    "size" : [27, 19],
+    "dimensions" : [2, 2],
+
+    "names" : [
+      [ "idle.1", "blink.1" ],
+      [ "fire.1", "scan.1" ]
+    ]
+  },
+  "aliases" : {
+    "blink.2" : "idle.1",
+    "blink.3" : "blink.1"
+  }
+}

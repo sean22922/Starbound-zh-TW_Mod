@@ -1,0 +1,26 @@
+{
+  "projectileName" : "flamingwoodenarrow",
+  "physics" : "arrow",
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/gun/impact_arrow.ogg"
+      ]
+    }
+  ],
+  "image" : "woodenarrow.png",
+  "animationCycle" : 0.25,
+  "fullbright" : true,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "power" : 20,
+  "knockback" : 10,
+  "knockbackDirectional" : true,
+  "damageKind" : "firebow",
+  "timeToLive" : 10,
+  "pointLight" : false,
+  "lightColor" : [ 200, 100, 100 ],
+  "damagePoly" : [ [8, -0.2], [8.5, -0.2], [8.5, 0.2], [8, 0.2] ],
+  "emitters" : [ "arrowflames" ]
+}

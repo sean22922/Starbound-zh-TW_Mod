@@ -1,0 +1,16 @@
+{
+  "name" : "largecolony",
+
+  "triggers" : [
+    "tenantsOnWorld"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "tenantsOnWorld",
+      "op" : "atLeast",
+      "value" : 10
+    }
+  ]
+}

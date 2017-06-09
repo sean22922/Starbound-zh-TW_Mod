@@ -1,0 +1,9 @@
+{
+  "name" : "poofincritter",
+  "category" : "poofincritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

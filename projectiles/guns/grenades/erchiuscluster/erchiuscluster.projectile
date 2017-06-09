@@ -1,0 +1,19 @@
+{
+  "projectileName" : "erchiuscluster",
+  "physics" : "lowgravarc",
+  "bounces" : 0,
+  "timeToLive" : 3,
+  "image" : "erchiuscluster.png",
+  "lightColor" : [175, 89, 210],
+  "frameNumber" : 1,
+  "speed" : 20,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smallregularexplosion/smallregularexplosion.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

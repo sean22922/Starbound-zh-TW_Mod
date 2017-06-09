@@ -1,0 +1,15 @@
+{
+  "name" : "smallzigzagchest",
+  "category" : "smallbiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "smallzigzagchest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.2,
+    "jumpMultiplier" : 1.0
+  }
+}

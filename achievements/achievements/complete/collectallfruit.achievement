@@ -1,0 +1,16 @@
+{
+  "name" : "collectallfruit",
+
+  "triggers" : [
+    "itemSet.category.eventCrop"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.eventCrop",
+      "op" : "sizeAtLeast",
+      "value" : 30
+    }
+  ]
+}

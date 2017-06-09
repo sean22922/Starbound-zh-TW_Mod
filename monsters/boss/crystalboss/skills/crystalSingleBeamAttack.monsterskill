@@ -1,0 +1,15 @@
+{
+  "name" : "crystalSingleBeamAttack",
+  "label" : "BEAMS OF HURT",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalSingleBeamAttack.lua" ],
+    "crystalSingleBeamAttack" : {
+      "skillTime" : 19,
+      "rotateInterval" : 19,
+        
+      "damagePerSecond" : 1000
+    }
+  }
+}

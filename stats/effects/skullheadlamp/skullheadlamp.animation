@@ -1,0 +1,12 @@
+{
+  "lights" : {
+    "beam" : {
+      "active" : true,
+      "position" : [0.5, 0.8],
+      "color" : [203, 0, 14],
+      "pointLight" : true,
+      "pointAngle" : 0,
+      "pointBeam" : 4.0
+    }
+  }
+}

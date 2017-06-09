@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "fabric", "count" : 20 },
+    { "item" : "money", "count" : 150 }
+  ],
+  "output" : { "item" : "cupidsback", "count" : 1 },
+  "groups" : [ "heartforge", "armours", "all" ]
+}

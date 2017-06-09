@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_mazebound",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_mazebound" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_mazebound",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_mazebound.json" ]
+    }
+  ]
+}

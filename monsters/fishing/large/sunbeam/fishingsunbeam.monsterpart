@@ -1,0 +1,9 @@
+{
+  "name" : "fishingsunbeam",
+  "category" : "fishingsunbeam",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingsunbeam.png"
+  }
+}

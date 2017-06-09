@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "milk", "count" : 1 },
+    { "item" : "coffee", "count" : 1 }
+  ],
+  "output" : { "item" : "flatwhite", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "flatwhite" }
+}

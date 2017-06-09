@@ -1,0 +1,9 @@
+{
+  "name" : "blobhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "blobhead.png"
+  }
+}

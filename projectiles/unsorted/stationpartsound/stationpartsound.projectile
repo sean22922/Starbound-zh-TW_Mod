@@ -1,0 +1,22 @@
+{
+  "projectileName" : "stationpartsound",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "frameNumber" : 1,
+  "speed" : 0,
+  "damagePoly" : [ ],
+  "animationLoops" : false,
+  "flippable" : true,
+  "damageTeam" : { "type" : "ghostly" },
+  "damageKind" : "default",
+  "power" : 0,
+  "timeToLive" : 1.0,
+
+  "periodicActions" : [
+    {
+      "time" : 0.00,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/interface/playerstation_place1.ogg" ]
+   	}
+  ]
+}

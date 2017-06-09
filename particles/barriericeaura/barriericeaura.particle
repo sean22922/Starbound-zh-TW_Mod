@@ -1,0 +1,18 @@
+{
+  "kind" : "barriericeaura",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/barriericeaura/barriericeaura.animation",
+    "initialVelocity" : [0, 1],
+    "finalVelocity" : [0, 3],
+    "approach" : [1, 1],
+    "timeToLive" : 1.0,
+    "size" : 0.1,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [4, 1],
+      "rotation" : 180,
+      "angularVelocity" : 20
+    }
+  }
+}

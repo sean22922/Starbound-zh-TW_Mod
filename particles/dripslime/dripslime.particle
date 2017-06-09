@@ -1,0 +1,18 @@
+{
+  "kind" : "dripslime",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/drippingslime/drippingslime.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, -30.0],
+    "finalVelocity" : [0, -30.0],
+    "approach" : [0, 50],
+    "fade" : 0.5,
+    "destructionTime" : 20,
+    "size" : 1.0,
+    "timeToLive" : 2.5,
+    "variance" : {
+      "position" : [2, 0]
+    }
+  }
+}

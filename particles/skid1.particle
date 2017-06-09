@@ -1,0 +1,17 @@
+{
+  "kind" : "skid1",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/statuseffects/skid1/skid1.animation",
+    "position" : [0, 0.75],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 50],
+    "size" : 1.0,
+    "timeToLive" : 0.85,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [3.0, 3.0],
+      "position" : [2, 0]
+    }
+  }
+}

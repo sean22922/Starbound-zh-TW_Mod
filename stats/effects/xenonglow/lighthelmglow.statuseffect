@@ -1,0 +1,11 @@
+{
+  "name" : "lighthelmglow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "xenonglow.lua"
+  ],
+
+  "animationConfig" : "lighthelmglow.animation"
+}

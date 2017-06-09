@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 3 },
+    { "item" : "leather", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "bookpiles",
+    "count" : 20
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

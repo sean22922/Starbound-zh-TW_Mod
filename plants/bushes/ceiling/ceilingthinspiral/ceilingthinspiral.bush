@@ -1,0 +1,25 @@
+{
+  "name" : "ceilingthinspiral",
+  "description" : "Thin spiral rock.",
+  "shortdescription" : "Thin spiral rock.",
+  "floranDescription" : "Ssspinny thin rock.",
+  "glitchDescription" : "Statement. Thin spiral rock.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

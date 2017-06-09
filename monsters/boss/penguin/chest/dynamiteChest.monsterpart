@@ -1,0 +1,9 @@
+{
+  "name" : "dynamiteChest",
+  "category" : "penguinrockettrooper",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "dynamiteChest.png"
+  }
+}

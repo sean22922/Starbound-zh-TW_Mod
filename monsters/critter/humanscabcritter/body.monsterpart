@@ -1,0 +1,9 @@
+{
+  "name" : "humanscabcritter",
+  "category" : "humanscabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

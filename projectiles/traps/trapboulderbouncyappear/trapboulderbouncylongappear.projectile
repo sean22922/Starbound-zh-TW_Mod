@@ -1,0 +1,24 @@
+{
+  "projectileName" : "trapboulderbouncylongappear",
+  "image" : "trapboulderappear.png",
+  "animationCycle" : 0.5,
+  "timeToLive" : 0.45,
+  "physics" : "bullet",
+  "frameNumber" : 4,
+  "pointLight" : false,
+  "speed" : 0,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "trapboulderbouncylong",
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1
+    }
+  ],
+  "power" : 1.0,
+  "damageKind" : "hammer",
+  "damageType" : "IgnoresDef",
+  "onlyHitTerrain" : true
+}
+
+

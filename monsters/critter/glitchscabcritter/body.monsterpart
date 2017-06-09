@@ -1,0 +1,9 @@
+{
+  "name" : "glitchscabcritter",
+  "category" : "glitchscabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

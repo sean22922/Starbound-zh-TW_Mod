@@ -1,0 +1,16 @@
+{
+  "name" : "penguincrew",
+
+  "triggers" : [
+    "crew"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "crew.recruitSpecies.penguin",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

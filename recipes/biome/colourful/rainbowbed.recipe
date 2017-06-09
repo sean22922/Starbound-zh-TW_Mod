@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rainbowwood", "count" : 50 },
+    { "item" : "silk", "count" : 3 }
+  ],
+  "output" : { "item" : "rainbowbed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

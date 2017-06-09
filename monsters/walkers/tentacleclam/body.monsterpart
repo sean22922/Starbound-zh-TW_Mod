@@ -1,0 +1,9 @@
+{
+  "name" : "tentacleclam",
+  "category" : "tentacleclam",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentacleclam.png"
+  }
+}

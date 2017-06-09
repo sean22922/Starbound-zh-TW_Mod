@@ -1,0 +1,102 @@
+{
+  "id" : "themed_build.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "tag" : {
+      "type" : "itemTag",
+      "example" : {
+        "tag" : "floran"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/themed_build.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "title" : [
+        "<questGiver>'s plan for expansion",
+        "<questGiver> wants new friends"
+      ],
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran wantsss new friend! Can you help?",
+          "^cyan;Floran thinksss we need new a neighbour! Floran has plan..."
+        ],
+        "glitch" : [
+          "^cyan;Cheerful. I have a plan to make new friends around here. Would you like to assist?",
+          "^cyan;Affable. Don't you think we could use some new neighbours around here? I have a plan..."
+        ],
+        "default" : [
+          "^cyan;Wouldn't it be nice to meet some new people? I have an idea...",
+          "^cyan;I think we could benefit from making new friends. I have a plan."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Floran needsss you to ^green;make a home^white;, and ^green;place ^orange;3^green; <tag>^green; inside^white;. Don't forget ^green;a ^orange;Colony Deed^green; and a ^orange;light!",
+            "Floran wantsss you to ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>^green; inside.^white; Don't forget ^green;a ^orange;Colony Deed^green; and a ^orange;light!"
+          ],
+          "glitch" : [
+            "Attentive. Could you ^green;build a home^white; and ^green;place ^orange;3^green; <tag>^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
+            "Excited. Can you ^green;build a home^white;, and ^green;place ^orange;3^green; <tag>.^white; inside? Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!"
+          ],
+          "default" : [
+            "^green;Build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!",
+            "Can you build a home^white;, and inside ^green;place ^orange;3^green; <tag>.^white; Don't forget to ^green;include a ^orange;Colony Deed^green; and a ^orange;light!^white; I'm excited!"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Success! Floran has new friend! Floran likesss the home you made.",
+            "You made the home! Floran is impressed with your ssskills."
+          ],
+          "glitch" : [
+            "Overjoyed. We have a new neighbour! I'm sure they'll fit in here. Thank you for your generous assistance.",
+            "Impressed. Your design skills are better than I expected, what a lovely home. Thank you for your efforts!"
+          ],
+          "default" : [
+            "Thank you! Now we have a new local resident! Isn't that exciting?",
+            "Success! I hope our new neighbour enjoys their home. Thanks for your help!"
+          ]
+        }
+      },
+      "failureText" : [
+        "I was unable to help <questGiver> by building a home. I'm too busy for things like that.",
+        "I didn't help <questGiver> with <questGiver.pronoun.possessiveDet> idea to make a home. She doesn't need another neighbour anyhow."
+      ]
+    },
+    "amountOfFurnitureNeeded" : 3,
+
+    "objectives" : [
+      {
+        "text" : "Build a home with:"
+      },
+      {
+        "text" : "1 Colony Deed"
+      },
+      {
+        "text" : "3 <tag>^reset;"
+      },
+      {
+        "text" : "Any light source"
+      },
+      {
+        "text" : "Any door"
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "crystalbodyglow",
+  "category" : "crystalboss",
+  "type" : "bodyglow",
+
+  "frames" : {
+    "bodyglow" : "crystalbodyglow.png"
+  }
+}

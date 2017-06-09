@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "metallic", "count" : 10 },
+    { "item" : "copperbar", "count" : 1 },
+    { "item" : "liquidlava", "count" : 10 }
+  ],
+  "output" : { "item" : "foundrylight", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

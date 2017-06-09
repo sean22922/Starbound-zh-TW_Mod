@@ -1,0 +1,22 @@
+{
+  "projectileName" : "money",
+  "speed" : 20,
+  "bounces" : 1,
+  "physics" : "grenade",
+  "image" : "money.png",
+  "animationCycle" : 0.5,
+  "power" : 0,
+  "frameNumber" : 1,
+  "damageKind" : "hidden",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "money"
+    }
+  ],
+
+  "emitters" : [ "lighttrailfast" ]
+
+
+
+}

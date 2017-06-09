@@ -1,0 +1,9 @@
+{
+  "name" : "largespineplatetail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largespineplatetail.png"
+  }
+}

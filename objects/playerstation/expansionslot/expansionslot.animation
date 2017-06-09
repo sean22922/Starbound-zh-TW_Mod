@@ -1,0 +1,65 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "visibility" : {
+        "default" : "visible",
+        "states" : {
+          "invisible" : {
+          },
+          "visible" : {
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "slotfullbright" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1,
+          "fullbright" : true
+        },
+
+        "partStates" : {
+          "visibility" : {
+            "invisible" : {
+              "properties" : {
+                "image" : ""
+              }
+            },
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      },
+      "slot" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 2
+        },
+
+        "partStates" : {
+          "visibility" : {
+            "invisible" : {
+              "properties" : {
+                "image" : ""
+              }
+            },
+            "visible" : {
+              "properties" : {
+                "image" : "<partImage>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "interactError" : [ "/sfx/interface/clickon_error.ogg" ]
+  }
+}

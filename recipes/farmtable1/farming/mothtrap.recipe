@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 3 },
+    { "item" : "darkwoodmaterial", "count" : 30 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "mothtrap",
+    "count" : 1
+  },
+  "groups" : [ "craftingfarm", "farming" ]
+}

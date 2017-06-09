@@ -1,0 +1,9 @@
+{
+  "name" : "liquidimmunity",
+  "effectConfig" : {},
+  "defaultDuration" : 0.25,
+
+  "scripts" : [
+    "liquidimmunity.lua"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name" : "arctic",
+  "swaps" : [
+      // Ocean, Snow, Arctic - BLUE //
+    {
+      "6f2919" : "12374E", "a85636" : "176995", "e0975c" : "1EA1C6", "ffca8a" : "54BAF5",
+      "735e3a" : "5F5B4B", "a38d59" : "A89C77", "d9c189" : "DCCE9C", "f7e7b2" : "FFF0C4",
+      "951500" : "8C7C00", "be1b00" : "C1AF00", "dc1f00" : "F2DA00", "f32200" : "FFEA4C"
+    },
+      // Ocean, Arctic - Blue Tan //
+    {
+      "6f2919" : "19506F", "a85636" : "367ca8", "e0975c" : "5c97e0", "ffca8a" : "8ab3ff",
+      "735e3a" : "73673a", "a38d59" : "a39959", "d9c189" : "d9cf89", "f7e7b2" : "f7f3b2",
+      "951500" : "95004c", "be1b00" : "be0060", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Ice, Snow, Arctic - Light Grey Blue //
+    {
+      "6f2919" : "5c5c5c", "a85636" : "a5a5a5", "e0975c" : "e6e6e6", "ffca8a" : "f8f8f8",
+      "735e3a" : "41546c", "a38d59" : "6995b7", "d9c189" : "96cbe6", "f7e7b2" : "BFE9FF",
+      "951500" : "008595", "be1b00" : "00b8be", "dc1f00" : "00dcda", "f32200" : "00f3df"
+    },
+      // Ocean, Arctic - Blue GreyBlue //
+    {
+      "6f2919" : "12384E", "a85636" : "176795", "e0975c" : "1E88C6", "ffca8a" : "54BAF5",
+      "735e3a" : "41546C", "a38d59" : "6995B7", "d9c189" : "96CBE6", "f7e7b2" : "BFE9FF",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Snow, Ice, Arctic - White Durasteel //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "1C2A33", "a38d59" : "344651", "d9c189" : "52646D", "f7e7b2" : "7D8B8E",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Ice, Arctic - Sky Blue Dust //
+    {
+      "6f2919" : "3C4D74", "a85636" : "5F8CC4", "e0975c" : "8AC3F2", "ffca8a" : "B6E4FF",
+      "735e3a" : "574B38", "a38d59" : "81725B", "d9c189" : "BDAE97", "f7e7b2" : "DFD3C1",
+      "951500" : "B02182", "be1b00" : "FC45C1", "dc1f00" : "FF80FF", "f32200" : "FFD6FF"
+    },
+      // Snow, Ice, Arctic - White Turq //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "156054", "a38d59" : "318275", "d9c189" : "56A49F", "f7e7b2" : "7EBBC2",
+      "951500" : "B02182", "be1b00" : "FC45C1", "dc1f00" : "FF80FF", "f32200" : "FFD6FF"
+    },
+      // Snow, Ice, Arctic - White Orange //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "723522", "a38d59" : "B16232", "d9c189" : "D99B4A", "f7e7b2" : "DFC171",
+      "951500" : "949500", "be1b00" : "BBBE00", "dc1f00" : "D9DC00", "f32200" : "EFF300"
+    },
+      // Snow, Ice, Arctic - White Orange //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "0E3A2B", "a38d59" : "157F45", "d9c189" : "61BA61", "f7e7b2" : "A7E278",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    },
+      // Desert, Snow, Ice, Arctic - White Yellow //
+    {
+      "6f2919" : "5C5C5C", "a85636" : "A5A5A5", "e0975c" : "E6E6E6", "ffca8a" : "F8F8F8",
+      "735e3a" : "8F692D", "a38d59" : "AB9E40", "d9c189" : "E3E25F", "f7e7b2" : "F2F2A9",
+      "951500" : "69A5D8", "be1b00" : "74D2EE", "dc1f00" : "9BEAFF", "f32200" : "C6F6FF"
+    },
+      // Snow, Ocean, Arctic, Ice - Black Faded Blue //
+    {
+      "6f2919" : "1C2A33", "a85636" : "344651", "e0975c" : "52646D", "ffca8a" : "7D8B8E",
+      "735e3a" : "41546C", "a38d59" : "6995B7", "d9c189" : "96CBE6", "f7e7b2" : "BFE9FF",
+      "951500" : "171717", "be1b00" : "262626", "dc1f00" : "383838", "f32200" : "4C4C4C"
+    }
+  ]
+}

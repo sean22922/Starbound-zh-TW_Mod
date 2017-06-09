@@ -1,0 +1,8 @@
+{
+  "name" : "sunflower",
+  "description" : "A beautiful sunflower.",
+  "shortdescription" : "A beautiful sunflower.",
+  "floranDescription" : "Pretty sssunflower.",
+  "glitchDescription" : "Statement. An attractive sunflower.",
+  "images" : [ "sunflower1.png", "sunflower2.png", "sunflower3.png", "sunflower4.png", "sunflower5.png", "sunflower6.png", "sunflower7.png", "sunflower8.png", "sunflower9.png", "sunflower10.png" ]
+}

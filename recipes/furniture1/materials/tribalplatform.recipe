@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sandstoneblock", "count" : 1 }
+  ],
+  "output" : { "item" : "tribalplatform", "count" : 10 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

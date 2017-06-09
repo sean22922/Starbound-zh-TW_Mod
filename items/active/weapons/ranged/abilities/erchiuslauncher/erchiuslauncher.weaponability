@@ -1,0 +1,78 @@
+{
+  "animationCustom" : {
+    "animatedParts" : { "parts" : {
+      "erchiuslauncher" : {
+        "properties" : {
+          "zLevel" : -1,
+          "centered" : true,
+          "offset" : [-0.75, -0.375],
+          "transformationGroups" : ["muzzle"],
+          "firePosition" : [1, 0.375],
+          "image" : "/items/active/weapons/ranged/abilities/erchiuslauncher/erchiuslauncher.png"
+        }
+      }
+    }},
+    "sounds" : {
+      "altFire" : [ "/sfx/gun/pulsecannon_blast1.ogg" ]
+    },
+    "particleEmitters" : {
+      "altMuzzleFlash" : {
+        "active" : false,
+        "emissionRate" : 8,
+        "transformationGroups" : ["muzzle"],
+        "offsetRegion" : [0, 0, 0, 0],
+        "particles" : [
+          { "particle" : "erchiusbomb", "offset" : [0.0, 0.0] },
+          { "particle" : "erchiusbomb", "offset" : [0.0, 0.0] },
+          { "particle" : "erchiusbomb", "offset" : [0.0, 0.0] }
+        ]
+      }
+    }
+  },
+
+  "ability" : {
+    "name" : "Erchius Launcher",
+    "type" : "erchiuslauncher",
+    "scripts" : ["/items/active/weapons/ranged/abilities/altfire.lua"],
+    "class" : "AltFireAttack",
+
+    "elementalConfig" : {
+      "physical" : { "projectileType" : "erchiusbomb" },
+      "fire" : { "projectileType" : "erchiusbomb" },
+      "electric" : { "projectileType" : "erchiusbomb" },
+      "ice" : { "projectileType" : "erchiusbomb" },
+      "poison" : { "projectileType" : "erchiusbomb" }
+    },
+    "projectileParameters" : {},
+    "projectileCount" : 1,
+    "inaccuracy" : 0,
+    "baseDamage" : 6.75,
+    "energyUsage" : 25,
+    "fireTime" : 2.0,
+    "fireType" : "auto",
+
+    "firePositionPart" : "erchiuslauncher",
+    "hidePrimaryMuzzleFlash" : true,
+
+    "stances" : {
+      "fire" : {
+        "duration" : 0,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "cooldown" : {
+        "duration" : 0.11,
+        "armRotation" : 5,
+        "weaponRotation" : 5,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

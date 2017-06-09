@@ -1,0 +1,9 @@
+{
+  "name" : "sporelingcritter",
+  "category" : "sporelingcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

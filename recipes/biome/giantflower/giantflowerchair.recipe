@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "giantflowerpetal", "count" : 30 },
+    { "item" : "petalyellow", "count" : 5 },
+    { "item" : "plantfibre", "count" : 5 }
+  ],
+  "output" : { "item" : "giantflowerchair", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

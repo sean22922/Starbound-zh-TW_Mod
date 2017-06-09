@@ -1,0 +1,9 @@
+{
+  "name" : "bouncercritter",
+  "category" : "bouncercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

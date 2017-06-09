@@ -1,0 +1,9 @@
+{
+  "name" : "fishingray",
+  "category" : "fishingray",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingray.png"
+  }
+}

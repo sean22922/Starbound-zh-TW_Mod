@@ -1,0 +1,37 @@
+{
+  "projectileName" : "throwingbone",
+  "image" : "throwingbone.png",
+  "frameNumber" : 8,
+  "animationCycle" : 0.5,
+  "physics" : "grenade",
+  "bounces" : 2,
+  "pointLight" : false,
+  "speed" : 30,
+  "power" : 5.0,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/throwable/throwingbones/boneimpact.config"
+    }
+  ],
+  "damageKind" : "hammer",
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "actionOnCollide" : [
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/projectiles/bonebounce1.ogg",
+        "/sfx/projectiles/bonebounce2.ogg",
+        "/sfx/projectiles/bonebounce3.ogg",
+        "/sfx/projectiles/bonebounce4.ogg",
+        "/sfx/projectiles/bonebounce5.ogg",
+        "/sfx/projectiles/bonebounce6.ogg",
+        "/sfx/projectiles/bonebounce7.ogg",
+        "/sfx/projectiles/bonebounce8.ogg",
+        "/sfx/projectiles/bonebounce9.ogg"
+      ]
+    }
+  ]
+}
+
+

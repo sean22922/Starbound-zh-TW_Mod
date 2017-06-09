@@ -1,0 +1,35 @@
+{
+  "type" : "spaceengineer",
+  "baseType" : "guard",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/shipcrew.config:converse"
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "minerhead", "parameters" : { "colorIndex" : 0 } } ],
+            "chest" : [ { "name" : "minerchest", "parameters" : { "colorIndex" : 0 } } ],
+            "legs" : [ { "name" : "humantier2pants", "parameters" : { "colorIndex" : 1 } } ],
+            "primary" : [
+              "npcpistol"
+            ],
+            "sheathedprimary" : [
+              "npchammer"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

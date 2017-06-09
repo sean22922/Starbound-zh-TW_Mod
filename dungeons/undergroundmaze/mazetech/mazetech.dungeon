@@ -1,0 +1,282 @@
+{
+  "metadata" : {
+    "name" : "mazetech",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "entrytop", "entryleft", "entryright" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "chamberendtop",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "chamberendtop", "chamberendleft", "chamberendright" ] ]
+      ],
+      "def" : [ "tmx", "chamberendtop.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "chamberendleft",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "chamberendtop", "chamberendleft", "chamberendright" ] ]
+      ],
+      "def" : [ "tmx", "chamberendleft.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "chamberendright",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "chamberendtop", "chamberendleft", "chamberendright" ] ]
+      ],
+      "def" : [ "tmx", "chamberendright.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "corner1a",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner1a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner1e",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner1e.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner2b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner2b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner2c",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner2c.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner3a",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner3a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner3e",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner3e.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner4b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner4b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "corner4c",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "corner4c.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "drop1a",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "drop1a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "drop1b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "drop1b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "endleft1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "endleft1c.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "endleft1cChest",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "endleft1cChest.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "endright1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "endright1c.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "endright1cChest",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [2] ]
+      ],
+      "def" : [ "tmx", "endright1cChest.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "entrytop",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "entrytop.json" ]
+    },
+    {
+      "name" : "entryleft",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "entryleft.json" ]
+    },
+    {
+      "name" : "entryright",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "entryright.json" ]
+    },
+    {
+      "name" : "hall1g",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "hall1g.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "hall1i",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "hall1i.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "hall2g",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "hall2g.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "hall2i",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ]
+      ],
+      "def" : [ "tmx", "hall2i.json" ],
+      "chance" : 2
+    },
+    {
+      "name" : "junction1b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction1b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction1d",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction1d.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction2b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction2b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction2d",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction2d.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction3b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction3b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction3f",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction3f.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction4b",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction4b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "junction4f",
+      "rules" : [
+        //[ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "junction1b", "junction1d", "junction2b", "junction2d", "junction3b", "junction3f", "junction4b", "junction4f" ] ]
+      ],
+      "def" : [ "tmx", "junction4f.json" ],
+      "chance" : 1
+    }
+  ]
+}

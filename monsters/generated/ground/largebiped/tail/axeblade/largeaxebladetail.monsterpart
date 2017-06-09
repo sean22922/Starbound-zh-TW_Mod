@@ -1,0 +1,9 @@
+{
+  "name" : "largeaxebladetail",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largeaxebladetail.png"
+  }
+}

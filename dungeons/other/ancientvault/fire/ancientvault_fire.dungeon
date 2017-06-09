@@ -1,0 +1,1212 @@
+{
+  "metadata" : {
+    "name" : "ancientvault_fire",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 8,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // ENTRANCES
+    {
+      "name" : "entrance_left1",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left1.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_left2",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left2.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_left3",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left3.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_left4",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left4.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_left5",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left5.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_left6",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_left" ] ]
+      ],
+      "def" : [ "tmx", "entrance_left6.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right1",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right1.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right2",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right2.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right3",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right3.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right4",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right4.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right5",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right5.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "entrance_right6",
+      "rules" : [
+        [ "doNotCombineWith", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6", "bossroom_right" ] ]
+      ],
+      "def" : [ "tmx", "entrance_right6.json" ],
+      "chance" : 1000
+    },
+
+    // BOSS ROOMS
+    {
+      "name" : "bossroom_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "bossroom_left", "bossroom_right", "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6" ] ],
+        [ "doNotConnectToPart", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6" ] ]
+      ],
+      "def" : [ "tmx", "bossroom_left.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "bossroom_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "bossroom_left", "bossroom_right", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6" ] ],
+        [ "doNotConnectToPart", [ "entrance_left1", "entrance_left2", "entrance_left3", "entrance_left4", "entrance_left5", "entrance_left6", "entrance_right1", "entrance_right2", "entrance_right3", "entrance_right4", "entrance_right5", "entrance_right6" ] ]
+      ],
+      "def" : [ "tmx", "bossroom_right.json" ],
+      "chance" : 1
+    },
+
+    // LAYOUT ROOMS
+    {
+      "name" : "room1a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room1a", "room1a_flip" ] ]
+      ],
+      "def" : [ "tmx", "room1a.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "room1a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room1a", "room1a_flip" ] ]
+      ],
+      "def" : [ "tmx", "room1a_flip.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "room2a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room2a", "room2a_flip", "room2b", "room2b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room2a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room2a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room2a", "room2a_flip", "room2b", "room2b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room2a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room2b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room2a", "room2a_flip", "room2b", "room2b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room2b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room2b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room2a", "room2a_flip", "room2b", "room2b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room2b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room3a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room3a", "room3a_flip", "room3b", "room3b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room3a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room3a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room3a", "room3a_flip", "room3b", "room3b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room3a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room3b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room3a", "room3a_flip", "room3b", "room3b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room3b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room3b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room3a", "room3a_flip", "room3b", "room3b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room3b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room4a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room4a", "room4a_flip", "room4b", "room4b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room4a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room4a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room4a", "room4a_flip", "room4b", "room4b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room4a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room4b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room4a", "room4a_flip", "room4b", "room4b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room4b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room4b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room4a", "room4a_flip", "room4b", "room4b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room4b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room5a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room5a", "room5a_flip" ] ]
+      ],
+      "def" : [ "tmx", "room5a.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "room5a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room5a", "room5a_flip" ] ]
+      ],
+      "def" : [ "tmx", "room5a_flip.json" ],
+      "chance" : 1000
+    },
+    {
+      "name" : "room6a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room6a", "room6a_flip", "room6b", "room6b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room6a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room6a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room6a", "room6a_flip", "room6b", "room6b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room6a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room6b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room6a", "room6a_flip", "room6b", "room6b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room6b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room6b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room6a", "room6a_flip", "room6b", "room6b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room6b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room7a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room7a", "room7a_flip", "room7b", "room7b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room7a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room7a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room7a", "room7a_flip", "room7b", "room7b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room7a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room7b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room7a", "room7a_flip", "room7b", "room7b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room7b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room7b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room7a", "room7a_flip", "room7b", "room7b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room7b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room8a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room8a", "room8a_flip", "room8b", "room8b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room8a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room8a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room8a", "room8a_flip", "room8b", "room8b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room8a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room8b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room8a", "room8a_flip", "room8b", "room8b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room8b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room8b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room8a", "room8a_flip", "room8b", "room8b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room8b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room9a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room9a", "room9a_flip", "room9b", "room9b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room9a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room9a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room9a", "room9a_flip", "room9b", "room9b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room9a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room9b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room9a", "room9a_flip", "room9b", "room9b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room9b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room9b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room9a", "room9a_flip", "room9b", "room9b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room9b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room10a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room10a", "room10a_flip", "room10b", "room10b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room10a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room10a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room10a", "room10a_flip", "room10b", "room10b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room10a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room10b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room10a", "room10a_flip", "room10b", "room10b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room10b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room10b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room10a", "room10a_flip", "room10b", "room10b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room10b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room11a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room11a", "room11a_flip", "room11b", "room11b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room11a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room11a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room11a", "room11a_flip", "room11b", "room11b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room11a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room11b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room11a", "room11a_flip", "room11b", "room11b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room11b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room11b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room11a", "room11a_flip", "room11b", "room11b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room11b_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room12a",
+      "rules" : [
+        [ "doNotCombineWith", [ "room12a", "room12a_flip", "room12b", "room12b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room12a.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room12a_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room12a", "room12a_flip", "room12b", "room12b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room12a_flip.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room12b",
+      "rules" : [
+        [ "doNotCombineWith", [ "room12a", "room12a_flip", "room12b", "room12b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room12b.json" ],
+      "chance" : 500
+    },
+    {
+      "name" : "room12b_flip",
+      "rules" : [
+        [ "doNotCombineWith", [ "room12a", "room12a_flip", "room12b", "room12b_flip" ] ]
+      ],
+      "def" : [ "tmx", "room12b_flip.json" ],
+      "chance" : 500
+    },
+
+    // END CAPS
+    {
+      "name" : "endcap_left1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left1a", "endcap_left1b", "endcap_right1a", "endcap_right1b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left1a", "endcap_left1b", "endcap_right1a", "endcap_right1b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left2a", "endcap_left2b", "endcap_right2a", "endcap_right2b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left2a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left2a", "endcap_left2b", "endcap_right2a", "endcap_right2b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left2b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left3a", "endcap_left3b", "endcap_right3a", "endcap_right3b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left3a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left3a", "endcap_left3b", "endcap_right3a", "endcap_right3b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left3b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left4a", "endcap_left4b", "endcap_right4a", "endcap_right4b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left4a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left4a", "endcap_left4b", "endcap_right4a", "endcap_right4b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left5a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left5a", "endcap_left5b", "endcap_right5a", "endcap_right5b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left5b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left5a", "endcap_left5b", "endcap_right5a", "endcap_right5b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left6a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left6a", "endcap_left6b", "endcap_right6a", "endcap_right6b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left6a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left6b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left6a", "endcap_left6b", "endcap_right6a", "endcap_right6b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left6b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left7a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left7a", "endcap_left7b", "endcap_right7a", "endcap_right7b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left7a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left7b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left7a", "endcap_left7b", "endcap_right7a", "endcap_right7b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left7b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left8a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left8a", "endcap_left8b", "endcap_right8a", "endcap_right8b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left8a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left8b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left8a", "endcap_left8b", "endcap_right8a", "endcap_right8b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left8b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left9a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left9a", "endcap_left9b", "endcap_right9a", "endcap_right9b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left9a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left9b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left9a", "endcap_left9b", "endcap_right9a", "endcap_right9b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left9b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left10a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left10a", "endcap_left10b", "endcap_right10a", "endcap_right10b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left10a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_left10b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left10a", "endcap_left10b", "endcap_right10a", "endcap_right10b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left10b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left1a", "endcap_left1b", "endcap_right1a", "endcap_right1b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left1a", "endcap_left1b", "endcap_right1a", "endcap_right1b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left2a", "endcap_left2b", "endcap_right2a", "endcap_right2b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right2a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left2a", "endcap_left2b", "endcap_right2a", "endcap_right2b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right2b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left3a", "endcap_left3b", "endcap_right3a", "endcap_right3b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right3a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left3a", "endcap_left3b", "endcap_right3a", "endcap_right3b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right3b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left4a", "endcap_left4b", "endcap_right4a", "endcap_right4b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right4a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left4a", "endcap_left4b", "endcap_right4a", "endcap_right4b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right5a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left5a", "endcap_left5b", "endcap_right5a", "endcap_right5b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right5b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left5a", "endcap_left5b", "endcap_right5a", "endcap_right5b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right6a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left6a", "endcap_left6b", "endcap_right6a", "endcap_right6b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right6a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right6b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left6a", "endcap_left6b", "endcap_right6a", "endcap_right6b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right6b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right7a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left7a", "endcap_left7b", "endcap_right7a", "endcap_right7b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right7a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right7b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left7a", "endcap_left7b", "endcap_right7a", "endcap_right7b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right7b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right8a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left8a", "endcap_left8b", "endcap_right8a", "endcap_right8b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right8a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right8b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left8a", "endcap_left8b", "endcap_right8a", "endcap_right8b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right8b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right9a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left9a", "endcap_left9b", "endcap_right9a", "endcap_right9b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right9a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right9b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left9a", "endcap_left9b", "endcap_right9a", "endcap_right9b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right9b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right10a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left10a", "endcap_left10b", "endcap_right10a", "endcap_right10b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right10a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_right10b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_left10a", "endcap_left10b", "endcap_right10a", "endcap_right10b" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right10b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot1a", "endcap_bot1b", "endcap_bot1c", "endcap_bot1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot1a", "endcap_bot1b", "endcap_bot1c", "endcap_bot1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot1a", "endcap_bot1b", "endcap_bot1c", "endcap_bot1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot1c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot1d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot1a", "endcap_bot1b", "endcap_bot1c", "endcap_bot1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot1d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot2a", "endcap_bot2b", "endcap_bot2c", "endcap_bot2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot2a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot2a", "endcap_bot2b", "endcap_bot2c", "endcap_bot2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot2b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot2c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot2a", "endcap_bot2b", "endcap_bot2c", "endcap_bot2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot2c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot2d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot2a", "endcap_bot2b", "endcap_bot2c", "endcap_bot2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot2d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot3a", "endcap_bot3b", "endcap_bot3c", "endcap_bot3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot3a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot3a", "endcap_bot3b", "endcap_bot3c", "endcap_bot3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot3b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot3c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot3a", "endcap_bot3b", "endcap_bot3c", "endcap_bot3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot3c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot3d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot3a", "endcap_bot3b", "endcap_bot3c", "endcap_bot3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot3d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot4a", "endcap_bot4b", "endcap_bot4c", "endcap_bot4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot4a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot4a", "endcap_bot4b", "endcap_bot4c", "endcap_bot4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot4c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot4a", "endcap_bot4b", "endcap_bot4c", "endcap_bot4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot4c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot4d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot4a", "endcap_bot4b", "endcap_bot4c", "endcap_bot4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot4d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot5a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot5a", "endcap_bot5b", "endcap_bot5c", "endcap_bot5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot5a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot5b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot5a", "endcap_bot5b", "endcap_bot5c", "endcap_bot5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot5c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot5a", "endcap_bot5b", "endcap_bot5c", "endcap_bot5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot5c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_bot5d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_bot5a", "endcap_bot5b", "endcap_bot5c", "endcap_bot5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_bot5d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top1a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top1a", "endcap_top1b", "endcap_top1c", "endcap_top1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top1a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top1b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top1a", "endcap_top1b", "endcap_top1c", "endcap_top1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top1b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top1c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top1a", "endcap_top1b", "endcap_top1c", "endcap_top1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top1c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top1d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top1a", "endcap_top1b", "endcap_top1c", "endcap_top1d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top1d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top2a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top2a", "endcap_top2b", "endcap_top2c", "endcap_top2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top2a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top2b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top2a", "endcap_top2b", "endcap_top2c", "endcap_top2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top2b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top2c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top2a", "endcap_top2b", "endcap_top2c", "endcap_top2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top2c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top2d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top2a", "endcap_top2b", "endcap_top2c", "endcap_top2d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top2d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top3a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top3a", "endcap_top3b", "endcap_top3c", "endcap_top3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top3a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top3b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top3a", "endcap_top3b", "endcap_top3c", "endcap_top3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top3b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top3c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top3a", "endcap_top3b", "endcap_top3c", "endcap_top3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top3c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top3d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top3a", "endcap_top3b", "endcap_top3c", "endcap_top3d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top3d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top4a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top4a", "endcap_top4b", "endcap_top4c", "endcap_top4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top4a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top4b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top4a", "endcap_top4b", "endcap_top4c", "endcap_top4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top4b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top4c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top4a", "endcap_top4b", "endcap_top4c", "endcap_top4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top4c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top4d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top4a", "endcap_top4b", "endcap_top4c", "endcap_top4d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top4d.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top5a",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top5a", "endcap_top5b", "endcap_top5c", "endcap_top5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top5a.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top5b",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top5a", "endcap_top5b", "endcap_top5c", "endcap_top5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top5b.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top5c",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top5a", "endcap_top5b", "endcap_top5c", "endcap_top5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top5c.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "endcap_top5d",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "endcap_top5a", "endcap_top5b", "endcap_top5c", "endcap_top5d" ] ]
+      ],
+      "def" : [ "tmx", "endcap_top5d.json" ],
+      "chance" : 0
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "projectileName" : "leafgust",
+  "image" : "leafgust.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.01,
+  "physics" : "gas",
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "emitters" : [ "poisondrip" ],
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "razorleaf",
+      "angleAdjust" : -7,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+    {
+      "action" : "projectile",
+      "type" : "razorleaf",
+      "angleAdjust" : 0,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    },
+    {
+      "action" : "projectile",
+      "type" : "razorleaf",
+      "angleAdjust" : 7,
+      "fuzzAngle" : 5,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 2
+    }
+  ],
+  "damagePoly" : [ ],
+  "power" : 0.0,
+  "damageKind" : "default"
+}

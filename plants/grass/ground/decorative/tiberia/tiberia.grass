@@ -1,0 +1,8 @@
+{
+  "name" : "tiberia",
+  "description" : "A strange natural growth.",
+  "shortdescription" : "Strange growth.",
+  "floranDescription" : "Floran not sure what this is.",
+  "glitchDescription" : "Statement. An unknown natural formation.",
+  "images" : [ "tiberia1.png", "tiberia2.png", "tiberia3.png", "tiberia4.png" ]
+}

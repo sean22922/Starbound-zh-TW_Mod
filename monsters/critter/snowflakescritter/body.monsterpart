@@ -1,0 +1,9 @@
+{
+  "name" : "snowflakescritter",
+  "category" : "snowflakescritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

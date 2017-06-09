@@ -1,0 +1,63 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "aura" : {
+        "default" : "off",
+        "states" : {
+          "off" : {},
+          "windup" : {
+            "frames" : 3,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "on"
+          },
+          "on" : {
+            "frames" : 10,
+            "cycle" : 0.9,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+    "parts" : {
+      "aura" : {
+        "properties" : {
+          "zLevel" : 0
+        },
+        "partStates" : {
+          "aura" : {
+            "windup" : {
+              "properties" : {
+                "image" : "fireaura.png:windup.<frame>"
+              }
+            },
+            "on" : {
+              "properties" : {
+                "image" : "fireaura.png:on.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "particleEmitters" : {
+    "fireAura" : {
+      "active" : true,
+      "emissionRate" : 15,
+      "offsetRegion" : [-3.0, -3.0, 3.0, 3.0],
+      "particles" : [
+        { "particle" : "fireswoosh1"},
+        { "particle" : "fireswoosh2"},
+        { "particle" : "fireswoosh3"},
+        { "particle" : "fireswoosh1"},
+        { "particle" : "fireswoosh1"},
+        { "particle" : "fireswoosh2"},
+        { "particle" : "fireswoosh3"},
+        { "particle" : "firesmoke"},
+        { "particle" : "fireswoosh2"},
+        { "particle" : "fastrisingfire1"}
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "projectileName" : "electricplasmaexplosion",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "damageKindImage" : "icon.png",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/electricexplosionknockback.config"
+    }
+  ],
+  "damageKind" : "electricplasma",
+  "timeToLive" : 0
+}

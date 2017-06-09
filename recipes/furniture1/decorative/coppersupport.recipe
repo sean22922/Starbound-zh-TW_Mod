@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "copperbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "coppersupport",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

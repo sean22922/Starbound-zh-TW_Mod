@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "hylotlmission1",
+    "species" : "hylotl",
+    "rules" : [
+    ],
+    "anchor" : [ "hylotlmission1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "hylotlmission1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlmission1.json" ]
+    }
+  ]
+}

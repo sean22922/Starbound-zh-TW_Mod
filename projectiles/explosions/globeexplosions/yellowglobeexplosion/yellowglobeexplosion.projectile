@@ -1,0 +1,15 @@
+{
+  "projectileName" : "yellowglobeexplosion",
+  "image" : "yellowglobeexplosion.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "lightColor" : [255, 240, 0],
+  "speed" : 0,
+  "power" : 5,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageKind" : "default"
+}

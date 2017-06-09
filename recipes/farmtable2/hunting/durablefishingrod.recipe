@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "silverbar", "count" : 2 },
+    { "item" : "syntheticmaterial", "count" : 5 }
+  ],
+  "output" : { "item" : "durablefishingrod", "count" : 1 },
+  "groups" : [ "craftingfarm2", "hunting" ]
+}

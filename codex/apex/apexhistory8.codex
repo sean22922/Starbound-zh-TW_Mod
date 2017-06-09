@@ -1,0 +1,22 @@
+{
+  "id" : "apexhistory8",
+  "species" : "apex",
+  "title" : "Apex Ration Book",
+   "description" : "An Apex ration book under Miniknog regulation.",
+  "icon" : "apexcover2.png",
+  "contentPages" : [
+    "MINIKNOG DAILY CITIZEN SUPPLY INVENTORY
+
+Certified Nutrient Paste x 1
+Certified Bottled Water x 1
+Copy of The Daily Peel x 1
+
+Additional Luxuries are obtainable in return for information on rebel activity
+
+BIG APE IS WATCHING YOU!"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

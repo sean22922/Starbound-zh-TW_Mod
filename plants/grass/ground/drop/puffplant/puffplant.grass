@@ -1,0 +1,8 @@
+{
+  "name" : "puffplant",
+  "description" : "A puffball.",
+  "shortdescription" : "A puffball.",
+  "floranDescription" : "Floran like to sssquish puffball.",
+  "glitchDescription" : "Statement. A puffball.",
+  "images" : [ "puffplant1.png", "puffplant2.png", "puffplant3.png", "puffplant4.png", "puffplant5.png" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "capricoat",
+  "category" : "capricoat",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "capricoat.png"
+  }
+}

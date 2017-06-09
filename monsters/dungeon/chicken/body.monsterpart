@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "chicken",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "chicken.png"
+  }
+}

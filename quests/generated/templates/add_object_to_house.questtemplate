@@ -1,0 +1,104 @@
+{
+  "id" : "add_object_to_house.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "object" : {
+      "type" : "item",
+      "example" : {
+        "item" : "woodtable"
+      }
+    },
+    "deed" : {
+      "type" : "entity"
+    },
+    "extraRewards" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [ {"name" : "money", "count": 1000} ]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/add_object_to_house.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "title" : [
+        "<questGiver>'s Home Makeover",
+        "Redecorating for <questGiver>"
+      ],
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran hasss a new piece of furniture in mind for home. Let'sss make this happen!",
+          "^cyan;Floran's home is too sssedate. Let'sss make it brighter!"
+        ],
+        "glitch" : [
+          "^cyan;Observant. I have decided that my home needs improving - Can you assist?",
+          "^cyan;Self-conscious. My home could use some new decor... Perhaps you could help me?"
+        ],
+        "default" : [
+          "^cyan;This place still doesn't feel like home, it's missing something. Could you help me out?",
+          "^cyan;I have a plan to spruce up my home, but I can't do it all by myself. Can you give me a hand?"
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Finally Floran hasss the ^orange;<object> ^white;Floran wanted! It will look good in Floran's home, so ^green;please put it down sssomewhere in there.",
+            "That ^orange;<object> ^white;is jussst what my home needss! ^green;Pleasse place it somewhere here."
+          ],
+          "glitch" : [
+            "Excited. Finally, could you ^green; place the ^orange;<object>^green; somewhere in my home? ^white;You should ^green;make some more room^white; if necessary.",
+            "Eager. We are almost done! All you need to do now is ^green;place the ^orange;<object>^green; in my home^white; somewhere!"
+          ],
+          "default" : [
+            "Alright, I think this ^orange;<object>^white; is exactly what's needed! ^green;Could you find some space in my home to place it?",
+            "I think this ^orange;<object>^white; is going to do the trick! All that's left to do is ^green;place it in a nice spot."
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Floran very happy with thisss. Floran's new <object> looksss good there.",
+            "This <object> is really helping my home look shiny! Thanksss for your help!"
+          ],
+          "glitch" : [
+            "Overjoyed. That <object> really adds to the ambiance, do you not agree? Thank you for helping me!",
+            "Pleased. I think the addition of the <object> is just what my home needed. Thank you for your help!"
+          ],
+          "default" : [
+            "That's it! It looks perfect right there! Thank you so much for all your help!",
+            "Much better! It looks just how I'd imagined it. Many thanks, feel free to stop by anytime to admire your handiwork!"
+          ]
+        }
+      },
+      "failureText" : [
+        "I failed to help <questGiver> make some home improvements. I'm sure <questGiver.pronoun.subject>'ll manage without my help.",
+        "I failed to improve the decoration in <questGiver>'s home. It probably would have looked bad anyway."
+      ]
+    },
+    "portraitParameter" : "questGiver",
+    "indicators" : ["deed"],
+
+    "objectives" : [
+      {
+        "text" : "Add <object> to <questGiver>'s house"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "deed"
+    }
+  }
+}

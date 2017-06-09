@@ -1,0 +1,15 @@
+{
+  "projectileName" : "fish2",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 2,
+  "image" : "fish2.png",
+  "damageKindImage" : "icon.png",
+  "damagePoly" : [ [-6, 3], [-3, 6], [3, 6], [6, 3], [6, -3], [3, -6], [-3, -6], [-6, -3] ],
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "speed" : 19,
+  "power" : 50,
+  "damageKind" : "default",
+  "emitters" : [ "defaultlightblue" ]
+}

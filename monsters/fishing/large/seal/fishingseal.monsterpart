@@ -1,0 +1,9 @@
+{
+  "name" : "fishingseal",
+  "category" : "fishingseal",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingseal.png"
+  }
+}

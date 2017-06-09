@@ -1,0 +1,16 @@
+{
+  "name" : "lowgrav",
+  "effectConfig" : {
+    "gravityModifier" : 0.3
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "lowgrav.lua"
+  ],
+
+  "animationConfig" : "lowgrav.animation",
+
+  "label" : "Light",
+  "icon" : "/interface/statuses/lowgrav.png"
+}

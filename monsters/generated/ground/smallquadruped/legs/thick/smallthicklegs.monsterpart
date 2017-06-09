@@ -1,0 +1,16 @@
+{
+  "name" : "smallthicklegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallthickflegs.png",
+    "backLegs" : "smallthickblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.3,
+    "jumpMultiplier" : 1.0
+  }
+}

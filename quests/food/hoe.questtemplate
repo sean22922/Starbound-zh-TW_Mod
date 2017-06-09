@@ -1,0 +1,27 @@
+{
+  "id" : "hoe",
+  "title" : "^green;It's time for a Hoe Down",
+  "text" : "To start farming, I'll need a way to till the soil. I should ^orange;craft a hoe ^green;using some wood and copper bars^white;.",
+  "completionText" : "This should do the job! With this and a watering can I can get to work growing crops.",
+  "rewards" : [
+    [ [ "wheatseed", 5] ]
+  ],
+  "moneyRange" : [10, 10],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "followUp" : "wateringcan",
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "hoe",
+        "count" : 1,
+        "consume" : false
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "frostfleck",
+  "category" : "frostfleck",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "frostfleck.png"
+  }
+}

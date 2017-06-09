@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "petalyellow", "count" : 4 },
+    { "item" : "plantfibre", "count" : 4 },
+    { "item" : "syringe", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "yellowstim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "buffs" ]
+}

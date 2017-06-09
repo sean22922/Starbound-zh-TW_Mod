@@ -1,0 +1,82 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "connection" : {
+        "default" : "disconnected",
+        "states" : {
+          "disconnect" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "transition",
+            "transition" : "disconnected"
+          },
+          "disconnected" : {},
+          "connect" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "transition",
+            "transition" : "connected"
+          },
+          "connected" : {
+            "frames" : 2,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "addon" : {
+        "properties" : {
+          "centered" : false
+        },
+        "partStates" : {
+          "connection" : {
+            "disconnected" : {
+              "properties" : {
+                "image" : "<partImage>:disconnected"
+              }
+            },
+            "connect" : {
+              "properties" : {
+                "image" : "<partImage>:connect.<frame>"
+              }
+            },
+            "connected" : {
+              "properties" : {
+                "image" : "<partImage>:connected.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "addonfullbright" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "connection" : {
+            "disconnected" : {
+              "properties" : {
+                "image" : "<partImage>:disconnected"
+              }
+            },
+            "connect" : {
+              "properties" : {
+                "image" : "<partImage>:connect.<frame>"
+              }
+            },
+            "connected" : {
+              "properties" : {
+                "image" : "<partImage>:connected.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

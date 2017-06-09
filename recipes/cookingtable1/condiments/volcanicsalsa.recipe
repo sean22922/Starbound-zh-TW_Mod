@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "avesmingo", "count" : 1 },
+    { "item" : "chili", "count" : 1 },
+    { "item" : "tomato", "count" : 1 }
+  ],
+  "output" : { "item" : "volcanicsalsa", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ],
+  "collectables" : { "cooking" : "volcanicsalsa" }
+}

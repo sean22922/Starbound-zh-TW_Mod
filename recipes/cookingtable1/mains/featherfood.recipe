@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "feathercrown", "count" : 1 },
+    { "item" : "beakseed", "count" : 1 }
+  ],
+  "output" : { "item" : "featherfood", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "featherfood" }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "backArm",
+  "category" : "penguinrockettrooper",
+  "type" : "backArm",
+
+  "frames" : {
+    "backArm" : "backArm.png"
+  }
+}

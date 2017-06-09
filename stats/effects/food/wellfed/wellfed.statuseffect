@@ -1,0 +1,16 @@
+{
+  "name" : "wellfed",
+  "effectConfig" : {
+    "healTime" : 120
+  },
+  "defaultDuration" : 120,
+
+  "scripts" : [
+    "wellfed.lua"
+  ],
+
+  "animationConfig" : "wellfed.animation",
+
+  "label" : "Full Belly",
+  "icon" : "/interface/statuses/wellfed.png"
+}

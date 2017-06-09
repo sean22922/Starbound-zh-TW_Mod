@@ -1,0 +1,9 @@
+{
+  "name" : "cell2critter",
+  "category" : "cell2critter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

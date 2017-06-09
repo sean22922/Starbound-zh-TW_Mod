@@ -1,0 +1,9 @@
+{
+  "name" : "mudstag",
+  "category" : "mudstag",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mudstag.png"
+  }
+}

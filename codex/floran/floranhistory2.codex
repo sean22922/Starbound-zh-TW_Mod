@@ -1,0 +1,19 @@
+{
+  "id" : "floranhistory2",
+  "species" : "floran",
+  "title" : "The Role of a Greenfinger",
+  "description" : "A book explaining the role of a Greenfinger within a Floran tribe.",
+  "icon" : "florancover5.png",
+  "contentPages" : [
+    "The typical Floran does not have the patience to create technology more advanced than basic weapons and armour, so it is up to Greenfingers to assist them.
+
+Only one Greenfinger is born among a whole tribe, gifted with the abilities to mentally manipulate plants. By connecting with plants, the Greenfingers can interface with machinery and computers directly, letting them reverse engineer technology so that the average Floran can use it comfortably.",
+
+"Greenfingers are valued among their people above all others, for these skills and more."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

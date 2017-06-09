@@ -1,0 +1,10 @@
+{
+  "name" : "scythe",
+  "category" : "guardianboss",
+  "type" : "lefthand",
+
+  "frames" : {
+    "lefthand" : "scythe.png",
+    "lefthandfullbright" : "scythefullbright.png"
+  }
+}

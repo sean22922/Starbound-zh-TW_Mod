@@ -1,0 +1,15 @@
+{
+  "name" : "crystalSineBeamAttack",
+  "label" : "BEAMS OF PERIL",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalSineBeamAttack.lua" ],
+    "crystalSineBeamAttack" : {
+      "skillTime" : 21,
+      "rotateInterval" : 21,
+        
+      "damagePerSecond" : 1000
+    }
+  }
+}

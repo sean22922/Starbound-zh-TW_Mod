@@ -1,0 +1,12 @@
+{
+  "projectileName" : "meteor",
+  "image" : "meteor.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "power" : 10.0,
+  "damageKind" : "default",
+  "timeToLive" : 10.0,
+  "physics" : "gravitybullet"
+}

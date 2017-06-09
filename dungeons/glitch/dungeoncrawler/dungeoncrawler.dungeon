@@ -1,0 +1,222 @@
+{
+  "metadata" : {
+    "name" : "dungeoncrawler",
+    "species" : "glitch",
+    "rules" : [
+    ],
+    "anchor" : [ "dungeoncrawlerbase1", "dungeoncrawlerbase2"],
+    "maxRadius" : 1000000,
+    "maxParts" : 65,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "dungeoncrawlerbase1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerbase2", "dungeoncrawler2a", "dungeoncrawler2b" ] ]
+
+      ],
+      "def" : [ "tmx", "dungeoncrawlerbase1.json" ]
+    },
+    {
+      "name" : "dungeoncrawlerbase2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerbase1", "dungeoncrawler2a", "dungeoncrawler2b" ] ]
+
+      ],
+      "def" : [ "tmx", "dungeoncrawlerbase2.json" ]
+    },
+    {
+      "name" : "dungeoncrawler1a",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler1a", "dungeoncrawler1b" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler1a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler1b",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler1a", "dungeoncrawler1b" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler1b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler2a",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler2a", "dungeoncrawler2b" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler2a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler2b",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler2a", "dungeoncrawler2b" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawler2bclue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler2b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler2bclue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler2a", "dungeoncrawler2bclue" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawler2b", "dungeoncrawler3bclue", "dungeoncrawlerside1clue", "dungeoncrawlerside2clue", "dungeoncrawlerside6clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler2bclue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler3a",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler3a", "dungeoncrawler3b" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler3a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler3b",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler3a", "dungeoncrawler3b" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawler3bclue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler3b.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler3bclue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler3a", "dungeoncrawler3bclue" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawler3b", "dungeoncrawler2bclue", "dungeoncrawlerside1clue", "dungeoncrawlerside2clue", "dungeoncrawlerside6clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler3bclue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawler4a",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawler4a" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawler4a.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside1clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6", "dungeoncrawlerside1clue" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside1", "dungeoncrawler2bclue", "dungeoncrawler3bclue", "dungeoncrawlerside2clue", "dungeoncrawlerside6clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside1clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside2clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside2.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6", "dungeoncrawlerside2clue" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside2", "dungeoncrawler2bclue", "dungeoncrawler3bclue", "dungeoncrawlerside1clue", "dungeoncrawlerside6clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside2clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside3.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside4.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside5.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside6clue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside6.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlerside6clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "dungeoncrawlerside1", "dungeoncrawlerside2", "dungeoncrawlerside3", "dungeoncrawlerside4", "dungeoncrawlerside5", "dungeoncrawlerside6", "dungeoncrawlerside6clue" ] ],
+        [ "doNotCombineWith", [ "dungeoncrawlerside6", "dungeoncrawlerside1", "dungeoncrawlerside2clue", "dungeoncrawler2bclue", "dungeoncrawler3bclue" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlerside6clue.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "dungeoncrawlersidetunnel",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "dungeoncrawlersidetunnel" ] ]
+      ],
+      "def" : [ "tmx", "dungeoncrawlersidetunnel.json" ],
+      "chance" : 1
+    }
+  ]
+}

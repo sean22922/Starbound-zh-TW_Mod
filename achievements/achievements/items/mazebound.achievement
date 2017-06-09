@@ -1,0 +1,16 @@
+{
+  "name" : "mazebound",
+
+  "triggers" : [
+    "item.itemName.winningticket"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.itemName.winningticket",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

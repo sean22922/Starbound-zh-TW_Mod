@@ -1,0 +1,10 @@
+{
+  "name" : "icebody",
+  "category" : "icerangedminion",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "icebody.png",
+    "bodyfullbright" : "icebodyfullbright.png"
+  }
+}

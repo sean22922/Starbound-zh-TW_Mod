@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "floki",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "floki.png"
+  }
+}

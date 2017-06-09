@@ -1,0 +1,9 @@
+{
+  "name" : "largefantail",
+  "category" : "largefish",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largefantail.png"
+  }
+}

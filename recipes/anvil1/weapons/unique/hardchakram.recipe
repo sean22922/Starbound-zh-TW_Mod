@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "chakram", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 1 },
+    { "item" : "hardenedcarapace", "count" : 15 }
+  ],
+  "output" : { "item" : "hardchakram", "count" : 1 },
+  "groups" : [  "craftinganvil", "weapons", "all" ]
+}

@@ -1,0 +1,25 @@
+{
+  "id" : "firstcrops",
+  "title" : "^orange;The First Harvest",
+  "text" : "Now that I've got a hoe and a watering can, I can start farming! I should ^green;till and water some soil for planting^white; and ^orange;harvest 5 wheat and 5 pearlpeas^white;.",
+  "prerequisites" : [ "hoe", "wateringcan" ],
+  "completionText" : "Finally, farming begins to pay off! I should see what else I can find to grow.",
+  "rewards" : [ ],
+  "moneyRange" : [100, 100],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "wheat",
+        "count" : 5,
+        "consume" : false
+      }
+    ]
+  }
+}

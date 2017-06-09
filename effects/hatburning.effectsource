@@ -1,0 +1,29 @@
+{
+  "kind" : "hatburning",
+  "definition" : {
+    "duration" : 0.3,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        []
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "burninghat" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "burninghat" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

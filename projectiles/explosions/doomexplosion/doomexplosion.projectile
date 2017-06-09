@@ -1,0 +1,25 @@
+{
+  "projectileName" : "doomexplosion",
+  "image" : "doomexplosion.png",
+  "timeToLive" : 0.3,
+  "animationCycle" : 0.3,
+  "frameNumber" : 6,
+  "speed" : 0,
+  "damagePoly" : [ ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "onlyHitTerrain" : true,
+  "flippable" : true,
+  "damageKind" : "nodamage",
+  "lightColor" : [255, 150, 150],
+  "renderLayer" : "MiddleParticle",
+
+  "periodicActions" : [
+    {
+      "time" : 0.01,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/gun/plasma_shotgun2.ogg" ]
+   }
+  ]
+}

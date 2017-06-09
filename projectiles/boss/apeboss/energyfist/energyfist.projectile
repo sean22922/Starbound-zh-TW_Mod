@@ -1,0 +1,69 @@
+{
+  "projectileName" : "energyfist",
+  "image" : "energyfist.png",
+  "animationCycle" : 0.1,
+  "animationLoops" : false,
+  "lightColor" : [100, 150, 150],
+  "frameNumber" : 1,
+  "flippable" : true,
+  "fullbright" : true,
+  "renderLayer" : "Monster+10",
+  "damageKindImage" : "icon.png",
+  "physics" : "illusion",
+  "emitters" : [ ],
+  "damageKind" : "slash",
+  "damagePoly" : [ [-1.0, -1.0], [-1.0, 1.0], [1.0, 1.0], [1.0, -1.0] ],
+  "periodicActions" : [
+    {
+      "time" : 0.02,
+      "repeat" : true,
+      "action" : "particle",
+      "rotate" : true,
+      "specification" : {
+          "type" : "ember",
+          "size" : 2,
+          "color" : [0, 255, 255],
+          "position" : [0, 0],
+          "destructionAction" : "fade",
+          "destructionTime" : 0.2,
+          "fade" : 1,
+          "layer" : "middle",
+          "timeToLive" : 0.2,
+          "variance" : {
+            "initialVelocity" : [2.0, 2.0],
+            "position" : [1, 1]
+          }
+      }
+    }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "loop",
+      "count" : 20,
+      "body" : [
+        {
+          "action" : "particle",
+          "rotate" : true,
+          "specification" : {
+              "type" : "ember",
+              "size" : 2,
+              "color" : [0, 255, 255],
+              "position" : [0, 0],
+              "destructionAction" : "fade",
+              "destructionTime" : 0.2,
+              "fade" : 1,
+              "layer" : "middle",
+              "timeToLive" : 0.2,
+              "variance" : {
+                "initialVelocity" : [2.0, 2.0],
+                "position" : [1, 1]
+              }
+          }
+        }
+      ]
+    }
+  ],
+
+  "speed" : 25,
+  "timeToLive" : 4.0
+}

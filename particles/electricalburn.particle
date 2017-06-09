@@ -1,0 +1,19 @@
+{
+  "kind" : "electricalburn",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/statuseffects/electricalburn/electricalburn.animation",
+    "rotation" : 90,
+    "initialVelocity" : [0, 0],
+    "approach" : [1, 1],
+    "timeToLive" : 0.25,
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.5,
+    "size" : 0.7,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [8, 8],
+      "rotation" : 180
+    }
+  }
+}

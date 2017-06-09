@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "heavypipe", "count" : 20 },
+    { "item" : "darkwoodmaterial", "count" : 25 },
+    { "item" : "silk", "count" : 3 }
+  ],
+  "output" : { "item" : "steamspringbed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

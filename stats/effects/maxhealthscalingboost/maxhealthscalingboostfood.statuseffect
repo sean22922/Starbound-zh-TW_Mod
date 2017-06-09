@@ -1,0 +1,14 @@
+{
+  "name" : "maxhealthscalingboostfood",
+  "effectConfig" : {
+    "healthModifier" : 1.20
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "maxhealthscalingboost.lua"
+  ],
+
+  "label" : "Bonus Health",
+  "icon" : "/interface/statuses/maxhealth.png"
+}

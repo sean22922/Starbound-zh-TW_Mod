@@ -1,0 +1,9 @@
+{
+  "name" : "wurmcritter",
+  "category" : "wurmcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

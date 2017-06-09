@@ -1,0 +1,19 @@
+{
+  "kind" : "electriccloudpuff",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/electriccloudpuff/electriccloudpuff.animation",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0.5, 0.5],
+    "timeToLive" : 0.7,
+    "size" : 1.0,
+    "variance" : {
+      "position" : [2, 2],
+      "initialVelocity" : [5, 5],
+      "rotation" : 180,
+      "size" : 0.25
+    }
+  }
+}

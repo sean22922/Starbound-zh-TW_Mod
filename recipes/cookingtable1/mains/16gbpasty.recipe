@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "boltbulb", "count" : 1 },
+    { "item" : "diodia", "count" : 1 },
+    { "item" : "alienmeat", "count" : 1 },
+    { "item" : "wheat", "count" : 1 }
+  ],
+  "output" : { "item" : "16gbpasty", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "16gbpasty" }
+}

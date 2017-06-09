@@ -1,0 +1,21 @@
+{
+  "kind" : "firefly",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [255, 174, 0, 255],
+    "fade" : 0.9,
+    "destructionAction" : "shrink",
+    "destructionTime" : 1,
+    "initialVelocity" : [1, -6.0],
+    "finalVelocity" : [-2, -6.0],
+    "approach" : [0, 20],
+    "timeToLive" : 10,
+    "light" : [72, 54, 14],
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [8, 6.0],
+      "finalVelocity" : [-2, -6.0]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "ancientgateway" : {
+    "text" : "Ancient ruins such as this can be found throughout the galaxy. I'm detecting a spatial anomaly nearby... Perhaps some form of teleportation device?"
+  },
+
+  "techconsole" : {
+    "text" : "The console in this room is configured to alter the Tech abilities you have equipped. Interacting with it will allow you to install new Tech."
+  },
+
+  "biomeradiation" : {
+    "unique" : false,
+    "text" : "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without proper protective equipment!",
+    "portraitImage" : "yell.<frame>",
+    "textSpeed" : 70
+  },
+
+  "biomecold" : {
+    "unique" : false,
+    "text" : "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY LOW!\nYou should not attempt further exploration without proper protective equipment!",
+    "portraitImage" : "yell.<frame>",
+    "textSpeed" : 70
+  },
+
+  "biomeheat" : {
+    "unique" : false,
+    "text" : "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY HIGH!\nYou should not attempt further exploration without proper protective equipment!",
+    "portraitImage" : "yell.<frame>",
+    "textSpeed" : 70
+  },
+
+  "biomeairless" : {
+    "unique" : false,
+    "text" : "It may be worth noting that this celestial body has no atmosphere and that you are slowly suffocating. I suggest you leave, and return when you have crafted a breathing EPP.",
+    "textSpeed" : 70
+  },
+
+  "erchiussickness" : {
+    "unique" : false,
+    "text" : "I am detecting entities attracted by the moon's erchius deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'. I salute your fearlessness."
+  }
+}

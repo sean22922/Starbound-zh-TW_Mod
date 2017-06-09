@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingcurlythorns",
+  "description" : "Curly thorns.",
+  "shortdescription" : "Curly thorns.",
+  "floranDescription" : "Ssspiky.",
+  "glitchDescription" : "Statement. Curly thorns.",
+  "ceiling" : true,
+  "images" : [ "ceilingcurlythorns1.png", "ceilingcurlythorns2.png", "ceilingcurlythorns3.png", "ceilingcurlythorns4.png", "ceilingcurlythorns5.png" ]
+}

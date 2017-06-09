@@ -1,0 +1,66 @@
+{
+  "projectileName" : "spacemonsterspawner",
+  "image" : "spacemonsterspawner.png",
+  "physics" : "default",
+  "movementSettings" : {
+    "collisionPoly" : [ [-1.5, 0], [-1.0, -1.0], [0, -1.5], [1.0, -1.0], [1.5, 0], [1.0, 1.0], [0, 1.5], [-1.0, 1.0] ]
+  },
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "power" : 0,
+  "speed" : 10,
+  "timeToLive" : 20.0,
+  "bounces" : 1,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "piercing" : true,
+  "periodicActions" : [
+    {
+      "time" : 0.02,
+      "repeat" : true,
+      "action" : "particle",
+      "rotate" : true,
+      "specification" : {
+          "type" : "ember",
+          "size" : 2,
+          "color" : [0, 0, 0],
+          "position" : [0, 0],
+          "destructionAction" : "fade",
+          "destructionTime" : 0.2,
+          "fade" : 1,
+          "layer" : "middle",
+          "timeToLive" : 0.2,
+          "variance" : {
+            "initialVelocity" : [2.0, 2.0],
+            "position" : [1.5, 1.5]
+          }
+      }
+    }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "particle",
+      "specification" : {
+        "type" : "animated",
+        "looping" : false,
+        "animation" : "/animations/spacemonsterspawn/spacemonsterspawn.animation",
+        "size" : 1,
+        "timeToLive" : 0.2,
+        "destructionAction" : "fade",
+        "destructionTime" : 0.1,
+        "layer" : "front"
+      }
+    },
+    {
+      "action" : "sound",
+      "options" : [
+        "/sfx/npc/monsters/pod_release1.ogg"
+      ]
+    }
+  ],
+
+  "onlyHitTerrain" : true,
+
+  "renderLayer" : "Monster+20",
+
+  "scripts" : [ "spacemonsterspawner.lua" ]
+}

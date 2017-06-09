@@ -1,0 +1,18 @@
+{
+  "kind" : "petricubfade",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/monsters/walkers/petricub/petricubfade.png",
+    "size" : 1,
+    "fade" : 0.9,
+    "angularVelocity" : 450,
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [12, 18],
+    "timeToLive" : 0.5,
+    "position" : [0, 0],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.5,
+    "layer" : "back"
+  }
+}

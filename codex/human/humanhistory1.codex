@@ -1,0 +1,25 @@
+{
+  "id" : "humanhistory1",
+  "species" : "human",
+  "title" : "Humanity's Redemption",
+  "description" : "An account of Earth's history, written when the Terrene Protectorate was formed.",
+  "icon" : "humancover1.png",
+  "contentPages" : [
+  "In order to appreciate how far humanity has come, one must take a journey through our history.
+
+The desire to discover, pioneer, and prosper has always been our strength, and was a common value amongst the diverse populace of Earth.
+
+This passion often erupted into conflict when confined to our tiny planet, blinded by greed we stripped Earth bare of its finite resources.",
+
+"Although the tapestry of our past is stained with bloodshed, in times of strife, ingenuity is humanity's saving grace.
+
+As our technology improved we were able to travel further into space, and in time we encountered other sentient life and plentiful resources. We were forever changed, enlightened by these discoveries.",
+
+"We became united in our goal to establish the Terrene Protectorate here on Earth as a bastion of peace and acceptance for all throughout the universe."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

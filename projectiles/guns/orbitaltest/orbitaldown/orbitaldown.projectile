@@ -1,0 +1,20 @@
+{
+  "projectileName" : "orbitaldown",
+  "image" : "orbitaldown.png",
+  "physics" : "laser",
+  "bounces" : 0,
+  "timeToLive" : 5,
+  "animationCycle" : 0.5,
+  "speed" : 200,
+  "frameNumber" : 1,
+  "flippable" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/grenadeexplosion/grenadeexplosion.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

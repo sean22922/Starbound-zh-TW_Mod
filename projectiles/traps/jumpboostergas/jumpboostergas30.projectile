@@ -1,0 +1,19 @@
+{
+  "projectileName" : "jumpboostergas30",
+  "image" : "jumpboostergas.png",
+  "physics" : "gas",
+  "animationCycle" : 1.05,
+  "frameNumber" : 8,
+  "power" : -1,
+  "speed" : 10,
+  "timeToLive" : 0.9,
+  "bounces" : 1,
+  "damagePoly" : [ [-18, 0], [-12, -12], [0, -18], [12, -12], [18, 0], [12, 12], [0, 18], [-12, 12] ],
+  "piercing" : true,
+  "statusEffects" : [
+    {"effect": "jumpboost", "duration" : 30}
+  ],
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageType" : "ignoresdef",
+  "damageKind" : "nodamage"
+}

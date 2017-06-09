@@ -1,0 +1,50 @@
+{
+  "id" : "human_mission1",
+  "mainQuest" : true,
+  "title" : "The Erchius Mining Facility",
+  "prerequisites" : [ "gaterepair" ],
+  "text" : "I can repair that ship, but it's gonna take 20 ^orange;Erchius Crystals^reset;... You'd better ^green;get yerself over to the Erchius Mining Facility^reset;. I've sent the location coordinates to ^green;yer ship's SAIL^reset;.",
+  "completionText" : "Perfect! These'll do the job. I'll go ahead and fix up yer ship right now.",
+  "completionCinema" : "/cinematics/repair/repair.cinematic",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/story/human_mission1.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+      }
+    },
+
+    "descriptions" : {
+      "findCrystals" : "^green;Fetch ^orange;Erchius Crystals^white; from the ^orange;Erchius Mining Facility^white;",
+      "turnIn" : "^green;Return^white; to ^orange;the shipyard captain^white; at the ^orange;outpost^white;"
+    },
+
+    "compassUpdate" : 0.2,
+
+    "associatedMission" : "missionhuman1",
+
+    "missionUnlockedCinema" : "/cinematics/coordinates.cinematic",
+    "missionRadioMessage" : {
+      "messageId" : "humanmissionunlocked",
+      "text" : "I have received the coordinates for the ^orange;Erchius Mining Facility^reset;. If you ^green;return to the ship^reset; you can teleport there using my mission interface."
+    },
+
+    "acquireCrystalsCinema" : "/cinematics/artifacts/erchiuscrystal.cinematic",
+
+    "mechanicUid" : "shipyardcaptain",
+    "drillUid" : "erchiusdrillmachine",
+
+    "shipUpgrade" : { "shipLevel" : 3 }
+  }
+}

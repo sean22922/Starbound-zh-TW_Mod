@@ -1,0 +1,27 @@
+{
+  "projectileName" : "clustermine",
+  "physics" : "spacemine",
+  "bounces" : -1,
+  "pointLight" : true,
+  "lightColor" : [70, 40, 40],
+  "image" : "clustermine.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/clustermineexplosion/clustermineexplosion.config"
+    }
+  ],
+  "speed" : 20,
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "onlyHitTerrain" : true,
+
+  "timeToLive" : 10,
+
+  "scripts" : [ "/scripts/projectiles/remotedetonatedprojectile.lua" ],
+
+  "triggerDelayRange" : [0.1, 0.6]
+}

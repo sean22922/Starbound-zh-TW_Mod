@@ -1,0 +1,19 @@
+{
+  "projectileName" : "hivebomb",
+  "image" : "hivebomb.png",
+  "animationCycle" : 0.35,
+  "physics" : "grenade",
+  "frameNumber" : 4,
+  "pointLight" : false,
+  "speed" : 180,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/hivebombexplosion/hivebombexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "damageKind" : "default"
+}
+
+

@@ -1,0 +1,25 @@
+{
+  "name" : "biomecold",
+  "blockingStat" : "biomecoldImmunity",
+
+  "effectConfig" : {
+    "directives" : "fade=AAAAFF=0.3",
+    "movementModifiers" : {
+      "speedModifier" : 0.6,
+      "airJumpModifier" : 0.6
+    },
+    "tickRate" : 20,
+    "energyCost" : 2.5,
+    "healthDamage" : 5
+  },
+  "defaultDuration" : 3,
+
+  "scripts" : [
+    "biomecold.lua"
+  ],
+
+  "animationConfig" : "biomecold.animation",
+
+  "label" : "Deadly Chill",
+  "icon" : "/interface/statuses/biomecold.png"
+}

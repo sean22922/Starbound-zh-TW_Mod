@@ -1,0 +1,14 @@
+{
+  "id" : "avianhistory9",
+  "species" : "avian",
+  "title" : "History of the Stargazers",
+  "description" : "An Avian textbook about their traditions and culture.",
+  "icon" : "aviancover1.png",
+  "contentPages" : [
+    "Avian society centres around our unwavering devotion to the one true God, Kluex, and thus our high priests, the Stargazers, are the highest echelon of our ruling structure. For aeons our ancestors fought amongst themselves in fragmented factions until the Stargazers united us all, bringing an end to the conflict. Under their rule we have found strength beneath the wings of Kluex."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "largenymphwings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "largenymphbwing.png",
+    "frontWings" : "largenymphfwing.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "largedrilltail",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largedrilltail.png"
+  }
+}

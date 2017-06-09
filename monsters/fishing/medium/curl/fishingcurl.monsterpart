@@ -1,0 +1,9 @@
+{
+  "name" : "fishingcurl",
+  "category" : "fishingcurl",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingcurl.png"
+  }
+}

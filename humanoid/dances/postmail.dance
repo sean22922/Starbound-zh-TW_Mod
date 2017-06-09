@@ -1,0 +1,18 @@
+{
+  "name" : "postmail",
+  "states" : ["idle"],
+  "cycle" : 1.0,
+  "cyclic" : false,
+  "duration" : 1.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "idle.1", null, null, null, null ],
+    [ null, "walk.2", null, null, null, null ],
+    [ null, "walk.1", null, null, null, null ],
+    [ null, "rotation", null, null, null, null ],
+    [ null, "rotation", null, null, null, null ],
+    [ null, "walk.1", null, null, null, null ],
+    [ null, "walk.2", null, null, null, null ],
+    [ null, "idle.1", null, null, null, null ]
+  ]
+}

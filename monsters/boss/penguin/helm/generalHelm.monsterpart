@@ -1,0 +1,9 @@
+{
+  "name" : "generalHelm",
+  "category" : "penguingeneral",
+  "type" : "helm",
+
+  "frames" : {
+    "helm" : "generalHelm.png"
+  }
+}

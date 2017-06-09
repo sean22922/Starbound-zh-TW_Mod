@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "wicker", "count" : 20 },
+    { "item" : "fabric", "count" : 10 },
+    { "item" : "greendye", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "swampbed",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+
+}

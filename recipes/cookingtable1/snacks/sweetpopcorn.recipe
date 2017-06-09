@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "popcorn", "count" : 1 },
+    { "item" : "sugar", "count" : 1 }
+  ],
+  "output" : { "item" : "sweetpopcorn", "count" : 1 },
+  "groups" : [ "craftingfood", "snacks" ],
+  "collectables" : { "cooking" : "sweetpopcorn" }
+}

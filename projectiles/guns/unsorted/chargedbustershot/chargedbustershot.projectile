@@ -1,0 +1,22 @@
+{
+  "projectileName" : "chargedbustershot",
+  "physics" : "laser",
+  "bounces" : 0,
+  "pointLight" : true,
+  "timeToLive" : 3,
+  "image" : "chargedbustershot.png",
+  "damageKindImage" : "icon.png",
+  "speed" : 1,
+  "animationCycle" : 3,
+  "lightColor" : [159, 151, 7],
+  "frameNumber" : 25,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smallregularexplosion/smallregularexplosion.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "slash"
+}

@@ -1,0 +1,19 @@
+{
+  "kind" : "splashwater",
+  "definition" : {
+    "type" : "ember",
+    "color" : [60, 150, 224, 150],
+    "initialVelocity" : [-2.0, 8.0],
+    "finalVelocity" : [0, -10],
+    "approach" : [5, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.2,
+    "size" : 3,
+    "layer" : "front",
+    "timeToLive" : 1.5,
+    "variance" : {
+      "size" : 2.0,
+      "initialVelocity" : [2.0, 10.0]
+    }
+  }
+}

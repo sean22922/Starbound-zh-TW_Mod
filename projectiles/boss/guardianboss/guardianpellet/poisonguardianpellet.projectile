@@ -1,0 +1,17 @@
+{
+  "projectileName" : "poisonguardianpellet",
+  "image" : "poisonguardianpellet.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "fullbright" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "poisonplasma",
+
+  "emitters" : [ "poisonplasma" ],
+
+  "power" : 10,
+  "speed" : 50
+}

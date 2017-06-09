@@ -1,0 +1,16 @@
+{
+  "name" : "largetentaclelegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largetentacleflegs.png",
+    "backLegs" : "largetentacleblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.5,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

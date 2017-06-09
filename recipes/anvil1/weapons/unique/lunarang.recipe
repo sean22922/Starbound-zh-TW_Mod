@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "boomerang", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 1 },
+    { "item" : "phasematter", "count" : 15 }
+  ],
+  "output" : { "item" : "lunarang", "count" : 1 },
+  "groups" : [  "craftinganvil", "weapons", "all" ]
+}

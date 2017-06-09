@@ -1,0 +1,16 @@
+{
+  "projectileName" : "friendlybubble",
+  "image" : "friendlybubble.png",
+  "physics" : "friendlybubble",
+  "animationCycle" : 2,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 1,
+  "power" : 0,
+  "speed" : 25,
+  "timeToLive" : 5,
+  "damageTeam" : { "type" : "indiscriminate" },
+  "bounces" : 4,
+  "piercing" : false,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "nodamage"
+}

@@ -1,0 +1,11 @@
+{
+  "name" : "headlamp",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "headlamp.lua"
+  ],
+
+  "animationConfig" : "headlamp.animation"
+}

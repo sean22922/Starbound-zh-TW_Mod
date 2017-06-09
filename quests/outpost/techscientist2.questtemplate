@@ -1,0 +1,53 @@
+{
+  "id" : "techscientist2",
+  "prerequisites" : [ "techscientist1" ],
+  "title" : "^orange;A Dashing Individual",
+  "text" : "My ^orange;Dash Tech^white; needs to be properly tested before I can go into mass-production. Would you mind ^green;putting it through its paces on my ^orange;obstacle course^white;? ^green;Talk to me again when you're ready^white; and I can send you there.",
+  "completionText" : "The ^orange;Dash Tech^white; appears to be functioning perfectly! Wonderful! Please, keep the Tech as a token of my thanks. I also have other prototypes that need testing, so come and see me again when you're ready.",
+  "moneyRange" : [100, 100],
+  "rewards" : [],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/techlab/techlabscientistportrait.png"} ],
+        "title" : "Elliott"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Elliott^reset; to enter the ^orange;obstacle course^reset;",
+      "findGoal" : "Complete the ^orange;Dash Tech obstacle course^reset;",
+      "turnIn" : "Return to ^orange;Elliott^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "techlabscientist",
+    "warpAction" : "instanceworld:techchallenge_dash",
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:techscientist_dash",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 10,
+    "goalEntityUid" : "dashchallengeteleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "techlabscientist",
+
+    // Completion actions
+    "showTech" : [
+      "airdash",
+      "blinkdash",
+      "sprint"
+    ],
+    "equipTech" : [
+      "dash"
+    ],
+    "setUniverseFlags" : ["outpost_techscientist1"]
+  }
+}

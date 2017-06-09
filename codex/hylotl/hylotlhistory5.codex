@@ -1,0 +1,17 @@
+{
+  "id" : "hylotlhistory5",
+  "species" : "hylotl",
+  "title" : "The Evolution of the Hylotl",
+  "description" : "A Hylotl scholar's observations on how their race evolved.",
+  "icon" : "hylotlcover6.png",
+  "contentPages" : [
+    "As Hylotl were originally a land dwelling species, our biology has undergone rapid evolutionary changes in the several thousand years since adopting a subaquatic lifestyle. This is possible due to our naturally fast genetic metabolism, short lifespan and frequent generational turnover, compared to other lifeforms. After initially relying on Hylotl technology to aid in swimming and breathing, our bodies began to develop fin-like protrusions and retractable webbing between fingers and toes.",
+
+"It is still a necessity for Hylotl to breathe air, but our increased lung capacities allow for prolonged sessions of deep-sea activity, and when appropriate can be utilised as a buoyancy aid. Modern Hylotl also have the ability to see clearly in both air and water unaided, despite the differences in density."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

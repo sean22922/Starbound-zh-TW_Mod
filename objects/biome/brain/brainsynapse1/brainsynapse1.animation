@@ -1,0 +1,141 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "blink" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "lit" : {
+            "frames" : 1,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "synapse" : {
+        "properties" : {
+          "zLevel" : 0,
+          "centered" : true,
+          "image" : "<partImage>:idle"
+        }
+      },
+      "synapselit" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "blink" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            },
+            "lit" : {
+              "properties" : {
+                "image" : "<partImage>:lit"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "signal" : { "interpolated" : false}
+  },
+
+  "particleEmitters" : {
+    "signal" : {
+      "emissionRate" : 1.0,
+      "transformationGroups" : [ "signal" ],
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [200, 200, 250],
+            "light" : [70, 70, 120],
+            "fade" : 1,
+            "position" : [0, 0],
+            "initialVelocity" : [0, -30],
+            "timeToLive" : 0.5,
+            "collidesForeground" : false,
+            "layer" : "middle",
+            "variance" : {
+            }
+          }
+        }
+      ]
+    },
+    "signal2" : {
+      "emissionRate" : 1.0,
+      "transformationGroups" : [ "signal" ],
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [200, 200, 250],
+            "light" : [70, 70, 120],
+            "position" : [0, -15],
+            "initialVelocity" : [20, -30],
+            "timeToLive" : 1.0,
+            "collidesForeground" : false,
+            "layer" : "middle",
+            "variance" : {
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [200, 200, 250],
+            "light" : [70, 70, 120],
+            "position" : [0, -15],
+            "initialVelocity" : [-20, -30],
+            "timeToLive" : 1.0,
+            "collidesForeground" : false,
+            "layer" : "middle",
+            "variance" : {
+            }
+          }
+        },
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [200, 200, 250],
+            "light" : [100, 100, 150],
+            "position" : [0, -15],
+            "initialVelocity" : [0, 0],
+            "timeToLive" : 0.2,
+            "fade" : 5,
+            "collidesForeground" : false,
+            "layer" : "middle",
+            "variance" : {
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  "lights" : {
+    "blink" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [100, 100, 150],
+      "pointLight" : false
+    }
+  }
+}

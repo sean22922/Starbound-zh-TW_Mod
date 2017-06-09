@@ -1,0 +1,15 @@
+{
+  "name" : "largetapirhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largetapirhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelash",
+    "projectileSourcePosition" : [1, -0.9]
+  }
+}

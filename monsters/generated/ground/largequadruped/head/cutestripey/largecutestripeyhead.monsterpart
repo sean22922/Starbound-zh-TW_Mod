@@ -1,0 +1,15 @@
+{
+  "name" : "largecutestripeyhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecutestripeyhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelashdown",
+    "projectileSourcePosition" : [1, -0.7]
+  }
+}

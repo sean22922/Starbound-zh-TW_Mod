@@ -1,0 +1,9 @@
+{
+  "name" : "shardwing",
+  "category" : "shardwing",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "shardwing.png"
+  }
+}

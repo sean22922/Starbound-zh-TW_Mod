@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 5 },
+    { "item" : "refinedviolium", "count" : 5 },
+    { "item" : "refinedaegisalt", "count" : 5 },
+    { "item" : "wire", "count" : 6 },
+    { "item" : "smallbattery", "count" : 4 }
+  ],
+  "output" : { "item" : "oredetector", "count" : 1 },
+  "groups" : [ "craftingfarm2", "survival" ]
+}

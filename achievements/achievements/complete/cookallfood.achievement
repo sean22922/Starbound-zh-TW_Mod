@@ -1,0 +1,16 @@
+{
+  "name" : "cookallfood",
+
+  "triggers" : [
+    "itemSet.category.preparedFood"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.preparedFood",
+      "op" : "sizeAtLeast",
+      "value" : 42
+    }
+  ]
+}

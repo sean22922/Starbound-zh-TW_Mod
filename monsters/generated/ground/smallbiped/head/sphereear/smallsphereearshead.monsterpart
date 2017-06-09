@@ -1,0 +1,13 @@
+{
+  "name" : "smallsphereearshead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallsphereearshead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

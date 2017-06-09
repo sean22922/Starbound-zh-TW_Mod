@@ -1,0 +1,12 @@
+{
+  "name" : "titanic",
+  "states" : ["idle","sit","walk"],
+  "cycle" : 0.25,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    {
+      "frontArmFrame" : "fall.3","backArmFrame" : "fall.4"
+    }
+  ]
+}

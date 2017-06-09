@@ -1,0 +1,9 @@
+{
+  "name" : "squeekcritter",
+  "category" : "squeekcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "projectileName" : "chiropterrortrail",
+  "image" : "chiropterrortrail.png",
+  "animationCycle" : 0.5,
+  "lightColor" : [50, 200, 50],
+  "frameNumber" : 5,
+  "flippable" : false,
+  "fullbright" : true,
+  "renderLayer" : "Monster-5",
+  "physics" : "laser",
+  "emitters" : [ ],
+  "damageKind" : "poisonplasma",
+
+  "speed" : 0,
+  "timeToLive" : 3.0
+}

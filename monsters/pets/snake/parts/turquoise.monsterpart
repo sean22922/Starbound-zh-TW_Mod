@@ -1,0 +1,9 @@
+{
+  "name" : "turquoise",
+  "category" : "petsnake",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "turquoise.png"
+  }
+}

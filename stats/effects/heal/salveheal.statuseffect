@@ -1,0 +1,17 @@
+{
+  "name" : "salveheal",
+  "effectConfig" : {
+    "healAmount" : 50,
+    "emissionRate" : 2
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "heal.lua"
+  ],
+
+  "animationConfig" : "heal.animation",
+
+  "label" : "Healing",
+  "icon" : "/interface/statuses/heal.png"
+}

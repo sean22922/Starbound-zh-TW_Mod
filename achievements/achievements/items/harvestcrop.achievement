@@ -1,0 +1,16 @@
+{
+  "name" : "harvestcrop",
+
+  "triggers" : [
+    "item.category.eventCrop"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.eventCrop",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name" : "toxicplains",
+  "description" : "Potentially toxic plants.",
+  "shortdescription" : "Toxic plants.",
+  "floranDescription" : "Floran drink poison for breakfast. Then die.",
+  "glitchDescription" : "Statement. Toxic plants.",
+  "images" : [ "toxicplains1.png", "toxicplains2.png", "toxicplains3.png", "toxicplains4.png", "toxicplains5.png", "toxicplains6.png", "toxicplains7.png", "toxicplains8.png", "toxicplains9.png", "toxicplains10.png", "toxicplains11.png", "toxicplains12.png" ]
+}

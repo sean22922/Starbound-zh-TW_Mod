@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "largesnowball", "count" : 2 }
+  ],
+  "output" : { "item" : "giganticsnowball", "count" : 1 },
+  "groups" : [ "craftinganvil", "consumables", "all" ]
+}

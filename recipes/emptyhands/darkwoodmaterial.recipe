@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "logblock", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "darkwoodmaterial",
+    "count" : 5
+  },
+  "duration" : 0.05,
+  "groups"  : [ "plain", "craftingfurniture", "materials", "all" ]
+}

@@ -1,0 +1,25 @@
+{
+  "id" : "floranhistory1",
+  "species" : "floran",
+  "title" : "How To Get Meats",
+  "description" : "An old Floran book on hunting techniques. The cover is made of cracked bone.",
+  "icon" : "florancover6.png",
+  "contentPages" : [
+    "FLORAN HUNTING WRITE BOOK
+
+ The flesh people think plants don't like hunt, all plants like trees
+
+ Flesh people dumb, Floran hunt them and have good time doing it
+
+ Step One - Run faster than preys to catch thems
+
+ Tip 2 - Stab them faster than they stab you
+
+ ENJOY HUNTING"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

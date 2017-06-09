@@ -1,0 +1,61 @@
+{
+  "animatedParts" : {
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "rotationGroup" : "body",
+          "image" : "<partImage>"
+        }
+      }
+    }
+  },
+
+  "rotationGroups" : {
+    "body" : {
+      "rotationCenter" : [0, 0],
+      "angularVelocity" : 5
+    }
+  },
+
+  "particleEmitters" : {
+    "trail" : {
+      "active" : true,
+      "emissionRate" : 0.3,
+      "particles" : [
+        {
+          "particle" : {
+            "type" : "ember",
+            "size" : 1.0,
+            "color" : [225, 214, 0, 255],
+            "fullbright" : true,
+            "destructionAction" : "shrink",
+            "destructionTime" : 1,
+            "initialVelocity" : [-0.1, -0.1],
+            "finalVelocity" : [-0.1, -0.1],
+            "approach" : [0.65, 0.65],
+            "timeToLive" : 20,
+            "light" : [72, 54, 14],
+            "layer" : "back",
+            "variance" : {
+              "initialVelocity" : [1.0, 1.0],
+              "finalVelocity" : [1.0, 1.0]
+            }
+          }
+        }
+      ]
+    }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0,
+      "directives" : "fade=ffffff;0.5"
+    }
+  },
+
+  "sounds" : {
+    "turnHostile" : [ ],
+    "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ]
+  }
+}

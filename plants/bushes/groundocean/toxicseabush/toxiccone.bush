@@ -1,0 +1,24 @@
+{
+  "name" : "toxiccone",
+  "description" : "Toxic Cone bush.",
+  "shortdescription" : "Toxic cone bush.",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "toxiccone1.png"
+    },
+    {
+      "base" : "toxiccone2.png"
+    },
+    {
+      "base" : "toxiccone3.png"
+    },
+    {
+      "base" : "toxiccone4.png"
+    },
+    {
+      "base" : "toxiccone5.png"
+    }
+  ]
+}

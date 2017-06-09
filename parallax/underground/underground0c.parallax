@@ -1,0 +1,25 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/smoothgreygap",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/waterfall",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.35,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/cavern",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.5,
+      "repeatY" : true
+    }
+  ]
+}

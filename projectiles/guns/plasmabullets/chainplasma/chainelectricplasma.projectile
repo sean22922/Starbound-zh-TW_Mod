@@ -1,0 +1,25 @@
+{
+  "projectileName" : "chainelectricplasma",
+  "physics" : "laser",
+  "damageKindImage" : "icon.png",
+  "image" : "electricplasma.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 3,
+  "power" : 50,
+  "speed" : 100,
+  "emitters" : [ "electricplasma" ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ "electrified" ],
+  "lightColor" : [102, 32, 110],
+  "damageKind" : "electricplasma",
+  "piercing" : true,
+
+  "scripts" : [ "/scripts/projectiles/chainbullet.lua" ],
+  "chainProjectile" : "chainelectricplasma2"
+}

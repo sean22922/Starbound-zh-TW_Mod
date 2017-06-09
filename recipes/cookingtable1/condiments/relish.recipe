@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "tomato", "count" : 1 },
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "corn", "count" : 1 }
+  ],
+  "output" : { "item" : "relish", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ],
+  "collectables" : { "cooking" : "relish" }
+}

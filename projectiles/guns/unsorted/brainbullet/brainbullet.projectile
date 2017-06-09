@@ -1,0 +1,19 @@
+{
+  "projectileName" : "brainbullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "brainbullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "lightColor" : [73, 10, 0],
+  "damageKind" : "brain"
+}

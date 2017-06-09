@@ -1,0 +1,689 @@
+[
+  {
+    "name" : "butterbee",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "butterbee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fawnfly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "fawnfly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "mudstag",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "mudstag",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "blueback",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "blueback",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "greentip",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "greentip",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "redwing",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "redwing",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sunskipper",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "sunskipper",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "goldbuck",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "goldbuck",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sandclown",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "sandclown",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "dustmoth",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "dustmoth",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "muddancer",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "muddancer",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "dewhopper",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "dewhopper",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "frostfly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "frostfly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "icetip",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "icetip",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "frostfleck",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "frostfleck",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "tidefly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "tidefly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "wavebird",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "wavebird",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "seahornet",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "seahornet",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "brightstripe",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "brightstripe",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "thornbee",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "thornbee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "vineclimber",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "vineclimber",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "stinkjack",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "stinkjack",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "scuttleploom",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "scuttleploom",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "gasgiant",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "gasgiant",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "shellcreep",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "shellcreep",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "xenofly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "xenofly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "hivehog",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "hivehog",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "aurorabee",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "aurorabee",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "driftbell",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "driftbell",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "beebug",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "beebug",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },    
+
+  {
+    "name" : "shardwing",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "shardwing",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "polarmoth",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "polarmoth",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "orphanfly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "orphanfly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snowskater",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "snowskater",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "phoenixfly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "phoenixfly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "heathugger",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "heathugger",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "glowbug",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "glowbug",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "flameroach",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "flameroach",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "lavahopper",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "lavahopper",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fireygiant",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "fireygiant",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "shadowmoth",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "shadowmoth",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "cinderfly",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "cinderfly",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ashsprite",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.001,
+    "monsterType" : "ashsprite",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  }
+]

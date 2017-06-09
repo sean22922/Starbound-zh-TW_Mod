@@ -1,0 +1,9 @@
+{
+  "name" : "fishingredeye",
+  "category" : "fishingredeye",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingredeye.png"
+  }
+}

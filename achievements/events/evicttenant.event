@@ -1,0 +1,29 @@
+{
+  "eventName" : "evictTenant",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - spawnType ("npc" or "monster")
+  //  - species
+  //  - type (npc / monster type)
+
+  "stats" : [
+    {
+      "name" : "tenants",
+      "type" : "int",
+      "op" : "decrement",
+      "minimum" : 0
+    },
+    {
+      "name" : "tenantsEvicted",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "tenants.species.<species>",
+      "type" : "int",
+      "op" : "decrement",
+      "minimum" : 0
+    }
+  ]
+}

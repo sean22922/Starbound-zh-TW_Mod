@@ -1,0 +1,16 @@
+{
+  "frameGrid" : {
+    "size" : [16, 16],
+    "dimensions" : [12, 5],
+    "names" : [
+      [ "none-gold" , "blank-gold" , "parchment-gold" , "blackboard-gold" , "glass-gold" , "hazard-gold", "none-gold-wired" , "blank-gold-wired" , "parchment-gold-wired" , "blackboard-gold-wired" , "glass-gold-wired", "hazard-gold-wired" ],
+      [ "none-wood" , "blank-wood" , "parchment-wood" , "blackboard-wood" , "glass-wood" , "hazard-wood", "none-wood-wired" , "blank-wood-wired" , "parchment-wood-wired" , "blackboard-wood-wired" , "glass-wood-wired", "hazard-wood-wired" ],
+      [ "none-grey" , "blank-grey" , "parchment-grey" , "blackboard-grey" , "glass-grey" ,"hazard-grey", "none-grey-wired" , "blank-grey-wired" , "parchment-grey-wired" , "blackboard-grey-wired" , "glass-grey-wired" , "hazard-grey-wired"],
+      [ "none-white" , "blank-white" , "parchment-white" , "blackboard-white" , "glass-white" , "hazard-white", "none-white-wired" , "blank-white-wired" , "parchment-white-wired" , "blackboard-white-wired" , "glass-white-wired" , "hazard-white-wired"],
+      [ "none-black" , "blank-black" , "parchment-black" , "blackboard-black" , "glass-black" , "hazard-black", "none-black-wired" , "blank-black-wired" , "parchment-black-wired" , "blackboard-black-wired" , "glass-black-wired" , "hazard-black-wired"]
+    ]
+  },
+  "aliases" : {
+    "default" : "blank-wood"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "name" : "oshroom",
+  "description" : "Oshroom.",
+  "shortdescription" : "Oshroom",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "oshroom1.png"
+    },
+    {
+      "base" : "oshroom2.png"
+    },
+    {
+      "base" : "oshroom3.png"
+    },
+    {
+      "base" : "oshroom4.png"
+    },
+    {
+      "base" : "oshroom5.png"
+    }
+  ]
+}

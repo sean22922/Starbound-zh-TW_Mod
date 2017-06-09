@@ -1,0 +1,664 @@
+{
+  "metadata" : {
+    "name" : "hylotlruinedcastle",
+    "species" : "hylotl",
+    "rules" : [
+    ],
+    "anchor" : [ "hylotlcastlebase1", "hylotlcastlebase2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+
+    // CASTLE LAYOUTS
+    {
+      "name" : "hylotlcastlebase1",
+      "rules" : [
+        [ "doNotCombineWith", [ "hylotlcastlebase1", "hylotlcastlebase2" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcastlebase1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "hylotlcastlebase2",
+      "rules" : [
+        [ "doNotCombineWith", [ "hylotlcastlebase1", "hylotlcastlebase2" ] ]
+      ],
+      "def" : [ "tmx", "hylotlcastlebase2.json" ],
+      "chance" : 1
+    },
+
+    // FLOORBOARDS
+    {
+      "name" : "floorboards_mossy1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy2.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy3.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy4.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy5.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy6.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy7.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy8.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy9",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy8.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_mossy10",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "floorboards_mossy8.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_chestleft",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "floorboards_chestleft", "floorboards_chestright" ] ]
+      ],
+      "def" : [ "tmx", "floorboards_chestleft.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards_chestright",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "floorboards_chestleft", "floorboards_chestright" ] ]
+      ],
+      "def" : [ "tmx", "floorboards_chestright.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "floorboards",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "floorboards.json" ],
+      "chance" : 0
+    },
+
+    // ROOMS (1 UNIT WIDE)
+    {
+      "name" : "room1passage",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room1passage.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room2shrine",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room2shrine.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room3passage",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room3passage.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room4screen",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room4screen.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room5merchant",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room5merchant.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room6dining",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room6dining.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room7bedroom",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room7bedroom.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room8study",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room8study.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room9display",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room9display.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "room10dojo",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "room10dojo.json" ],
+      "chance" : 1
+    },
+
+    // LOWER TUNNELS
+    {
+      "name" : "lowertunnel_mossy1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy1", "lowertunnel_mossy2" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy1", "lowertunnel_mossy2" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy3", "lowertunnel_mossy4" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy3.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy3", "lowertunnel_mossy4" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy4.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy5", "lowertunnel_mossy6" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy5.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy5", "lowertunnel_mossy6" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy6.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy7", "lowertunnel_mossy8" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy7.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy7", "lowertunnel_mossy8" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy8.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy9",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy9", "lowertunnel_mossy10" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy9.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel_mossy10",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "lowertunnel_mossy9", "lowertunnel_mossy10" ] ]
+      ],
+      "def" : [ "tmx", "lowertunnel_mossy9.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "lowertunnel",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "lowertunnel.json" ],
+      "chance" : 0
+    },
+
+    // CASTLE TOP
+    {
+      "name" : "castletop1",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "castletop1.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "castletop2",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "castletop2.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "castletop3",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "castletop3.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "castletop4",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "castletop4.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "castletop5",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "castletop5.json" ],
+      "chance" : 1
+    },
+
+    // ROOFING
+    {
+      "name" : "roof_damaged1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged1", "roof_damaged2" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged1", "roof_damaged2" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged3", "roof_damaged4" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged3.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged3", "roof_damaged4" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged4.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged5", "roof_damaged6" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged5.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged5", "roof_damaged6" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged6.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged7", "roof_damaged8" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged7.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged7", "roof_damaged8" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged8.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged9",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged9", "roof_damaged10" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged9.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged10",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged9", "roof_damaged10" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged10.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged11",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged11", "roof_damaged12" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged11.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged12",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged11", "roof_damaged12" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged12.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged13",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged13", "roof_damaged14" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged13.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged14",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged13", "roof_damaged14" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged14.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged15",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged15", "roof_damaged16" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged15.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged16",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged15", "roof_damaged16" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged16.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged17",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged17", "roof_damaged18" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged17.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged18",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged17", "roof_damaged18" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged18.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged19",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged19", "roof_damaged20" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged19.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof_damaged20",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "roof_damaged19", "roof_damaged20" ] ]
+      ],
+      "def" : [ "tmx", "roof_damaged20.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "roof",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roof.json" ],
+      "chance" : 5
+    },
+
+    {
+      "name" : "roofedge0left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge0left.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "roofedge0right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge0right.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "roofedge1left",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge1left", "roofedge1right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge1left.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "roofedge1right",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge1left", "roofedge1right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge1right.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "roofedge2left",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge2left", "roofedge2right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge2left.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "roofedge2right",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge2left", "roofedge2right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge2right.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "roofedge3left",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge3left", "roofedge3right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge3left.json" ],
+      "chance" : 1
+    },
+    {
+      "name" : "roofedge3right",
+      "rules" : [
+        [ "doNotCombineWith", [ "roofedge3left", "roofedge3right" ] ],
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "roofedge3right.json" ],
+      "chance" : 1
+    }
+  ]
+}

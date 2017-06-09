@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "gauntlet", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 1 },
+    { "item" : "livingroot", "count" : 15 }
+  ],
+  "output" : { "item" : "vinefist", "count" : 1 },
+  "groups" : [  "craftinganvil", "weapons", "all" ]
+}

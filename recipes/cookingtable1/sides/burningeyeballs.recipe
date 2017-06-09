@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "chili", "count" : 1 },
+    { "item" : "oculemon", "count" : 1 }
+  ],
+  "output" : { "item" : "burningeyeballs", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "burningeyeballs" }
+}

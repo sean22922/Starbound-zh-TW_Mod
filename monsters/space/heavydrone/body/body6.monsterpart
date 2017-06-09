@@ -1,0 +1,11 @@
+{
+  "name" : "body6",
+  "category" : "heavydrone",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body6.png",
+    "bodyfullbright" : "body1fullbright.png",
+    "bodyfront" : "body6front.png"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name" : "rocketjump",
+  "type" : "legs",
+
+  "scripts" : ["rocketjump.lua"],
+  "animator" : "rocketjump.animation",
+
+  "description" : "Gives you a delayed air boost in any direction!",
+  "shortDescription" : "Rocket Jump",
+  "rarity" : "Legendary",
+  "icon" : "/tech/rocketjump.png",
+
+  "chipCost" : 8,
+
+  "chargeTime" : 0.5,
+  "boostTime" : 0.25,
+  "boostSpeed" : 40,
+  "boostForce" : 900
+}

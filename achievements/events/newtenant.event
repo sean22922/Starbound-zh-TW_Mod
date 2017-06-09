@@ -1,0 +1,52 @@
+{
+  "eventName" : "newTenant",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - countOnWorld
+  //  - deedsNearby
+  //  - spawnType ("npc" or "monster")
+  //  - species
+  //  - type (npc / monster type)
+
+  "stats" : [
+    {
+      "name" : "tenants",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "tenantsSpawned",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "tenantsOnWorld",
+      "type" : "int",
+      "op" : "max",
+      "field" : "countOnWorld"
+    },
+    {
+      "name" : "tenantsNearby",
+      "type" : "int",
+      "op" : "max",
+      "field" : "deedsNearby"
+    },
+    {
+      "name" : "tenants.species.<species>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "tenants.type.<type>",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "tenantTypes",
+      "type" : "set",
+      "op" : "insert",
+      "field" : "type"
+    }
+  ]
+}

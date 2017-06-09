@@ -1,0 +1,40 @@
+{
+  "gaterepair-findGate" : {
+    "type" : "quest",
+    "text" : "My scans indicate there is some kind of ^orange;archaic energy source^reset; on this planet. I estimate a ^green;32% chance that it is worth investigating^reset;, and a 98% chance that you have nothing better to do."
+  },
+
+  "gaterepair-gateFound1" : {
+    "type" : "quest",
+    "text" : "My scans are picking up an unknown radio signal around this ^orange;archaic energy source^reset;. I will patch it through to you now.",
+    "persistTime" : 3.0
+  },
+
+  "gaterepair-gateFound1b" : {
+    "type" : "quest",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/static.png:<frame>",
+    "text" : "If you've picked up this message, you must have found an ^orange;Ancient Gateway^reset; - please use it to come and find me. ^green;You can power up the Gate with ^orange;Core Fragments^reset;.",
+    "portraitFrames" : 4,
+    "portraitSpeed" : 0.30
+  },
+
+  "gaterepair-gateFound2" : {
+    "type" : "quest",
+    "text" : "I have scanned for nearby ^orange;Core Fragments^reset;. They appear naturally within the geology of this planet; readings suggest numerous ore clusters deep below the ground, near the planet's centre."
+  },
+
+  "gaterepair-gateOpened1" : {
+    "type" : "quest",
+    "text" : "You appear to have successfully activated the gate. And it seems another ^orange;message^reset; is coming through."
+  },
+
+  "gaterepair-gateOpened2" : {
+    "type" : "quest",
+    "senderName" : "???",
+    "portraitImage" : "/interface/chatbubbles/static.png:<frame>",
+    "text" : "^green;Please come^reset;. I urgently require help; the universe depends on it. ^orange;Use this Ancient Gateway and meet me in the Ark ruins, just past the Outpost^reset;.",
+    "portraitFrames" : 4,
+    "portraitSpeed" : 0.30
+  }
+}

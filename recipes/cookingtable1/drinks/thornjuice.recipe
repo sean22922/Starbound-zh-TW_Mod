@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "thornfruit", "count" : 1 }
+  ],
+  "output" : { "item" : "thornjuice", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "thornjuice" }
+}

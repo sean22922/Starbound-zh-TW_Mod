@@ -1,0 +1,34 @@
+{
+  "id" : "hylotlmission6",
+  "species" : "hylotl",
+  "title" : "Miniknog Issued Joke Book",
+  "description" : "The name \"Cedarfang\" is written inside the cover.",
+  "icon" : "jokebookcover.png",
+  "contentPages" : [
+    "Q: Why did the Hylotl cross the stream?
+A: To get to the other tide!
+
+Q: Why do Avians manage the worst sports bars?
+A: Because they never have any wings!
+
+Q: What do you call a comrade who is behaving in an unorthodox manner?
+A: It doesn't matter. Tell Miniknog.
+
+Q: A rebel, a traitor, and a worthless excuse for a comrade walk into a bar.",
+"A: The man is quickly detained. Thank you for your patriotism, comrade.
+
+Q: What gets bigger the more you take from it?
+A: A grave. Remember, comrade: unorthodox behaviour often ends in terrible accidents!
+
+Q: What do you get when you mix \"free-thinking\" and rebellion?
+A: The privilege of a brief vacation.
+
+Q: What do you call a room with fifty comrades in it?",
+"A: A wonderfully designed and comfortable Miniknog issued detainment room."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

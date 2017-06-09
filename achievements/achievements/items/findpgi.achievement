@@ -1,0 +1,16 @@
+{
+  "name" : "findpgi",
+
+  "triggers" : [
+    "item.itemName.perfectlygenericitem"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.itemName.perfectlygenericitem",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

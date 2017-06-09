@@ -1,0 +1,124 @@
+{
+  "globalTagDefaults" : {
+    "directives" : "?multiply=00000000"
+  },
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "movement" : {
+        "default" : "idle",
+
+        "states" : {
+          "idle" : {},
+          "panicFast" : {
+            "frames" : 4,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "panicSlow" : {
+            "frames" : 4,
+            "cycle" : 0.4,
+            "mode" : "loop"
+          },
+          "swimFast" : {
+            "frames" : 4,
+            "cycle" : 0.2,
+            "mode" : "loop"
+          },
+          "swimSlow" : {
+            "frames" : 4,
+            "cycle" : 0.7,
+            "mode" : "loop"
+          },
+          "swimIdle" : {
+            "frames" : 4,
+            "cycle" : 1.2,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "rotationGroup" : "all",
+          "offset" : [0, 0],
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "movement" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle<directives>"
+              }
+            },
+            "panicFast" : {
+              "properties" : {
+                "image" : "<partImage>:panic.<frame><directives>"
+              }
+            },
+            "panicSlow" : {
+              "properties" : {
+                "image" : "<partImage>:panic.<frame><directives>"
+              }
+            },
+            "swimFast" : {
+              "properties" : {
+                "image" : "<partImage>:swim.<frame><directives>"
+              }
+            },
+            "swimSlow" : {
+              "properties" : {
+                "image" : "<partImage>:swim.<frame><directives>"
+              }
+            },
+            "swimIdle" : {
+              "properties" : {
+                "image" : "<partImage>:swim.<frame><directives>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "rotationGroups" : {
+    "all" : {
+      "angularVelocity" : 15.0
+    }
+  },
+
+  "particleEmitters" : {
+    "deathPoof" : {
+      "particles" : [
+        { "particle" : "monstersplosion" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathfizz1left" },
+        { "particle" : "deathfizz1right" },
+        { "particle" : "deathfizz2left" },
+        { "particle" : "deathfizz2right" },
+        { "particle" : "deathfizz3left" },
+        { "particle" : "deathfizz3right" },
+        { "particle" : "deathfizz4left" },
+        { "particle" : "deathfizz4right" }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "deathPuff" : ["/sfx/npc/enemydeathpuff.ogg"]
+  },
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0.25,
+      "directives" : "fade=ffffff;0.5"
+    }
+  }
+}

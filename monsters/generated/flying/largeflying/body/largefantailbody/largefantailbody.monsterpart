@@ -1,0 +1,9 @@
+{
+  "name" : "largefantailbody",
+  "category" : "largeflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "largefantailbody.png"
+  }
+}

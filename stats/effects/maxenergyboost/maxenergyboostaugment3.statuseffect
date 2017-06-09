@@ -1,0 +1,11 @@
+{
+  "name" : "maxenergyboostaugment3",
+  "effectConfig" : {
+    "energyAmount" : 60
+  },
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "maxenergyboost.lua"
+  ]
+}

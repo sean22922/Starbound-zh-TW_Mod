@@ -1,0 +1,15 @@
+{
+  "projectileName" : "glowslide",
+  "physics" : "vhighgravgrenade",
+  "bounces" : 1,
+  "timeToLive" : 0.8,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [80, 180, 30],
+  "image" : "glowslide.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.25,
+  "frameNumber" : 5,
+  "speed" : 65,
+  "power" : 1.0,
+  "damageKind" : "default"
+}

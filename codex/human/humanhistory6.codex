@@ -1,0 +1,15 @@
+{
+  "id" : "humanhistory6",
+  "species" : "human",
+  "title" : "A History of Space Travel",
+  "description" : "A book about space travel by a contemporary human historian.",
+  "icon" : "humancover2.png",
+  "contentPages" : [
+  	"Human history dates back so far that many records have been lost. Old tales speak of our ancestors somehow venturing into space without the aid of warp travel, but there is no real evidence for this. Once the discovery of warp travel was made, however, mankind was quickly able to advance both technologically and culturally, resulting in the last several thousand years of peace and prosperity, that much we know."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

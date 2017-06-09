@@ -1,0 +1,19 @@
+{
+  "name" : "monsterrelocatespawn",
+  "effectConfig" : {
+    "fadeColorDuration" : 0.1,
+    "fadeColor" : [0, 0, 255],
+    "shrinkDuration" : 0.2,
+    "shrinkSize" : 0.25,
+
+    "grow" : true
+  },
+  "scriptDelta" : 1,
+  "defaultDuration" : 5,
+
+  "animationConfig" : "monsterrelocate.animation",
+
+  "scripts" : [
+    "monsterrelocate.lua"
+  ]
+}

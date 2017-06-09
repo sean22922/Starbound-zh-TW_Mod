@@ -1,0 +1,16 @@
+{
+  "name" : "foodpoison",
+  "blockingStat" : "poisonStatusImmunity",
+
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "foodpoison.lua"
+  ],
+
+  "animationConfig" : "foodpoison.animation",
+
+  "label" : "Food Poisoning",
+  "icon" : "/interface/statuses/foodpoison.png"
+}

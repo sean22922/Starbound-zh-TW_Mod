@@ -1,0 +1,27 @@
+{
+  "id" : "wateringcan",
+  "title" : "^green;Yes I Can!",
+  "text" : "To grow crops I'll need to keep the soil moist. I should ^orange;craft a wooden watering can^white;.",
+  "completionText" : "Great! With this watering can and a hoe I should be set to start farming!",
+  "rewards" : [
+    [ [ "pearlpeaseed", 5] ]
+  ],
+  "moneyRange" : [10, 10],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "followUp" : "hoe",
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "woodenwateringcan",
+        "count" : 1,
+        "consume" : false
+      }
+    ]
+  }
+}

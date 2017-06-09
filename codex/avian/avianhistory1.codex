@@ -1,0 +1,20 @@
+{
+  "id" : "avianhistory1",
+  "species" : "avian",
+  "title" : "Avoscript: Verse 1:1:1",
+  "description" : "An excerpt from the Avian holy book.",
+  "icon" : "aviancover5.png",
+  "contentPages" : [
+    "Avos was once tethered beyond the stars - This much is known.
+
+There was no beginning, for the Avian kind have lived eternally beyond the mortal realm.
+
+In the Aether they dwelt within the embrace of Kluex, the winged one above all.
+
+Kluex gifted them with true wings, and they worshipped in kind."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

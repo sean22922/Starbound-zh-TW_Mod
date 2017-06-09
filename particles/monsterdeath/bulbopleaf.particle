@@ -1,0 +1,17 @@
+{
+  "kind" : "bulbopleaf",
+  "definition" : {
+    "type" : "textured",
+    "image" : "/monsters/walkers/bulbop/bulbopleaf.png",
+    "size" : 1,
+    "fade" : 0.9,
+    "initialVelocity" : [-10, 8],
+    "finalVelocity" : [5, -2],
+    "approach" : [12, 18],
+    "timeToLive" : 5,
+    "position" : [0, 2],
+    "destructionAction" : "shrink",
+    "destructionTime" : 5,
+    "layer" : "back"
+  }
+}

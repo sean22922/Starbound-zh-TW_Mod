@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 4 },
+    { "item" : "string", "count" : 1 },
+    { "item" : "liquidoil", "count" : 3 }
+  ],
+  "output" : { "item" : "compoundbow", "count" : 1 },
+  "groups" : [ "craftingfarm2", "hunting" ]
+}

@@ -1,0 +1,103 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "risingSwoosh" : {
+          "default" : "idle",
+          "states" : {
+            "idle" : {
+            },
+            "slash" : {
+              "frames" : 3,
+              "cycle" : 0.175,
+              "mode" : "transition",
+              "transition" : "idle"
+            }
+          }
+        }
+      },
+      "parts" : {
+        "risingSwoosh" : {
+          "properties" : {
+            "zLevel" : -1,
+            "centered" : true,
+            "offset" : [0.25, -2.5],
+            "transformationGroups" : ["swoosh"],
+            "rotationCenter" : [0, 0]
+          },
+
+          "partStates" : {
+            "risingSwoosh" : {
+              "idle" : {
+                "properties" : {
+                  "image" : ""
+                }
+              },
+              "slash" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/broadsword/risingslash/risingswoosh.png:<frame>",
+                  "damageArea" : [[-5, -2], [-2.5, -3], [1, -3], [4, -1.75], [5, 0.25], [5, 2.25], [4, 3.25], [0, 2.5]]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "sounds" : {
+      "upswing" : [ "/sfx/melee/swing_shortsword.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Rising Slash",
+    "type" : "risingslash",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/risingslash/risingslash.lua"],
+    "class" : "RisingSlash",
+
+    "energyUsage" : 60.0,
+    "cooldownTime" : 1.0,
+
+    "dashSpeed" : 75,
+    "dashControlForce" : 1600,
+
+    "damageConfig" : {
+      "damageSourceKind" : "broadsword",
+      "baseDamage" : 6,
+      "knockback" : [0, 50],
+      "timeout" : 0.3,
+      "timeoutGroup" : "alt"
+    },
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : -90,
+        "weaponRotation" : -170,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "slash" : {
+        "duration" : 0.175,
+        "armRotation" : 45,
+        "weaponRotation" : -125,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "freeze" : {
+        "duration" : 0.1,
+        "armRotation" : 45,
+        "weaponRotation" : -125,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "darkballcritter",
+  "category" : "darkballcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

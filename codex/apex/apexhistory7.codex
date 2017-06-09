@@ -1,0 +1,18 @@
+{
+  "id" : "apexhistory7",
+  "species" : "apex",
+  "title" : "Apex: An Identity Lost",
+   "description" : "Rebel scientist's theory paper.",
+  "icon" : "apexcover3.png",
+  "contentPages" : [
+    "As a rebel in Apex society, the truth of our history can be earned by first rejecting the false narrative that has been fed to us all our lives.
+
+The Miniknog's Vestigi-Evo process was responsible for irreversibly changing our entire race's biology, but since records are mostly destroyed we cannot be sure how long ago it happened. How long have the Miniknog been in power? Four hundred years, maybe? Five? Little information remains of how our society used to be.",
+
+"Were we too passive as a society? That could explain how a dictatorship took charge so easily without resistance. We may have lost our past to the Miniknog, but we shall not lose our future, too."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "hivehog",
+  "category" : "hivehog",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "hivehog.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "tentaclebomb",
+  "category" : "tentaclebomb",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentaclebomb.png"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "kind" : "barrierice",
+  "definition" : {
+    "duration" : 1.9,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "iceswoosh1", "iceswoosh3", "barriericeaura", "iceswoosh1", "barriericeaura", "iceswoosh2", "iceswoosh1", "iceswoosh3", "barriericeaura" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "iceswoosh1", "iceswoosh3", "barriericeaura", "iceswoosh1", "iceaura", "iceswoosh2", "iceswoosh1", "iceswoosh3", "barriericeaura" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "iceswoosh4", "barriericeaura", "iceshard", "iceswoosh4", "iceshard", "barriericeaura" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

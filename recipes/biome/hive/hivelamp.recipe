@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "hive", "count" : 15 },
+    { "item" : "larva", "count" : 10 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "hivelamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

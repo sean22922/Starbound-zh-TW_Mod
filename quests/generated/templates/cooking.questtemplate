@@ -1,0 +1,80 @@
+{
+  "id" : "cooking.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "cookedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "cake", "count" : 1}]
+      }
+    },
+    "ingredients" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          {"name" : "wheat", "count" : 1},
+          {"name" : "egg", "count" : 1},
+          {"name" : "milk", "count" : 1}
+        ]
+      }
+    },
+    "recipes" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "cake-recipe", "count" : 1}]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/fetch.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Now for the worst part! Floran hatesss cooking! ^green;You need to cook ^orange;<cookedItems> ^white;for Floran using the ^orange;<ingredients>.",
+            "Next <player> needss to ^green;cook Floran ^orange;<cookedItems> ^green;from the ^orange;<ingredients>."
+          ],
+          "glitch" : [
+            "Confused. Now that you have all the ^orange;ingredients^white;, ^green;they just need to be fashioned into ^orange;<cookedItems>^white; somehow. I will leave this part to you!",
+            "Composed. ^green;Now you just need to prepare ^orange;<cookedItems>^white; from the ^orange;<ingredients>^white;. Simple!"
+          ],
+          "default" : [
+            "Now comes the tricky part - cooking. You should be able to ^green;assemble ^orange;<ingredients>^white; into ^orange;<cookedItems>^white;. The recipe seems simple, but my attempts at cooking never work out.",
+            "The ^orange;<ingredients>^white; will need some preparing. You should be able to ^green;whip up ^orange;<cookedItems>^white;. Why don't you give it a try?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Mmmmm! Floran not too a great at cooking, so this wasss an excellent plan!",
+            "Thank you <player>, you sssure are a better chef than Floran!"
+          ],
+          "glitch" : [
+            "Envious. I am very grateful to benefit from your excellent cooking skills. Thank you!",
+            "Happy. The <cookedItems> look splendid. "
+          ],
+          "default" : [
+            "Wow! That looks delicious! I wish we could eat this right now but we'll need it for what comes next...",
+            "You didn't seem to have any trouble cooking that! Thank you - this is exactly what's needed to complete my plan."
+          ]
+        }
+      }
+    },
+    "fetchList" : "cookedItems",
+    "portraitParameter" : "questGiver",
+    "requireTurnIn" : true
+  }
+}

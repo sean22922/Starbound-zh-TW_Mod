@@ -1,0 +1,16 @@
+{
+  "frameGrid" : {
+    "size" : [94, 28],
+    "dimensions" : [11, 3],
+    "names" : [
+      [ "default.turnon.1", "default.turnon.2", "default.turnon.3", "default.turnon.4", "default.turnon.5", null, "default.turnoff.5", "default.turnoff.1", "default.turnoff.2", "default.turnoff.3", "default.turnoff.4" ],
+      [ "default.on.1", "default.on.2", "default.on.3", "default.on.4", "default.on.5", "default.on.6", "default.on.7", "default.on.8", "default.on.9", "default.on.10", "default.on.11" ],
+      [ "default.on.12", "default.on.13", "default.on.14", "default.on.15", "default.on.16", "default.on.17", "default.on.18", "default.on.19", "default.on.20", "default.on.21", "default.on.22" ]
+    ]
+  },
+
+  "aliases" : {
+    "default.default" : "default.off",
+    "default.off" : "default.turnon.1"
+  }
+}

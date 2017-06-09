@@ -1,0 +1,9 @@
+{
+  "name" : "yellowgrey",
+  "category" : "crasberry",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "yellowgrey.png"
+  }
+}

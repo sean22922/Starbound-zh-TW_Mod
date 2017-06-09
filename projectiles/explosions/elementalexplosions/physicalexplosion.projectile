@@ -1,0 +1,14 @@
+{
+  "projectileName" : "physicalexplosion",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "damageKindImage" : "icon.png",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/regularexplosionknockback.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "damageKind" : "default",
+  "timeToLive" : 0
+}

@@ -1,0 +1,34 @@
+{
+  "projectileName" : "dragonblockbuster",
+  "image" : "dragonprojectile.png",
+  "animationCycle" : 0.3,
+  "physics" : "bullet",
+  "movementSettings" : {
+    "collisionPoly" : [ [1, -2], [-2, 0], [1, 2], [2, 0] ]
+  },
+  "frameNumber" : 4,
+  "pointLight" : true,
+  "lightColor" : [255, 113, 0],
+  "renderLayer" : "Monster+10",
+  "speed" : 80,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/regularexplosionknockback.config"
+    },
+    {
+      "action" : "explosion",
+      "foregroundRadius" : 6,
+      "backgroundRadius" : 2,
+      "explosiveDamageAmount" : 100,
+      "delaySteps" : 2
+    }
+  ],
+  "power" : 10.0,
+  "damageKind" : "default",
+  "emitters" : [ "javelinred" ],
+
+  "persistentAudio" : "/sfx/projectiles/dragonprojectile_loop.ogg"
+}
+
+

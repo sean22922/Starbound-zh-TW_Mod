@@ -1,0 +1,13 @@
+{
+  "projectileName" : "fireplasmaexplosion",
+  "image" : "/projectiles/invisibleprojectile/invisibleprojectile.png",
+  "damageKindImage" : "icon.png",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/fireexplosionknockback.config"
+    }
+  ],
+  "damageKind" : "fireplasma",
+  "timeToLive" : 0
+}

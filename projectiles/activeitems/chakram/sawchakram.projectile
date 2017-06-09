@@ -1,0 +1,24 @@
+{
+  "projectileName" : "sawchakram",
+  "image" : "sawchakram.png",
+  "animationCycle" : 0.15,
+  "frameNumber" : 3,
+  "damageKindImage" : "icon.png",
+  "flippable" : false,
+  "orientationLocked" : true,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 5.0,
+  "speed" : 45,
+  "damageKind" : "sawblade",
+  "physics" : "sticky",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 5,
+  "emitters" : [ ],
+
+  "persistentAudio" : "/sfx/objects/sawblade.ogg",
+
+  "scripts" : [ "chakramprojectile.lua" ]
+}

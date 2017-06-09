@@ -1,0 +1,24 @@
+{
+  "projectileName" : "chainiceplasma2",
+  "physics" : "illusion",
+  "damageKindImage" : "icon.png",
+  "image" : "iceplasma.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 3,
+  "power" : 50,
+  "speed" : 100,
+  "emitters" : [ "iceplasma" ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ "frostslow" ],
+  "lightColor" : [52, 112, 153],
+  "damageKind" : "iceplasma",
+  "piercing" : true,
+
+  "scripts" : [ "/scripts/projectiles/chainbullet.lua" ]
+}

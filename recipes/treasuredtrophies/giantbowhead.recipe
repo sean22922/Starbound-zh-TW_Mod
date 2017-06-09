@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "livingroot", "count" : 5 },
+    { "item" : "fabric", "count" : 5 },
+    { "item" : "string", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "giantbowhead",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

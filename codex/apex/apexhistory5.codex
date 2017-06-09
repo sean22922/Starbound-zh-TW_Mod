@@ -1,0 +1,22 @@
+{
+  "id" : "apexhistory5",
+  "species" : "apex",
+  "title" : "Dissent in our Midst!",
+   "description" : "A Miniknog PSA for the Apex population.",
+  "icon" : "apexcover4.png",
+  "contentPages" : [
+    "^red;DENOUNCE REBEL LIES!^white;
+
+The insidious presence of the Anti-Miniknog Rebellion means to ^red;DESTROY OUR WAY OF LIFE!^white;
+
+If you suspect a colleague, friend or family member to be a rebel, ^red;INFORM YOUR LOCAL MINIKNOG REPRESENTATIVE NOW!^white;
+
+Rebellion is ^red;PUNISHABLE BY DEATH!^white;
+
+Always remember: ^red;BIG APE IS WATCHING YOU!^white;"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

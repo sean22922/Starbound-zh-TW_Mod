@@ -1,0 +1,18 @@
+{
+  "id" : "colonystory5",
+  "title" : "How I Became A Landlord 5",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "One lesson I've learnt as a landlord: don't give a Floran bongos! They will play them night and day, and if you try to take them away when they are sleeping they will definitely know it was you. 
+
+Ambiri isn't all bad to have around though, you can't fault his craftsmanship with plants. Although, I did expect more than salves as rent when I entered into this agreement."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

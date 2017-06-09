@@ -1,0 +1,9 @@
+{
+  "name" : "frozenowlcritter",
+  "category" : "frozenowlcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

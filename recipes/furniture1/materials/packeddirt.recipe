@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "dirtmaterial", "count" : 1 }
+  ],
+  "output" : { "item" : "packeddirt", "count" : 20 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

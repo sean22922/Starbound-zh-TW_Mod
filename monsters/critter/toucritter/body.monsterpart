@@ -1,0 +1,9 @@
+{
+  "name" : "toucritter",
+  "category" : "toucritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name" : "largebeastspiderlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largebeastspiderflegs.png",
+    "backLegs" : "largebeastspiderblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.6,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

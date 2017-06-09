@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "alienstripedwood", "count" : 25 },
+    { "item" : "plantfibre", "count" : 25}
+  ],
+  "output" : {
+    "item" : "alientable",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

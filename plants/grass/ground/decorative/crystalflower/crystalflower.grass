@@ -1,0 +1,8 @@
+{
+  "name" : "crystalflower",
+  "description" : "A crystal flower.",
+  "shortdescription" : "A crystal flower.",
+  "floranDescription" : "Ssshiny flower.",
+  "glitchDescription" : "Statement. A crystal flower.",
+  "images" : [ "crystalflower1.png", "crystalflower2.png", "crystalflower3.png", "crystalflower4.png", "crystalflower5.png" ]
+}

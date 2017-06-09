@@ -1,0 +1,12 @@
+{
+  "name" : "crystalIdleAttack",
+  "label" : "",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalIdleAttack.lua" ],
+    "crystalIdleAttack" : {
+    	"idleTime" : 2.5
+    }
+  }
+}

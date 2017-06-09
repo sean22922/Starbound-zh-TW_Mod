@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ornatewood", "count" : 1 },
+    { "item" : "rooftiles", "count" : 1 }   
+  ],
+  "output" : { "item" : "ornatetiles", "count" : 30 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

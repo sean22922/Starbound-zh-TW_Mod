@@ -1,0 +1,18 @@
+{
+  "id" : "avianhistory5",
+  "species" : "avian",
+  "title" : "Manifesto of the Grounded",
+  "description" : "A document written by Avians who rejected their culture.",
+  "icon" : "aviancover4.png",
+  "contentPages" : [
+    "We the Grounded,
+
+See through the grand lie they call 'Kluex'. The false dream of absolution is a cage in which we refuse to remain any longer. Our people will call us blasphemers, but we are free. We shall sail the skies in ships of our own making, not on dreams of wings. We may now be outcasts, but we shall find communities among the stars that are based on a foundation of truth, not falsehoods.
+
+Let It Be Known"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

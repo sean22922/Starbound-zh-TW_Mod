@@ -1,0 +1,9 @@
+{
+  "name" : "partblack",
+  "category" : "petbunny",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "partblack.png"
+  }
+}

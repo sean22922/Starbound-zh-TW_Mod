@@ -1,0 +1,16 @@
+{
+  "name" : "shipjumpboost",
+  "effectConfig" : {
+    "particles" : false
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "jumpboost.lua"
+  ],
+
+  "animationConfig" : "jumpboost.animation",
+
+  "label" : "Jump Boost",
+  "icon" : "/interface/statuses/jumpboost.png"
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "largefloppyhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largefloppyhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleelashdown",
+    "projectileSourcePosition" : [1.5, -0.5]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-passage",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "passage" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "passage",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "passage.json" ]
+    }
+  ]
+}

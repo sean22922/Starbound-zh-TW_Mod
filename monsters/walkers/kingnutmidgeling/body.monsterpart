@@ -1,0 +1,9 @@
+{
+  "name" : "kingnutmidgeling",
+  "category" : "kingnutmidgeling",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "kingnutmidgeling.png"
+  }
+}

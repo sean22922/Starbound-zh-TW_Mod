@@ -1,0 +1,17 @@
+{
+  "projectileName" : "bullet-1",
+  "image" : "bullet-1.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 75,
+  "damageKind" : "default"
+}

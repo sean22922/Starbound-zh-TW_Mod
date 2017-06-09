@@ -1,0 +1,141 @@
+{
+  "id" : "new_stock1.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Some Person"
+      }
+    },
+    "newItem" : {
+      "type" : "item",
+      "example" : {
+        "item" : "bananahead"
+      }
+    },
+    "tradedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "fabric", "count" : 2 },
+          { "name" : "goldore", "count" : 1 }
+        ]
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location",
+      "example" : {
+        "name" : "dark, scary cave"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/new_stock.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "title" : {
+        "default" : [
+          "<questGiver>'s trade",
+          "<questGiver>'s plan to restock"
+        ]
+      },
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran wantsss to make store more popular by selling more stuff. Floran has a plan!",
+          "^cyan;Floran's shop needs more things to sssell! Floran has a plan."
+        ],
+        "glitch" : [
+          "^cyan;Ambitious. The range of items available in my store is lacking. Action must be taken to correct this!",
+          "^cyan;Reserved. I'd like to expand into new areas of retail, will you help me?"
+        ],
+        "default" : [
+          "^cyan;My store might be more popular if I had more things to sell. I have a plan.",
+          "^cyan;I have a plan to expand my store's range of products. Can you help?"
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Floran has heard that ^orange;<target> ^white;is a travelling merchant and ^green;will trade desssirable goods in exchange for ^orange;<tradedItems>. ^white;Please ^green;take these to <target.pronoun.object>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> and help boossst the popularity of Floran's shop.",
+            "A travelling merchant hasss arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction>! ^orange;<target>^white; is known for trading valuable suppliess in exchange for ^orange;<tradedItems>. ^white;Please ^green;take these things to <target.pronoun.object> ^white;so Floran can improve the ssstock in Floran's shop."
+          ],
+          "glitch" : [
+            "Excited. My old friend and fellow merchant ^orange;<target>^white; is at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. <target.pronoun.capitalSubject> is always in need of stock; you will be able to ^green;trade the ^orange;<tradedItems>^green; with <target.pronoun.object> for the goods I need.",
+            "Unhappy. I've heard my rival in business ^orange;<target>^white; has the supplies I need, but I do not wish to speak to <target.pronoun.object>. Please trade the ^orange;<tradedItems>^white; with <target.pronoun.object>^white; at the ^orange;<spawnPoint>^white;<spawnPoint.direction> for the goods I need."
+          ],
+          "default" : [
+            "Travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide me with the new stock I require in exchange for ^orange;<tradedItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?",
+            "Perfect timing! Apparently <target>, a travelling merchant, has just arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. Can you ^green;find ^orange;<target>^green; and trade the ^orange;<tradedItems>^green; in return for the goods I need?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "Finally Floran has <newItem> in ssstock. Floran is sure business will soon be in full bloom.",
+            "Floran couldn't be happier to finally be able to ssell <newItem>. Floran's customers will be thrilled!"
+          ],
+          "glitch" : [
+            "Elated. Wonderful! The <newItem> is now available for my customers to purchase.",
+            "Grateful. Thanks to you, my customers can now purchase themselves a new <newItem> from me anytime."
+          ],
+          "default" : [
+            "Thank you! If you ever find yourself in need of a new <newItem>, I now have plenty in stock!",
+            "Thanks to you I now stock <newItem>! My customers will be so pleased!"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "I was unable to help <questGiver> acquire new stock for <questGiver.pronoun.possessiveDet> store. <questGiver.pronoun.capitalSubject> probably has enough as it is.",
+          "I couldn't help <questGiver> finalise the deal with that travelling merchant. Hopefully business isn't too slow."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : [],
+
+    // Player -> Target NPC
+    "requestTradeNotification" : "requestTrade",
+    // Target NPC -> Player
+    "tradeAcceptedEventName" : "tradeAccepted",
+
+    // Player -> Quest Giver
+    "stockDeliveredNotification" : "stockDelivered",
+    // Quest Giver -> Player
+    "stockAcceptedEventName" : "stockAccepted",
+
+    "parcelName" : ["Parcel for <questGiver>"],
+    "parcelDescription" : ["It's for <questGiver>. I shouldn't open it."],
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Give <tradedItems> to <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return parcel to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    },
+    "turnInHidesIndicators" : false
+  }
+}

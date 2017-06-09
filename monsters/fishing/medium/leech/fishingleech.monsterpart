@@ -1,0 +1,9 @@
+{
+  "name" : "fishingleech",
+  "category" : "fishingleech",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingleech.png"
+  }
+}

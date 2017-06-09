@@ -1,0 +1,16 @@
+{
+  "name" : "smallrockgolemlegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallrockgolemflegs.png",
+    "backLegs" : "smallrockgolemblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.4,
+    "runMultiplier" : 1.0,
+    "jumpMultiplier" : 1.0
+  }
+}

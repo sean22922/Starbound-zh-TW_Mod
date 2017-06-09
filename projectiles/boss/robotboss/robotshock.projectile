@@ -1,0 +1,31 @@
+{
+  "projectileName" : "robotshock",
+  "physics" : "laser",
+  "timeToLive" : 5,
+  "image" : "/projectiles/activeitems/staff/elementbouncer/electricbouncer.png",
+  "animationCycle" : 0.3,
+  "lightColor" : [70, 30, 110],
+  "frameNumber" : 4,
+  "periodicActions" : [ ],
+  "actionOnCollide" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/electricimpact.config"
+    }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/elementimpact/electricimpact.config"
+    }
+  ],
+  "speed" : 0,
+  "power" : 30,
+  "piercing" : true,
+  "damageKind" : "electric",
+  "statusEffects" : [ "electrified" ],
+
+  "fullbright" : true,
+
+  "bounces" : 0
+}

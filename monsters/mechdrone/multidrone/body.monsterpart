@@ -1,0 +1,10 @@
+{
+  "name" : "mechmultidrone",
+  "category" : "mechmultidrone",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png",
+    "bodyFullbright" : "body_fullbright.png"
+  }
+}

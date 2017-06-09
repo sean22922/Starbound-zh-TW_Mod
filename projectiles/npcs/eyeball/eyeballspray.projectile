@@ -1,0 +1,33 @@
+{
+  "projectileName" : "eyeballspray",
+  "image" : "eyeball.png",
+  "physics" : "grenade",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "power" : 0,
+  "speed" : 0,
+  "timeToLive" : 0.01,
+  "piercing" : true,
+  "damagePoly" : [  ],
+  "damageKind" : "default",
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "eyeball",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 0.33
+    },
+    {
+      "action" : "projectile",
+      "type" : "eyeball",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 0.33
+    },
+    {
+      "action" : "projectile",
+      "type" : "eyeball",
+      "fuzzAngle" : 20,
+      "inheritDamageFactor" : 0.33
+    }
+  ]
+}

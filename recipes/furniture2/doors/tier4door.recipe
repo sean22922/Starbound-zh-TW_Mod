@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 1 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "tier4door", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "doors", "all" ]
+}

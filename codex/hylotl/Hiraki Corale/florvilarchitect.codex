@@ -1,0 +1,21 @@
+{
+  "id" : "florvilarchitect",
+  "species" : "hylotl",
+  "title" : "Floran Architecture",
+  "description" : "An excerpt from Hylotl Adventurer Hiraki Corale's journal.",
+  "icon" : "hirakicoralejournal2.png",
+  "contentPages" : [
+
+    "by Hiraki Corale, Hylotl Adventurer
+
+Trees! They live in trees. These wild, savage plant-people live in huge tree houses built with care and attention. Well, not all of them do. I mean, they also live in caves, and the occasional crevice. It's a far cry from our wonderful ocean paradises, of course, but one has to admire the tenacity with which this species attempts to carve out a niche to call their own.",
+
+"The craftsmanship is much as you'd expect from the Floran - crude to say the least - but there's a certain undeniable charm. I've had plenty of time to study this as I've been hiding in one of their tree houses for three days now, waiting for my chance to slip away unnoticed. Oh, what fun adventuring is!"
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "egg", "count" : 1 },
+    { "item" : "bread", "count" : 1 }
+  ],
+  "output" : { "item" : "fluffyruffs", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "fluffyruffs" }
+}

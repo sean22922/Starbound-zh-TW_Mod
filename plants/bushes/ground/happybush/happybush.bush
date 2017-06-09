@@ -1,0 +1,65 @@
+{
+  "name" : "happybush",
+  "description" : "A pleasant bush.",
+  "shortdescription" : "A pleasant bush.",
+  "floranDescription" : "Bushhh!",
+  "glitchDescription" : "Statement. A pleasant bush.",
+  "mods" : [ "berry", "flower", "leaf", "rose", "spikes" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "berry" : [ "berry1.png", "" ],
+        "flower" : [ "flower1.png", "" ],
+        "leaf" : [ "leaf1.png", "" ],
+        "rose" : [ "rose1.png", "" ],
+        "spikes" : [ "spikes1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "berry" : [ "berry2.png", "" ],
+        "flower" : [ "flower2.png", "" ],
+        "leaf" : [ "leaf2.png", "" ],
+        "rose" : [ "rose2.png", "" ],
+        "spikes" : [ "spikes2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "berry" : [ "berry3.png", "" ],
+        "flower" : [ "flower3.png", "" ],
+        "leaf" : [ "leaf3.png", "" ],
+        "rose" : [ "rose3.png", "" ],
+        "spikes" : [ "spikes3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "berry" : [ "berry4.png", "" ],
+        "flower" : [ "flower4.png", "" ],
+        "leaf" : [ "leaf4.png", "" ],
+        "rose" : [ "rose4.png", "" ],
+        "spikes" : [ "spikes4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "berry" : [ "berry5.png", "" ],
+        "flower" : [ "flower5.png", "" ],
+        "leaf" : [ "leaf5.png", "" ],
+        "rose" : [ "rose5.png", "" ],
+        "spikes" : [ "spikes5.png", "" ]
+      }
+    }
+
+  ]
+}

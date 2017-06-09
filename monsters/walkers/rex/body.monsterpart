@@ -1,0 +1,9 @@
+{
+  "name" : "rex",
+  "category" : "rex",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "rex.png"
+  }
+}

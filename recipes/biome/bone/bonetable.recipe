@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "bone", "count" : 50 }
+  ],
+  "output" : { "item" : "bonetable", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

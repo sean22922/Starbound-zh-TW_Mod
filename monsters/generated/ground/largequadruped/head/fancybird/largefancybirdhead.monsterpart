@@ -1,0 +1,15 @@
+{
+  "name" : "largefancybirdhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largefancybirdhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleeslash",
+    "projectileSourcePosition" : [1.2, 0.35]
+  }
+}

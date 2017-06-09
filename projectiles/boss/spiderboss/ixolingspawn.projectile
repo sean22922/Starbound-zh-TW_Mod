@@ -1,0 +1,17 @@
+{
+  "projectileName" : "ixolingspawn",
+  "image" : "ixolingspawn.png",
+  "animationCycle" : 2,
+  "animationLoops" : false,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [0, 150, 0],
+  "actionOnReap" : [
+  ],
+  "power" : 0,
+  "speed" : 0,
+  "damageKind" : "default",
+  "onlyHitTerrain" : true,
+
+  "scripts" : [ "ixolingspawn.lua" ]
+}

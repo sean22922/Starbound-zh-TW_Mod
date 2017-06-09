@@ -1,0 +1,9 @@
+{
+  "name" : "sandclown",
+  "category" : "sandclown",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "sandclown.png"
+  }
+}

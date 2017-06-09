@@ -1,0 +1,29 @@
+{
+  "kind" : "largeicecloud",
+  "definition" : {
+    "duration" : 0.04,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "largeicecloud1", "largeicecloud3", "largeicecloud2", "largeicecloud1", "largeicecloud3", "largeicecloud2", "largeicecloud1", "largeicecloud3", "largeicecloud2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "largeicecloud1", "largeicecloud3", "largeicecloud2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "largeicecloud4", "largeicecloud4", "largeicecloud4", "largeicecloud4", "largeicecloud4", "largeicecloud4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

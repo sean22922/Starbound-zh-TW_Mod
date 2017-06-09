@@ -1,0 +1,32 @@
+{
+  "name" : "water",
+  "liquidId" : 1,
+  "description" : "Plain old water.",
+  "tickDelta" : 1,
+  "color" : [80, 221, 254, 128],
+  "itemDrop" : "liquidwater",
+  "statusEffects" : [ "swimming" ],
+
+  "interactions" : [
+    {
+      "liquid" : 3,
+      "liquidResult" : 3
+    },
+    {
+      "liquid" : 8,
+      "liquidResult" : 0
+    },
+    {
+      "liquid": 12,
+      "liquidResult" : 12
+    },
+    {
+      "liquid": 6,
+      "liquidResult" : 6
+    }
+  ],
+
+  "texture" : "/liquids/watertex.png",
+  "bottomLightMix" : [0, 78, 255],
+  "textureMovementFactor" : 2.6
+}

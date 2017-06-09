@@ -1,0 +1,9 @@
+{
+  "name" : "savybirdcritter",
+  "category" : "savybirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

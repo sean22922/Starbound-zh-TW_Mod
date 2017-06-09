@@ -1,0 +1,156 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "body" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "move" : {
+            "frames" : 4,
+            "cycle" : 0.4,
+            "mode" : "loop"
+          }
+        }
+      },
+      "cannon" : {
+        "priority" : 1,
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "load" : {
+            "frames" : 4,
+            "cycle" : 0.4,
+            "mode" : "transition",
+            "transition" : "loaded"
+          },
+          "loaded" : {
+            "frames" : 1
+          },
+          "fire" : {
+            "frames" : 4,
+            "cycle" : 0.4,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      },
+      "damage" : {
+        "priority" : 3,
+        "default" : "none",
+        "states" : {
+          "none" : {
+            "frames" : 1
+          },
+          "stunned" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "back" : {
+        "properties" : {
+          "offset" : [0.0, 0.5],
+          "zLevel" : 1
+        },
+        "partStates" : {
+          "body" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "move" : {
+              "properties" : {
+                "image" : "<partImage>:move.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "front" : {
+        "properties" : {
+          "offset" : [0.0, 0.5],
+          "zLevel" : 3
+        },
+        "partStates" : {
+          "body" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "move" : {
+              "properties" : {
+                "image" : "<partImage>:move.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "cannon" : {
+        "properties" : {
+          "transformationGroups" : [ "cannon" ],
+          "offset" : [0.0, 3.375],
+          "zLevel" : 2
+        },
+        "partStates" : {
+          "cannon" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "load" : {
+              "properties" : {
+                "image" : "<partImage>:load.<frame>"
+              }
+            },
+            "loaded" : {
+              "properties" : {
+                "image" : "<partImage>:loaded.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "cannon" : { "interpolated" : true }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0,
+      "directives" : "fade=ffffff;0.5"
+    }
+  },
+
+  "particleEmitters" : {
+    "deathPoof" : {
+      "burstCount" : 60,
+      "offsetRegion" : [-4, -2.375, 4, 2.375],
+      "particles" : [
+        { "particle" : "woodshard" }
+      ]
+    }
+  },
+
+  "sounds" : {
+    "fire" : []
+  }
+}

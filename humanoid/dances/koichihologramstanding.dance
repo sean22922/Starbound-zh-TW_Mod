@@ -1,0 +1,20 @@
+{
+  "name" : "koichihologramstanding",
+  "states" : ["idle"],
+  "cycle" : 1.5,
+  "cyclic" : true,
+  "duration" : 30.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "idle.1", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.1", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.1", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.1", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.3", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.2", "idle.1", "idle.1", [0, 0], [0, 0], [0, 0] ]
+  ]
+}

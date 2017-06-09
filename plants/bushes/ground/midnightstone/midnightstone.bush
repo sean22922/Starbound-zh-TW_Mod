@@ -1,0 +1,24 @@
+{
+  "name" : "midnightstone",
+  "description" : "These stones are shaped by the howling winds..",
+  "shortdescription" : "Weathered stones.",
+  "floranDescription" : "Ssstones.",
+  "glitchDescription" : "Observant. The howling wind has shaped these stones.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

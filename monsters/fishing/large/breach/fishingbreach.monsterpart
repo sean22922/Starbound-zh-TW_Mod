@@ -1,0 +1,9 @@
+{
+  "name" : "fishingbreach",
+  "category" : "fishingbreach",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingbreach.png"
+  }
+}

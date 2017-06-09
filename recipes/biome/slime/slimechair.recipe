@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "greenslime", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "slimechair",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

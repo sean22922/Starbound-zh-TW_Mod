@@ -1,0 +1,14 @@
+{
+  "name" : "ballistapusher",
+
+  "effectConfig" : {
+    "healthAmount" : 150,
+    "gritAmount" : 0.5,
+    "speedModifier" : 0.25
+  },
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "ballistapusher.lua"
+  ]
+}

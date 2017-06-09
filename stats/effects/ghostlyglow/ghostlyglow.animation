@@ -1,0 +1,9 @@
+{
+  "lights" : {
+    "ghostlyglow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [26, 26, 128]
+    }
+  }
+}

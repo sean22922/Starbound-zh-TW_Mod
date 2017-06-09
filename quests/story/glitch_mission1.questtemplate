@@ -1,0 +1,209 @@
+{
+  "id" : "glitch_mission1",
+  "mainQuest" : true,
+  "prerequisites" : [ "apex_mission2" ],
+  "title" : "Find Clues to Locate the Glitch Artifact",
+  "text" : "Now we need to find the ^orange;Glitch artifact^reset;. Glitch tend to reside on planets with a lot of ^orange;volcanic activity^reset; (they seem to find them vaguely comforting). Volcanic planets occur around ^orange;fiery stars^reset;. ^green;Best to search there for ^orange;clues^white;. I know the Glitch are a little offbeat, but don't underestimate them: look after yourself dear.",
+  "completionText" : "That last clue has confirmed the location of the Glitch artifact! Excellent. Congratulations dear.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/clues.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "descriptions" : {
+      "findClues" : "^green;Scan objects^reset; to find ^orange;Glitch clues^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at the ^orange;Ark^reset;"
+    },
+    "turnInEntityUid" : "estheroutpost",
+
+    "targetValue" : 50,
+    "objectValues" : {
+      "bannermedievallarge" : 1,
+      "bannermedievalsmall" : 1,
+      "battlestandard" : 1,
+      "medievalarmor" : 1,
+      "medievalarmorarmed" : 1,
+      "medievalaxedisplay" : 1,
+      "medievalbookcase" : 5,
+      "medievalcodex" : 5,
+      "medievalflagpole" : 2,
+      "medievalglobe" : 5,
+      "medievalmap" : 5,
+      "medievalsworddisplay" : 2,
+      "royalbookcase" : 5,
+      "royaldesk" : 2,
+      "royalthrone" : 2,
+      "medievalweaponrack" : 2,
+      "wallshield" : 2,
+      "glitchbaronfigure" : 20,
+      "glitchchess" : 20,
+      "glitchdecree" : 20,
+      "glitchhorndisplay" : 20,
+      "glitchscribe" : 20
+    },
+    "radioMessages" : {
+      "uniqueProgress" : {
+        "glitchbaronfigure" : {
+          "messageId" : "glitch_mission1_up1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This statuette... I've seen this individual before! Was it in a book somewhere? I'll investigate...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "glitchchess" : {
+          "messageId" : "glitch_mission1_up2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This chess table is curious - the pieces are all hand-carved, made by a skilled individual. The design is somewhat idiosyncratic. I wonder what its provenance is.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "glitchdecree" : {
+          "messageId" : "glitch_mission1_up3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The text you just scanned mentions a treasure repository - a keep that stores a cache of valuable items. Could it hold something of as much worth as the artifact?",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "glitchhorndisplay" : {
+          "messageId" : "glitch_mission1_up4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Heraldry is important among the Glitch. The sigil on this banner is unique, and I believe it may indirectly relate to the artifact. I will research its origins.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        "glitchscribe" : {
+          "messageId" : "glitch_mission1_up5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "The letter on this desk mentions a figure of great notoriety amongst the Glitch. Amongst other things, he is a proprietor of many riches...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      },
+      "genericProgress" : [
+        {
+          "messageId" : "glitch_mission1_gp1",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hmmm, how curious... I need to cross-reference this.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp2",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Interesting. This will certainly have a bearing on my research.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp3",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Keep it up dear, this is all very helpful!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp4",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "A clue of small implication, but relevant nonetheless!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp5",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This is excellent, everything you find contributes to the formation of a theory.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp6",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Hm, I wonder...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp7",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This confirms something that I had speculated upon!",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp8",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "How peculiar! But surprising information can be even more valuable than expected information...",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp9",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "Even the smallest piece of evidence can help to uncover the grandest secrets of the universe.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        },
+        {
+          "messageId" : "glitch_mission1_gp10",
+          "type" : "quest",
+          "unique" : false,
+          "senderName" : "Esther",
+          "text" : "This clue hints at hidden information.",
+          "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+        }
+      ],
+      "startWithProgress" : {
+        "messageId" : "glitch_mission1_swp",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "It appears you've already found some items that provide clues towards the artifact's whereabouts. I'll begin my analysis on these while you search for more!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "startAlreadyComplete" : {
+        "messageId" : "glitch_mission1_sac",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "You're quite the collector of Glitch antiquities! It appears you've already located enough clues to to allow me to identify the location of the Artifact!",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      },
+      "complete" : {
+        "messageId" : "glitch_mission1_c",
+        "type" : "quest",
+        "unique" : false,
+        "senderName" : "Esther",
+        "text" : "My theories were correct! ^#71f2f6;Come back to the Ark when you're ready^white; and I'll tell you where the Artifact is being kept, dear.",
+        "portraitImage" : "/interface/chatbubbles/esthertalk.png:<frame>"
+      }
+    },
+
+    "dialogClueValue" : 4,
+    "dialogClueSpecies" : "glitch",
+    "clueDialog" : "/dialog/clues.config:glitch"
+  }
+}

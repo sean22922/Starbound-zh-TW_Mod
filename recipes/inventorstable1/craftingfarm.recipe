@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 10 },
+    { "item" : "logblock", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "craftingfarm",
+    "count" : 1
+  },
+  "duration" : 5,
+  "groups" : [ "inventorstable", "craftingstations", "all" ]
+}

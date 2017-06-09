@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "petorbis",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "petorbis.png"
+  }
+}

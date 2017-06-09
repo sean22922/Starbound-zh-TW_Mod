@@ -1,0 +1,28 @@
+{
+  "id" : "hylotlmission7",
+  "species" : "hylotl",
+  "title" : "Freedom",
+  "description" : "An excerpt from Beefjeff's Book of Poetry by Peelz",
+  "icon" : "beefjeffcover.png",
+  "contentPages" : [
+    "Ship is prepped, I hear it humming,
+Pulse is pounding, heart is thrumming.
+Miniknog guards are close behind,
+Fear and panic floods my mind.
+Light glows green, I waste no time-
+punch the throttle, do the crime.
+Neon signs are rushing past:
+\"Obey Big Ape or be Outcast!\"
+I know I never can return,
+But as the warp drive starts to burn
+I vow to set my people free
+From their life of slavery.
+I cannot leave them behind bars
+While I am free, bound for the stars."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "fishingglob",
+  "category" : "fishingglob",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingglob.png"
+  }
+}

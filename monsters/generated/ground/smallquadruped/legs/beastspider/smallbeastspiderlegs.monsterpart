@@ -1,0 +1,16 @@
+{
+  "name" : "smallbeastspiderlegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallbeastspiderflegs.png",
+    "backLegs" : "smallbeastspiderblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.6,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

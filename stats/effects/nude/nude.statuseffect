@@ -1,0 +1,11 @@
+{
+  "name" : "nude",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "nude.lua"
+  ],
+
+  "label" : "Nude"
+}

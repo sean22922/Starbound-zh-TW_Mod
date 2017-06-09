@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 1 },
+    { "item" : "petalred", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "petalblock",
+    "count" : 50
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

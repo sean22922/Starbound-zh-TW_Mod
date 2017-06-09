@@ -1,0 +1,14 @@
+{
+  "name" : "ragefood",
+  "effectConfig" : {
+    "powerModifier" : 1.20
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "rageweak.lua"
+  ],
+
+  "label" : "Bonus Damage",
+  "icon" : "/interface/statuses/rage.png"
+}

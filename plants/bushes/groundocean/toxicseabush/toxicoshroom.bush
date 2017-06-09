@@ -1,0 +1,24 @@
+{
+  "name" : "toxicoshroom",
+  "description" : "Toxic oshroom.",
+  "shortdescription" : "Toxic Oshroom",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "toxicoshroom1.png"
+    },
+    {
+      "base" : "toxicoshroom2.png"
+    },
+    {
+      "base" : "toxicoshroom3.png"
+    },
+    {
+      "base" : "toxicoshroom4.png"
+    },
+    {
+      "base" : "toxicoshroom5.png"
+    }
+  ]
+}

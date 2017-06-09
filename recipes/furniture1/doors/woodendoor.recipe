@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 15 },
+    { "item" : "cobblestonematerial", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "woodendoor",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "doors", "all" ]
+}

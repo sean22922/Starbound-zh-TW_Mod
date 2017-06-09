@@ -1,0 +1,16 @@
+{
+  "name" : "crampedcolony",
+
+  "triggers" : [
+    "tenantsNearby"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "tenantsNearby",
+      "op" : "atLeast",
+      "value" : 5
+    }
+  ]
+}

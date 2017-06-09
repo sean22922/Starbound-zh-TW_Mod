@@ -1,0 +1,25 @@
+{
+  "projectileName" : "delaybullet",
+  "image" : "delaybullet.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "power" : 5.0,
+  "speed" : 0.2,
+  "damageKind" : "default",
+
+  "timeToLive" : 7,
+
+  "scripts" : [ "delaybullet.lua" ],
+  "delayTime" : 4.0,
+  "triggerSpeed" : 100
+}

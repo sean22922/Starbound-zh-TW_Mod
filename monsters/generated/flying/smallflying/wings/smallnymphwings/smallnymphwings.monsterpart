@@ -1,0 +1,10 @@
+{
+  "name" : "smallnymphwings",
+  "category" : "smallflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "smallnymphbwing.png",
+    "frontWings" : "smallnymphfwing.png"
+  }
+}

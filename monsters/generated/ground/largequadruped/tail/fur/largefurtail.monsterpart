@@ -1,0 +1,9 @@
+{
+  "name" : "largefurtail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largefurtail.png"
+  }
+}

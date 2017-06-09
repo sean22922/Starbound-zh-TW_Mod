@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 5 },
+    { "item" : "yellowdye", "count" : 1 }
+  ],
+  "output" : { "item" : "tier2table", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

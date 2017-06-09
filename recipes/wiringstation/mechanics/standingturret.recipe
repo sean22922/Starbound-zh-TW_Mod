@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "scanner", "count" : 1 },
+    { "item" : "siliconboard", "count" : 1 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 },
+    { "item" : "durasteelbar", "count" : 5 }
+  ],
+  "output" : { "item" : "standingturret", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

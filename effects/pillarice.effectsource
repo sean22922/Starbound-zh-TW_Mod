@@ -1,0 +1,29 @@
+{
+  "kind" : "pillarice",
+  "definition" : {
+    "duration" : 0.6,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "iceswoosh1", "iceswoosh3", "iceswoosh2", "iceaura", "iceswoosh3", "iceswoosh2", "iceswoosh1", "iceshard", "iceshard", "iceaura" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "iceswoosh1", "iceaura" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "iceswoosh4", "iceswoosh4", "iceswoosh4", "iceswoosh4", "iceshard", "iceshard", "iceaura", "iceshard" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

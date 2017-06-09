@@ -1,0 +1,13 @@
+{
+  "name" : "regenerationaugment2",
+  "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "healTime" : 135
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "regenerationaugment.lua"
+  ]
+}

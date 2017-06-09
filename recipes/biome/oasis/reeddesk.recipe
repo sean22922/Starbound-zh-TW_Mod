@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "reed", "count" : 30 },
+    { "item" : "darkwoodmaterial", "count" : 20 }
+  ],
+  "output" : { "item" : "reeddesk", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

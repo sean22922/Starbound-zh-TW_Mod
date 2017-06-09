@@ -1,0 +1,9 @@
+{
+  "name" : "snaunt",
+  "category" : "snaunt",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "snaunt.png"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id" : "shiprepair",
+  "mainQuest" : true,
+  "title" : "Become Space-worthy",
+  "prerequisites" : [ "gaterepair" ],
+  "text" : "First thing first though, dear; you need a ^orange;ship in good working order^reset;. Who knows how far you'll have to travel before we're done. I think you should ^green;return to the Outpost and speak to ^orange;Penguin Pete the shipyard captain^reset;.",
+  "completionText" : "That was no mean feat - well done, dear. Now that your ship is in full working order we can get started on the task at hand.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/story/shiprepair.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+
+    "descriptions" : {
+      "findMechanic" : "^green;Find ^orange;Penguin Pete^white; at the ^orange;outpost^white;",
+      "repairShip" : "^green;Repair your ^orange;ship^reset;.",
+      "findEsther" : "^green;Talk to ^orange;Esther Bright^white; at the ^orange;Ark^white;"
+    },
+
+    "compassUpdate" : 0.2,
+
+    "repairQuest" : "human_mission1",
+
+    "mechanicUid" : "shipyardcaptain",
+    "estherUid" : "estheroutpost"
+  }
+}

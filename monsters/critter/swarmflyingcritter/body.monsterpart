@@ -1,0 +1,9 @@
+{
+  "name" : "swarmflyingcritter",
+  "category" : "swarmflyingcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

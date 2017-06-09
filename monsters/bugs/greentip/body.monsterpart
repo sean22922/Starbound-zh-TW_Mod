@@ -1,0 +1,9 @@
+{
+  "name" : "greentip",
+  "category" : "greentip",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "greentip.png"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id" : "colonystory6",
+  "title" : "How I Became A Landlord 6",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "After some time, Ambiri began asking me for favours. It started small, growing the odd vegetable and cooking dishes occasionally. I was happy to oblige, and even built a small farm next to the house for convenience. 
+
+I very much enjoyed those warm autumn evenings we shared on the veranda by a crackling campfire. One evening, Ambiri announced that he would like to join me on my adventures and see the universe for himself.", 
+
+"I was surprised, as he had shown no prior interest in leaving the planet he had come to call home. It must have been all the exciting tales I told every time I came to collect the rent and check up on the leafy little guy.
+
+I'd grown fond of him, so I accepted his offer. He's been a medic on my ship ever since, even coming into the field with me from time to time. He still gets sick when he uses a teleporter, but we're working on that."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

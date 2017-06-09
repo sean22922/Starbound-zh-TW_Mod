@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sandstoneblock", "count" : 20 }
+  ],
+  "output" : { "item" : "temple3", "count" : 10 },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

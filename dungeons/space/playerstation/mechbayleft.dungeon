@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-mechbayleft",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "mechbayleft" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mechbayleft",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "mechbayleft.json" ]
+    }
+  ]
+}

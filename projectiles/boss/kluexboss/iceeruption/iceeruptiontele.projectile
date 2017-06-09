@@ -1,0 +1,44 @@
+{
+  "projectileName" : "iceeruptiontele",
+  "image" : "iceeruptiontele.png",
+  "animationCycle" : 1.2,
+  "timeToLive" : 1.2,
+  "animationLoops" : false,
+  "frameNumber" : 3,
+  "fullbright" : true,
+  "lightColor" : [100, 100, 200],
+  "power" : 0.0,
+  "speed" : 0,
+  "orientationLocked" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "damagePoly" : [ [-32, 5], [32, 5], [32, -5], [-32, -5] ],
+  "damageKind" : "ice",
+  "periodicActions" : [
+    {
+      "time" : 0.0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/npc/boss/kluexboss_iceform1.ogg", "/sfx/npc/boss/kluexboss_iceform2.ogg" ]
+    },
+    {
+      "time" : 0.4,
+      "repeat" : true,
+      "action" : "sound",
+      "options" : [ "/sfx/npc/boss/kluexboss_iceform1.ogg", "/sfx/npc/boss/kluexboss_iceform2.ogg" ]
+    }
+  ],
+
+  "onlyHitTerrain" : true,
+
+  "eruptionAction" : {
+    "action" : "projectile",
+    "type" : "iceeruption",
+    "inheritDamageFactor" : 1.0,
+    "angleAdjust" : 0,
+    "offset" : [ 0, 3 ]
+  },
+
+  "scripts" : [ "iceeruptiontele.lua" ],
+  "scriptDelta" : 1
+}

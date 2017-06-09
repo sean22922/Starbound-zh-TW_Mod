@@ -1,0 +1,9 @@
+{
+  "name" : "ufo",
+  "category" : "penguinMiniUfo",
+  "type" : "ufo",
+
+  "frames" : {
+    "ufo" : "ufo.png"
+  }
+}

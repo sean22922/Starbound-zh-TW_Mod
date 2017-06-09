@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "beakseedjam", "count" : 1 }
+  ],
+  "output" : { "item" : "beakseedtart", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "beakseedtart" }
+}

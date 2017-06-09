@@ -1,0 +1,19 @@
+{
+  "projectileName" : "iceguardianbullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "iceguardianbullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "fullbright" : true,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "iceplasma",
+
+  "emitters" : [ "iceplasma" ],
+
+  "power" : 10,
+  "speed" : 35
+}

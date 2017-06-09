@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 },
+    { "item" : "wire", "count" : 5 },
+    { "item" : "smallbattery", "count" : 1 }
+  ],
+  "output" : { "item" : "tier3switch", "count" : 1 },
+  "groups" : [ "craftingwiring", "switches" ]
+}

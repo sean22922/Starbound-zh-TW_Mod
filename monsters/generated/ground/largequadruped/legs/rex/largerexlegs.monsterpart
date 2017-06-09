@@ -1,0 +1,16 @@
+{
+  "name" : "largerexlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largerexflegs.png",
+    "backLegs" : "largerexblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.4,
+    "jumpMultiplier" : 1.0
+  }
+}

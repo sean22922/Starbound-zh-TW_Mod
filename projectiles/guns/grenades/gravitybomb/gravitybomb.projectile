@@ -1,0 +1,22 @@
+{
+  "projectileName" : "gravitybomb",
+  "image" : "gravitybomb.png",
+  "physics" : "gravitybomb",
+  "damageKindImage" : "icon.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 35,
+  "timeToLive" : 5,
+  "bounces" : 1,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/regularexplosionuniversal.config"
+    }
+  ],
+
+  "lightColor" : [255, 180, 0],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

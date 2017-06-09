@@ -1,0 +1,12 @@
+{
+  "kind" : "dust4",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/dust4/dust4.animation",
+    "destructionTime" : 0,
+    "fade" : 1,
+    "size" : 1,
+    "layer" : "front",
+    "timeToLive" : 0.6
+  }
+}

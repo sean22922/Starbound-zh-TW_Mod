@@ -1,0 +1,15 @@
+{
+  "projectileName" : "icecloud",
+  "image" : "icecloud.png",
+  "physics" : "gas",
+  "animationCycle" : 1.05,
+  "speed" : 10,
+  "frameNumber" : 8,
+  "emitters" : [ "iceplasmarocket" ],
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 1,
+  "piercing" : true,
+  "power" : 5.0,
+  "damageKind" : "default"
+}

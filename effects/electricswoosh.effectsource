@@ -1,0 +1,24 @@
+{
+  "kind" : "electricswoosh",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.01,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "electricswoosh1" ], [ "electricswoosh2" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "electricswoosh1" ], [ "electricswoosh1" ], [ "electricswoosh2" ], [ "electricswoosh2" ], [ "electricswoosh2" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "electricswoosh1" ], [ "electricswoosh2" ], [ "electricswoosh2" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

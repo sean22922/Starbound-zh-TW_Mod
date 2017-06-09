@@ -1,0 +1,25 @@
+{
+  "name" : "ceilingwicked",
+  "description" : "Hanging roots.",
+  "shortdescription" : "Hanging roots.",
+  "floranDescription" : "Rootsss!",
+  "glitchDescription" : "Statement. Hanging roots.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

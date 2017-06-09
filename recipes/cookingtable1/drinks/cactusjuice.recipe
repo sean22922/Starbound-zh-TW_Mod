@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "cacti", "count" : 1 }
+  ],
+  "output" : { "item" : "cactusjuice", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "cactusjuice" }
+}

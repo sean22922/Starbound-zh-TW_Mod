@@ -1,0 +1,9 @@
+{
+  "name" : "crabcritter",
+  "category" : "crabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

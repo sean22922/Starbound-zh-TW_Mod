@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "genbosswallplatformleft",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "genbosswallplatformleft" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "genbosswallplatformleft",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "genbosswallplatformleft.json" ]
+    }
+  ]
+}

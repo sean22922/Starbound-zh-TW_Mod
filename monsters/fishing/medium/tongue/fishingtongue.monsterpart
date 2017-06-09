@@ -1,0 +1,9 @@
+{
+  "name" : "fishingtongue",
+  "category" : "fishingtongue",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingtongue.png"
+  }
+}

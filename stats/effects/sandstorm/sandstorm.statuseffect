@@ -1,0 +1,14 @@
+{
+  "name" : "sandstorm",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "sandstorm.lua"
+  ],
+
+  "animationConfig" : "sandstorm.animation",
+
+  "label" : "Sandstorm",
+  "icon" : "/interface/statuses/slow.png"
+}

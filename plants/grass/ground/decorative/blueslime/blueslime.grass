@@ -1,0 +1,8 @@
+{
+  "name" : "blueslime",
+  "description" : "A slimy root.",
+  "shortdescription" : "A slimy root.",
+  "floranDescription" : "Ssslimy root.",
+  "glitchDescription" : "Statement. A slimy root.",
+  "images" : [ "blueslime1.png", "blueslime2.png", "blueslime3.png", "blueslime4.png", "blueslime5.png" ]
+}

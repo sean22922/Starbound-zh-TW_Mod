@@ -1,0 +1,15 @@
+{
+  "name" : "largebigfinhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largebigfinhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1, -0.6]
+  }
+}

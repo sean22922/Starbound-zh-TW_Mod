@@ -1,0 +1,9 @@
+{
+  "name" : "darkthreeeyescritter",
+  "category" : "darkthreeeyescritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

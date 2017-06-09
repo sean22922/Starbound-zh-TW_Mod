@@ -1,0 +1,9 @@
+{
+  "name" : "neon3head",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "neon3head.png"
+  }
+}

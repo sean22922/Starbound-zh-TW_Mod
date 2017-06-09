@@ -1,0 +1,42 @@
+{
+  "id" : "finalpostcard",
+  "title" : "Thank you card",
+  "description" : "A card from friends.",
+  "icon" : "finalpostcard.png",
+  "contentPages" : [
+"
+
+That eye thing was huge! What a hunt! You might just be the second best hunter I know. 
+- Nuru ð
+
+Kluex would be proud of you. 
+- Tonauac ±
+
+Bloody good show! 
+- Baron 4c 69 67 68 74 Þ
+",
+"
+
+You have taught me that there is always hope. Thank you. 
+- Lana º
+
+The scientific importance of your achievement is immeasurable! 
+- Koichi þ
+
+You have the heart of a Protector. 
+- Esther »
+",
+"
+
+Thank you for saving the Universe « we hope you enjoyed playing Starbound every bit as much as we enjoyed making it. The Universe is free for you to explore. Safe travels!
+
+- Chucklefish Games  ^orange;°
+
+"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Legendary",
+    "price" : 25
+  }
+}

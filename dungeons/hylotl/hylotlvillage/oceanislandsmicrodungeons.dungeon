@@ -1,0 +1,86 @@
+{
+  "metadata" : {
+    "name" : "oceanislandsmicrodungeons",
+    "species" : "hylotl",
+    "rules" : [
+    ],
+    "anchor" : [ "hylotlvillagehouse1", "hylotlvillagehouse2", "hylotlvillagehousesmall1", "hylotlvillagehousesmall2", "hylotlvillagehousesmall3", "hylotlvillagehouse3", "hylotlvillagegarden1", "hylotlvillagegarden2", "hylotlvillagehousegong", "hylotlvillagehouselib" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "hylotlvillagehouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehouse1.json" ]
+    },
+    {
+      "name" : "hylotlvillagehouse2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehouse2.json" ]
+    },
+    {
+      "name" : "hylotlvillagehousesmall1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehousesmall1.json" ]
+    },
+    {
+      "name" : "hylotlvillagehousesmall2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehousesmall2.json" ]
+    },
+    {
+      "name" : "hylotlvillagehousesmall3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehousesmall3.json" ]
+    },
+    {
+      "name" : "hylotlvillagehouse3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehouse3.json" ]
+    },
+    {
+      "name" : "hylotlvillagegarden1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagegarden1.json" ]
+    },
+    {
+      "name" : "hylotlvillagegarden2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagegarden2.json" ]
+    },
+    {
+      "name" : "hylotlvillagehousegong",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehousegong.json" ]
+    },
+    {
+      "name" : "hylotlvillagehouselib",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hylotlvillagehouselib.json" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 30 },
+    { "item" : "titaniumbar", "count" : 2 },
+    { "item" : "string", "count" : 10 }
+  ],
+  "output" : { "item" : "fishingrod", "count" : 1 },
+  "groups" : [ "craftingfarm", "hunting" ]
+}

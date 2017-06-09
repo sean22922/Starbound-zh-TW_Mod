@@ -1,0 +1,8 @@
+{
+  "name" : "springy",
+  "description" : "A bouncy, springy plant.",
+  "shortdescription" : "A springy plant.",
+  "floranDescription" : "Floran bounce on thisss.",
+  "glitchDescription" : "Amusement. A plant shaped like a spring.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

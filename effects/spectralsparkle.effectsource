@@ -1,0 +1,29 @@
+{
+  "kind" : "spectralsparkle",
+  "definition" : {
+    "duration" : 0.07,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "lightpurplephaseparticle", "darkpurplephaseparticle" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [  ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

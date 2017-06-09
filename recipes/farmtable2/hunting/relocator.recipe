@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 10 },
+    { "item" : "smallbattery", "count" : 4 },
+    { "item" : "siliconboard", "count" : 2 },
+    { "item" : "wire", "count" : 6 }
+  ],
+  "output" : { "item" : "relocator", "count" : 1 },
+  "groups" : [ "craftingfarm2", "hunting" ]
+}

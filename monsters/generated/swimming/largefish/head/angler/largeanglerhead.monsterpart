@@ -1,0 +1,9 @@
+{
+  "name" : "largeanglerhead",
+  "category" : "largefish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeanglerhead.png"
+  }
+}

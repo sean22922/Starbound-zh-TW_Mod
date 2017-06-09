@@ -1,0 +1,30 @@
+{
+  "eventName" : "item",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - itemName
+  //  - count
+  //  - category
+
+  "stats" : [
+    {
+      "name" : "item.itemName.<itemName>",
+      "type" : "int",
+      "op" : "sum",
+      "field" : "count"
+    },
+    {
+      "name" : "item.category.<category>",
+      "type" : "int",
+      "op" : "sum",
+      "field" : "count"
+    },
+    {
+      "name" : "itemSet.category.<category>",
+      "type" : "set",
+      "op" : "insert",
+      "field" : "itemName"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id" : "castleking03",
+  "title" : "The Would-Be King Part 3",
+  "description" : "A Glitch folk tale.",
+  "icon" : "glitchcastlebook_03.png",
+  "contentPages" : [
+
+    "Day by day, Dreadwing grew more apoplectic. In fact, his anger was such that he took to hurling his subjects from the castle towers, thus shrinking the population, and compounding the problem.
+
+One day, a group of Glitch blacksmiths hit upon an idea. While none of them were willing to have ten children apiece simply to please their despotic king, they did rather enjoy making stylish suits of armour.",
+
+"They were very adept at this, and it had often been remarked upon that the armour looked much like the Glitch themselves... So they set to work creating as many suits of armour as they possibly could."
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

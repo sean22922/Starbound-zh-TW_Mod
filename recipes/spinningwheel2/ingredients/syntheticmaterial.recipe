@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "coalore", "count" : 5 },
+    { "item" : "liquidpoison", "count" : 5 }
+  ],
+  "output" : { "item" : "syntheticmaterial", "count" : 1 },
+  "groups" : [ "craftingwheel2", "ingredients" ]
+}

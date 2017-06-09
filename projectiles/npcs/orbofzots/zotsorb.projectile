@@ -1,0 +1,13 @@
+{
+  "projectileName" : "zotsorb",
+  "image" : "zotsorb.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 4,
+  "power" : 50,
+  "physics" : "gas",
+  "piercing" : true,
+  "emitters" : [ "fireplasma", "smoke", "flames", "fireplasma", "smoke", "flames" ],
+
+  "lightColor" : [255, 180, 0],
+  "damageKind" : "electric"
+}

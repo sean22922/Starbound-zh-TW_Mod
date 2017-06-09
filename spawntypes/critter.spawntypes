@@ -1,0 +1,2133 @@
+[
+  // particle spawners
+
+  {
+    "name" : "flyspawner",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.05,
+    "monsterType" : "flyspawner",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fireflyspawner",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "fireflyspawner",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fireflyspawner2",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.2,
+    "monsterType" : "fireflyspawner",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bioluminfireflyspawner",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.05,
+    "monsterType" : "fireflyspawner",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  // surface critters
+
+  {
+    "name" : "birdcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "birdcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "frogcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "frogcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "tinycrocodilecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "tinycrocodilecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ballooncritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "ballooncritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snowflakescritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "snowflakescritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bouncercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "bouncercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "hazmatcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "hazmatcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snailcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "snailcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "tortoisecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "tortoisecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "mousecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.05,
+    "monsterType" : "mousecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "quibblecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "enclosed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.05,
+    "monsterType" : "quibblecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bunnycritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "bunnycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bunnycommon",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.015,
+    "monsterType" : "bunnycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "armadillocritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "armadillocritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "squirrelcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.015,
+    "monsterType" : "squirrelcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "hedgehogcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.05,
+    "monsterType" : "hedgehogcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bouncebagcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.015,
+    "monsterType" : "bouncebagcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sackbagcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.015,
+    "monsterType" : "sackbagcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "floatbagcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "floatbagcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "appofloatcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "appofloatcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snooglecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "snooglecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "symbiotecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "symbiotecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "eyefriendcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "eyefriendcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "eyepodcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "eyepodcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "gullcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "gullcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "reasonablecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "reasonablecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "redbreastcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "redbreastcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "wintercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "wintercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snowymolecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "snowymolecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sealcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "sealcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "dancercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "dancercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snowbcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "snowbcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "prismelementalcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "prismelementalcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "prismscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "prismscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "icescabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "icescabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "glowingballcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "glowingballcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "glowingball2critter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.15,
+    "monsterType" : "glowingball2critter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "owlcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "owlcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "frozenowlcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "frozenowlcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "blipcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "blipcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sporelingcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "sporelingcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "groopcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "groopcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "crabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "crabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "steamspidercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "steamspidercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "toxiccrabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "toxiccrabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ravencritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "ravencritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "wurmcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "wurmcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "toucritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "toucritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "vulturecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "vulturecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "squeekcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "squeekcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "deserttortoisecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "deserttortoisecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "crystaltortoisecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.1,
+    "monsterType" : "crystaltortoisecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bowbirdcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "bowbirdcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "steambirdcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "steambirdcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bluebutterflycritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "bluebutterflycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "crystalbirdcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "crystalbirdcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "yeticritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "yeticritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "harecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "harecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snakecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "snakecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "spindycritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "spindycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "loopacritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "loopacritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ahsrockcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "ahsrockcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "volcanicflowercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "volcanicflowercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "magmawormcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "magmawormcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "firerockcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "firerockcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "orenibblercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "orenibblercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "firekrawlcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "firekrawlcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "flurlcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "flurlcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ashrockcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "ashrockcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "smallgeodecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "smallgeodecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "largegeodecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "largegeodecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "floatinggeodecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "floatinggeodecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "tritrotscritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "tritrotscritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "breakercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "breakercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "breakerfemalecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "breakerfemalecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "savybirdcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "savybirdcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "leafscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "leafscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "slugcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "slugcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "sluggreencritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "sluggreencritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "slugbluecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "slugbluecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "humanscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "humanscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "apexscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "apexscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "avianscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "avianscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "floranscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "floranscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "hylotlscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "hylotlscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "glitchscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "glitchscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "penguinscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "penguinscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "cliffcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "cliffcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bloodtoadcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "bloodtoadcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "petalcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "petalcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "maggotcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "maggotcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "chevcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "chevcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "snorecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "snorecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "hollowcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "hollowcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "poofincritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "poofincritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "ciclesnailcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "ciclesnailcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "spidercritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "spidercritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "swarmcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "swarmcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "swarmflyingcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "swarmflyingcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "rolypolycritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "rolypolycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "darkballcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "darkballcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "darkoneeyecritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "darkoneeyecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "darkthreeeyescritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "darkthreeeyescritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "darkwormcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "darkwormcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "bigwormcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "bigwormcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "skywurmcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "skywurmcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "krawlcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "krawlcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "darknessscabcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "darknessscabcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "dartcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "dartcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  // liquid critters
+
+  {
+    "name" : "fishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "fishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "glowingfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "glowingfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "steamfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "steamfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "squidcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "squidcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "jellycritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "jellycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "frogpolecritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "frogpolecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fishlemoncritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "fishlemoncritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fishberrycritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "fishberrycritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fishchilicritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "fishchilicritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "poisonfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "poisonfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "skellyfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "skellyfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "pufferfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "pufferfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "charfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "charfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "arcticfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "arcticfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "narfishcritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "narfishcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "jellocritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.02,
+    "monsterType" : "jellocritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "fisheyecritter",
+
+    "spawnParameters" : {
+      "area" : "liquid",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.1,
+    "monsterType" : "fisheyecritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "cellcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.1,
+    "monsterType" : "cellcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "cell2critter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.1,
+    "monsterType" : "cell2critter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+
+  {
+    "name" : "eggcellcritter",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.1,
+    "monsterType" : "eggcellcritter",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  }
+]

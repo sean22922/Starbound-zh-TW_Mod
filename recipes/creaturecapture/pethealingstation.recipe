@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "siliconboard", "count" : 4 },   
+    { "item" : "wire", "count" : 5 },
+    { "item" : "battery", "count" : 1 }     
+  ],
+  "output" : {
+    "item" : "pethealingstation",
+    "count" : 1
+  },
+  "groups" : [ "capturestation", "all" ]
+}

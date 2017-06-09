@@ -1,0 +1,28 @@
+{
+  "id" : "hylotlhistory3",
+  "species" : "hylotl",
+  "title" : "The Fall of Our Peace",
+  "description" : "An old Hylotl poem.",
+  "icon" : "hylotlcover1.png",
+  "contentPages" : [
+    "
+We were pacifists
+Who did not comprehend war
+Thus came the Floran
+
+
+Driven beneath seas
+Our knowledge was lost to flames
+All was nearly lost
+
+
+They may not recall
+But they nearly caused our end
+Do not forget this"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

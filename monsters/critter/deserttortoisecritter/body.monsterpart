@@ -1,0 +1,9 @@
+{
+  "name" : "deserttortoisecritter",
+  "category" : "deserttortoisecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

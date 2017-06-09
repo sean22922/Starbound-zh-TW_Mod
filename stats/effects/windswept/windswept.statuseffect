@@ -1,0 +1,21 @@
+{
+  "name" : "windswept",
+  "effectConfig" : {
+    "movementParameters" : {
+      "groundForce" : 100,
+      "ambulatingGroundFriction" : 5.0,
+      "normalGroundFriction" : 5.0,
+      "runSpeed" : 28
+    }
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "windswept.lua"
+  ],
+
+  "animationConfig" : "windswept.animation",
+
+  "label" : "Windswept",
+  "icon" : "/interface/statuses/tar.png"
+}

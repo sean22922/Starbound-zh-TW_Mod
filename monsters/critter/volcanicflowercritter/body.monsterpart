@@ -1,0 +1,9 @@
+{
+  "name" : "volcanicflowercritter",
+  "category" : "volcanicflowercritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

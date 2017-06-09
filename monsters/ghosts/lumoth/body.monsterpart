@@ -1,0 +1,9 @@
+{
+  "name" : "lumoth",
+  "category" : "lumoth",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lumoth.png"
+  }
+}

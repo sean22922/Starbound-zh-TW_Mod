@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "reed", "count" : 20 },
+    { "item" : "darkwoodmaterial", "count" : 3 },
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "reedlamp", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

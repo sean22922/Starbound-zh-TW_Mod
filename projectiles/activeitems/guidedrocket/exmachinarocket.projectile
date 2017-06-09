@@ -1,0 +1,31 @@
+{
+  "projectileName" : "exmachinarocket",
+  "image" : "guidedrocket.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [255, 255, 128],
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/regularexplosionknockback.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "emitters" : [ "rocketsmoke" ],
+  "flippable" : true,
+  "power" : 15.0,
+  "speed" : 15,
+  "knockback" : 40,
+  "acceleration" : 5.0,
+  "physics" : "rocket",
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+
+  "scripts" : [ "guidedrocket.lua" ],
+  "rotationRate" : 20.0,
+  "maxTrackingAngle" : 20.0,
+
+  "persistentAudio" : "/sfx/projectiles/guidedrocket_loop2.ogg"
+}

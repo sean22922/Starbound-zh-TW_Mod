@@ -1,0 +1,20 @@
+{
+  "projectileName" : "diamondshard",
+  "image" : "diamondshard.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "applySurfaceMod",
+      "previousMod" : null,
+      // "previousMod" : null,
+      "newMod" : "diamond",
+      "radius" : 5
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 75,
+  "damageKind" : "default"
+}

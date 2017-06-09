@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "paper", "count" : 6 },
+    { "item" : "darkwoodmaterial", "count" : 10 }
+  ],
+  "output" : { "item" : "paperwingsback", "count" : 1 },
+  "groups" : [ "armours", "all" ]
+}

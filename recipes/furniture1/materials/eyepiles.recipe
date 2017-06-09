@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "oculemon", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "eyepiles",
+    "count" : 10
+  },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

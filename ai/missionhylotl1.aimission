@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionhylotl1",
+  "icon" : "missionhylotl1icon.png",
+  "missionWorld" : "hylotlmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "The Grand Pagoda Library",
+      "repeatButtonText" : "Revisit the Grand Pagoda Library",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "This ancient island complex has been calculated to be the approximate location of the Hylotl Artifact.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

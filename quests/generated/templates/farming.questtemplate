@@ -1,0 +1,105 @@
+{
+  "id" : "farming.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "cropList" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "pearlpea", "count" : 3}]
+      }
+    },
+    "seedList" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "pearlpeaseed", "count" : 1}]
+      }
+    },
+    "extraRewards" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "money", "count" : 1000}]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/fetch.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "text" : {
+        "first" : {
+          "floran" : [
+            "For sstarters, ^green;plant these seeds. ^white;Water them and watch them grow. When crop iss ripe, ^green;bring Floran the ^orange;<cropList>.",
+            "The first thing you need to do is ^green;plant these ssseeds. ^white;Once the crop has grown, ^green;bring Floran the ripe ^orange;<cropList>. ^white;Don't forget to water them!"
+          ],
+          "glitch" : [
+            "Friendly. To begin with, ^green;I am in need of some fresh ^orange;<cropList>^white;. Even a beginner should be able to grow some with these ^orange;seeds^white; and a little patience.",
+            "Sceptical. I purchased these ^orange;seeds^white; from a merchant and have been unable to successfully grow anything from them. ^green;Maybe you can grow ^orange;<cropList>^white; for me."
+          ],
+          "default" : [
+            "Firstly, I need you to ^green;plant ^orange;<seedList>.^white; Water them regularly, then when they're ready, ^green;gather the ^orange;<cropList>^green; and bring your bountiful harvest to me.",
+            "First, I need <cropList> but it's out of season. You can garden right?  Here's ^orange;<seedList>^green; for you to plant,^white; when you've ^green;harvested ^orange;<cropList>^green; could you bring them to me?"
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Now Floran needs ^orange;<cropList>. ^green;Plant and water ^orange;<seedList>. ^white;Crop will be ripe and ready to pick when big and sssquishy! ^green;Bring your harvest back to Floran.",
+            "Next Floran needs you to ^green;grow ^orange;<cropList> ^green;from these seedsss."
+          ],
+          "glitch" : [
+            "Timid. I hope it's not too much to ask, but  ^green;could you plant ^orange;<seedList>.^white; And maybe, when they're fully grown, ^green;deliver the fresh produce to me^white;?",
+            "Excited. The next part of my plan involves ^orange;<cropList>. I'm not the greatest gardener, but I'm sure you could grow some.^green;Take these ^orange;seeds^green; and grow me the crops^white; I need."
+          ],
+          "default" : [
+            "Now I need you to ^green;plant ^orange;<seedList>^white;. Care for them until they're ready, then ^green;harvest the ^orange;<cropList>^green; for me.",
+            "Next, we need some produce. I have ^orange;<seedList>,^white; but no place to grow things. Would you mind ^green;growing them and bringing me ^orange;<cropList>^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "first" : {
+          "floran" : [
+            "Plump and deliciousss! Thank you!",
+            "Thankss! Floran finds <cropList> hard to grow here - you did a good job!"
+          ],
+          "glitch" : [
+            "Pleased. These crops have turned out better than I could have grown myself, you have a real talent for farming.",
+            "Perplexed. I will never know how you were able to grow these seeds so successfully, but it doesn't matter. You have my thanks. "
+          ],
+          "default" : [
+            "Ah, beautifully ripe! You have a real talent for this.",
+            "Wow, you may have a future in farming! <cropList> fresh out of the ground! This will work wonderfully."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Yesss, just what Floran needs! You are the besst!",
+            "Thankss! Floran can't understand why anyone would want to eat this ssstuff, but Floran needs is right now."
+          ],
+          "glitch" : [
+            "Cheerful. This is a bumper crop! Thank you!",
+            "Happy. Excellent work, my plan is coming together nicely. "
+          ],
+          "default" : [
+            "Thank you. These look a little on the small side, but that's what you get for going organic!",
+            "<cropList> exactly as requested. Nice work! Time to put this produce to good use!"
+          ]
+        }
+      }
+    },
+    "fetchList" : "cropList",
+    "giveItems" : "seedList",
+    "portraitParameter" : "questGiver",
+    "requireTurnIn" : true
+  }
+}

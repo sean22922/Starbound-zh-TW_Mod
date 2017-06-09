@@ -1,0 +1,14 @@
+{
+  "projectileName" : "brokenglassslide",
+  "physics" : "superhighgravgrenade",
+  "bounces" : -1,
+  "timeToLive" : 0.3,
+  "damageKindImage" : "icon.png",
+  "image" : "brokenglassslide.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.15,
+  "frameNumber" : 2,
+  "speed" : 80,
+  "power" : 0.75,
+  "damageKind" : "default"
+}

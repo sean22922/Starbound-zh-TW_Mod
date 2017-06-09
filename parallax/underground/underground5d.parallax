@@ -1,0 +1,25 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/lavacavernhollow",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/lavafall",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.35,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/lavacavern",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.5,
+      "repeatY" : true
+    }
+  ]
+}

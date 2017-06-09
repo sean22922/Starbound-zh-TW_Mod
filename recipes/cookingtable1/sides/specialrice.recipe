@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "egg", "count" : 1 },
+    { "item" : "corn", "count" : 1 }
+  ],
+  "output" : { "item" : "specialrice", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "specialrice" }
+}

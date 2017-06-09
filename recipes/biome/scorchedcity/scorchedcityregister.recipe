@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 4 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "smallbattery", "count" : 1 }
+  ],
+  "output" : { "item" : "scorchedcityregister", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

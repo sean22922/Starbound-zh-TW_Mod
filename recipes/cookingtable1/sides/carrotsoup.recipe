@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "potato", "count" : 1 },
+    { "item" : "milk", "count" : 1 },
+    { "item" : "carrot", "count" : 1 }
+  ],
+  "output" : { "item" : "carrotsoup", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "carrotsoup" }
+}

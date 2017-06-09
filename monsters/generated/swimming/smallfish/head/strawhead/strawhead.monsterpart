@@ -1,0 +1,9 @@
+{
+  "name" : "strawhead",
+  "category" : "fish",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "strawhead.png"
+  }
+}

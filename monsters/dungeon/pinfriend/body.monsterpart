@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "pinfriend",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "pinfriend.png"
+  }
+}

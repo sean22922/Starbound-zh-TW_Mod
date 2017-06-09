@@ -1,0 +1,15 @@
+{
+  "name" : "beamin",
+  "effectConfig" : {
+    "speciesTags" : {
+      "penguin" : "penguin"
+    }
+  },
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "beamin.lua"
+  ],
+
+  "animationConfig" : "beamin.animation"
+}

@@ -1,0 +1,19 @@
+{
+  "projectileName" : "needlerthorns",
+  "physics" : "arrownosticky",
+  "image" : "needlerthorns.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "timeToLive" : 8,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "speed" : 100,
+  "damageKind" : "default"
+}

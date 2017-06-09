@@ -1,0 +1,16 @@
+{
+  "name" : "planetblocks",
+
+  "triggers" : [
+    "item.category.block"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.block",
+      "op" : "atLeast",
+      "value" : 10000000
+    }
+  ]
+}

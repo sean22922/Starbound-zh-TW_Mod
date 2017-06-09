@@ -1,0 +1,41 @@
+{
+  "id" : "floranhistory8",
+  "species" : "floran",
+  "title" : "Maku's Journal",
+  "description" : "A literate Floran describes an encounter with an Avian in their personal journal.",
+  "icon" : "florancover4.png",
+  "contentPages" : [
+    "Floran found bird man today.
+
+While Floran like meat best, Floran also partial to eggs, so brought bird man home.
+
+Regretting decision.
+
+Bird man squawks and squawks and Floran never gets any peace.
+
+Will kill bird man tomorrow.",
+
+"Strange thing happened today - Floran change mind about killing bird man.
+
+Floran go outside in morning to stab bird man (make nice bird soup), but bird man suddenly yell \"No no please no. What about Yani!?\" and Floran pause (because not know what \"Yani\" is) and Floran see bird man holding up picture of bird girl...
+
+Very nice picture - detailed, like looking at real life.",
+
+"Floran try to take picture from bird man and bird man screech like stuck snaunt! After bird man calm down (takes little stab in foot to speed up proceedings) bird man talks about bird girl. Strangely, bird man talks about \"Yani\" the same way Floran would talk about Afa or Razi - like he cares about Yani and Yani is important...
+
+Bird man has feelings! Probably not proper feelings like Floran has, but bird man does have feelings and thoughts in his bird brain!",
+
+"Today bird man says his name is Chicahua.
+
+Chicahua cross when I point out how stupid that name is.
+
+Chicahua funny. Floran not really want to kill him anymore...
+
+Floran wonders if other meats are ever anything like Chicahua. "
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

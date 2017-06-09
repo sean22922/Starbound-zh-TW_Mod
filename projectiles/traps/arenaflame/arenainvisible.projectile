@@ -1,0 +1,11 @@
+{
+  "projectileName" : "arenainvisible",
+  "image" : "invisibleprojectile.png",
+  "frameNumber" : 1,
+  "speed" : 0,
+  "timeToLive" : 0.01,
+  "onlyHitTerrain" : true,
+  "animationLoops" : false,
+  "flippable" : true,
+  "damageKind" : "default"
+}

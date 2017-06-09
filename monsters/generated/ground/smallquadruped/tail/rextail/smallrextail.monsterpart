@@ -1,0 +1,9 @@
+{
+  "name" : "smallrextail",
+  "category" : "smallquadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "smallrextail.png"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "largeshellplatehead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeshellplatehead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

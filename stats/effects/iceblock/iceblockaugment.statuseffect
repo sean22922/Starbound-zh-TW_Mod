@@ -1,0 +1,9 @@
+{
+  "name" : "iceblockaugment",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "iceblock.lua"
+  ]
+}

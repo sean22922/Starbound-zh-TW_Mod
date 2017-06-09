@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator3",
+  "prerequisites" : [ "museumcurator2" ],
+  "title" : "^green;The Visage of a Hunter",
+  "text" : "Um, it turns out Florans aren't very interested in museums; I was talking about my plans earlier and Nuru asked me what a \"mesuam\" was... ^green;Maybe if you brought me a ^orange;Floran Statue^white; from a Floran village or hunting ground, it might make the museum seem more enticing?",
+  "completionText" : "It even has a spear - Nuru will love this! I can't thank you enough!",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [
+    [ [ "upgrademodule", 1 ], [ "energyaugment2", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "huntingstatue",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

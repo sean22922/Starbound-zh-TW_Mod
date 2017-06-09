@@ -1,0 +1,16 @@
+{
+  "id" : "avianhistory2",
+  "species" : "avian",
+  "title" : "Avoscript: Verse 23:4:27",
+  "description" : "An excerpt from the Avian holy book.",
+  "icon" : "aviancover5.png",
+  "contentPages" : [
+    "Deep within the heart of the Avians, a single spark of jealousy ignited. The flame grew until there burned the raging fires of greed, and so it was that the Avians crossed into the mortal realm, so that they may walk among beings of flesh and blood.
+
+But upon turning their backs on the heavens, all Avians were forever stripped of their ethereal wings, and must walk in darkness until they achieve true absolution in the light of Kluex."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

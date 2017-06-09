@@ -1,0 +1,42 @@
+{
+  "projectileName" : "splitter",
+  "image" : "splitter.png",
+  "physics" : "gravitybomb",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+  "speed" : 35,
+  "timeToLive" : 1,
+  "bounces" : 1,
+  "flippable" : true,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "bullet-1",
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "bullet-1",
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "bullet-1",
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : -90
+    },
+    {
+      "action" : "projectile",
+      "type" : "bullet-1",
+      "inheritDamageFactor" : 0.25,
+      "angleAdjust" : 0
+    }
+  ],
+
+  "lightColor" : [255, 180, 0],
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

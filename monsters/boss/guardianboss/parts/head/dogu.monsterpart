@@ -1,0 +1,10 @@
+{
+  "name" : "dogu",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "dogu.png",
+    "headfullbright" : "dogufullbright.png"
+  }
+}

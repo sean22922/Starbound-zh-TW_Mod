@@ -1,0 +1,18 @@
+{
+  "projectileName" : "spacedust1",
+  "image" : "spacedust1.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "emitters" : [ "spacedusttail" ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/weatheringexplosion/weatheringexplosion.config"
+    }
+  ],
+  "power" : 0.0,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef"
+}

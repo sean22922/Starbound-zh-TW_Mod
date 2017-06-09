@@ -1,0 +1,21 @@
+{
+  "projectileName" : "electricplasmagrenade",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 3,
+  "damageKindImage" : "electricicon.png",
+  "pointLight" : true,
+  "lightColor" : [60, 40, 80],
+  "image" : "electricplasmagrenade.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/electricexplosionknockbackstatus.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "electricplasma"
+}

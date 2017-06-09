@@ -1,0 +1,124 @@
+{
+  "metadata" : {
+    "name" : "swampmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "hut1", "hut2", "hut3", "hut4", "hut5", "hut6", "hut7", "hut8", "hut9", "terrain1", "terrain2", "terrain3", "terrain4", "terrain5", "terrain6" ],
+
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "hut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut1.json" ]
+    },
+    {
+      "name" : "hut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut2.json" ]
+    },
+    {
+      "name" : "hut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut3.json" ]
+    },
+    {
+      "name" : "hut4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut4.json" ]
+    },
+    {
+      "name" : "hut5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut5.json" ]
+    },
+    {
+      "name" : "hut6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut6.json" ]
+    },
+    {
+      "name" : "hut7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut7.json" ]
+    },
+    {
+      "name" : "hut8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut8.json" ]
+    },
+    {
+      "name" : "hut9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "hut9.json" ]
+    },
+    {
+      "name" : "terrain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain1.json" ]
+    },
+    {
+      "name" : "terrain2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain2.json" ]
+    },
+    {
+      "name" : "terrain3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain3.json" ]
+    },
+    {
+      "name" : "terrain4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain4.json" ]
+    },
+    {
+      "name" : "terrain5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain5.json" ]
+    },
+    {
+      "name" : "terrain6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "terrain6.json" ]
+    }
+  ]
+}

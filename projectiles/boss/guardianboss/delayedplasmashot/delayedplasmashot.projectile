@@ -1,0 +1,72 @@
+{
+  "projectileName" : "delayedplasmashot",
+  "image" : "delayedplasmashot.png",
+  "animationCycle" : 0.4,
+  "lightColor" : [150, 100, 100],
+  "frameNumber" : 8,
+  "fullbright" : true,
+  "damageKindImage" : "icon.png",
+  "physics" : "default",
+  "emitters" : [ ],
+  "actionOnReap" : [
+    {
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1.5,
+            "color" : [164, 81, 132],
+            "fade" : 0.9,
+            "approach" : [30, 30],
+            "light" : [160, 40, 40],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [2.5, 2.5],
+              "finalVelocity" : [3.0, 3.0],
+              "size" : 0.5,
+              "timeToLive" : 0.3,
+              "fade" : 0.3
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "plasma",
+  "damageType" : "IgnoresDef",
+  "piercing" : true,
+
+  "speed" : 0,
+  "timeToLive" : 2.0,
+
+  "explosionAction" : {
+    "action" : "actions",
+    "list" : [
+      {
+        "action" : "projectile",
+        "inheritDamageFactor" : 1,
+        "type" : "redpulsecannonexplosion"
+      },
+      {
+        "action" : "light",
+        "color" : "red"
+      }
+    ]
+  },
+  "scripts" : [ "delayedplasmashot.lua" ],
+  "scriptDelta" : 1,
+
+  "periodicActions" : [
+    {
+      "time" : 0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/npc/boss/guardian_delayedshot_charge1.ogg" ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type" : "penguinshipcrewmate",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/shipcrew.config:converse"
+    }
+  },
+
+  "items" : {
+    "default" : [
+      [0, [
+          {
+            "legs" : [
+              { "name" : "penguinvikinghat", "parameters" : { "colorIndex" : [0,2,3,4] } },
+              { "name" : "penguinscanner", "parameters" : { "colorIndex" : [0,2,3] } },
+              { "name" : "penguinberet", "parameters" : { "colorIndex" : [0] } },
+              { "name" : "penguinbandana", "parameters" : { "colorIndex" : [0] } },
+              { "name" : "penguincowboy", "parameters" : { "colorIndex" : [0,1] } },
+              { "name" : "penguinhelmet", "parameters" : { "colorIndex" : [0] } }
+            ]
+          },
+          {
+            "legs" : [
+              ""
+            ]
+          }
+        ] ]
+    ]
+  }
+}

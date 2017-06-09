@@ -1,0 +1,478 @@
+[
+  // small bipeds
+
+  {
+    "name" : "passiveSmallBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveDenseSmallBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.06,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallBipedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallBipedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroSmallBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroDenseSmallBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroSmallBipedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroSmallBipedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.06,
+    "monsterType" : "smallbiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+
+  // large bipeds
+
+  {
+    "name" : "passiveLargeBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveLargeBipedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveLargeBipedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroLargeBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroDenseLargeBiped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroLargeBipedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroLargeBipedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "largebiped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+
+  // small quadrupeds
+
+  {
+    "name" : "passiveSmallQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveDenseSmallQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallQuadrupedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallQuadrupedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroSmallQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroDenseSmallQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroDenseSmallQuadrupedNightExposed",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.08,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroSmallQuadrupedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroSmallQuadrupedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.06,
+    "monsterType" : "smallquadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+
+  // large quadrupeds
+
+  {
+    "name" : "passiveLargeQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveLargeQuadrupedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveLargeQuadrupedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroLargeQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroDenseLargeQuadruped",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroLargeQuadrupedDay",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.03,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+  {
+    "name" : "aggroLargeQuadrupedNight",
+
+    "spawnParameters" : {
+      "area" : "surface",
+      "region" : "all",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.04,
+    "monsterType" : "largequadruped",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  }
+]

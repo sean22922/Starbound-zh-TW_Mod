@@ -1,0 +1,43 @@
+{
+  "id" : "mechupgrade1",
+  "prerequisites" : [ "mechunlock" ],
+  "title" : "^orange;Parts and Labour",
+  "text" : "I'm working on a shiny new mech weapon, but I need some help gathering some pieces. If you could ^green;go into space^white; and ^green;find me 5^orange; salvaged interface chips^white; and ^green;10 ^orange;salvaged power couplings^white;, I think that'll be enough to finish it!",
+  "completionText" : "These parts are enough for me to finish my new ^orange;Missile Rack arm^white;! As a token of my appreciation, I've sent a copy of the ^green;blueprint^white; to the ^green;mech part crafting table^white; - you can go and make your own now!",
+  "moneyRange" : [250, 250],
+  "rewards" : [],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      }
+    },
+
+    "requireTurnIn" : true,
+
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "salvagetier4",
+        "count" : 10,
+        "consume" : false
+      },
+      {
+        "type" : "gatherItem",
+        "itemName" : "salvagearm",
+        "count" : 5,
+        "consume" : false
+      }
+    ],
+
+    "giveBlueprints" : [ "mecharmmissilerack" ]
+  }
+}

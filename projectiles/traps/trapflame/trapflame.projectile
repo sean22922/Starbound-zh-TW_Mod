@@ -1,0 +1,23 @@
+{
+  "projectileName" : "trapflame",
+  "image" : "trapflame.png",
+  "physics" : "laser",
+  "animationCycle" : 1,
+  "animationLoops" : false,
+  "frameNumber" : 12,
+  "winddownFrames" : 3,
+  "intangibleWinddown" : true,
+  "power" : 20,
+  "speed" : 25,
+  "timeToLive" : 0.9,
+  "bounces" : 4,
+  "piercing" : true,
+  "damagePoly" : [ [-7, 0], [-5, -5], [0, -7], [5, -5], [7, 0], [5, 5], [0, 7], [-5, 5] ],
+  "lightColor" : [217, 131, 65],
+  "damageKind" : "fire",
+  "damageType" : "IgnoresDef",
+  "statusEffects" : [
+    "burning"
+  ],
+  "hydrophobic" : true
+}

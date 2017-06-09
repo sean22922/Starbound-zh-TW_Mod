@@ -1,0 +1,16 @@
+{
+  "name" : "killinnocent",
+
+  "triggers" : [
+    "killInnocent"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killInnocent",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

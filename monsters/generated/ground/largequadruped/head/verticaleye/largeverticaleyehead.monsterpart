@@ -1,0 +1,15 @@
+{
+  "name" : "largeverticaleyehead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeverticaleyehead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1, -0.3]
+  }
+}

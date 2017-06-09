@@ -1,0 +1,26 @@
+{
+  "projectileName" : "neochakram",
+  "image" : "neochakram.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 8,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [17, 160, 185],
+  "pointLight" : true,
+  "flippable" : false,
+  "orientationLocked" : true,
+  "emitters" : [ "chakram" ],
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 5.0,
+  "speed" : 70,
+  "damageKind" : "dagger",
+  "physics" : "laser",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 5,
+
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "hoverchakramprojectile.lua" ]
+}

@@ -1,0 +1,15 @@
+{
+  "projectileName" : "burninghalo",
+  "image" : "burninghalo.png",
+  "physics" : "bullet",
+  "animationCycle" : 0.3,
+  "frameNumber" : 9,
+  "power" : 50,
+  "speed" : 10,
+  "timeToLive" : 3,
+  "bounces" : 0,
+  "piercing" : false,
+  "emitters" : [ "fireplasma", "flames", "fireplasma", "flames", "fireplasma", "flames", "smoke", "flames", "largefireswoosh" ],
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "slash"
+}

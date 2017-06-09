@@ -1,0 +1,9 @@
+{
+  "name" : "glowceiling",
+  "description" : "A glowing growth.",
+  "shortdescription" : "A glowing growth.",
+  "floranDescription" : "Glowy.",
+  "glitchDescription" : "Bemusement. A glowing growth.",
+  "ceiling" : true,
+  "images" : [ "glowceiling1.png", "glowceiling2.png", "glowceiling3.png", "glowceiling4.png", "glowceiling5.png" ]
+}

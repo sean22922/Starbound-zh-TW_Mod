@@ -1,0 +1,8 @@
+{
+  "name" : "vine",
+  "description" : "A vine.",
+  "shortdescription" : "A vine.",
+  "floranDescription" : "Vine.",
+  "glitchDescription" : "Statement. A vine.",
+  "images" : [ "vine1.png", "vine2.png", "vine3.png", "vine4.png", "vine5.png" ]
+}

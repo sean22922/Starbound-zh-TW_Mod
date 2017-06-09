@@ -1,0 +1,11 @@
+{
+  "name" : "colorred",
+  "effectConfig" : {
+    "color" : "FF0000"
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "color.lua"
+  ]
+}

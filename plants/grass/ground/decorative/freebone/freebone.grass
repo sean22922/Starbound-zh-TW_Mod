@@ -1,0 +1,8 @@
+{
+  "name" : "freebone",
+  "description" : "A bone of some unknown creature.",
+  "shortdescription" : "A bone.",
+  "floranDescription" : "Floran likely kill this.",
+  "glitchDescription" : "Statement. A long-dead bone.",
+  "images" : [ "freebone1.png", "freebone2.png", "freebone3.png", "freebone4.png", "freebone5.png" ]
+}

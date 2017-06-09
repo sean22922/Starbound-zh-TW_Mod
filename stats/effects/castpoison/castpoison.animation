@@ -1,0 +1,55 @@
+{
+  "particleEmitters" : {
+    "flames" : {
+      "enabled" : true,
+      "emissionRate" : 1,
+      "particles" : [
+        {
+          "particle" : "castpoison"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        },
+        {
+          "particle" : "poisonswoosh1"
+        },
+        {
+          "particle" : "poisonswoosh2"
+        }
+      ]
+    }
+  }
+}

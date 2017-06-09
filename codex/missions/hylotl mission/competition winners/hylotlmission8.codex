@@ -1,0 +1,29 @@
+{
+  "id" : "hylotlmission8",
+  "species" : "hylotl",
+  "title" : "The Slibbler",
+  "description" : "A curious tale by Michael \"KDraconis\" Kim.",
+  "icon" : "theslibblercover.png",
+  "contentPages" : [
+    "There is an unwritten rule that states that for every adventure, there must be a monster.
+
+Whether it's a dragon, a slimething, or a killer space-whale, such creatures are necessary prey to every aspiring hero.
+
+As such, it is no surprise that various individuals have traded tales of a mythical beast that roams the ocean of stars: the confounding Slibbler.",
+
+"Said to have a mooshy smushy body and various tongues growing haphazardly from its skin, it's attributed with the recent disappearances of several personnel spacecraft. Presumably the creature latches on to ships, cracks them open, then \"slibbles\" the people inside, whatever that may mean.
+
+Perpetuators of these stories claim that the Slibbler's tongues are in fact the tongues of its victims, taken as some sort of twisted comedic trophy.",
+
+"One spacefarer declared that he had seen a Slibbler. However, contrary to common belief, the Slibbler wasn't hostile at all.
+
+It floated over to a dirty spaceship, licked it clean, and then departed without a trace.
+
+The spacefarer also insisted that the Slibbler made a noise similar to that of \"blowing raspberries\", but everyone knows that in space, no one can hear you \"pbbbt\"."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

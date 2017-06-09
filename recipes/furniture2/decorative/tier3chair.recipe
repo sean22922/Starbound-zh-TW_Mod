@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 },
+    { "item" : "leather", "count" : 5 },
+    { "item" : "bluedye", "count" : 1 }
+  ],
+  "output" : { "item" : "tier3chair", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

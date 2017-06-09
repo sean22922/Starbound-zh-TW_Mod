@@ -1,0 +1,39 @@
+{
+  "projectileName" : "inkspray",
+  "image" : "inkspray.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.01,
+  "physics" : "goop",
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "inksplash",
+      "fuzzAngle" : 3,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.9,
+      "angleAdjust" : -5
+    },
+    {
+      "action" : "projectile",
+      "type" : "inksplash",
+      "fuzzAngle" : 3,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "inksplash",
+      "fuzzAngle" : 3,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 0.9,
+      "angleAdjust" : 5
+    }
+  ],
+  "damagePoly" : [ ],
+  "power" : 0.0,
+  "damageKind" : "default"
+}

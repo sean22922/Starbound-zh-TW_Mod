@@ -1,0 +1,9 @@
+{
+  "name" : "smallantlertail",
+  "category" : "smallbiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "smallantlertail.png"
+  }
+}

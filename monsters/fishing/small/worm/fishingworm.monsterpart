@@ -1,0 +1,9 @@
+{
+  "name" : "fishingworm",
+  "category" : "fishingworm",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingworm.png"
+  }
+}

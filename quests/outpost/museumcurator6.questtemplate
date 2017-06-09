@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator6",
+  "prerequisites" : [ "museumcurator5" ],
+  "title" : "^green;The Final Acquisition",
+  "text" : "The museum is almost ready, but I need one last item to complete the Hylotl exhibit. Please can you ^green;bring me a ^orange;Traditional Gong^white;? They're quite common in Hylotl settlements, in both villages and cities.",
+  "completionText" : "Thank you so much for all this - my collection is finally complete, and my museum ready to open!  I hope everyone likes it. I hope Nuru likes it.. ^green; You can visit the Museum by using the ^orange;teleporter^green; next to the ^orange;2 Stop Teleshop^white;.",
+  "moneyRange" : [3000, 3000],
+  "rewards" : [
+    [ [ "speedaugment", 1 ], [ "hokucide", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" :  "hylotlclassicgong",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

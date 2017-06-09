@@ -1,0 +1,9 @@
+{
+  "name" : "eyebosseye",
+  "category" : "eyeboss",
+  "type" : "eyelit",
+
+  "frames" : {
+    "eyelit" : "eyelit.png"
+  }
+}

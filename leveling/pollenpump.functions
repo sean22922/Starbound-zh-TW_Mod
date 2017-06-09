@@ -1,0 +1,5 @@
+{
+  "pollenpumpPowerMultiplier" : [ "linear", "clamp", [0, 0.2], [0.74, 0.2], [0.75, 0.3] ],
+  "pollenpumpTimeMultiplier" : [ "linear", "clamp", [0, 1], [0.75, 4] ],
+  "pollenpumpImageSelector" : [ "linear", "clamp", [0, 1], [0.75, 2] ]
+}

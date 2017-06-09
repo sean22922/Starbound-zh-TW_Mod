@@ -1,0 +1,43 @@
+{
+  "id" : "floran_mission2",
+  "mainQuest" : true,
+  "prerequisites" : [ "floran_mission1" ],
+  "title" : "Fetch the Floran Artifact",
+  "text" : "The clues you collected reveal that the ^orange;Floran artifact^reset; is enshrined in ^orange;The Ceremonial Hunting Caverns^reset;. Judging from what I've found out, you'll need to ^green;compete in a ritual hunt to get it^reset;. I've given SAIL the co-ordinates you need. Be careful dear.",
+  "completionText" : "Excellent, you did wonderfully! We're one sixth of the way there, dear. Nothing to sniff at. And now we have ^orange;Nuru^reset; to help us, too.",
+  "moneyRange" : [50, 50],
+  "rewards" : [
+    [ ["rewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/artifact.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+    "associatedMission" : "missionfloran1",
+    "missionUnlockedCinema" : "/cinematics/coordinates.cinematic",
+    "missionRadioMessage" : {
+      "messageId" : "floranmissionunlocked",
+      "unique" : false,
+      "text" : "I have received coordinates for the ^orange;The Ceremonial Hunting Caverns^reset;. ^green;Use the mission interface^reset; to access the location."
+    },
+
+    "descriptions"  : {
+      "artifact" : "Find the ^orange;artifact^reset; in ^green;the Hunting Grounds^reset;",
+      "turnIn" : "Return to ^orange;Esther^reset; at ^green;the Ark^reset;"
+    },
+
+    "artifactUid" : "floranartifactaltar",
+    "artifactMessage" : "floranArtifactTaken",
+
+    "estherUid" : "estheroutpost",
+
+    "artifactCinema" : "/cinematics/artifacts/floranartifact.cinematic"
+  }
+}

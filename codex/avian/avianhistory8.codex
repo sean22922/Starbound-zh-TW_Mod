@@ -1,0 +1,14 @@
+{
+  "id" : "avianhistory8",
+  "species" : "avian",
+  "title" : "Stargazer's Treasures",
+  "description" : "An informative document about Avolite crystals and Avian technology.",
+  "icon" : "aviancover7.png",
+  "contentPages" : [
+    "The Avolite crystals, regarded as the divine gift from Kluex in Avian society, only occur naturally on the Avian homeworld of Avos. These sacred gemstones are impossible to cut and therefore only exist in their natural faceted form. Avian high priests, known as Stargazers, have the sole rights to mine them, and to trespass into their mines is a crime punishable by death."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

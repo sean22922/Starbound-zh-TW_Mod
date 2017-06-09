@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 2 },
+    { "item" : "cryonicextract", "count" : 1 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fridge",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "storage", "all" ]
+}

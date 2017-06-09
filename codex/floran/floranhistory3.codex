@@ -1,0 +1,23 @@
+{
+  "id" : "floranhistory3",
+  "species" : "floran",
+  "title" : "A Departed Floran",
+  "description" : "A letter from a Floran who rejected their culture.",
+  "icon" : "florancover7.png",
+  "contentPages" : [
+    "To the people of my birth tribe,
+
+Can you not see the horrors inflicted by our kind upon the people of the universe? Once we gained access to space travel we spread across the stars like weeds.
+
+It breaks my heart to see Floran colonies leaving only chaos and destruction in their wake. But we each have a choice, we don't have to live to hunt, we can even learn to talk without hissing!",
+
+"I know you all hate me for leaving, but it is possible to forge your own path!
+
+If you are able to read this, please consider it!"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "type" : "spacevillager",
+  "baseType" : "villager",
+
+  "scriptConfig" : {
+    "behaviorConfig" : {
+      "greetingChance" : 0.5
+    },
+    "questGenerator" : {
+      "enableParticipation" : false
+    },
+
+    "dialog" : {
+      "converse" : "/dialog/spaceconverse.config:converse"
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [ { "name" : "industrialcrewhead" } ],
+            "chest" : [ { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+            "chest" : [ { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+            "chest" : [ { "name" : "startrackchest", "parameters" : { "colorIndex" : [1,2,3,4,5,6,7,8,9,10,11] } } ],
+            "legs" : [ { "name" : "startracklegs" } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+            "chest" : [ { "name" : "spacesuitchest", "parameters" : { "colorIndex" : [0,5] } } ],
+            "legs" : [ { "name" : "spacesuitlegs", "parameters" : { "colorIndex" : [0,5] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          },
+
+          {
+            "chest" : [ { "name" : "neochest", "parameters" : { "colorIndex" : [0,5,7] } } ],
+            "legs" : [ { "name" : "neolegs", "parameters" : { "colorIndex" : [0,5,7] } } ],
+            "primary" : [ "" ],
+            "sheathedprimary" : [ "npcpistol" ]
+          }
+        ] ]
+    ]
+  }
+}

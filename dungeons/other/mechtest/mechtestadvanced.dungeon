@@ -1,0 +1,25 @@
+{
+  "metadata" : {
+    "name" : "mechtestadvanced",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [
+      "mechtestadvanced"
+    ],
+    "gravity" : 40,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "mechtestadvanced",
+      "rules" : [],
+      "def" : [ "tmx", "mechtestadvanced.json" ],
+      "chance" : 1,
+      "markDungeonId" : true
+    }
+  ]
+}

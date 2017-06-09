@@ -1,0 +1,58 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "craftingwheel",
+        "states" : {
+          "craftingwheel" : {},
+          "craftingwheel2" : {
+            "frames" : 7,
+            "cycle" : 0.8,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/objects/craftingwheel_loop.ogg",
+              "persistentSoundRangeMultiplier" : 0.25
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "chassis" : {
+        "properties" : {
+          "centered" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "craftingwheel" : {
+              "properties" : {
+                "image" : "craftingwheel.png:<color>.<frame>"
+              }
+            },
+
+            "craftingwheel2" : {
+              "properties" : {
+                "image" : "craftingwheel2.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "fanfare" : ["/sfx/cinematics/mission_unlock_event.ogg"],
+    "fanfare2" : ["/sfx/cinematics/license_acquired_event.ogg"]
+  },
+  
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

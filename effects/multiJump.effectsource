@@ -1,0 +1,30 @@
+{
+  "kind" : "multiJump",
+  "definition" : {
+    "duration" : 0,
+    "loops" : false,
+    "location" : "feet",
+    "start" : {
+      "particles" : [
+        [ "doublejump", "defaultblue", "defaultlightblue", "defaultblue", "defaultlightblue", "defaultblue", "defaultlightblue" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

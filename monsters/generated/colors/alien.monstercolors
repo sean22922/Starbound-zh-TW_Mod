@@ -1,0 +1,77 @@
+{
+  "name" : "alien",
+  "swaps" : [
+      // Garden, Toxic, Alien - Bright Light Green Tan //
+    {
+      "6f2919" : "1d6f19", "a85636" : "36a83c", "e0975c" : "5ce078", "ffca8a" : "8affaf",
+      "735e3a" : "735e3a", "a38d59" : "a38d59", "d9c189" : "d9c189", "f7e7b2" : "f7e7b2",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Alien - Purple Green //
+    {
+      "6f2919" : "40196f", "a85636" : "7436a8", "e0975c" : "ba5ce0", "ffca8a" : "e98aff",
+      "735e3a" : "3a7343", "a38d59" : "59a36a", "d9c189" : "89d99c", "f7e7b2" : "b2f7c7",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Volcanic, Alien - Burgandy Purple //
+    {
+      "6f2919" : "6f1936", "a85636" : "a83651", "e0975c" : "e05c64", "ffca8a" : "ff8e8a",
+      "735e3a" : "3a3e73", "a38d59" : "5b59a3", "d9c189" : "8b89d9", "f7e7b2" : "b8b2f7",
+      "951500" : "949500", "be1b00" : "bbbe00", "dc1f00" : "d9dc00", "f32200" : "eff300"
+    },
+      // Toxic, Alien - Purple'ish Redbrown //
+    {
+      "6f2919" : "652651", "a85636" : "9d418f", "e0975c" : "cd5fd2", "ffca8a" : "d790e9",
+      "735e3a" : "66452e", "a38d59" : "a47c56", "d9c189" : "d9aa7b", "f7e7b2" : "f7ddb0",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Alien - Purple Greybleh //
+    {
+      "6f2919" : "39164a", "a85636" : "6d327e", "e0975c" : "b14ab2", "ffca8a" : "e673cd",
+      "735e3a" : "485548", "a38d59" : "728473", "d9c189" : "acc8ac", "f7e7b2" : "d8e5d6",
+      "951500" : "008595", "be1b00" : "00b8be", "dc1f00" : "00dcda", "f32200" : "00f3df"
+    },
+      // Alien - Purple Green //
+    {
+      "6f2919" : "512F42", "a85636" : "854B8E", "e0975c" : "bb71bf", "ffca8a" : "daaadf",
+      "735e3a" : "184817", "a38d59" : "389042", "d9c189" : "71d071", "f7e7b2" : "b7faae",
+      "951500" : "3A933E", "be1b00" : "6DBE3A", "dc1f00" : "8EEA59", "f32200" : "E8F263"
+    },
+      // Alien - Orange Blue //
+    {
+      "6f2919" : "723522", "a85636" : "B16232", "e0975c" : "D99B4A", "ffca8a" : "DFC171",
+      "735e3a" : "274A65", "a38d59" : "3C7CA8", "d9c189" : "549FD5", "f7e7b2" : "7DC8EB",
+      "951500" : "891400", "be1b00" : "D52B00", "dc1f00" : "FF7400", "f32200" : "FFB632"
+    },
+      // Desert, Alien - ReddishTan Purp //
+    {
+      "6f2919" : "693832", "a85636" : "A66859", "e0975c" : "DA907E", "ffca8a" : "F7C9B2",
+      "735e3a" : "3A3E73", "a38d59" : "5B59A3", "d9c189" : "8B89D9", "f7e7b2" : "B8B2F7",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    },
+      // Desert, Alien, Volcanic, Scorched City - Dark Dark Black Brown //
+    {
+      "6f2919" : "171717", "a85636" : "262626", "e0975c" : "383838", "ffca8a" : "4C4C4C",
+      "735e3a" : "231717", "a38d59" : "4C3C35", "d9c189" : "766559", "f7e7b2" : "8E7A6C",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    },
+      // Garden, Alien - Purple Pale //
+    {
+      "6f2919" : "512F42", "a85636" : "854B8E", "e0975c" : "BB71BF", "ffca8a" : "DAAADF",
+      "735e3a" : "5F5B4B", "a38d59" : "939070", "d9c189" : "C2C2A0", "f7e7b2" : "E5E5D4",
+      "951500" : "3A3E73", "be1b00" : "5B59A3", "dc1f00" : "8B89D9", "f32200" : "B8B2F7"
+    },
+      // Garden, Alien - Turq Yellow //
+    {
+      "6f2919" : "156054", "a85636" : "318275", "e0975c" : "56A49F", "ffca8a" : "7EBBC2",
+      "735e3a" : "8F692D", "a38d59" : "AB9E40", "d9c189" : "E3E25F", "f7e7b2" : "F2F2A9",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Garden, Forest, Toxic, Alien - Green Burgandy //
+    {
+      "6f2919" : "6F1936", "a85636" : "A83651", "e0975c" : "E05C64", "ffca8a" : "FF8E8A",
+      "735e3a" : "1E3614", "a38d59" : "3A6D30", "d9c189" : "6F9F5D", "f7e7b2" : "A0C18C",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    }
+  ]
+}

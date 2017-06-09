@@ -1,0 +1,13 @@
+{
+  "chatBubbleTextFade" : [ "linear", "clamp",
+  	[0, 255],
+  	[0.875, 127],
+  	[1.0, 0]
+  ],
+  
+  "chatBubbleBackgroundFade" : [ "linear", "clamp",
+  	[0, 255],
+  	[0.875, 127],
+  	[1.0, 0]
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "largepapermaskhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largepapermaskhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

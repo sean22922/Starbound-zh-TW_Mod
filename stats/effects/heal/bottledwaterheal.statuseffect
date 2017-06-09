@@ -1,0 +1,17 @@
+{
+  "name" : "bottledwaterheal",
+  "effectConfig" : {
+    "healAmount" : 10,
+    "emissionRate" : 0.2
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "heal.lua"
+  ],
+
+  "animationConfig" : "heal.animation",
+
+  "label" : "Healing",
+  "icon" : "/interface/statuses/heal.png"
+}

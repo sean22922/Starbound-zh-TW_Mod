@@ -1,0 +1,114 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "stage" : {
+        "default" : "craftingmedical",
+        "states" : {
+          "craftingmedical" : {
+            "frames" : 11,
+            "cycle" : 1.0,
+            "mode" : "loop",
+            "properties" : {
+              "lightsOn" : [ "med1glow" ],
+              "persistentSound" : "/sfx/objects/campfire.ogg",
+              "persistentSoundRangeMultiplier" : 0.25
+            }
+          },
+          "craftingmedical2" : {
+            "frames" : 11,
+            "cycle" : 1.0,
+            "mode" : "loop",
+            "properties" : {
+              "lightsOff" : [ "med1glow" ],
+              "lightsOn" : [ "med2glow" ]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "chassis" : {
+        "properties" : {
+          "centered" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "craftingmedical" : {
+              "properties" : {
+                "image" : "craftingmedicallit.png:<color>.<frame>"
+              }
+            },
+
+            "craftingmedical2" : {
+              "properties" : {
+                "image" : "craftingmedical2lit.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "fire" : {
+        "properties" : {
+          "centered" : true,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "stage" : {
+            "craftingmedical" : {
+              "properties" : {
+                "image" : "craftingmedical.png:<color>.<frame>"
+              }
+            },
+
+            "craftingmedical2" : {
+              "properties" : {
+                "image" : "craftingmedical2.png:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "fanfare" : ["/sfx/cinematics/mission_unlock_event.ogg"],
+    "fanfare2" : ["/sfx/cinematics/license_acquired_event.ogg"]
+  },
+
+  "lights" : {
+
+    "med1glow" : {
+      "active" : true,
+      "position" : [0, 1],
+      "color" : [40, 75, 112],
+      "flickerPeriod" : 0.3,
+      "flickerMinIntensity" : 0.95,
+      "flickerMaxIntensity" : 1,
+      "flickerPeriodVariance" : 0.075,
+      "flickerIntensityVariance" : 0.025
+    },
+
+    "med2glow" : {
+      "active" : false,
+      "position" : [0, 1],
+      "color" : [38, 64, 38],
+      "flickerPeriod" : 1.0,
+      "flickerMinIntensity" : 0.9,
+      "flickerMaxIntensity" : 1,
+      "flickerPeriodVariance" : 0,
+      "flickerIntensityVariance" : 0
+    }
+  },
+  
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 0.0,
+      "burstCount"  : 10,
+      "offsetRegion" : [-2, -2, 2, 2],
+      "particles" : [{ "particle" : "dust2"}]
+    }
+  }
+}

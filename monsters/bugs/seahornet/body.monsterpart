@@ -1,0 +1,9 @@
+{
+  "name" : "seahornet",
+  "category" : "seahornet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "seahornet.png"
+  }
+}

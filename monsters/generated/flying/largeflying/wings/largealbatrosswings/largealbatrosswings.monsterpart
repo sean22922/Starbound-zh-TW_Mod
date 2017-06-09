@@ -1,0 +1,10 @@
+{
+  "name" : "largealbatrosswings",
+  "category" : "largeflying",
+  "type" : "wings",
+
+  "frames" : {
+    "backWings" : "largealbatrossbwing.png",
+    "frontWings" : "largealbatrossfwing.png"
+  }
+}

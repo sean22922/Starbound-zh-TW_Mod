@@ -1,0 +1,157 @@
+{
+  "kind" : "glitch",
+
+  "charCreationTooltip" : {
+      "title" : "Glitch",
+      "subTitle" : "Fe",
+      "description" : "The Glitch were built in order to simulate a civilization. A fault in their programming caused them to become stuck early in the simulation, and to this day they are unable to shake their Medieval values and beliefs."
+  },
+
+  "nameGen" : [ "/species/glitchmalenamegen.config:names", "/species/glitchfemalenamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/robothurt_male1.ogg", "/sfx/humanoid/robothurt_female1.ogg" ],
+  "charGenTextLabels" : [ "Paint colour", "Head mod", "Shirt", "Legwear", "Lights colour", "Detail colour", "Shirt colour", "Legwear colour", "GLITCH", "Personality" ],
+  "skull" : "/humanoid/glitch/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ffbc47FF?replace=31a6ffFF=e87b07FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flagglitch" },
+
+// Anvil
+      { "item" : "glitchtier1head" },
+      { "item" : "glitchtier1chest" },
+      { "item" : "glitchtier1pants" },
+      { "item" : "glitchtier2head" },
+      { "item" : "glitchtier2chest" },
+      { "item" : "glitchtier2pants" },
+
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+
+// Anvil2
+      { "item" : "glitchtier3head" },
+      { "item" : "glitchtier3chest" },
+      { "item" : "glitchtier3pants" },
+      { "item" : "glitchtier4head" },
+      { "item" : "glitchtier4chest" },
+      { "item" : "glitchtier4pants" },
+
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+
+// Anvil3
+      { "item" : "glitchtier5ahead" },
+      { "item" : "glitchtier5achest" },
+      { "item" : "glitchtier5apants" },
+      { "item" : "glitchtier6ahead" },
+      { "item" : "glitchtier6achest" },
+      { "item" : "glitchtier6apants" },
+
+      { "item" : "glitchtier5mhead" },
+      { "item" : "glitchtier5mchest" },
+      { "item" : "glitchtier5mpants" },
+      { "item" : "glitchtier6mhead" },
+      { "item" : "glitchtier6mchest" },
+      { "item" : "glitchtier6mpants" },
+
+      { "item" : "glitchtier5shead" },
+      { "item" : "glitchtier5schest" },
+      { "item" : "glitchtier5spants" },
+      { "item" : "glitchtier6shead" },
+      { "item" : "glitchtier6schest" },
+      { "item" : "glitchtier6spants" },
+
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+
+// Furniture Table 2
+      { "item" : "glitchstoragelocker" },
+      { "item" : "glitchshipdoor" },
+      { "item" : "glitchshiphatch" },
+
+// Spinning Wheel
+      { "item" : "craftsmenchest" },
+      { "item" : "craftsmenlegs" },
+      { "item" : "merchantchest" },
+      { "item" : "merchantlegs" },
+      { "item" : "noblechest" },
+      { "item" : "noblelegs" },
+      { "item" : "peasantchest" },
+      { "item" : "peasantlegs" }
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/plug.png",
+      "characterImage" : "/interface/title/robotmale.png",
+      "hair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40" ],
+      "shirt" : [ "craftsmenchest", "merchantchest", "noblechest", "peasantchest", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "craftsmenlegs", "merchantlegs", "noblelegs", "peasantlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/socket.png",
+      "characterImage" : "/interface/title/robotfemale.png",
+      "hair" : [ "0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17", "18", "19", "20", "21", "22", "23", "24", "25", "26", "27", "28", "29", "30", "31", "32", "33", "34", "35", "36", "37", "38", "39", "40" ],
+      "shirt" : [ "craftsmenchest", "merchantchest", "noblechest", "peasantchest", "protectorateshirtchest", "protectoratevestchest" ],
+      "pants" : [ "craftsmenlegs", "merchantlegs", "noblelegs", "peasantlegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [
+    { "ffca8a" : "f0f0f0", "e0975c" : "b1b1b1", "a85636" : "747474", "6f2919" : "4c4c4c" },
+    { "ffca8a" : "d0d4e9", "e0975c" : "90a0cc", "a85636" : "566b86", "6f2919" : "314354" },
+    { "ffca8a" : "f6cccc", "e0975c" : "d57979", "a85636" : "98464d", "6f2919" : "632530" },
+    { "ffca8a" : "f9f9e9", "e0975c" : "d3d075", "a85636" : "938341", "6f2919" : "5f4d22" },
+    { "ffca8a" : "f3d9b8", "e0975c" : "d49c6f", "a85636" : "995c44", "6f2919" : "643024" },
+    { "ffca8a" : "e1f6c8", "e0975c" : "9fd776", "a85636" : "4e9944", "6f2919" : "2c6424" },
+    { "ffca8a" : "ecd2f2", "e0975c" : "bc8dd0", "a85636" : "70528b", "6f2919" : "412e59" },
+    { "ffca8a" : "f8e7f8", "e0975c" : "dca1dc", "a85636" : "9e5a9c", "6f2919" : "683267" },
+    { "ffca8a" : "ffffff", "e0975c" : "d5d3d8", "a85636" : "7d7d89", "6f2919" : "515151" },
+    { "ffca8a" : "949494", "e0975c" : "696969", "a85636" : "434343", "6f2919" : "0f0f0f" }
+  ],
+  "undyColor" : [
+    { "f32200" : "ef0000", "dc1f00" : "ae0000" },
+    { "f32200" : "f57d00", "dc1f00" : "be6200" },
+    { "f32200" : "efea00", "dc1f00" : "b5b200" },
+    { "f32200" : "00ef14", "dc1f00" : "00ae0e" },
+    { "f32200" : "008df5", "dc1f00" : "0068b3" },
+    { "f32200" : "d400ff", "dc1f00" : "b100d6" },
+    { "f32200" : "ef00da", "dc1f00" : "c000d1" },
+    { "f32200" : "00edef", "dc1f00" : "00acae" },
+    { "f32200" : "ef0063", "dc1f00" : "ae0048" },
+    { "f32200" : "ffffff", "dc1f00" : "cbcbcb" }
+  ],
+  "hairColor" : [
+    { "f7e7b2" : "a7978a", "d9c189" : "74665b", "a38d59" : "524840", "735e3a" : "231f1b" },
+    { "f7e7b2" : "7f99ae", "d9c189" : "536a7c", "a38d59" : "3a4b58", "735e3a" : "181e25" },
+    { "f7e7b2" : "b08677", "d9c189" : "805b4e", "a38d59" : "5b4037", "735e3a" : "271c17" },
+    { "f7e7b2" : "b9b36d", "d9c189" : "868148", "a38d59" : "5f5b32", "735e3a" : "292915" },
+    { "f7e7b2" : "b4a179", "d9c189" : "80704e", "a38d59" : "5b5037", "735e3a" : "272317" },
+    { "f7e7b2" : "9fb385", "d9c189" : "6a7c53", "a38d59" : "4b583a", "735e3a" : "1e2518" },
+    { "f7e7b2" : "ae83b4", "d9c189" : "77537c", "a38d59" : "553a58", "735e3a" : "251825" },
+    { "f7e7b2" : "9c9c9c", "d9c189" : "696969", "a38d59" : "434343", "735e3a" : "0f0f0f" }
+
+  ]
+}

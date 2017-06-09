@@ -1,0 +1,102 @@
+{
+  "id" : "barter.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity",
+      "indicator" : "/interface/quests/questreceiver.animation"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Some Person"
+      }
+    },
+    "receivedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "bananahead", "count" : 2 }
+        ]
+      }
+    },
+    "givenItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          { "name" : "fabric", "count" : 2 },
+          { "name" : "goldore", "count" : 1 }
+        ]
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location",
+      "example" : {
+        "name" : "dark, scary cave"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/barter.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "text" : {
+        "default" : {
+          "default" : [
+            "Next, travelling merchant ^orange;<target>^white; arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the <receivedItems> we require in exchange for the ^orange;<givenItems>^white;. ^green;Could you take the goods to <target>^white;?"
+          ],
+          "floran" : [
+            "Next, Floran needsss to make a trade with travelling merchant ^orange;<target>^white; - Floran going to give them ^orange;<givenItems>^white; to get ^orange;<receivedItems>^white;. The merchant arrived near the ^orange;<spawnPoint>^white;<spawnPoint.direction> sssome time ago. ^green;Could you go make the trade for Floran^white;?"
+          ],
+          "glitch" : [
+            "Bright. Next, travelling merchant <target> arrived at the ^orange;<spawnPoint>^white;<spawnPoint.direction> a short time ago. <target.pronoun.capitalSubject> has agreed to provide us with the ^orange;<receivedItems>^white; we require in exchange for the ^orange;<givenItems>^white;. Could you ^green;take the goods to ^orange;<target>^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "Thank you! The <receivedItems> will be useful for the next part of my plan..."
+          ],
+          "floran" : [
+            "Thank you! The <receivedItems> will be ussseful for the next part of my plan..."
+          ],
+          "glitch" : [
+            "Appreciative. Thank you! The <receivedItems> will be useful for the next part of my plan..."
+          ]
+        }
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+
+    // Player -> Target NPC
+    "requestTradeNotification" : "requestBarter",
+    // Target NPC -> Player
+    "tradeAcceptedEventName" : "barterConfirmed",
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Give <givenItems> to <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return <receivedItems> to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

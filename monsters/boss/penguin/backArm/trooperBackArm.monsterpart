@@ -1,0 +1,9 @@
+{
+  "name" : "backArm",
+  "category" : "penguintrooper",
+  "type" : "backArm",
+
+  "frames" : {
+    "backArm" : "backArm.png"
+  }
+}

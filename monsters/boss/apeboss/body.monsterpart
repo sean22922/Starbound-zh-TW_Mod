@@ -1,0 +1,9 @@
+{
+  "name" : "apeboss",
+  "category" : "apeboss",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "apeboss.png"
+  }
+}

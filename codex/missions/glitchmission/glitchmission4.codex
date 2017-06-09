@@ -1,0 +1,21 @@
+{
+  "id" : "glitchmission4",
+  "species" : "glitch",
+  "title" : "Dear Baron",
+  "description" : "A letter to the Baron from an exasperated Glitch official.",
+  "icon" : "glitchmission4.png",
+  "contentPages" : [
+    "Dear Baron,
+
+I kindly (and for the FINAL TIME) request that you stop proposing legislative edicts. Additionally, I would once again like to make it clear that you are ENTIRELY UNABLE to pass laws.
+
+To re-state - YOU HAVE NO AUTHORITATIVE POWER. Please, please stop.
+
+Sincerely,
+Lord President of the Privy Council"
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

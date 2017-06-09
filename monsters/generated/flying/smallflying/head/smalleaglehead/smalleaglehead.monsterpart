@@ -1,0 +1,9 @@
+{
+  "name" : "smalleaglehead",
+  "category" : "smallflying",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smalleaglehead.png"
+  }
+}

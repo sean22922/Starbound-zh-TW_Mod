@@ -1,0 +1,32 @@
+{
+  "projectileName" : "monstercaptureenergy",
+  "image" : "monstercaptureenergy.png",
+  "animationCycle" : 0.5,
+  "physics" : "grenade",
+  "frameNumber" : 4,
+  "pointLight" : true,
+  "fullbright" : true,
+  "timeToLive" : 1.5,
+  "power" : 0.1,
+  "damageKind" : "default",
+  "emitters" : [ "capturepodred" ],
+  "bounces" : -1,
+  "piercing" : true,
+  "orientationLocked" : false,
+
+  "scripts" : [ "monstercaptureenergy.lua" ],
+
+  "speed" : 60,
+  "snapForce" : 500,
+  "controlForce" : 200,
+  "pickupDistance" : 1.0,
+  "snapDistance" : 4.0,
+
+  "movementSettings" : {
+    "collisionEnabled" : false,
+    "gravityEnabled" : false
+  },
+
+  // EntityId parameter - the entity to seek towards
+  "target" : null
+}

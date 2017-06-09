@@ -1,0 +1,9 @@
+{
+  "name" : "magmawormcritter",
+  "category" : "magmawormcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

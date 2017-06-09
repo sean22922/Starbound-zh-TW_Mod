@@ -1,0 +1,55 @@
+{
+  "name" : "skulls",
+  "description" : "The bones of a long-dead creature.",
+  "shortdescription" : "The bones of a long-dead creature.",
+  "floranDescription" : "Dead bonesss.",
+  "glitchDescription" : "Statement. The bones of a long-dead creature.",
+  "mods" : [ "flower", "bones", "horns" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "flower" : [ "flower1.png", "" ],
+        "bones" : [ "bones1.png", "" ],
+        "horns" : [ "horns1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "flower" : [ "flower2.png", "" ],
+        "bones" : [ "bones2.png", "" ],
+        "horns" : [ "horns2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "flower" : [ "flower3.png", "" ],
+        "bones" : [ "bones3.png", "" ],
+        "horns" : [ "horns3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "flower" : [ "flower4.png", "" ],
+        "bones" : [ "bones4.png", "" ],
+        "horns" : [ "horns4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "flower" : [ "flower5.png", "" ],
+        "bones" : [ "bones5.png", "" ],
+        "horns" : [ "horns5.png", "" ]
+      }
+    }
+
+  ]
+}

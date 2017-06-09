@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "metallic", "count" : 20 },
+    { "item" : "copperbar", "count" : 1 }
+
+  ],
+  "output" : { "item" : "rustchest", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

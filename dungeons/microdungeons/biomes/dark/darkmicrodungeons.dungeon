@@ -1,0 +1,229 @@
+{
+  "metadata" : {
+    "name" : "darkmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "darkcaveleft1", "darkcaveleft2", "darkcavewithchain1", "darkchaincave", "darkchains1", "darkchains2", "darkchains3", "darkchains4", "darkcrater1", "darkdoubletunnel1", "darknatural1", "darknothing1", "darknothing2", "darkobservatory1", "darkobservatory2", "darkobservatory3", "darkpit2statues", "darkplatform1", "darkplatform2", "darkruins1", "darkruins2", "darkruins3", "darkruins4", "darkruins5", "darkruins6", "darktomb1", "darktowerpots1", "darkundergroundchamber1", "darkwhat1", "darkwhat2" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "darkcaveleft1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkcaveleft1.json" ]
+    },
+    {
+      "name" : "darkcaveleft2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkcaveleft2.json" ]
+    },
+    {
+      "name" : "darkchaincave",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkchaincave.json" ]
+    },
+    {
+      "name" : "darkcavewithchain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkcavewithchain1.json" ]
+    },
+    {
+      "name" : "darkcrater1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkcrater1.json" ]
+    },
+    {
+      "name" : "darkdoubletunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkdoubletunnel1.json" ]
+    },
+    {
+      "name" : "darknatural1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darknatural1.json" ]
+    },
+    {
+      "name" : "darknothing1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darknothing1.json" ]
+    },
+    {
+      "name" : "darknothing2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darknothing2.json" ]
+    },
+    {
+      "name" : "darkobservatory1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkobservatory1.json" ]
+    },
+    {
+      "name" : "darkobservatory2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkobservatory2.json" ]
+    },
+    {
+      "name" : "darkobservatory3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkobservatory3.json" ]
+    },
+    {
+      "name" : "darkpit2statues",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkpit2statues.json" ]
+    },
+    {
+      "name" : "darkplatform1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkplatform1.json" ]
+    },
+    {
+      "name" : "darkplatform2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkplatform2.json" ]
+    },
+    {
+      "name" : "darkruins1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins1.json" ]
+    },
+    {
+      "name" : "darkruins2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins2.json" ]
+    },
+    {
+      "name" : "darkruins3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins3.json" ]
+    },
+    {
+      "name" : "darkruins4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins4.json" ]
+    },
+    {
+      "name" : "darkruins5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins5.json" ]
+    },
+    {
+      "name" : "darkruins6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkruins6.json" ]
+    },
+    {
+      "name" : "darkundergroundchamber1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkundergroundchamber1.json" ]
+    },
+    {
+      "name" : "darkchains1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkchains1.json" ]
+    },
+    {
+      "name" : "darkchains2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkchains2.json" ]
+    },
+    {
+      "name" : "darkchains3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkchains3.json" ]
+    },
+    {
+      "name" : "darkchains4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkchains4.json" ]
+    },
+    {
+      "name" : "darkwhat1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkwhat1.json" ]
+    },
+    {
+      "name" : "darkwhat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darkwhat2.json" ]
+    },
+    {
+      "name" : "darktomb1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darktomb1.json" ]
+    },
+    {
+      "name" : "darktowerpots1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "darktowerpots1.json" ]
+    }
+    
+  ]
+}

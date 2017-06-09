@@ -1,0 +1,79 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "parryShield" : {
+          "default" : "inactive",
+          "states" : {
+            "inactive" : {},
+            "active" : {},
+            "block" : {
+              "frames" : 1,
+              "cycle" : 0.2,
+              "mode" : "transition",
+              "transition" : "active"
+            }
+          }
+        }
+      },
+      "parts" : {
+        "parryShield" : {
+          "properties" : {
+            "zLevel" : -1,
+            "centered" : true,
+            "offset" : [-0.75, 1.75],
+            "transformationGroups" : ["weapon"],
+            "rotationCenter" : [0, 0],
+            "shieldPoly" : [ [-0.25, -2.5], [-0.25, 2.0], [1.0, 2.75], [1.0, -1.0] ]
+          },
+          "partStates" : {
+            "parryShield" : {
+              "inactive" : {
+                "properties" : {
+                  "image" : ""
+                }
+              },
+              "active" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/broadsword/parry/parryshield.png:active"
+                }
+              },
+              "block" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/broadsword/parry/parryshield.png:block"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "sounds" : {
+      "guard" : [ "/sfx/melee/sword_guard.ogg" ],
+      "parry" : [ "/sfx/melee/sword_parry.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Parry",
+    "type" : "parry",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/parry/parry.lua"],
+    "class" : "Parry",
+
+    "energyUsage" : 0.0,
+    "parryTime" : 1.2,
+    "cooldownTime" : 1.2,
+    "shieldHealth" : 50,
+    "stances" : {
+      "parry" : {
+        "armRotation" : 45,
+        "weaponRotation" : -205,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

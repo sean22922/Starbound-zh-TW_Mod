@@ -1,0 +1,67 @@
+{
+  "projectileName" : "nailbomb",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 3,
+  "damageKindImage" : "icon.png",
+  "image" : "nailbomb.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smallregularexplosion/smallregularexplosion.config"
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 5
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 45
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 90
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 135
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 180
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 225
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 270
+    },
+    {
+      "action" : "projectile",
+      "type" : "nail",
+      "inheritDamageFactor" : 0.125,
+      "angle" : 315
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "default"
+}

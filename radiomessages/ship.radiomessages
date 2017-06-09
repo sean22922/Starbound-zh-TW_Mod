@@ -1,0 +1,16 @@
+{
+  "activeCrewLimit" : {
+    "type" : "tutorial",
+    "text" : "You've reached the limit of how many crew members you can bring with you. Drop some off on your ship to expand your crew further.",
+    "unique" : false
+  },
+  "crewLimit" : {
+    "type" : "tutorial",
+    "text" : "Your ship can't support any more crew members. Either find a way to increase the size of your ship, or dismiss some staff through the terminal on your ship.",
+    "unique" : false
+  },
+  "gainedCrewMember" : {
+    "type" : "tutorial",
+    "text" : "You've found your first crew member! Talk to me on your ship to manage crew members and monitor their status."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "electricaura",
+  "defaultDuration" : 0.5,
+
+  "scripts" : [
+    "elementalaura.lua"
+  ],
+  "effectConfig" : {
+  },
+
+  "animationConfig" : "electricaura.animation"
+}

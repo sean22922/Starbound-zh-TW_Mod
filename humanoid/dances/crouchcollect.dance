@@ -1,0 +1,12 @@
+{
+  "name" : "crouchcollect",
+  "states" : ["duck"],
+  "cycle" : 0.5,
+  "cyclic" : true,
+  "duration" : 1.5,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "swim.4", null, null, [0, -7], null ],
+    [ null, "swim.5", null, null, [0, -7], null ]
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "reasonablecritter",
+  "category" : "reasonablecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

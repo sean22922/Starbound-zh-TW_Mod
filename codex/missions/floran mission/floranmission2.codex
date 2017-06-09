@@ -1,0 +1,19 @@
+{
+  "id" : "floranmission2",
+  "species" : "floran",
+  "title" : "History of The Hunt",
+  "description" : "An excerpt from the journal of a human scientist observing a Floran tribe.",
+  "icon" : "floranmission4.png",
+  "contentPages" : [
+    "The Hunt was first established long ago by a Greenfinger called Idamta.
+
+Idamta created The Hunt as a test of determination, prowess, and skill; a great trial in which the Floran could compete to prove themselves the most powerful and mighty hunter.
+
+And, legend has it, as a way of \"stopping them bickering about who's the best\"."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

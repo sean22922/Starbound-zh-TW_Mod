@@ -1,0 +1,9 @@
+{
+  "name" : "ballistaback",
+  "category" : "ballista",
+  "type" : "back",
+
+  "frames" : {
+    "back" : "ballistabackbody.png"
+  }
+}

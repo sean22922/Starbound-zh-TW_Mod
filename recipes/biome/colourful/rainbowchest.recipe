@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "rainbowwood", "count" : 30 },
+    { "item" : "silverbar", "count" : 1 }
+  ],
+  "output" : { "item" : "rainbowchest", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

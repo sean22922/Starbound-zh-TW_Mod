@@ -1,0 +1,29 @@
+{
+  "kind" : "fireswoosh",
+  "definition" : {
+    "duration" : 0.3,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2", "fireswoosh1", "fireswoosh3", "fireswoosh2" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4", "fireswoosh4" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

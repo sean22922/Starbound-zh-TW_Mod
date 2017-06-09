@@ -1,0 +1,16 @@
+{
+  "name" : "dismisscrewmember",
+
+  "triggers" : [
+    "crewDismissed"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "crewDismissed",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

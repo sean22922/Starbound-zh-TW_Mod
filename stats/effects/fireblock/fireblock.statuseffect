@@ -1,0 +1,12 @@
+{
+  "name" : "fireblock",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "fireblock.lua"
+  ],
+
+  "label" : "Fire Resistance",
+  "icon" : "/interface/statuses/fireblock.png"
+}

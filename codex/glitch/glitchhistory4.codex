@@ -1,0 +1,19 @@
+{
+  "id" : "glitchhistory4",
+  "species" : "glitch",
+  "title" : "The Plague of Madness",
+  "description" : "A Glitch mayor's warning to his villagers.",
+  "icon" : "glitchcover5.png",
+  "contentPages" : [
+    "^orange;HEAR YE, CITIZENS OF THE VILLAGE!^white;
+
+This is a decree from your beloved Mayor. There is a spreading madness among the populace - Some of our brothers and sisters speak of a \"truth\" - that they have been awakened and that the rest of us are living in some sort of \"simulation\".
+
+This is no doubt a plague, and those struck with madness should be avoided for one's own sake."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

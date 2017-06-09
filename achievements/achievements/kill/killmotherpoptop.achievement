@@ -1,0 +1,16 @@
+{
+  "name" : "killmotherpoptop",
+
+  "triggers" : [
+    "killMonster.monsterType.motherpoptop"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "killMonster.monsterType.motherpoptop",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

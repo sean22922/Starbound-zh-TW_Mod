@@ -1,0 +1,24 @@
+{
+  "eventName" : "captureMonster",
+  "scripts" : [ "/achievements/event.lua" ],
+
+  // Fields:
+  //  - monsterType
+  //  - monsterLevel
+  //  - worldThreatLevel
+  //  - damageTeam
+  //  - damageTeamType
+
+  "stats" : [
+    {
+      "name" : "captureMonster",
+      "type" : "int",
+      "op" : "increment"
+    },
+    {
+      "name" : "captureMonster.monsterType.<monsterType>",
+      "type" : "int",
+      "op" : "increment"
+    }
+  ]
+}

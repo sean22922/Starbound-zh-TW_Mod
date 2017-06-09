@@ -1,0 +1,13 @@
+{
+  "name" : "smallhornedhead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallhornedhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id" : "hylotlmission9",
+  "species" : "hylotl",
+  "title" : "Never Invite a Novakid to Tea",
+  "description" : "A letter from Tatterdemalion to their close friend Itsuki.",
+  "icon" : "tealettercover.png",
+  "contentPages" : [
+    "My dear Itsuki,
+
+I write this letter to you from the remains of my camp. It appears that missionary work is more difficult than I anticipated.
+
+Despite the training we received, I was woefully underprepared for creatures such as these.
+
+The morning began as peacefully as one could expect on an uncivilized planet like this.",
+
+"Nonetheless, it was chosen so that I may spread Hylotl peace to the less fortunate, so I was determined to \"rough it.\"
+
+I placed my tea atop a gentle flame and eased myself into my morning meditation as usual. However, I could hardly achieve a state of enlightenment for the cacophony that soon assaulted my ears from beyond a hill!
+
+After a calming breath, I set out to investigate.",
+
+"A brief hike to the top of the hill revealed two alien lifeforms, shining like beacons, each with a marking atop their face!
+
+A search through my xenobiological handbook revealed these to be Novakid, a primitive gaseous species.
+
+The two, glowing blue and yellow respectively, whooped and hollered as one strummed a guitar, creating some semblance of music. \"What better specimens to enlighten than these creatures?\" thought I!",
+
+"I strode down the hill. They seemed wary of me, but I assured them that I meant no harm. I introduced myself in customary fashion, and they returned with their names, the blue one \"Bonnibel,\" the yellow \"Nym.\" They possessed a most ridiculous accent.
+
+Nym extended his hand, and I, assuming it was a customary greeting, reached out in response. The savage shook my hand with a vigour that  nearly toppled me, the whole exchange quite uncouth.",
+
+"Determined to civilize these ruffians, I invited them to tea, as tradition dictates. They seemed very excited at the prospect, eagerly following me back to camp.
+
+My tea boiled, and as I prepared the proper settings the Novakid perused my camp. There was not a single ornament they were not curious about. Their filthy hands touched all my perfectly-aligned furnishings. They shattered my favourite coral sculpture! Nevertheless, I knew I could enlighten them.",
+
+"Over tea, I spoke about opening their third eye to the world. They seemed to barely pay attention.
+
+The tea I served was my finest blend, but after a single sip they dropped my cups, shattering them on the floor! I struggled to remain calm as Bonnibel removed a jug of some liquid and passed it between herself and Nym. \"Perhaps I could earn their trust by partaking in this cultural tradition,\" I thought.",
+
+"After a hesitation they allowed me the jug. \"Maybe they're warming up to my teachings after all.\" Those thoughts faded away after I lifted the jug to my mouth. The drink burned down my throat, and after one sip I fell unconscious. When I awoke, Bonnibel and Nym were gone, leaving me in my battered camp nursing a terrible headache.
+
+I end this note with a warning for your missionary travels, Itsuki.
+
+Never invite a Novakid to tea."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

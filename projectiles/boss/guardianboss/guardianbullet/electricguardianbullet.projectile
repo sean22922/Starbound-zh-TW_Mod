@@ -1,0 +1,19 @@
+{
+  "projectileName" : "electricguardianbullet",
+  "physics" : "laser",
+  "bounces" : 0,
+  "damageKindImage" : "icon.png",
+  "image" : "electricguardianbullet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "fullbright" : true,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "electricplasma",
+
+  "emitters" : [ "electricplasma" ],
+
+  "power" : 10,
+  "speed" : 35
+}

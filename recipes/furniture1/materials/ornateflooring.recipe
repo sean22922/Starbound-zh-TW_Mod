@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "fullwood1", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "ornateflooring",
+    "count" : 30
+  },
+  "duration" : 0.1,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

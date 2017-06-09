@@ -1,0 +1,13 @@
+{
+  "projectileName" : "glowingrain",
+  "image" : "glowingrain.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : true,
+  "power" : 0.0,
+  "lightColor" : [134, 111, 41],
+  "emitters" : [ "sparks" ],
+  "onlyHitTerrain" : true,
+  "hydrophobic" : true
+}

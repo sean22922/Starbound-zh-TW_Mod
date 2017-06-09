@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-bendtr",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "bendtr" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "bendtr",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bendtr.json" ]
+    }
+  ]
+}

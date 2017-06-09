@@ -1,0 +1,17 @@
+{
+  "id" : "avianmission1",
+  "species" : "avian",
+  "title" : "A Desert Expedition",
+  "description" : "The tattered journal of an unknown treasure hunter.",
+  "icon" : "avianmission2.png",
+  "contentPages" : [
+    "These Avian guardians are ferocious. It has been days since I first entered this labyrinthine temple, and I have not slept once for fear of them. In all my years of marauding I've never come across such fearsome creatures... Though creatures is an inaccurate description of them... They should be inert - formed of stone and crystal as they are - but they seem to live. Are they mindless automata, or does some purpose guide them? I was told stories of golems as a child...",
+
+"They know I am here to rob them of their treasures; their red eyes haunt me in the darkness. Today I caught a glimpse of a monstrous individual - fully twice as big as any other I've seen. It slept in a cavernous chamber, dimly lit by gemstones. It's face was that of a bird and its body was adorned with crystal-feathered wings. Perhaps it is their god, Kluex? I could almost believe it, here in the darkness. Maybe it is his avatar. I will leave it to slumber."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

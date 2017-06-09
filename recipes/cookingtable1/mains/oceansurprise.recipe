@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "coralcreep", "count" : 1 },
+    { "item" : "kelp", "count" : 5 },
+    { "item" : "reefpod", "count" : 1 },
+    { "item" : "rawfish", "count" : 1 }
+  ],
+  "output" : { "item" : "oceansurprise", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "oceansurprise" }
+}

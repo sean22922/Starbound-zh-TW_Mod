@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rainbowwood", "count" : 50 },
+    { "item" : "liquidoil", "count" : 10 },
+    { "item" : "bluedye", "count" : 3 }
+  ],
+  "output" : { "item" : "crayonblueback", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "largedomeplatehead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largedomeplatehead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1, -1]
+  }
+}

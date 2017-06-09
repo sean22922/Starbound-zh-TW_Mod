@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "swarpion",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "swarpion.png"
+  }
+}

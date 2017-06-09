@@ -1,0 +1,25 @@
+{
+  "name" : "ceilingmagmapods",
+  "description" : "Hanging magma rock.",
+  "shortdescription" : "Hanging magma rock.",
+  "floranDescription" : "Burny rocksss.",
+  "glitchDescription" : "Statement. Hanging magma rock.",
+  "ceiling" : true,
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    },
+    {
+      "base" : "base4.png"
+    },
+    {
+      "base" : "base5.png"
+    }
+  ]
+}

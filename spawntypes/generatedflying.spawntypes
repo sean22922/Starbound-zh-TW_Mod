@@ -1,0 +1,127 @@
+[
+  // small flying
+
+  {
+    "name" : "passiveSmallFlying",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallFlyingDay",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "passiveSmallFlyingNight",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroSmallFlying",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroSmallFlyingDay",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "day"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroSmallFlyingNight",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "night"
+    },
+
+    "spawnChance" : 0.01,
+    "monsterType" : "smallflying",
+    "monsterParameters" : {
+      "aggressive" : true
+    }
+  },
+
+  // large flying
+
+  {
+    "name" : "passiveLargeFlying",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "largeflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  },
+  {
+    "name" : "aggroLargeFlying",
+
+    "spawnParameters" : {
+      "area" : "air",
+      "region" : "exposed",
+      "time" : "all"
+    },
+
+    "spawnChance" : 0.005,
+    "monsterType" : "largeflying",
+    "monsterParameters" : {
+      "aggressive" : false
+    }
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "projectileName" : "throwinggnome2",
+  "image" : "throwinggnome2.png",
+  "animationCycle" : 0.25,
+  "physics" : "grenade",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 50,
+  "power" : 5.0,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/throwable/throwinggnomes/gnomeimpact.config"
+    }
+  ],
+  "damageKind" : "gnomesmack"
+}
+
+

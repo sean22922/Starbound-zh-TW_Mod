@@ -1,0 +1,15 @@
+{
+  "projectileName" : "crystalrain",
+  "physics" : "weather",
+  "image" : "crystalrain.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "power" : 5.0,
+  "damageKind" : "default",
+  "damageType" : "ignoresdef",
+  "damagePoly" : [ [-50, -50], [50, -50], [50, 50], [-50, 50] ],
+
+  "flippable" : true
+}

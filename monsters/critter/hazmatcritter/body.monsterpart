@@ -1,0 +1,9 @@
+{
+  "name" : "hazmatcritter",
+  "category" : "hazmatcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

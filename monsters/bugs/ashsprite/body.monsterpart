@@ -1,0 +1,9 @@
+{
+  "name" : "ashsprite",
+  "category" : "ashsprite",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "ashsprite.png"
+  }
+}

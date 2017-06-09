@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [449, 225],
+    "dimensions" : [6, 1],
+    "names" : [
+      [ "windup.1", "windup.2", "fire.1", "fire.2", "fire.3", "fire.4" ]
+    ]
+  },
+  "aliases" : {
+    "winddown.1" : "windup.2",
+    "winddown.2" : "windup.1"
+  }
+}

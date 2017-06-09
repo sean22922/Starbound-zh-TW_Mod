@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 20 },
+    { "item" : "darkwoodmaterial", "count" : 5 }
+  ],
+  "output" : { "item" : "shroomchest", "count" : 1 },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "holidayspirit", "count" : 3 }
+  ],
+  "output" : { "item" : "giantsanta", "count" : 1 },
+  "groups" : [ "holidaycraftingtable", "objects", "all" ]
+}

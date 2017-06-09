@@ -1,0 +1,9 @@
+{
+  "name" : "poptop",
+  "category" : "poptop",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "poptop.png"
+  }
+}

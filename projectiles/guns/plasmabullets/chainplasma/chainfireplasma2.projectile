@@ -1,0 +1,25 @@
+{
+  "projectileName" : "chainfireplasma2",
+  "physics" : "illusion",
+  "damageKindImage" : "icon.png",
+  "image" : "fireplasma.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 3,
+  "power" : 50,
+  "speed" : 100,
+  "emitters" : [ "fireplasma" ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/plasmabulletexplosion/plasmabulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ "burning" ],
+  "lightColor" : [115, 119, 38],
+  "damageKind" : "fireplasma",
+  "piercing" : true,
+
+
+  "scripts" : [ "/scripts/projectiles/chainbullet.lua" ]
+}

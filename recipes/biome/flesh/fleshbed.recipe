@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "fleshstrand", "count" : 40 }
+  ],
+  "output" : { "item" : "fleshbed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

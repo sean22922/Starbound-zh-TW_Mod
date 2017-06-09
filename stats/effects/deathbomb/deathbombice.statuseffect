@@ -1,0 +1,15 @@
+{
+  "name" : "deathbombice",
+  "blockingStat" : "specialStatusImmunity",
+  "effectConfig" : {
+    "minMaxHealth" : 5,
+    "healthDamageFactor" : 1.0,
+    "bombConfig" : "/projectiles/explosions/regularexplosion2/iceexplosionknockbackstatus.config",
+    "flashDirectives" : "fade=44BBFF;0.4"
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "deathbomb.lua"
+  ]
+}

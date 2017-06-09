@@ -1,0 +1,11 @@
+{
+  "projectileName" : "planet",
+  "physics" : "grenadezbomb",
+  "bounces" : 0,
+  "image" : "planet.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+
+  "damageKind" : "slash"
+}

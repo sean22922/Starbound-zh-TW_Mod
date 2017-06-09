@@ -1,0 +1,55 @@
+{
+  "type" : "medicalgoodstrader",
+  "baseType" : "outpostcivilian",
+
+  "scripts" : [
+    "/npcs/bmain.lua",
+    "/npcs/goodstrader.lua"
+  ],
+
+  "scriptConfig" : {
+    "behavior" : "wanderSimple",
+
+    "behaviorConfig" : {
+      "wanderTime" : [0.25, 0.4],
+      "wanderWaitTime" : [10, 20]
+    },
+
+    "baseBuyFactor" : 0.5,
+    "baseSellFactor" : 2.0,
+
+    "buyExponent" : 0.93,
+    "sellExponent" : 0.95,
+
+    "factorRecoveryTime" : 86400,
+
+    "guiConfig" : {
+      "baseConfig" : "/interface/scripted/goodstrader/goodstradergui.config",
+      "buyItem" : "medicalgoods",
+      "gui" : {
+        "windowtitle" : {
+          "title" : " Medical Goods Trader"
+        }
+      }
+    },
+
+    "sellRotationTime" : 86400,
+    "sellOptions" : [
+      "foodgoods",
+      "electronicgoods",
+      "militarygoods"
+    ]
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "scientistchest", "parameters" : { "colorIndex" : [8] } } ],
+            "legs" : [ { "name" : "scientistlegs", "parameters" : { "colorIndex" : [8] } } ]
+          }
+        ] ]
+    ]
+  }
+}

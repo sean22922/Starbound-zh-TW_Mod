@@ -1,0 +1,9 @@
+{
+  "name" : "charfishcritter",
+  "category" : "charfishcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

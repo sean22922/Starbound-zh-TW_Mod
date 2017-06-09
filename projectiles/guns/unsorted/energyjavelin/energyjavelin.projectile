@@ -1,0 +1,21 @@
+{
+  "projectileName" : "energyjavelin",
+  "physics" : "arrownosticky",
+  "image" : "energyjavelin.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "lightColor" : [235, 126, 2],
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "power" : 25,
+  "knockback" : 20,
+  "emitters" : [ "javelinred" ],
+  "damageKind" : "bow"
+}

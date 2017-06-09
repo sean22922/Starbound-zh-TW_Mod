@@ -1,0 +1,24 @@
+{
+  "projectileName" : "fireboomerang_l6",
+  "image" : "fireboomerang_l6.png",
+  "animationCycle" : 0.4,
+  "frameNumber" : 8,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : false,
+  "orientationLocked" : true,
+  "actionOnReap" : [ ],
+  "statusEffects" : [ ],
+  "damagePoly" : [[-8, 4], [-4, 8], [4, 8], [8, 4], [8, -4], [4, -8], [-4, -8], [-8, -4]],
+  "power" : 5.0,
+  "speed" : 60,
+  "damageKind" : "firehammer",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "piercing" : true,
+  "timeToLive" : 5,
+  "emitters" : [ "fireplasma", "smoke", "flames" ],
+  "persistentAudio" : "/sfx/melee/spear_twirl_loop.ogg",
+
+  "scripts" : [ "/scripts/projectiles/boomerangprojectile.lua" ]
+}

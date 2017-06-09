@@ -1,0 +1,8 @@
+{
+  "name" : "sulphurplant",
+  "description" : "A sulphurous plant. It reeks.",
+  "shortdescription" : "A sulphur plant.",
+  "floranDescription" : "Ssstinky!",
+  "glitchDescription" : "Statement. A foul smelling plant.",
+  "images" : [ "sulphurplant1.png", "sulphurplant2.png", "sulphurplant3.png", "sulphurplant4.png", "sulphurplant5.png" ]
+}

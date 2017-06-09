@@ -1,0 +1,9 @@
+{
+  "name" : "beige",
+  "category" : "petweasel",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "beige.png"
+  }
+}

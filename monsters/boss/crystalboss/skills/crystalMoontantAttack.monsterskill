@@ -1,0 +1,14 @@
+{
+  "name" : "crystalMoontantAttack",
+  "label" : "",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalMoontantAttack.lua" ],
+    "crystalMoontantAttack" : {
+    	"spawnAngle" : 0.2,
+    	"rotateInterval" : 0.1,
+    	"rotateAngle" : 0.05
+    }
+  }
+}

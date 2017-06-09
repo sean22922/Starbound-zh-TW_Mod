@@ -1,0 +1,8 @@
+{
+  "name" : "bubbles",
+  "description" : "Bubbles.",
+  "shortdescription" : "Bubbles.",
+  "floranDescription" : "Bubbles go pop!",
+  "glitchDescription" : "Statement. Bubbles.",
+  "images" : [ "bubbles1.png", "bubbles2.png", "bubbles3.png", "bubbles4.png", "bubbles5.png" ]
+}

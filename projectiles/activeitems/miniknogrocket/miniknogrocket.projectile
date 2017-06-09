@@ -1,0 +1,27 @@
+{
+  "projectileName" : "miniknogrocket",
+  "image" : "miniknogrocket.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [50, 100, 180],
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/vsmallregularexplosion/vsmallregularexplosionknockback.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "emitters" : [ "tinyrocketsmoke" ],
+  "flippable" : true,
+  "power" : 10.0,
+  "speed" : 10.0,
+  "physics" : "rocket",
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+
+  "scripts" : [ "miniknogrocket.lua" ],
+  "maxSpeed" : 75,
+  "controlForce" : 100
+}

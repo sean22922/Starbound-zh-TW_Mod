@@ -1,0 +1,10 @@
+{
+  "projectileName" : "spinningrocket",
+  "image" : "spinningrocket.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "lightColor" : [255, 255, 128],
+  "pointLight" : true,
+  "power" : 10.0,
+  "damageKind" : "slash"
+}

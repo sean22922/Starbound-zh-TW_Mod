@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "geode", "count" : 10 },
+    { "item" : "logblock", "count" : 10 }
+  ],
+  "output" : { "item" : "geodeplantpot", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

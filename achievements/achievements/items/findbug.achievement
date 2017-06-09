@@ -1,0 +1,16 @@
+{
+  "name" : "findbug",
+
+  "triggers" : [
+    "item.category.bug"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.category.bug",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

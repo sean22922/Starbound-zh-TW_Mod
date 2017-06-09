@@ -1,0 +1,13 @@
+{
+  "name" : "love",
+  "effectConfig" : {
+    "particleEmitters" : ["love"]
+  },
+  "defaultDuration" : 2,
+
+  "scripts" : [
+    "particlereaction.lua"
+  ],
+  
+  "animationConfig": "love.animation"
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "bottle", "count" : 3 },
+    { "item" : "liquidoil", "count" : 10 },
+    { "item" : "fabric", "count" : 3 }
+  ],
+  "output" : { "item" : "molotov", "count" : 3 },
+  "groups" : [ "craftinganvil2", "consumables", "all" ]
+}

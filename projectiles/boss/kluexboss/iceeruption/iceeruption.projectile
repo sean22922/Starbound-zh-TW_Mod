@@ -1,0 +1,136 @@
+{
+  "projectileName" : "iceeruption",
+  "image" : "iceeruption.png",
+  "animationCycle" : 2.0,
+  "timeToLive" : 2.0,
+  "fullbright" : true,
+  "lightColor" : [100, 100, 200],
+  "animationLoops" : false,
+  "frameNumber" : 60,
+  "power" : 0.0,
+  "speed" : 0,
+  "orientationLocked" : true,
+  "piercing" : true,
+  "flippable" : true,
+  "damagePoly" : [ [-32, -28], [-28, 5], [0, 18], [28, 5], [32, -28] ],
+  "damageKind" : "ice",
+  "periodicActions" : [
+    {
+      "time" : 0.0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/npc/boss/kluexboss_iceeruption1.ogg", "/sfx/npc/boss/kluexboss_iceeruption2.ogg" ]
+    }
+  ],
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/projectiles/ice_break1.ogg", "/sfx/projectiles/ice_break2.ogg", "/sfx/projectiles/ice_break3.ogg", "/sfx/projectiles/ice_break4.ogg", "/sfx/projectiles/ice_break5.ogg", "/sfx/projectiles/ice_break6.ogg", "/sfx/projectiles/ice_break7.ogg", "/sfx/projectiles/ice_break8.ogg", "/sfx/projectiles/ice_break9.ogg", "/sfx/projectiles/ice_break10.ogg" ]
+    },
+    {
+      "action" : "loop",
+      "count" : 4,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "looping" : true,
+            "animation" : "/animations/statuseffects/frozen/frozen.animation",
+            "size" : 0.5,
+            "approach" : [30, 30],
+            "timeToLive" : 0.5,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.425,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [1.5, 3.0],
+              "finalVelocity" : [1.5, 1.5],
+              "timeToLive" : 0.3
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "looping" : true,
+            "animation" : "/animations/frozendust2/frozendust2.animation",
+            "size" : 0.5,
+            "approach" : [30, 30],
+            "timeToLive" : 0.5,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.425,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [1.5, 3.0],
+              "finalVelocity" : [1.5, 1.5],
+              "timeToLive" : 0.3
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "looping" : true,
+            "animation" : "/animations/shards/iceshard.animation",
+            "size" : 1,
+            "approach" : [30, 30],
+            "timeToLive" : 1,
+            "destructionAction" : "shrink",
+            "destructionTime" : 1,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [1.5, 3.0],
+              "finalVelocity" : [5, 5],
+              "timeToLive" : 1
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "looping" : true,
+            "animation" : "/animations/shards/iceshard.animation",
+            "size" : 1,
+            "approach" : [30, 30],
+            "timeToLive" : 1,
+            "destructionAction" : "shrink",
+            "destructionTime" : 1,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [1.5, 3.0],
+              "finalVelocity" : [5, 5],
+              "timeToLive" : 1
+            }
+          }
+        },
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1.5,
+            "color" : [99, 216, 232, 255],
+            "fade" : 0.9,
+            "approach" : [30, 30],
+            "light" : [50, 140, 160],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [1.5, 3.0],
+              "finalVelocity" : [1.5, 1.5],
+              "size" : 0.5,
+              "timeToLive" : 0.3,
+              "fade" : 0.3
+            }
+          }
+        }
+      ]
+    }
+  ],
+
+  "scripts" : [ "/projectiles/tracksourcestatus.lua" ],
+  "scriptDelta" : 1
+}

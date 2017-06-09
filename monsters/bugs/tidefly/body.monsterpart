@@ -1,0 +1,9 @@
+{
+  "name" : "tidefly",
+  "category" : "tidefly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tidefly.png"
+  }
+}

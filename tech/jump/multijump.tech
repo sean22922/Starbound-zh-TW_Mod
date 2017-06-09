@@ -1,0 +1,17 @@
+{
+  "name" : "multijump",
+  "type" : "legs",
+
+  "scripts" : ["multijump.lua"],
+  "animator" : "multijump.animation",
+
+  "description" : "Gives you three smaller jumps you can use in the air!",
+  "shortDescription" : "Multi Jump",
+  "rarity" : "Legendary",
+  "icon" : "/tech/multijump.png",
+
+  "chipCost" : 8,
+
+  "multiJumpCount" : 3,
+  "multiJumpModifier" : 0.65
+}

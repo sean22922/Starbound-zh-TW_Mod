@@ -1,0 +1,56 @@
+{
+  "projectileName" : "armcannonfire",
+  "image" : "armcannonfire.png",
+  "physics" : "bullet",
+  "animationCycle" : 0.25,
+  "frameNumber" : 4,
+  "damageKind" : "fireplasma",
+  "damagePoly" : [[-4, 2], [-2, 4], [2, 4], [4, 2], [4, -2], [2, -4], [-2, -4], [-4, -2]],
+  "lightColor" : [135, 110, 40],
+  "fullbright" : true,
+  "flippable" : true,
+  "emitters" : [ "fireplasma" ],
+  "actionOnReap" : [
+    {
+      "action" : "spark"
+    },
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/gun/impact_plasma.ogg" ]
+    },
+    {
+      "action" : "loop",
+      "count" : 15,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "ember",
+            "size" : 1.5,
+            "color" : [255, 209, 77, 255],
+            "light" : [135, 110, 40],
+            "fullbright" : true,
+            "destructionTime" : 0.2,
+            "destructionAction" : "shrink",
+            "fade" : 0.9,
+            "initialVelocity" : [0, 5],
+            "finalVelocity" : [0.0, -50.0],
+            "approach" : [0, 30],
+            "timeToLive" : 0.2,
+            "layer" : "middle",
+            "variance" : {
+              "position" : [0.25, 0.25],
+              "size" : 0.5,
+              "initialVelocity" : [10, 10],
+              "timeToLive" : 0.2
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "statusEffects" : [ ],
+  "power" : 5.0,
+  "speed" : 70,
+  "knockback" : 15
+}

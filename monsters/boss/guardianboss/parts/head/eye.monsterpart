@@ -1,0 +1,10 @@
+{
+  "name" : "eye",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "eye.png",
+    "headfullbright" : "eyefullbright.png"
+  }
+}

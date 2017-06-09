@@ -1,0 +1,23 @@
+{
+  "kind" : "jetboots2",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.5,
+    "color" : [155, 212, 255, 255],
+    "fade" : 0.9,
+    "destructionAction" : "shrink",
+    "destructionTime" : 2,
+    "initialVelocity" : [0, -1],
+    "finalVelocity" : [0, -2],
+    "approach" : [10, 20],
+    "timeToLive" : 0.3,
+    "light" : [100, 130, 170],
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [0, 0],
+      "finalVelocity" : [5, 0],
+      "size" : 1.25,
+      "position" : [1, 1]
+    }
+  }
+}

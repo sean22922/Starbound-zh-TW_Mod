@@ -1,0 +1,24 @@
+{
+  "kind" : "ancientsmoke2",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/dust2/dust2fast.animation",
+    "initialVelocity" : [0.0, 0.0],
+    "finalVelocity" : [0.0, 4.0],
+    "approach" : [4, 4],
+    "timeToLive" : 0.5,
+    "layer" : "middle",
+    "collidesForeground" : true,
+    "fullbright" : true,
+    "light" : [134, 71, 179, 255],
+    "size" : 0.75,
+    "variance" : {
+      "position" : [0, 0],
+      "initialVelocity" : [2, 2],
+      "finalVelocity" : [0, 0],
+      "rotation" : 180,
+      "angularVelocity" : 180,
+      "size" : 0.25
+    }
+  }
+}

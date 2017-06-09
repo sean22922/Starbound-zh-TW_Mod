@@ -1,0 +1,21 @@
+{
+  "kind" : "iceswoosh2",
+  "definition" : {
+    "type" : "animated",
+    "looping" : true,
+    "animation" : "/animations/elementalaura/iceaura/iceaura.animation",
+    "position" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [50, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.425,
+    "size" : 0.2,
+    "layer" : "middle",
+    "timeToLive" : 0.225,
+    "fade" : 0.5,
+    "light" : [0, 60, 80],
+    "variance" : {
+      "finalVelocity" : [1.5, 1.5]
+    }
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "metadata" : {
+    "name" : "toxicoceanfloormicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "toxicocean1", "toxicocean2", "toxicocean3", "toxicocean4", "toxicocean5", "toxicocean6", "toxicocean7", "toxicocean8", "toxicocean9", "toxicocean10", "toxicocean11", "toxicocean12", "toxicocean13", "toxicocean14", "toxicocean15" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "toxicocean1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean1.json" ]
+    },
+    {
+      "name" : "toxicocean2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean2.json" ]
+    },
+    {
+      "name" : "toxicocean3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean3.json" ]
+    },
+    {
+      "name" : "toxicocean4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean4.json" ]
+    },
+    {
+      "name" : "toxicocean5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean5.json" ]
+    },
+    {
+      "name" : "toxicocean6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean6.json" ]
+    },
+    {
+      "name" : "toxicocean7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean7.json" ]
+    },
+    {
+      "name" : "toxicocean8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean8.json" ]
+    },
+    {
+      "name" : "toxicocean9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean9.json" ]
+    },
+    {
+      "name" : "toxicocean10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean10.json" ]
+    },
+    {
+      "name" : "toxicocean11",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean11.json" ]
+    },
+    {
+      "name" : "toxicocean12",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean12.json" ]
+    },
+    {
+      "name" : "toxicocean13",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean13.json" ]
+    },
+    {
+      "name" : "toxicocean14",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean14.json" ]
+    },
+    {
+      "name" : "toxicocean15",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "toxicocean15.json" ]
+    }
+  ]
+}

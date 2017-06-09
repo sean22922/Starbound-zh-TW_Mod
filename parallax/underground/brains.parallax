@@ -1,0 +1,236 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/brainsfront",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true,
+      "noRandomOffset" : true,
+      "unlit" : false
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.4,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 360],
+      "directives" : "?saturation=0?brightness=0"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.55,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 300],
+      "directives" : "?saturation=0?brightness=-20"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.7,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 240],
+      "directives" : "?saturation=0?brightness=-40"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.85,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 180],
+      "directives" : "?saturation=0?brightness=-60"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 120],
+      "directives" : "?saturation=0?brightness=-70"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.15,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 60],
+      "directives" : "?saturation=0?brightness=-80"
+    },
+    {
+      "kind" : "tile/brainsback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.3,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 0],
+      "directives" : "?saturation=0?brightness=-85"
+    },
+
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.4,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 350],
+      "directives" : "?saturation=0?brightness=0"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.55,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 370],
+      "directives" : "?saturation=0?brightness=-20"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.7,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 380],
+      "directives" : "?saturation=0?brightness=-40"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.85,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 390],
+      "directives" : "?saturation=0?brightness=-60"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 398],
+      "directives" : "?saturation=0?brightness=-70"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.15,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 400],
+      "directives" : "?saturation=0?brightness=-80"
+    },
+    {
+      "kind" : "tile/fleshyceiling",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.3,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 402],
+      "directives" : "?saturation=0?brightness=-85"
+    },
+
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.4,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 890],
+      "directives" : "?saturation=0?brightness=0"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.55,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 855],
+      "directives" : "?saturation=0?brightness=-20"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.7,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 820],
+      "directives" : "?saturation=0?brightness=-40"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.85,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 790],
+      "directives" : "?saturation=0?brightness=-60"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 765],
+      "directives" : "?saturation=0?brightness=-70"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.15,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 750],
+      "directives" : "?saturation=0?brightness=-80"
+    },
+    {
+      "kind" : "tile/fleshyback",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.3,
+      "repeatY" : false,
+      "noRandomOffset" : true,
+      "offset" : [0, 820],
+      "directives" : "?saturation=0?brightness=-85"
+    },
+
+    {
+      "kind" : "tile/brainsbg",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2.45,
+      "repeatY" : true,
+      "noRandomOffset" : true,
+      "offset" : [0, 0],
+      "directives" : "?saturation=0?brightness=-90"
+    }
+  ]
+}

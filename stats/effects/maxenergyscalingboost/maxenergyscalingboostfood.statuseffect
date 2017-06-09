@@ -1,0 +1,14 @@
+{
+  "name" : "maxenergyscalingboostfood",
+  "effectConfig" : {
+    "energyModifier" : 1.20
+  },
+  "defaultDuration" : 15,
+
+  "scripts" : [
+    "maxenergyscalingboost.lua"
+  ],
+
+  "label" : "Bonus Energy",
+  "icon" : "/interface/statuses/maxenergy.png"
+}

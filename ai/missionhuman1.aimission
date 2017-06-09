@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionhuman1",
+  "icon" : "missionhuman1icon.png",
+  "missionWorld" : "lunarbase",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "Erchius Mining Facility",
+      "repeatButtonText" : "Revisit the Erchius Mining Facility",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "This Facility is the central source of Erchius Crystals, which can upgrade your ship's FTL Drive.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

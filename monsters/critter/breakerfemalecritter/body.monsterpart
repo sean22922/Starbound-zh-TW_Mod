@@ -1,0 +1,9 @@
+{
+  "name" : "breakerfemalecritter",
+  "category" : "breakerfemalecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

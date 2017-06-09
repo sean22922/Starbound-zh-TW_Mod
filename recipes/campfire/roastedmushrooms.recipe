@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 5 }
+  ],
+  "output" : { "item" : "roastedmushrooms", "count" : 1 },
+  "groups" : [ "campfire", "consumables", "all" ]
+}

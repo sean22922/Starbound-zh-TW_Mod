@@ -1,0 +1,125 @@
+{
+  "animationParts" : { },
+  "animationCustom" : {
+    "particleEmitters" : {
+      "fireSwordCharge" : {
+        "active" : false,
+        "transformationGroups" : ["weapon"],
+        "emissionRate" : 30,
+        "offsetRegion" : [-0.75, 0.0, 0.75, 5.5],
+        "particles" : [
+          { "particle" : "fireswoosh1"},
+          { "particle" : "fireswoosh2"},
+          { "particle" : "fireswoosh3"}
+        ]
+      },
+      "electricSwordCharge" : {
+        "active" : false,
+        "transformationGroups" : ["weapon"],
+        "emissionRate" : 30,
+        "offsetRegion" : [-0.75, 0.0, 0.75, 5.5],
+        "particles" : [
+          { "particle" : "electricswoosh1"},
+          { "particle" : "electricswoosh2"},
+          { "particle" : "electricswoosh2"}
+        ]
+      },
+      "iceSwordCharge" : {
+        "active" : false,
+        "transformationGroups" : ["weapon"],
+        "emissionRate" : 30,
+        "offsetRegion" : [-0.75, 0.0, 0.75, 5.5],
+        "particles" : [
+          { "particle" : "iceswoosh1"},
+          { "particle" : "iceswoosh2"},
+          { "particle" : "iceswoosh3"}
+        ]
+      },
+      "poisonSwordCharge" : {
+        "active" : false,
+        "transformationGroups" : ["weapon"],
+        "emissionRate" : 30,
+        "offsetRegion" : [-0.75, 0.0, 0.75, 5.5],
+        "particles" : [
+          { "particle" : "poisonswoosh1"},
+          { "particle" : "poisonswoosh2"},
+          { "particle" : "fireswoosh2"}
+        ]
+      }
+    },
+    "sounds" : {
+      "fireTrailDashCharge" : [ "/sfx/melee/charge_traildash3.ogg" ],
+      "iceTrailDashCharge" : [ "/sfx/melee/charge_traildash3.ogg" ],
+      "electricTrailDashCharge" : [ "/sfx/melee/charge_traildash3.ogg" ],
+      "poisonTrailDashCharge" : [ "/sfx/melee/charge_traildash3.ogg" ],
+
+      "fireTrailDashFire" : [ "/sfx/melee/travelingslash_fire3.ogg" ],
+      "iceTrailDashFire" : [ "/sfx/melee/travelingslash_ice4.ogg" ],
+      "electricTrailDashFire" : [ "/sfx/melee/travelingslash_electric1.ogg", "/sfx/melee/travelingslash_electric2.ogg", "/sfx/melee/travelingslash_electric3.ogg" ],
+      "poisonTrailDashFire" : [ "/sfx/melee/travelingslash_poison3.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Trail Dash",
+    "type" : "traildash",
+    "scripts" : ["/items/active/weapons/melee/abilities/broadsword/traildash/traildash.lua"],
+    "class" : "TrailDash",
+
+    "cooldownTime" : 0.4,
+    "energyUsage" : 120,
+
+    "dashTime" : 0.2,
+    "dashSpeed" : 160,
+
+    "trailInterval" : 1.0,
+    "projectileParameters" : {
+      "power" : 1,
+      "timeToLive" : 2.0
+    },
+    "projectileOffset" : [0, -1.5],
+    "elementalConfig" : {
+      "fire" : {
+        "projectileType" : "firetrail"
+      },
+      "ice" : {
+        "projectileType" : "icetrail"
+      },
+      "poison" : {
+        "projectileType" : "poisontrail"
+      },
+      "electric" : {
+        "projectileType" : "electrictrail"
+      }
+    },
+
+    "damageConfig" : {
+      "damageSourceKind" : "<elementalType>broadsword",
+      "statusEffects" : [ ],
+      "baseDamage" : 2,
+      "knockback" : 0,
+      "timeout" : 0.5,
+      "timeoutGroup" : "alt"
+    },
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.5,
+        "armRotation" : -45,
+        "weaponRotation" : 155,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "dash" : {
+        "armRotation" : 45,
+        "weaponRotation" : 135,
+        "twoHanded" : true,
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

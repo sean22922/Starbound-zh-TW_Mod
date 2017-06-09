@@ -1,0 +1,16 @@
+{
+  "name" : "destroyruin",
+
+  "triggers" : [
+    "quest.templateId.destroyruin"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.destroyruin",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

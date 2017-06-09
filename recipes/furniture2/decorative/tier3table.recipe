@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 1 },
+    { "item" : "glass", "count" : 5 }
+
+  ],
+  "output" : { "item" : "tier3table", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

@@ -1,0 +1,229 @@
+{
+  "metadata" : {
+    "name" : "snowmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "frozenwell1", "secretsnowcave1", "secretsnowcave2", "secretsnowcave3", "snowarch1", "snowarch2", "snowarch3", "snowarch4", "snowbeacon1", "snowbunker1", "snowcabin1", "snowcabin2", "snowcabinruin1", "snowhut1", "snowhut2", "snowhut3", "snowhut4", "snowpitfall1", "snowsecret1", "snowsecret2", "snowsecret3", "snowtunnel1", "snowtunnel2", "snowtunnel3", "snowtunnel4", "snowtunnel5" ],
+
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "icespikepit1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icespikepit1.json" ]
+    },
+    {
+      "name" : "icespikepit2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "icespikepit2.json" ]
+    },
+    {
+      "name" : "frozenlake1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "frozenlake1.json" ]
+    },
+    {
+      "name" : "frozenlake2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "frozenlake2.json" ]
+    },
+    {
+      "name" : "frozenwell1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "frozenwell1.json" ]
+    },
+    {
+      "name" : "secretsnowcave1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "secretsnowcave1.json" ]
+    },
+    {
+      "name" : "secretsnowcave2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "secretsnowcave2.json" ]
+    },
+    {
+      "name" : "secretsnowcave3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "secretsnowcave3.json" ]
+    },
+    {
+      "name" : "snowarch1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowarch1.json" ]
+    },
+    {
+      "name" : "snowarch2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowarch2.json" ]
+    },
+    {
+      "name" : "snowarch3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowarch3.json" ]
+    },
+    {
+      "name" : "snowarch4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowarch4.json" ]
+    },
+    {
+      "name" : "snowbeacon1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowbeacon1.json" ]
+    },
+    {
+      "name" : "snowbunker1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowbunker1.json" ]
+    },
+    {
+      "name" : "snowcabin1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowcabin1.json" ]
+    },
+    {
+      "name" : "snowcabin2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowcabin2.json" ]
+    },
+    {
+      "name" : "snowcabinruin1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowcabinruin1.json" ]
+    },
+    {
+      "name" : "snowhut1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowhut1.json" ]
+    },
+    {
+      "name" : "snowhut2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowhut2.json" ]
+    },
+    {
+      "name" : "snowhut3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowhut3.json" ]
+    },
+    {
+      "name" : "snowhut4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowhut4.json" ]
+    },
+    {
+      "name" : "snowpitfall1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowpitfall1.json" ]
+    },
+    {
+      "name" : "snowsecret1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowsecret1.json" ]
+    },
+    {
+      "name" : "snowsecret2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowsecret2.json" ]
+    },
+    {
+      "name" : "snowsecret3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowsecret3.json" ]
+    },
+    {
+      "name" : "snowtunnel1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowtunnel1.json" ]
+    },
+    {
+      "name" : "snowtunnel2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowtunnel2.json" ]
+    },
+    {
+      "name" : "snowtunnel3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowtunnel3.json" ]
+    },
+    {
+      "name" : "snowtunnel4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowtunnel4.json" ]
+    },
+    {
+      "name" : "snowtunnel5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "snowtunnel5.json" ]
+    }
+  ]
+}

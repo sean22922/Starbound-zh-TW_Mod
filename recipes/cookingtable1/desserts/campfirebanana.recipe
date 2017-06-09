@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "chocolate", "count" : 1 },
+    { "item" : "banana", "count" : 1 }
+  ],
+  "output" : { "item" : "campfirebanana", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "campfirebanana" }
+}

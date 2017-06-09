@@ -1,0 +1,10 @@
+{
+  "itemName" : "glass",
+  "price" : 3,
+  "rarity" : "Common",
+  "category" : "craftingMaterial",
+  "inventoryIcon" : "glass.png",
+  "description" : "A pane of glass used for crafting.",
+  "shortdescription" : "Glass",
+  "itemTags" : [ "reagent" ]
+}

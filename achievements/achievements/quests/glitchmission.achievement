@@ -1,0 +1,16 @@
+{
+  "name" : "glitchmission",
+
+  "triggers" : [
+    "quest.templateId.glitch_mission2"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.glitch_mission2",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

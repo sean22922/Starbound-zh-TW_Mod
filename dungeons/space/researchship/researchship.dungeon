@@ -1,0 +1,227 @@
+{
+  "metadata" : {
+    "name" : "researchship",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "cockpit1", "cockpit2", "cockpit2", "cockpit3" ],
+    "gravity" : 40,
+    "maxRadius" : 1000000,
+    "maxParts" : 2,
+    "protected" : true
+  },
+
+  "parts" : [
+
+    // SAFE ZONE
+    {
+      "name" : "safe-empty",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "/dungeons/space/hazards/safe-empty.json" ],
+      "chance" : 0,
+      "markDungeonId" : false
+    },
+
+    // COCKPIT
+    {
+      "name" : "cockpit1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "cockpit1", "cockpit2", "cockpit3" ] ]
+      ],
+      "def" : [ "tmx", "cockpit1.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "cockpit2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "cockpit1", "cockpit2", "cockpit3" ] ]
+      ],
+      "def" : [ "tmx", "cockpit2.json" ],
+      "chance" : 0
+    },
+    {
+      "name" : "cockpit3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "cockpit1", "cockpit2", "cockpit3" ] ]
+      ],
+      "def" : [ "tmx", "cockpit3.json" ],
+      "chance" : 0
+    },
+
+    // REAR / ENGINE / MECH ENTRY
+    {
+      "name" : "backend1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ]
+      ],
+      "def" : [ "tmx", "backend1.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "backend2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ]
+      ],
+      "def" : [ "tmx", "backend2.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "backend3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "backend1", "backend2", "backend3" ] ]
+      ],
+      "def" : [ "tmx", "backend3.json" ],
+      "chance" : 0.5
+    },
+
+    // MIDDLE
+    {
+      "name" : "middle1a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle1a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle1b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle1b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle2a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle2a.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle2b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle2b.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle2c",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle2c.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle2d",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle2d.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle3a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle3a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle3b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle3b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle4a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle4a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle4b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle4b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle5a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle5a.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle5b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle5b.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle5c",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle5c.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle5d",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle5d.json" ],
+      "chance" : 0.25
+    },
+    {
+      "name" : "middle6a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle6a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle6b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle6b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle7a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle7a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle7b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle7b.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle8a",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle8a.json" ],
+      "chance" : 0.5
+    },
+    {
+      "name" : "middle8b",
+      "rules" : [
+      ],
+      "def" : [ "tmx", "middle8b.json" ],
+      "chance" : 0.5
+    }
+  ]
+}

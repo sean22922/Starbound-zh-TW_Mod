@@ -1,0 +1,17 @@
+{
+  "projectileName" : "largesnowball",
+  "speed" : 180,
+  "physics" : "grenade",
+  "image" : "largesnowball.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "damageKind" : "snowball",
+  "damagePoly" : [ [-7, 0], [-4.6, -4.6], [0, -7], [4.6, -4.6], [7, 0], [4.6, 4.6], [0, 7], [-4.6, 4.6] ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/largesnowballexplosion/largesnowballexplosion.config"
+    }
+  ],
+  "emitters" : [ "defaultwhite" ]
+}

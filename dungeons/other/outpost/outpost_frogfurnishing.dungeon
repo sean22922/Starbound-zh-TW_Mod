@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_frogfurnishing",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_frogfurnishing" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_frogfurnishing",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_frogfurnishing.json" ]
+    }
+  ]
+}

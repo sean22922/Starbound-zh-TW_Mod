@@ -1,0 +1,8 @@
+{
+  "name" : "jungleflower3",
+  "description" : "An exotic jungle flower.",
+  "shortdescription" : "A jungle flower.",
+  "floranDescription" : "Flower reminds Floran of home.",
+  "glitchDescription" : "Statement. A flower indigenous to jungle regions.",
+  "images" : [ "jungleflower31.png", "jungleflower32.png", "jungleflower33.png", "jungleflower34.png" ]
+}

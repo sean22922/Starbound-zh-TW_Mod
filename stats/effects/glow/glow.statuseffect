@@ -1,0 +1,14 @@
+{
+  "name" : "glow",
+  "effectConfig" : {},
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "glow.lua"
+  ],
+
+  "animationConfig" : "glow.animation",
+
+  "label" : "Glow",
+  "icon" : "/interface/statuses/glow.png"
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "swampplant",
+  "description" : "A swampy plant.",
+  "shortdescription" : "A swampy plant.",
+  "floranDescription" : "Sswampy.",
+  "glitchDescription" : "Statement. A swampy plant.",
+  "shapes" : [
+    {
+      "base" : "1.png"
+    },
+    {
+      "base" : "2.png"
+    },
+    {
+      "base" : "3.png"
+    },
+    {
+      "base" : "4.png"
+    },
+    {
+      "base" : "5.png"
+    }
+
+  ]
+}

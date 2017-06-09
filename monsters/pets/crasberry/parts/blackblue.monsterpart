@@ -1,0 +1,9 @@
+{
+  "name" : "blackblue",
+  "category" : "crasberry",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blackblue.png"
+  }
+}

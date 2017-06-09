@@ -1,0 +1,37 @@
+{
+  "id" : "floranarena1",
+  "title" : "^green;A Challenger Approaches",
+  "text" : "Hey, champion! A guy invited me to a ^orange;gladiator arena tournament^white;, but I think you should go inssstead. If you're feeling tough, ^green;talk to me and I can ssend you there for the first round^white;!",
+  "completionText" : "You ssurvived! Knew you'd make it. Good job, champ!",
+  "moneyRange" : [400, 400],
+  "rewards" : [
+    [ [ "trophybronze", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;",
+      "findGoal" : "Win the arena battle",
+      "turnIn" : "Return to ^orange;Nuru^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "nuruoutpost",
+    "warpAction" : "instanceworld:arena1",
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:arena1",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 20,
+
+    "goalEntityUid" : "arena1teleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "nuruoutpost"
+  }
+}

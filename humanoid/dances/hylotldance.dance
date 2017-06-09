@@ -1,0 +1,14 @@
+{
+  "name" : "hylotldance",
+  "states" : ["idle"],
+  "cycle" : 1.5,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "idle.5", "fall.2", "fall.4", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.4", "fall.3", "fall.3", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "fall.4", "fall.2", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.4", "fall.3", "fall.3", [0, 0], [0, 0], [0, 0] ]
+  ]
+}

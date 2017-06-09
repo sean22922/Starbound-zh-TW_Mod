@@ -1,0 +1,9 @@
+{
+  "name" : "sackbagcritter",
+  "category" : "sackbagcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id" : "floranarena2",
+  "prerequisites" : [ "hylotl_mission2", "floranarena1" ],
+  "title" : "^green;The Glory That's Inside",
+  "text" : "Ssomeone else has challenged you in arena combat! It's a Floran beast tamer named ^orange;Volo^white;. ^green;Come talk to me when you're ready to go^white;.",
+  "completionText" : "You beat Volo! This is a lot of fun. Here's your second trophy!",
+  "moneyRange" : [800, 800],
+  "rewards" : [
+    [ [ "hunterrifle", 1 ], [ "trophysilver", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Nuru^reset; to travel to the ^orange;arena^reset;",
+      "findGoal" : "Win the arena battle",
+      "turnIn" : "Return to ^orange;Nuru^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "nuruoutpost",
+    "warpAction" : "instanceworld:arena2",
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:arena2",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 20,
+
+    "goalEntityUid" : "arena2teleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "nuruoutpost"
+  }
+}

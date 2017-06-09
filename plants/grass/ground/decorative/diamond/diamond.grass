@@ -1,0 +1,8 @@
+{
+  "name" : "diamond",
+  "description" : "A diamond flower.",
+  "shortdescription" : "A diamond flower.",
+  "floranDescription" : "Ssshiny diamonds.",
+  "glitchDescription" : "Statement. A diamond flower.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "flurlcritter",
+  "category" : "flurlcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "projectileName" : "paperplane",
+  "speed" : 180,
+  "physics" : "paperplane",
+  "timeToLive" : 30,
+  "image" : "paperplane.png",
+  "flippable" : true,
+  "frameNumber" : 1,
+  "animationCycle" : 0.3,
+  "windupFrames" : 1,
+  "intangibleWindup" : true,
+
+  "damageKind" : "default",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "clientEntityMode" : "ClientSlaveOnly",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/paperplaneexplosion/paperplaneexplosion.config"
+    },
+    {
+      "action" : "item",
+      "name" : "paperplane"
+    }
+  ],
+  "damagePoly" : [ [-4, 3], [-4, -3], [4, -3], [4, 3] ]
+}

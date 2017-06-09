@@ -1,0 +1,28 @@
+{
+  "projectileName" : "fuelaircloud",
+  "image" : "fuelaircloud.png",
+  "physics" : "gas",
+  "frameNumber" : 17,
+  "animationCycle" : 3,
+  "animationLoops" : false,
+  "power" : 1,
+  "speed" : 1,
+  "timeToLive" : 3,
+  "bounces" : -1,
+  "piercing" : true,
+  "onlyHitTerrain" : true,
+  "damageKind" : "fire",
+
+  "scripts" : [ "fuelaircloud.lua" ],
+
+  "cutoffTime" : 0.3,
+  "chainTime" : 0.1,
+  "igniteAction" : {
+    "action" : "projectile",
+    "inheritDamageFactor" : 1.0,
+    "type" : "fuelairignition",
+    "fuzzAngle" : 0,
+    "angleAdjust" : 0,
+    "config" : { }
+  }
+}

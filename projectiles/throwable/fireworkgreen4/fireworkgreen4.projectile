@@ -1,0 +1,15 @@
+{
+  "projectileName" : "fireworkgreen4",
+  "bounces" : -1,
+  "timeToLive" : 0.8,
+  "speed" : 80,
+  "physics" : "fireworkfall",
+  "image" : "fireworkgreen4.png",
+  "lightColor" : [110, 200, 110],
+  "frameNumber" : 1,
+  "damageKind" : "snowball",
+  "hydrophobic" : true,
+  "actionOnReap" : [
+  ],
+  "emitters" : [ "defaultgreen", "defaultwhite" ]
+}

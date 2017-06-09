@@ -1,0 +1,9 @@
+{
+  "name" : "shadowmoth",
+  "category" : "shadowmoth",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "shadowmoth.png"
+  }
+}

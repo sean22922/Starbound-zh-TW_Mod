@@ -1,0 +1,9 @@
+{
+  "name" : "frostfly",
+  "category" : "frostfly",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "frostfly.png"
+  }
+}

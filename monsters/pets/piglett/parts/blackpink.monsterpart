@@ -1,0 +1,9 @@
+{
+  "name" : "blackpink",
+  "category" : "piglett",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blackpink.png"
+  }
+}

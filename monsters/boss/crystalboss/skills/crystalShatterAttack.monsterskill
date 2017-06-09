@@ -1,0 +1,14 @@
+{
+  "name" : "crystalShatterAttack",
+  "label" : "SHATTER",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/crystalboss/skills/crystalShatterAttack.lua" ],
+    "crystalShatterAttack" : {
+    	"skillTime" : 1,
+    	"rotateInterval" : 0.2,
+    	"rotateMaxAngle" : 0.05
+    }
+  }
+}

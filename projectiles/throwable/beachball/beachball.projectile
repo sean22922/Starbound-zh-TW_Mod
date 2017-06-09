@@ -1,0 +1,24 @@
+{
+  "projectileName" : "beachball",
+  "speed" : 180,
+  "bounces" : -1,
+  "timeToLive" : 30,
+  "physics" : "beachball",
+  "image" : "beachball.png",
+  "frameNumber" : 1,
+  "windupFrames" : 1,
+  "animationCycle" : 0.3,
+  "intangibleWindup" : true,
+  
+  "damageKind" : "snowball",
+  "damageTeam" : { "type" : "indiscriminate" },
+  "intangibleTime" : 0.15,
+  "clientEntityMode" : "ClientSlaveOnly",
+  "actionOnReap" : [
+    {
+      "action" : "item",
+      "name" : "beachball"
+    }
+  ],
+  "damagePoly" : [ [-7.5, 0], [-5, -5], [0, -7.5], [5, -5], [7.5, 0], [5, 5], [0, 7.5], [-5, 5] ]
+}

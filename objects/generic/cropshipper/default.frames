@@ -1,0 +1,22 @@
+{
+  "frameGrid" : {
+    "size" : [64, 80],
+    "dimensions" : [36, 1],
+    "names" : [
+      [
+        "error.1", "error.2",
+        "ready.1", "ready.2",
+        "ship.1", "ship.2", "ship.3", "ship.4", "ship.5", "ship.6", "ship.7", "ship.8", "ship.9", "ship.10", "ship.11", "ship.12", "ship.13", "ship.14", "ship.15", "ship.16", "ship.17", "ship.18", "ship.19", "ship.20", "ship.21", "ship.22", "ship.23",
+        "closed.1", "closed.2",
+        "open.1", "open.2", "open.3", "open.4",
+        "toready.1", "toready.2", "toready.3"
+      ]
+    ]
+  },
+
+  "aliases" : {
+    "toerror.1" : "toready.3",
+    "toerror.2" : "toready.2",
+    "toerror.3" : "toready.1"
+  }
+}

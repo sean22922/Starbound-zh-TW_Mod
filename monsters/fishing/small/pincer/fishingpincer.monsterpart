@@ -1,0 +1,9 @@
+{
+  "name" : "fishingpincer",
+  "category" : "fishingpincer",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingpincer.png"
+  }
+}

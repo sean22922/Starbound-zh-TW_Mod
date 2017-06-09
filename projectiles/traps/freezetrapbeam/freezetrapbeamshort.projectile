@@ -1,0 +1,22 @@
+{
+  "projectileName" : "freezetrapbeamshort",
+  "image" : "freezetrapbeam.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.75,
+  "pointLight" : false,
+  "lightColor" : [115, 211, 255],
+  "power" : 40,
+  "speed" : 0,
+  "knockback" : 20,
+  "damagePoly" : [ [-44, -24], [44, -24], [44, 24], [-44, 24] ],
+  "piercing" : true,
+  "statusEffects" : [
+    {"effect": "frostsnare", "duration" : 3}
+  ],
+  "emitters" : [ "icetrailwide" ],
+  "damageTeam" : { "type" : "indiscriminate" },
+  "damageType" : "ignoresdef",
+  "damageKind" : "icebarrier",
+  "damageKindImage" : "icon.png"
+}

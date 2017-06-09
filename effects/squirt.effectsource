@@ -1,0 +1,24 @@
+{
+  "kind" : "squirt",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.001,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "squirt" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "squirt" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

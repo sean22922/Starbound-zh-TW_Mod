@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingweedy",
+  "description" : "Weeds.",
+  "shortdescription" : "Weeds.",
+  "floranDescription" : "Weedsss.",
+  "glitchDescription" : "Statement. Weeds.",
+  "ceiling" : true,
+  "images" : [ "ceilingweedy1.png", "ceilingweedy2.png", "ceilingweedy3.png", "ceilingweedy4.png", "ceilingweedy5.png" ]
+}

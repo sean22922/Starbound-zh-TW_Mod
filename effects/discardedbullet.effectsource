@@ -1,0 +1,24 @@
+{
+  "kind" : "discardedbullet",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.001,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "discardedbullet" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "state" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+            "frames" : 1
+          },
+          "on" : {
+            "frames" : 4,
+            "cycle" : 0.5,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/objects/drillmachine.ogg",
+              "persistentSoundRangeMultiplier" : 0.75,
+              "persistentSoundStopTime" : 0.15
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bg" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "state" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>",
+                "fullbright" : true
+              }
+            }
+          }
+        }
+      },
+      "fg" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "state" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  
+  "sounds" : {
+    "on" : [ "/sfx/objects/console_generic_switchon.ogg" ],
+    "off" : {
+      "pool" : [ "/sfx/objects/drillmachine_off.ogg" ],
+      "rangeMultiplier" : 0.75
+    }
+  }
+}

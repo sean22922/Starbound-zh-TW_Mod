@@ -1,0 +1,23 @@
+{
+  "metadata" : {
+    "name" : "arena2",
+    "species" : "generic",
+    "rules" : [
+    ],
+    "anchor" : [ "arena2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "arena2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "arena2.json" ]
+    }
+  ]
+}

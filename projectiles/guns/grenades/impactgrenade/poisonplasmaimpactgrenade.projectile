@@ -1,0 +1,21 @@
+{
+  "projectileName" : "poisonplasmaimpactgrenade",
+  "physics" : "grenade",
+  "bounces" : 0,
+  "timeToLive" : 3,
+  "damageKindImage" : "poisonicon.png",
+  "pointLight" : true,
+  "lightColor" : [60, 80, 40],
+  "image" : "poisonplasmaimpactgrenade.png",
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/poisonexplosionknockback.config"
+    }
+  ],
+  "power" : 50,
+  "damageType" : "NoDamage",
+  "damageKind" : "poisonplasma"
+}

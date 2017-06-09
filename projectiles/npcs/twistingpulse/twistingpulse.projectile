@@ -1,0 +1,16 @@
+{
+  "projectileName" : "twistingpulse",
+  "image" : "twistingpulse.png",
+  "animationCycle" : 0.3,
+  "frameNumber" : 4,
+  "damageKindImage" : "icon.png",
+  "physics" : "boomerang",
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "slash"
+}

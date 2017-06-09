@@ -1,0 +1,37 @@
+{
+  "id" : "humanhistory7",
+  "species" : "human",
+  "title" : "Off-Earth Human Census",
+  "description" : "A census of permanent human settlements outside of Earth.",
+  "icon" : "humancover7.png",
+  "contentPages" : [
+  	"Volume 329, page 804
+
+Schedule No.: 164
+System: Misma Fen
+Planet: Misma Fen III
+Settlement: Rubywood
+2 families equalling 4 people total.
+
+Schedule No.: 165
+System: Misma Fen
+Planet: Misma Fen V
+Settlement: Rumours of human habitation incorrect.",
+
+"Schedule No.: 166
+System: Alma Knoll
+Planet: Alma Knoll IV
+Settlement: Wide Canyon
+1 family equalling 2 people total.
+
+CENSUS COMPLETE
+
+Final total of humans dwelling Off-Earth: 15,802,433
+Total humans leading nomadic existence: Unknown"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

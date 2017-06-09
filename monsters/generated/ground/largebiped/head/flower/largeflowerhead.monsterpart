@@ -1,0 +1,13 @@
+{
+  "name" : "largeflowerhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeflowerhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

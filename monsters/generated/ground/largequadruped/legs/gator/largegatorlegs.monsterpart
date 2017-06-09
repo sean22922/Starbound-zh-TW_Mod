@@ -1,0 +1,16 @@
+{
+  "name" : "largegatorlegs",
+  "category" : "largequadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "largegatorflegs.png",
+    "backLegs" : "largegatorblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 1.0,
+    "runMultiplier" : 1.2,
+    "jumpMultiplier" : 1.0
+  }
+}

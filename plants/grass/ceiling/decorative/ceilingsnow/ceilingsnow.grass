@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingsnow",
+  "description" : "Snow.",
+  "shortdescription" : "Snow.",
+  "floranDescription" : "Sssnow.",
+  "glitchDescription" : "Statement. Snow.",
+  "ceiling" : true,
+  "images" : [ "ceilingsnow1.png", "ceilingsnow2.png", "ceilingsnow3.png", "ceilingsnow4.png", "ceilingsnow5.png" ]
+}

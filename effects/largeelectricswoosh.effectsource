@@ -1,0 +1,24 @@
+{
+  "kind" : "largeelectricswoosh",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.03,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "sparkle1" ], [ "sparkle2" ], [ "sparkle3" ], [ "sparkle4" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

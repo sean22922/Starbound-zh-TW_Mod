@@ -1,0 +1,14 @@
+{
+  "projectileName" : "enemyregularexplosion2",
+  "image" : "regularexplosion2.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 6,
+  "speed" : 0,
+  // Smaller damage poly than regularexplosion2, for use by monsters
+  "damagePoly" : [ [-20, 0], [-14, -14], [0, -20], [14, -14], [20, 0], [14, 14], [0, 20], [-14, 14] ],
+  "animationLoops" : false,
+  "piercing" : true,
+  "bounces" : -1,
+  "flippable" : true,
+  "damageKind" : "default"
+}

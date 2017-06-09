@@ -1,0 +1,9 @@
+{
+  "name" : "smallaxebladetail",
+  "category" : "smallbiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "smallaxebladetail.png"
+  }
+}

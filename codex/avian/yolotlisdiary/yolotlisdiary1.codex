@@ -1,0 +1,14 @@
+{
+  "id" : "yolotlisdiary1",
+  "species" : "avian",
+  "title" : "Yolotli's Diary Entry 1",
+  "description" : "The personal diary of an Avian Ascendant.",
+  "icon" : "yolotlisdiary1.png",
+  "contentPages" : [
+    "Today Stargazer Zolin sent for me, and he gave me the most incredible news. I'm to be next cycle's Ascendant! I couldn't believe it! He had to reassure me several times that he hadn't made a mistake. I was so shocked to be deemed worthy! Zolin said, \"By the word of Kluex you are worthy\". He told me Kluex came to him in a Star Dream, just as he does each cycle, and this time he asked for me! Hearing that was almost too much. I have been chosen by Kluex himself! I felt lightheaded - almost as though I might spiral skywards right there."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "icescabcritter",
+  "category" : "icescabcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name" : "smallcurlhead",
+  "category" : "smallbiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "smallcurlhead.png"
+  },
+
+  "parameters" : {
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "laserState" : {
+        "default" : "off.0",
+        "states" : {
+          "off.0" : {
+            "frames" : 1
+          },
+          "off.1" : {
+            "frames" : 1
+          },
+          "off.2" : {
+            "frames" : 1
+          },
+          "off.3" : {
+            "frames" : 1
+          },
+          "charged" : {
+            "frames" : 2,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          },
+          "on" : {
+            "frames" : 3,
+            "cycle" : 0.5,
+            "mode" : "loop"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bg" : {
+        "properties" : {
+          "centered" : false,
+          "fullbright" : true
+        },
+
+        "partStates" : {
+          "laserState" : {
+            "off.0" : {
+              "properties" : {
+                "image" : "<partImage>:off.0"
+              }
+            },
+            "off.1" : {
+              "properties" : {
+                "image" : "<partImage>:off.1"
+              }
+            },
+            "off.2" : {
+              "properties" : {
+                "image" : "<partImage>:off.2"
+              }
+            },
+            "off.3" : {
+              "properties" : {
+                "image" : "<partImage>:off.3"
+              }
+            },
+            "charged" : {
+              "properties" : {
+                "image" : "<partImage>:charged.<frame>"
+              }
+            },
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:active.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "fg" : {
+        "properties" : {
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "laserState" : {
+            "off.0" : {
+              "properties" : {
+                "image" : "<partImage>:off.0"
+              }
+            },
+            "off.1" : {
+              "properties" : {
+                "image" : "<partImage>:off.1"
+              }
+            },
+            "off.2" : {
+              "properties" : {
+                "image" : "<partImage>:off.2"
+              }
+            },
+            "off.3" : {
+              "properties" : {
+                "image" : "<partImage>:off.3"
+              }
+            },
+            "charged" : {
+              "properties" : {
+                "image" : "<partImage>:charged.<frame>"
+              }
+            },
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:active.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "charge" : ["/sfx/melee/charge_up15.ogg"],
+    "fire" : ["/sfx/gun/plasma_sniper2.ogg"],
+    "blip" : ["/sfx/objects/console_generic_switchon.ogg"],
+    "activate" : ["/sfx/objects/redalert2.ogg"],
+    "error" : ["/sfx/interface/clickon_error.ogg"]
+  }
+}

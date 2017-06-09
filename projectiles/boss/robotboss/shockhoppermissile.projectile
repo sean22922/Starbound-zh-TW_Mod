@@ -1,0 +1,26 @@
+{
+  "projectileName" : "shockhoppermissile",
+  "image" : "shockhoppermissile.png",
+  "animationCycle" : 0.2,
+  "frameNumber" : 2,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [128, 128, 255],
+  "pointLight" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion2/enemyregularexplosion2.config"
+    }
+  ],
+  "emitters" : [ "rocketsmoke" ],
+  "power" : 10.0,
+  "speed" : 20.0,
+  "timeToLive" : 10.0,
+  "physics" : "rocket",
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+
+  "scripts" : [ "/projectiles/boss/apeboss/apebossmissile/apebossmissile.lua" ],
+  "controlForce" : 50,
+  "maxSpeed" : 50
+}

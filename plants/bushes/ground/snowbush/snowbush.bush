@@ -1,0 +1,29 @@
+{
+  "name" : "snowbush",
+  "description" : "A snow-covered bush.",
+  "shortdescription" : "A snow-covered bush.",
+  "floranDescription" : "Sssnowy bush.",
+  "glitchDescription" : "Statement. A snow-covered bush.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+
+    {
+      "base" : "base2.png"
+    },
+
+    {
+      "base" : "base3.png"
+    },
+
+    {
+      "base" : "base4.png"
+    },
+
+    {
+      "base" : "base5.png"
+    }
+
+  ]
+}

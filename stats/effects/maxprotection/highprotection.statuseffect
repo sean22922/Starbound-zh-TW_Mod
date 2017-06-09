@@ -1,0 +1,12 @@
+{
+  "name" : "highprotection",
+  "effectConfig" : {
+  	"protection" : 85.0,
+  	"grit" : 0.0
+  },
+  "defaultDuration" : 1,
+
+  "scripts" : [
+    "protection.lua"
+  ]
+}

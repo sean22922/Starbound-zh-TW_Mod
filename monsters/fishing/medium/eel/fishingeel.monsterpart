@@ -1,0 +1,9 @@
+{
+  "name" : "fishingeel",
+  "category" : "fishingeel",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fishingeel.png"
+  }
+}

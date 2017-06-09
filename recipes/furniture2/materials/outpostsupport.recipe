@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 1 },
+    { "item" : "concretematerial", "count" : 1 } 
+  ],
+  "output" : { "item" : "outpostsupport", "count" : 50 },
+  "duration" : 0.5,
+  "groups"  : [ "craftingfurniture2", "materials", "all" ]
+}

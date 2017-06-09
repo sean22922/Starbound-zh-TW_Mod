@@ -1,0 +1,13 @@
+{
+  "name" : "largestackedhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largestackedhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

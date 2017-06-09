@@ -1,0 +1,20 @@
+{
+  "projectileName" : "ballistabolt",
+  "physics" : "arrownosticky",
+  "image" : "ballistabolt.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/regularexplosion/ballistaexplosion.config"
+    }
+  ],
+  "power" : 5.0,
+  "knockback" : 10,
+  "speed" : 100,
+  "damageKind" : "bow"
+}

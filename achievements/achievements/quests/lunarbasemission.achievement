@@ -1,0 +1,16 @@
+{
+  "name" : "lunarbasemission",
+
+  "triggers" : [
+    "quest.templateId.human_mission1"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.human_mission1",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

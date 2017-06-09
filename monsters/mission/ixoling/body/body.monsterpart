@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "ixoling",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

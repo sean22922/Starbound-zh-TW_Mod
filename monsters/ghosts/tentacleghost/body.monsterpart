@@ -1,0 +1,9 @@
+{
+  "name" : "tentacleghost",
+  "category" : "tentacleghost",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tentacleghost.png"
+  }
+}

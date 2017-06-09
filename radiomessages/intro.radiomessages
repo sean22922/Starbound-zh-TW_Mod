@@ -1,0 +1,92 @@
+{
+  "protectorateExitBedPester" : {
+    "type" : "mission",
+    "text" : "Good morning graduate! You have overslept. ^#71f2f6;Press A or D to get out of bed^white;."
+  },
+
+  "protectorateDormRoomTutorial" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "To interact with a nearby person, door, or other object, you should ^#71f2f6;hover over it with your cursor and press E^white;, if you are awake enough to do so."
+  },
+
+  "protectorateDormRoomPester" : {
+    "type" : "mission",
+    "text" : "Remember, you can open a door by ^#71f2f6;hovering over it with your cursor and pressing E^white;."
+  },
+
+  "protectorateLoungeTutorial" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "Your uniform is available to collect from your personal locker... It is quite impressive that you can remain so serene when you are running so late. Well done you."
+  },
+
+  "protectorateStage5" : {
+    "type" : "mission",
+    "text" : "It is not safe to remain here! ^#71f2f6;Please take the Matter Manipulator^white;. You must proceed to the shuttle pad!"
+  },
+
+  "protectorateCollapsedGalleryNoMM" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "Take the Matter Manipulator dropped by the Grand Protector - it will be essential to your survival!"
+  },
+
+  "protectorateCollapsedGallery" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "It appears the ceiling has collapsed. The Matter Manipulator can be used to clear this dirt. ^#71f2f6;Press the R key to equip it^white;, then click and hold on the pile of dirt to dig through it."
+  },
+
+  "protectorateCollapsedGalleryPester" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "You can get past this dirt using your Matter Manipulator. ^#71f2f6;Press the R key to equip it^white;."
+  },
+
+  "protectorateFloodedDoor" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "Scans show the room beyond this door has flooded. It would be best not to go in... I advise you find a way over it - ^#71f2f6;use spacebar to jump^white; up to higher platforms."
+  },
+
+  "protectorateRooftop" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "The scale of this disaster is immeasurable; the destruction occurring is beyond my capacity to quantify. You must leave this planet immediately."
+  },
+
+  "protectorateDuct" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "To jump down from a platform like this you should ^#71f2f6;hold S to crouch then tap spacebar^white;."
+  },
+
+  "protectorateDuctPester" : {
+    "type" : "mission",
+    "text" : "We are running out of time. I advise that you drop down through this platform by ^#71f2f6;holding S to crouch, then tapping spacebar^white;."
+  },
+
+  "protectorateGetWeapon" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "The chest sitting on that conveyor belt should contain some kind of weapon. Please arm yourself!"
+  },
+
+  "protectorateWeaponPester" : {
+    "type" : "mission",
+    "text" : "Access a weapon with ease by ^#71f2f6;placing it in one of the action bar slots^white; at the top of the screen, then ^#71f2f6;pressing the corresponding number key to equip^white; or unequip it."
+  },
+
+  "protectorateTentacleBarrier" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "You will need to destroy that tentacle in order to reach the shuttle. I suggest you retrieve a weapon from that chest."
+  },
+
+  "protectorateShipPlatform" : {
+    "important" : true,
+    "type" : "mission",
+    "text" : "I have bypassed the preflight checks. Get aboard!"
+  }
+}

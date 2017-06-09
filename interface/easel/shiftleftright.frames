@@ -1,0 +1,13 @@
+{
+  "frameGrid" : {
+    "size" : [10, 11],
+    "dimensions" : [3, 2],
+    "names" : [
+        [ "rightgrayed", "righthighlight", "rightnormal" ],
+		[ "leftnormal", "lefthighlight", "leftgrayed" ]
+    ]
+  },
+  "aliases" : {
+    "default" : "rightnormal"
+  }
+}

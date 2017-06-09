@@ -1,0 +1,43 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "podState" : {
+        "default" : "active",
+        "states" : {
+
+          "active" : {
+            "frames" : 3,
+            "mode" : "loop",
+            "cycle" : 0.3
+          },
+          "expire" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "pod" : {
+        "properties" : {
+          "centered" : false
+        },
+
+        "partStates" : {
+          "podState" : {
+            "active" : {
+              "properties" : {
+                "image" : "<partImage>:active.<frame>"
+              }
+            },
+            "expire" : {
+              "properties" : {
+                "image" : "<partImage>:expire.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

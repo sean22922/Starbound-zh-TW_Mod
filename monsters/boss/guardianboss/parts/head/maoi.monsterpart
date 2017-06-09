@@ -1,0 +1,10 @@
+{
+  "name" : "maoi",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "maoi.png",
+    "headfullbright" : "maoifullbright.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "kind" : "poisonslowdrip",
+  "definition" : {
+    "duration" : 0.75,
+    "durationVariance" : 0.25,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ "poisondrip1" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ "poisondrip1" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

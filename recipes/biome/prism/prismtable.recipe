@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "prisiliteore", "count" : 16 },
+    { "item" : "glass", "count" : 16 }
+  ],
+  "output" : { "item" : "prismtable", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

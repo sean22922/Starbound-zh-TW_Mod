@@ -1,0 +1,115 @@
+{
+  "id" : "borrow.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "John Smith"
+      }
+    },
+    "item" : {
+      "type" : "item",
+      "example" : {
+        "item" : "cake"
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/collect_gift.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "text" : {
+        "first" : {
+          "floran" : [
+            "Before we can do anything elsse, we need ^orange;<item>^white;. Floran knowss that ^orange;<target>^white; will let Floran borrow <target.pronoun.possessive>. ^green;Will you go get it?",
+            "Floran knowss that ^orange;<target>^white; hass ^orange;<item>^white; that we need. ^green;If you ask to borrow it, that'll save usss time."
+          ],
+          "glitch" : [
+            "Eager. First things first, you'll need to ^green;speak to ^orange;<target> ^white;and ^green;borrow <target.pronoun.possessiveDet> ^orange;<item>. ^white;Just tell <target.pronoun.object> I sent you, and <target.pronoun.subject>'ll be happy to lend it to you.",
+            "Enthusiastic. Our first priority should be obtaining a good quality ^orange;<item>. I think it's quicker to just^green; ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. "
+          ],
+          "default" : [
+            "We'll need a nice ^orange;<item>^white; to begin with. I seem to remember seeing ^orange;<target> ^white;with one quite recently. Why don't you ^green;go and ask if we can borrow it for a while? ^white;We can tell <target.pronoun.object> we lost it later if <target.pronoun.subject> asks for it back. ",
+            "I think ^orange;<target>^white; has a nice ^orange;<item>^white; that we could use. Why don't you ^green;go and ask <target.pronoun.object> if we can borrow it indefinitely?^white; Actually, leave out the indefinitely part..."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "We need to talk to ^orange;<target>^white; next. ^green;Go assk for <target.pronoun.possessiveDet> ^orange;<item>^white;, <target.pronoun.subject> won't mind if Floran borrowsss it.",
+            "Next, we need a shiny ^orange;<item>^white;. Floran sssaw ^orange;<target>^white; with one, ^green;you should asssk to borrow it."
+          ],
+          "glitch" : [
+            "Spontaneous. We'll need to ^green;borrow^orange; <target>'s <item> ^white;next. <target.pronoun.capitalSubject>'ll not have a problem handing it over if you ^green;tell <target.pronoun.object> I sent you.",
+            "Observant. A while back I saw ^orange;<target>^white; showing off <target.pronoun.possessiveDet> new ^orange;<item>. ^white;Pretty lucky for us, because we need one for our next task. Go and ^green;ask <target.pronoun.object> if we can borrow it. "
+          ],
+          "default" : [
+            "Now we need to find ourselves one ^orange;<item>. ^white;You should ^green;go and ask ^orange;<target>^green; if we can borrow <target.pronoun.possessive>. ^white;No need to mention that we won't be able to return it. ",
+            "We could really use a good ^orange;<item>^white; right now. ^orange;<target> ^white;is sure to have one in <target.pronoun.possessiveDet> posession. Why don't you ^green;go and borrow it from <target.pronoun.object>? "
+          ]
+        }
+      },
+      "completionText" : {
+        "first" : {
+          "floran" : [
+            "Great, you got it! Let's hope <target> understandss Floran's meaning of borrow...",
+            "You got the <item>! It's nice that <target> trustsss us with it. I can't promisse that we'll give it back though."
+          ],
+          "glitch" : [
+            "Delighted. Great! that's just what we need. I knew <target> would come through for us! Just don't do something silly like forget to hand it back to <target.pronoun.object> when we're done here. That'd be pretty embarrassing!",
+            "Relieved. You got it! this <item> will do nicely. It was nice of <target> to let us borrow it. Try and remember to return it when we're finished."
+          ],
+          "default" : [
+            "That's a decent <item>. Let's hope <target> won't miss it.",
+             "Great! <target> sure is a generous neighbour. "
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "You got it! Floran thinksss we'll need <item> a little longer than <target> may like. But let'ss worry about that later.",
+            "Thiss is a very good <item>! Floran surprised that <target> gave it up so easssily. Maybe we won't give it back so ssoon."
+          ],
+          "glitch" : [
+            "Satisfied. Ah good, you got the <item>! You'll have to remember to return it at some point, but don't worry about that for now.",
+            "Pleased. This <item> will work perfectly! <target> saved us tracking one down ourselves. Make sure you don't damage it, <target.pronoun.subject> wouldn't be happy if you returned it in poor condition."
+          ],
+          "default" : [
+            "That went smoothly. Let's hope <target> doesn't ask for it back.",
+            "Well done! We probably won't be able to return this <item> to <target>, but I'm sure <target.pronoun.subject> won't miss this dusty old thing anyway. "
+          ]
+        }
+      }
+    },
+    "requireTurnIn" : true,
+    "indicators" : ["target"],
+    "requestGiftNotification" : "requestLoan",
+    "giftReceivedEventName" : "loanProvided",
+
+    "objectives" : [
+      {
+        "id" : "collect",
+        "text" : "Acquire <item> from <target>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

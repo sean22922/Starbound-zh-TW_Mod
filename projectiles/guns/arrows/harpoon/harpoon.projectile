@@ -1,0 +1,18 @@
+{
+  "projectileName" : "harpoon",
+  "physics" : "underwaterarrow",
+  "image" : "harpoon.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "timeToLive" : 30,
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/arrowexplosion/arrowexplosion.config"
+    }
+  ],
+  "power" : 20,
+  "knockback" : 5,
+  "damageKind" : "bow"
+}

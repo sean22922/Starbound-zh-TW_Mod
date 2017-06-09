@@ -1,0 +1,9 @@
+{
+  "name" : "dewhopper",
+  "category" : "dewhopper",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "dewhopper.png"
+  }
+}

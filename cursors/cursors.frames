@@ -1,0 +1,18 @@
+{
+  "frameGrid" : {
+    "size" : [16, 16],
+    "dimensions" : [4, 5],
+
+    "names" : [
+      [ "resize", "injector", "pointer", "empty" ],
+      [ "inspect", "music", "chair", "chest" ],
+      [ "power", "ship", "door", "chat" ],
+      [ "key", "light", "fuel", "sleep" ],
+      [ "link" ]
+    ]
+  },
+
+  "aliases" : {
+    "tool" : "empty" // unused, but defined in cursor type enum
+  }
+}

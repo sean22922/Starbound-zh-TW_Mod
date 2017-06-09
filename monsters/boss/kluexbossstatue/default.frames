@@ -1,0 +1,23 @@
+{
+  "frameGrid" : {
+    "size" : [121, 121],
+    "dimensions" : [13, 3],
+    "names" : [
+      [ null, "red.idle.1", "red.windup.1", "red.windup.2", "red.windup.3", "red.windup.4", "red.windup.5", "red.windup.6", "red.windup.7", "red.windup.8", "red.windup.9", "red.windup.10", "red.windup.11" ],
+      [ null, "yellow.idle.1", "yellow.windup.1", "yellow.windup.2", "yellow.windup.3", "yellow.windup.4", "yellow.windup.5", "yellow.windup.6", "yellow.windup.7", "yellow.windup.8", "yellow.windup.9", "yellow.windup.10", "yellow.windup.11" ],
+      [ null, "blue.idle.1", "blue.windup.1", "blue.windup.2", "blue.windup.3", "blue.windup.4", "blue.windup.5", "blue.windup.6", "blue.windup.7", "blue.windup.8", "blue.windup.9", "blue.windup.10", "blue.windup.11" ]
+    ]
+  },
+  "aliases" : {
+    "red.winddown.1" : "red.windup.10",  "yellow.winddown.1" : "yellow.windup.10",  "blue.winddown.1" : "blue.windup.10",
+    "red.winddown.2" : "red.windup.9",   "yellow.winddown.2" : "yellow.windup.9",   "blue.winddown.2" : "blue.windup.9",
+    "red.winddown.3" : "red.windup.8",   "yellow.winddown.3" : "yellow.windup.8",   "blue.winddown.3" : "blue.windup.8",
+    "red.winddown.4" : "red.windup.7",   "yellow.winddown.4" : "yellow.windup.7",   "blue.winddown.4" : "blue.windup.7",
+    "red.winddown.5" : "red.windup.6",   "yellow.winddown.5" : "yellow.windup.6",   "blue.winddown.5" : "blue.windup.6",
+    "red.winddown.6" : "red.windup.5",   "yellow.winddown.6" : "yellow.windup.5",   "blue.winddown.6" : "blue.windup.5",
+    "red.winddown.7" : "red.windup.4",   "yellow.winddown.7" : "yellow.windup.4",   "blue.winddown.7" : "blue.windup.4",
+    "red.winddown.8" : "red.windup.3",   "yellow.winddown.8" : "yellow.windup.3",   "blue.winddown.8" : "blue.windup.3",
+    "red.winddown.9" : "red.windup.2",   "yellow.winddown.9" : "yellow.windup.2",   "blue.winddown.9" : "blue.windup.2",
+    "red.winddown.10" : "red.windup.1",  "yellow.winddown.10" : "yellow.windup.1",  "blue.winddown.10" : "blue.windup.1"
+  }
+}

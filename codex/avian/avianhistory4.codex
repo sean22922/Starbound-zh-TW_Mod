@@ -1,0 +1,28 @@
+{
+  "id" : "avianhistory4",
+  "species" : "avian",
+  "title" : "Avian Battle Techniques",
+  "description" : "Notes on ancient Avian battle strategies.",
+  "icon" : "aviancover2.png",
+  "contentPages" : [
+    "Leading 30,000 Warriors
+
+The field of battle must be chosen carefully - seek out wide plains where the weight and extent of our forces can be most powerfully displayed.
+
+Our warriors should amass methodically, and in silence. Once assembled in their vastness let each individual scream out his battle cry, and shriek the songs of war. Set the battle drums to thunder.",
+
+"Should attack be necessary, break the enemy ranks with ranged weaponry.
+
+Advance. Storm and harry their lines with 10,000 warriors.
+
+To take the flanks, lead 10,000 Avian in divisions. Ambush and pincer the flanks. Preface your most fierce assaults with false withdrawal, to send the enemy line into disarray.
+
+Keep 10,000 warriors in reserve.",
+
+"Take your enemies alive where possible, there is no better sacrifice to Kluex than to stain his altar with the blood of a worthy foe."
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

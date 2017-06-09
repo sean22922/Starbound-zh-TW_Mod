@@ -1,0 +1,14 @@
+{
+  "name" : "typing",
+  "states" : ["idle","sit"],
+  "cycle" : 0.5,
+  "cyclic" : true,
+  "duration" : 2.0,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ null, "rotation", "swimIdle.1", [0, 0], [2, -2], [-2, -2] ],
+    [ null, "rotation", "swimIdle.2", [-1, 0], [2, -3], [-1, -2] ],
+    [ null, "rotation", "swimIdle.1", [-1, 0], [1, -2], [-2, -1] ],
+    [ null, "rotation", "swimIdle.2", [0, 0], [1, -3], [-1, -1] ]
+  ]
+}

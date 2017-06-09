@@ -1,0 +1,24 @@
+{
+  "projectileName" : "chainbullet2",
+  "image" : "chainbullet.png",
+  "physics" : "illusion",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "flippable" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/bulletexplosion/bulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "timeToLive" : 10.0,
+  "piercing" : true,
+  "power" : 5.0,
+  "speed" : 100,
+  "damageKind" : "default",
+
+  "scripts" : [ "/scripts/projectiles/chainbullet.lua" ]
+}

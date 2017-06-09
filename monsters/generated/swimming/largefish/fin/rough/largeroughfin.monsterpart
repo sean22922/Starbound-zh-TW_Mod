@@ -1,0 +1,10 @@
+{
+  "name" : "largeroughfin",
+  "category" : "largefish",
+  "type" : "fin",
+
+  "frames" : {
+    "backfin" : "largeroughbfin.png",
+    "frontfin" : "largeroughffin.png"
+  }
+}

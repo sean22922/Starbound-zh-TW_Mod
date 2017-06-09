@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "firedclay", "count" : 1 },
+    { "item" : "sand", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fadedblocks",
+    "count" : 50
+  },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

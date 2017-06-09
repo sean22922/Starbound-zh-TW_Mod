@@ -1,0 +1,9 @@
+{
+  "name" : "largevolcanochest",
+  "category" : "largequadruped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largevolcanochest.png"
+  }
+}

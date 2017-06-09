@@ -1,0 +1,30 @@
+{
+  "kind" : "skidding",
+  "definition" : {
+    "duration" : 0,
+    "loops" : false,
+    "location" : "feet",
+    "start" : {
+      "particles" : [
+        [ "skid1" ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    },
+    "particles" : [
+      [ ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

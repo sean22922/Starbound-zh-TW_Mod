@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionfloran1",
+  "icon" : "missionfloran1icon.png",
+  "missionWorld" : "floranmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "The Ceremonial Hunting Caverns",
+      "repeatButtonText" : "Revisit The Ceremonial Hunting Caverns",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "Esther's research concludes that this is the probable location of the Floran Artifact.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

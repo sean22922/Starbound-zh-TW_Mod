@@ -1,0 +1,59 @@
+{
+  "name" : "toxic",
+  "swaps" : [
+      // Garden, Toxic, Alien - Bright Light Green Tan //
+    {
+      "6f2919" : "1d6f19", "a85636" : "36a83c", "e0975c" : "5ce078", "ffca8a" : "8affaf",
+      "735e3a" : "735e3a", "a38d59" : "a38d59", "d9c189" : "d9c189", "f7e7b2" : "f7e7b2",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Toxic, Alien - Purple'ish Redbrown //
+    {
+      "6f2919" : "652651", "a85636" : "9d418f", "e0975c" : "cd5fd2", "ffca8a" : "d790e9",
+      "735e3a" : "66452e", "a38d59" : "a47c56", "d9c189" : "d9aa7b", "f7e7b2" : "f7ddb0",
+      "951500" : "950000", "be1b00" : "be1b00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Toxic - Pink Toxic //
+    {
+      "6f2919" : "742977", "a85636" : "bb4fba", "e0975c" : "e884e7", "ffca8a" : "ffc3fb",
+      "735e3a" : "455d1e", "a38d59" : "839731", "d9c189" : "d0dc61", "f7e7b2" : "f5f898",
+      "951500" : "95004a", "be1b00" : "be005e", "dc1f00" : "FF0083", "f32200" : "FF26BA"
+    },
+      // Toxic, Magma - Burgandy Black //
+    {
+      "6f2919" : "6F1936", "a85636" : "b12c4c", "e0975c" : "E05C64", "ffca8a" : "FF8E8A",
+      "735e3a" : "11111E", "a38d59" : "33333A", "d9c189" : "5C5C5E", "f7e7b2" : "898989",
+      "951500" : "953800", "be1b00" : "BE5000", "dc1f00" : "DC7C00", "f32200" : "F39B00"
+    },
+      // Savannah, Toxic - Yellow Sandy //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "735E3A", "a38d59" : "A38D59", "d9c189" : "D9C189", "f7e7b2" : "F7E7B2",
+      "951500" : "3A3E73", "be1b00" : "5B59A3", "dc1f00" : "8B89D9", "f32200" : "B8B2F7"
+    },
+      // Toxic - Yellow Blue //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "3A3E73", "a38d59" : "5B59A3", "d9c189" : "8B89D9", "f7e7b2" : "B8B2F7",
+      "951500" : "950000", "be1b00" : "BE1B00", "dc1f00" : "FF3C00", "f32200" : "FF6932"
+    },
+      // Toxic - Yellow White //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "5C5C5C", "a38d59" : "A5A5A5", "d9c189" : "E6E6E6", "f7e7b2" : "F8F8F8",
+      "951500" : "249500", "be1b00" : "2EBE00", "dc1f00" : "35DC00", "f32200" : "3BF300"
+    },
+      // Savannah, Toxic - Yellow Orange //
+    {
+      "6f2919" : "8F692D", "a85636" : "AB9E40", "e0975c" : "E3E25F", "ffca8a" : "F2F2A9",
+      "735e3a" : "723522", "a38d59" : "B16232", "d9c189" : "D99B4A", "f7e7b2" : "DFC171",
+      "951500" : "891400", "be1b00" : "D52B00", "dc1f00" : "FF7400", "f32200" : "FFB632"
+    },
+      // Garden, Forest, Toxic, Alien - Green Burgandy //
+    {
+      "6f2919" : "6F1936", "a85636" : "A83651", "e0975c" : "E05C64", "ffca8a" : "FF8E8A",
+      "735e3a" : "1E3614", "a38d59" : "3A6D30", "d9c189" : "6F9F5D", "f7e7b2" : "A0C18C",
+      "951500" : "5C5C5C", "be1b00" : "A5A5A5", "dc1f00" : "E6E6E6", "f32200" : "F8F8F8"
+    }
+  ]
+}

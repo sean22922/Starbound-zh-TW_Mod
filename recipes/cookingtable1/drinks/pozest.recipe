@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "boltbulb", "count" : 1 },
+    { "item" : "currentcorn", "count" : 1 },
+    { "item" : "diodia", "count" : 1 },
+    { "item" : "neonmelon", "count" : 1 }
+  ],
+  "output" : { "item" : "pozest", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "pozest" }
+}

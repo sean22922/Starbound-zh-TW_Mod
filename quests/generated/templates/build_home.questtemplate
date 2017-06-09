@@ -1,0 +1,105 @@
+{
+  "id" : "build_home.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "furnitureSet" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          {"name" : "woodtable", "count" : 1},
+          {"name" : "tier1light", "count" : 1}
+        ]
+      }
+    },
+    "extraRewards" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "money", "count" : 1000}]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/build_home.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "title" : [
+        "A new friend for <questGiver>",
+        "<questGiver>'s new friend"
+      ],
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran thinks we could do with ssome fresh blood around here. Floran hasss a plan!",
+          "^cyan;Floran wantsss more company. Let's make thiss happen!"
+        ],
+        "glitch" : [
+          "^cyan;Lonely. I have decided I would benefit from a new friend - And you're just the person who can help me!",
+          "^cyan;Introspective. I have concluded that a new friend would make me happier. Could you help me attract one?"
+        ],
+        "default" : [
+          "^cyan;I love to make friends. Help me setup a home that will entice a new neighbour!",
+          "^cyan;I'm lonely and could use someone new to talk to. Could you help find me the friend I'm looking for?"
+        ]
+      },
+      "text" : {
+        "default" : {
+          "floran" : [
+            "Finally, ^green;make a shelter and decorate it with ^orange;<furnitureSet>.^white;! Make sssure you ^green;place a ^orange;Colony deed,^white; too. Floran hopes new friend enjoyss hunting...",
+            "Now ^green;make a home and put ^orange;<furnitureSet>^white; in it, ^green;as well as a ^orange;Colony Deed.^white; Floran hopes new friend likes giftsss..."
+          ],
+          "glitch" : [
+            "Excited. All you need to do now is ^green;make a home^white; using your ^orange;<furnitureSet>, ^white;and a ^orange;Colony Deed^white;! I'll be making a new friend in no time!",
+            "Enthusiastic. Finally, ^green;build a new home^white; and ^green;furnish it^white; with your ^orange;<furnitureSet>.^white; Don't forget to place a ^orange;Colony Deed!^orange;"
+          ],
+          "default" : [
+            "We've gathered all the furnishing, but we need the house itself! ^green;Build a home and put ^orange;<furnitureSet>^green; inside.^white; Don't forget to place a ^orange;Colony Deed^white; as well!",
+            "Finally, ^green;place ^orange;<furnitureSet>^green; in a house.^white; You trust you can handle the construction. Remember to ^green;place a ^orange;Colony Deed^white; when you're done!"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "floran" : [
+            "It worked! Floran has a shiny new friend. Floran appreciatesss your help.",
+            "You helped Floran find a new friend! Floran is very grateful."
+          ],
+          "glitch" : [
+            "Thrilled. I have a new friend to get acquainted with - I'm sure they'll be a wonderful companion! Thank you for making this happen!",
+            "Delighted. I'm always surprised how fast new homes are inhabited - I guess there's a lot of demand out there! Thank you for your help."
+          ],
+          "default" : [
+            "Vacancy filled! That didn't take long! Thanks for helping expand my social network!",
+            "Success! I've finally got a new neighbour! This place gets lonely sometimes, it's nice to have folks to talk to."
+          ]
+        }
+      },
+      "failureText" : [
+        "I was unable to help <questGiver> make a new friend. <questGiver.pronoun.capitalSubject> probably has enough friends as it is.",
+        "I was unable to help <questGiver> make a new friend. I'm sure <questGiver.pronoun.subject>'ll get over it."
+      ]
+    },
+    "portraitParameter" : "questGiver",
+
+    "objectives" : [
+      {
+        "text" : "Build a home with:"
+      },
+      {
+        "text" : "1 Colony Deed"
+      }
+    ],
+    "objectListText" : "<count> <itemName>",
+    "lightSourceText" : "any light source",
+    "doorText" : "any door"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "snorecritter",
+  "category" : "snorecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

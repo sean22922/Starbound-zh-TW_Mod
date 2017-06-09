@@ -1,0 +1,11 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/rock",
+      "nohueshift" : true,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    }
+  ]
+}

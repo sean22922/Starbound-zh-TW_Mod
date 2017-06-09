@@ -1,0 +1,21 @@
+{
+  "projectileName" : "iceburster",
+  "physics" : "bullet",
+  "image" : "iceburster.png",
+  "speed" : 50,
+  "animationCycle" : 0.5,
+  "frameNumber" : 4,
+  "power" : 50,
+  "emitters" : [ "iceplasma" ],
+  "damageKind" : "iceplasma",
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "iceburstcloud",
+      "fuzzAngle" : 360,
+      "inheritDamageFactor" : 0.5,
+      "inheritSpeedFactor" : 0,
+      "angleAdjust" : 0
+    }
+  ]
+}

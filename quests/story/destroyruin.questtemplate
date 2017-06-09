@@ -1,0 +1,41 @@
+{
+  "id" : "destroyruin",
+  "mainQuest" : true,
+  "prerequisites" : [ "glitch_mission2" ],
+  "title" : "Opening the Ark",
+  "text" : "I have something to tell you, dear, and something to ^orange;show you^reset;. ^green;It's time for me to ask more of you than I've ever asked before^reset;... I believe you're ready for this task, do you?",
+  "completionText" : "Even after everything, I'm sure you have plenty more adventures to go on.  At least take this, dear.",
+  "moneyRange" : [500, 500],
+  "rewards" : [
+    [ ["superrewardbag", 1] ]
+  ],
+  "canBeAbandoned" : false,
+  "questGiverIndicator" : "mainquestgiver",
+  "questReceiverIndicator" : "mainquestreceiver",
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/story/destroyruin.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "questGiver",
+      "questComplete" : "questReceiver"
+    },
+
+    "descriptions" : {
+      "destroyRuin" : "Go through the ^orange;Ark^reset; and ^green;destroy ^orange;the Ruin^reset;",
+      "turnIn" : "Find a way back to the ^orange;outpost^reset;"
+    },
+
+    "artifactCinematic" : "/cinematics/artifacts/humanartifact.cinematic",
+    "estherUid" : "estheroutpost",
+    "gateUid" : "monolithgate",
+
+    "bossUid" : "eyeboss",
+
+    "brainMessageHeight" : 400,
+
+    "openGateCinematic" : "/cinematics/story/opengate/opengate.cinematic",
+
+    "warpAction" : "InstanceWorld:outpost"
+  }
+}

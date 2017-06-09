@@ -1,0 +1,29 @@
+{
+  "kind" : "glowstim",
+  "definition" : {
+    "duration" : 0.05,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "glowstimmessage" ]
+      ],
+      "sounds" : [
+        [ "/sfx/statuseffects/powerup.ogg" ]
+      ]
+    },
+    "particles" : [
+      [ "glowstim" ]
+    ],
+    "sounds" : [
+      [ ]
+    ],
+    "stop" : {
+      "particles" : [
+        [ ]
+      ],
+      "sounds" : [
+        [ ]
+      ]
+    }
+  }
+}

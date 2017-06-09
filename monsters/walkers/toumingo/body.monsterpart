@@ -1,0 +1,9 @@
+{
+  "name" : "toumingo",
+  "category" : "toumingo",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "toumingo.png"
+  }
+}

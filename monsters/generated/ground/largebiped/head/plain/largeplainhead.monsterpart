@@ -1,0 +1,13 @@
+{
+  "name" : "largeplainhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeplainhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

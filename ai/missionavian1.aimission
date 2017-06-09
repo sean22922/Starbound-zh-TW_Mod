@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionavian1",
+  "icon" : "missionavian1icon.png",
+  "missionWorld" : "avianmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "The Great Sovereign Temple",
+      "repeatButtonText" : "Revisit The Great Sovereign Temple",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "This mostly abandoned temple is Esther's concluded location of the Avian Artifact.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

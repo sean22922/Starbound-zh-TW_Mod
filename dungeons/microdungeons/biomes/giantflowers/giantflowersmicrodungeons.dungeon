@@ -1,0 +1,131 @@
+{
+  "metadata" : {
+    "name" : "giantflowersmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ 
+      "bridge1", "burrow1", "burrow2", "burrow3", "pond1", "pond2", "rockformation1", "rockformation2", "rockformation3", "rockformation4", "rockformation5", "slope1", "slope2", "tower1"
+    ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "bridge1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "bridge1.json" ]
+    },
+
+    {
+      "name" : "burrow1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "burrow1.json" ]
+    },
+
+    {
+      "name" : "burrow2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "burrow2.json" ]
+    },
+
+    {
+      "name" : "burrow3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "burrow3.json" ]
+    },
+
+    {
+      "name" : "pond1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pond1.json" ]
+    },
+
+    {
+      "name" : "pond2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "pond2.json" ]
+    },
+
+    {
+      "name" : "rockformation1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockformation1.json" ]
+    },
+
+    {
+      "name" : "rockformation2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockformation2.json" ]
+    },
+
+    {
+      "name" : "rockformation3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockformation3.json" ]
+    },
+
+    {
+      "name" : "rockformation4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockformation4.json" ]
+    },
+
+    {
+      "name" : "rockformation5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "rockformation5.json" ]
+    },
+
+    {
+      "name" : "slope1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "slope1.json" ]
+    },
+
+    {
+      "name" : "slope2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "slope2.json" ]
+    },
+
+    {
+      "name" : "tower1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "tower1.json" ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "orbide",
+  "category" : "orbide",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "orbide.png"
+  }
+}

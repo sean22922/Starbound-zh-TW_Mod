@@ -1,0 +1,59 @@
+{
+  "name" : "skeletalbush",
+  "description" : "The bones of a long-dead creature.",
+  "shortdescription" : "The bones of a long-dead creature.",
+  "floranDescription" : "Dead bonesss.",
+  "glitchDescription" : "Statement. The bones of a long-dead creature.",
+  "mods" : [ "flower" ],
+  "shapes" : [
+    {
+      "base" : "base1.png",
+      "mods" : {
+        "flower" : [ "flower1.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base2.png",
+      "mods" : {
+        "flower" : [ "flower2.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base3.png",
+      "mods" : {
+        "flower" : [ "flower3.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base4.png",
+      "mods" : {
+        "flower" : [ "flower4.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base5.png",
+      "mods" : {
+        "flower" : [ "flower5.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base6.png",
+      "mods" : {
+        "flower" : [ "flower6.png", "" ]
+      }
+    },
+
+    {
+      "base" : "base7.png",
+      "mods" : {
+        "flower" : [ "flower7.png", "" ]
+      }
+    }
+
+  ]
+}

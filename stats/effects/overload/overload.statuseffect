@@ -1,0 +1,24 @@
+{
+  "name" : "overload",
+  "blockingStat" : "electricStatusImmunity",
+
+  "effectConfig" : {
+    "initialCharge" : 5,
+    "maxCharge" : 50,
+    "chargePerHit" : 2,
+    "chargeDecay" : 5,
+    "damageInterval" : 0.5,
+    "fadeFactor" : 0.03,
+    "emissionRateFactor" : 0.75
+  },
+  "defaultDuration" : 10,
+
+  "scripts" : [
+    "overload.lua"
+  ],
+
+  "animationConfig" : "overload.animation",
+
+  "label" : "Overload",
+  "icon" : "/interface/statuses/electric.png"
+}

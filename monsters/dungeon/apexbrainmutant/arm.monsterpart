@@ -1,0 +1,9 @@
+{
+  "name" : "arm",
+  "category" : "apexbrainmutant",
+  "type" : "arm",
+
+  "frames" : {
+    "arm" : "apexbrainmutant.png"
+  }
+}

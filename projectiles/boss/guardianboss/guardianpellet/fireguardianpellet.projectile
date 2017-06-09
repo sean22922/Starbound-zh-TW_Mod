@@ -1,0 +1,17 @@
+{
+  "projectileName" : "fireguardianpellet",
+  "image" : "fireguardianpellet.png",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "fullbright" : true,
+  "actionOnReap" : [
+  ],
+  "damageKind" : "fireplasma",
+
+  "emitters" : [ "fireplasma", "smoke" ],
+
+  "power" : 10,
+  "speed" : 50
+}

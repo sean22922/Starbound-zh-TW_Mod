@@ -1,0 +1,24 @@
+{
+  "projectileName" : "sporeseed",
+  "physics" : "grenade",
+  "image" : "sporeseed.png",
+  "frameNumber" : 1,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "inheritDamageFactor" : 1,
+      "type" : "sporepuff",
+      "direction" : [1,0],
+      "config" : {
+        "speed" : 0
+      }
+    }
+  ],
+  "power" : 5.0,
+  "timeToLive" : 0.75,
+  "speed" : 35,
+  "orientationLocked" : true,
+  "damageKind" : "default"
+}

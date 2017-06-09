@@ -1,0 +1,16 @@
+{
+  "id" : "colonystory2",
+  "title" : "How I Became A Landlord 2",
+  "species" : "human",
+  "description" : "The journal of an explorer who became a landlord.",
+  "icon" : "colonystory.png",
+  "contentPages" : [
+
+    "In the morning I was greeted by a spectacular view of the sunrise over the dense forest canopy far below. I figured this little shack could be of use to others who find themselves lost in the woods like me, so I set about removing the overgrowth and replacing some rotten beams to fill the gaps in the walls and floors. It quickly became a much larger renovation project, and I took up semi-permanent residence there for a time. That little shack began to feel like a veritable home from home for me, so I decided it deserved a tenant."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "Common",
+    "price" : 25
+  }
+}

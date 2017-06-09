@@ -1,0 +1,23 @@
+{
+  "kind" : "butterflyboost4",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/butterflies/butterfly4.animation",
+    "looping" : true,
+    "size" : 1.0,
+    "position" : [0, 0],
+    "length" : 20,
+    "destructionAction" : "shrink",
+    "destructionTime" : 2,
+    "initialVelocity" : [-0.25, -0.25],
+    "finalVelocity" : [-0.25, -0.25],
+    "approach" : [0.65, 0.65],
+    "timeToLive" : 2,
+    "layer" : "back",
+    "variance" : {
+      "initialVelocity" : [2.0, 2.0],
+      "finalVelocity" : [2.0, 2.0],
+      "position" : [0, 1]
+    }
+  }
+}

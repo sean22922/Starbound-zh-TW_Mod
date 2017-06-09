@@ -1,0 +1,9 @@
+{
+  "name" : "smallroundbody",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "smallroundbody.png"
+  }
+}

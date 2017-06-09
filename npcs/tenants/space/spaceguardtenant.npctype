@@ -1,0 +1,46 @@
+{
+  "type" : "spaceguardtenant",
+  "baseType" : "friendlyguard",
+  
+  "dropPools" : [],
+
+  "scriptConfig" : {
+    "questGenerator" : {
+      "pools" : ["common", "tenant", "guard"],
+      "enableParticipation" : true,
+
+      "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02,
+      "flags" : {
+        "guard" : true
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "pathfinderhead", "parameters" : { "colorIndex" : [0,1,3,5] } }
+            ],
+            "chest" : [
+              { "name" : "pathfinderchest", "parameters" : { "colorIndex" : [0,1,3,5] } }
+            ],
+            "legs" : [
+              { "name" : "pathfinderlegs", "parameters" : { "colorIndex" : [0,1,3,5] } }
+            ],
+            "primary" : [
+              "npcassaultrifle"
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

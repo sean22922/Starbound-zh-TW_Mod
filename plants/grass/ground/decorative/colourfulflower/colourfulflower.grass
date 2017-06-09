@@ -1,0 +1,8 @@
+{
+  "name" : "colourfulflower",
+  "description" : "A colourful spiral flower.",
+  "shortdescription" : "A colourful spiral flower.",
+  "floranDescription" : "Pretty flower.",
+  "glitchDescription" : "Statement. A colourful spiral flower.",
+  "images" : [ "1.png", "2.png", "3.png", "4.png", "5.png" ]
+}

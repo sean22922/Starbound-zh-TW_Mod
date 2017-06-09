@@ -1,0 +1,165 @@
+{
+  "metadata" : {
+    "name" : "apexcamp",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "apexcampendleft1", "apexcampendright1" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 15,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "apexcampobservatory1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampobservatory1" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampobservatory1.json" ]
+    },
+    {
+      "name" : "apexcampobservatory2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampobservatory2" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampobservatory2.json" ]
+    },
+    {
+      "name" : "apexcampbunker1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampbunker1" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker1.json" ]
+    },
+    {
+      "name" : "apexcampbunker1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampbunker1clue" ] ],
+        [ "doNotCombineWith", [ "apexcampbunker1", "apexcampbunker2clue", "apexcampbunker3clue", "apexcampflat3clue", "apexcampshop1clue" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker1clue.json" ]
+    },
+    {
+      "name" : "apexcampbunker2",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampbunker2" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker2.json" ]
+    },
+    {
+      "name" : "apexcampbunker2clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampbunker2clue" ] ],
+        [ "doNotCombineWith", [ "apexcampbunker2", "apexcampbunker1clue", "apexcampbunker3clue", "apexcampflat3clue", "apexcampshop1clue" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker2clue.json" ]
+    },
+    {
+      "name" : "apexcampbunker3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampbunker3" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker3.json" ]
+    },
+    {
+      "name" : "apexcampbunker3clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampbunker3clue" ] ],
+        [ "doNotCombineWith", [ "apexcampbunker3", "apexcampbunker1clue", "apexcampbunker2clue", "apexcampflat3clue", "apexcampshop1clue" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampbunker3clue.json" ]
+    },
+    {
+      "name" : "apexcampflat1",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampflat1" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampflat1.json" ]
+    },
+    {
+      "name" : "apexcampflat2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampflat2" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampflat2.json" ]
+    },
+    {
+      "name" : "apexcampflat3",
+      "rules" : [
+        [ "maxSpawnCount", [3] ],
+        [ "doNotConnectToPart", [ "apexcampflat3" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampflat3.json" ]
+    },
+    {
+      "name" : "apexcampflat3clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampflat3clue" ] ],
+        [ "doNotCombineWith", [ "apexcampflat3", "apexcampbunker1clue", "apexcampbunker2clue", "apexcampbunker3clue", "apexcampshop1clue"  ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampflat3clue.json" ]
+    },
+    {
+      "name" : "apexcampshop1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampshop1" ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampshop1.json" ]
+    },
+    {
+      "name" : "apexcampshop1clue",
+      "rules" : [
+        [ "maxSpawnCount", [1] ],
+        [ "doNotConnectToPart", [ "apexcampshop1clue" ] ],
+        [ "doNotCombineWith", [ "apexcampshop1", "apexcampbunker1clue", "apexcampbunker2clue", "apexcampbunker3clue", "apexcampflat3clue"  ] ]
+
+      ],
+      "def" : [ "tmx", "apexcampshop1clue.json" ]
+    },
+    {
+      "name" : "apexcampendleft1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "apexcampendleft1.json" ] ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "apexcampendright1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", [ "apexcampendright1.json" ] ],
+      "chance" : 0
+    }
+  ]
+}

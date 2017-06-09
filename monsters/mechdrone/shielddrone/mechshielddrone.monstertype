@@ -1,0 +1,97 @@
+{
+  "type" : "mechshielddrone",
+
+  "categories" : [ "mechshielddrone" ],
+  "parts" : [ "body" ],
+
+  "animation" : "mechshielddrone.animation",
+
+  "dropPools" : [
+    {
+      "default" : "empty"
+    }
+  ],
+
+  "baseParameters" : {
+    "clientEntityMode" : "ClientMasterAllowed",
+
+    "scripts" : [
+      "/monsters/mechdrone/drone.lua"
+    ],
+    "initialScriptDelta" : 2,
+
+    "level" : 1,
+
+    "metaBoundBox" : [-5, -5, 5, 5],
+    "scale" : 1.0,
+
+    "movementSettings" : {
+      "collisionEnabled" : false,
+      "collisionPoly" : [ [-3, -1], [-3, 1], [1, 2.75], [2, 0], [1, -2.75] ],
+
+      "gravityEnabled" : false,
+
+      "mass" : 0.5,
+      "flySpeed" : 80,
+      "airForce" : 300,
+
+      "airFriction" : 0,
+
+      "physicsEffectCategories" : []
+    },
+
+    "bodyMaterialKind" : "robotic",
+
+    "knockoutTime" : 0.1,
+    "knockoutEffect" : "",
+    "deathParticles" : "deathPoof",
+
+    "damageTeamType" : "friendly",
+
+    "touchDamage" : {
+      "poly" : [ [-3, -1], [-3, 1], [1, 2.75], [2, 0], [1, -2.75] ],
+      "damage" : 0,
+      "teamType" : "assistant",
+      "damageType" : "Knockback",
+      "damageRepeatTimeout" : 0.25,
+      "knockback" : 50
+    },
+
+    "statusSettings" : {
+      "statusProperties" : {
+        "targetMaterialKind" : "robotic"
+      },
+
+      "appliesEnvironmentStatusEffects" : false,
+      "appliesWeatherStatusEffects" : false,
+      "minimumLiquidStatusEffectPercentage" : 0.1,
+
+      "primaryScriptSources" : [
+        "/monsters/mechdrone/drone_status.lua"
+      ],
+      "primaryScriptDelta" : 1,
+
+      "stats" : {
+        "flatMaxHealth" : {
+          "baseValue" : 1
+        },
+        "healthRegen" : {
+          "baseValue" : 0.0
+        }
+      },
+
+      "resources" : {
+        "health" : {
+          "maxStat" : "flatMaxHealth",
+          "deltaStat" : "healthRegen",
+          "defaultPercentage" : 100
+        }
+      }
+    },
+
+    "mouthOffset" : [0, 0],
+    "feetOffset" : [0, -8],
+    "capturable" : false,
+    "relocatable" : false
+  }
+}

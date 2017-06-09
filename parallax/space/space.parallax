@@ -1,0 +1,52 @@
+{
+  "layers" : [
+    {
+      "kind" : "spaceencounterfront",
+      "nohueshift" : true,
+      "baseCount" : 4,
+      "repeatY" : true,
+      "parallax" : 1.5,
+      "minSpeed" : 10000,
+      "maxSpeed" : 15000
+    },
+    {
+      "kind" : "spacedust2",
+      "nohueshift" : true,
+      "repeatY" : true,
+      "parallax" : 2.5,
+      "minSpeed" : 7000,
+      "maxSpeed" : 10000,
+      "directives" : "fade=000000=0.2"
+    },
+    {
+      "kind" : "spacedust",
+      "nohueshift" : true,
+      "repeatY" : true,
+      "parallax" : 3.5,
+      "minSpeed" : 3000,
+      "maxSpeed" : 5000,
+      "directives" : "fade=000000=0.4"
+    },
+    {
+      "kind" : "space",
+      "nohueshift" : true,
+      "repeatY" : true,
+      "parallax" : 5
+    },
+    {
+      "kind" : "spaceback",
+      "baseCount" : 4,
+      "nohueshift" : true,
+      "repeatY" : true,
+      "parallax" : 8
+    },
+    {
+      "kind" : "spaceback",
+      "baseCount" : 4,
+      "nohueshift" : true,
+      "repeatY" : true,
+      "parallax" : 10,
+      "directives" : "fade=000000=0.3"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "missionName" : "missionapex1",
+  "icon" : "missionapex1icon.png",
+  "missionWorld" : "apexmission1",
+
+  "speciesText" : {
+    "default" : {
+      "buttonText" : "The Miniknog Stronghold",
+      "repeatButtonText" : "Revisit the Miniknog Stronghold",
+      "selectSpeech" : {
+        "animation" : "talk",
+        "text" : "Esther has concluded that this Mansion base is the location of the Apex Artifact.",
+        "speedModifier" : 1.0
+      }
+    }
+  }
+}

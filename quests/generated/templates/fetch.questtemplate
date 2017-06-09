@@ -1,0 +1,101 @@
+{
+  "id" : "fetch.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "fetchedItems" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [
+          {"name" : "banana", "count" : 3},
+          {"name" : "teleportercore", "count" : 1}
+        ]
+      }
+    },
+    "extraRewards" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "money", "count" : 1000}]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/fetch.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "generatedText" : {
+      "text" : {
+        "first" : {
+          "floran" : [
+            "Firsst, Floran needs you to ^green;find ^orange;<fetchedItems>. ^white;Go go go!",
+            "Floran can't find ^orange;<fetchedItems>. ^white;Floran will reward you generously if you ^green;fetch sssome."
+          ],
+          "glitch" : [
+            "Excited. First ^green;I need you to gather ^orange;<fetchedItems>^white; for me. Thank you in advance!",
+            "Excited. For the first part of my plan, ^green;I need you to gather ^orange;<fetchedItems>^white; for me."
+          ],
+          "default" : [
+            "To begin, ^green;I'll need ^orange;<fetchedItems>^white;. Could you lend a hand?",
+            "Initially, ^green;we'll need to gather ^orange;<fetchedItems>^white;. Could you handle that?"
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Time to ^green;find ^orange;<fetchedItems>. ^white;It'sss very important we do this next.",
+            "As your next tasssk, could you ^green;find us ^orange;<fetchedItems>? ^white;Not too big a job for someone sskillful like you."
+          ],
+          "glitch" : [
+            "Confident. Next ^green;we'll need ^orange;<fetchedItems>.^white; I'm sure that's well within your capabilities.",
+            "Eager. Next, ^green;I need you to collect ^orange;<fetchedItems>^white;."
+          ],
+          "default" : [
+            "Next, ^green;we'll need ^orange;<fetchedItems>^white;. You can handle that, right?",
+            "^green;The next thing I'll need is ^orange;<fetchedItems>^white;. It's important to the plan."
+          ]
+        }
+      },
+      "completionText" : {
+        "first" : {
+          "floran" : [
+            "Great! Let'ss get to work with our <fetchedItems>.",
+            "Perfect - now Floran can put these to ussse!"
+          ],
+          "glitch" : [
+            "Grateful. I appreciate you gathering those items for me! I have a plan for them...",
+            "Pleased. These items are just what I need for my plan!"
+          ],
+          "default" : [
+            "Excellent! Now we can put these to use.",
+            "Well done <player>, I never doubted you could do it!"
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Perfect, time to put our <fetchedItems> to ussse.",
+            "That was quicker than Floran expected! Floran very pleassed."
+          ],
+          "glitch" : [
+            "Appreciative. I'm so pleased that you managed to gather these for me, they're essential for my plan. Thank you!",
+            "Exuberant. Thank you for getting these for me, I have plans for them!"
+          ],
+          "default" : [
+            "Thank you, this is exactly what I need for the next stage of my plan...",
+            "Perfect, this will work nicely. Thank you!"
+          ]
+        }
+      }
+    },
+    "fetchList" : "fetchedItems",
+    "portraitParameter" : "questGiver",
+    "requireTurnIn" : true
+  }
+}

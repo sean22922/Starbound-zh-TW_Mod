@@ -1,0 +1,152 @@
+{
+  "id" : "gift.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "target" : {
+      "type" : "entity",
+      "example" : {
+        "name" : "Friendly Friendson"
+      }
+    },
+    "recipientDeed" : {
+      "type" : "entity"
+    },
+    "gift" : {
+      "type" : "item",
+      "example" : {
+        "item" : "coffeecake"
+      }
+    },
+    "extraRewards" : {
+      "type" : "itemList",
+      "example" : {
+        "items" : [{"name" : "money", "count" : 1000}]
+      }
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/gift.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "target"
+    },
+    "generatedText" : {
+      "title" : [
+        "<questGiver> the Gift Giver",
+        "Help <questGiver> deliver a gift"
+      ],
+      "goalText" : {
+        "floran" : [
+          "^cyan;Floran likess <target>'s scent. Floran wantsss <target.pronoun.object> around more often.",
+          "^cyan;Floran wantss a hunting partner. Floran thinks <target> isss a good choice!"
+        ],
+        "glitch" : [
+          "^cyan;Hopeful. I would like to win the favour of <target>, and I think I know what would work. Could you help me?",
+          "^cyan;Hopeful. I would like <target> to like me more - Could you help me?"
+        ],
+        "default" : [
+          "^cyan;I'm trying to impress my friend. I already have something in mind, but I need your help!",
+          "^cyan;I want to make a good impression. Please help me do something that will knock <target>'s socks off!"
+        ]
+      },
+      "text" : {
+        "next" : {
+          "floran" : [
+            "Next, Floran thinkss ^orange;<target> ^white;might like a present. Thiss ^orange;<gift> ^white;will be perfect! Floran not afraid of anything! But... Perhapss you ^green;give it to <target.pronoun.object>?",
+            "Okay, next let'ss ^green;give ^orange;<target> ^green;a hunting trophy!^white; Floran ate Floran's last hunting trophy, so this ^orange;<gift> ^white;will have to do. Floran still thinks <target.pronoun.subject> will be impressed!"
+          ],
+          "glitch" : [
+            "Enthusiastic. Next ^green;I need to win ^orange;<target>'s^white; friendship. Can you ^green;deliver this ^orange;<gift>^white; to <target.pronoun.object> as a gift?",
+            "Focused. Next, I need to ^green;win the favour of ^orange;<target>.^white; I know that <target.pronoun.subject> would like this ^orange;<gift>, ^white;could you ^green;deliver it to <target.pronoun.object> ^white;for me?"
+          ],
+          "default" : [
+            "I think this ^orange;<gift> is the perfect gift. ^green;Could you deliver it to ^orange;<target>^white;? Make sure <target.pronoun.subject> knows it's from me!",
+            "Who wouldn't love a new ^orange;<gift>?^white; I hope ^orange;<target>^white; appreciates all the hard work I had you do for this! ^green;Could you deliver it to <target.pronoun.object>?"
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "Floran thinks ^orange;<target>^white; will like this lassst part! This ^orange;<gift> ^white;is perfect, it remindss Floran of <target.pronoun.object> so much. Floran isn't shy... But perhaps you ^green;could give it to <target.pronoun.object>?",
+            "Lastly, the final thing to impresss ^orange;<target>^white; - a hunting trophy! Floran doesn't have one right now... So thiss ^orange;<gift>^white; will have to do. Can you ^green;deliver it to <target.pronoun.object>?"
+          ],
+          "glitch" : [
+            "Nervous. Finally, ^green;can you give the ^orange;<gift>^green; to ^orange;<target>^white;? I hope <target.pronoun.subject> likes it!",
+            "Eager. We're almost finished! All you need to do now is ^green;deliver the ^orange;<gift>^green; to ^orange;<target> ^white;and then we'll be done!"
+          ],
+          "default" : [
+            "The only thing left to do now is ^green;deliver the ^orange;<gift>^white; Could you give it to <target> for me?",
+            "Now we just need to ^green;drop that ^orange;<gift>^green; off to ^orange;<target>.^white; Can I ask you to take it to <target.pronoun.object>? I hope <target.pronoun.subject> doesn't already have one!"
+          ]
+        }
+      },
+      "completionText" : {
+        "next" : {
+          "floran" : [
+            "Floran very pleased! Turnsss out the <gift> is one of <target>'s favourite things!",
+            "Good job! Maybe the <gift> wass a bit ssstrange for a trophy, but I'm glad <target.pronoun.subject> liked it!"
+          ],
+          "glitch" : [
+            "Delighted. <target> appears to have liked the gift! Thank you for your assistance, I greatly appreciate it.",
+            "Exuberant. I now have a closer friendship with <target> thanks to your help delivering the gift to <target.pronoun.object>. I will remember how reliable you have been!"
+          ],
+          "default" : [
+            "It looks like <target> loved the <gift>. I'm such a good gift giver! Well, with your help of course!",
+            "Hooray! Now <target> and I can be best friends! Time to figure out what I should get <target.pronoun.object> next..."
+          ]
+        },
+        "default" : {
+          "floran" : [
+            "<target> really liked the gift! Now <target.pronoun.subject>'ll spend lotsss of time with Floran, and Floran can ssmell <target.pronoun.possessiveDet> pleasant ssmells all day! Thanksss a lot!",
+            "Thankss! Floran knew <target> would like the hunting trophy, and now Floran hasss a hunting buddy! Floran will sschedule a hunt for tomorrow!"
+          ],
+          "glitch" : [
+            "Gratified. <target> liked my present! Thank you for your help in my quest for friendship.",
+            "Jubilant. The gift delivery was a success! Thank you for helping with this plan, I greatly appreciate it."
+          ],
+          "default" : [
+            "Apparently <target> has been wanting a new <gift> for some time! <target.pronoun.capitalSubject> loved it and can't thank me enough. Thanks for your help!",
+            "<target> liked the gift?  I don't need anything in return, it feels good just to give a friend something they can enjoy!"
+          ]
+        }
+      },
+      "failureText" : [
+        "I failed to help <questGiver> win the favour of <target>. <questGiver.pronoun.capitalSubject> should probably learn to make friends without my help.",
+        "I failed to help <questGiver> deliver a gift to <target>. Perhaps <questGiver.pronoun.subject> should learn to make friends without giving out presents?"
+        ]
+    },
+    "portraitParameter" : "target",
+    "requireTurnIn" : false,
+
+    // Messages from NPC to Player
+    "giftAcceptedEventName" : "giftAccepted",
+    "requestAdditionToHouseEventName" : "requestGiftAddedToHouse",
+
+    // Notifications from Player to NPC
+    "provideGiftNotification" : "provideGift",
+    "objectAddedNotification" : "giftObjectAdded",
+
+    "objectives" : [
+      {
+        "id" : "give",
+        "text" : "Give <gift> to <target>"
+      }
+    ],
+    "addToHouseObjective" : {
+      "id" : "place",
+      "text" : "place <gift> in <target>'s home"
+    },
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "target"
+    }
+  }
+}

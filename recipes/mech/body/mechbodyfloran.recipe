@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "refinedviolium", "count" : 30 },
+    { "item" : "salvagebody", "count" : 25 },
+    { "item" : "salvagetier5", "count" : 10 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mechbodyfloran", "count" : 1 },
+  "groups" : [ "craftingmech", "mechbody" ]
+}

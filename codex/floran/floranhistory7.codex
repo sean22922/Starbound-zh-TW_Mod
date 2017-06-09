@@ -1,0 +1,26 @@
+{
+  "id" : "floranhistory7",
+  "species" : "floran",
+  "title" : "Floran Meatbook",
+  "description" : "A Floran cookbook, of sorts.",
+  "icon" : "florancover3.png",
+  "contentPages" : [
+    "FLORAN MEATBOOK
+
+Needs:
+1 Fire for cooking
+1 Meats
+
+Step 1: Put Meats on fire
+Step Two - Take meats off fire (not with hands)
+3: Eat Meats
+
+Tips: Do not eat other Floran if they still alive.
+Cooking meat is easier if it isn't still screaming"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "projectileName" : "tentaclecomet3",
+  "image" : "invisibleprojectile.png",
+  "frameNumber" : 1,
+  "speed" : 0,
+  "damagePoly" : [ [48, -3], [38, -17], [74, -19], [108, -26], [113, -20], [85, -3] ],
+  "animationLoops" : false,
+  "flippable" : true,
+  "damageKind" : "default"
+}

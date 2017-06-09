@@ -1,0 +1,118 @@
+{
+  "animationCustom" : {
+    "animatedParts" : {
+      "stateTypes" : {
+        "orbGlow" : {
+          "default" : "off",
+          "states" : {
+            "off" : {},
+            "idle" : {
+              "frames" : 4,
+              "cycle" : 0.25,
+              "mode" : "loop"
+            },
+            "glow" : {
+              "frames" : 4,
+              "cycle" : 0.25,
+              "mode" : "transition",
+              "transition" : "idle"
+            }
+          }
+        }
+      },
+      "parts" : {
+        "glowingOrb" : {
+          "properties" : {
+            "centered" : true,
+            "zLevel" : 3,
+            "offset" : [0.0, 4.5],
+            "transformationGroups" : ["weapon"],
+            "projectileSource" : [0.0, 0.0]
+          },
+          "partStates" : {
+            "orbGlow" : {
+              "off" : {
+                "properties" : {
+                  "image" : ""
+                }
+              },
+              "idle" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/spear/barrier/<elementalType>orb.png:idle.<frame>"
+                }
+              },
+              "glow" : {
+                "properties" : {
+                  "image" : "/items/active/weapons/melee/abilities/spear/barrier/<elementalType>orb.png:glow.<frame>"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
+    "lights" : {
+      "orbLight" : {
+        "active" : false,
+        "position" : [0.0, 1.0],
+        "transformationGroups" : ["weapon"],
+        "color" : [80, 80, 80]
+      }
+    },
+
+    "sounds" : {
+      "fireActive" : [ "/sfx/melee/barrier_create_fire.ogg" ],
+      "electricActive" : [ "/sfx/melee/barrier_create_electric.ogg" ],
+      "iceActive" : [ "/sfx/melee/barrier_create_ice.ogg" ],
+      "poisonActive" : [ "/sfx/melee/barrier_create_poison.ogg" ]
+    }
+  },
+
+  "ability" : {
+    "name" : "Barrier",
+    "type" : "barrier",
+    "scripts" : ["/items/active/weapons/melee/abilities/spear/barrier/barrier.lua"],
+    "class" : "Barrier",
+
+    "energyUsage" : 9.0,
+
+    "projectileParameters" : {
+      "power" : 1.0
+    },
+    "projectileInterval" : 1.0,
+    "elementalConfig" : {
+      "fire" : {
+        "projectileType" : "firebarrier"
+      },
+      "ice" : {
+        "projectileType" : "icebarrier"
+      },
+      "poison" : {
+        "projectileType" : "poisonbarrier"
+      },
+      "electric" : {
+        "projectileType" : "electricbarrier"
+      }
+    },
+
+    "elementalLightColors" : {
+      "fire" : [150, 80, 80],
+      "electric" : [80, 80, 150],
+      "ice" : [110, 110, 140],
+      "poison" : [80, 150, 80]
+    },
+
+    "stances" : {
+      "hold" : {
+        "weaponOffset" : [0.0, 0.5],
+        "armRotation" : -15,
+        "weaponRotation" : -75,
+        "twoHanded" : true,
+
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  }
+}

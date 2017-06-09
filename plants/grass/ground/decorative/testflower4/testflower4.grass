@@ -1,0 +1,8 @@
+{
+  "name" : "testflower4",
+  "description" : "A beautiful flower.",
+  "shortdescription" : "A beautiful flower.",
+  "floranDescription" : "Pretty.",
+  "glitchDescription" : "Statement. An attractive flower.",
+  "images" : [ "testflower41.png", "testflower42.png", "testflower43.png", "testflower44.png" ]
+}

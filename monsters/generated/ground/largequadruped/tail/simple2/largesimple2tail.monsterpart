@@ -1,0 +1,9 @@
+{
+  "name" : "largesimple2tail",
+  "category" : "largequadruped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largesimple2tail.png"
+  }
+}

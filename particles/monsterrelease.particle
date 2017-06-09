@@ -1,0 +1,18 @@
+{
+  "kind" : "monsterrelease",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/monsterrelease/monsterrelease.animation",
+    "size" : 1,
+    "fade" : 1,
+    "fullbright" : true,
+    "light" : [127, 0,  0],
+    "destructionTime" : 1,
+    "destructionAction" : "shrink",
+    "position" : [0, 0],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [0, 0],
+    "layer" : "back"
+  }
+}

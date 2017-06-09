@@ -1,0 +1,18 @@
+{
+  "name" : "savannahbush",
+  "description" : "A brittle, dead bush.",
+  "shortdescription" : "A brittle, dead bush.",
+  "floranDescription" : "Dead bush.",
+  "glitchDescription" : "Statement. A brittle, dead bush.",
+  "shapes" : [
+    {
+      "base" : "base1.png"
+    },
+    {
+      "base" : "base2.png"
+    },
+    {
+      "base" : "base3.png"
+    }
+  ]
+}

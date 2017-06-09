@@ -1,0 +1,13 @@
+{
+  "projectileName" : "smoke",
+  "image" : "smoke.png",
+  "animationCycle" : 0.9,
+  "frameNumber" : 8,
+  "speed" : 0,
+  "animationLoops" : false,
+  "piercing" : true,
+  "flippable" : true,
+  "onlyHitTerrain" : true,
+  "power" : 0,
+  "damageKind" : "default"
+}

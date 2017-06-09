@@ -1,0 +1,9 @@
+{
+  "name" : "heathugger",
+  "category" : "heathugger",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "heathugger.png"
+  }
+}

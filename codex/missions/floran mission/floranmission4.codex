@@ -1,0 +1,19 @@
+{
+  "id" : "floranmission4",
+  "species" : "floran",
+  "title" : "Living In Fear",
+  "description" : "A journal written by a race that once made their home in the Ceremonial Hunting Caverns.",
+  "icon" : "floranmission1.png",
+  "contentPages" : [
+    "The beasts are everywhere. They spit and hiss, and stab and eat! They call themselves Floran.
+
+They came from the night sky. They are creatures born of the darkness between the stars, I am sure of it!
+
+I should have fled days ago when most of my fellows left... Now there is nowhere to run. I am the only one who remains, and our underground city crumbles around me."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

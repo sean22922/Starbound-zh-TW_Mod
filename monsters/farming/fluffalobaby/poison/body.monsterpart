@@ -1,0 +1,9 @@
+{
+  "name" : "poisonfluffalobaby",
+  "category" : "poisonfluffalobaby",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

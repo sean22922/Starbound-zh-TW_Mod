@@ -1,0 +1,96 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "launcher" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "windup" : {
+            "frames" : 2,
+            "cycle" : 0.1
+          },
+          "winddown" : {
+            "frames" : 1,
+            "cycle" : 0.05,
+            "mode" : "transition",
+            "transition" : "idle"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "launcher" : {
+        "properties" : {
+          "zLevel" : 1,
+          "centered" : true
+        },
+
+        "partStates" : {
+          "launcher" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame><directives>"
+              }
+            },
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:windup.<frame><directives>"
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:winddown.<frame><directives>"
+              }
+            }
+          }
+        }
+      },
+      "launcherlit" : {
+        "properties" : {
+          "zLevel" : 2,
+          "centered" : true,
+          "fullbright" : true
+        },
+
+        "partStates" : {
+          "launcher" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame><directives>"
+              }
+            },
+            "windup" : {
+              "properties" : {
+                "image" : "<partImage>:windup.<frame><directives>"
+              }
+            },
+            "winddown" : {
+              "properties" : {
+                "image" : "<partImage>:winddown.<frame><directives>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "globalTagDefaults" : {
+    "directives" : ""
+  },
+
+  "lights" : {
+  },
+
+  "particleEmitters" : {
+    "fire" : {
+      "particles" : []
+    }
+  },
+
+  "sounds" : {
+    "fire" : [ "/sfx/projectiles/fistlauncher_shot.ogg" ]
+  }
+}

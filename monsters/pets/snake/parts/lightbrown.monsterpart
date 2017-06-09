@@ -1,0 +1,9 @@
+{
+  "name" : "lightbrown",
+  "category" : "petsnake",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "lightbrown.png"
+  }
+}

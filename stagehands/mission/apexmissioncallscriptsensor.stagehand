@@ -1,0 +1,15 @@
+{
+  "type" : "apexmissioncallscriptsensor",
+
+  "scripts" : [
+    "/stagehands/mission/apexmissioncallscriptsensor.lua"
+  ],
+  "scriptDelta" : 5,
+
+  "broadcastArea" : [-1, -1, 1, 1],
+
+  "senseEntityTypes" : [ "player" ],
+  "targetUniqueId" : null,
+  "functionName" : null,
+  "arguments" : []
+}

@@ -1,0 +1,10 @@
+{
+  "name" : "masteroidmid",
+  "category" : "masteroidmid",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "masteroidmid.png",
+    "bodyfullbright" : "masteroidmidfullbright.png"
+  }
+}

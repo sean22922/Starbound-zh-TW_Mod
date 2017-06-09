@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "rice", "count" : 1 },
+    { "item" : "pearlpea", "count" : 1 }
+  ],
+  "output" : { "item" : "pearlpearisotto", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "pearlpearisotto" }
+}

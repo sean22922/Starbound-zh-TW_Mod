@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "outpost_penguinbay",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "outpost_penguinbay" ],
+
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "outpost_penguinbay",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "outpost_penguinbay.json" ]
+    }
+  ]
+}

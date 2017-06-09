@@ -1,0 +1,9 @@
+{
+  "name" : "beebug",
+  "category" : "beebug",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "beebug.png"
+  }
+}

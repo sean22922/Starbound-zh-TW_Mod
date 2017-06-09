@@ -1,0 +1,66 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "moving" : {
+        "default" : "off",
+        "states" : {
+          "off" : {},
+          "on" : {
+            "frames" : 4,
+            "cycle" : 0.4,
+            "mode" : "loop",
+
+            "properties" : {
+              "persistentSound" : "/sfx/objects/wooden_elevator_loop1.ogg"
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "base" : {
+        "properties" : {
+          "offset" : [-0.75, 0],
+          "centered" : false
+        },
+        "partStates" : {
+          "moving" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "platform" : {
+        "properties" : {
+          "centered" : true,
+          "transformationGroups" : ["platform"],
+          "image" : "<partImage>",
+          "zLevel" : 1
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "platform" : {
+      "interpolated" : true
+    }
+  },
+
+  "sounds" : {
+    "changeDir" : {
+      "pool" : [ "/sfx/objects/wooden_elevator_hit.ogg" ]
+    }
+  }
+}

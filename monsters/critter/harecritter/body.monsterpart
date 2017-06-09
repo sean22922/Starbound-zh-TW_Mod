@@ -1,0 +1,9 @@
+{
+  "name" : "harecritter",
+  "category" : "harecritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

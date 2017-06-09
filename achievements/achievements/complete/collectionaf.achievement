@@ -1,0 +1,16 @@
+{
+  "name" : "collectionaf",
+
+  "triggers" : [
+    "itemSet.category.actionFigure"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.actionFigure",
+      "op" : "sizeAtLeast",
+      "value" : 50
+    }
+  ]
+}

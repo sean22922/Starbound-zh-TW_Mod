@@ -1,0 +1,14 @@
+{
+  "projectileName" : "chinaslide",
+  "physics" : "highgravgrenade",
+  "bounces" : 6,
+  "timeToLive" : 1.0,
+  "damageKindImage" : "icon.png",
+  "image" : "chinaslide.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.5,
+  "frameNumber" : 5,
+  "speed" : 55,
+  "power" : 1.0,
+  "damageKind" : "default"
+}

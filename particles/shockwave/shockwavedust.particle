@@ -1,0 +1,20 @@
+{
+  "kind" : "shockwavedust",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/dust2/dust2.animation",
+    "position" : [0, -0.875],
+    "initialVelocity" : [0.0, 1.5],
+    "approach" : [0, 50],
+    "destructionAction" : "shrink",
+    "destructionTime" : 0.85,
+    "fade" : 1,
+    "size" : 1,
+    "layer" : "middle",
+    "timeToLive" : 0.45,
+    "variance" : {
+      "initialVelocity" : [1.5, 1.5],
+      "position" : [0.5, 0.5]
+    }
+  }
+}

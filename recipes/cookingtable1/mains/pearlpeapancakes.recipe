@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "pearlpea", "count" : 1 },
+    { "item" : "milk", "count" : 1 },
+    { "item" : "egg", "count" : 1 }
+  ],
+  "output" : { "item" : "pearlpeapancakes", "count" : 1 },
+  "groups" : [ "craftingfood", "mains" ],
+  "collectables" : { "cooking" : "pearlpeapancakes" }
+}

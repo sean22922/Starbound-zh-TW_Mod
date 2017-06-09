@@ -1,0 +1,16 @@
+{
+  "name" : "findoutpost",
+
+  "triggers" : [
+    "quest.templateId.gaterepair"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.gaterepair",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

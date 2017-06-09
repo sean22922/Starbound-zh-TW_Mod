@@ -1,0 +1,15 @@
+{
+  "name" : "largefangedshadowyhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largefangedshadowy.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1, -0.5]
+  }
+}

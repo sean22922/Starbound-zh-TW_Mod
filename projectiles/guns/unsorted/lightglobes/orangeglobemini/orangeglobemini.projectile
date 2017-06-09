@@ -1,0 +1,21 @@
+{
+  "projectileName" : "orangeglobemini",
+  "physics" : "highgravgrenade",
+  "bounces" : 0,
+  "speed" : 15,
+  "timeToLive" : 1,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [125, 55, 0],
+  "image" : "orangeglobemini.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 1,
+  "power" : 1,
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/smoke/smoke.config"
+    }
+  ],
+  "damageKind" : "plasma"
+}

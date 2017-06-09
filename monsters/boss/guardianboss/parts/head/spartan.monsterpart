@@ -1,0 +1,10 @@
+{
+  "name" : "spartan",
+  "category" : "guardianboss",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "spartan.png",
+    "headfullbright" : "spartanfullbright.png"
+  }
+}

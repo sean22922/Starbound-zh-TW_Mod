@@ -1,0 +1,13 @@
+{
+  "input" : [
+    { "item" : "scorchedcore", "count" : 1 },
+    { "item" : "cryonicextract", "count" : 1 },
+    { "item" : "staticcell", "count" : 1 },
+    { "item" : "venomsample", "count" : 1 }
+  ],
+  "output" : { 
+    "item" : "perfectlygenericitem", 
+    "count" : 1 
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

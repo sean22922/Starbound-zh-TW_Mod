@@ -1,0 +1,11 @@
+{
+  "frameGrid" : {
+    "size" : [36, 40],
+    "dimensions" : [2, 2],
+
+    "names" : [
+      [ "back", "backComplete"],
+      [ "front", "frontComplete"]
+    ]
+  }
+}

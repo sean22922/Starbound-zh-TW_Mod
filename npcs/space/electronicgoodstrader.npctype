@@ -1,0 +1,61 @@
+{
+  "type" : "electronicgoodstrader",
+  "baseType" : "outpostcivilian",
+
+  "scripts" : [
+    "/npcs/bmain.lua",
+    "/npcs/goodstrader.lua"
+  ],
+
+  "scriptConfig" : {
+    "behavior" : "wanderSimple",
+
+    "behaviorConfig" : {
+      "wanderTime" : [0.25, 0.4],
+      "wanderWaitTime" : [10, 20]
+    },
+
+    "baseBuyFactor" : 0.5,
+    "baseSellFactor" : 2.0,
+
+    "buyExponent" : 0.93,
+    "sellExponent" : 0.95,
+
+    "factorRecoveryTime" : 86400,
+
+    "guiConfig" : {
+      "baseConfig" : "/interface/scripted/goodstrader/goodstradergui.config",
+      "buyItem" : "electronicgoods",
+      "gui" : {
+        "windowtitle" : {
+          "title" : " Electronic Goods Trader"
+        }
+      }
+    },
+
+    "sellRotationTime" : 86400,
+    "sellOptions" : [
+      "foodgoods",
+      "medicalgoods",
+      "militarygoods"
+    ]
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "devhead", "parameters" : { "colorIndex" : 0 } }
+            ],
+            "chest" : [
+              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : 8 } }
+            ],
+            "legs" : [
+              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : 8 } }
+            ]
+          }
+        ] ]
+    ]
+  }
+}

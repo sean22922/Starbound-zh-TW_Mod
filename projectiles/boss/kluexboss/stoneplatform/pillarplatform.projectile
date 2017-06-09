@@ -1,0 +1,280 @@
+{
+  "projectileName" : "pillarplatform",
+  "image" : "pillarplatform.png",
+  "animationCycle" : 0.25,
+  "physics" : "illusion",
+  "frameNumber" : 1,
+  "pointLight" : false,
+  "speed" : 10,
+  "power" : 0.0,
+  "bounces" : -1,
+  "timeToLive" : 30,
+  "orientationLocked" : true,
+
+  "actionOnReap" : [
+    {
+      "action" : "sound",
+      "options" : [ "/sfx/objects/rock_big_break1.ogg", "/sfx/objects/rock_big_break2.ogg", "/sfx/objects/rock_big_break3.ogg", "/sfx/objects/rock_big_break4.ogg" ]
+    },
+    {
+      "action" : "loop",
+      "count" : 25,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : true,
+            "variance" : {
+              "position" : [1.5, 4.0],
+              "initialVelocity" : [5, 3],
+              "finalVelocity" : [0, 20],
+              "rotation" : 180,
+              "angularVelocity" : 180
+            }
+          }
+        }
+      ]
+    }
+  ],
+
+  "physicsCollisions" : {
+    "platform" : {
+      "collision" : [
+        [-2.5, 3.0],
+        [2.5, 3.0],
+        [2.5, 4.0],
+        [-2.5, 4.0]
+      ],
+      "collisionKind" : "platform"
+    }
+  },
+
+  "scripts" : [ "pillarplatform.lua" ],
+  "scriptDelta" : 1,
+
+  "damageTeam" : { "type" : "ghostly" },
+
+  "clientEntityMode" : "ClientSlaveOnly",
+
+  "periodicActions" : [
+    {
+      "time" : 0.0,
+      "repeat" : false,
+      "action" : "sound",
+      "options" : [ "/sfx/npc/boss/kluexboss_pillarplatform.ogg" ]
+    },
+    {
+      "time" : 0.0,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, 4.0],
+            "variance" : {
+              "position" : [2.5, 0]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 0.25,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, 3.0],
+            "variance" : {
+              "position" : [2.5, 0]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 0.5,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, 2.0],
+            "variance" : {
+              "position" : [2.0, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 0.75,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, 1.0],
+            "variance" : {
+              "position" : [1.5, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 1.0,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, 0.0],
+            "variance" : {
+              "position" : [1.0, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 1.25,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, -1.0],
+            "variance" : {
+              "position" : [1.0, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 1.5,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, -2.0],
+            "variance" : {
+              "position" : [1.0, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "time" : 1.75,
+      "repeat" : false,
+      "action" : "loop",
+      "count" : 10,
+      "body" : [
+        {
+          "action" : "particle",
+          "specification" : {
+            "type" : "animated",
+            "animation" : "/animations/shards/rockshard.animation",
+            "initialVelocity" : [0.0, 8.0],
+            "finalVelocity" : [0.0, -60.0],
+            "approach" : [0.3, 60],
+            "timeToLive" : 0.5,
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "position" : [0, -3.0],
+            "variance" : {
+              "position" : [1.0, 0],
+              "initialVelocity" : [5, 3]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

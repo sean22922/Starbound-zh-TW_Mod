@@ -1,0 +1,35 @@
+{
+  "type" : "industrialtenant",
+  "baseType" : "generictenant",
+
+  "scriptConfig" : {
+
+    "questGenerator" : {
+      "pools" : ["common", "tenant"]
+    }
+  },
+
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "industrialcrewhead", "parameters" : { "colorIndex" : [0] } }
+            ],
+            "chest" : [
+              { "name" : "jumpsuitchest", "parameters" : { "colorIndex" : [11] } }
+            ],
+            "legs" : [
+              { "name" : "jumpsuitlegs", "parameters" : { "colorIndex" : [11] } }
+            ],
+            "primary" : [
+              ""
+            ],
+            "sheathedprimary" : [
+              "npcpistol"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

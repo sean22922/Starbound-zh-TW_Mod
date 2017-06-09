@@ -1,0 +1,35 @@
+{
+  "id" : "illegalshipupgrade2",
+  "title" : "^green;Questionable Kestrel Ship Upgrade",
+  "text" : "This ship license is unquestionably authentic. ^green;Visit Penguin Pete^reset; with ^orange;4 Upgrade Modules^reset; to upgrade your ship.",
+  "completionText" : "Yer ship'll be upgraded right away. The penguins always do a fine job.",
+  "completionCinema" : "/cinematics/upgrading/shipupgrade.cinematic",
+  "moneyRange" : [0, 0],
+  "rewards" : [ ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : "sail",
+      "questComplete" : {
+        "portrait" : [ {"image" : "/objects/outpost/shipyardcaptain/shipyardcaptainportrait.png"} ],
+        "title" : "Penguin Pete"
+      }
+    },
+    "upgradeShip" : { "shipLevel" : 5 },
+    "requireTurnIn" : true,
+    "turnInDescription" : "Deliver ^orange;Upgrade Modules^reset; to ^orange;Penguin Pete^reset; at the ^orange;outpost^reset;.",
+    
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "upgrademodule",
+        "count" : 4,
+        "consume" : true,
+        "description" : "Find ^orange;<itemName>^reset;: ^green;<current> / <required>^reset;"
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "wheat", "count" : 1 },
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "redapple", "count" : 1 }
+  ],
+  "output" : { "item" : "applecrumble", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "applecrumble" }
+}

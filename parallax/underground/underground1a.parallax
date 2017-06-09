@@ -1,0 +1,42 @@
+{
+  "layers" : [
+    {
+      "kind" : "tile/stalegtites",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/cavernlightsfront",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.3499999,
+      "repeatY" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "tile/cavernhollow",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.35,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/cavernlights",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.9999999,
+      "repeatY" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "tile/cavern",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 2,
+      "repeatY" : true,
+      "unlit" : false
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "brush" : {
+        "default" : "idle",
+        "states" : {
+          "idle" : {
+            "properties" : {
+              "particleEmittersOff" : ["dust"]
+            }
+          },
+          "onFossil" : {
+            "properties" : {
+              "particleEmittersOn" : ["dust"]
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "brush" : {
+        "properties" : {
+          "zLevel" : 0,
+          "centered" : true,
+          "image" : "<partImage>",
+          "offset" : [-0.125, 0.25],
+          "transformationGroups" : ["brush"]
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "brush" : {}
+  },
+
+  "particleEmitters" : {
+    "dust" : {
+      "emissionRate" : 5.0,
+      "particles" : [
+        {
+          "offset" : [1.325, 0.25],
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/dust2/dust2.animation",
+            "layer" : "back",
+            "collidesForeground" : false,
+            "fade" : 0.9,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.4,
+            "flip" : true,
+            "initialVelocity" : [0, 0],
+            "timeToLive" : 0.4,
+            "rotation" : 90,
+            "variance" : {
+              "position" : [0.1, 0.3],
+              "initialVelocity" : [1, 1]
+            }
+          }
+        },
+        {
+          "offset" : [1.325, 0.25],
+          "particle" : {
+            "type" : "animated",
+            "animation" : "/animations/dust2/dust2.animation",
+            "layer" : "middle",
+            "collidesForeground" : false,
+            "fade" : 0.9,
+            "destructionAction" : "shrink",
+            "destructionTime" : 0.4,
+            "flip" : true,
+            "initialVelocity" : [0, 0],
+            "timeToLive" : 0.4,
+            "rotation" : 90,
+            "variance" : {
+              "position" : [0.1, 0.3],
+              "initialVelocity" : [1, 1]
+            }
+          }
+        }
+      ]
+    }
+  }
+}

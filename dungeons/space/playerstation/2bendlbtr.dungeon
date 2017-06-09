@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-2bendlbtr",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "2bendlbtr" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "2bendlbtr",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "2bendlbtr.json" ]
+    }
+  ]
+}

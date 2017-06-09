@@ -1,0 +1,9 @@
+{
+  "name" : "largedemontail",
+  "category" : "largebiped",
+  "type" : "tail",
+
+  "frames" : {
+    "tail" : "largedemontail.png"
+  }
+}

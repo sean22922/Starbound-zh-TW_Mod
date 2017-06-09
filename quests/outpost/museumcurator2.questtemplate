@@ -1,0 +1,28 @@
+{
+  "id" : "museumcurator2",
+  "prerequisites" : [ "museumcurator1" ],
+  "title" : "^green;The Ruler of the Apex",
+  "text" : "I've been doing some cultural research, and I feel it's very important that Big Ape be included in the Apex section of my museum. ^green;Could you please bring me a ^orange;Big Ape Bust^white;? I hear that they're relatively ubiquitous, so you should be able to find one in an Apex settlement.",
+  "completionText" : "This will be perfect for the museum! Thank you so much.",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [
+    [ [ "manipulatormodule", 1 ], [ "healthaugment2", 1 ] ]
+  ],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver"
+    },
+    "requireTurnIn" : true,
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "apexstatue1",
+        "count" : 1,
+        "consume" : true
+      }
+    ]
+  }
+}

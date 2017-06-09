@@ -1,0 +1,24 @@
+{
+  "id" : "fuel",
+  "title" : "^orange;Fuel for the Ride",
+  "text" : "To fuel an FTL drive you need Liquid Erchius. This pink liquid ^green;can be found in ^orange;pools underground^green; on ^orange;airless planets^white;. I should pick up at least ^orange;20 units of Liquid Erchius ^white;to fuel my ship. It should enable me to travel to a nearby system.",
+  "completionText" : "I've got the fuel I need! I can ^green;load it into the ship at the ships ^orange;fuel gauge. ^white;Then use the navigator to take me to another nearby star system.",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "conditions" : [
+      {
+        "type" : "gatherItem",
+        "itemName" : "liquidfuel",
+        "count" : 20,
+        "consume" : false
+      }
+    ]
+  }
+}

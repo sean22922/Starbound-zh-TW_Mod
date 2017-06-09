@@ -1,0 +1,16 @@
+{
+  "id" : "protectorate2",
+  "title" : "About The Terrene Protectorate",
+  "description" : "Terrene Protectorate official documentation.",
+  "icon" : "protectoratecover1.png",
+  "contentPages" : [
+    "The Terrene Protectorate has stood proudly for over 500 years, striving for peace, and for unity amongst the many peoples of the universe. We exist to offer aid to the vulnerable and sanctuary to those living in fear. We endeavour to educate, protect and support all those seek our help.   
+
+We are the Terrene Protectorate, long may we stand."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

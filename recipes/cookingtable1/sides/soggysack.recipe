@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "dirturchin", "count" : 1 },
+    { "item" : "coralcreep", "count" : 1 }
+  ],
+  "output" : { "item" : "soggysack", "count" : 1 },
+  "groups" : [ "craftingfood", "sides" ],
+  "collectables" : { "cooking" : "soggysack" }
+}

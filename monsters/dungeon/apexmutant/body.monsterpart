@@ -1,0 +1,9 @@
+{
+  "name" : "body",
+  "category" : "apexmutant",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "apexmutant.png"
+  }
+}

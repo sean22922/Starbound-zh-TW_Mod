@@ -1,0 +1,87 @@
+{
+  "projectileName" : "plasmasweep",
+  "image" : "plasmasweep.png",
+  "animationCycle" : 1,
+  "frameNumber" : 1,
+  "timeToLive" : 0.01,
+  "physics" : "laser",
+  "flippable" : true,
+  "damageKindImage" : "icon.png",
+  "pointLight" : false,
+  "actionOnReap" : [
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -20,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 0
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -15,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 10
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -10,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 20
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : -5,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 30
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 0,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 40
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 5,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 50
+    },
+    {
+      "action" : "projectile",
+      "type" : "plasma1",
+      "fuzzAngle" : 0,
+      "inheritDamageFactor" : 1,
+      "inheritSpeedFactor" : 1,
+      "angleAdjust" : 10,
+      "autoFlipAdjust" : true,
+      "delaySteps" : 60
+    }
+  ],
+  "damagePoly" : [ ],
+  "power" : 0.0,
+  "emitters" : [ "electricplasma", "defaultblue", "electricplasma", "defaultblue", "electricplasma", "defaultblue"  ],
+  "damageKind" : "default"
+}

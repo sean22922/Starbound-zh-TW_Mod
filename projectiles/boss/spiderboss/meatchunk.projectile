@@ -1,0 +1,26 @@
+{
+  "projectileName" : "meatchunk",
+  "physics" : "grenade",
+  "bounces" : -1,
+  "timeToLive" : 1.5,
+  "image" : "meatchunk.png",
+  "damageKindImage" : "icon.png",
+  "onlyHitTerrain" : false,
+  "actionOnReap" : [
+    {
+      "action" : "option",
+      "options" : [
+        {
+          "action" : "particle",
+          "specification" : "blood"
+        }
+      ]
+    }
+  ],
+  "frameNumber" : 4,
+  "speed" : 30,
+  "power" : 0,
+  "damageType" : "NoDamage",
+  "damageKind" : "default",
+  "emitters" : [ "blood", "blood", "blood", "blood" ]
+}

@@ -1,0 +1,190 @@
+{
+  "globalTagDefaults" : {
+    "destination" : "outpost"
+  },
+
+  "animatedParts" : {
+    "stateTypes" : {
+      "console" : {
+        "default" : "off",
+        "states" : {
+          "off" : {},
+          "on" : {
+            "frames" : 22,
+            "cycle" : 4.4,
+            "mode" : "loop"
+          },
+          "turnon" : {
+            "frames" : 5,
+            "cycle" : 0.16,
+            "mode" : "transition",
+            "transition" : "on"
+          },
+          "turnoff" : {
+            "frames" : 5,
+            "cycle" : 0.16,
+            "mode" : "transition",
+            "transition" : "off"
+          }
+        }
+      },
+      "portal" : {
+        "default" : "closed",
+        "states" : {
+          "closed" : {},
+          "open" : {
+            "frames" : 9,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "openloop"
+          },
+          "openloop" : {
+            "frames" : 2,
+            "cycle" : 0.1,
+            "mode" : "loop"
+          },
+          "close" : {
+            "frames" : 9,
+            "cycle" : 0.3,
+            "mode" : "transition",
+            "transition" : "closed"
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "bg" : {
+        "properties" : {
+          "centered" : true
+        },
+
+        "partStates" : {
+          "console" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.on.<frame>",
+                "fullbright" : true
+              }
+            },
+
+            "turnon" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.turnon.<frame>",
+                "fullbright" : true
+              }
+            },
+
+            "turnoff" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.turnoff.<frame>",
+                "fullbright" : true
+              }
+            }
+          }
+        }
+      },
+      "fg" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "console" : {
+            "off" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.off"
+              }
+            },
+
+            "on" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.on.<frame>"
+              }
+            },
+
+            "turnon" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.turnon.<frame>"
+              }
+            },
+
+            "turnoff" : {
+              "properties" : {
+                "image" : "<partImage>:<color>.turnoff.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "destination" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 3,
+          "fullbright" : true,
+          "offset" : [0.0, 15.0]
+        },
+
+        "partStates" : {
+          "portal" : {
+            "open" : {
+              "properties" : {
+                "image" : "destination/<destination>.png:open.<frame>"
+              }
+            },
+            "openloop" : {
+              "properties" : {
+                "image" : "destination/<destination>.png:openloop.<frame>"
+              }
+            },
+            "close" : {
+              "properties" : {
+                "image" : "destination/<destination>.png:close.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "portal" : {
+        "properties" : {
+          "centered" : true,
+          "zLevel" : 4,
+          "fullbright" : true,
+          "offset" : [0.0, 15.0]
+        },
+
+        "partStates" : {
+          "portal" : {
+            "open" : {
+              "properties" : {
+                "image" : "<partImage>:open.<frame>"
+              }
+            },
+            "openloop" : {
+              "properties" : {
+                "image" : "<partImage>:openloop.<frame>"
+              }
+            },
+            "close" : {
+              "properties" : {
+                "image" : "<partImage>:close.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "sounds" : {
+    "on" : [],
+    "off" : []
+  }
+}

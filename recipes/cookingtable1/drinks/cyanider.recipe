@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "pussplum", "count" : 1 },
+    { "item" : "oculemon", "count" : 1 }
+  ],
+  "output" : { "item" : "cyanider", "count" : 1 },
+  "groups" : [ "craftingfood", "drinks" ],
+  "collectables" : { "cooking" : "cyanider" }
+}

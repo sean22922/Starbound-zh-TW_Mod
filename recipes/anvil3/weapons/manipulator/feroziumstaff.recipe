@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 6 },
+    { "item" : "solariumstar", "count" : 6 },
+    { "item" : "battery", "count" : 1 }
+  ],
+  "output" : { "item" : "feroziumstaff", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

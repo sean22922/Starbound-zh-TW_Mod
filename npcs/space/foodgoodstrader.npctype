@@ -1,0 +1,55 @@
+{
+  "type" : "foodgoodstrader",
+  "baseType" : "outpostcivilian",
+
+  "scripts" : [
+    "/npcs/bmain.lua",
+    "/npcs/goodstrader.lua"
+  ],
+
+  "scriptConfig" : {
+    "behavior" : "wanderSimple",
+
+    "behaviorConfig" : {
+      "wanderTime" : [0.25, 0.4],
+      "wanderWaitTime" : [10, 20]
+    },
+
+    "baseBuyFactor" : 0.5,
+    "baseSellFactor" : 2.0,
+
+    "buyExponent" : 0.93,
+    "sellExponent" : 0.95,
+
+    "factorRecoveryTime" : 86400,
+
+    "guiConfig" : {
+      "baseConfig" : "/interface/scripted/goodstrader/goodstradergui.config",
+      "buyItem" : "foodgoods",
+      "gui" : {
+        "windowtitle" : {
+          "title" : " Provisions Trader"
+        }
+      }
+    },
+
+    "sellRotationTime" : 86400,
+    "sellOptions" : [
+      "medicalgoods",
+      "electronicgoods",
+      "militarygoods"
+    ]
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "chest" : [ { "name" : "chefchest", "parameters" : { "colorIndex" : [0] } } ],
+            "legs" : [ { "name" : "cheflegs", "parameters" : { "colorIndex" : [0] } } ]
+          }
+        ] ]
+    ]
+  }
+}

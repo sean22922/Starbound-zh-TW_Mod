@@ -1,0 +1,28 @@
+{
+  "name" : "findalpaca",
+
+  "triggers" : [
+    "item.itemName.alpacahead",
+    "item.itemName.alpacachest",
+    "item.itemName.alpacalegs"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "item.itemName.alpacahead",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "item.itemName.alpacachest",
+      "op" : "atLeast",
+      "value" : 1
+    },
+    {
+      "name" : "item.itemName.alpacalegs",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

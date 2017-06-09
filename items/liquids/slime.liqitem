@@ -1,0 +1,10 @@
+{
+  "itemName" : "liquidslime",
+  "rarity" : "Common",
+  "category" : "liquid",
+  "inventoryIcon" : "liquidslimeicon.png",
+  "shortdescription" : "Slime",
+  "description" : "A slimey liquid.",
+
+  "liquid" : "slimeliquid"
+}

@@ -1,0 +1,15 @@
+{
+  "name" : "largerelaxedhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largerelaxedhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebite",
+    "projectileSourcePosition" : [1, -0.8]
+  }
+}

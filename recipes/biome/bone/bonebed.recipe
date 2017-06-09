@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "bone", "count" : 20 },
+    { "item" : "darkwoodmaterial", "count" : 20 },
+    { "item" : "silk", "count" : 3 }
+
+  ],
+  "output" : { "item" : "bonebed", "count" : 1 },
+  "groups" : [ "craftingfurniture", "beds", "all" ]
+}

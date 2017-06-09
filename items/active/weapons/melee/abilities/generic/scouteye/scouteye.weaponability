@@ -1,0 +1,43 @@
+{
+  "animationParts" : { },
+  "animationCustom" : { },
+
+  "ability" : {
+    "name" : "Scout Eye",
+    "type" : "scouteye",
+    "scripts" : ["/items/active/weapons/melee/abilities/generic/scouteye/scouteye.lua"],
+    "class" : "ScoutEye",
+
+    "energyUsage" : 40,
+    "cooldownTime" : 1.5,
+
+    "projectileType" : "scouteye",
+    "projectileParameters" : {
+      "timeToLive" : 5.0,
+      "speed" : 30
+    },
+    "fireOffset" : [0, 0],
+
+    "stances" : {
+      "windup" : {
+        "duration" : 0.25,
+        "armRotation" : 75,
+        "weaponRotation" : -45,
+        "twoHanded" : true,
+        "weaponOffset" : [0.0, 0.0],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      },
+      "scout" : {
+        "armRotation" : 30,
+        "weaponRotation" : -90,
+        "twoHanded" : true,
+        "weaponOffset" : [0.0, 0.0],
+
+        "allowRotate" : false,
+        "allowFlip" : false
+      }
+    }
+  }
+}

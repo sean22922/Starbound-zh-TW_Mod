@@ -1,0 +1,15 @@
+{
+  "name" : "largefourlegchest",
+  "category" : "largebiped",
+  "type" : "chest",
+
+  "frames" : {
+    "chest" : "largefourlegchest.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

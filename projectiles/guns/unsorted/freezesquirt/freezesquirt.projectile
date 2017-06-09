@@ -1,0 +1,16 @@
+{
+  "projectileName" : "freezesquirt",
+  "image" : "freezesquirt.png",
+  "physics" : "laser",
+  "animationCycle" : 1,
+  "frameNumber" : 10,
+  "power" : 50,
+  "speed" : 50,
+  "bounces" : 0,
+  "piercing" : false,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "default",
+  "actionOnReap" : [ { "action" : "liquid", "liquid" : "liquidnitrogen", "quantity" : 1 } ],
+  "emitters" : [ "squirt" ],
+  "hydrophobic" : true
+}

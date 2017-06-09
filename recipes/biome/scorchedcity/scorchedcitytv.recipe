@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "glassmaterial", "count" : 4 },
+    { "item" : "darkwoodmaterial", "count" : 6 },
+    { "item" : "siliconboard", "count" : 1 },
+    { "item" : "wire", "count" : 1 },
+    { "item" : "smallbattery", "count" : 1 }
+  ],
+  "output" : { "item" : "scorchedcitytv", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

@@ -1,0 +1,9 @@
+{
+  "name" : "swarmcritter",
+  "category" : "swarmcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

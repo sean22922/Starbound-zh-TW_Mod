@@ -1,0 +1,15 @@
+{
+  "projectileName" : "mudball",
+  "physics" : "lowgravarc",
+  "image" : "mudball.png",
+  "damageKindImage" : "mudball.png",
+  "speed" : 19,
+  "animationCycle" : 0.5,
+  "frameNumber" : 1,
+  "power" : 50,
+  "emitters" : [ "defaultbrown", "poisondrip" ],
+  "damageKind" : "slash",
+  "statusEffects" : [
+    "mudslow"
+  ]
+}

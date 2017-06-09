@@ -1,0 +1,16 @@
+{
+  "name" : "maxcrew",
+
+  "triggers" : [
+    "crewRecruited"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "crewRecruited",
+      "op" : "atLeast",
+      "value" : 12
+    }
+  ]
+}

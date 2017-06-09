@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "wartweed", "count" : 1 }
+  ],
+  "output" : { "item" : "wartweedjam", "count" : 1 },
+  "groups" : [ "craftingfood", "condiments" ],
+  "collectables" : { "cooking" : "wartweedjam" }
+}

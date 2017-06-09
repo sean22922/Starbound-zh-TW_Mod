@@ -1,0 +1,9 @@
+{
+  "name" : "spiderboss_body",
+  "category" : "spiderboss",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

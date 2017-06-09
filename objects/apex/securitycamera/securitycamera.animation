@@ -1,0 +1,96 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "movement" : {
+        "priority" : 0,
+        "default" : "idle",
+
+        "states" : {
+          "idle" : {
+            "frames" : 1
+          },
+          "move" : {
+            "frames" : 1,
+            "properties" : {
+              "persistentSound" : "/sfx/objects/camera_pan_loop.ogg"
+            }
+          },
+          "alert" : {
+            "frames" : 4,
+            "cycle" : 0.25,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/objects/camera_alert_on.ogg"
+            }
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "camera" : {
+        "properties" : {
+          "offset" : [-1.375, 0],
+          "rotationGroup" : "camera",
+          "centered" : false,
+          "zLevel" : 1
+        },
+
+        "partStates" : {
+          "movement" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            },
+            "move" : {
+              "properties" : {
+                "image" : "<partImage>:idle"
+              }
+            },
+            "alert" : {
+              "properties" : {
+                "image" : "<partImage>:alert.<frame>"
+              }
+            }
+          }
+        }
+      },
+
+      "bracket" : {
+        "properties" : {
+          "offset" : [-1.375, 0],
+          "centered" : false,
+          "zLevel" : 0
+        },
+
+        "partStates" : {
+          "movement" : {
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:bracket"
+              }
+            },
+            "move" : {
+              "properties" : {
+                "image" : "<partImage>:bracket"
+              }
+            },
+            "alert" : {
+              "properties" : {
+                "image" : "<partImage>:bracket"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "rotationGroups" : {
+    "camera" : {
+      "rotationCenter" : [1.625, 1.3125],
+      "angularVelocity" : 1.5
+    }
+  }
+}

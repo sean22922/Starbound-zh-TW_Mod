@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 40 },
+    { "item" : "salvagebody", "count" : 50 },
+    { "item" : "salvagetier6", "count" : 25 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "mechbodyprotector", "count" : 1 },
+  "groups" : [ "craftingmech", "mechbody" ]
+}

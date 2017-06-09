@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "shadowblock", "count" : 10 }
+  ],
+  "output" : { "item" : "shadowspikeblock", "count" : 5 },
+  "duration" : 0.25,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

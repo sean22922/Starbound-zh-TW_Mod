@@ -1,0 +1,23 @@
+{
+  "id" : "hylotlmission1",
+  "species" : "human",
+  "title" : "Nox's Journal",
+  "description" : "The private journal of the Occasus cult leader.",
+  "icon" : "hylotlmission1.png",
+  "contentPages" : [
+    "The universe is ours by rights, it belongs to the humans - the Occasus members might not understand much, but at least they grasp that.
+
+They exalt in their supremacist rhetoric and scamper around spreading their hate, but they just can't fathom the genesis of what's happening here.
+
+Still, better an army of morons than no army at all.",
+
+"Esther would understand, if she could only see past her flawed imaginings. People have a way of letting their own agendas blind them.
+
+She's an addled fool; obsessed with unity and harmony, and completely unable to see what's right in front of her. She'll learn - my old teacher will learn. She's an icetip bug in the path of an avalanche."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

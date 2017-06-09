@@ -1,0 +1,9 @@
+{
+  "name" : "bowbirdcritter",
+  "category" : "bowbirdcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

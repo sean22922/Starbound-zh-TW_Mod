@@ -1,0 +1,25 @@
+{
+  "kind" : "electricplasmapurple",
+  "location" : "mouth",
+  "definition" : {
+    "duration" : 0.06,
+    "durationVariance" : 0.04,
+    "loops" : true,
+    "start" : {
+      "particles" : [
+        [ "electricswooshpurple" ], [ "electricswoosh2" ]
+      ],
+      "sounds" : [ [ ] ]
+    },
+    "particles" : [
+      [ "electricswooshpurple" ], [ "electricswoosh2" ], [ "electricswoosh2" ]
+    ],
+    "sounds" : [ [ ] ],
+    "stop" : {
+      "particles" : [
+        [ "electricswooshpurple" ], [ "electricswoosh2" ], [ "electricswoosh2" ]
+      ],
+      "sounds" : [ [ ] ]
+    }
+  }
+}

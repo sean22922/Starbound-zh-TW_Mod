@@ -1,0 +1,35 @@
+{
+  "id" : "hylotlspace1",
+  "species" : "hylotl",
+  "title" : "Letheia Corporation Brochure",
+  "description" : "A commercial brochure for the Letheia Corporation.",
+  "icon" : "hylotlcover7.png",
+  "contentPages" : [
+    "The ^yellow;Letheia Corporation^white; is here for you, to help you in every facet of your mortal existence. Our company motto, \"Why live life without Letheia?\" is now more achievable than ever before! Take a look at our shockingly robust range of products and services:
+
+^orange;Space Travel^white;
+
+Our deluxe-class vessels come in a wider range than ever, from industrial freighters to business-class private transport.",
+
+	"^orange;Space Stations^white;
+
+Want to start your own orbital trade hub? 65% of all station deployments in the outer rim now happen through Letheia!
+
+^orange;Fuel Mining^white;
+
+Letheia's Erchius mining facilities are experiencing 6% fewer mysterious accidents than the next leading competitor.",
+
+  "^orange;Furnishings^white;
+
+Our in-house designers produce some of the most widely replicated space vessel furniture in all the galactic clusters!
+
+^orange;Media^white;
+
+Lethiea Entertainment brands range from the hugely successful Numi animated series, to niche product lines such as the \"Beautiful Attempt!\" video-game franchise."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

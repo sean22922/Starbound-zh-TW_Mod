@@ -1,0 +1,15 @@
+{
+  "name" : "smallcurlednosehead",
+  "category" : "smallquadruped",
+  "type" : "head",
+
+
+  "frames" : {
+    "head" : "smallcurlednosehead.png"
+  },
+
+  "parameters" :
+  {
+    "projectileSourcePosition" : [1.5, -0.25]
+  }
+}

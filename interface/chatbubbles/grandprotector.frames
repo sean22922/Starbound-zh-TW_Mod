@@ -1,0 +1,10 @@
+{
+  "frameGrid" : {
+    "size" : [66, 68],
+    "dimensions" : [4, 1],
+
+    "names" : [
+      [ "talk.0", "talk.1", "shock.0", "shock.1" ]
+    ]
+  }
+}

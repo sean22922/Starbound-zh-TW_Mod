@@ -1,0 +1,33 @@
+{
+  "name" : "ufoPulseCannonAttack",
+  "label" : "PULSE CANNON",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/penguinUfo/skills/ufoPulseCannonAttack.lua" ],
+
+    "ufoPulseCannonAttack" : {
+      "cooldownTime" : 10,
+
+      "projectile" : {
+        "type" : "penguinufocharge",
+        "config" : {
+          "speed" : 0.1,
+          "power" : 25,
+          "actionOnReap" : [
+            {
+              "action" : "projectile",
+              "type" : "pulsecannon",
+              "inheritDamageFactor" : 1,
+              "direction" : [0.0, -1.0]
+            },
+            {
+              "action" : "sound",
+              "options" : [ "/sfx/gun/plasma_ar1.ogg" ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

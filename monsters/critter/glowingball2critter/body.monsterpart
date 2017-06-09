@@ -1,0 +1,9 @@
+{
+  "name" : "glowingball2critter",
+  "category" : "glowingball2critter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

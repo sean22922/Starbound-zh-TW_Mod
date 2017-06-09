@@ -1,0 +1,9 @@
+{
+  "name" : "soldierHelm",
+  "category" : "penguintrooper",
+  "type" : "helm",
+
+  "frames" : {
+    "helm" : "soldierHelm.png"
+  }
+}

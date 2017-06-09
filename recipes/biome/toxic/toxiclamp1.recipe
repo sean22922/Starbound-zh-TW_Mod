@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 40 },
+    { "item" : "petalblue", "count" : 20 },
+    { "item" : "torch", "count" : 1 }
+  ],
+  "output" : { "item" : "toxiclamp1", "count" : 1 },
+  "groups" : [ "craftingfurniture", "lights", "all" ]
+}

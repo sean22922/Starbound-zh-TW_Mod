@@ -1,0 +1,170 @@
+{
+  "verticalOrigin" : 35,
+
+  "layers" : [
+    {
+      "kind" : "tile/lava",
+      "parallax" : 1.0,
+      "repeatY" : true,
+      "tileLimitTop" : 536,
+      "nohueshift" : true,
+      "unlit" : true
+    },
+    {
+      "kind" : "lavabelow",
+      "offset" : [0, 536],
+      "parallax" : 1.0,
+      "nohueshift" : true,
+      "unlit" : true
+    },
+
+    {
+      "kind" : "lava1",
+      "offset" : [0, 278],
+      "parallax" : [1.8, 1.05],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava2",
+      "offset" : [0, 282],
+      "parallax" : [2, 1.07],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava3",
+      "offset" : [0, 283],
+      "parallax" : [3, 1.08],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava4",
+      "offset" : [0, 284],
+      "parallax" : [4, 1.11],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava5",
+      "offset" : [0, 286],
+      "parallax" : [5, 1.14],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava6",
+      "offset" : [0, 288],
+      "parallax" : [6, 1.17],
+      "unlit" : true
+    },
+    // {
+    //   "kind" : "lavaisland",
+    //   "offset" : [0, 290],
+    //   "parallax" : [2.9, 1.18],
+    //   "unlit" : true
+    // },
+    {
+      "kind" : "lava7",
+      "offset" : [0, 290],
+      "parallax" : [7, 1.20],
+      "unlit" : true
+    },
+    {
+      "kind" : "lava8",
+      "offset" : [0, 292],
+      "parallax" : [8, 1.23],
+      "unlit" : true
+    },
+    {
+      "kind" : "magmaskyglow",
+      "offset" : [0, 230],
+      "parallax" : [8.01, 1.231],
+      "unlit" : true
+    },
+    {
+      "kind" : "clouds3",
+      "baseCount" : 2,
+      "offset" : [0, 120],
+      "parallax" : 9,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.15
+    },
+    {
+      "kind" : "clouds2",
+      "baseCount" : 2,
+      "offset" : [0, 140],
+      "parallax" : 14,
+      "minSpeed" : 2000,
+      "maxSpeed" : 5000,
+      "fadePercent" : 0.06
+    },
+
+    {
+      "kind" : "clouds1",
+      "baseCount" : 2,
+      "offset" : [0, 150],
+      "parallax" : 6,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.04
+    },
+
+    {
+      "kind" : "clouds3",
+      "baseCount" : 2,
+      "offset" : [0, 60],
+      "parallax" : 9,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.15
+    },
+
+    {
+      "kind" : "clouds2",
+      "baseCount" : 2,
+      "offset" : [0, 80],
+      "parallax" : 14,
+      "minSpeed" : 2000,
+      "maxSpeed" : 5000,
+      "fadePercent" : 0.06
+    },
+
+    {
+      "kind" : "clouds1",
+      "baseCount" : 2,
+      "offset" : [0, 100],
+      "parallax" : 6,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.04
+    },
+
+    {
+      "kind" : "clouds3",
+      "baseCount" : 2,
+      "offset" : [0, 1],
+      "parallax" : 9,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.15
+    },
+
+    {
+      "kind" : "clouds2",
+      "baseCount" : 2,
+      "offset" : [0, 20],
+      "parallax" : 14,
+      "minSpeed" : 2000,
+      "maxSpeed" : 5000,
+      "fadePercent" : 0.06
+    },
+
+    {
+      "kind" : "clouds1",
+      "baseCount" : 2,
+      "offset" : [0, 40],
+      "parallax" : 6,
+      "minSpeed" : 5000,
+      "maxSpeed" : 10000,
+      "fadePercent" : 0.04
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "silverbar", "count" : 1 },
+    { "item" : "darkwoodmaterial", "count" : 2 },
+    { "item" : "string", "count" : 2 }
+  ],
+  "output" : { "item" : "fossilbrushstudent", "count" : 1 },
+  "groups" : [ "craftingfossils", "consumables" ]
+}

@@ -1,0 +1,26 @@
+{
+  "layers" : [
+    {
+        "kind" : "tile/brainsfront",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.2,
+      "repeatY" : true,
+      "unlit" : false
+    },
+    {
+      "kind" : "tile/stalagtentacles",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.4,
+      "repeatY" : true
+    },
+    {
+      "kind" : "tile/caverntentacles",
+      "nohueshift" : false,
+      "lightMapped" : true,
+      "parallax" : 1.7,
+      "repeatY" : true
+    }
+  ]
+}

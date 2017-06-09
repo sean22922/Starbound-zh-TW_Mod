@@ -1,0 +1,9 @@
+{
+  "name" : "armadillocritter",
+  "category" : "armadillocritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

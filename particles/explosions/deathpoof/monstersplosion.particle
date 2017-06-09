@@ -1,0 +1,17 @@
+{
+  "kind" : "monstersplosion",
+  "definition" : {
+    "type" : "animated",
+    "animation" : "/animations/monstersplosion/monstersplosion.animation",
+    "size" : 1,
+    "angularVelocity" : 35,
+    "fade" : 1,
+    "destructionTime" : 1,
+    "position" : [0, 0],
+    "initialVelocity" : [0, 0],
+    "finalVelocity" : [0, 0],
+    "approach" : [1, 1],
+    "timeToLive" : 0.35,
+    "layer" : "middle"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 4 }
+  ],
+  "output" : { "item" : "fabric", "count" : 1 },
+  "groups" : [ "craftingwheel", "ingredients" ]
+}

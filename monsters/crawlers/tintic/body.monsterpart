@@ -1,0 +1,9 @@
+{
+  "name" : "tintic",
+  "category" : "tintic",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "tintic.png"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "sugar", "count" : 1 },
+    { "item" : "oculemon", "count" : 1 },
+    { "item" : "egg", "count" : 1 }
+  ],
+  "output" : { "item" : "oculemonmeringue", "count" : 1 },
+  "groups" : [ "craftingfood", "desserts" ],
+  "collectables" : { "cooking" : "oculemonmeringue" }
+}

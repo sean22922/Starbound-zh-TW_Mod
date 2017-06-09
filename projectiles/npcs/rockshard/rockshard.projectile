@@ -1,0 +1,15 @@
+{
+  "projectileName" : "rockshard",
+  "physics" : "grenade",
+  "bounces" : 2,
+  "timeToLive" : 0.8,
+  "damageKindImage" : "icon.png",
+  "image" : "rockshard.png",
+  "animationLoops" : false,
+  "animationCycle" : 0.6,
+  "frameNumber" : 5,
+  "emitters" : [ "iceplasmarocket" ],
+  "speed" : 50,
+  "power" : 1.0,
+  "damageKind" : "default"
+}

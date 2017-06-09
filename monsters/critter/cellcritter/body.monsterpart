@@ -1,0 +1,9 @@
+{
+  "name" : "cellcritter",
+  "category" : "cellcritter",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "body.png"
+  }
+}

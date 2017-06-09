@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 50 },
+    { "item" : "fabric", "count" : 5 },
+    { "item" : "string", "count" : 1 }
+  ],
+  "output" : { "item" : "mushroomhead", "count" : 1 },
+  "groups" : [ "craftingwheel", "clothes" ]
+}

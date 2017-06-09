@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "wicker", "count" : 10 },
+    { "item" : "plantfibre", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "swampchest",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture", "storage", "all" ]
+}

@@ -1,0 +1,19 @@
+{
+  "id" : "apexmission3",
+  "species" : "apex",
+  "title" : "Report on Rebel Bases",
+  "description" : "A Miniknog internal report on rebel bases.",
+  "icon" : "apexmission4.png",
+  "contentPages" : [
+    "We have now been able to determine that there are no remaining Apex colonies that are free of rebel activity.
+
+There are rebels on all Apex occupied worlds, and the movement is especially prevalent in our larger cities; intelligence has managed to establish that there are several cities in which each precinct has its own base of rebel operations.",
+
+"Activity varies - some cells limit themselves to underground dissemination of unlawful propaganda, while others partake in acts of aggressive sabotage and, as we know, all out warfare."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

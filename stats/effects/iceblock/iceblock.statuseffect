@@ -1,0 +1,12 @@
+{
+  "name" : "iceblock",
+  "effectConfig" : {},
+  "defaultDuration" : 60,
+
+  "scripts" : [
+    "iceblock.lua"
+  ],
+
+  "label" : "Ice Resistance",
+  "icon" : "/interface/statuses/iceblock.png"
+}

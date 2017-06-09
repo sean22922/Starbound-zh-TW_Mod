@@ -1,0 +1,12 @@
+{
+  "name" : "castelectric",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "castelectric.lua"
+  ],
+
+  "animationConfig" : "castelectric.animation"
+}

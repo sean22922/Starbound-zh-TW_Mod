@@ -1,0 +1,856 @@
+{
+  "metadata" : {
+    "name" : "novakidvillage",
+    "species" : "novakid",
+    "rules" : [
+    ],
+    "anchor" : [ "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "townhall1", "townhall2" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 12,
+    "extendSurfaceFreeSpace" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+
+    // SALOON LAYOUTS
+    {
+      "name" : "saloonbase1",
+      "rules" : [
+        [ "doNotCombineWith", [ "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "saloonbase1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "saloonbase2",
+      "rules" : [
+        [ "doNotCombineWith", [ "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "saloonbase2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "saloonbase3",
+      "rules" : [
+        [ "doNotCombineWith", [ "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "saloonbase3.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "saloonbase4",
+      "rules" : [
+        [ "doNotCombineWith", [ "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "saloonbase4.json" ],
+      "chance" : 1
+    },
+
+    // SALOON BARS
+    {
+      "name" : "saloon_bar1_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar1_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar1_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar1_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar2_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar2_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar2_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar1_left", "saloon_bar1_right", "saloon_bar2_left", "saloon_bar2_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar2_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar3_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar3_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar3_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar3_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar4_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar4_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar4_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar3_left", "saloon_bar3_right", "saloon_bar4_left", "saloon_bar4_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar4_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar5_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar5_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar5_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar5_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar6_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar8_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar6_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar5_left", "saloon_bar5_right", "saloon_bar6_left", "saloon_bar6_right" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar8_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar7_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar7_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar7_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar7_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar8_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar8_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bar8_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_bar8_right.json" ],
+      "chance" : 0
+    },
+
+    // SALOON BEDROOMS
+    {
+      "name" : "saloon_bedroom1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_bedroom1.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_bedroom2.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_bedroom3.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_bedroom4.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell5", "saloon_stairwell6", "saloon_bedroom5", "saloon_bedroom6" ] ]
+      ],
+
+      "def" : [ "tmx", "saloon_bedroom5.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell5", "saloon_stairwell6", "saloon_bedroom5", "saloon_bedroom6" ] ]
+      ],
+
+      "def" : [ "tmx", "saloon_bedroom6.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell7", "saloon_stairwell8", "saloon_bedroom7", "saloon_bedroom8" ] ]
+      ],
+
+      "def" : [ "tmx", "saloon_bedroom7.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_bedroom8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell7", "saloon_stairwell8", "saloon_bedroom7", "saloon_bedroom8" ] ]
+      ],
+
+      "def" : [ "tmx", "saloon_bedroom8.json" ],
+      "chance" : 0
+    },
+
+    // SALOON STAIRWELLS
+    {
+      "name" : "saloon_stairwell1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell1.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell2.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell3.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell4.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell5", "saloon_stairwell6", "saloon_bedroom5", "saloon_bedroom6" ] ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell5.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell5", "saloon_stairwell6", "saloon_bedroom5", "saloon_bedroom6" ] ]
+      ],
+
+      "def" : [ "tmx", "saloon_stairwell6.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell7", "saloon_stairwell8", "saloon_bedroom7", "saloon_bedroom8" ] ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell7.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_stairwell8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_stairwell7", "saloon_stairwell8", "saloon_bedroom7", "saloon_bedroom8" ] ]
+      ],
+      "def" : [ "tmx", "saloon_stairwell8.json" ],
+      "chance" : 0
+    },
+
+    // SALOON BALCONY AREAS
+    {
+      "name" : "saloon_balcony1",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony1.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony2",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_bar7_left", "saloon_bar7_right", "saloon_bar8_left", "saloon_bar8_right", "saloon_balcony1", "saloon_balcony2" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony2.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony3",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony3", "saloon_balcony4" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony3.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony4",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony3", "saloon_balcony4" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony4.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony5",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony5", "saloon_balcony6" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony5.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony6",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony5", "saloon_balcony6" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony6.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony7",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony7", "saloon_balcony8" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony7.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "saloon_balcony8",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotCombineWith", [ "saloon_balcony7", "saloon_balcony8" ] ]
+      ],
+      "def" : [ "tmx", "saloon_balcony8.json" ],
+      "chance" : 0
+    },
+
+    // BLACKSMITH
+    {
+      "name" : "blacksmith1",
+      "rules" : [
+        [ "doNotCombineWith", [ "blacksmith1", "blacksmith2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "blacksmith1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "blacksmith2",
+      "rules" : [
+        [ "doNotCombineWith", [ "blacksmith1", "blacksmith2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "blacksmith2.json" ],
+      "chance" : 1
+    },
+
+    // SHERIFF'S OFFICE / PRISON
+
+    {
+      "name" : "sheriff1",
+      "rules" : [
+        [ "doNotCombineWith", [ "sheriff1", "sheriff2", "sheriff3", "sheriff4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "sheriff1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "sheriff2",
+      "rules" : [
+        [ "doNotCombineWith", [ "sheriff1", "sheriff2", "sheriff3", "sheriff4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "sheriff2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "sheriff3",
+      "rules" : [
+        [ "doNotCombineWith", [ "sheriff1", "sheriff2", "sheriff3", "sheriff4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "sheriff3.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "sheriff4",
+      "rules" : [
+        [ "doNotCombineWith", [ "sheriff1", "sheriff2", "sheriff3", "sheriff4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "sheriff4.json" ],
+      "chance" : 1
+    },
+
+    // TOWN HALL
+
+    {
+      "name" : "townhall1",
+      "rules" : [
+        [ "doNotCombineWith", [ "townhall1", "townhall2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "townhall1.json" ],
+      "chance" : 0.75
+    },
+
+    {
+      "name" : "townhall2",
+      "rules" : [
+        [ "doNotCombineWith", [ "townhall1", "townhall2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "townhall1.json" ],
+      "chance" : 0.75
+    },
+
+    // WATER TOWER
+
+    {
+      "name" : "watertower1",
+      "rules" : [
+        [ "doNotCombineWith", [ "watertower1", "watertower2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "watertower1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "watertower2",
+      "rules" : [
+        [ "doNotCombineWith", [ "watertower1", "watertower2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "watertower2.json" ],
+      "chance" : 1
+    },
+
+    // STREET SEPARATORS
+
+    {
+      "name" : "street_empty",
+      "rules" : [
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_empty.json" ],
+      "chance" : 0.1
+    },
+
+    {
+      "name" : "street_lamp_wide",
+      "rules" : [
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_lamp_wide.json" ],
+      "chance" : 0.1
+    },
+
+    {
+      "name" : "street_lamp",
+      "rules" : [
+        [ "maxSpawnCount", [0] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_lamp.json" ],
+      "chance" : 0.1
+    },
+
+    /*
+    {
+      "name" : "street_lamp_narrow",
+      "rules" : [
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_lamp_narrow.json" ],
+      "chance" : 1
+    },
+    */
+
+    {
+      "name" : "street_crates1",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_crates1", "street_crates2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_crates1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_crates2",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_crates1", "street_crates2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_crates2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_outhouse1",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_outhouse1", "street_outhouse2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_outhouse1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_outhouse2",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_outhouse1", "street_outhouse2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_outhouse2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_stand1",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_stand1", "street_stand2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_stand1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_stand2",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_stand1", "street_stand2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_stand2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_wagon1",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_wagon1", "street_wagon2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_wagon1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_wagon2",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_wagon1", "street_wagon2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_wagon2.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_wagon3",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_wagon3", "street_wagon4" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_wagon3.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_wagon4",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_wagon3", "street_wagon4" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_wagon4.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_windmill1",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_windmill1", "street_windmill2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_windmill1.json" ],
+      "chance" : 1
+    },
+
+    {
+      "name" : "street_windmill2",
+      "rules" : [
+        [ "doNotCombineWith", [ "street_windmill1", "street_windmill2" ] ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "street_windmill2.json" ],
+      "chance" : 1
+    },
+
+    // SHACKS
+
+    {
+      "name" : "shack1",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack1", "shack2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack1.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack2",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack1", "shack2" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack2.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack3",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack3", "shack4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack3.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack4",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack3", "shack4" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack4.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack5",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack5", "shack6" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack5.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack6",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack5", "shack6" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack6.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack7",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack7", "shack8" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack7.json" ],
+      "chance" : 0.5
+    },
+
+    {
+      "name" : "shack8",
+      "rules" : [
+        [ "doNotCombineWith", [ "shack7", "shack8" ] ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2" ] ]
+      ],
+      "def" : [ "tmx", "shack8.json" ],
+      "chance" : 0.5
+    },
+
+    // END CAPS
+
+    {
+      "name" : "endcap_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "endcap_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "endcap_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ]
+,        [ "doNotConnectToPart", [ "street_empty", "street_lamp_wide", "street_lamp", "street_crates1", "street_crates2", "street_outhouse1", "street_outhouse2", "street_stand1", "street_stand2", "street_wagon1", "street_wagon2", "street_wagon3", "street_wagon4", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "endcap_right.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "endcap_street_left",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2", "street_empty", "street_outhouse1", "street_outhouse2", "street_wagon1", "street_wagon2", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "endcap_street_left.json" ],
+      "chance" : 0
+    },
+
+    {
+      "name" : "endcap_street_right",
+      "rules" : [
+        [ "ignorePartMaximumRule" ],
+        [ "doNotConnectToPart", [ "blacksmith1", "blacksmith2", "sheriff1", "sheriff2", "sheriff3", "sheriff4", "saloonbase1", "saloonbase2", "saloonbase3", "saloonbase4", "shack1", "shack2", "shack3", "shack4", "shack5", "shack6", "shack7", "shack8", "townhall1", "townhall2", "watertower1", "watertower2", "street_empty", "street_outhouse1", "street_outhouse2", "street_wagon1", "street_wagon2", "street_windmill1", "street_windmill2" ] ]
+      ],
+      "def" : [ "tmx", "endcap_street_right.json" ],
+      "chance" : 0
+    }
+    
+
+    // BANK + VAULT TO ROB
+
+    // MOOSHI & FLUFFALO PADDOCK?
+  ]
+}

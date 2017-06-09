@@ -1,0 +1,16 @@
+{
+  "name" : "restorefossil",
+
+  "triggers" : [
+    "restoreFossil"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "restoreFossil",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

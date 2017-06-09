@@ -1,0 +1,16 @@
+{
+  "name" : "avianmission",
+
+  "triggers" : [
+    "quest.templateId.avian_mission2"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "quest.templateId.avian_mission2",
+      "op" : "atLeast",
+      "value" : 1
+    }
+  ]
+}

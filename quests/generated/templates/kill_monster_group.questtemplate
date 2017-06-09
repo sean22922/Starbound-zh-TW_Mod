@@ -1,0 +1,239 @@
+{
+  "id" : "kill_monster_group.generated",
+  "parameters" : {
+    "questGiver" : {
+      "type" : "entity"
+    },
+    "monster" : {
+      "type" : "monsterType",
+      "example" : {
+        "name" : "Nutmidge",
+        "typeName" : "nutmidge"
+      }
+    },
+    "spawnPoint" : {
+      "type" : "location"
+    }
+  },
+  "moneyRange" : [10, 50],
+  "rewards" : [ ],
+  "rewardParameters" : [ "rewards", "extraRewards" ],
+  "canBeAbandoned" : true,
+  "ephemeral" : true,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/generated/kill.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "questGiver",
+      "objective" : "monster"
+    },
+    "generatedText" : {
+      "fluff" : [
+        ["genericPluralizedMonsterTerm", [
+          "monsters"
+        ]],
+        ["upset", [
+          "upset",
+          "angry",
+          "dismayed",
+          "distressed",
+          "troubled"
+        ]],
+        ["group", [
+          "pack",
+          "group",
+          "horde"
+        ]],
+        ["wild", [
+          "wild",
+          "angry",
+          "vicious",
+          "naughty",
+          "ravenous",
+          "ferocious",
+          "savage",
+          "fierce",
+          "crazed"
+        ]],
+        ["ambushed", [
+          "ambushed",
+          "snuck up on",
+          "leapt at",
+          "chased",
+          "pursued",
+          "harassed"
+        ]],
+        ["exploring", [
+          "exploring",
+          "walking",
+          "jogging",
+          "camping",
+          "trekking"
+        ]],
+        ["ate", [
+          "ate",
+          "destroyed",
+          "ruined",
+          "soiled"
+        ]],
+        ["belonging1", [
+          "my book",
+          "my lunch",
+          "my sandwich",
+          "my shoes",
+          "my backpack full of snacks",
+          "my wallet",
+          "my cheap watch",
+          "the manuscript for my unfinished novel",
+          "the only remaining copy of <belonging2>",
+          "<belonging2>",
+          "an old family heirloom"
+        ]],
+        ["belonging2", [
+          "my unfinished novel",
+          "my memoirs",
+          "my homemade album",
+          "my personal poetry collection"
+        ]],
+        ["earlier", [
+          "earlier",
+          "not too long ago",
+          "earlier today",
+          "last night",
+          "yesterday"
+        ]],
+        ["revenge1", [
+          "avenge me",
+          "put a stop to them",
+          "teach them a lesson",
+          "make them pay"
+        ]],
+        ["revenge2", [
+          "sort them out",
+          "get rid of them",
+          "quietly kill them all",
+          "teach them a lesson",
+          "forcefully evict them"
+        ]],
+        ["revengefloran", [
+          "hunt them down",
+          "kill them all",
+          "ssstab them"
+        ]],
+        ["rumours", [
+          "hearing rumours about",
+          "finding out about",
+          "all the talk about",
+          "narrowly avoiding",
+          "narrowly escaping"
+        ]],
+        ["loitering", [
+          "which are causing minor local distress",
+          "which are keeping people up at night",
+          "which are biting people's ankles",
+          "which are making a bit of an uproar",
+          "which keep staring at people",
+          "which are giving people the creeps"
+        ]],
+        ["loiteringfloran", [
+          "attacking people",
+          "ssscaring people",
+          "making lotsss of noise",
+          "trying to eat people"
+        ]],
+        ["excusefloran", [
+          "forgot to make weaponsss",
+          "isssn't feeling too confident about hunting right now",
+          "isss feeling lazy",
+          "thinksss you'd do a better job"
+        ]],
+        ["appreciation1", [
+          "Those <monster> won't be a problem anymore, because they're dead! Ha ha ha.",
+          "You got rid of the <monster>?",
+          "Oh, you sorted out the <monster>?"
+        ]],
+        ["appreciation2", [
+          "Thanks for the help, I hope this reward is okay!",
+          "I appreciate you doing this for me. Please accept this gift.",
+          "I hope this gift is enough for the time you spent on my problem!",
+          "Thanks! I appreciate the help!",
+          "I'll sleep better knowing you've made it a little safer around here!",
+          "Thanks! You've made it so much safer to live around here."
+        ]]
+      ],
+      "title" : {
+        "default" : [
+          "Sorting out some <monster>",
+          "Dealing with some <monster>"
+        ]
+      },
+      "goalText" : {
+        "default" : [
+          "^cyan;I need some help with a monster of a problem."
+        ],
+        "floran" : [
+          "^cyan;Floran hasss something for you to take care of..."
+        ],
+        "glitch" : [
+          "^cyan;Worried. Some beasts have rendered me afraid."
+        ]
+      },
+      "text" : {
+        "default" : {
+          "default" : [
+            "I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?",
+            "I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?"
+          ],
+          "floran" : [
+            "Floran heard there isss a group of <wild> ^orange;<monster>^white; that are <loiteringfloran>. Floran would hunt them but Floran <excusefloran>. They are at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you <revengefloran> for Floran^white;?"
+          ],
+          "glitch" : [
+            "Concerned. I'm <upset> and need your help! A <group> of <wild> ^orange;<monster>^white; <ambushed> me whilst I was out <exploring> and <ate> <belonging1>! This happened at the ^orange;<spawnPoint>^white;<spawnPoint.direction> - ^green;could you go and <revenge1>^white;?",
+            "Worried. I'm too scared to leave here after <rumours> a pack of <wild> ^orange;<monster>^white; <loitering>. I heard they were last seen at the ^orange;<spawnPoint>^white;<spawnPoint.direction>. ^green;Could you <revenge2> for me^white;?"
+          ]
+        }
+      },
+      "completionText" : {
+        "default" : {
+          "default" : [
+            "<appreciation1> <appreciation2>"
+          ],
+          "floran" : [
+            "Floran appreciates the help!"
+          ],
+          "glitch" : [
+            "Pleased. <appreciation1> <appreciation2>"
+          ]
+        }
+      },
+      "failureText" : {
+        "default" : [
+          "Oops, I wasn't able to help <questGiver>."
+        ]
+      }
+    },
+    "requireTurnIn" : true,
+
+    "objectives" : [
+      {
+        "id" : "findPlace",
+        "text" : "Locate the <spawnPoint>"
+      },
+      {
+        "id" : "kill",
+        "text" : "Kill the <monster>"
+      },
+      {
+        "id" : "return",
+        "text" : "Return to <questGiver>"
+      }
+    ],
+    "spawnPointObjectiveRange" : 35,
+
+    "initialCompassTarget" : {
+      "targetType" : "parameter",
+      "target" : "spawnPoint"
+    }
+  }
+}

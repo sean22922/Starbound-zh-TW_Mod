@@ -1,0 +1,9 @@
+{
+  "name" : "triplod-head",
+  "category" : "triplod",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "triplod-head.png"
+  }
+}

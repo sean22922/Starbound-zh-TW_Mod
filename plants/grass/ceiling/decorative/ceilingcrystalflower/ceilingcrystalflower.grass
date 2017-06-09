@@ -1,0 +1,9 @@
+{
+  "name" : "ceilingcrystalflower",
+  "description" : "A crystal flower.",
+  "shortdescription" : "A crystal flower.",
+  "floranDescription" : "Ssshiny flower.",
+  "glitchDescription" : "Statement. A crystal flower.",
+  "ceiling" : true,
+  "images" : [ "ceilingcrystalflower1.png", "ceilingcrystalflower2.png", "ceilingcrystalflower3.png", "ceilingcrystalflower4.png", "ceilingcrystalflower5.png" ]
+}

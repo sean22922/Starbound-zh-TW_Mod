@@ -1,0 +1,185 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "body" : {
+        "priority" : 0,
+        "default" : "idle",
+        "states" : {
+          "wake" : {
+            "frames" : 6,
+            "cycle" : 0.5,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/monsters/kluextotem_wake2.ogg"
+            }
+          },
+          "sleep" : {
+            "frames" : 6,
+            "cycle" : 0.5,
+            "properties" : {
+              "immediateSound" : "/sfx/npc/monsters/kluextotem_sleep.ogg"
+            }
+          },
+          "idle" : {
+            "frames" : 16,
+            "cycle" : 1.0,
+            "mode" : "loop",
+            "properties" : {
+              "persistentSound" : "/sfx/npc/monsters/kluexsentry_fly_loop.ogg"
+            }
+          },
+          "fire" : {
+            "frames" : 22,
+            "cycle" : 0.7,
+            "mode" : "transition",
+            "transition" : "idle",
+            "properties" : {
+              "immediateSound" : "/sfx/npc/monsters/kluexsentry_windup2.ogg",
+              "persistentSound" : "/sfx/npc/monsters/kluexsentry_fly_loop.ogg"
+            }
+          }
+        }
+      },
+      "damage" : {
+        "priority" : 3,
+        "default" : "none",
+        "states" : {
+          "none" : {
+            "frames" : 1
+          },
+          "stunned" : {
+            "frames" : 1
+          }
+        }
+      }
+    },
+
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "transformationGroups" : [ "body" ],
+          "offset" : [0, 0.5],
+          "zLevel" : 1
+        },
+        "partStates" : {
+          "body" : {
+            "wake" : {
+              "properties" : {
+                "image" : "<partImage>:wake.<frame>"
+              }
+            },
+            "sleep" : {
+              "properties" : {
+                "image" : "<partImage>:sleep.<frame>"
+              }
+            },
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>"
+              }
+            }
+          },
+          "damage" : {
+            "stunned" : {
+              "properties" : {
+                "image" : "<partImage>:hurt.<frame>"
+              }
+            }
+          }
+        }
+      },
+      "bodylit" : {
+        "properties" : {
+          "transformationGroups" : [ "body" ],
+          "offset" : [0, 0.5],
+          "zLevel" : 2,
+          "fullbright" : true
+        },
+        "partStates" : {
+          "body" : {
+            "wake" : {
+              "properties" : {
+                "image" : "<partImage>:wake.<frame>"
+              }
+            },
+            "idle" : {
+              "properties" : {
+                "image" : "<partImage>:idle.<frame>"
+              }
+            },
+            "fire" : {
+              "properties" : {
+                "image" : "<partImage>:fire.<frame>"
+              }
+            }
+          },
+          "damage" : {
+            "stunned" : {
+              "properties" : {
+                "image" : "<partImage>:hurt.<frame>"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+
+  "transformationGroups" : {
+    "body" : { "interpolated" : true }
+  },
+
+  "effects" : {
+    "blink" : {
+      "type" : "flash",
+      "time" : 0,
+      "directives" : "fade=ffffff;0.5"
+    }
+  },
+
+  "particleEmitters" : {
+    "deathPoof" : {
+      "particles" : [
+        { "particle" : "monstersplosion" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathember" },
+        { "particle" : "deathfizz1left" },
+        { "particle" : "deathfizz1right" },
+        { "particle" : "deathfizz2left" },
+        { "particle" : "deathfizz2right" },
+        { "particle" : "deathfizz3left" },
+        { "particle" : "deathfizz3right" },
+        { "particle" : "deathfizz4left" },
+        { "particle" : "deathfizz4right" }
+      ]
+    }
+  },
+
+  "lights" : {
+    "glow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [80, 20, 20],
+      "pointLight" : true,
+      "anchorPart" : "body"
+    }
+  },
+
+  "sounds" : {
+    "aggroHop" : [ "/sfx/npc/monsters/monster_surprise.ogg" ],
+    "deathPuff" : [ "/sfx/npc/enemydeathpuff.ogg" ],
+    "fire" : [ "/sfx/melee/giantsword_charge_full.ogg" ]
+  }
+}

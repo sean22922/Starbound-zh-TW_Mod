@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 25 }
+  ],
+  "output" : { "item" : "modernplatform", "count" : 1 },
+  "groups" : [ "materials", "all" ]
+}

@@ -1,0 +1,13 @@
+{
+  "name" : "regenerationcollar1",
+  "blockingStat" : "healingStatusImmunity",
+
+  "effectConfig" : {
+    "healTime" : 120
+  },
+  "defaultDuration" : 5,
+
+  "scripts" : [
+    "regenerationaugment.lua"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name" : "comfort",
+  "states" : ["idle"],
+  "cycle" : 3.5,
+  "cyclic" : false,
+  "duration" : 3.5,
+  "steps" : [
+    // body, frontArm, backArm, headOffset, frontArmOffset, backArmOffset
+    [ "idle.3", "swimIdle.2", "idle.3", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.3", "swimIdle.1", "idle.3", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.3", "swim.2", "idle.3", [0, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.4", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [1, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, -1], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, -1], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, -1], [0, 0] ],
+    [ "idle.5", "swim.3", "idle.5", [1, 0], [0, -1], [0, 0] ],
+    [ "idle.5", "swim.4", "idle.5", [1, 0], [0, 0], [0, 0] ],
+    [ "idle.3", "swim.2", "idle.3", [0, 0], [0, 0], [0, 0] ]
+  ]
+}

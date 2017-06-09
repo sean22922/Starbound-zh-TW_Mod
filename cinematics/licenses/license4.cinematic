@@ -1,0 +1,152 @@
+{
+  "muteSfx" : false,
+  "muteMusic" : true,
+  "letterbox" : false,
+  "scissor" : false,
+  "panels" : [
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/black.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.01,
+          "zoom" : 500,
+          "alpha" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 0.3,
+          "zoom" : 500,
+          "alpha" : 0.80,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 6.0,
+          "zoom" : 500,
+          "alpha" : 0.80,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 6.4,
+          "zoom" : 500,
+          "alpha" : 0.0,
+          "position" : [480, 270]
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/screen2.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.01,
+          "zoom" : 0,
+          "alpha" : 0,
+          "position" : [360, 330]
+        },
+        {
+          "timecode" : 0.1,
+          "zoom" : 0,
+          "alpha" : 1,
+          "position" : [360, 330]
+        },
+        {
+          "timecode" : 0.6,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [479, 280]
+        },
+        {
+          "timecode" : 6,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [479, 280]
+        },
+        {
+          "timecode" : 6.4,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [479, 280]
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/licenses/license4.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.6,
+          "zoom" : 2,
+          "alpha" : 0,
+          "position" : [479, 280]
+        },
+        {
+          "timecode" : 1.1,
+          "zoom" : 2,
+          "alpha" : 1,
+          "position" : [479, 280]
+        },
+        {
+          "timecode" : 6,
+          "zoom" : 2,
+          "alpha" : 1,
+          "position" : [479, 280]
+        },
+        {
+          "timecode" : 6.4,
+          "zoom" : 0.5,
+          "alpha" : 0,
+          "position" : [479, 500]
+        }
+      ]
+    },
+   {
+      "drawables" : [
+        {
+          "image" : "/cinematics/obtained.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 0.01,
+          "zoom" : 1,
+          "alpha" : 0,
+          "position" : [480, 210]
+        },
+        {
+          "timecode" : 1.1,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 210]
+        },
+        {
+          "timecode" : 5,
+          "zoom" : 1,
+          "alpha" : 1,
+          "position" : [480, 210]
+        },
+        {
+          "timecode" : 6,
+          "zoom" : 1,
+          "alpha" : 0.0,
+          "position" : [480, 210]
+        }
+      ]
+    }
+  ],
+  "audio" : [
+    {
+      "timecode" : 0.65,
+      "resource" : "/sfx/cinematics/license_acquired_event_shortened.ogg"
+    }
+  ]
+}

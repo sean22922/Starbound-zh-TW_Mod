@@ -1,0 +1,22 @@
+{
+  "projectileName" : "blueglobe",
+  "physics" : "hover",
+  "bounces" : 0,
+  "speed" : 30,
+  "timeToLive" : 10,
+  "damageKindImage" : "icon.png",
+  "lightColor" : [40, 80, 180],
+  "image" : "blueglobe.png",
+  "animationCycle" : 1.0,
+  "frameNumber" : 2,
+  "power" : 2,
+  "damagePoly" : [ [-5, 5], [-5, -5], [5, -5], [5, 5] ],
+  "supportsProcessing" : true,
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/globeexplosions/blueglobeexplosion/blueglobeexplosion.config"
+    }
+  ],
+  "damageKind" : "plasma"
+}

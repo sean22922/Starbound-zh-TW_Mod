@@ -1,0 +1,9 @@
+{
+  "name" : "blue",
+  "category" : "petsnake",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "blue.png"
+  }
+}

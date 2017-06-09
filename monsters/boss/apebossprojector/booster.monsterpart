@@ -1,0 +1,9 @@
+{
+  "name" : "apebossprojectorbooster",
+  "category" : "apebossprojector",
+  "type" : "booster",
+
+  "frames" : {
+    "booster" : "booster.png"
+  }
+}

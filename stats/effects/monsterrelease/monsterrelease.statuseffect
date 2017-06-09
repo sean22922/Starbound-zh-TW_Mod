@@ -1,0 +1,15 @@
+{
+  "name" : "monsterrelease",
+  "effectConfig" : {
+    "invisibilityDuration" : 0.2,
+    "fadeMax" : 0.8,
+    "fadeColor" : "ff0000"
+  },
+  "defaultDuration" : 0.5,
+
+  "animationConfig" : "monsterrelease.animation",
+
+  "scripts" : [
+    "monsterrelease.lua"
+  ]
+}

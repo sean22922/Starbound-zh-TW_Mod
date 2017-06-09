@@ -1,0 +1,23 @@
+{
+  "id" : "lunarmission1",
+  "species" : "human",
+  "title" : "The Erchius Horror",
+  "description" : "The diary of a Letheia employed miner trapped with the Horror.",
+  "icon" : "lunarmission1.png",
+  "contentPages" : [
+    "We are calling it the Erchius Horror. We have been trapped down here with it since the facility went into lockdown, and believe me, 'Horror' describes its nature perfectly.
+
+We found it in a deep vein of Erchius crystal, and upon uncovering the thing it awoke. At first we thought it was a sentient crystal, but a desperate attack with a mining laser cannon uncovered a single, unblinking eye within.",
+
+"It fired streams of searing plasma at us, destroying most of our equipment. Attacking up close was impossible, those who got too near were drawn inside it, transformed into mutant servants for the monster. We fled, and the mutants followed.
+
+The laser cannon was left intact. Perhaps a braver soul could go back and use it to destroy the creature. They would have to be agile enough to dodge its beams, and strong enough to defeat its corrupted lackeys. I just don't have the fight in me anymore.",
+
+"A disturbing thought occurs - This thing COULD be a parasite, but who is to say creatures like this aren't instead the source of the crystals? We may never know for sure, but I hope for everyone's sake that this plague never leaves this doomed moon."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

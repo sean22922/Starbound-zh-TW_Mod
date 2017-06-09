@@ -1,0 +1,17 @@
+{
+  "id" : "hylotlhistory2",
+  "species" : "hylotl",
+  "title" : "The Pledge of the Scholar",
+  "description" : "An oath taken by Hylotl scholars.",
+  "icon" : "hylotlcover3.png",
+  "contentPages" : [
+    "As scholars, we abide by this covenant: to garner knowledge and shoulder its weight. To study what has passed in order to remember. To act as wardens, and as stewards.
+
+This is our solemn oath, that we will not transgress; for knowledge is truth, and truth is enlightenment."
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

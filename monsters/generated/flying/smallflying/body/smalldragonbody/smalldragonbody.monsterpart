@@ -1,0 +1,9 @@
+{
+  "name" : "smalldragonbody",
+  "category" : "smallflying",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "smalldragonbody.png"
+  }
+}

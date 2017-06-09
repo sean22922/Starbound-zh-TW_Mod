@@ -1,0 +1,12 @@
+{
+  "name" : "castphysical",
+
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "castphysical.lua"
+  ],
+
+  "animationConfig" : "castphysical.animation"
+}

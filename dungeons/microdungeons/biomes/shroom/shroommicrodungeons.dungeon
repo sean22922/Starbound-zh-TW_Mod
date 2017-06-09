@@ -1,0 +1,145 @@
+{
+  "metadata" : {
+    "name" : "shroommicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "shroombridge1", "shroombridge2", "shroombridge3", "shroomhouse1", "shroomhouse2", "shroomhouse3", "shroomhouse4", "shroomhouse5", "shroomhouse6", "shroomhouse7", "shroomhouse8", "shroomhouse9", "shroomhouse10", "shroomhouse11", "shroomhouse12", "shroomhouse13", "shroomhouse14", "shroomhouse15" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "shroombridge1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroombridge1.json" ]
+    },
+    {
+      "name" : "shroombridge2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroombridge2.json" ]
+    },
+    {
+      "name" : "shroombridge3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroombridge3.json" ]
+    },
+    {
+      "name" : "shroomhouse1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse1.json" ]
+    },
+    {
+      "name" : "shroomhouse2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse2.json" ]
+    },
+    {
+      "name" : "shroomhouse3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse3.json" ]
+    },
+    {
+      "name" : "shroomhouse4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse4.json" ]
+    },
+    {
+      "name" : "shroomhouse5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse5.json" ]
+    },
+    {
+      "name" : "shroomhouse6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse6.json" ]
+    },
+    {
+      "name" : "shroomhouse7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse7.json" ]
+    },
+    {
+      "name" : "shroomhouse8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse8.json" ]
+    },
+    {
+      "name" : "shroomhouse9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse9.json" ]
+    },
+    {
+      "name" : "shroomhouse10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse10.json" ]
+    },
+    {
+      "name" : "shroomhouse11",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse11.json" ]
+    },
+    {
+      "name" : "shroomhouse12",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse12.json" ]
+    },
+    {
+      "name" : "shroomhouse13",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse13.json" ]
+    },
+    {
+      "name" : "shroomhouse14",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse14.json" ]
+    },
+    {
+      "name" : "shroomhouse15",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "shroomhouse15.json" ]
+    }
+
+  ]
+}

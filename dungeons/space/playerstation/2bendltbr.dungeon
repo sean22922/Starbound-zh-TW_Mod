@@ -1,0 +1,24 @@
+{
+  "metadata" : {
+    "name" : "playerstation-2bendltbr",
+    "species" : "apex",
+    "rules" : [
+    ],
+    "anchor" : [ "2bendltbr" ],
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 1,
+    "protected" : true
+  },
+
+  "parts" : [
+    {
+      "name" : "2bendltbr",
+      "clearAnchoredObjects" : false,
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "2bendltbr.json" ]
+    }
+  ]
+}

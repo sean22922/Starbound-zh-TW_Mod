@@ -1,0 +1,16 @@
+{
+  "projectileName" : "flyswarm",
+  "image" : "flyswarm.png",
+  "physics" : "flame",
+  "animationCycle" : 1,
+  "damageKindImage" : "icon.png",
+  "frameNumber" : 18,
+  "power" : 50,
+  "speed" : 25,
+  "timeToLive" : 1,
+  "bounces" : 4,
+  "piercing" : false,
+  "damagePoly" : [ [-9, 0], [-6, -6], [0, -9], [6, -6], [9, 0], [6, 6], [0, 9], [-6, 6] ],
+  "damageKind" : "default"
+}
+

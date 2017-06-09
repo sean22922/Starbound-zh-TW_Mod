@@ -1,0 +1,15 @@
+{
+  "projectileName" : "shuriken",
+  "image" : "shuriken.png",
+  "physics" : "hover",
+  "animationCycle" : 0.1,
+  "frameNumber" : 4,
+  "power" : 20,
+  "damageKindImage" : "icon.png",
+  "speed" : 30,
+  "timeToLive" : 5,
+
+
+  "lightColor" : [255, 180, 0],
+  "damageKind" : "default"
+}

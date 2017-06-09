@@ -1,0 +1,14 @@
+{
+  "name" : "ufoTeleportAttack",
+  "label" : "TELEPORT",
+  "image" : "/monsters/generated/ground/skills/icon.png",
+
+  "parameters" : {
+    "scripts" : [ "/monsters/boss/penguinUfo/skills/ufoTeleportAttack.lua" ],
+
+    "ufoTeleportAttack" : {
+      "cooldownTime" : 10,
+      "skillTime" : 2
+    }
+  }
+}

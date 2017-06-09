@@ -1,0 +1,21 @@
+{
+  "projectileName" : "flakbullet",
+  "image" : "flakbullet.png",
+  "physics" : "bullet",
+  "animationCycle" : 0.25,
+  "frameNumber" : 1,
+  "damageKind" : "standardbullet",
+  "fullbright" : false,
+  "flippable" : true,
+  "emitters" : [ "fireplasma" ],
+  "actionOnReap" : [
+    {
+      "action" : "config",
+      "file" : "/projectiles/explosions/heavybulletexplosion/heavybulletexplosion.config"
+    }
+  ],
+  "statusEffects" : [ ],
+  "power" : 5.0,
+  "speed" : 70,
+  "knockback" : 15
+}

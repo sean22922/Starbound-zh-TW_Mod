@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "geode", "count" : 20 }
+  ],
+  "output" : { "item" : "geodednote", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

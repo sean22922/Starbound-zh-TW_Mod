@@ -1,0 +1,16 @@
+{
+  "name" : "smallrhinolegs",
+  "category" : "smallquadruped",
+  "type" : "legs",
+
+  "frames" : {
+    "frontLegs" : "smallrhinoflegs.png",
+    "backLegs" : "smallrhinoblegs.png"
+  },
+
+  "parameters" : {
+    "walkMultiplier" : 0.8,
+    "runMultiplier" : 1.5,
+    "jumpMultiplier" : 1.0
+  }
+}

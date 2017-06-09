@@ -1,0 +1,13 @@
+{
+  "name" : "largecauldronhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largecauldronhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

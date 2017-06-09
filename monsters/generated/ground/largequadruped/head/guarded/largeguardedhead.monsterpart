@@ -1,0 +1,15 @@
+{
+  "name" : "largeguardedhead",
+  "category" : "largequadruped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largeguardedhead.png"
+  },
+
+  "parameters" :
+  {
+    "meleeProjectile" : "meleebutt",
+    "projectileSourcePosition" : [1, 0.5]
+  }
+}

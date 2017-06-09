@@ -1,0 +1,28 @@
+{
+  "name" : "craftallarmors",
+
+  "triggers" : [
+    "itemSet.category.legarmour",
+    "itemSet.category.chestarmour",
+    "itemSet.category.headarmour"
+  ],
+  "scripts" : [ "/achievements/achievement.lua" ],
+
+  "stats" : [
+    {
+      "name" : "itemSet.category.legarmour",
+      "op" : "sizeAtLeast",
+      "value" : 70
+    },
+    {
+      "name" : "itemSet.category.chestarmour",
+      "op" : "sizeAtLeast",
+      "value" : 70
+    },
+    {
+      "name" : "itemSet.category.headarmour",
+      "op" : "sizeAtLeast",
+      "value" : 70
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type" : "cultistlowerdashposition",
+
+  "scripts" : [
+  ],
+
+  "broadcastArea" : [-1, -1, 1, 1]
+}

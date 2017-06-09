@@ -1,0 +1,28 @@
+{
+  "id" : "apexmission4",
+  "species" : "apex",
+  "title" : "Contents Page",
+  "description" : "A torn page belonging to a crucial Miniknog document.",
+  "icon" : "apexmission2.png",
+  "contentPages" : [
+    "Budget Allocation Proposal
+
+1 Overview
+1.1 Civil Review and Security
+1.2 Research and Development
+
+2 Societal Unity
+2.1 Re-education
+2.2 Broadcasting Big Ape
+
+3 Suppressing the Rebels
+3.1 Identifying Insurgents
+3.2 Military Action
+3.3 Retribution"
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

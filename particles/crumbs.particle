@@ -1,0 +1,17 @@
+{
+  "kind" : "crumbs",
+  "definition" : {
+    "type" : "ember",
+    "size" : 1.0,
+    "color" : [212, 170, 129, 255],
+    "fade" : 0.9,
+    "initialVelocity" : [0.0, -5.0],
+    "finalVelocity" : [0.0, -35.0],
+    "approach" : [0, 20],
+    "timeToLive" : 0.3,
+    "layer" : "middle",
+    "variance" : {
+      "initialVelocity" : [3.0, 3.0]
+    }
+  }
+}

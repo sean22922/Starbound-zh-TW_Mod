@@ -1,0 +1,13 @@
+{
+  "name" : "largesunhead",
+  "category" : "largebiped",
+  "type" : "head",
+
+  "frames" : {
+    "head" : "largesunhead.png"
+  },
+
+  "parameters" :
+  {
+  }
+}

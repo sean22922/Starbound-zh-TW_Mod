@@ -1,0 +1,29 @@
+{
+  "name" : "eyebush",
+  "description" : "A horrifying eyeball.",
+  "shortdescription" : "A horrifying eyeball.",
+  "floranDescription" : "Ssstaring.",
+  "glitchDescription" : "Revulsion. A horrifying eyeball.",
+  "shapes" : [
+    {
+      "base" : "eyebush1.png"
+    },
+
+    {
+      "base" : "eyebush2.png"
+    },
+
+    {
+      "base" : "eyebush3.png"
+    },
+
+    {
+      "base" : "eyebush4.png"
+    },
+
+    {
+      "base" : "eyebush5.png"
+    }
+
+  ]
+}

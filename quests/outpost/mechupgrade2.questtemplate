@@ -1,0 +1,54 @@
+{
+  "id" : "mechupgrade2",
+  "prerequisites" : [ "penguin2", "mechupgrade1" ],
+  "title" : "^orange;Advanced Test Drive",
+  "text" : "I have a design for a new ^green;mech body^white; that fits you perfectly! I've also been making a more advanced test course in an asteroid field that, of course, needs a trial run. If you can ^green;get through the ^orange;advanced test course^green; with your own mech^white;, I can give you the blueprint. It's a win-win scenario, right?",
+  "completionText" : "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;. Thanks again - it sure is helpful having a lab assistant!",
+  "moneyRange" : [1000, 1000],
+  "rewards" : [],
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/instance.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "questStarted" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      },
+      "questComplete" : {
+        "portrait" : [ {"image" : "/quests/outpost/penguinscientistportrait.png"} ],
+        "title" : "Dr. Akaggy"
+      }
+    },
+
+    "descriptions" : {
+      "enterInstance" : "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange; advanced test course^reset;",
+      "findGoal" : "Complete the ^orange;advanced mech test course^reset;",
+      "turnIn" : "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;"
+    },
+
+    "warpEntityUid" : "outpostpenguinscientist",
+    "warpAction" : ["instanceworld:mechtestadvanced", "deploy", true],
+    "warpDialog" : "/interface/confirmation/teleportconfirmation.config:mechupgrade2",
+
+    "goalTrigger" : "proximity",
+    "proximityRange" : 10,
+    "goalEntityUid" : "mechtestadvancedteleporter",
+    "indicateGoal" : false,
+    "trackGoalEntity" : false,
+
+    "turnInEntityUid" : "outpostpenguinscientist",
+
+    // Completion actions
+    "giveSpeciesBlueprints" : {
+      "default" : ["mechbodyhuman"],
+      "human" : ["mechbodyhuman"],
+      "hylotl" : ["mechbodyhylotl"],
+      "novakid" : ["mechbodynovakid"],
+      "floran" : ["mechbodyfloran"],
+      "glitch" : ["mechbodyglitch"],
+      "apex" : ["mechbodyapex"],
+      "avian" : ["mechbodyavian"]
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "metadata" : {
+    "name" : "eyepatchmicrodungeons",
+    "species" : "generic",
+    "rules" : [
+    ],
+
+    "anchor" : [ "eyecave1", "eyearch1", "eyearch2", "eyeterrain1", "eyeterrain2", "eyeterrain3", "eyeterrain4", "eyeterrain5", "eyeterrain6", "eyeterrain7", "eyeterrain8", "eyeterrain9", "eyeterrain10", "guardtower1", "guardtower2", "guardtower3", "cliffleft", "cliffright", "researchlab1" ],
+
+    "gravity" : 80,
+    "maxRadius" : 1000000,
+    "maxParts" : 100,
+    "protected" : false
+  },
+
+  "parts" : [
+    {
+      "name" : "eyecave1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyecave1.json" ]
+    },
+    {
+      "name" : "eyearch1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyearch1.json" ]
+    },
+    {
+      "name" : "eyearch2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyearch2.json" ]
+    },
+    {
+      "name" : "eyeterrain1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain1.json" ]
+    },
+    {
+      "name" : "eyeterrain2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain2.json" ]
+    },
+    {
+      "name" : "eyeterrain3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain3.json" ]
+    },
+    {
+      "name" : "eyeterrain4",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain4.json" ]
+    },
+    {
+      "name" : "eyeterrain5",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain5.json" ]
+    },
+    {
+      "name" : "eyeterrain6",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain6.json" ]
+    },
+    {
+      "name" : "eyeterrain7",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain7.json" ]
+    },
+    {
+      "name" : "eyeterrain8",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain8.json" ]
+    },
+    {
+      "name" : "eyeterrain9",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain9.json" ]
+    },
+    {
+      "name" : "eyeterrain10",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "eyeterrain10.json" ]
+    },
+    {
+      "name" : "guardtower1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "guardtower1.json" ]
+    },
+    {
+      "name" : "guardtower2",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "guardtower2.json" ]
+    },
+    {
+      "name" : "guardtower3",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "guardtower3.json" ]
+    },
+    {
+      "name" : "cliffleft",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffleft.json" ]
+    },
+    {
+      "name" : "cliffright",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "cliffright.json" ]
+    },
+    {
+      "name" : "researchlab1",
+      "rules" : [
+        [ "maxSpawnCount", [1] ]
+      ],
+      "def" : [ "tmx", "researchlab1.json" ]
+    }
+  ]
+}

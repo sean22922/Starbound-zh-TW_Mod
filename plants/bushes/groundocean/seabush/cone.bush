@@ -1,0 +1,24 @@
+{
+  "name" : "cone",
+  "description" : "Cone bush.",
+  "shortdescription" : "Cone bush.",
+  "floranDescription" : "Ssslimy weeds.",
+  "glitchDescription" : "Statement. Sea bush.",
+  "shapes" : [
+    {
+      "base" : "cone1.png"
+    },
+    {
+      "base" : "cone2.png"
+    },
+    {
+      "base" : "cone3.png"
+    },
+    {
+      "base" : "cone4.png"
+    },
+    {
+      "base" : "cone5.png"
+    }
+  ]
+}
