@@ -1,0 +1,405 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/human/0",
+  "value" : "Hello there, fellow earthling! Wait, too soon?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/1",
+  "value" : "You aren't ex-USCM, are you? No? Phew."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/2",
+  "value" : "Working on a ship can be a tough career, but it did mean I wasn't on Earth when... It happened."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/3",
+  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/4",
+  "value" : "Do you have your own ship? That's pretty cool!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/5",
+  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/6",
+  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/human/7",
+  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "Do you come in peace?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "Do you have your own ship? That's pretty cool!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/4",
+  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/5",
+  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/0",
+  "value" : "Greetings, fellow Apex! I hope you have also escaped the gaze of the Miniknog."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/1",
+  "value" : "You aren't an undercover Miniknog inspector, are you?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/2",
+  "value" : "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/3",
+  "value" : "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/4",
+  "value" : "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/apex/5",
+  "value" : "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/0",
+  "value" : "Are you a member of the Terrene Protectorate? We used to deliver shipments for them, until... Recently."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/1",
+  "value" : "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/2",
+  "value" : "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/3",
+  "value" : "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down."
+}, {
+  "op" : "replace",
+  "path" : "/converse/apex/default/4",
+  "value" : "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/0",
+  "value" : "It is always calming to see a friendly, three-eyed face. Make yourself at home."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/1",
+  "value" : "I will always be welcoming to one of my own kind."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/2",
+  "value" : "Maintaining the integrity of the hull is an important priority aboard this ship."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/3",
+  "value" : "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/4",
+  "value" : "When you fly your ship out into the great unknown... There is no feeling like it, is there?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/5",
+  "value" : "Alone among stars.\nIn a sea of endless night.\nTogether we sail."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/hylotl/6",
+  "value" : "What do you think waits for us, out there in the stars?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/0",
+  "value" : "Maintaining the integrity of the hull is an important priority aboard this ship."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/1",
+  "value" : "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/2",
+  "value" : "When you fly your ship out into the great unknown... There is no feeling like it, is there?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/3",
+  "value" : "Alone among stars.\nIn a sea of endless night.\nTogether we sail."
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/4",
+  "value" : "What do you think waits for us, out there in the stars?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/hylotl/default/4",
+  "value" : "What do you think waits for us, out there in the stars?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/0",
+  "value" : "Another Floran friend for Floran! Ssspace gets lonely, Floran should ssstay!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/1",
+  "value" : "Floran likesss new Floransss!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/2",
+  "value" : "Floran hasss steady job on ship! Floran jussst has to not eat anyone."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/3",
+  "value" : "Floran secretly afraid of heights. Ship isss ssscary."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/4",
+  "value" : "Floran doesssn't get to hunt much in ssspace. Sssad."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/5",
+  "value" : "Did you come jussst to say hi to Floran?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/floran/6",
+  "value" : "Floran not made for ssspace travel. Floran always feeling sssick."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/0",
+  "value" : "Floran hasss steady job on ship! Floran jussst has to not eat anyone."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/1",
+  "value" : "Floran secretly afraid of heights. Ship isss ssscary."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/2",
+  "value" : "Floran doesssn't get to hunt much in ssspace. Sssad."
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/3",
+  "value" : "Did you come jussst to say hi to Floran?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/floran/default/4",
+  "value" : "Floran not made for ssspace travel. Floran always feeling sssick."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/0",
+  "value" : "Surprised. A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/1",
+  "value" : "Welcoming. Visitors here are rare, and fellow Glitch visitors are even rarer!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/2",
+  "value" : "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/3",
+  "value" : "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/4",
+  "value" : "Exhausted. I think I frayed a few wires after moving heavy cargo around..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/glitch/5",
+  "value" : "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/0",
+  "value" : "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/1",
+  "value" : "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of chess!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/2",
+  "value" : "Exhausted. I think I frayed a few wires after moving heavy cargo around..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/3",
+  "value" : "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/glitch/default/4",
+  "value" : "Eager. We don't get visitors often! Are you staying for long?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/0",
+  "value" : "A fellow Avian! Hopefully the influence of the Stargazers does not spread this far..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/1",
+  "value" : "Hello, my equally-feathered friend!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/2",
+  "value" : "Welcome to our humble spacefaring vessel!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/3",
+  "value" : "Welcome, stranger! How kind of you to visit."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/4",
+  "value" : "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/5",
+  "value" : "My name is <selfname>. Are you visiting us for long?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/avian/6",
+  "value" : "A visitor? I hope you've been screened for space parasites."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/0",
+  "value" : "Welcome to our humble spacefaring vessel!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/1",
+  "value" : "Welcome, stranger! How kind of you to visit."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/2",
+  "value" : "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain."
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/3",
+  "value" : "My name is <selfname>. Are you visiting us for long?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/avian/default/4",
+  "value" : "A visitor? I hope you've been screened for space parasites."
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/0",
+  "value" : "Hey, another shinin' face! Do you get them strange dreams about the stars as well, stranger?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/1",
+  "value" : "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/2",
+  "value" : "Welcome to our ol' rust bucket of a ship!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/3",
+  "value" : "You here for a bit o' tradin', or just comin' to see what all the fuss is about?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/4",
+  "value" : "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance."
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/5",
+  "value" : "Gettin' closer to the stars makes me sleep better. No idea why, though..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/novakid/6",
+  "value" : "You ever get the feelin' you were meant for somethin' bigger?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/0",
+  "value" : "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/1",
+  "value" : "Welcome to our ol' rust bucket of a ship!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/2",
+  "value" : "You here for a bit o' tradin', or just comin' to see what all the fuss is about?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/3",
+  "value" : "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance."
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/4",
+  "value" : "Gettin' closer to the stars makes me sleep better. No idea why, though..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/novakid/default/5",
+  "value" : "You ever get the feelin' you were meant for somethin' bigger?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/0",
+  "value" : "Hey there, fella! How do you like our ship?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/1",
+  "value" : "Well it's a lucky thing here that you fit on our ship, huh?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/2",
+  "value" : "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/3",
+  "value" : "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/4",
+  "value" : "You got that look in your eye like you're about to loot all our crates. Don't worry pal, I won't snitch."
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/5",
+  "value" : "You lookin' for friends? Nah, the glint in your eye says you're just here for some loot."
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/6",
+  "value" : "Hey, how'd you even fly out here? You got one of them space mechs?"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/7",
+  "value" : "Don't bump your head on the ceiling, pal!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/8",
+  "value" : "I got some pals lookin' for mercenary work. You should get yourself some dubloons!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/9",
+  "value" : "You come here in a mech? I think we have some mech part blueprints on this ship, now I think about it..."
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/10",
+  "value" : "What's with all those angry asteroid lookin' things flyin' around? Things sure ain't how they used to be."
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/11",
+  "value" : "Don't think just 'cause you're taller than me that you got the drop on me!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/12",
+  "value" : "They call me <selfname>. The name runs in the family."
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/13",
+  "value" : "Bein' part of the crew of a cargo ship means there's a lot of liftin' to do. My flippers are tired already!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/penguin/default/14",
+  "value" : "Hey there, ol' buddy ol' pal! ...We haven't met before, have we?"
+} ]
