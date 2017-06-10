@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/converse/default/default/0",
+  "value" : "I must hone my fighting skills every week... No, every DAY!"
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/1",
+  "value" : "I must philosophise twice a day about the true nature of battle. It's the best way to stay strong."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/2",
+  "value" : "I cannot sleep if I know there is injustice occuring somewhere in the universe. I... Never sleep."
+}, {
+  "op" : "replace",
+  "path" : "/converse/default/default/3",
+  "value" : "A warrior is no warrior at all without a memorable battle cry. Always remember this."
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/0",
+  "value" : "This is... A REMATCH!"
+}, {
+  "op" : "replace",
+  "path" : "/reattack/default/default/1",
+  "value" : "This time, our duel shall not... BE DELAYED!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/0",
+  "value" : "BATTLE... BREAK! FOR GREAT JUSTICE!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/1",
+  "value" : "Let's fight together... FOR JUSTICE!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/2",
+  "value" : "With our power combined, no force can stop us!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/3",
+  "value" : "Imperial STRENGTH!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/4",
+  "value" : "You shall be BANISHED! POWER OF THE JUSTICE BLADE!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/5",
+  "value" : "BATTLE CRY!"
+}, {
+  "op" : "replace",
+  "path" : "/attack/default/default/6",
+  "value" : "INFINITE BLADE BREAK!"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/0",
+  "value" : "You cannot defeat the true heart of justice!"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/1",
+  "value" : "Friendshiip prevails once more!"
+}, {
+  "op" : "replace",
+  "path" : "/killedTarget/default/default/2",
+  "value" : "Justice and friendships are forces, like gravity! You can't defeat them, OR gravity!"
+} ]
