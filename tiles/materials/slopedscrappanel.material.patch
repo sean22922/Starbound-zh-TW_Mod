@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Rusted scrap metal paneling in a state of severe disrepair."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Worried. This metal surface looks very jagged and rusty."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Metal sssso russty, Floran wouldn't even ussse it."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This metal panel is just a buncha rusted scrap."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Scrap Panel"
+} ]

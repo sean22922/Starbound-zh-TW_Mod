@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Sturdy metal panelling that has been rusted with age."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Eager. I am sure with some elbow grease, this metal panelling could be cleared up."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran wantsss to make ssspears out of rusty metal."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Some 'ol metal panels covered in rust."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Rusty Panel"
+} ]
