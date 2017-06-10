@@ -20,6 +20,10 @@
   "value" : "傳送下去"
 }, {
   "op" : "replace",
+  "path" : "/cursorTooltip/deployText",
+  "value" : "佈署機甲"
+}, {
+  "op" : "replace",
   "path" : "/cursorTooltip/disabledText",
   "value" : "停用"
 }, {
