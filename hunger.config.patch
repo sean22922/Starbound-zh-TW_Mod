@@ -1,0 +1,73 @@
+[ {
+  "op" : "replace",
+  "path" : "/1/up/0",
+  "value" : "這是個玩笑嗎？"
+}, {
+  "op" : "replace",
+  "path" : "/1/down/0",
+  "value" : "再見了殘酷的世界"
+}, {
+  "op" : "replace",
+  "path" : "/5/up/0",
+  "value" : "要是在不來一些的話我就要死了"
+}, {
+  "op" : "replace",
+  "path" : "/5/down/0",
+  "value" : "我看到一盞燈……"
+}, {
+  "op" : "replace",
+  "path" : "/10/up/0",
+  "value" : "還要，還要，我還要！"
+}, {
+  "op" : "replace",
+  "path" : "/10/down/0",
+  "value" : "我受不了了"
+}, {
+  "op" : "replace",
+  "path" : "/15/up/0",
+  "value" : "一定要找到更多食物！"
+}, {
+  "op" : "replace",
+  "path" : "/15/down/0",
+  "value" : "我沒法堅持那麼久！"
+}, {
+  "op" : "replace",
+  "path" : "/25/up/0",
+  "value" : "我需要更多！"
+}, {
+  "op" : "replace",
+  "path" : "/25/down/0",
+  "value" : "好餓……"
+}, {
+  "op" : "replace",
+  "path" : "/50/up/0",
+  "value" : "我還是很餓"
+}, {
+  "op" : "replace",
+  "path" : "/50/down/0",
+  "value" : "非常餓"
+}, {
+  "op" : "replace",
+  "path" : "/75/up/0",
+  "value" : "有點好轉"
+}, {
+  "op" : "replace",
+  "path" : "/75/down/0",
+  "value" : "有點餓"
+}, {
+  "op" : "replace",
+  "path" : "/99/up/0",
+  "value" : "唔…我飽了！"
+}, {
+  "op" : "replace",
+  "path" : "/99/down/0",
+  "value" : "嗯…我飽了！"
+}, {
+  "op" : "replace",
+  "path" : "/100/up/0",
+  "value" : "呃…我飽了！"
+}, {
+  "op" : "replace",
+  "path" : "/100/down/0",
+  "value" : "嗝…我飽了！"
+} ]

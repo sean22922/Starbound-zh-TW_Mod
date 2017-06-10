@@ -1,0 +1,266 @@
+[ {
+  "op" : "replace",
+  "path" : "/basicHelpText",
+  "value" : "基礎命令：%s"
+}, {
+  "op" : "replace",
+  "path" : "/adminHelpText",
+  "value" : "管理員命令：%s"
+}, {
+  "op" : "replace",
+  "path" : "/debugHelpText",
+  "value" : "除錯命令：%s"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/help",
+  "value" : "使用 /help。查看詳細的說明文件"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/admin",
+  "value" : "使用 /admin。啟用或者關閉管理模式，這將解鎖所有合成配方，不會損失生命和能量，並可以使用僅限管理使用的命令"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/reload",
+  "value" : "使用 /reload。重新載入本地客戶端assets文件。當其重新解析的時候可能會有延遲"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/whoami",
+  "value" : "使用 /whoami。顯示你的本機使用者名稱和權限狀態"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/serverwhoami",
+  "value" : "使用 /serverwhoami。顯示你的伺服器使用者名稱和權限狀態"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/whereami",
+  "value" : "使用 /whereami。顯示自己目前位置的座標"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/pvp",
+  "value" : "使用 /pvp。切換是否可PVP(玩家互相攻擊)"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/played",
+  "value" : "使用 /played。顯示目前角色總遊玩時間"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/deaths",
+  "value" : "使用 /deaths。顯示目前角色總死亡次數"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/suicide",
+  "value" : "使用 /suicide。自殺並受到該難度的死亡懲罰(包括永久死亡！)。起碼可以用來當作卡住的最後手段"
+}, {
+  "op" : "replace",
+  "path" : "/basicCommands/naked",
+  "value" : "使用 /naked。移除全部裝備。Useful in macros to give a character new gear replacing the existing gear, or you know, for fun"
+},
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/warp",
+  "value" : "Usage /warp warpAction. Warps player to a world and/or position. Valid warp action formats include: OwnShip, OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (current world). Most warp actions can have =xcoordinate.ycoordinate added to specify a position within that world."
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/timewarp",
+  "value" : "使用 /timewarp 秒數。讓時間前進幾秒"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/settileprotection",
+  "value" : "使用 /settileprotection 地圖編號 是否保護(true|false)。設定是否保護特定地圖編號的像素"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/setspawnpoint",
+  "value" : "使用 /setspawnpoint。設定目前世界的預設重生點到玩家位置"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnitem",
+  "value" : "使用 /spawnitem 道具名稱 [數量] [JSON參數]。在鼠標指處產生指定的道具。若道具不存在則會產生普通物品。數量預設為1。JSON參數應用單引號括起來"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawntreasure",
+  "value" : "使用 /spawntreasure 獎池名 [等級]。在鼠標指處產生特定獎池內的亂數物品。等級預設為1"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnmonster",
+  "value" : "使用 /spawnmonster 類型 [等級] [JSON參數]。在鼠標指處產生指定類型的怪物。等級預設為1。JSON參數應用單引號括起來"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnnpc",
+  "value" : "使用 /spawnnpc 種族 類型 [等級] [亂數種子] [JSON參數]。在鼠標指處產生一個指定種族和類型的NPC。等級預設為1。JSON參數應用單引號括起來"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnvehicle",
+  "value" : "使用 /spawnvehicle 類型 [JSON參數]。Spawn a vehicle of the specified 類型 at the mouse cursor。JSON參數應用單引號括起來"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnstagehand",
+  "value" : "使用 /spawnstagehand 類型 [JSON參數]。在鼠標指處產生一個指定類型的stagehand物件。JSON參數應用單引號括起來"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/clearstagehand",
+  "value" : "使用 /clearstagehand。Despawns any stagehands with positions close to the current cursor position"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/spawnliquid",
+  "value" : "使用 /spawnliquid 液體名稱 [數量]。Spawn a quantity of the specified liquid at the mouse cursor。Quantity defaults to 1"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/kick",
+  "value" : "使用 /kick 特定使用者 [原因]。踢出特定玩家並告知原因。若不指定原因會使用玩家的暱稱"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/ban",
+  "value" : "使用 /ban 特定使用者 [原因] [both|uuid|ip] [秒數]。踢出並封鎖特定玩家並告知原因。若不指定原因會使用玩家的暱稱。秒數預設為永久，若指定暫時封鎖秒數，當伺服器重啟會取消封鎖"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/unbanip",
+  "value" : "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists."
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/unbanuuiud",
+  "value" : "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists." 
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/list",
+  "value" : "使用 /list。列出連到伺服器的全部用戶。Format is $clientId : serverNickname : $$playerUuid。If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/whereis",
+  "value" : "使用 /whereis 特定使用者。顯示特定使用者位置的座標"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/serverreload",
+  "value" : "使用 /serverreload 重新載入伺服器端的assets文件。當其重新解析的時候可能會有延遲"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/enablespawning",
+  "value" : "使用 /enablespawning。開啟目前世界的怪物重生"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/disablespawning",
+  "value" : "使用 /disablespawning。關閉目前世界的怪物重生"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/placedungeon",
+  "value" : "使用 /placedungeon 地圖名稱 [座標x,y]。Place the given dungeon into the world anchored at the specified position or the player's cursor position。Positions should be specified as x,y。Ignores anchoring rules"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/setuniverseflag",
+  "value" : "使用 /setuniverseflag 旗標名稱。設定目前旗標。triggering any associated world changes"
+}, {
+  "op" : "replace",
+  "path" : "/adminCommands/resetuniverseflags",
+  "value" : "使用 /resetuniverseflags。清除全部旗標。but doesn't directly revert any effects triggered by those flags"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/debug",
+  "value" : "使用 /debug。開啟偵錯模式"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/gravity",
+  "value" : "使用 /gravity。在主角位置顯示重力"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/boxes",
+  "value" : "使用 /boxes。若偵錯模式開啟，切換顯示碰撞偵測多邊形"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/clearboxes",
+  "value" : "使用 /clearboxes。切換是否每幀清除/boxes指令效果。對找出敵人行走路徑有幫助，但畫面看起來很亂"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/togglelayer",
+  "value" : "使用 /togglelayer 圖層編號。切換指定圖層顯示與否。從1~21圖層編號為：Sky, Parallax, Background, Platforms, Plant, PlantDrop, Object, CursorHintedObject, ParticlesBottom, Effect, Projectile, NPC, Player, ItemDrop, Water, ParticlesMiddle, Foreground, ParticlesTop, Nametag, InfoBars"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/fullbright",
+  "value" : "使用 /fullbright。關閉光線引擎(顯示所有東西)"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/fixedcamera",
+  "value" : "使用 /fixedcamera。切換是否鎖定視角(畫面不會捲動)。Sectors may not load or behave correctly when the camera is distant from the player's position"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/setgravity",
+  "value" : "使用 /setgravity 重力等級。設定本地重力到指定的等級。Negative values will make you fall up but you can't jump from your head。This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/resetgravity",
+  "value" : "使用 /resetgravity。取消/setgravity的效果。再次使用server的重力參數"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/eval",
+  "value" : "使用 /eval <lua>。執行指定的lua腳本語言 in script processor context。只在本機有作用"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/entityeval",
+  "value" : "使用 /entityeval <lua>。執行指定的lua腳本語言 in the context of the closest scripted entity to the cursor。只在本機有作用"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/radiomessage",
+  "value" : "使用 /radiomessage 訊息編號。觸發玩家收到特定編號的廣播訊息"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/clearradiomessages",
+  "value" : "用法 /已收到的廣播信息。在這裡羅列了接受到的所有廣播的歷史消息。玩家可以在這裡重新閱覽這些消息"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/clearcinematics",
+  "value" : "使用 /clearcinematics。重設全部動畫的播放紀錄(允許玩家重看)"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/cinema",
+  "value" : "使用 /cinema 動畫路徑。播放指定動畫來測試"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/startquest",
+  "value" : "Usage /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/completequest",
+  "value" : "使用 /completequest 任務(模板)編號。給定編號的可用任務強迫設為完成"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/failquest",
+  "value" : "使用 /failquest 任務(模板)編號。給定編號的可用任務強迫設為失敗"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/previewnewquest",
+  "value" : "使用 /previewnewquest 任務模板編號 位置(first|last|next|solo) 任務種族。Displays the New Quest interface for the given quest without altering the player's quest state。May break if the quest doesn't have example data configured"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/previewquestcomplete",
+  "value" : "使用 /previewquestcomplete 任務模板編號 位置(first|last|next|solo) 任務種族。Displays the Quest Complete interface for the given quest without altering the player's quest state。May break if the quest doesn't have example data configured"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/previewquestfailed",
+  "value" : "使用 /previewquestfailed 任務模板編號 位置(first|last|next|solo) 任務種族。Displays the Quest Failed interface for the given quest without altering the player's quest state。May break if the quest doesn't have example data configured"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/clearscannedobjects",
+  "value" : "使用 /clearscannedobjects。重置玩家上個掃描的物體紀錄。Will not reset quest progress for object scanning quests"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/statistic",
+  "value" : "使用 /statistic 統計名稱。呈現特定的成就統計數據"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/resetachievements",
+  "value" : "使用 /resetachievements。重置所有玩家的成就統計"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/enabletech",
+  "value" : "使用 /enabletech 科技名稱。解鎖指定科技"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/maketechavailable",
+  "value" : "使用 /maketechavailable 科技名稱。讓指定科技出現且可買到"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/giveessentialitem",
+  "value" : "使用 /giveessentialitem 物品 槽位(beamaxe|wiretool|painttool|inspectiontool)。Sets the specified essential slot to the specified item, overwriting the existing contents"
+}, {
+  "op" : "replace",
+  "path" : "/debugCommands/upgradeship",
+  "value" : "Usage /upgradeship shipUpgrades. Applies the specified ship upgrades to the current player's ship. shipUpgrades should be specified as a JSON object enclosed by single quotes, e.g. '{\"shipLevel\" : 5}'"
+} ]
