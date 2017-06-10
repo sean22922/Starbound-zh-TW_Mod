@@ -1,0 +1,345 @@
+[ {
+  "op" : "replace",
+  "path" : "/accuse/default/default/0",
+  "value" : "No thief habito shroom!"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/1",
+  "value" : "Thief weepa no hoom shroom!"
+}, {
+  "op" : "replace",
+  "path" : "/accuse/default/default/2",
+  "value" : "Halhoom no thief smashroom!"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/0",
+  "value" : "Smashroom thief! Smash!"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/1",
+  "value" : "Thief weepa!"
+}, {
+  "op" : "replace",
+  "path" : "/alert/default/default/2",
+  "value" : "Smashroom thief!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/default/default/0",
+  "value" : "Hoom! Feesle the mushroom habito!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/0",
+  "value" : "Hoom! Feesle the mushroom habito!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/0",
+  "value" : "Hoom! Meat habble person nab fry!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/1",
+  "value" : "Hoom meat. Seemo bizarra stamper!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/2",
+  "value" : "Halhoom smooth! Chop deka halberdeen cartography!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/3",
+  "value" : "Hoomah! Mesti hop smashroom danger!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/4",
+  "value" : "Hoom! Halhoom!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/5",
+  "value" : "Halmarr, spike circular deka bizarra!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/human/default/6",
+  "value" : "Meat hoom! Enjoy house choka smashroom?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/0",
+  "value" : "Hoom flap! Bizarra no Kluex fry!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/1",
+  "value" : "Halhoom sillypeck. Choka smashroom nab house."
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/2",
+  "value" : "Halhalhoom, weepa cantara swoop nab cloudchaser."
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/3",
+  "value" : "Hoomay, flap! Halberdeen habble fluffy peck. Shree!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/4",
+  "value" : "Haba hoom, sillyflap! Hehehe! swoop bizarra!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/5",
+  "value" : "Hoom! Hoom hoom! Chop smashroom nab peace kisser!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/6",
+  "value" : "Hoom habba flap flap, deka nab peck?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/avian/default/7",
+  "value" : "Hoom? Scratchy mesti cuddle?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/0",
+  "value" : "Hoom! Hoom hoom shroom! Plant naturra kissface!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/1",
+  "value" : "Halhoom! Nab feara deka plant!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/2",
+  "value" : "Hoom. Halb weepa nab smashroom."
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/3",
+  "value" : "Kissface plant! Nab halb squishfish! Hahahahahaha!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/4",
+  "value" : "Halhalhalhoom, carpa house fry plant! Seemingly."
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/5",
+  "value" : "Habahoom squishfish, nab oaken smashroom cantaloupe!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/6",
+  "value" : "Plant hoom! Kissface chop growa, halb!?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/floran/default/7",
+  "value" : "Hoom. Hoom plant. Nabi spike cutshroom, plesta?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/0",
+  "value" : "Hoom. Plesta mesti hairthing."
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/1",
+  "value" : "Humfah. Hairthing chop nab feara."
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/2",
+  "value" : "Hoom! Nab chop Giant Hairthing. Weepa?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/3",
+  "value" : "Halhoom, hairthing. Nab smashroom, plesta."
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/4",
+  "value" : "Hoom. Hairthing hairface carpa woodshroom."
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/5",
+  "value" : "Plesti cantara, shroomy workest!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/6",
+  "value" : "Hoom. Mesti nab chop hairthing. Halhoom!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/apex/default/7",
+  "value" : "Hoom! Hop chop, hairthing! Halb squishfish?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/0",
+  "value" : "Huh huh hoom? Squishfish..."
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/1",
+  "value" : "Nab! Nab!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/2",
+  "value" : "Nab halb smashroom, squishfish! Cantara nab house, chop!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/3",
+  "value" : "Kissface plant nab cutshroom, squishfish. Threaten!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/4",
+  "value" : "Squeak. Hoom nab."
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/5",
+  "value" : "Hoom. Mesti nab disbravada, squishfish."
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/6",
+  "value" : "Nabnabnabnabnabnab."
+}, {
+  "op" : "replace",
+  "path" : "/hail/hylotl/default/7",
+  "value" : "Nab house, squishfish! Nab nab nab."
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/0",
+  "value" : "Hoom, clankbeast. Habba nab cartography spaceshroom."
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/1",
+  "value" : "Halhoom, okay. Nab chop weepa, deka hairthing? Flap?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/2",
+  "value" : "Halhalhoom. Smashroom nab plant?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/3",
+  "value" : "Hurm. Hoom. Clankbeast house fry, shroomy halb."
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/4",
+  "value" : "Clankbeast! Chop carpa, cantara."
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/5",
+  "value" : "Hoom clankbeast. Halb plesti cantara, nab?"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/6",
+  "value" : "Hoom. Shroomy nab clankbeast feara. Mesti bravada!"
+}, {
+  "op" : "replace",
+  "path" : "/hail/glitch/default/7",
+  "value" : "Hoom. Clankbeast halb mesti, deka plant?"
+}, {
+  "op" : "replace",
+  "path" : "/helpme/default/default/0",
+  "value" : "No shopshroom chop!"
+}, {
+  "op" : "replace",
+  "path" : "/helpthem/default/default/0",
+  "value" : "Chop!"
+}, {
+  "op" : "replace",
+  "path" : "/encourage/default/default/0",
+  "value" : "Chop no shopshroom! Chop!"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/0",
+  "value" : "Halhoom megaclinker!"
+}, {
+  "op" : "replace",
+  "path" : "/safe/default/default/1",
+  "value" : "Halhalhoom!"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/default/0",
+  "value" : "Hoom! Exchanga habble pixels! Clink clink!"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/default/1",
+  "value" : "Hoom clinker. Habba shopshroom deka plesta?"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/default/2",
+  "value" : "Halhoom megaclinker. Habba chop chop workest!"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/floran/0",
+  "value" : "Halhalhoom, plant! Exchanga habble pixels! Chop clink!"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/floran/1",
+  "value" : "Hoom, nab feara plant! Habble pixels, mesta clink clink."
+}, {
+  "op" : "replace",
+  "path" : "/start/default/floran/2",
+  "value" : "Hoom. Plant clinker habba shopshroom plesta?"
+}, {
+  "op" : "replace",
+  "path" : "/start/default/hylotl/0",
+  "value" : "Hum. Hoom. Squishfish nab feara halb clink."
+}, {
+  "op" : "replace",
+  "path" : "/start/default/hylotl/1",
+  "value" : "Squishfish. Mesta nab tetrana chop clinker."
+}, {
+  "op" : "replace",
+  "path" : "/start/default/hylotl/2",
+  "value" : "Hoom, squishfish. Nab smashroom habba clinker house. Okay?"
+}, {
+  "op" : "replace",
+  "path" : "/end/default/default/0",
+  "value" : "Foom. Clink remore!"
+}, {
+  "op" : "replace",
+  "path" : "/end/default/default/1",
+  "value" : "Fanfoom! Habba clink okay."
+}, {
+  "op" : "replace",
+  "path" : "/end/default/default/2",
+  "value" : "Foomfoom. Clink nab feara pixels!"
+}, {
+  "op" : "replace",
+  "path" : "/end/default/default/3",
+  "value" : "Foom! Clink mesta plesta!"
+}, {
+  "op" : "replace",
+  "path" : "/follow/default/default/0",
+  "value" : "Nay halhoom clink! Come!"
+}, {
+  "op" : "replace",
+  "path" : "/follow/default/default/1",
+  "value" : "Nab clink, come hoom shropshroom!"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/0",
+  "value" : "Halhalhoom, clinker! Exchanga habble pixels! Chop clink!"
+}, {
+  "op" : "replace",
+  "path" : "/welcome/default/default/1",
+  "value" : "Halhoom megaclinker. Habba chop chop workest!"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/0",
+  "value" : "Clink!"
+}, {
+  "op" : "replace",
+  "path" : "/tout/default/default/1",
+  "value" : "Chop workest!"
+}, {
+  "op" : "replace",
+  "path" : "/tagCriteria/default/default/0",
+  "value" : "No shroom habba homshroom?"
+}, {
+  "op" : "replace",
+  "path" : "/enclosedArea/default/default/0",
+  "value" : "Nay homshroom fix!"
+}, {
+  "op" : "replace",
+  "path" : "/otherDeed/default/default/0",
+  "value" : "Nay shropshroom mesta shropshroom!"
+}, {
+  "op" : "replace",
+  "path" : "/severe/default/default/0",
+  "value" : "Nay clink! Nay plesta!"
+}, {
+  "op" : "replace",
+  "path" : "/final/default/default/0",
+  "value" : "Nay foom, nuva shropshroom nay!"
+}, {
+  "op" : "replace",
+  "path" : "/beacon/default/default/0",
+  "value" : "Clink?"
+}, {
+  "op" : "replace",
+  "path" : "/rent/default/default/0",
+  "value" : "Foomfoom plesta shropshroom!"
+},
