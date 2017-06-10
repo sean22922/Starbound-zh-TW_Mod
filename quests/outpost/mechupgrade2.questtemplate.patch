@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;Advanced Test Drive"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "I have a design for a new ^green;mech body^white; that fits you perfectly! I've also been making a more advanced test course in an asteroid field that, of course, needs a trial run. If you can ^green;get through the ^orange;advanced test course^green; with your own mech^white;, I can give you the blueprint. It's a win-win scenario, right?"
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;. Thanks again - it sure is helpful having a lab assistant!"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/enterInstance",
+  "value" : "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange; advanced test course^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/findGoal",
+  "value" : "Complete the ^orange;advanced mech test course^reset;"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/descriptions/turnIn",
+  "value" : "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;"
+} ]

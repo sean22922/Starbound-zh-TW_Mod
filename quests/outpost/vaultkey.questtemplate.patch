@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/title",
+  "value" : "^orange;The Final Frontier"
+}, {
+  "op" : "replace",
+  "path" : "/text",
+  "value" : "The winds whisper of what you have done - you have ventured far, young one. But there are still doors you have yet to open. ^green;I can trade ^orange;keys^green; with you^white;, if you wish to ^green;open the ^orange;Ancient Gates^green; scattered among the stars^white;."
+}, {
+  "op" : "replace",
+  "path" : "/completionText",
+  "value" : "I've arrived at an ^orange;Ancient Vault^white;! I wonder what secrets these ruins hide? I think I should take a look around..."
+}, {
+  "op" : "replace",
+  "path" : "/objectiveLists/obtainKey",
+  "value" : [["Acquire a ^orange;Vault Key^reset; from the mysterious trader", false]]
+}, {
+  "op" : "replace",
+  "path" : "/objectiveLists/enterVault",
+  "value" : [["Acquire a Vault Key from the mysterious trader", true], ["Enter a lone ^orange;Ancient Gateway^reset;", false]]
+},
