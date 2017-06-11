@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Perfect for adding that synthetic feeling to your performance."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Square Wave"
+} ]
