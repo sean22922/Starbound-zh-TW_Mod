@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : " Station Console"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : " Control your station's systems"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblGravity/value",
+  "value" : "GRAVITY"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblHideExpansionSlots/value",
+  "value" : "HIDE EXPANSION SLOTS"
+} ]
