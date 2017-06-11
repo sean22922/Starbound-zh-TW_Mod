@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A powerful energy blade for cutting through... Pretty much everything."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Energy Blade Mech Arm"
+} ]

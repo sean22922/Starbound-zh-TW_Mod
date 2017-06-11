@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A well made mech arm that fires beams of something akin to pure energy."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Energy Rifle Mech Arm"
+} ]

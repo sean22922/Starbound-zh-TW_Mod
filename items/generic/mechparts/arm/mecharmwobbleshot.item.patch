@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This mech arm fires eerily oscillating plasma donuts."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Wobbleshot Mech Arm"
+} ]

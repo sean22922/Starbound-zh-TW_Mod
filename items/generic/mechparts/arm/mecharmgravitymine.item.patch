@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Fires a remote mine that creates a tiny gravitational singularity."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Gravity Mine Mech Arm"
+} ]

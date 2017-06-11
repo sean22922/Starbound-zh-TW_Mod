@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A military mech arm that fires a homing missile with onboard guidance systems."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Homing Missile Mech Arm"
+} ]

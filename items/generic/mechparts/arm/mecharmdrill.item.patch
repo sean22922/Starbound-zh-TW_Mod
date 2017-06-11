@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A basic mining drill that can serve as a weapon in a pinch."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Drill Mech Arm"
+} ]

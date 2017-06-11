@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech arm gun that discharge fast-travelling beams of solar energy."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Beam Sniper Mech Arm"
+} ]

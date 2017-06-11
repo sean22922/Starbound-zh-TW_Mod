@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An arm that fires shells which burst in all directions."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Split Shot Mech Arm"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "What's better than a giant machine gun? Two giant machine guns."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Dual Rifle Mech Arm"
+} ]

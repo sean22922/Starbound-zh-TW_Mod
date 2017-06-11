@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An advanced mech arm that can deploy multiple attack drones."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Swarm Drone Mech Arm"
+} ]

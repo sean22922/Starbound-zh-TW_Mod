@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "The cheapest available mech weapon, an arm that fires heated metal shards."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Flak Cannon Mech Arm"
+} ]

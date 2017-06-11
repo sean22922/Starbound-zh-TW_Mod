@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech arm equipped with a laser cannon."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Cannon Mech Arm"
+} ]

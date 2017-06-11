@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "No-one knows where this submachine gun mech arm gets its name."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Tommy Gun Mech Arm"
+} ]

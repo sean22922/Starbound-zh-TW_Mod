@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Launches a drone which projects a defensive energy shield."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Shield Drone Mech Arm"
+} ]

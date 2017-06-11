@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An energized chainsaw originally developed for cutting through ice."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Neo Chainsaw Mech Arm"
+} ]
