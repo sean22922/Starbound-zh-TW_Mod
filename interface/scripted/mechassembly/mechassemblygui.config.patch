@@ -1,65 +1,65 @@
 [ {
   "op" : "replace",
   "path" : "/gui/windowtitle/title",
-  "value" : "  Mech Assembly Station"
+  "value" : "  機甲配件站"
 }, {
   "op" : "replace",
   "path" : "/gui/windowtitle/subtitle",
-  "value" : "  ^#b9b5b2;Equip and customise your personal mech!"
+  "value" : "  ^#b9b5b2;裝備與訂製你的個人機甲！"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_body/value",
-  "value" : "Body"
+  "value" : "身體"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_leftArm/value",
-  "value" : "L Arm"
+  "value" : "左手"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_legs/value",
-  "value" : "Legs"
+  "value" : "腳"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_booster/value",
-  "value" : "Booster"
+  "value" : "推進器"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_body/value",
-  "value" : "Body"
+  "value" : "身體"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_rightArm/value",
-  "value" : "R Arm"
+  "value" : "右手"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSlot_horn/value",
-  "value" : "Horn"
+  "value" : "喇叭"
 }, {
   "op" : "replace",
   "path" : "/gui/lblPrimaryColor/value",
-  "value" : "Colour 1"
+  "value" : "顏色 1"
 }, {
   "op" : "replace",
   "path" : "/gui/lblSecondaryColor/value",
-  "value" : "Colour 2"
+  "value" : "顏色 2"
 }, {
   "op" : "replace",
   "path" : "/disabledText",
-  "value" : "^red;Unauthorized User"
+  "value" : "^red;未經授權的使用者"
 }, {
   "op" : "replace",
   "path" : "/incompleteText",
-  "value" : "^red;Configuration Incomplete"
+  "value" : "^red;配置不完整"
 }, {
   "op" : "replace",
   "path" : "/completeText",
-  "value" : "^cyan;Ready to Deploy!"
+  "value" : "^cyan;準備好投放！"
 }, {
   "op" : "replace",
   "path" : "/energyFormat",
-  "value" : "Energy: %d MJ"
+  "value" : "能量： %d MJ"
 }, {
   "op" : "replace",
   "path" : "/drainFormat",
-  "value" : "Usage: %.02f MJ/s"
+  "value" : "使用： %.02f MJ/s"
 } ]
