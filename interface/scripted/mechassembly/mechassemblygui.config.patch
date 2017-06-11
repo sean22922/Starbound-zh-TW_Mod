@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "  Mech Assembly Station"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "  ^#b9b5b2;Equip and customise your personal mech!"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_body/value",
+  "value" : "Body"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_leftArm/value",
+  "value" : "L Arm"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_legs/value",
+  "value" : "Legs"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_booster/value",
+  "value" : "Booster"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_body/value",
+  "value" : "Body"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_rightArm/value",
+  "value" : "R Arm"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSlot_horn/value",
+  "value" : "Horn"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblPrimaryColor/value",
+  "value" : "Colour 1"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblSecondaryColor/value",
+  "value" : "Colour 2"
+}, {
+  "op" : "replace",
+  "path" : "/disabledText",
+  "value" : "^red;Unauthorized User"
+}, {
+  "op" : "replace",
+  "path" : "/incompleteText",
+  "value" : "^red;Configuration Incomplete"
+}, {
+  "op" : "replace",
+  "path" : "/completeText",
+  "value" : "^cyan;Ready to Deploy!"
+}, {
+  "op" : "replace",
+  "path" : "/energyFormat",
+  "value" : "Energy: %d MJ"
+}, {
+  "op" : "replace",
+  "path" : "/drainFormat",
+  "value" : "Usage: %.02f MJ/s"
+} ]
