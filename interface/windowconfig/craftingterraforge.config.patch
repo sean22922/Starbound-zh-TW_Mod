@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/title",
+  "value" : "  Terraforge"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/windowtitle/subtitle",
+  "value" : "  Create terraformers for transforming entire planets!"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblSchematics/value",
+  "value" : "^#b9b5b2;SCHEMATICS"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/lblProducttitle/value",
+  "value" : "^#b9b5b2;PRODUCT"
+} ]
