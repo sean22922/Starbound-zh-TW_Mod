@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A prototype open-front mech body, designed for Novakid pilots."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Marshal-00 Mech Body"
+} ]

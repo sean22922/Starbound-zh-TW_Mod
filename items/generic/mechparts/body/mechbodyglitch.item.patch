@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mighty Glitch-styled mech body, made from thick layers of plated violium."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Arthuria Mech Body"
+} ]

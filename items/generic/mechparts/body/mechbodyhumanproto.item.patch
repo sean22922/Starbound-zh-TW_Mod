@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A prototype open-top mech body, designed by the Letheia Corporation."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Venturer-00 Mech Body"
+} ]

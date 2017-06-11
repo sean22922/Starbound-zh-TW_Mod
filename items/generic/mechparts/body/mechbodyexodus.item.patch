@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A powerful mech body operated by a web of synthetic brain tissue."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Exodus Mech Body"
+} ]

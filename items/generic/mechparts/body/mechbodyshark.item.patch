@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech body based on the Lilodon. Its bark isn't quite worse than its bite."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Lilotron Mech Body"
+} ]

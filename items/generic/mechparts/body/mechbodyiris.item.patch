@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech body that uses a cutting-edge energy field to protect the cockpit."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Cyclops Mech Body"
+} ]

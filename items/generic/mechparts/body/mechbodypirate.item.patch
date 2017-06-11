@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech body used primarily by pirates and mercenaries, for obvious reasons."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Skulduggery Mech Body"
+} ]

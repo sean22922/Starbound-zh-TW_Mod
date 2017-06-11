@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A finely engineered mech body, for use by members of the Terrene Protectorate."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Protector's Mech Body"
+} ]

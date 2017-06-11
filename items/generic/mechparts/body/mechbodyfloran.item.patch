@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech body fit for a Floran, made from vines and recycled mech parts."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Golem Mech Body"
+} ]

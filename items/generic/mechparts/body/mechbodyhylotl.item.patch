@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A sleek Hylotl-styled mech body, complete with a trinocular scouting system."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Kabuto Mech Body"
+} ]

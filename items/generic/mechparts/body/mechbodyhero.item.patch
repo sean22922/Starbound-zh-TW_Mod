@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Defend the universe with this exciting looking mech chassis."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Hero Mech Body"
+} ]

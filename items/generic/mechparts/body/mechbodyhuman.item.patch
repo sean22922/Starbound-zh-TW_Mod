@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A sturdy mech body, originally designed by the Letheia corporation."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Venturer Mech Body"
+} ]

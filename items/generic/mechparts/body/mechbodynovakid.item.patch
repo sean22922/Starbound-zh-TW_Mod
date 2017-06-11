@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A unique Novakid-styled mech body, built for tireless and skilled pilots."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Marshal Mech Body"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An experimental mech body powered by an unstable radioactive core."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Reactor Mech Body"
+} ]

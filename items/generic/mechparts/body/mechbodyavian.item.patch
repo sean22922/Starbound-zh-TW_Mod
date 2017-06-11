@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An imposing mech body, designed in the image of an Avian warrior."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Champion Mech Body"
+} ]

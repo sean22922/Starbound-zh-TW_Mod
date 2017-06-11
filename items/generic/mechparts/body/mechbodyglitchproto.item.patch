@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A prototype open-top mech body, designed for Glitch pilots."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Arthuria-00 Mech Body"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A high-tech mech body, designed for high ranking members of the Occasus cult."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Occasus-2 Mech Body"
+} ]

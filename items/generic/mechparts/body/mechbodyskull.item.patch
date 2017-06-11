@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mech body made for stealth and infiltration, personalised with a spooky skull face."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Nightwinder Mech Body"
+} ]

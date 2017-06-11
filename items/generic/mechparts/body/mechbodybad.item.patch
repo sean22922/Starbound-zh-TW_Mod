@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A somewhat strange mech body. Its original designer is unknown."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Beat Mech Body"
+} ]

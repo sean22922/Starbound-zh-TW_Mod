@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A prototype open-top mech body, designed for Apex pilots."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Dominion-00 Mech Body"
+} ]
