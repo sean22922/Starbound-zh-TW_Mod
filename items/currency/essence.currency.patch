@@ -1,9 +1,9 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "Mysterious energy used by the Ancients. It pulses in harmony with the living universe."
+  "value" : "古人使用的神秘能量。它在活著的宇宙中和諧的脈動。"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Ancient Essence"
+  "value" : "古代精華e"
 } ]
