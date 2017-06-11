@@ -1,0 +1,53 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "  Planetary Terraformer"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "  ^#b9b5b2;Transform the whole planet using Essence!"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblCurrentStatus/value",
+  "value" : "Waiting for status..."
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblEssenceLabel/value",
+  "value" : "^green;ESSENCE^white;"
+}, {
+  "op" : "replace",
+  "path" : "/statusMessages/worldComplete",
+  "value" : "^gray;World terraforming complete."
+}, {
+  "op" : "replace",
+  "path" : "/statusMessages/connecting",
+  "value" : "^yellow;Connecting to terraformer..."
+}, {
+  "op" : "replace",
+  "path" : "/statusMessages/active",
+  "value" : ""^yellow;Terraforming in progress..."
+}, {
+  "op" : "replace",
+  "path" : "/statusMessages/insufficientEssence",
+  "value" : "^red;Insufficient Essence!"
+}, {
+  "op" : "replace",
+  "path" : "/errorMessages/needSurface",
+  "value" : "Must be placed on a planet surface!"
+}, {
+  "op" : "replace",
+  "path" : "/errorMessages/tooClose",
+  "value" : "Too close to another active terraformer!"
+}, {
+  "op" : "replace",
+  "path" : "/errorMessages/alreadyActive",
+  "value" : "Terraforming already in progress!"
+}, {
+  "op" : "replace",
+  "path" : "/errorMessages/worldComplete",
+  "value" : "Planet already fully terraformed!"
+}, {
+  "op" : "replace",
+  "path" : "/errorMessages/noExpansion",
+  "value" : "Target size must be larger than current size!"
+} ]
