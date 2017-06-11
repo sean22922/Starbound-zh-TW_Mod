@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/paneLayout/title/value",
+  "value" : "畫質"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/fullscreenLabel/value",
+  "value" : "全螢幕"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/borderlessLabel/value",
+  "value" : "無邊框視窗"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/monochromeLabel/value",
+  "value" : "單色光源"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/interactiveHighlightLabel/value",
+  "value" : "強調目標顏色"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/speechBubbleLabel/value",
+  "value" : "對話泡泡"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/textureLimitLabel/value",
+  "value" : "限制材質"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/resLabel/value",
+  "value" : "全螢幕解析度"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/zoomLabel/value",
+  "value" : "放大倍率"
+} ]
