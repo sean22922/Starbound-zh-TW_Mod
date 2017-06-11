@@ -1,519 +1,745 @@
 [ {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/default",
-  "value" : "神祕星"
+  "path" : "/gui/windowtitle/title",
+  "value" : "導航儀"
 }, {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/whitestar",
-  "value" : "溫和星"
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "^#b9b5b2; 選擇你的目的地"
 }, {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/orangestar",
-  "value" : "適度星"
+  "path" : "/gui/jumpDialog/children/title/value",
+  "value" : "確認FTL"
 }, {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/yellowstar",
-  "value" : "輻射星"
+  "path" : "/gui/jumpDialog/children/text/value",
+  "value" : "FTL旅行將消耗 ^green;%s 燃油^reset;.\n確認以繼續"
 }, {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/bluestar",
-  "value" : "冷凍星"
+  "path" : "/gui/clusterinfo/children/inner/children/name/value",
+  "value" : "這是一個叢集"
 }, {
   "op" : "replace",
-  "path" : "/starmapTypeDescription/redstar",
-  "value" : "火熱星"
+  "path" : "/gui/clusterinfo/children/inner/children/moons/value",
+  "value" : "許多月亮"
 }, {
   "op" : "replace",
-  "path" : "/satelliteNameEmptyText",
-  "value" : "< 尚未選擇星球 >"
+  "path" : "/gui/clusterinfo/children/inner/children/view/caption",
+  "value" : "尚未探索"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelText/label/text",
-  "value" : "威脅"
+  "path" : "/gui/objectinfo/children/inner/children/name/value",
+  "value" : "太空物件"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/0",
-  "value" : "低"
+  "path" : "/gui/objectinfo/children/inner/children/description/value",
+  "value" : "這是一個非常好的太空物件"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/1",
-  "value" : "中度"
+  "path" : "/gui/objectinfo/children/inner/children/threat/value",
+  "value" : "需要機甲以佈屬"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/2",
-  "value" : "有風險"
+  "path" : "/gui/objectinfo/children/inner/children/bookmark/caption",
+  "value" : "添加書籤"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/3",
+  "path" : "/gui/systeminfo/children/inner/children/type/value",
+  "value" : "星系種類"
+}, {
+  "op" : "replace",
+  "path" : "/gui/systeminfo/children/inner/children/name/value",
+  "value" : "星系"
+}, {
+  "op" : "replace",
+  "path" : "/gui/systeminfo/children/inner/children/planetList/schema/listTemplate/type/value",
+  "value" : "星球種類"
+}, {
+  "op" : "replace",
+  "path" : "/gui/systeminfo/children/inner/children/view/caption",
+  "value" : "尚未探索"
+}, {
+  "op" : "replace",
+  "path" : "/gui/planetinfo/children/inner/children/name/value",
+  "value" : "這是一個星球"
+}, {
+  "op" : "replace",
+  "path" : "/gui/planetinfo/children/inner/children/description/value",
+  "value" : "關於這個星球"
+}, {
+  "op" : "replace",
+  "path" : "/gui/planetinfo/children/inner/children/threatLabel/value",
+  "value" : "威脅:"
+}, {
+  "op" : "replace",
+  "path" : "/gui/planetinfo/children/inner/children/threatValue/value",
   "value" : "危險"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/4",
-  "value" : "險惡"
+  "path" : "/gui/planetinfo/children/inner/children/ores/value",
+  "value" : "地質分析"
 }, {
   "op" : "replace",
-  "path" : "/threatLevelToText/default/5",
-  "value" : "刀山"
-}, {
-  "op" : "replace",
-  "path" : "/threatLevelToText/default/6",
-  "value" : "火海"
-}, {
-  "op" : "add",
-  "path" : "/threatLevelToText/default/7",
-  "value" : "地獄"
-}, {
-  "op" : "add",
-  "path" : "/threatLevelToText/default/8",
-  "value" : "煉獄"
-}, {
-  "op" : "remove",
-  "path" : "/threatLevelToText/default/10"
-}, {
-  "op" : "remove",
-  "path" : "/threatLevelToText/default/10"
-}, {
-  "op" : "replace",
-  "path" : "/threatLevelToText/moon/0",
-  "value" : "未知"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeLabel/text",
-  "value" : "著陸點分析"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/garden/0",
-  "value" : "^#76fe68;繁茂^white;的山麓標記著這一著陸點。這裡的植物和動物都很多。是讓人感到很安全的傳送地點"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/garden/1",
-  "value" : "傳送地點位於一個生機勃勃的平靜區域。這裡有你可以使用的資源。是^#76fe68;繁茂^white;且祥和的土地"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/garden/2",
-  "value" : "數據表明這個著陸地點很適宜生存——這個地區很安全，動植物資源都很豐富。是一個^#76fe68;繁茂^white;且適宜居住的地方"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/forest/0",
-  "value" : "著陸地點有很多的樹和其他植物，這個^#15ce02;森林^white;著陸點是一個很適宜各種生物生存的地方，當然也包括你在內"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/forest/1",
-  "value" : "這個^#15ce02;森林^white;裡到處是長滿葉子的樹，很適宜生存，我的數據庫顯示你會在這裡碰到林地生物"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/forest/2",
-  "value" : "你在這個星球的傳送點位於一個^#15ce02;森林^white;中。數據顯示這片林子相對平靜"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/desert/0",
-  "value" : "雖然這裡的植物數量很有限，但這個地點確實可以生存，這裡有很多的沙地，簡單來說，這裡是一片^#e6c801;沙漠^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/desert/1",
-  "value" : "一片^#e6c801;沙漠^white;地區，這裡有很多仙人掌以及各種各樣的動物，是相對安全的著陸點，只要你避開沙暴的話"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/desert/2",
-  "value" : "沙地，數據顯示有很多沙子，還有仙人掌……但主要是沙子。根據已有信息，我推斷著陸地點是在^#e6c801;沙漠^white; "
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/snow/0",
-  "value" : "這個冰冷的著陸點到處是^#69f1fd;白雪^white;。這個寒冷地區生長著各種各樣的樹木和動物，是一個堆雪球的好地方"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/snow/1",
-  "value" : "著陸地點很冷，但也還在可忍受範圍之內，^#69f1fd;白雪^white;覆蓋著這片區域，而且有可能遇到暴風雪，最好戴上帽子和手套"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/snow/2",
-  "value" : "這個地點較為寒冷，厚厚的^#69f1fd;積雪^white;覆蓋著地表。我的感應器顯示雪中有小動物在穿來穿去"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/savannah/0",
-  "value" : "著陸地點位於一片^#ffe21d;乾草原^white;，那裡很熱且有沙塵暴，並不是個好地方，但也並不很危險"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/savannah/1",
-  "value" : "這片^#ffe21d;乾草原^white;上有很多樹木，生存環境適中，數據表明有隻野兔在附近跑來跑去"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/savannah/2",
-  "value" : "著陸點位於一片^#ffe21d;乾草原^white;。這裡有很多樹木和灌木，是平坦遼闊的沙塵地帶"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/ocean/0",
-  "value" : "充斥著深^#008aff;海^white;和小型島嶼的星球。我的數據顯示這裡有大量的海洋生物，海洋上的小島風光秀麗"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/ocean/1",
-  "value" : "一個^#008aff;大海^white;覆蓋的星球上有很多島嶼和衆多生命，我的數據顯示海洋中有許多生物活動的跡象"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/ocean/2",
-  "value" : "這個^#008aff;海洋^white;星球的表面上到處都是漂浮的沙漠島。一個典型的熱帶環境星球"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/toxic/0",
-  "value" : "這個星球充滿了^#06ff00;毒素^white;——腐化的空氣、有毒的海水。^red;輻射超過安全等級^white;一千倍"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/toxic/1",
-  "value" : "這個^red;高輻射^white;星球是一片充滿了毒物的荒野，寄居著被輻射變異的生物， 其發光的地表也是^#06ff00;有毒的^white;。一個非常危險的地方"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/toxic/2",
-  "value" : "這是一個^#06ff00;充滿毒素^white;的星球，到處是^red;輻射^white;。海洋中的毒素等級尤其的高……我有必要提醒你，我們可以選擇其他目的地"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/jungle/0",
-  "value" : "這個著陸點在密密的^#12a003;叢林^white;中。在繁茂的植物中生存著很多奇異的動物，可惜這裡的^red;輻射等級非常致命^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/jungle/1",
-  "value" : "一個^#12a003;叢林^white;著陸點，這裡生存著非常多的植物和動物。該地區資源豐富但是^red;輻射指數卻很高^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/jungle/2",
-  "value" : "^red;高輻射^white;籠罩著這片^#12a003;叢林^white;地帶，讓這裡成為非常不適宜居住的環境，而且這裡的動物也非常不友好"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/alien/0",
-  "value" : "這個著陸點有一定的風險——^red;輻射等級非常的高^white;。但是，^#7800ff;變異的^white;地形也可以被描述為是黑暗童話中的場景"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/alien/1",
-  "value" : "這個著陸點充斥著奇異的植物、充滿攻擊性的動物和^red;高的驚人的輻射量^white;。這個區域的生物在輻射之下都嚴重^#7800ff;變異^white;了"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/alien/2",
-  "value" : "傳送點位於一個^#7800ff;遭輻射而變異^white;的地帶，^red;極高的輻射量^white;創造出一個毒性很強的環境，我強烈建議你不要下水"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/arctic/0",
-  "value" : "^red;著陸點的溫度非常的低。^white;你會被傳送到一個小島上，四周是^#00ffe4;寒冷的海洋^white;。強烈建議你帶條圍巾"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/arctic/1",
-  "value" : "傳送點^red;極其寒冷^white;：那裡是一個在^#00ffe4;寒冷海洋^white;中的小島。你會被傳送到海洋中的概率大概是0.025%，一旦被傳送到海洋中你會迅速被凍僵的"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/arctic/2",
-  "value" : "一個^red;溫度異常低^white;的地帶。那裡幾乎沒有動物，也沒有植物——只是在^#00ffe4;寒冷海洋^white;中的一個荒廢的小島而已"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/tundra/0",
-  "value" : "一個^#61ffe3;天寒地凍^white;的地方，全是冰——這裡的土地是多年的凍土。暴風雪非常普遍，而且^red;溫度極低^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/tundra/1",
-  "value" : "這個^red;極其寒冷的^white;著陸點是個^#61ffe3;溫度極低^white;的凍土，很可能是自我低溫保存的結果，記得多穿點衣服"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/tundra/2",
-  "value" : "^red;傳送點的溫度極低^white;。那個區域是^#61ffe3;凍土^white;，那裡只有極其耐寒的動物和植物"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/volcanic/0",
-  "value" : "這個^#e11212;火山^white;著陸點的^red;溫度異常的高^white;。如果你願意的話，我可以計算出你傳送到那裡後被立刻燒成灰的概率……"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/volcanic/1",
-  "value" : "這個星球的^#e11212;火山^white;活動過於頻繁，而傳送點的火山活動尤其厲害。那裡的^red;溫度已經遠遠超過正常生物所能生存的範圍^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/volcanic/2",
-  "value" : "傳送點位於^#e11212;火山^white;帶而且那裡^red;非常熱^white;。你能對這個地方感興趣，充分說明你具備不屈不撓的韌性"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/midnight/0",
-  "value" : "這是一個^#e11212;黑暗^white;世界，這裡沒有陽光。地表^red;非常寒冷^white;。你在著陸前必須做好生理和心理雙方面的準備"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/midnight/1",
-  "value" : "這個^#e11212;黑暗^white;世界非常^red;寒冷^white;。那裡有神祕的不明生物徘徊著，隱藏在無光的夜晚中"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/midnight/2",
-  "value" : "掃描顯示地表是^#e11212;全黑暗^white;的。事實是，由於黑暗，掃描根本沒顯示出任何數據，但是，我推測地表必然^red;異常寒冷^white;"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/scorchedcity/0",
-  "value" : "著陸點是一個^#b24301;被炙烤的^white;荒野。地表^red;溫度高的驚人^white;。你能選擇這個地點可真是勇敢"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/scorchedcity/1",
-  "value" : "傳送點是^#b24301;被炙烤的^white;荒野。由於^red;致命的高溫^white;，沒有生物能在這裡生存。但卻有人住在這個地方，我想破腦袋也不知道這是為什麼？"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/scorchedcity/2",
-  "value" : "著陸點是一個^#b24301;被炙烤的^white;地方，^red;星球表面是強烈的高溫^white;。 只有極少數的幾個很強悍的人留在那裡，可能是因為習慣吧"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/magma/0",
-  "value" : "這個^red;異常炎熱^white;的星球主要由^#ff1818;岩漿^white;組成。記住，雖然你堅強的意志很讓人佩服，但意志是沒法用來防火的"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/magma/1",
-  "value" : "星球的表面^red;溫度極高^white;。很少有生物能在星球的^#ff1818;岩漿^white;海洋中生存"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/magma/2",
-  "value" : "傳送點是一個小島嶼，周圍都是^#ff1818;岩漿^white;。你竟然決定去那個^red;灼熱^white;的星球，這說明你很有勇氣"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/moon/0",
-  "value" : "這個^#949493;月球^white;上^red;沒有可供呼吸的大氣層^white;，地表下有燃料，你在這裡感到孤獨的概率高達92% "
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/moon/1",
-  "value" : "這個^#949493;月球^white;上沒有生命跡象，也^red;沒有大氣層^white;。但是這裡的燃料非常充盈，數據表明地表下有非常高的燃油儲備"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/moon/2",
-  "value" : "這個無人的^#949493;月球^white;上^red;沒有可供呼吸的大氣層^white;，但地下的洞穴有大量的燃油儲備，雖然很有用，但卻不是個好地方"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/asteroids/0",
-  "value" : "一群^#d7711e;小行星^white;地帶，數據表明^red;那裡沒有大氣層^white;，也沒有生命跡象，只有無盡的虛無，還有廣闊的建設空間"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/asteroids/1",
-  "value" : "一群沒有生命跡象的^#d7711e;小行星^white;地帶。 ^red;那裡沒有大氣層^white;，這些小行星只是在宇宙中漂流，並在遙遠星體的引力下按固定軌跡運動……這裡很適合建造房子"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/asteroids/2",
-  "value" : "一群^#d7711e;小行星^white;按橢圓軌道運行，數據表明^red;這裡沒有大氣層^white;。也沒有其他的東西……"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/barren/0",
-  "value" : "這個地點^#999966;荒蕪^white;且無生命跡象，數據表明這裡什麼都沒有，是一個空蕩蕩的地方"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/barren/1",
-  "value" : "這個星球是^#999966;荒蕪^white;的，沒有任何生命跡象，這裡什麼都沒有…… "
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/barren/2",
-  "value" : "數據表明著陸地點的樣子與衆不同，這裡格外的^#999966;荒蕪^white;，非常適合建設"
-}, {
-  "op" : "replace",
-  "path" : "/planetTypeToDescription/ancientgateway/0",
-  "value" : "一個未知出處的^#571cff;遠古傳送陣^white;，是擁有強大力量的神祕設施"
-}, {
-  "op" : "replace",
-  "path" : "/worldTypeToDescription/gasgiant/0",
-  "value" : "一個由氣體所組成的巨大球體彼此相互混合，這裡根本就沒法著陸"
-}, {
-  "op" : "replace",
-  "path" : "/worldTypeToDescription/gasgiant/1",
-  "value" : "一個氣態巨行星，這個星球上沒有固態物質，只不過是一堆氣體"
-}, {
-  "op" : "replace",
-  "path" : "/worldTypeToDescription/gasgiant/2",
-  "value" : "沒法著陸，巨大的壓力和氣體所發出的暴風會瞬間把你碾碎"
-}, {
-  "op" : "replace",
-  "path" : "/dayLengthText/label/text",
-  "value" : "日循環"
-}, {
-  "op" : "replace",
-  "path" : "/dayLengthText/value/text",
-  "value" : "<value> 日"
-}, {
-  "op" : "replace",
-  "path" : "/sizeText/label/text",
-  "value" : "星球大小"
-}, {
-  "op" : "replace",
-  "path" : "/sizeText/value/text",
-  "value" : "<value> 區域"
-}, {
-  "op" : "replace",
-  "path" : "/oreText/text",
-  "value" : "地理分析"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/0/displayName",
-  "value" : "銅"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/1/displayName",
-  "value" : "銀"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/2/displayName",
-  "value" : "金"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/3/displayName",
-  "value" : "鐵"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/4/displayName",
-  "value" : "鎢"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/5/displayName",
-  "value" : "鈦"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/6/displayName",
-  "value" : "耐鋼"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/7/displayName",
-  "value" : "菲洛合金"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/8/displayName",
-  "value" : "霓磷鹽"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/9/displayName",
-  "value" : "維奧合金"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/10/displayName",
-  "value" : "日耀石"
-}, {
-  "op" : "replace",
-  "path" : "/displayOres/11/displayName",
-  "value" : "晶體爾切斯燃料"
-}, {
-  "op" : "replace",
-  "path" : "/weatherText/text",
+  "path" : "/gui/planetinfo/children/inner/children/weather/value",
   "value" : "天氣"
 }, {
   "op" : "replace",
+  "path" : "/gui/planetinfo/children/inner/children/bookmark/caption",
+  "value" : "添加書籤"
+}, {
+  "op" : "replace",
+  "path" : "/gui/disabledLabel/value",
+  "value" : "導航儀目前離線"
+}, {
+  "op" : "replace",
+  "path" : "/gui/transitLabel/value",
+  "value" : "船正在移動"
+}, {
+  "op" : "replace",
+  "path" : "/gui/remoteTitle/value",
+  "value" : "星系遠端檢視"
+}, {
+  "op" : "replace",
+  "path" : "/planetInfoBox/bookmarkButtonCaption/add",
+  "value" : "添加書籤"
+}, {
+  "op" : "replace",
+  "path" : "/planetInfoBox/bookmarkButtonCaption/edit",
+  "value" : "編輯書籤"
+}, {
+  "op" : "replace",
+  "path" : "/planetInfoBox/bookmarkButtonCaption/disabled",
+  "value" : "無法添加書籤"
+}, {
+  "op" : "replace",
+  "path" : "/clusterInfoBox/viewButtonCaption/enabled",
+  "value" : "查看"
+}, {
+  "op" : "replace",
+  "path" : "/clusterInfoBox/viewButtonCaption/disabled",
+  "value" : "尚未探索"
+}, {
+  "op" : "replace",
+  "path" : "/objectInfoBox/bookmarkButtonCaption/add",
+  "value" : "添加書籤"
+}, {
+  "op" : "replace",
+  "path" : "/objectInfoBox/bookmarkButtonCaption/edit",
+  "value" : "編輯書籤"
+}, {
+  "op" : "replace",
+  "path" : "/objectInfoBox/bookmarkButtonCaption/disabled",
+  "value" : "無法添加書籤"
+}, {
+  "op" : "replace",
+  "path" : "/objectInfoBox/bookmarkButtonCaption/unexplored",
+  "value" : "尚未探索"
+}, {
+  "op" : "replace",
+  "path" : "/systemInfoBox/viewButtonCaption/enabled",
+  "value" : "查看"
+}, {
+  "op" : "replace",
+  "path" : "/systemInfoBox/viewButtonCaption/disabled",
+  "value" : "尚未探索"
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/garden/0",
+  "value" : "^#76fe68;Lush ^white;foothills mark this landing location. Both flora and fauna are abundant here. A beam site of immeasurable safety."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/garden/1",
+  "value" : "The beam site is located in a tranquil area of great bio-diversity. There are resources here that you could use. A ^#76fe68;lush ^white;and pleasant land."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/garden/2",
+  "value" : "Readings indicate the landing site is not unfavourable - the area is safe, and lavish with both flora and fauna. A ^#76fe68;lush ^white;and hospitable place."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/forest/0",
+  "value" : "Densely colonized by trees and other flora, this ^#15ce02;forest ^white;landing site is a hospitable location that supports a diversity of life - potentially including your own."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/forest/1",
+  "value" : "Leafy trees abound in this ^#15ce02;forest ^white;location. The area is hospitable to life, my database indicates that you may encounter woodland creatures."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/forest/2",
+  "value" : "Your beam site for this planet is located in a ^#15ce02;forest^white;. Readings indicate that this wooded area is relatively tranquil."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/desert/0",
+  "value" : "There is limited flora here, but the location does support life. There is also an abundance of sand. Simply put, it is a ^#e6c801;desert^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/desert/1",
+  "value" : "A ^#e6c801;desert^white; area populated by cacti, as well as various animal life. A relatively safe landing site, so long as you avoid the sandstorms."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/desert/2",
+  "value" : "Sand. Readings indicate sand. Also some cacti... but predominantly sand. Given the available information I speculate that the landing site is situated in a ^#e6c801;desert^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/snow/0",
+  "value" : "This chilly landing site is laden with ^#69f1fd;snow^white;. Sundry trees grow here and various animals also thrive in the cold conditions. An excellent place to make snowballs."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/snow/1",
+  "value" : "The landing location is cold, but not perilously so. ^#69f1fd;Snow^white; covers the area and blizzards are a possibility. A hat and gloves may be advisable."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/snow/2",
+  "value" : "This location is relatively chill, and ^#69f1fd;snow^white; lies thickly on the ground. My sensors indicate that there are critters scampering through the soft blanket of white."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/savannah/0",
+  "value" : "The landing site is situated in an area of ^#ffe21d;dry grassland ^white;that is hot and prone to dust storms. It is neither especially pleasant, nor especially dangerous."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/savannah/1",
+  "value" : "This area of ^#ffe21d;dry grassland ^white;is sparsely populated by trees. It is not excessively inhospitable - readings indicate that there is a hare bouncing around."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/savannah/2",
+  "value" : "The landing location is located in an area of ^#ffe21d;dry grassland^white;. Trees and shrubs grow sparsely in the heat. A dusty place of wide, flat vistas."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/ocean/0",
+  "value" : "A planet of deep ^#008aff;oceans^white; and small islands. My readings indicate that aquatic life is abundant and that the islets of the surface are extremely picturesque."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/ocean/1",
+  "value" : "An ^#008aff;ocean^white; covered planet spotted with islands and teeming with life. My readings indicate that there is a great deal of activity in the depths of the waters."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/ocean/2",
+  "value" : "Floating desert islands pepper the surface of this ^#008aff;ocean^white; planet. An environment of tropical ambiance and aesthetic."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/toxic/0",
+  "value" : "This planet is ^#06ff00;toxic^white; - the air is putrefied and the oceans are poisonous. ^red;Radiation exceeds safe levels^white; by a factor of thousands."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/toxic/1",
+  "value" : "This ^red;highly radioactive^white; planet is a poisonous wilderness inhabited by irradiated lifeforms. It's luminescent surface is ^#06ff00;toxic^white;. An uninviting destination."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/toxic/2",
+  "value" : "This is a ^#06ff00;toxic^white; planet replete with ^red;radiation^white;. The noxious oceans are lethally poisonous... May I remind you that other destinations are available."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/jungle/0",
+  "value" : "The landing site is in a dense ^#12a003;jungle^white;. A menagerie of astounding creatures live amongst the lush flora. It is a shame about the ^red;lethally high levels of radiation^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/jungle/1",
+  "value" : "A ^#12a003;jungle^white; landing site densely inhabited by flora and fauna of many kinds. The area is rich with resources but ^red;phenomenally high in radiation^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/jungle/2",
+  "value" : "^red;High levels of radiation^white; render this ^#12a003;jungle^white; location an extremely hostile environment and local fauna is similarly unwelcoming."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/alien/0",
+  "value" : "This is a somewhat risky landing site - ^red;radiation levels are extremely high^white;. However, the ^#7800ff;mutated^white; terrain could be described as darkly whimsical."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/alien/1",
+  "value" : "A landing site characterised by odd flora, aggressive fauna and ^red;sickeningly high levels of radiation^white;. The area's inhabitants are severely ^#7800ff;mutated^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/alien/2",
+  "value" : "The beam location is situated in a ^#7800ff;mutated^white; landscape. The ^red;high levels of radiation^white; create a noxious environment. I advise you to avoid swimming."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/arctic/0",
+  "value" : "^red;Temperatures at the landing site are dangerously low.^white; You will be beaming onto a small island surrounded by ^#00ffe4;frigid ocean^white;. I strongly advise you to wear a scarf."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/arctic/1",
+  "value" : "The beam site is ^red;intensely cold^white;: a tiny island in a ^#00ffe4;frigid ocean^white;. There is a 0.025% chance you will mis-beam into the water, quickly succumbing to the awful chill."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/arctic/2",
+  "value" : "A site of ^red;dangerously low temperatures^white;. There are few animals here, and no plant-life at all - just forsaken islands in a ^#00ffe4;frigid ocean^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/tundra/0",
+  "value" : "A ^#61ffe3;frozen^white; place, formed of ice - the permafrost runs deep here. Snow storms are common, and ^red;temperatures are dangerously low^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/tundra/1",
+  "value" : "This ^red;dangerously cold.^white; landing site is ^#61ffe3;frozen^white; solid. High likelihood of accidental self-cryopreservation. Protect yourself from the cold."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/tundra/2",
+  "value" : "^red;Temperatures at the beam site are dangerously low^white;. The area is ^#61ffe3;frozen^white;, and inhabited only by flora and fauna that are extremely resistant to the cold."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/volcanic/0",
+  "value" : "The ^#e11212;volcanic^white; landing site is ^red;catastrophically hot^white;. If you wish, I can calculate your likelihood of immediately bursting into flame upon beam down..."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/volcanic/1",
+  "value" : "^#e11212;Volcanic^white; activity blights this planet and the beam site is in an area of particular virulence. The ^red;temperature is far beyond normally survivable levels^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/volcanic/2",
+  "value" : "The beam site is situated in ^#e11212;volcanic^white; terrain and is ^red;exquisitely hot^white;. Your interest in this place certainly displays your dauntless tenacity."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/midnight/0",
+  "value" : "This is a ^#e11212;dark^white; world where the sun never rises. The surface is ^red;dangerously cold^white;. You should prepare yourself both mentally and physically before landing here."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/midnight/1",
+  "value" : "This ^#e11212;dark^white; world is ^red;perilously cold^white;. Strange shadowy figures dwell here, hidden in the unremitting night."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/midnight/2",
+  "value" : "Scans show that the surface is ^#e11212;dark^white;. In fact, scans show little else on account of all the darkness. However, I surmise that the surface is ^red;dangerously cold^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/scorchedcity/0",
+  "value" : "The landing location is a ^#b24301;scorched^white; wasteland. The atmospheric ^red;temperature is dangerously high^white;. It is impressively brave of you to consider this destination."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/scorchedcity/1",
+  "value" : "The beam site is ^#b24301;scorched^white; and desolate. Little is capable of surviving here as the ^red;temperature is fatally high^white;. People live in the area, but I cannot fathom why."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/scorchedcity/2",
+  "value" : "The landing site is ^#b24301;scorched^white; by the ^red;intense heat of the planet's surface^white;. Only a few hardy individuals remain, possibly out of pure habit."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/magma/0",
+  "value" : "This ^red;dangerously hot^white; planet is chiefly composed of ^#ff1818;magma^white;. Remember, your resilient spirit is admirable, but it is not flame retardant."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/magma/1",
+  "value" : "The planet surface is ^red;dangerously hot^white;. Few creatures eek out an existence amongst the planet's vast oceans of ^#ff1818;magma^white;."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/magma/2",
+  "value" : "The beam site is a tiny island isolated in a sea of ^#ff1818;magma^white;. That you would consider visiting this ^red;searingly hot^white; planet speaks volumes of your fortitude."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/moon/0",
+  "value" : "A lonely ^#949493;moon^white; with ^red;no breathable atmosphere^white;; the sky is open to the stars, there is fuel below the ground. Likelihood of feeling lonesome and desolate: 92%."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/moon/1",
+  "value" : "This ^#949493;moon^white; supports no life and has ^red;no atmosphere^white;. However, fuel is abundant here - scans indicate that there is a wealth of it buried below the surface."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/moon/2",
+  "value" : "This vacant ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns below ground that contain vast fuel deposits. In summation: useful, but not enticing."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/asteroids/0",
+  "value" : "A bare cluster of ^#d7711e;asteroids^white;. Readings indicate ^red;there is no atmosphere^white; or life here. Just endless nothingness, with plenty of space for construction."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/asteroids/1",
+  "value" : "A lifeless band of ^#d7711e;asteroids^white; ^red;without atmosphere^white;: drifting through space, anchored to a distant star... A nice place to build a house."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/asteroids/2",
+  "value" : "A clutch of ^#d7711e;asteroids^white; drifting along an elliptical orbit. Readings indicate ^red;there is no atmosphere here^white;. Or anything else for that matter..."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/barren/0",
+  "value" : "This location is ^#999966;barren^white; and lifeless. Readings show there is nothing here. An empty, empty place."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/barren/1",
+  "value" : "This planet is ^#999966;barren^white;, supporting no life of any kind. There is nothing here at all..."
+}, {
+  "op" : "replace",
+  "path" : "/visitableTypeDescription/barren/2",
+  "value" : "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^white; location and would be suitable for construction."
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeDescription/ancientgateway/0",
+  "value" : "An ^#571cff;Ancient Gateway^white; of unknown provenance; an edifice of great power and mystery."
+}, {
+  "op" : "replace",
+  "path" : "/terraformedPlanetDescription/0",
+  "value" : "This planet has been altered beyond recognition by extensive terraforming."
+}, {
+  "op" : "replace",
+  "path" : "/terraformedPlanetDescription/1",
+  "value" : "Terraforming has made this planet safe for habitation, though unnatural in appearance."
+}, {
+  "op" : "replace",
+  "path" : "/terraformedPlanetDescription/2",
+  "value" : "This planet's climate and ecosystems have been dramatically altered by terraforming."
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeDescription/GasGiant/0",
+  "value" : "A giant ball of gases intermingling with one another. There is simply nothing here to land on."
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeDescription/GasGiant/1",
+  "value" : "A gas giant. There is no solid substance to this planet, just a collection of swirling gases."
+}, {
+  "op" : "replace",
+  "path" : "/worldTypeDescription/GasGiant/2",
+  "value" : "Can't land. The crushing pressure and tearing winds of this gas giant would kill you instantly."
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/0",
+  "value" : "低"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/1",
+  "value" : "中等"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/2",
+  "value" : "有風險的"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/3",
+  "value" : "危險"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/4",
+  "value" : "極度危險"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/5",
+  "value" : "不可思議"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/6",
+  "value" : "不真實的"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/7",
+  "value" : "***"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/8",
+  "value" : "***"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/default/9",
+  "value" : "***"
+}, {
+  "op" : "replace",
+  "path" : "/threatLevelText/moon/0",
+  "value" : "未知"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/copper/displayName",
+  "value" : "銅礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/silver/displayName",
+  "value" : "銀礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/gold/displayName",
+  "value" : "金礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/iron/displayName",
+  "value" : "鐵礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/tungsten/displayName",
+  "value" : "鎢礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/titanium/displayName",
+  "value" : "鈦礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/durasteel/displayName",
+  "value" : "精鋼礦"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/ferozium/displayName",
+  "value" : "Ferozium"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/aegisalt/displayName",
+  "value" : "Aegisalt"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/violium/displayName",
+  "value" : "Violium"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/solarium/displayName",
+  "value" : "Solarium"
+}, {
+  "op" : "replace",
+  "path" : "/displayOres/erchius/displayName",
+  "value" : "Crystal Erchius Fuel"
+}, {
+  "op" : "replace",
   "path" : "/displayWeathers/rain/displayName",
-  "value" : "雨"
+  "value" : "Rain"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/drizzle/displayName",
-  "value" : "細雨"
+  "value" : "Drizzle"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/storm/displayName",
-  "value" : "風暴"
+  "value" : "Storms"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/ember/displayName",
-  "value" : "煤渣雨"
+  "value" : "Cinder Showers"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/snow/displayName",
-  "value" : "雪"
+  "value" : "Snow"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/fog/displayName",
-  "value" : "霧"
+  "value" : "Fog"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/ash/displayName",
-  "value" : "落灰"
+  "value" : "Ashfall"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/lightash/displayName",
-  "value" : "輕落灰"
+  "value" : "Light Ashfall"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/meteorshower/displayName",
-  "value" : "小隕石"
+  "value" : "Small Meteorites"
 }, {
   "op" : "replace",
-  "path" : "/displayWeathers/largemeteor/displayName",
-  "value" : "大隕石"
+  "path" : "/displayWeathers/largemetor/displayName",
+  "value" : "Large Meteorites"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/glowingrain/displayName",
-  "value" : "光雨"
+  "value" : "Luminous Rain"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/crystalrain/displayName",
-  "value" : "水晶雨"
+  "value" : "Crystal Rain"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/hailstones/displayName",
-  "value" : "冰雹"
+  "value" : "Hail"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/groundmist/displayName",
-  "value" : "迷霧"
+  "value" : "Mist"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/windstorm/displayName",
-  "value" : "暴風"
+  "value" : "Windstorms"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/spacejunk/displayName",
-  "value" : "太空垃圾"
+  "value" : "Orbital Debris"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/spacedustshower/displayName",
-  "value" : "星塵雨"
+  "value" : "Stardust"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/snowstorm/displayName",
-  "value" : "暴雪"
+  "value" : "Blizzards"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/sandstorm/displayName",
-  "value" : "沙暴"
+  "value" : "Sandstorms"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/duststorm/displayName",
-  "value" : "塵暴"
+  "value" : "Dust Storms"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/icestorm/displayName",
-  "value" : "冰暴"
+  "value" : "Ice Storms"
 }, {
   "op" : "replace",
   "path" : "/displayWeathers/acidrain/displayName",
-  "value" : "酸雨"
+  "value" : "Acid Rain"
 }, {
   "op" : "replace",
-  "path" : "/ftlOfflineText/text",
-  "value" : "超光速行駛離線"
+  "path" : "/clusterMoons/none",
+  "value" : "No orbiting bodies"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/planetTypeDescription/value",
-  "value" : "？？？"
+  "path" : "/clusterMoons/singular",
+  "value" : "One orbiting body"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/showBookmarkList/caption",
+  "path" : "/clusterMoons/plural",
+  "value" : "%s orbiting bodies"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/garden",
+  "value" : "Lush"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/forest",
+  "value" : "Forest"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/desert",
+  "value" : "Desert"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/snow",
+  "value" : "Snowy"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/savannah",
+  "value" : "Savannah"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/ocean",
+  "value" : "Oceanic"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/toxic",
+  "value" : "Toxic"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/jungle",
+  "value" : "Jungle"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/alien",
+  "value" : "Alien"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/arctic",
+  "value" : "Arctic"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/tundra",
+  "value" : "Tundra"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/volcanic",
+  "value" : "Volcanic"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/midnight",
+  "value" : "Midnight"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/scorchedcity",
+  "value" : "Scorched"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/magma",
+  "value" : "Lava"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/moon",
+  "value" : "Lunar"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/asteroids",
+  "value" : "Asteroids"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/barren",
+  "value" : "Barren"
+}, {
+  "op" : "replace",
+  "path" : "/planetTypeNames/ancientgateway",
+  "value" : "Gateway"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/default",
+  "value" : "Mysterious Star"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/whitestar",
+  "value" : "Gentle Star"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/orangestar",
+  "value" : "Temperate Star"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/yellowstar",
+  "value" : "Radioactive Star"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/bluestar",
+  "value" : "Frozen Star"
+}, {
+  "op" : "replace",
+  "path" : "/starTypeNames/redstar",
+  "value" : "Fiery Star"
+}, {
+  "op" : "replace",
+  "path" : "/bookmarks/newTitle",
+  "value" : "新的書籤"
+}, {
+  "op" : "replace",
+  "path" : "/bookmarks/editTitle",
+  "value" : "編輯書籤"
+}, {
+  "op" : "replace",
+  "path" : "/jumpDialog/valid",
+  "value" : "FTL旅行會消耗 ^green;%i 燃料^reset;.\n確認以繼續"
+}, {
+  "op" : "replace",
+  "path" : "/jumpDialog/invalid",
+  "value" : "FTL旅行需要 ^red;%i 燃油^reset;.\n 沒有足夠的燃油可以進行"
+}, {
+  "op" : "replace",
+  "path" : "/topLeftButtonTooltips/showBookmarkList",
   "value" : "書籤"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/addBookmark/caption",
-  "value" : "添加/編輯書籤"
+  "path" : "/topLeftButtonTooltips/goToShip",
+  "value" : "顯示飛船位置"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/goToMyShip/caption",
-  "value" : "顯示船位置"
-}, {
-  "op" : "replace",
-  "path" : "/guiConfig/goToQuest/caption",
+  "path" : "/topLeftButtonTooltips/goToQuest",
   "value" : "顯示任務位置"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/windowtitle/title",
-  "value" : "導航控制台"
+  "path" : "/topLeftButtonTooltips/showCoordinates",
+  "value" : "座標"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/windowtitle/subtitle",
-  "value" : "^#b9b5b2; 選擇目的地"
+  "path" : "/threatTextPrefix",
+  "value" : "^white;威脅: ^reset;"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/bookmarkListLabel/value",
-  "value" : "^shadow;書籤"
+  "path" : "/objectThreatText/unavailable",
+  "value" : "需要機甲以佈署"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/name/value",
-  "value" : "書籤名"
+  "path" : "/objectThreatText/available/0",
+  "value" : "無"
 }, {
   "op" : "replace",
-  "path" : "/guiConfig/bookmarkList/children/bookmarkItemList/schema/listTemplate/planetName/value",
-  "value" : "星球名"
+  "path" : "/objectThreatText/available/1",
+  "value" : "低"
+}, {
+  "op" : "replace",
+  "path" : "/objectThreatText/available/2",
+  "value" : "中"
+}, {
+  "op" : "replace",
+  "path" : "/objectThreatText/available/3",
+  "value" : "危險"
+}, {
+  "op" : "replace",
+  "path" : "/objectThreatText/available/4",
+  "value" : "極度危險"
+}, {
+  "op" : "replace",
+  "path" : "/objectThreatText/friendly",
+  "value" : "無"
 } ]
