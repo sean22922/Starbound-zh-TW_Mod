@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Mysterious energy used by the Ancients. It pulses in harmony with the living universe."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ancient Essence"
+} ]
