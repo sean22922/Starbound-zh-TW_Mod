@@ -1,0 +1,65 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "Station Transponder Configuration"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "^#b9b5b2;Configure and launch your station deployment probe"
+}, {
+  "op" : "replace",
+  "path" : "/gui/connectingLabel/value",
+  "value" : "Connecting to S.A.I.L..."
+}, {
+  "op" : "replace",
+  "path" : "/gui/configure/children/configureLabel/value",
+  "value" : "Configuration"
+}, {
+  "op" : "replace",
+  "path" : "/gui/configure/children/name/hint",
+  "value" : "Enter station name"
+}, {
+  "op" : "replace",
+  "path" : "/gui/configure/children/description/hint",
+  "value" : "Enter station description"
+}, {
+  "op" : "replace",
+  "path" : "/gui/configure/children/saveButton/caption",
+  "value" : "SAVE"
+}, {
+  "op" : "replace",
+  "path" : "/connect/connectText",
+  "value" : "^green;Connecting to S.A.I.L"
+}, {
+  "op" : "replace",
+  "path" : "/connect/failText",
+  "value" : "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship"
+}, {
+  "op" : "replace",
+  "path" : "/connect/successText",
+  "value" : "^green;High-bandwidth connection established\nTransferring system data"
+}, {
+  "op" : "replace",
+  "path" : "/connectedText",
+  "value" : "^green;Link established"
+}, {
+  "op" : "replace",
+  "path" : "/deployingText/dispatching",
+  "value" : "^green;Requesting probe dispatch"
+}, {
+  "op" : "replace",
+  "path" : "/deployingText/traveling",
+  "value" : "^green;Probe dispatched.\nProbe approaching target orbit"
+}, {
+  "op" : "replace",
+  "path" : "/deployingText/deploying",
+  "value" : "^green;Probe has reached target orbit.\nDeploying station"
+}, {
+  "op" : "replace",
+  "path" : "/deployingText/deployed",
+  "value" : "^green;Station deployed"
+}, {
+  "op" : "replace",
+  "path" : "/deployingText/error",
+  "value" : "Error deploying probe. \nConnection lost..."
+} ]
