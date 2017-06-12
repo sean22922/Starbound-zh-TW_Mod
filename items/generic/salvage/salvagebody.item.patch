@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This component could be useful for crafting mech bodies."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Salvaged Armor Plate"
+} ]

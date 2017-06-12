@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This component could be useful for crafting high-tech mech parts."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Salvaged Nano Receptacle"
+} ]
