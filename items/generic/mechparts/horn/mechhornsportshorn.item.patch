@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Shrill and loud, this horn is perfect for obnoxiously announcing your presence."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Sports Mech Horn"
+} ]

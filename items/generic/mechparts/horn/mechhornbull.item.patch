@@ -1,9 +1,9 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A horn traditionally used to warn others of nearby hazards."
+  "value" : "Why simply grab the bull by the horns, when you can BE the bull?"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Foghorn Mech Horn"
+  "value" : "Bull Mech Horn"
 } ]

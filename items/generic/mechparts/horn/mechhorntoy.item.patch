@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This horn module is surprisingly small... I wonder what it sounds like?"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Toy Mech Horn"
+} ]

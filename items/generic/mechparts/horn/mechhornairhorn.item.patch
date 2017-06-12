@@ -1,9 +1,9 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A horn traditionally used to warn others of nearby hazards."
+  "value" : "Make a little noise from the comfort of your own mech."
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Foghorn Mech Horn"
+  "value" : "Airhorn Mech Horn"
 } ]
