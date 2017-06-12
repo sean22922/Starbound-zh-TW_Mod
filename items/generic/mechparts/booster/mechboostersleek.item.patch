@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Very sleek mech boosters."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Sleek Mech Boosters"
+} ]

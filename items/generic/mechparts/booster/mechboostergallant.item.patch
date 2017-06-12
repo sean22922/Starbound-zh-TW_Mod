@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A set of slick mech boosters built with intricate circuitry for high performance."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Gallant Mech Boosters"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Mass-produced mech boosters, with external fuel tank attachments."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Basic Mech Boosters"
+} ]

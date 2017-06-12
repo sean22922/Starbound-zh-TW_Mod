@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A classic design of mid-range boosters, historically used by delivery crafts."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Stalwart Mech Boosters"
+} ]

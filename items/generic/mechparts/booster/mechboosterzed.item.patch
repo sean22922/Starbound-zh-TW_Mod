@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Speedy mid-range mech boosters that are shaped like the letter Z."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Zed Mech Boosters"
+} ]
