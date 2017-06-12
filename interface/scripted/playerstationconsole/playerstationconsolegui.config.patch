@@ -1,17 +1,17 @@
 [ {
   "op" : "replace",
   "path" : "/gui/windowtitle/title",
-  "value" : " Station Console"
+  "value" : " 太空站"
 }, {
   "op" : "replace",
   "path" : "/gui/windowtitle/subtitle",
-  "value" : " Control your station's systems"
+  "value" : " 控制你的太空站的系統"
 }, {
   "op" : "replace",
   "path" : "/gui/lblGravity/value",
-  "value" : "GRAVITY"
+  "value" : "重力"
 }, {
   "op" : "replace",
   "path" : "/gui/lblHideExpansionSlots/value",
-  "value" : "HIDE EXPANSION SLOTS"
+  "value" : "隱藏擴充插槽"
 } ]
