@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Sleek mech legs that pair composite socks with titanium sandals."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Sleek Mech Legs"
+} ]

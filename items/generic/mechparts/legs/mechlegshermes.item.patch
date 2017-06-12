@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Finely crafted mech legs that provide the fastest possible ground movement."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Hermes Mech Legs"
+} ]

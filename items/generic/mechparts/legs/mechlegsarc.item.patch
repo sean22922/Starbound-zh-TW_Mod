@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Claw-like mech legs, designed to be streamlined for speed."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Arc Mech Legs"
+} ]

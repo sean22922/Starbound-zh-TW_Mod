@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A mid-quality set of mech legs designed for jumping."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Hopper Mech Legs"
+} ]

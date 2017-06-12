@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Mass-produced mech legs that allow for basic mobility."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Basic Mech Legs"
+} ]
