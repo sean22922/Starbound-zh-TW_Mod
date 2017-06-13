@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A sealed crate of weapon components, valuable for interstellar trade."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Weapon Parts"
+} ]
