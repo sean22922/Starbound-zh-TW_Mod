@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A hanging mech booster."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Hanging Booster"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A large mech booster, suspended by chains."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This mech booster is partially disassembled."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Mech rocket hanging on chainsss."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. Suspended like this gives easy access to the internal mechanics of this mech booster."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A mech booster, hanging on chains. It's probably under repair."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This mech booster looks like it's being worked on."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A mech booster, hangin' on some big chains."
+} ]
