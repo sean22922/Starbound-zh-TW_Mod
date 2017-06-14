@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This guidance beacon marks the position of a landing bay."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Landing Beacon"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This marks the position of a mech landing bay."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This marker signifies a space bay made for mech entry."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Beacon showsss where mechs can enter space."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Informed. This beacon type is useful for tracking where mech vehicles can dock."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A marker to tell pilots where to land their mech suits."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This beacon is for marking entry bays for mechs."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This marker is here to mark where t'saddle up your mech."
+} ]
