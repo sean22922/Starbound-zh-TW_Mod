@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Equip and customise your personal mech!"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Mech Assembly Station"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "With this station I could assemble components into a working mech suit."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This station is made for piecing together large mech vehicles."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran could make big mech with thisss station."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Astonished. This advanced assembly station is designed to make mech suits."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This station is for building and outfitting mech suits."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This terminal is for customizing and outfitting mech vehicles."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This station'll let me put together a mech any way I like."
+} ]
