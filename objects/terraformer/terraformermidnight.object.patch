@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms a planet's climate into a chill wasteland of perpetual night."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Dark Terraformer"
+} ]
