@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Huge Core Diagonal Top Piece Background"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Huge Core Diagonal Top Piece Background"
+} ]
