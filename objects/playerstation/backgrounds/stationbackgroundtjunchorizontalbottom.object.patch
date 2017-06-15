@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "T Junction Horizontal Bottom Piece Background"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "T Junction Horizontal Bottom Piece Background"
+} ]

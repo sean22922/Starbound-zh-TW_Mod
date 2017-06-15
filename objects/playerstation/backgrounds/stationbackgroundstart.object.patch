@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Start piece background"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Start piece background"
+} ]
