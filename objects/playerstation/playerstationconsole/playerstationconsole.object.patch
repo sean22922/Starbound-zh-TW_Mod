@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A console for monitoring the conditions inside an orbiting station."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Space Station Console"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This advanced console can monitor every area of a station."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A terminal for monitoring the conditions inside a station."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Fancy ssspace station computer terminal."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. This terminal is able to interconnect itself through a stations many components."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This advanced terminal is designed to keep track of space station conditions."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This terminal is made to control systems inside a space station."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A fancy computer for adjustin' systems inside a station."
+} ]
