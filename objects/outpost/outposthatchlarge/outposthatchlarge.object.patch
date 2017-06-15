@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This automated door is made of some sort of bulletproof material."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Large Airlock Hatch"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "An airlock."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "An airlock."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "It'ss an airlock."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Appreciative. A sturdy airlock."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "An airlock. Useful!"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A basic airlock."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Looks like a airlock."
+} ]
