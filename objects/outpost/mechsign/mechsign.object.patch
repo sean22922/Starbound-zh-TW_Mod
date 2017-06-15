@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This metal sign indicates a mech work station."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Mech Sign"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This sign has a large mech vehicle printed on it."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This sign displays a large mech suit."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "There isss a suit of mech armour on this sssign."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Observant. This sign indicates a work station for mech assembly."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This round sign has a large mech suit on it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A coloured sign, with an image of a mech suit."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A sign with a big 'ol mech suit printed on it."
+} ]
