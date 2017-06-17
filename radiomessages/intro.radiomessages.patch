@@ -1,7 +1,7 @@
 [ {
   "op" : "replace",
   "path" : "/protectorateExitBedPester/text",
-  "value" : "早安畢業生！你睡遲了。^#71f2f6;按A或D以起牀^white;"
+  "value" : "早安畢業生！你睡遲了。^#71f2f6;按A或D以起床^white;"
 }, {
   "op" : "replace",
   "path" : "/protectorateDormRoomTutorial/text",
@@ -13,7 +13,7 @@
 }, {
   "op" : "replace",
   "path" : "/protectorateLoungeTutorial/text",
-  "value" : "收集的制服都放在你的私人衣櫃裡……你明明都遲到了還能一臉鎮靜。我表示很服"
+  "value" : "收集的制服都放在你的私人衣櫃裡……你明明都遲到了還能一臉鎮靜。我很佩服"
 }, {
   "op" : "replace",
   "path" : "/protectorateStage5/text",
