@@ -1,107 +1,107 @@
 [ {
   "op" : "replace",
   "path" : "/converse/default/human/0",
-  "value" : "I don't trust living on planets anymore, especially after what happened to Earth..."
+  "value" : "我在也不相信能夠生活在地球上這件事了, 尤其是當地球發生了那件事之後..."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/1",
-  "value" : "I hope you aren't planning on visiting Earth right now because I have some bad news..."
+  "value" : "希望你沒有計畫要前往地球, 我聽到了些不好的消息..."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/2",
-  "value" : "Welcome to... Space! Are you new here?"
+  "value" : "歡迎來到...太空! 你是新來的嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/3",
-  "value" : "Hey, what's the weather outside like? It's still night-time, right?"
+  "value" : "嘿~外面的天氣如何呀? 現在還是晚上對吧?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/4",
-  "value" : "Is it night-time outside? Haha, just kidding. It's always night in space!"
+  "value" : "現在外面是晚上嗎? 哈哈, 開個玩笑而已啦. 太空中永遠都是晚上!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/5",
-  "value" : "You'd think that living offworld would get lonely, but... Well, you'd be right, actually."
+  "value" : "你認為生活在外星世界很寂寞嗎? 但是...好吧, 你是對的."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/6",
-  "value" : "Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!"
+  "value" : "你有因為在宇宙發生意外而無限的漂流感到害怕過嗎? 我有過!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/7",
-  "value" : "One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?"
+  "value" : "總有一天我會有用我自己的船和船員! <selfname>船長 聽起來超潮的不是嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/8",
-  "value" : "I actually don't know if we have to dress like this - I'm just doing it to fit in."
+  "value" : "我真的不知道我們是不是得要穿成這樣 - 我只是想融入這裡."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/9",
-  "value" : "One day I shall explore the cosmos instead of hanging about here... But today is not that day."
+  "value" : "總有一天我一定要離開這裡去探索那未知的世界...不過絕對不是今天."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/10",
-  "value" : "The great thing about living in space is that there's always room. Infinite room, in fact."
+  "value" : "一個住在太空的好處是太空永遠有空房. 事實上...有無限多的空房."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/11",
-  "value" : "In space, no one can hear you... Complain that you're bored."
+  "value" : "在太空中, 沒有任何人會聽到你抱怨關於無聊的事情..."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/12",
-  "value" : "Hey there! My name is <selfname>. I've been here a while, to say the least."
+  "value" : "哈囉你好! 我的名字是<selfname>. 說真的, 我來到這裡已經好一陣子了."
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/13",
-  "value" : "You know, it's really hard to maintain a sleep cycle when there's no days or nights."
+  "value" : "你知道的, 沒有了日夜真的很難維持睡眠的生理時鐘."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/0",
-  "value" : "Welcome to... Space! Are you new here?"
+  "value" : "歡迎來到...太空! 你是新來的嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/1",
-  "value" : "Hey, what's the weather outside like? It's still night-time, right?"
+  "value" : "嘿~外面的天氣如何呀? 現在還是晚上對吧?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/2",
-  "value" : "Is it night-time outside? Haha, just kidding. It's always night in space!"
+  "value" : "現在外面是晚上嗎? 哈哈, 開個玩笑而已啦. 太空中永遠都是晚上!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/3",
-  "value" : "You'd think that living offworld would get lonely, but... Well, you'd be right, actually."
+  "value" : "你認為生活在外星世界很寂寞嗎? 但是...好吧, 你是對的."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/4",
-  "value" : "Do you ever get scared that you'll fall into the infinite, empty void of space by accident? I know I do!"
+  "value" : "你有因為在宇宙發生意外而無限的漂流感到害怕過嗎? 我有過!"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/5",
-  "value" : "One day I'll have my own ship and crew! Captain <selfname> has a nice ring to it, don't you think?"
+  "value" : "總有一天我會有用我自己的船和船員! <selfname>船長 聽起來超潮的不是嗎?"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/6",
-  "value" : "I actually don't know if we have to dress like this - I'm just doing it to fit in."
+  "value" : "我真的不知道我們是不是得要穿成這樣 - 我只是想融入這裡."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/7",
-  "value" : "One day I shall explore the cosmos instead of hanging about here... But today is not that day."
+  "value" : "總有一天我一定要離開這裡去探索那未知的世界...不過絕對不是今天."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/8",
-  "value" : "The great thing about living in space is that there's always room. Infinite room, in fact."
+  "value" : "一個住在太空的好處是太空永遠有空房. 事實上...有無限多的空房."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/9",
-  "value" : "In space, no one can hear you... Complain that you're bored."
+  "value" : "在太空中, 沒有任何人會聽到你抱怨關於無聊的事情..."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/10",
-  "value" : "Hey there! My name is <selfname>. I've been here a while, to say the least."
+  "value" : "哈囉你好! 我的名字是<selfname>. 說真的, 我來到這裡已經好一陣子了."
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/11",
-  "value" : "You know, it's really hard to maintain a sleep cycle when there's no days or nights."
+  "value" : "你知道的, 沒有了日夜真的很難維持睡眠的生理時鐘."
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/0",
