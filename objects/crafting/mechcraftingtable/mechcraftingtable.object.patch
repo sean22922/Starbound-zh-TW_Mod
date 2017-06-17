@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "Used to produce modular mech components."
+  "value" : "用來製造機甲的模塊"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "^orange;Mech Part Crafting Table^white;"
+  "value" : "^orange;機甲部件合成台^white;"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "This table can be used to produce modular mech components."
+  "value" : "這張桌子可以用來製造機甲的模塊"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "With this table I can assemble modular mech components."
+  "value" : "用這張桌子我可以組合出一個機甲的模塊"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "A crafting ssstation for making mech parts."
+  "value" : "一個可以用來製造機甲部件的合成站"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Excited. This station is designed to assemble modular mech components"
+  "value" : "興奮。 這個合成站的設計是用來組合機甲模塊的"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "I can assemble modular mech components at this station."
+  "value" : "我可以在這個合成站組合機甲模塊"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "This industrial looking table produces modular mech components."
+  "value" : "這個看起來像是工業級的合成台可以製造機甲模塊"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "With this here table I could build some mech parts."
+  "value" : "用這邊這個合成桌,我可以建造一些機甲部件"
 }  ]
