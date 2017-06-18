@@ -4,6 +4,14 @@
   "value" : "畫質"
 }, {
   "op" : "replace",
+  "path" : "/paneLayout/accept/caption",
+  "value" : "接受"
+}, {
+  "op" : "replace",
+  "path" : "/paneLayout/cancel/caption",
+  "value" : "返回"
+}, {
+  "op" : "replace",
   "path" : "/paneLayout/fullscreenLabel/value",
   "value" : "全螢幕"
 }, {

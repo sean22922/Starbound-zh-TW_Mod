@@ -32,6 +32,6 @@
   "value" : "找到^orange;神祕信息^reset;的來源"
 }, {
   "op" : "replace",
-  "path" : "/scriptConfig/outpostBookmark/name",
+  "path" : "/scriptConfig/outpostBookmark/bookmarkName",
   "value" : "前哨站－方舟"
 } ]

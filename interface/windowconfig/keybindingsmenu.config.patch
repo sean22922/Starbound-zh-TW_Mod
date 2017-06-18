@@ -149,74 +149,58 @@
 }, {
   "op" : "replace",
   "path" : "/keyActions/game/2/label",
-  "value" : "駕駛艙向上"
-}, {
-  "op" : "replace",
-  "path" : "/keyActions/game/3/label",
-  "value" : "駕駛艙向下"
-}, {
-  "op" : "replace",
-  "path" : "/keyActions/game/4/label",
-  "value" : "駕駛艙向左"
-}, {
-  "op" : "replace",
-  "path" : "/keyActions/game/5/label",
-  "value" : "駕駛艙向右"
-}, {
-  "op" : "replace",
-  "path" : "/keyActions/game/6/label",
   "value" : "上一頁聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/7/label",
+  "path" : "/keyActions/game/3/label",
   "value" : "下一頁聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/8/label",
+  "path" : "/keyActions/game/4/label",
   "value" : "前一行聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/9/label",
+  "path" : "/keyActions/game/5/label",
   "value" : "下一行聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/10/label",
+  "path" : "/keyActions/game/6/label",
   "value" : "送出的聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/11/label",
+  "path" : "/keyActions/game/7/label",
   "value" : "開始聊天"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/12/label",
+  "path" : "/keyActions/game/8/label",
   "value" : "開始聊天命令"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/13/label",
+  "path" : "/keyActions/game/9/label",
   "value" : "重複上個命令"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/14/label",
+  "path" : "/keyActions/game/10/label",
   "value" : "全螢幕切換"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/15/label",
+  "path" : "/keyActions/game/11/label",
   "value" : "打開物品清單"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/16/label",
+  "path" : "/keyActions/game/12/label",
   "value" : "打開文件紀錄"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/17/label",
+  "path" : "/keyActions/game/13/label",
   "value" : "打開任務清單"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/18/label",
+  "path" : "/keyActions/game/14/label",
   "value" : "打開製造清單"
 }, {
   "op" : "replace",
-  "path" : "/keyActions/game/19/label",
+  "path" : "/keyActions/game/15/label",
   "value" : "隱藏抬頭顯示器"
 }, {
   "op" : "replace",

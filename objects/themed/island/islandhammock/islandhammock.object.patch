@@ -32,6 +32,6 @@
   "value" : "在這種簡簡單單的床睡覺沒有什麼優雅一說"
 }, {
   "op" : "replace",
-  "path" : "/novakidlDescription",
+  "path" : "/novakidDescription",
   "value" : "一張吊床？我有個主意了"
 } ]
