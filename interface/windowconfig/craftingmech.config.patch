@@ -1,21 +1,21 @@
 [ {
   "op" : "replace",
   "path" : "/paneLayout/windowtitle/title",
-  "value" : "  Mech Part Crafting"
+  "value" : "  機甲部件合成"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/windowtitle/subtitle",
-  "value" : "  Create new parts for your modular mech!"
+  "value" : "  創造新的部件來給你模組化的機甲使用吧!"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/lblSchematics/value",
-  "value" : "^#b9b5b2;BLUEPRINTS"
+  "value" : "^#b9b5b2;藍圖"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/lblProducttitle/value",
-  "value" : "^#b9b5b2;PRODUCT"
+  "value" : "^#b9b5b2;產品"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/lblProduct/value",
-  "value" : "MATERIALS AVAILABLE"
+  "value" : "有可用材料"
 } ]
