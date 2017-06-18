@@ -9,9 +9,5 @@
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-  "value" : "這個燃料箱好小啊，看我的……"
-}, {
-  "op" : "replace",
-  "path" : "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default/0",
-  "value" : "燃料箱容量已增加，船長！我再去看看還能不能再擴大一點"
+  "value" : "只要我在這,我就會持續清理化油器。 燃油效率又增加了10%!"
 } ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/name",
+  "value" : "士兵"
+}, {
+  "op" : "replace",
+  "path" : "/scriptConfig/crew/role/field",
+  "value" : "保全"
+} ]

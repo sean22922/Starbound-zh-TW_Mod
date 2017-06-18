@@ -1,15 +1,15 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "在有的人看來，吊牀是奢侈的化身"
+  "value" : "在有的人看來，吊床是奢侈的化身"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "島嶼吊牀"
+  "value" : "島嶼吊床"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "我喜歡我的牀在堅實的地上。安全第一"
+  "value" : "我喜歡我的床在堅實的地上。安全第一"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
@@ -21,17 +21,17 @@
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "擔心。。這些吊牀能夠支撐我的重量嗎？"
+  "value" : "擔心。。這些吊床能夠支撐我的重量嗎？"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "吊牀！每個人夢寐以求的！"
+  "value" : "吊床！每個人夢寐以求的！"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "在這種簡簡單單的牀睡覺沒有什麼優雅一說"
+  "value" : "在這種簡簡單單的床睡覺沒有什麼優雅一說"
 }, {
   "op" : "replace",
   "path" : "/novakidlDescription",
-  "value" : "一張吊牀？我有個主意了"
+  "value" : "一張吊床？我有個主意了"
 } ]

@@ -9,9 +9,5 @@
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/dialog/crewmember/roleDescription/default/default/0",
-  "value" : "我去強化你的燃料效能了！"
-}, {
-  "op" : "replace",
-  "path" : "/scriptConfig/dialog/crewmember/shipImprovementApplied/default/default/0",
-  "value" : "完成，燃料效能增加了10%，我再去研究一下！"
+  "value" : "我會讓你的引擎維持完好。 推進速度增加了25%!"
 } ]
