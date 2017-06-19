@@ -1,9 +1,9 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A sealed crate of foods and ingredients, valuable for interstellar trade."
+  "value" : "一個密封的食物口糧,在星際間的交易很有價值"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Food Rations"
+  "value" : "食物口糧"
 } ]

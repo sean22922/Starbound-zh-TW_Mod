@@ -1,9 +1,9 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A sealed crate of weapon components, valuable for interstellar trade."
+  "value" : "一個密封的武器部件,在星際間的交易很有價值"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Weapon Parts"
+  "value" : "武器部件"
 } ]
