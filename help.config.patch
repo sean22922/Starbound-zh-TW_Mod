@@ -53,12 +53,12 @@
 }, {
   "op" : "replace",
   "path" : "/basicCommands/naked",
-  "value" : "使用 /naked。移除全部裝備。Useful in macros to give a character new gear replacing the existing gear, or you know, for fun"
+  "value" : "使用 /naked。移除全部裝備。當要給一個人物脫下舊裝備並換上新裝備時很有用，或是...你知道的，為了好玩"
 },
 }, {
   "op" : "replace",
   "path" : "/adminCommands/warp",
-  "value" : "Usage /warp warpAction. Warps player to a world and/or position. Valid warp action formats include: OwnShip, OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (current world). Most warp actions can have =xcoordinate.ycoordinate added to specify a position within that world."
+  "value" : "使用 /warp 傳送目標。傳送玩家到某個世界或位置。 有效的傳送格式包含: OwnShip(自己的飛船), OrbitedWorld, CelestialWorld:celestialcoordinates, InstanceWorld:worldid:<uuid>:<level>, ClientShipWorld:playeruuid, Player:playeruuid, Nowhere (目前的世界). 大多數的傳送可以使用=xcoordinate.ycoordinate 在這個世界裡增加一個特定的傳送點."
 }, {
   "op" : "replace",
   "path" : "/adminCommands/timewarp",
@@ -90,7 +90,7 @@
 }, {
   "op" : "replace",
   "path" : "/adminCommands/spawnvehicle",
-  "value" : "使用 /spawnvehicle 類型 [JSON參數]。Spawn a vehicle of the specified 類型 at the mouse cursor。JSON參數應用單引號括起來"
+  "value" : "使用 /spawnvehicle 類型 [JSON參數]。在鼠標產生一台指定類型的載具。JSON參數應用單引號括起來"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/spawnstagehand",
@@ -98,11 +98,11 @@
 }, {
   "op" : "replace",
   "path" : "/adminCommands/clearstagehand",
-  "value" : "使用 /clearstagehand。Despawns any stagehands with positions close to the current cursor position"
+  "value" : "使用 /clearstagehand。取消任何離鼠標位置最近的stagehand物件"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/spawnliquid",
-  "value" : "使用 /spawnliquid 液體名稱 [數量]。Spawn a quantity of the specified liquid at the mouse cursor。Quantity defaults to 1"
+  "value" : "使用 /spawnliquid 液體名稱 [數量]。在鼠標位置產生一定量的液體。數量預設為1"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/kick",
@@ -114,15 +114,15 @@
 }, {
   "op" : "replace",
   "path" : "/adminCommands/unbanip",
-  "value" : "Usage /unbanip address. Removes entries with the specified address from temporary and permanent ban lists."
+  "value" : "使用 /unbanip IP位置. 從臨時和永久封鎖列表中刪除指定的IP位置。"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/unbanuuiud",
-  "value" : "Usage /unbanuuid uuid. Removes entries with the specified uuid from temporary and permanent ban lists." 
+  "value" : "使用 /unbanuuid uuid. 從臨時和永久封鎖列表中刪除指定的uuid。" 
 }, {
   "op" : "replace",
   "path" : "/adminCommands/list",
-  "value" : "使用 /list。列出連到伺服器的全部用戶。Format is $clientId : serverNickname : $$playerUuid。If the serverNickname contains unprintable characters the unicode escape sequence for those characters will be displayed instead"
+  "value" : "使用 /list。列出連到伺服器的全部用戶。格式為 $clientId : serverNickname : $$playerUuid。如果serverNickname包含不可顯示的字符，則會顯示這些字符的unicode轉換序列。"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/whereis",
@@ -142,15 +142,15 @@
 }, {
   "op" : "replace",
   "path" : "/adminCommands/placedungeon",
-  "value" : "使用 /placedungeon 地圖名稱 [座標x,y]。Place the given dungeon into the world anchored at the specified position or the player's cursor position。Positions should be specified as x,y。Ignores anchoring rules"
+  "value" : "使用 /placedungeon 地圖名稱 [座標x,y]。在這個世界放置一個地下城，坐落於特定位置或是鼠標。坐標應該用x,y來指定。Ignores anchoring rules"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/setuniverseflag",
-  "value" : "使用 /setuniverseflag 旗標名稱。設定目前旗標。triggering any associated world changes"
+  "value" : "使用 /setuniverseflag 旗標名稱。設定目前旗標。會觸發有關旗標的效果"
 }, {
   "op" : "replace",
   "path" : "/adminCommands/resetuniverseflags",
-  "value" : "使用 /resetuniverseflags。清除全部旗標。but doesn't directly revert any effects triggered by those flags"
+  "value" : "使用 /resetuniverseflags。清除全部旗標。但不會直接恢復這些旗標觸發的任何效果"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/debug",
@@ -178,23 +178,23 @@
 }, {
   "op" : "replace",
   "path" : "/debugCommands/fixedcamera",
-  "value" : "使用 /fixedcamera。切換是否鎖定視角(畫面不會捲動)。Sectors may not load or behave correctly when the camera is distant from the player's position"
+  "value" : "使用 /fixedcamera。切換是否鎖定視角(畫面不會捲動)。當視角遠離人物時，磁碟扇區可能不會讀取到或是正確的運作"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/setgravity",
-  "value" : "使用 /setgravity 重力等級。設定本地重力到指定的等級。Negative values will make you fall up but you can't jump from your head。This change is local only, and looks pretty heinous on a server, because it screws very heavily with delta prediction"
+  "value" : "使用 /setgravity 重力等級。設定本地重力到指定的等級。無效的數值會讓你墬落但是你沒辦法從上面跳下來。這個改變只是局部性，而且對於伺服器來說是非常可惡的，因為這個變化用三角預測把伺服器搞得很嚴重"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/resetgravity",
-  "value" : "使用 /resetgravity。取消/setgravity的效果。再次使用server的重力參數"
+  "value" : "使用 /resetgravity。取消/setgravity的效果。再次使用伺服器的重力參數"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/eval",
-  "value" : "使用 /eval <lua>。執行指定的lua腳本語言 in script processor context。只在本機有作用"
+  "value" : "使用 /eval <lua>。執行指定的lua腳本語言。只在本機有作用"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/entityeval",
-  "value" : "使用 /entityeval <lua>。執行指定的lua腳本語言 in the context of the closest scripted entity to the cursor。只在本機有作用"
+  "value" : "使用 /entityeval <lua>。執行指定的lua腳本語言。執行離鼠標最近的實體腳本內容。只在本機有作用"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/radiomessage",
@@ -214,7 +214,7 @@
 }, {
   "op" : "replace",
   "path" : "/debugCommands/startquest",
-  "value" : "Usage /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'"
+  "value" : "使用 /startquest questArcDescriptor. Give the player a quest with the specified quest arc descriptor, which should be a JSON string or object enclosed by single quotes. To start a quest by quest template ID, enclose the template ID in single and double quotes, e.g. /startquest '\"protectorate\"'"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/completequest",
@@ -238,7 +238,7 @@
 }, {
   "op" : "replace",
   "path" : "/debugCommands/clearscannedobjects",
-  "value" : "使用 /clearscannedobjects。重置玩家上個掃描的物體紀錄。Will not reset quest progress for object scanning quests"
+  "value" : "使用 /clearscannedobjects。重置玩家上個掃描的物體紀錄。不會重置需要掃描的任務進度"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/statistic",
@@ -258,9 +258,9 @@
 }, {
   "op" : "replace",
   "path" : "/debugCommands/giveessentialitem",
-  "value" : "使用 /giveessentialitem 物品 槽位(beamaxe|wiretool|painttool|inspectiontool)。Sets the specified essential slot to the specified item, overwriting the existing contents"
+  "value" : "使用 /giveessentialitem 物品 槽位(beamaxe|wiretool|painttool|inspectiontool)。設定最上面物品欄的道具，會覆蓋原有的道具"
 }, {
   "op" : "replace",
   "path" : "/debugCommands/upgradeship",
-  "value" : "Usage /upgradeship shipUpgrades. Applies the specified ship upgrades to the current player's ship. shipUpgrades should be specified as a JSON object enclosed by single quotes, e.g. '{\"shipLevel\" : 5}'"
+  "value" : "使用 /upgradeship shipUpgrades。 套用特定的飛船升級等級到目前玩家的飛船上，shipUpgrades應該用單引號框起來以及跟JSON一樣的格式指定。範例 '{\"shipLevel\" : 5}'"
 } ]
