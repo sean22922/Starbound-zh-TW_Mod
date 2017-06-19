@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Assert yourself with a gentle ring."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Bike Bell Mech Horn"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Give your mech a booming voice to intimidate your foes."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Robot Voice Mech Horn"
+} ]

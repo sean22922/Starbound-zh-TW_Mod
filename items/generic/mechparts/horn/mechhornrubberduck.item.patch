@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A timeless classic."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Rubber Duck Mech Horn"
+} ]
