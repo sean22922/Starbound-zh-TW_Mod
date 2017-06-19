@@ -1,21 +1,21 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "Sturdy metal panelling that has been rusted with age."
+  "value" : "堅固的金屬鑲板，隨著時間而生鏽。"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Eager. I am sure with some elbow grease, this metal panelling could be cleared up."
+  "value" : "急切。我確定用一些肘部潤滑油可以清理這個金屬面板。"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "Floran wantsss to make ssspears out of rusty metal."
+  "value" : "葉族想要~用生鏽的金屬來做長~~矛。"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "Some 'ol metal panels covered in rust."
+  "value" : "一些被鏽覆蓋的金屬板。"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Rusty Panel"
+  "value" : "生鏽的面板"
 } ]
