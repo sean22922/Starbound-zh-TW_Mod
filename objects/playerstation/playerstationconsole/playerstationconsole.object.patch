@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A console for monitoring the conditions inside an orbiting station."
+  "value" : "一個用來監視軌道太空站內部狀況的控制台"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Space Station Console"
+  "value" : "太空站控制台"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "This advanced console can monitor every area of a station."
+  "value" : "這個進階的控制台可以監視太空站的每一個區域"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "A terminal for monitoring the conditions inside a station."
+  "value" : "一個用來監視太空站內部狀況的終端機"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "Fancy ssspace station computer terminal."
+  "value" : "花俏的太空站電腦終端機"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Interested. This terminal is able to interconnect itself through a stations many components."
+  "value" : "有意思。 這個終端機能夠通過站點互相連接許多組件"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "This advanced terminal is designed to keep track of space station conditions."
+  "value" : "這個進階的終端機是設計用來持續追蹤太空站狀況的"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "This terminal is made to control systems inside a space station."
+  "value" : "這個終端機的作用是控制太空站內的系統"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "A fancy computer for adjustin' systems inside a station."
+  "value" : "一個花俏的太空站電腦終端機用來調整太空站內的系統"
 } ]
