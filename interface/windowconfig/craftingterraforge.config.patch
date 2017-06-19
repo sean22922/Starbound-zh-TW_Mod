@@ -1,17 +1,17 @@
 [ {
   "op" : "replace",
   "path" : "/paneLayout/windowtitle/title",
-  "value" : "  Terraforge"
+  "value" : "  地形轉換器合成台"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/windowtitle/subtitle",
-  "value" : "  Create terraformers for transforming entire planets!"
+  "value" : "  製造可以用來轉換整個星球地形的地形轉換器!"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/lblSchematics/value",
-  "value" : "^#b9b5b2;SCHEMATICS"
+  "value" : "^#b9b5b2;原理圖"
 }, {
   "op" : "replace",
   "path" : "/paneLayout/lblProducttitle/value",
-  "value" : "^#b9b5b2;PRODUCT"
+  "value" : "^#b9b5b2;產品"
 } ]
