@@ -1,53 +1,53 @@
 [ {
   "op" : "replace",
   "path" : "/gui/windowtitle/title",
-  "value" : "  Planetary Terraformer"
+  "value" : "  星球地形轉換器"
 }, {
   "op" : "replace",
   "path" : "/gui/windowtitle/subtitle",
-  "value" : "  ^#b9b5b2;Transform the whole planet using Essence!"
+  "value" : "  ^#b9b5b2;使用古代能轉換整顆星球!"
 }, {
   "op" : "replace",
   "path" : "/gui/lblCurrentStatus/value",
-  "value" : "Waiting for status..."
+  "value" : "等待狀態..."
 }, {
   "op" : "replace",
   "path" : "/gui/lblEssenceLabel/value",
-  "value" : "^green;ESSENCE^white;"
+  "value" : "^green;古代能量^white;"
 }, {
   "op" : "replace",
   "path" : "/statusMessages/worldComplete",
-  "value" : "^gray;World terraforming complete."
+  "value" : "^gray;世界地形轉換完成"
 }, {
   "op" : "replace",
   "path" : "/statusMessages/connecting",
-  "value" : "^yellow;Connecting to terraformer..."
+  "value" : "^yellow;正在連接至地形轉換器..."
 }, {
   "op" : "replace",
   "path" : "/statusMessages/active",
-  "value" : ""^yellow;Terraforming in progress..."
+  "value" : ""^yellow;地形轉換中..."
 }, {
   "op" : "replace",
   "path" : "/statusMessages/insufficientEssence",
-  "value" : "^red;Insufficient Essence!"
+  "value" : "^red;古代能量不足!"
 }, {
   "op" : "replace",
   "path" : "/errorMessages/needSurface",
-  "value" : "Must be placed on a planet surface!"
+  "value" : "必須放置在星球地表!"
 }, {
   "op" : "replace",
   "path" : "/errorMessages/tooClose",
-  "value" : "Too close to another active terraformer!"
+  "value" : "太接近其他在運作的地形轉換器了!"
 }, {
   "op" : "replace",
   "path" : "/errorMessages/alreadyActive",
-  "value" : "Terraforming already in progress!"
+  "value" : "已經在進行地形轉換!"
 }, {
   "op" : "replace",
   "path" : "/errorMessages/worldComplete",
-  "value" : "Planet already fully terraformed!"
+  "value" : "星球地形早已完全轉換!"
 }, {
   "op" : "replace",
   "path" : "/errorMessages/noExpansion",
-  "value" : "Target size must be larger than current size!"
+  "value" : "目標大小必須大於目前大小!"
 } ]
