@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "Equip and customise your personal mech!"
+  "value" : "裝備並自定義你的個人機甲!"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Mech Assembly Station"
+  "value" : "機甲組裝台"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "With this station I could assemble components into a working mech suit."
+  "value" : "有了這個組裝台我就可以把部件組裝成一個能夠使用的機甲"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "This station is made for piecing together large mech vehicles."
+  "value" : "這個組裝台是用來組裝大型機甲載具的"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "Floran could make big mech with thisss station."
+  "value" : "葉族人可以用這個組裝台做一個大機甲"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Astonished. This advanced assembly station is designed to make mech suits."
+  "value" : "令人驚訝。 這個進階的組裝台是設計成用來製作機甲的"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "This station is for building and outfitting mech suits."
+  "value" : "這個組裝台是用來建造並裝飾機甲用的"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "This terminal is for customizing and outfitting mech vehicles."
+  "value" : "這個終端是用來自定義並裝飾機甲載具用的"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "This station'll let me put together a mech any way I like."
+  "value" : "這個組裝台可以依我喜好來組裝一個機甲"
 } ]
