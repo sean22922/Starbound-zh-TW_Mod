@@ -1,65 +1,65 @@
 [ {
   "op" : "replace",
   "path" : "/gui/windowtitle/title",
-  "value" : "Station Transponder Configuration"
+  "value" : "太空站呼叫器配置"
 }, {
   "op" : "replace",
   "path" : "/gui/windowtitle/title",
-  "value" : "^#b9b5b2;Configure and launch your station deployment probe"
+  "value" : "^#b9b5b2;配置和啟動你的太空站部署探測器"
 }, {
   "op" : "replace",
   "path" : "/gui/connectingLabel/value",
-  "value" : "Connecting to S.A.I.L..."
+  "value" : "正在連接至S.A.I.L..."
 }, {
   "op" : "replace",
   "path" : "/gui/configure/children/configureLabel/value",
-  "value" : "Configuration"
+  "value" : "配置"
 }, {
   "op" : "replace",
   "path" : "/gui/configure/children/name/hint",
-  "value" : "Enter station name"
+  "value" : "輸入太空站名稱"
 }, {
   "op" : "replace",
   "path" : "/gui/configure/children/description/hint",
-  "value" : "Enter station description"
+  "value" : "輸入太空站敘述"
 }, {
   "op" : "replace",
   "path" : "/gui/configure/children/saveButton/caption",
-  "value" : "SAVE"
+  "value" : "儲存"
 }, {
   "op" : "replace",
   "path" : "/connect/connectText",
-  "value" : "^green;Connecting to S.A.I.L"
+  "value" : "^green;連接至S.A.I.L"
 }, {
   "op" : "replace",
   "path" : "/connect/failText",
-  "value" : "^red;Unable to establish high-bandwidth connection to S.A.I.L\nTry again from your ship"
+  "value" : "^red;無法建立高頻連線至S.A.I.L\n從你的飛船上再試一次"
 }, {
   "op" : "replace",
   "path" : "/connect/successText",
-  "value" : "^green;High-bandwidth connection established\nTransferring system data"
+  "value" : "^green;高頻連線已建立\n正在傳輸系統資料"
 }, {
   "op" : "replace",
   "path" : "/connectedText",
-  "value" : "^green;Link established"
+  "value" : "^green;連線已建立"
 }, {
   "op" : "replace",
   "path" : "/deployingText/dispatching",
-  "value" : "^green;Requesting probe dispatch"
+  "value" : "^green;要求部署探測器"
 }, {
   "op" : "replace",
   "path" : "/deployingText/traveling",
-  "value" : "^green;Probe dispatched.\nProbe approaching target orbit"
+  "value" : "^green;探測器已部屬\n探測器正在接近目標軌道"
 }, {
   "op" : "replace",
   "path" : "/deployingText/deploying",
-  "value" : "^green;Probe has reached target orbit.\nDeploying station"
+  "value" : "^green;探測器已抵達目標軌道\n正在部屬太空站"
 }, {
   "op" : "replace",
   "path" : "/deployingText/deployed",
-  "value" : "^green;Station deployed"
+  "value" : "^green;太空站已部屬"
 }, {
   "op" : "replace",
   "path" : "/deployingText/error",
-  "value" : "Error deploying probe. \nConnection lost..."
+  "value" : "部屬探測器時發生錯誤\n連線已遺失..."
 } ]
