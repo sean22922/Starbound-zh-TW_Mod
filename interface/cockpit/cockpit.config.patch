@@ -360,7 +360,7 @@
   "value" : "Readings indicate that the landing site is of unusual hue. Also, that it is a ^#999966;barren^white; location and would be suitable for construction."
 }, {
   "op" : "replace",
-  "path" : "/worldTypeDescription/ancientgateway/0",
+  "path" : "/visitableTypeDescription/ancientgateway/0",
   "value" : "An ^#571cff;Ancient Gateway^white; of unknown provenance; an edifice of great power and mystery."
 }, {
   "op" : "replace",
@@ -516,7 +516,7 @@
   "value" : "Small Meteorites"
 }, {
   "op" : "replace",
-  "path" : "/displayWeathers/largemetor/displayName",
+  "path" : "/displayWeathers/largemeteor/displayName",
   "value" : "Large Meteorites"
 }, {
   "op" : "replace",
