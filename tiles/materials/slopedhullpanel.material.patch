@@ -1,21 +1,21 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "Cheap, resilient panelling widely used for ship and station construction."
+  "value" : "便宜，被廣泛應用在飛船跟車站建設上的彈性鑲板。"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Observant. This is panelling widely used for ship and station construction."
+  "value" : "細心的。這是被廣泛應用在飛船跟車站建設上的鑲板。"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "Shiny sssmooth space metal."
+  "value" : "閃亮光~~滑的宇宙金屬。"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "Some thick metal plating, looks mighty solid."
+  "value" : "一些厚厚的金屬板，看起來很硬。"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Hull Panel"
+  "value" : "船體面板"
 } ]
