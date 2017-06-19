@@ -1,21 +1,21 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A somewhat inexpensive material that can withstand most weathering."
+  "value" : "一種價格便宜的材料，可以承受大多數的風化。"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Observant. This somewhat inexpensive material can withstand most weathering."
+  "value" : "細心的。這種價格便宜的材料，可以承受大多數的風化。"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "This sspace-metal looks ssstrong."
+  "value" : "這個宇~宙金屬看起來很強~~大."
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "A sturdy lookin' metal panel."
+  "value" : "堅固的外觀金屬面板."
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Inset Panel"
+  "value" : "插入面板"
 } ]
