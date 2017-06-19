@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "This door is made of some sort of bulletproof material. It has a composite rail running through it."
+  "value" : "這扇自動門是用某種防彈的材料做成的。 裡面有一個軌道從中間穿過"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Rail Airlock Hatch"
+  "value" : "軌道氣密閘門"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "An airlock with a rail."
+  "value" : "一個有軌道的氣密閘"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "An airlock with a rail running through it."
+  "value" : "一個有軌道穿過的氣密閘"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "It'ss an airlock with railsss."
+  "value" : "這是一個有軌道在裡面的氣密閘"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Appreciative. A sturdy airlock with a rail running through it."
+  "value" : "令人欣賞。 一個強壯的氣密閘,裡面有軌道穿過"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "An airlock that includes a rail. Useful!"
+  "value" : "一個氣密閘包含了軌道。 實用!"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "A basic airlock for rail systems."
+  "value" : "一個使用軌道系統的基本氣密閘"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "Looks like an airlock with rails running through the middle."
+  "value" : "看起來像一個有軌道從中間穿過的氣密閘"
 } ]

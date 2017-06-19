@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "This automated door is made of some sort of bulletproof material."
+  "value" : "這扇自動門是用某種防彈的材料做成的"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Large Airlock Hatch"
+  "value" : "大型氣密閘門"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "An airlock."
+  "value" : "一個氣密閘"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "An airlock."
+  "value" : "一個氣密閘"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "It'ss an airlock."
+  "value" : "這是一個氣密閘"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Appreciative. A sturdy airlock."
+  "value" : "令人欣賞。 一個強壯的氣密閘"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "An airlock. Useful!"
+  "value" : "一個氣密閘。 實用!"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "A basic airlock."
+  "value" : "一個基本的氣密閘"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "Looks like a airlock."
+  "value" : "這看起來像一個氣密閘"
 } ]
