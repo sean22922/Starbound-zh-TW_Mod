@@ -1,37 +1,37 @@
 [ {
   "op" : "replace",
   "path" : "/description",
-  "value" : "A port which modular station expansion pieces can be attached to."
+  "value" : "一個可以連接太空站擴充模組的端口"
 }, {
   "op" : "replace",
   "path" : "/shortdescription",
-  "value" : "Expansion Slot"
+  "value" : "擴充槽"
 }, {
   "op" : "replace",
   "path" : "/apexDescription",
-  "value" : "This port is used for adding additional modules to a space station."
+  "value" : "這個端口是用來給太空站添加額外模組的"
 }, {
   "op" : "replace",
   "path" : "/avianDescription",
-  "value" : "This terminal is for managing the expansion modules for this station."
+  "value" : "這個終端是用來變更這個太空站的擴充模組"
 }, {
   "op" : "replace",
   "path" : "/floranDescription",
-  "value" : "Computersss can attach more spacesss to the station."
+  "value" : "電腦可以為太空站連接更多空間"
 }, {
   "op" : "replace",
   "path" : "/glitchDescription",
-  "value" : "Observant. This terminal type can be used attach a variety of interior modules to the station."
+  "value" : "細心。 這個種類的終端可以用來連接各種內部模塊到太空站"
 }, {
   "op" : "replace",
   "path" : "/humanDescription",
-  "value" : "An expansion port, there's a bunch of different station modules which can be attached to it."
+  "value" : "一個擴充端口,可以連接這裡一大堆不同種類的太空站模組"
 }, {
   "op" : "replace",
   "path" : "/hylotlDescription",
-  "value" : "This panel can be used to expand the station's interior."
+  "value" : "這個面板可以用來擴充太空站內部"
 }, {
   "op" : "replace",
   "path" : "/novakidDescription",
-  "value" : "Some fancy computers for making the station even bigger."
+  "value" : "一些可以讓太空站內部擴大的花俏電腦"
 } ]
