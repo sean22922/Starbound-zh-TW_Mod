@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A halogen sign for the Letheia corporation."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Letheia Corp Sign"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A bright corporate-looking sign."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This is a very angular sign."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Sssign is very ssslanted."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. This appears to be sign for some sort of brand, or company."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A sign for the Letheia Corporation, a conglomerate company with a lot of money to spare."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A sign for the Letheia Corporation, a well known Hylotl-ran company."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "It's a little gaudy for a sign, ain't it?"
+} ]

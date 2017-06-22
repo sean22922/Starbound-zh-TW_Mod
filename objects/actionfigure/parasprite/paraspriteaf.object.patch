@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "The label reads, \"A braindead bioweapon created by irresponsible human scientists.\""
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Parasprite Figurine"
+} ]

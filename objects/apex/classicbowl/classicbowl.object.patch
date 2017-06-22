@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A fine china bowl."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Classic Bowl"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A fine china bowl. The Apex are usually given bowls made of plastic."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "Avians traditionally eat only from plates."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran try to eat food freshh from kill."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Mischievous. The sound of a thrown bowl is most satisfying."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Pretty fancy kitchenware."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The Hylotl are also masters of fine china."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This pretty bowl's so clean I can see my reflection."
+} ]

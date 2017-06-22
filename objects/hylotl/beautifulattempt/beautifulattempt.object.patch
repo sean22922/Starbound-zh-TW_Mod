@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An arcade machine with an interactive narrative game."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Beautiful Attempt! Machine"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A brightly coloured arcade machine, what sort of game is this?"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The game on this bright arcade machine seems like it could be relaxing."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss arcade machine isss colourful like a flower."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Confused. Games of this type have an unclear objective."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This bright machine has a popular Hylotl game on it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This one is a classic, every Hylotl knows all the endings."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This arcade machine is mighty pretty lookin'."
+} ]
