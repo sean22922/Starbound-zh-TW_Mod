@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Use this pressure plate wisely."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ancient Pressure Plate"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "I wonder what mechanical wonders this pressure plate could connect to."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "Pressure tiles like this are common in Avian tombs."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Careful. Sssmallest step could trigger this plate."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. This tile could be used to trigger any number of things."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Stepping on this old tile could trigger a trap!"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I've seen tiles like this used in ancient traps."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This tile looks like it could be rigged up to somethin'."
+} ]

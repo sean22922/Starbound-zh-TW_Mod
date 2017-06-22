@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A huge shattered mural.A huge shattered mural."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ancient Mural"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "The glowing glyphs on this mural give off a cold light. I wonder how old it is?"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I have a strange feeling that I'm the first person to see this in a long time."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran hasss no time for big words."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Discontent. This fragmented plaque has impossibly ancient inscriptions upon it."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "There's something exciting about ancient glowing writing. I wonder what it says?"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I wonder if this plaque was placed here so that I would find it? I shiver at the thought."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Have I seen this before? Naw, I must be imaginin' things."
+} ]

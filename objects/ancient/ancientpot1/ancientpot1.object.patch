@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This ancient pot is in remarkable shape considering how old it is."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ornamental Ancient Pot"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "Whatever is inside this ancient pot has been long forgotten."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I don't think this pot is ceremonial in nature. I wonder what could be inside."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Ancient potss need ssmashing."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Amazed. This ancient pot has managed to survive the ravages of time."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This pot looks ancient! Maybe there's something still inside it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I wonder what ancient treasures could be inside this old pot."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Almost a shame to bust up a pot so old..."
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Who knows what it might activate... just press it!"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Small Wall Button"
+} ]

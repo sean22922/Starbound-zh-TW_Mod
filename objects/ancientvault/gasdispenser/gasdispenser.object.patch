@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Dispenses gas"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Gas Dispenser"
+} ]

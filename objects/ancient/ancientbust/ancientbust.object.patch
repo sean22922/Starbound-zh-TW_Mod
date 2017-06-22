@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An ancient bust representing the Cultivator. The orb it holds produces light."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ancient Bust"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This ancient statue's light still seems to be working fine."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "It appears this statue depicts a powerful ancient race."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran likess spaceman glowing light."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Facinated. This ancient statue still has a functioning light attached."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This old statue is still giving off light. Whoever made this knew what they were doing."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The light from this ancient statue casts an eerie ambiance."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "How 'bout that. I can't believe this ol' light is still workin'."
+} ]

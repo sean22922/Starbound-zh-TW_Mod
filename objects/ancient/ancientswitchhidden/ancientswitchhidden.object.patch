@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This tile looks different from the rest."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ancient Hidden Switch"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This tile appears to be loose."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This tile is a bad fit."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Tile wobble."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. A slightly out of place tile."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A rattling tile."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A strange tile."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "There's somethin' wrong with this tile."
+} ]

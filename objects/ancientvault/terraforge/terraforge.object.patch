@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A massive ancient machine. What could it be used for?"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Terraforge"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This massive ancient machine hums with mysterious energy."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This ancient machine is still operational!"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Ancient machine sparkss with energy."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Astounded. This machine is ancient, yet still operational."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This ancient machine seems powered by some mysterious energy."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "There's elegance in this ancient machine's design... Clearly master craftsmanship."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This here machine looks ancient, and still seems to be workin'."
+} ]
