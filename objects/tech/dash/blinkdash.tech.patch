@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A dash that blinks past traps and enemies! Cooldown: 2.5s"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Blink Dash"
+} ]

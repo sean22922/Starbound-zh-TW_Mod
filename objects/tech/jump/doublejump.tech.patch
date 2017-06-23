@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An additional jump that can be used while in the air!"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Pulse Jump"
+} ]
