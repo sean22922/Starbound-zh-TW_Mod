@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A shipping crate, designed to ship space goods."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Crate"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This crate looks very sturdy, and has a fair amount of storage space inside."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This metal crate could hold goods quite securely."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss metal crate is designed to carry space suppliesss."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Observant. This simple industrial crate is designed for space transport."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "An industrial looking shipping crate, I've seen these inside ships and stations."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I'm not sure what these markings mean, but it's clear this crate is designed for transporting space goods."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A metal crate, made for holdin' space supplies."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A solid metal chair with only the slightest bit of padding."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Chair"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This chair looks like it is cheap to mass-produce, but may be a little uncomfortable."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I don't think I'd like to rest my feathers for too long on this stiff chair."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Chair looksss heavy. Floran could ssstill throw it!"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Uncomfortable. This chair looks like it was made for efficient production rather than comfort."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "You'd think with all this spacefaring technology, people would figure out how to make consistently comfy chairs."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A chair this uncomfortable could not have been made accidentally."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "It ain't the comfiest of seats, but I could relax on this if I tried hard enough."
+} ]

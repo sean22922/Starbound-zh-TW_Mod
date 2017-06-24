@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A sign with an image of a gun, indicating a weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Weapons Station Sign"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This sign is meant to indicate a weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This sign denotes a weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss sign is meant to indicate a weapons ssstation."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Informed. The image of this symbol is meant to indicate a weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A sign which marks a weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Signs like this usually mean there is a nearby weapons station."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Reckon this sign means there's meant to be a weapons station 'round here."
+} ]

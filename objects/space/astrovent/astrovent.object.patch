@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An artificial atmospheric system exhaust port."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Vent"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "An exhaust pipe."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This appears to be some sort of exhaust port."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Pipe is to sssmall for Floran to hide inside."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Observant. Exhaust vents like these are usually found on ships and stations in space."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Appears to be an exhaust vent."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This is a vent of some kind I believe."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Stuff some weapons in that vent an' it'd probably make a decent cannon."
+} ]

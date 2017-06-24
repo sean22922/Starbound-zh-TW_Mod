@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A metal wall light which emits a sickly orange glow."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Light"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This light gives off an orange glow. It appears to be fairly cheaply produced."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This light gives off an orange glow, but it isn't warm like a sun."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran wants to sssmash light, but Floran will be polite inssstead."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Analytical. This light has been built to be able to power itself for a very long time."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "An unpleasant orange light. I wonder how long the bulb lasts?"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The orange glow of this light reminds me of the ember corals commonly seen on ocean floors."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This light ain't quite as bright as I am!"
+} ]

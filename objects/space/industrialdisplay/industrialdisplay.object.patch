@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A display which appears to be connected to some sort of radar."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Display"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This display shows some sort of radar. I wonder if it is important intel?"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The green radar on this screen is hypnotic..."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Glasss isss flashing green. Good colour."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Intrigued. I wonder where the information on this display is coming from."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This looks like it might be important, but really I have no idea."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I wonder what the purpose of this display is?"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "The flashin' light on this here glass must mean somethin' t'someone."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A vent typically used for keeping the air clean aboard space stations."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Ceiling Vent"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A vent. It is beneficial to maintain air cleanliness."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I suppose this is used to help clean the air."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Vent too sssmall for Floran to hide in."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. I wonder if Glitch lungs work similar to this vent."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "It's the end of a vent. I'm not sure I could fit inside."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "An ugly device to keep air clean from pollution. At least it is for a noble cause."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A big ol' metal ceilin' vent."
+} ]

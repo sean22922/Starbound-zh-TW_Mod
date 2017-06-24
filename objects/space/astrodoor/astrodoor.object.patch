@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This door forms an airtight seal when closed."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Door"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "Doors like these are designed to seal sections of ships or stations."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This door is designed to survive the harshness of space."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Space door can ssslide open and closed."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. This door design was once popular in ship and station construction."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This modern door can create an airtight seal to contain atmosphere."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This modern door type is sleek and responsive."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This fancy lookin' door looks like it'd stand up t'about anything."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An old metal computer tower. Untidy cables hang out of its back."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Computer"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This console has many buttons and levers. I'm sure I could understand it with an instruction manual."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This computer shows lots of tiny green text. I wonder what it's for?"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Box hasss green words on it. Green isss good colour. Floran approvesss."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Intrigued. This screen shows a lot of information - I wonder what it is all for?"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "I wonder why all the text on this computer display is green? Is it a stylistic choice?"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This computer is much larger than it needs to be. Hylotl engineers could build something more compact."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This here box sure has a lot o' words on it, but I just ain't got the attention span t'keep up with it."
+} ]

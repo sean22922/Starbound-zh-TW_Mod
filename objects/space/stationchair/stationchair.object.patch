@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A curved, formal looking metal chair."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Chair"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A simple chair, made entirely out of metallic alloys."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A shiny silver chair."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran hasss no time for sssitting."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Impressed. This chair appears to be significantly stronger than the majority of chairs in the universe."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "I've seen a lot of chairs in my time, but this... Isn't my favourite."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A chair decorated with bands of colour that fit well together."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Yessir, that's a chair alright."
+} ]

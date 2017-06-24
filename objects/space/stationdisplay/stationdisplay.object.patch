@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A wall-mounted screen lit up with lots of blue text."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Display"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A wall-mounted screen lit up with lots of blue text."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The text on this screen is an icy cold blue."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran doesssn't care about blue sssign."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Intrigued. I wonder how much of the text on this screen is actually useful?"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "An angular screen, complete with infinitely scrolling blue text."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The cold blue lights remind me of rippling moonlight on the surface of a river."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "There sure is a lot of information on this. I ain't sure I'd be able to remember it all."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A cold metal table, built to survive turbulent trips."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Table"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This table looks very sturdy - I'd feel safe hiding under it during an earthquake."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "There isn't much to say about this cold, impersonal table."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Table looksss heavy."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Unimpressed. This table could use a little decoration."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "If you can't decide how to decorate a piece of furniture, the best solution isn't to put warning stripes on it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The shape of this table is so rigid. Where is the elegance?!"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Must take a blacksmith a whole day of hammerin' to make a table this flat!"
+} ]

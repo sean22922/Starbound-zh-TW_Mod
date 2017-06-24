@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A purple door with an eye, fit for an evil cult."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Cultist Door"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This large eye... Feels like I'm being watched."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The eye on this door is clearly some cultist symbolism."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "The eye on this door is clearly some cultist symbolism."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Unsettled. The large eye symbol on this door seems to gaze around."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This door has a large eye emblazoned on it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "The large eye symbol on this door is most unsettling."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Get the feelin' somethin' just ain't right about this door."
+} ]

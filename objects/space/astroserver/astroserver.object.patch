@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A large computer server rack, with brackets for floor mounting."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Server"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This server rack looks loaded with computer equipment."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A sleek looking server rack."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Fancy looking sserver cabinet full of computersss."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Amused. Most of the technology inside this server can now be contained inside a portable device."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This server looks like it's setup for something important."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "It appears this server is liquid cooled, that's smart."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Big 'ol computer. 'Bout the size of an outhouse."
+} ]

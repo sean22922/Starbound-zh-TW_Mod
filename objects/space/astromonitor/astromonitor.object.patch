@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A compact electronic display monitor."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Monitor"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This monitor seems designed to display important data."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I'm not sure I understand what all the buttons on this monitor control."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Ssspace screen is making strange words."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. The information on this display could be important."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This monitor is sort of an old design, but still kicking."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "I like it, a simple and functional monitor."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This display can likely show 'bout anything y'need to know."
+} ]

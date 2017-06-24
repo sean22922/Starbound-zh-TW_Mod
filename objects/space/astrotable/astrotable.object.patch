@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A solid, floor mounted working surface."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Table"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "An industrial looking table."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This table has a stripe painted on it."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Jusst a metal table."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Indifferent. This table is unremarkable."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This table is fixed to the floor, otherwise I think it might tip over."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A metal table which has been mounted to the floor."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A little table made from metal."
+} ]
