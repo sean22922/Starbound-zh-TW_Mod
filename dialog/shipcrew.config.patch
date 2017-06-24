@@ -1,405 +1,405 @@
 [ {
   "op" : "replace",
   "path" : "/converse/default/human/0",
-  "value" : "Hello there, fellow earthling! Wait, too soon?"
+  "value" : "哈囉，地球夥伴！等等，進展太快了嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/1",
-  "value" : "You aren't ex-USCM, are you? No? Phew."
+  "value" : "你不是前任的USCM成員吧？是？不是？哼。"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/2",
-  "value" : "Working on a ship can be a tough career, but it did mean I wasn't on Earth when... It happened."
+  "value" : "在船上工作可以是件苦差事，但這也表示當時我不在地球上...在那件事發生的時候。"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/3",
-  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+  "value" : "嘿，一個客人？我們這裡平時沒什麼人來！多待一會兒！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/4",
-  "value" : "Do you have your own ship? That's pretty cool!"
+  "value" : "你有自己的飛船？這實在太酷了！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/5",
-  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+  "value" : "哇，我、呃，沒預期到在這裡看到新人。"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/6",
-  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+  "value" : "難道你深入太空深處就只是為了見到我們？這太讚了！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/human/7",
-  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+  "value" : "歡迎你在這邊四處逛逛，但別亂動東西－我才剛整理好。"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/0",
-  "value" : "Hey, a visitor? We don't get many visitors way out here! Stay a while!"
+  "value" : "嘿，一個客人？我們這裡平時沒什麼人來！多待一會兒！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/1",
-  "value" : "Do you come in peace?"
+  "value" : "你是為了和平而來的嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/2",
-  "value" : "Do you have your own ship? That's pretty cool!"
+  "value" : "你有自己的飛船？這實在太酷了！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/3",
-  "value" : "Wow, I, uh, didn't expect to see anyone new around here."
+  "value" : "哇，我、呃，沒預期到在這裡看到新人。"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/4",
-  "value" : "Did you come all the way out into deep space just to meet us? That's awesome!"
+  "value" : "難道你深入太空深處就只是為了見到我們？這太讚了！"
 }, {
   "op" : "replace",
   "path" : "/converse/default/default/5",
-  "value" : "You're welcome to stick around for a while, but don't make a mess - I just finished tidying."
+  "value" : "歡迎你在這邊四處逛逛，但別亂動東西－我才剛整理好。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/0",
-  "value" : "Greetings, fellow Apex! I hope you have also escaped the gaze of the Miniknog."
+  "value" : "各位猿族們，你好！我希望你們也逃出迷你克諾格的監視。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/1",
-  "value" : "You aren't an undercover Miniknog inspector, are you?"
+  "value" : "你不是從迷你克諾格來的臥底，對吧？"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/2",
-  "value" : "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape."
+  "value" : "在太空船上的生活比起活在老大猿的暴政下來的好太多了。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/3",
-  "value" : "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog."
+  "value" : "比起回到我的母星，生活在迷你克諾格的暴政下，我比較想待在這維護船貨。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/4",
-  "value" : "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down."
+  "value" : "我盡量過這平靜的生活－或許這樣迷你克諾格就不會跟監我。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/apex/5",
-  "value" : "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+  "value" : "當你花太多時間在維護太空船時，就很難維持住鬍子。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/default/0",
-  "value" : "Are you a member of the Terrene Protectorate? We used to deliver shipments for them, until... Recently."
+  "value" : "你是Terrene保護區的成員嗎？我們以前為他們送貨直到...最近。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/default/1",
-  "value" : "A life on a spacefaring vessel is a better life than oppression under the rule of Big Ape."
+  "value" : "在太空船上的生活比起活在老大猿的暴政下來的好太多了。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/default/2",
-  "value" : "I would rather be here maintaining cargo than on my home planet, living under the rule of the Miniknog."
+  "value" : "比起回到我的母星，生活在迷你克諾格的暴政下，我比較想待在這維護船貨。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/default/3",
-  "value" : "I'm trying to live a quiet life - maybe this way the Miniknog won't track me down."
+  "value" : "我盡量過這平靜的生活－或許這樣迷你克諾格就不會跟監我。"
 }, {
   "op" : "replace",
   "path" : "/converse/apex/default/4",
-  "value" : "It is difficult to maintain a beard when you spend so long maintaining a spaceship."
+  "value" : "當你花太多時間在維護太空船時，就很難維持住鬍子。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/0",
-  "value" : "It is always calming to see a friendly, three-eyed face. Make yourself at home."
+  "value" : "這總是叫人平靜地看到一個友好的、三眼面孔。把這當作你家吧。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/1",
-  "value" : "I will always be welcoming to one of my own kind."
+  "value" : "我總是歡迎跟我的同族。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/2",
-  "value" : "Maintaining the integrity of the hull is an important priority aboard this ship."
+  "value" : "維持船殼的完整是這艘船的重點。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/3",
-  "value" : "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean."
+  "value" : "在星際間航行讓我感覺像是一條魚在一個廣大、無邊無際的海洋裡巡游。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/4",
-  "value" : "When you fly your ship out into the great unknown... There is no feeling like it, is there?"
+  "value" : "當你飛進一個廣闊的未知地帶...沒有任何感覺能比的上，對吧？"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/5",
-  "value" : "Alone among stars.\nIn a sea of endless night.\nTogether we sail."
+  "value" : "獨自在星與星之間。\n在無盡的夜之海中。\n我們一起航行。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/hylotl/6",
-  "value" : "What do you think waits for us, out there in the stars?"
+  "value" : "你覺得在那些星星之中，會有什麼等著我們？"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/0",
-  "value" : "Maintaining the integrity of the hull is an important priority aboard this ship."
+  "value" : "維持船殼的完整是這艘船的重點。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/1",
-  "value" : "Sailing through the stars makes me feel like a fish swimming through a vast, endless ocean."
+  "value" : "在星際間航行讓我感覺像是一條魚在一個廣大、無邊無際的海洋裡巡游。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/2",
-  "value" : "When you fly your ship out into the great unknown... There is no feeling like it, is there?"
+  "value" : "當你飛進一個廣闊的未知地帶...沒有任何感覺能比的上，對吧？"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/3",
-  "value" : "Alone among stars.\nIn a sea of endless night.\nTogether we sail."
+  "value" : "獨自在星與星之間。\n在無盡的夜之海中。\n我們一起航行。"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/4",
-  "value" : "What do you think waits for us, out there in the stars?"
+  "value" : "你覺得在那些星星之中，會有什麼等著我們？"
 }, {
   "op" : "replace",
   "path" : "/converse/hylotl/default/4",
-  "value" : "What do you think waits for us, out there in the stars?"
+  "value" : "你覺得在那些星星之中，會有什麼等著我們？"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/0",
-  "value" : "Another Floran friend for Floran! Ssspace gets lonely, Floran should ssstay!"
+  "value" : "葉族的另一位葉族朋友！太太太空中很孤單，葉族應該留留留下！"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/1",
-  "value" : "Floran likesss new Floransss!"
+  "value" : "葉族喜喜喜歡新的葉族們們們！"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/2",
-  "value" : "Floran hasss steady job on ship! Floran jussst has to not eat anyone."
+  "value" : "葉族在船上有有有個穩定的工作！葉族只只只要別吃掉任何人。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/3",
-  "value" : "Floran secretly afraid of heights. Ship isss ssscary."
+  "value" : "葉族其實秘密地怕高。飛船很很很可怕怕怕。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/4",
-  "value" : "Floran doesssn't get to hunt much in ssspace. Sssad."
+  "value" : "葉族不不不能常常在太太太空中打獵。覺得難難難過。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/5",
-  "value" : "Did you come jussst to say hi to Floran?"
+  "value" : "你就只只只是來跟葉族說聲Hi嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/floran/6",
-  "value" : "Floran not made for ssspace travel. Floran always feeling sssick."
+  "value" : "葉族不是做太太太空旅行的料。葉族總是覺得不不不舒服。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/default/0",
-  "value" : "Floran hasss steady job on ship! Floran jussst has to not eat anyone."
+  "value" : "葉族在船上有有有個穩定的工作！葉族只只只要別吃掉任何人。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/default/1",
-  "value" : "Floran secretly afraid of heights. Ship isss ssscary."
+  "value" : "葉族其實秘密地怕高。飛船很很很可怕怕怕。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/default/2",
-  "value" : "Floran doesssn't get to hunt much in ssspace. Sssad."
+  "value" : "葉族不不不能常常在太太太空中打獵。覺得難難難過。"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/default/3",
-  "value" : "Did you come jussst to say hi to Floran?"
+  "value" : "你就只只只是來跟葉族說聲Hi嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/floran/default/4",
-  "value" : "Floran not made for ssspace travel. Floran always feeling sssick."
+  "value" : "葉族不是做太太太空旅行的料。葉族總是覺得不不不舒服。"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/0",
-  "value" : "Surprised. A fellow Glitch! My name is <selfname> - it's a pleasure to make your acquaintance."
+  "value" : "驚訝，一個機器人！我的名字是 <selfname> － 很高興認識你"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/1",
-  "value" : "Welcoming. Visitors here are rare, and fellow Glitch visitors are even rarer!"
+  "value" : "歡迎，訪客在這裡很稀有，而一個機器人訪客更是如此！"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/2",
-  "value" : "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust."
+  "value" : "滿意，這艘船低濕度的船艙環境利於避免生鏽。"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/3",
-  "value" : "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of clunkey jacks!"
+  "value" : "無聊，維護太空船是低心智活動的工作－我想玩clunkey jacks！"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/4",
-  "value" : "Exhausted. I think I frayed a few wires after moving heavy cargo around..."
+  "value" : "疲累。我覺得在移動沉重的貨物後我的幾條電線磨損了..."
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/glitch/5",
-  "value" : "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?"
+  "value" : "極為興奮。我不知道太空旅行已存在多年。這不是很令人興奮嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/default/0",
-  "value" : "Pleased. The low-moisture atmosphere on board this ship is good for preventing rust."
+  "value" : "滿意，這艘船低濕度的船艙環境利於避免生鏽。"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/default/1",
-  "value" : "Bored. Maintaining a spaceship is mind-numbing work - I want to play a game of chess!"
+  "value" : "無聊，維護太空船是低心智活動的工作－我想玩西洋棋！"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/default/2",
-  "value" : "Exhausted. I think I frayed a few wires after moving heavy cargo around..."
+  "value" : "疲累。我覺得在移動沉重的貨物後我的幾條電線磨損了..."
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/default/3",
-  "value" : "Overwhelmed. I didn't know space travel even existed for many years. Isn't it exciting?"
+  "value" : "極為興奮。我不知道太空旅行已存在多年。這不是很令人興奮嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/glitch/default/4",
-  "value" : "Eager. We don't get visitors often! Are you staying for long?"
+  "value" : "期望。我們不常有訪客！你會待很久嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/0",
-  "value" : "A fellow Avian! Hopefully the influence of the Stargazers does not spread this far..."
+  "value" : "一個翼族！希望觀星信徒的影響力沒擴散這麼大..."
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/1",
-  "value" : "Hello, my equally-feathered friend!"
+  "value" : "哈囉，跟我同有羽毛的朋友！"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/2",
-  "value" : "Welcome to our humble spacefaring vessel!"
+  "value" : "歡迎來到我們簡陋的航空船隻！"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/3",
-  "value" : "Welcome, stranger! How kind of you to visit."
+  "value" : "歡迎，陌生人！非常感謝你的光臨。"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/4",
-  "value" : "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain."
+  "value" : "我覺得在幫飛船加完燃料後有些液態Erchius滲到我的羽毛裡了...這會留下污漬。"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/5",
-  "value" : "My name is <selfname>. Are you visiting us for long?"
+  "value" : "我的名字是 <selfname>。 你會留下一段時間嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/avian/6",
-  "value" : "A visitor? I hope you've been screened for space parasites."
+  "value" : "一個訪客？我希望你已經篩檢過太空寄生蟲了。"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/default/0",
-  "value" : "Welcome to our humble spacefaring vessel!"
+  "value" : "歡迎來到我們簡陋的航空船隻！"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/default/1",
-  "value" : "Welcome, stranger! How kind of you to visit."
+  "value" : "歡迎，陌生人！非常感謝你的光臨。"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/default/2",
-  "value" : "I think I got liquid Erchius in my feathers after refueling the ship earlier... This will stain."
+  "value" : "我覺得在幫飛船加完燃料後有些液態爾切斯滲到我的羽毛裡了...這會留下污漬。"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/default/3",
-  "value" : "My name is <selfname>. Are you visiting us for long?"
+  "value" : "我的名字是 <selfname>。 你會留下一段時間嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/avian/default/4",
-  "value" : "A visitor? I hope you've been screened for space parasites."
+  "value" : "一個訪客？我希望你已經篩檢過太空寄生蟲了。"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/0",
-  "value" : "Hey, another shinin' face! Do you get them strange dreams about the stars as well, stranger?"
+  "value" : "嘿，另一個閃亮的面孔！你有沒有也夢過那些關於星星的怪夢，陌生人？"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/1",
-  "value" : "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!"
+  "value" : "我沒想到能在這艘老船上見到新面孔，夥計！"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/2",
-  "value" : "Welcome to our ol' rust bucket of a ship!"
+  "value" : "歡迎來到我們的老鐵桶！"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/3",
-  "value" : "You here for a bit o' tradin', or just comin' to see what all the fuss is about?"
+  "value" : "你是來這裡做點"小交易"，還是只是來看我們瞎忙的？"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/4",
-  "value" : "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance."
+  "value" : "你好，夥計！我叫 <selfname>， 很高興認識你。"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/5",
-  "value" : "Gettin' closer to the stars makes me sleep better. No idea why, though..."
+  "value" : "愈接近星星我就睡得愈好。不知道為什麼..."
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/novakid/6",
-  "value" : "You ever get the feelin' you were meant for somethin' bigger?"
+  "value" : "你是否有這種你是為了更偉大的東西而存在的感受？"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/0",
-  "value" : "I ain't think I was expectin' a new face up here on this ol' ship! Welcome, partner!"
+  "value" : "我沒想到能在這艘老船上見到新面孔，夥計！"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/1",
-  "value" : "Welcome to our ol' rust bucket of a ship!"
+  "value" : "歡迎來到我們的老鐵桶！"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/2",
-  "value" : "You here for a bit o' tradin', or just comin' to see what all the fuss is about?"
+  "value" : "你是來這裡做點"小交易"，還是只是來看我們瞎忙的？"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/3",
-  "value" : "Howdy there, partner! The name's <selfname>, pleasure t' make your acquaintance."
+  "value" : "你好，夥計！我叫 <selfname>， 很高興認識你。"
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/4",
-  "value" : "Gettin' closer to the stars makes me sleep better. No idea why, though..."
+  "value" : "愈接近星星我就睡得愈好。不知道為什麼..."
 }, {
   "op" : "replace",
   "path" : "/converse/novakid/default/5",
-  "value" : "You ever get the feelin' you were meant for somethin' bigger?"
+  "value" : "你是否有這種你是為了更偉大的東西而存在的感受？"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/0",
-  "value" : "Hey there, fella! How do you like our ship?"
+  "value" : "嗨，小夥子！你喜歡我們的船？"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/1",
-  "value" : "Well it's a lucky thing here that you fit on our ship, huh?"
+  "value" : "你很幸運能融入我們，哼？"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/2",
-  "value" : "I can't chat for too long - this bird's gotta grease some axels to keep us all afloat!"
+  "value" : "我不能聊太久 － 這隻鳥得潤滑一些輪軸好讓我們保持漂浮！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/3",
-  "value" : "This sure is the gig of a lifetime. A ship full of fine feathered folks like myself, and all the loot to boot!"
+  "value" : "這的確是一生中的輝煌時刻。一艘滿載跟我同樣長有細羽的族群，和滿倉的貨物可搶！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/4",
-  "value" : "You got that look in your eye like you're about to loot all our crates. Don't worry pal, I won't snitch."
+  "value" : "你的眼神看起來像是想洗劫我們所有箱子。別擔心夥伴，我不會告密。"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/5",
-  "value" : "You lookin' for friends? Nah, the glint in your eye says you're just here for some loot."
+  "value" : "你來交朋友嗎？才不，你眼裡的閃爍說你只是來偷東西的。"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/6",
-  "value" : "Hey, how'd you even fly out here? You got one of them space mechs?"
+  "value" : "嘿，你要怎麼離開這裡？你拿到他們的一套太空機甲嗎？"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/7",
-  "value" : "Don't bump your head on the ceiling, pal!"
+  "value" : "別讓你的頭撞到天花板，夥伴！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/8",
-  "value" : "I got some pals lookin' for mercenary work. You should get yourself some dubloons!"
+  "value" : "我這裡有些人正在找傭兵。你應該給自己賺點外快！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/9",
-  "value" : "You come here in a mech? I think we have some mech part blueprints on this ship, now I think about it..."
+  "value" : "你穿著機甲來到這裡？我想我們這艘船上有些機甲的部分藍圖，現在讓我想想..."
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/10",
-  "value" : "What's with all those angry asteroid lookin' things flyin' around? Things sure ain't how they used to be."
+  "value" : "那些到處亂飛看起來活像憤怒小行星的東西是什麼玩意兒？事物不像以前一樣了。"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/11",
-  "value" : "Don't think just 'cause you're taller than me that you got the drop on me!"
+  "value" : "別以為你"比我高"就能降落在我身上！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/12",
-  "value" : "They call me <selfname>. The name runs in the family."
+  "value" : "他們叫我 <selfname>。 這是個家族名字。"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/13",
-  "value" : "Bein' part of the crew of a cargo ship means there's a lot of liftin' to do. My flippers are tired already!"
+  "value" : "身為一艘貨船的船員意味著得做許多提起和放下的動作。我的鰭已經開始累了！"
 }, {
   "op" : "replace",
   "path" : "/converse/penguin/default/14",
-  "value" : "Hey there, ol' buddy ol' pal! ...We haven't met before, have we?"
+  "value" : "嘿，老兄弟老伙伴！...我們還沒見過面，對吧？"
 } ]
