@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into a fleshy abomination."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Fleshy Microformer"
+} ]

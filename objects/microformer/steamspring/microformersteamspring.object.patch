@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into an ice sheet threaded with odd, protruding steam pipes."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Steamy Microformer"
+} ]
