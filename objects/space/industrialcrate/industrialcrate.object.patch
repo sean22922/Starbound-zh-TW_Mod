@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A pressurised cargo crate, designed to withstand the conditions of space travel."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Crate"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A sturdy looking crate, illuminated by a set of dim red lights."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This crate looks like it would be difficult to destroy."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Doesss thisss box have red eyesss? Floran worried."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Impressed. The exterior of this crate is made to withstand extreme pressure. If only I was as tough as this..."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "I could pretend to be interested in how this crate looks, but really I just want to see what's inside."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This crate is designed to withstand extreme pressure. I wonder if a Hylotl helped design it?"
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "I'd have a hard time pryin' this tough ol' thing open by force."
+} ]

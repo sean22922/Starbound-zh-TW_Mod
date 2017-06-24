@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A tough automated door, reinforced to be able to survive intense intergalactic conditions."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Door"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This door could probably withstand an asteroid storm or two."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This door isn't very pretty but it's impressively sturdy."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran could break door with big enough ssspear."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Observant. Judging by how this door was engineered, I would conclude it is built for function over aesthetics."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "The red lights and hazard stripes on this door really add to that industrial look."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Whilst this door is impressively strong, it lacks the visual flair of traditional Hylotl handiwork."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "I think it'd take more than a few pistol slugs t' break down this here door."
+} ]

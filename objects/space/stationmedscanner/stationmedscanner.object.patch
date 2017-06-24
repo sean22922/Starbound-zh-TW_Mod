@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A bed which is designed to perform medical scans."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Medical Scanner"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This medical bed looks like a place I could rest a minute."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "Laying on this bed surrounded by these scanners would make me quite uncomfortable."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Fancy lightsss all around this metal bed."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. I wonder if this medical bed can account for Glitch anatomy."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Looks like some sort of medical scanner bed, but I guess it's still a place to lay down."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This medical bed was likely designed to assist doctors or researchers."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Some fancy lookin' bed surrounded by bright lights."
+} ]

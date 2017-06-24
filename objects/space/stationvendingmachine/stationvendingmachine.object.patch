@@ -1,0 +1,45 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A vending machine, there are some quality snacks in here."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Vending Machine"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This vending machine looks helpful, it could provide some necessary food supplies."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This machine looks like it has some supplies inside, and appears to be in working order."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Ssspace snacks!"
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. This vending machine seems in working order, it may have supplies."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "What luck having this vending machine here, I'm feeling a little hungry."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A vending machine, similar to those found inside Hylotl cities."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This machine is like a robot shopkeeper! I give it money and supplies come out."
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/title",
+  "value" : "Vending Machine"
+}, {
+  "op" : "replace",
+  "path" : "/interactData/paneLayoutOverride/windowtitle/subtitle",
+  "value" : "Tasty Snacks"
+} ]

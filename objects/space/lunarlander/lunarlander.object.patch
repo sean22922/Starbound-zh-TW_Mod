@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A legendary testament to early space travel."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Lunar Lander"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "I think this may be a replica, landers like this haven't been used in a long time."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A reminder that every journey begins with one small step..."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss lander is no bigger than a hut."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Amazed. Beings once trusted these primitive capsules in space."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "They don't make them like they used to."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Gazing at this can serve as a reminder of how far we've come in space exploration."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "I've seen outhouses with more room inside than this ol' lander."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A large rotating generator, or radar, or perhaps an engine..."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Pylon"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This seems to be an incredibly complex piece of machinery. I wonder what it actually does?"
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "What a delightful machine! I cannot identify its purpose, however."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran not sssure what ssspinning thing is."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Confused. This machine appears to be very important, but I cannot identify its purpose."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This piece of machinery is very big and important looking. Does it... Actually do anything?"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This unkempt machine doesn't appear to do anything immediately useful."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This certainly looks a splinter more complex than a steam engine, that's for sure..."
+} ]

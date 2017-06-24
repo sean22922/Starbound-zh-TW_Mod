@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A large, sleek automated hatch, made from the same materials found on the exterior of space stations."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Hatch"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A sleek metal hatch. I appreciate its pointed design."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This is a rather well-made metal hatch!"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Hatch looksss sharp. Floran consssidering hatch as potential weapon."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Reminiscent. The angled design of this hatch reminds me of traditional Glitch banners."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This hatch could probably take a few hits, to say the least."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A rather impressively made hatch. Surprisingly, I find myself approving of it."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This here hatch looks like it could last through a storm or two."
+} ]

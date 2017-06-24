@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A strange piece of ship. Looks like it might serve a purpose, but who really knows?"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ship Greeble 4"
+} ]

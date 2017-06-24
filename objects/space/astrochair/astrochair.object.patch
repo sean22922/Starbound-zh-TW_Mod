@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A modern chair design, commonly found inside spaceships."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Chair"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "Maybe sitting in this would help keep my back straight."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This chair has a very familiar design, though no Avian would build with materials like these."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Firm metal seat lookss uncomfortable."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. This seat is designed to support launch forces for space travellers."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This chair is the kind you'd find in a spaceship."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This sturdy chair is built to withstand launch forces."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This here chair is pretty solid, I can't even kick it over."
+} ]

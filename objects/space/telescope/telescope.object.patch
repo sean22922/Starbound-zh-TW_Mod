@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A scientific telescope, perfect for observing the stars."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astronomy Telescope"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This large telescope may allow me to see objects far away."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A telescope specially made for looking at the stars."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Telessscopes let Floran look closely at the stars."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Excited. This telescope is the perfect tool for inspecting the stars from afar."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This big telescope looks specially designed for stargazing."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Mirrors on telescopes like this have to be very precisely positioned."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A big ol' telescope, for lookin' at stars."
+} ]

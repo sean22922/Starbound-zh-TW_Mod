@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A cheap bed with a sturdy metal frame. It doesn't seem very comfortable."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Industrial Bed"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This bed looks like it was designed with structural integrity in mind instead of comfort."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This bed looks quite heavy..."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran might not ssssleep well in big metal bed."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Analytical. This bed appears to be able to withstand extremely turbulent movement."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "With a little extra padding this bed could actually be quite comfortable."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This bed looks horribly uncomfortable, but I'm not judgemental so I could still sleep in it."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This bed may look mighty stiff but luckily I'm an easy sleeper."
+} ]

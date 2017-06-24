@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A large container specialized for space transport."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Crate"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A standard space shipping crate."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This container is large, but that means lots of space to store things inside."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Big ssstriped metal box."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Interested. The metals used in this crate makes it strong, but quite light."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "An oversized shipping crate, this can store a lot inside."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A large shipping container, made for goods transport."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "I'd reckon you could store near anything this big ol' crate."
+} ]

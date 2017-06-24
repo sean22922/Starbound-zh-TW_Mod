@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A panel which is designed to attach to a space structure or ship."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Wall Panel"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "I'm not sure what this panel does, but it's interesting looking."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This panel must have a purpose, I'm just not sure what it is."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss round panel sticks on the wall."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Confused. I'm not sure what the function of this panel is."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This is a panel which attaches to the wall, can't really say more."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This industrial looking wall panel has some obscure purpose I'm sure."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Some sorta fancy wall panel. Dunno what it's used for."
+} ]

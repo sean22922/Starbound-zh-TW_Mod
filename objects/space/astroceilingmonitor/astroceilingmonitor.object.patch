@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Brackets are built into the base to attach this monitor to the ceiling."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Ceiling Monitor"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "There's something familiar about this display configuration."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "These fixtures keep this display mounted firmly."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Flasshy ceiling televission."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Pleased. This display arrangement is an efficient use of space."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Man, this is positioned great for leaning back."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This display is able to utilize little used space."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This screen is just hangin' there."
+} ]

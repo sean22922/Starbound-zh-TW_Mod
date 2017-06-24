@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A ceiling mounted utility lantern."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Light"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This lantern isn't flashy, but it's functional."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This electric lamp casts a faint yellow light."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Sspace pod casssts just a little bit of light."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. This light source is self-sustaining somehow."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This pod light provides just enough light to get around."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This lamp looks like it's air sealed, I imagine it would work well underwater."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This electric lamp burns brighter'n a campfire."
+} ]

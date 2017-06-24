@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A long industrial looking fluorescent light."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Wide Station Light"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This industrial light is quite large."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This light isn't very nice looking, and the light it casts is cold."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran dissslikes cold electric light."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Informed. These lights each have a compact power source built inside."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "Some big fluorescent lights, the kind seen in ships and stations."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A large fluorescent light, I wonder if it's waterproof."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A big ol' electric light."
+} ]

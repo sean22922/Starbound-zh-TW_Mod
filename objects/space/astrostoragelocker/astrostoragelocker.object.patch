@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "An astro panel storage locker."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Storage Locker"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "An airtight storage locker."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A metal wall locker."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Sstorage locker good for hiding thingss."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. Lockers like this often have large capacities."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A wall mounted storage locker."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "A simple looking storage locker."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Y'could stash a whole lotta somethin' into a locker like this."
+} ]

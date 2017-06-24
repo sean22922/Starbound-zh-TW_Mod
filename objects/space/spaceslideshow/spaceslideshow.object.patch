@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A screen displaying a series of space-themed photographs."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Space Slideshow"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This oversized screen shows images of deep space."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The resolution of these photos is incredible."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Ssserene pictures of space locations."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. These images are of specific locations in space, are they somehow connected?"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "With this screen I could watch space from the safety of a couch."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "This screen displays super high resolution photographs of space."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Jus 'bout the biggest television I ever seen, only has one channel though."
+} ]

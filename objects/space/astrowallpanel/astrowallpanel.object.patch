@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A panel designed for inside space environments."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Astro Wall Panel"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This wall panel is made from some sort of polymer."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "I'm not sure if panels like this serve a function."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Sssome kind of plastic panel."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Confused. The function of this panel is not understood."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "A space panel made from some plastics."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Panels designed like this were once common inside ships."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Some kinda plastic space panel."
+} ]

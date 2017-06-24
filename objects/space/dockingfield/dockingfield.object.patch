@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "This energy field can contain both atmosphere and artificial gravity."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Docking Field"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A space docking field, this energy contains the atmosphere inside."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "The energy in this docking field contains air and gravity inside."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "This crackling energy containsss air inside."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Informed. This field is a special energy type meant to contain atmosphere and artificial gravity."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This type of energy field can contain atmosphere and gravity inside space structures."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Docking fields like this are common in space, they make quite effective airlocks."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "This here energy field keeps air and gravity inside and space outside."
+} ]

@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A metal bar with with a smoothly polished surface."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Space Bar"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "This bar doesn't serve much purpose except a place to waste time."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "This bar is cold and industrial, but at least the stools seem comfortable."
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Thisss bar may be a good place for Floran to start fights..."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Uninterested. Most Glitch prefer a large table over a bar for drinking and celebration."
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "This bar is nice, but not much use without someone to tend it."
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Nothing like sitting beside some new faces at a bar to make friends."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "Looks t'me like a fine place to pull up a stool and rest a spell."
+} ]

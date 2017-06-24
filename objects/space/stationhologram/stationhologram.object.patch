@@ -1,0 +1,37 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "A flickering holographic display of an unidentified planet."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Station Hologram"
+}, {
+  "op" : "replace",
+  "path" : "/apexDescription",
+  "value" : "A hologram of a planet and a moon. The quality of the projection is questionable."
+}, {
+  "op" : "replace",
+  "path" : "/avianDescription",
+  "value" : "A hologram of a planet - a 3-dimensional image made of light!"
+}, {
+  "op" : "replace",
+  "path" : "/floranDescription",
+  "value" : "Floran can't throw blue ball, ball isss not real."
+}, {
+  "op" : "replace",
+  "path" : "/glitchDescription",
+  "value" : "Curious. I wonder what planet this hologram is depicting?"
+}, {
+  "op" : "replace",
+  "path" : "/humanDescription",
+  "value" : "I still wonder why all holograms are required to be blue. Is it a stylistic choice?"
+}, {
+  "op" : "replace",
+  "path" : "/hylotlDescription",
+  "value" : "Blue is truly the best colour for holographic projections."
+}, {
+  "op" : "replace",
+  "path" : "/novakidDescription",
+  "value" : "A floatin' image of a sky blue world."
+} ]
