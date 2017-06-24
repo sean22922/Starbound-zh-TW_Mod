@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : " Goods Trader"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : " Trade goods between stations for profit"
+}, {
+  "op" : "replace",
+  "path" : "/gui/btnBuy/caption",
+  "value" : "BUY"
+}, {
+  "op" : "replace",
+  "path" : "/gui/btnSell/caption",
+  "value" : "SELL"
+} ]

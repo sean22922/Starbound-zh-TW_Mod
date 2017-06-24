@@ -1,0 +1,17 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/lblOfferedTradeLabel/value",
+  "value" : "Currently offered trade:"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblTradeItemName/value",
+  "value" : "Scorched Core"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblKeyName/value",
+  "value" : "Vault Key"
+}, {
+  "op" : "replace",
+  "path" : "/gui/btnTrade/caption",
+  "value" : "Trade"
+} ]
