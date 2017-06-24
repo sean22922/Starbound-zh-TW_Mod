@@ -1,0 +1,25 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : " Weapon Upgrade Anvil"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : " Upgrade your weapons here!"
+}, {
+  "op" : "replace",
+  "path" : "/gui/essenceCostDescription/value",
+  "value" : "REQUIRED ESSENCE"
+}, {
+  "op" : "replace",
+  "path" : "/gui/btnUpgrade/caption",
+  "value" : "Upgrade"
+}, {
+  "op" : "replace",
+  "path" : "/gui/cancel/caption",
+  "value" : "Cancel"
+}, {
+  "op" : "replace",
+  "path" : "/gui/emptyLabel/value",
+  "value" : "You don't have any weapons that can be upgraded!"
+} ]

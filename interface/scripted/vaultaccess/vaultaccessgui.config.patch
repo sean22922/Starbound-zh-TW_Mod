@@ -1,0 +1,21 @@
+[ {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/title",
+  "value" : "Vault Gate"
+}, {
+  "op" : "replace",
+  "path" : "/gui/windowtitle/subtitle",
+  "value" : "An extradimensional sanctuary"
+}, {
+  "op" : "replace",
+  "path" : "/gui/closeVaultButton/caption",
+  "value" : "Close Vault"
+}, {
+  "op" : "replace",
+  "path" : "/gui/enterVaultButton/caption",
+  "value" : "Enter Vault"
+}, {
+  "op" : "replace",
+  "path" : "/gui/lblTimeDescription/value",
+  "value" : "TIME REMAINING:"
+} ]
