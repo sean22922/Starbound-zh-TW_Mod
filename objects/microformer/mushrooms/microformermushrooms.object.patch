@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into a patch of spongey fungus and giant toadstools."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Fungal Microformer"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into a beautiful crystalline rock garden."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Crystalline Microformer"
+} ]

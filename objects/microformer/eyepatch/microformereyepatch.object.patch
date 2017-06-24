@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into clumps of lidless eyeballs."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Ocular Microformer"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Transforms an area of a planet into a hive of alien invertebrates."
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Buggy Microformer"
+} ]
