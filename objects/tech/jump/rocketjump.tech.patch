@@ -1,9 +1,0 @@
-[ {
-  "op" : "replace",
-  "path" : "/description",
-  "value" : "Gives you a delayed air boost in any direction!"
-}, {
-  "op" : "replace",
-  "path" : "/shortdescription",
-  "value" : "Rocket Jump"
-} ]

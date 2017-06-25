@@ -1,9 +1,0 @@
-[ {
-  "op" : "replace",
-  "path" : "/description",
-  "value" : "Double tap ^green;[A]^white; or ^green;[D] ^white;to quickly dash! Cooldown: 0.8s"
-}, {
-  "op" : "replace",
-  "path" : "/shortdescription",
-  "value" : "Dash"
-} ]

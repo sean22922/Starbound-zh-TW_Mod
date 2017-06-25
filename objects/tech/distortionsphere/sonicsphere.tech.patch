@@ -1,9 +1,0 @@
-[ {
-  "op" : "replace",
-  "path" : "/description",
-  "value" : "Perform a sphere dash by holding ^green;[F] ^white;to transform!"
-}, {
-  "op" : "replace",
-  "path" : "/shortdescription",
-  "value" : "Sonic Sphere"
-} ]

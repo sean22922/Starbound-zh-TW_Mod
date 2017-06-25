@@ -1,9 +1,0 @@
-[ {
-  "op" : "replace",
-  "path" : "/description",
-  "value" : "Lets you slide and jump off vertical walls!"
-}, {
-  "op" : "replace",
-  "path" : "/shortdescription",
-  "value" : "Wall Jump"
-} ]

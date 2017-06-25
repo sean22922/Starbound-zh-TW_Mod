@@ -1,9 +1,0 @@
-[ {
-  "op" : "replace",
-  "path" : "/description",
-  "value" : "Turn into a sphere that can fit into smaller places! ^green;[F]"
-}, {
-  "op" : "replace",
-  "path" : "/shortdescription",
-  "value" : "Distortion Sphere"
-} ]
