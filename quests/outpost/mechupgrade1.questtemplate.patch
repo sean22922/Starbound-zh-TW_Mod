@@ -1,13 +1,13 @@
 [ {
   "op" : "replace",
   "path" : "/title",
-  "value" : "^orange;Parts and Labour"
+  "value" : "^orange;零件和勞動"
 }, {
   "op" : "replace",
   "path" : "/text",
-  "value" : "I'm working on a shiny new mech weapon, but I need some help gathering some pieces. If you could ^green;go into space^white; and ^green;find me 5^orange; salvaged interface chips^white; and ^green;10 ^orange;salvaged power couplings^white;, I think that'll be enough to finish it!"
+  "value" : "我正在做一個全新的機甲武器,可是我需要有人幫忙我去拿些碎片。 如果你能^green;到太空^white; 並幫我^green;找到5個^orange;廢棄的界面晶片^white;和^green;10個^orange;廢棄的電源耦合器^white;,我認為那樣就可以有足夠材料來完成它了!"
 }, {
   "op" : "replace",
   "path" : "/completionText",
-  "value" : "These parts are enough for me to finish my new ^orange;Missile Rack arm^white;! As a token of my appreciation, I've sent a copy of the ^green;blueprint^white; to the ^green;mech part crafting table^white; - you can go and make your own now!"
+  "value" : "這些部件足夠讓我完成這個^orange;飛彈發射器手臂^white;了! 為了表達我的感謝,我送了一份複製的^green;藍圖^white;到^green;機甲部件合成台^white; - 你可以到那裏並做一個屬於你自己的了!"
 } ]
