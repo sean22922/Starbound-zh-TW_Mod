@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Replaces the dash with a sprint which costs energy!"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Sprint"
+} ]

@@ -1,0 +1,9 @@
+[ {
+  "op" : "replace",
+  "path" : "/description",
+  "value" : "Turn into a sphere and move quickly across liquids! ^green;[F]"
+}, {
+  "op" : "replace",
+  "path" : "/shortdescription",
+  "value" : "Aqua Sphere"
+} ]
