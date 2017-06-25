@@ -1,25 +1,25 @@
 [ {
   "op" : "replace",
   "path" : "/title",
-  "value" : "^orange;Test Drive"
+  "value" : "^orange;試駕"
 }, {
   "op" : "replace",
   "path" : "/text",
-  "value" : "Hey there, friendo! I'm ^orange;Dr. Akaggy^white;, and I deal in robots! So I have this experimental ^green;modular space mech^white; in need of a test drive and my usual pilots are... Indisposed. Could you do me a favor and ^green;fly it through my test course^white;? \n\nJust ^green;talk to me when you're ready to go^white;!"
+  "value" : "哈囉,我的朋友!我是^orange;Dr. Akaggy^white;,而我處理機器! 所以我有這個實驗性的^green;太空機甲模塊^white;需要用來試駕,而我那不尋常的駕駛員他...不太舒服。你可以幫我個忙,然後把^green;它飛過我的實驗關卡嗎^white;?\n\n只要^green;你準備好了就跟我講一聲^white;!"
 }, {
   "op" : "replace",
   "path" : "/completionText",
-  "value" : "You made it back! That's not surprise in my voice, it's elation! As a reward, I can give you enough ^green;spare mech components^white; for you to deploy your own mech for space travel! Head over to that ^orange;mech assembly station^white; to customise it!"
+  "value" : "你成功回來了! 我的聲音裡並沒有包含驚訝的意思, 而是高昂的! 作為獎勵,我可以給你足夠的^green;備用機甲部件^white;讓你可以在太空旅行時部屬自己的機甲! 前往^orange;機甲組裝站^white;來自定它!"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/enterInstance",
-  "value" : "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange;test course^reset;"
+  "value" : "跟^orange;Dr. Akaggy^reset;講話來進入^orange;實驗關卡^reset;"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/findGoal",
-  "value" : "Complete the ^orange;mech test course^reset;"
+  "value" : "完成^orange;機甲實驗關卡^reset;"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/turnIn",
-  "value" : "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;"
+  "value" : "回去找^orange;Dr. Akaggy^reset;,他在^orange;中繼站^reset;"
 } ]

@@ -1,25 +1,25 @@
 [ {
   "op" : "replace",
   "path" : "/title",
-  "value" : "^orange;Advanced Test Drive"
+  "value" : "^orange;進階試駕"
 }, {
   "op" : "replace",
   "path" : "/text",
-  "value" : "I have a design for a new ^green;mech body^white; that fits you perfectly! I've also been making a more advanced test course in an asteroid field that, of course, needs a trial run. If you can ^green;get through the ^orange;advanced test course^green; with your own mech^white;, I can give you the blueprint. It's a win-win scenario, right?"
+  "value" : "我設計了一個全新的^green;機甲身體^white;而且它適合你! 我也在小行星地帶做了一些進階的試驗關卡,理所當然的,這需要先測試過。 如果你^green;可以用你自己的機甲通過^orange;這個進階的試驗關卡^white;,我就給你藍圖。 這是一個雙贏的局面,對吧?"
 }, {
   "op" : "replace",
   "path" : "/completionText",
-  "value" : "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;. Thanks again - it sure is helpful having a lab assistant!"
+  "value" : "你辦到了! 我猜我沒有安裝夠多的巨型鋸齒片。 我已經把^green;機甲機體的藍圖^white;送到^green;機甲部件的合成桌了^white;。 再一次的感謝 - 有個實驗室助理對我來說是很有幫助的!"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/enterInstance",
-  "value" : "Talk to ^orange;Dr. Akaggy^reset; to enter the ^orange; advanced test course^reset;"
+  "value" : "跟^orange;Dr. Akaggy^reset;說話以進入^orange;進階試驗關卡^reset;"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/findGoal",
-  "value" : "Complete the ^orange;advanced mech test course^reset;"
+  "value" : "完成^orange;進階試驗關卡^reset;"
 }, {
   "op" : "replace",
   "path" : "/scriptConfig/descriptions/turnIn",
-  "value" : "Return to ^orange;Dr. Akaggy^reset; at the ^orange;Outpost^reset;"
+  "value" : "回去找^orange;Dr. Akaggy^reset;,他在^orange;中繼站^reset;"
 } ]

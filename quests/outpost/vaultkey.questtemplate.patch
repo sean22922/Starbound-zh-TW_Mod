@@ -1,13 +1,13 @@
 [ {
   "op" : "replace",
   "path" : "/title",
-  "value" : "^orange;The Final Frontier"
+  "value" : "^orange;最後的邊疆"
 }, {
   "op" : "replace",
   "path" : "/text",
-  "value" : "The winds whisper of what you have done - you have ventured far, young one. But there are still doors you have yet to open. ^green;I can trade ^orange;keys^green; with you^white;, if you wish to ^green;open the ^orange;Ancient Gates^green; scattered among the stars^white;."
+  "value" : "我聽到風聲悄悄地跟我訴說了你所做的事 - 你冒險到很遠的地方,年輕人。 可是那仍然有門是你尚未開啟的。 ^green;我可以^white;跟你交換^green;鑰匙^orange;, 如果你想要^green;打開^orange;那些分散在星海之中的^white;古代遺跡的大門^green;的話^white;。"
 }, {
   "op" : "replace",
   "path" : "/completionText",
-  "value" : "I've arrived at an ^orange;Ancient Vault^white;! I wonder what secrets these ruins hide? I think I should take a look around..."
+  "value" : "我終於抵達一個^orange;古代遺跡^white;了! 我很好奇那些廢墟裡藏著什麼秘密? 我想我需要到處看看..."
 } ]
