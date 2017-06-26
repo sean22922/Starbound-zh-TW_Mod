@@ -2,6 +2,8 @@
   "version" : "2.0.1-pre",
   "author" : "sean22922&GitHub contributors",
   "description" : "Traditional Chinese Language Pack(Original Author:SCHsu01)",
-  "name" : "Taiwan_NO.1",
-  "friendlyName" : "正體中文(台灣)語言包"
+  "name" : "Starbound-zh-TW_Mod",
+  "friendlyName" : "繁體中文(台灣)語言包",
+  "steamContentId" : "954809997",
+  "link" : "steam://url/CommunityFilePage/954809997"
 }
